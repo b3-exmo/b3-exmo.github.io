@@ -1,0 +1,77 @@
+site_name: b3-exmo's notes
+
+theme:
+    name: 'material'
+    custom_dir: overrides
+    palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+    features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  # - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  # - pymdownx.superfences
+  # - pymdownx.details
+  # - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks
+  # - blog
+  # - rss:
+  #     match_path: blog/posts/.* 
+  #     date_from_meta:
+  #       as_creation: date
+  #     categories:
+  #       - categories
+  #       - tags
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+# nav:
+#   - Features:
+#     - Features/index.md
+#     - Folder 1: Features/Folder-1.md
