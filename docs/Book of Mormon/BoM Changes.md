@@ -41,6 +41,7 @@ Joseph asserts that Lamanites are “the former inhabitants” of this continent
 
 [Gospel Topics Essay: Book of Mormon and DNA Studies](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng&id=p4#p4)
 
+&nbsp;
 ## Godhead
 
 >_**38** Now Zeezrom saith again unto him: Is the Son of God the very Eternal Father?_

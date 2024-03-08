@@ -5,7 +5,7 @@ comments: true
 How do we discern between faith and cognitive bias?
 
 ## Overview of Biases
-Biases are not inherently bad. There is simply too much information in the world for us to ingest and process, then come to a reliable conclusion. We have no choice but to filter it, or else we’d never come to a conclusion on anything. Cognitive biases are ways out brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so we’ve categorized some of these filtering methods as cognitive biases.
+Biases are not inherently bad. There is simply too much information in the world for us to ingest and process, in order for us to come to a reliable conclusion. We have no choice but to filter it, or else we’d never come to a conclusion on anything. Cognitive biases are ways out brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so philosophically-minded folks have categorized some of these filtering methods as cognitive biases.
 
 We don’t have all information on everything. We must extrapolate and fill in gaps. We are prone to doing this improperly. This notion isn’t really anti-religious, by my understanding. More of philosophical, neither for nor against religion. Recognizing them is used for logical discourse on any topic.
 
@@ -83,7 +83,7 @@ Kerry Muhlestein is an LDS scholar, here sharing an explanation on confirmation 
 
 Other examples:
 
-- As long as God continues to help me find my car keys, I won't think about all the suffering in Israel and Ukraine. All is well in Zion. Zion prospers.
+- As long as God continues to help me find my car keys, I won't think about all the suffering in Palestine and Ukraine. All is well in Zion. Zion prospers.
 - Keep paying tithing because God has promised ‘blessings such that there shall not be room enough to receive them’, even though month after month we continue in financial struggles.
 
 More links:

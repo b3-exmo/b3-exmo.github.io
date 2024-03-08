@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Critical thinking/Cognitive Bias.md",
+                "file": "Prophets/Authority.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Critical thinking/Cognitive Bias.md",
+            "file": "Prophets/Authority.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Critical thinking/Cognitive Bias.md",
+            "file": "Prophets/Authority.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Critical thinking/Cognitive Bias.md"
+            "file": "Prophets/Authority.md"
           }
         }
       }
@@ -133,10 +133,12 @@
   },
   "active": "72794f91d80bc333",
   "lastOpenFiles": [
+    "Prophets/Restoration.md",
     "Prophets/Authority.md",
+    "Doctrines/Polygamy.md",
+    "Critical thinking/Cognitive Bias.md",
     "confirmation-bias.png",
     "Prophets/Brigham Young/Brigham Young.md",
-    "Prophets/Restoration.md",
     "Prophets/index.md",
     "Book of Mormon/BoM Changes.md",
     "TODO.md"
