@@ -43,3 +43,6 @@ Official LDS Newsroom opens this announcement by saying:
 [https://www.josephsmithpapers.org/](https://www.josephsmithpapers.org/) is part of this domain.
 
 Both The Church Historian’s Press and Joseph Smith Papers appear to be legitimate, LDS leadership-owned sources of information.
+
+https://faenrandir.github.io/a_careful_examination/
+

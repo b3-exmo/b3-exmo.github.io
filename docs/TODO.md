@@ -6,6 +6,7 @@ comments: true
 ## Functional
 
 - [x] Add comment sections
+- [ ] Book of Mormon Edition Changes
 
 ## Topics
 ### To be added

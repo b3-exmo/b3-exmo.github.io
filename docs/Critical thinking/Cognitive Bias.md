@@ -2,7 +2,6 @@
 comments: true
 ---
 # Cognitive Bias
-
 How do we discern between faith and cognitive bias?
 
 ## Overview of Biases
@@ -22,7 +21,6 @@ A quick example of where this is going:
 - Something bad happens to a former Mormon? Of course! The wicked will not prosper! They have forfeited real blessings from God.
 
 ### Confirmation bias
-
 ![[confirmation-bias.png]]
 
 > The confirmation bias is the tendency to listen more often to information that confirms our existing beliefs. Through this bias, people tend to favor information that reinforces the things they already think or believe.
@@ -43,7 +41,7 @@ A quick example of where this is going:
 
 Above copied from _[https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763](https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763)_
 
-  From the perspective of Mormonism, faith and confirmation bias are very difficult to distinguish.
+From the perspective of Mormonism, faith and confirmation bias seem very difficult to distinguish.
 
 ### Moroni's Promise
 >And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
@@ -90,8 +88,9 @@ Other examples:
 
 More links:
 
-[https://effectiviology.com/confirmation-bias/](https://effectiviology.com/confirmation-bias/)
+- [https://effectiviology.com/confirmation-bias/](https://effectiviology.com/confirmation-bias/)
 
-[https://www.globalcognition.org/confirmation-bias-3-cures/](https://www.globalcognition.org/confirmation-bias-3-cures/)
+ - [https://www.globalcognition.org/confirmation-bias-3-cures/](https://www.globalcognition.org/confirmation-bias-3-cures/)
 
-[https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
+- [https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
+

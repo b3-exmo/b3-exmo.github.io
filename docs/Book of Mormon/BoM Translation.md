@@ -1,18 +1,18 @@
 ---
 comments: true
 ---
-
 # Book of Mormon Translation
+## [Gospel Topic Essay on BoM translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation)
 
-## Gospel Topic Essay on BoM translation
-
-[https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation)
+The following quotes are all taken from this essay; source links (should) take you to the paragraph in question
 
 > *Joseph’s wife Emma insisted that, at the time of translation, Joseph “could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon.”*
 
-[Source](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng#note5)
+[Source](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng&id=p3#p3)
 
-This quotes Emma saying that JS couldn’t even write a letter properly; excerpt from Saints’ Herald, an early church newspaper. If LDS official sources can cite that, I can too.
+&nbsp;
+
+This quotes Emma saying that JS couldn’t even write a letter properly; excerpt from Saints’ Herald, an early church newspaper.
 
 Of the translation process, Oliver Cowdery says:
 
@@ -20,9 +20,11 @@ Of the translation process, Oliver Cowdery says:
 
 [Source](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng&id=p5#p5)
 
+&nbsp;
+
 Does “the inspiration of heaven” sound like using a seer stone to translate physical plates?
 
-Seer Stone, which was used for treasure hunting and scrying, conveniently was also useful for translating reformed Egyptian. Seems dubious that we could believe he could successfully do both with the same stone; my sensibilities are that he could do one or the other, and there’s plenty of records of him getting into shenanigans prior to receiving the plates.
+A Seer Stone, which was used for treasure hunting and scrying, conveniently was also useful for translating reformed Egyptian. Seems dubious that we could believe he could successfully do both with the same stone; my sensibilities are that he could do one or the other, and there’s plenty of records of him getting into shenanigans prior to receiving the plates.
 
 Quote:
 
@@ -39,6 +41,7 @@ No red flags here? Does none of this sound out of sorts?
 [Source](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng&id=p15#p15)
 
 So... Not "dictated by the inspiration of heaven?" Not only do we have no clear answer for the translation process, we now have multiple conflicting descriptions.
+
 Some, Most, Many, sounds like we'd really like to qualify these claims, doesn't it?
 
 &nbsp;
@@ -50,20 +53,22 @@ Were there plates? Was there a breastplate to which two stones were affixed? Was
 &nbsp;
 
 > *According to Emma, the plates “often lay on the table without any attempt at concealment, wrapped in a small linen table cloth.”*
-> [Source](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng&id=p16#p16)
+
+[Source](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation?lang=eng&id=p16#p16)
 
 Not concealed, except it was covered up.
 
-## Well, what happened?
+## Well, what's the problem?
 
-**This would not be upsetting to me** if I was told sooner, or if I was raised to believe that the BoM was given by revelation via a seer stone. This is upsetting because of all the lessons in Primary and YM and Seminary etc, that Joseph used physical, tangible plates— the same ones that Mormon engraved and Moroni buried— and translated them. In fact, I'm pretty sure that the Preach My Gospel manual I used on the mission had this exact depiction.
+**This would not be upsetting to me** if I was told sooner, or if I was raised to believe that the BoM was given by revelation via a seer stone. This is upsetting because of all the lessons in Primary and YM and Seminary etc, that Joseph used physical, tangible plates— the same ones that Mormon engraved and Moroni buried in New York (maybe)— and translated them. In fact, I'm pretty sure that the Preach My Gospel manual I used on the mission had this exact depiction.
 
+### Preach My Gospel
 Ooh, it's even better than that!
 The PDF of [the 2004 print edition](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/language-materials/36617_eng.pdf)shows the illustration of Joseph and, presumably Oliver, reading from three-ring bound plates.
 I found my wife's printed copy of PMG, and sure enough, there's the same illustration.
 Meanwhile, [the web edition](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p29#p29) accessible online, as well as the mobile Gospel Library app, have both omitted that illustration. 🤔
 
-Whenever I encountered the “rock-in-a-hat” method, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
+Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
 
 The issue is not the seer stone. The issue is that I didn’t find out until my late 20’s that it was a seer stone.
 
@@ -85,15 +90,15 @@ Oh, shut the fuck up.
 
 > *When Cowdery returned to Church membership in 1848 he spoke to an Iowa conference. His words there were recorded by Reuben Miller: “I wrote with my own pen the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet as he translated it by the gift and power of God by means of the Urim and Thummim, or as it is called by that book, holy interpreters. I beheld with my eyes and handled with my hands the gold plates from which it was translated. I also beheld the Interpreters. That book is true. … I wrote it myself as it fell from the lips of the Prophet.”*
 
-[By the Gift and Power of God](https://www.churchofjesuschrist.org/study/ensign/1977/09/by-the-gift-and-power-of-god?lang=eng&id=p10#p10), Ensign, Sept 1977
+[By the Gift and Power of God](https://www.churchofjesuschrist.org/study/ensign/1977/09/by-the-gift-and-power-of-god?lang=eng&id=p10#p10), Ensign Sept 1977
 
 &nbsp;
 
 > *Oliver Cowdery is reported to have testified in court that the Urim and Thummim enabled Joseph “to read in English, the reformed Egyptian characters, which were engraved on the plates” (“Mormonites,” Evangelical Magazine and Gospel Advocate, 9 Apr. 1831). If these reports are accurate, they suggest a process indicative of God’s having given Joseph “sight and power to translate”*
 
-[By the Gift and Power of God](https://www.churchofjesuschrist.org/study/ensign/1997/01/by-the-gift-and-power-of-god?lang=eng&id=p12#p12), Ensign, January 1977
+[By the Gift and Power of God](https://www.churchofjesuschrist.org/study/ensign/1997/01/by-the-gift-and-power-of-god?lang=eng&id=p12#p12), Ensign January 1977
 
-(Note: the above two have the same name, same year, different month, different content. Threw me off real good)
+(Note: the above two sources have the same name, same year, different month, different content. Threw me off real good)
 
 See the below heading, [[# A Treasured Testament - Elder Nelson, 1993]] as well.
 
@@ -101,7 +106,7 @@ See the below heading, [[# A Treasured Testament - Elder Nelson, 1993]] as well.
 
 > *These records were engraven on plates which had the appearance of gold. Each plate was six inches wide and eight inches long, and not quite so thick as common tin. They were filled with engravings, in Egyptian characters, and bound together in a volume as the leaves of a book, with three rings running through the whole. The volume was something near six inches in thickness, a part of which was sealed. The characters on the unsealed part were small, and beautifully engraved. The whole book exhibited many marks of antiquity in its construction and much skill in the art of engraving. With the records was found a curious instrument, which the ancients called “Urim and Thummim,” which consisted of two transparent stones set in the rims of a bow fastened to a breastplate. Through the medium of the Urim and Thummim I translated the record by the gift and power of God.*
 
-[The Wentworth Letter](https://www.churchofjesuschrist.org/study/ensign/2002/07/the-wentworth-letter?lang=eng&id=p8#p8), Ensign, July 2002
+[The Wentworth Letter](https://www.churchofjesuschrist.org/study/ensign/2002/07/the-wentworth-letter?lang=eng&id=p8#p8), Ensign July 2002
 
 This doesn't fit quite as neatly- this is reportedly in Joseph's own voice, claiming he uses the Urim & Thummim to translate the plates directly.
 
