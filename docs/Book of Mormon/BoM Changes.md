@@ -104,4 +104,4 @@ The Dropbox folder has some docx, pdf, featuring the highlighted changes, and tx
 
 I popped those raw texts into [Beyond Compare](https://www.scootersoftware.com/download), since it allowed for more flexible comparisons, such as ignoring case. (e.g. "And it came to pass" vs "and it came to pass" syntactically does count as a change, but practically I find those inconsequential.)
 
-Once I spend more time of the comparison, I'll look for a way to [[TODO#Functional|share my findings here]]. Meanwhile, you now have the same links I do.
+Once I spend more time on the comparison, I'll look for a way to [[TODO#Functional|share my findings here]]. Meanwhile, you now have the same links I do.
