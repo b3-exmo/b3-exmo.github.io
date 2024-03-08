@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Cognitive Bias
+# 🧠 Cognitive Bias
 How do we discern between faith and cognitive bias?
 
 ## Overview of Biases

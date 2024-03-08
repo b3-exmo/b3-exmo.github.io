@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# Landing page
+# ⛪ LDS Notes
 
 I call myself bee-cubed. Growing up in the LDS church has shaped my worldview. At one point, I encountered information that upended that worldview, and have since been engaging in a deconstruction process. This is a compendium of my notes and findings amid that deconstruction.
 

@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# General Christianity Ideas
+# ✝️ General Christianity Ideas
 [[Baptism]]
 [[Bible]]
 [[Exaltation, afterlife]]

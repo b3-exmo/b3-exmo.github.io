@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Satan
+# 😈 Satan
 ## How Stuff Works
 > The first mentions of Satan appear in the Hebrew Bible, from which much of the Christian Old Testament is derived. However, there’s a lot of uncertainty among religious scholars regarding what the authors meant when the word “Satan” appears in the Old Testament. The definition can vary depending on how the [Biblical](https://science.howstuffworks.com/nature/natural-disasters/2012-bible-world-end.htm) Hebrew term for Satan (שָּׂטָן‎‎) is translated and interpreted. **In some cases, the term simply means “opponent” or “adversary” and clearly indicates a human figure, not a supernatural one.** In other cases, it suggests Satan is “the accuser,” or part of a heavenly legal system. There is no consensus on which references to Satan indicate human adversaries and which ones indicate a supernatural enemy of God [source: [Stokes](https://www.jstor.org/stable/25610168?seq=1)]. While the concept took many forms over the centuries, the idea of Satan representing an outsider who opposes established values is the common thread woven through all his incarnations.
 > 

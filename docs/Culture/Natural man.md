@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Natural Man
+# 🍃 Natural Man
 
 When growing up, inevitably, your authentic self has a question or a doubt or dislikes a teaching. Growing up in the LDS faith, you are taught that that is the devil. That's the voice of Satan. That's evil. You are told this over and over from a young age, repeatedly throughout your entire life. Whenever you have a thought you're not "supposed" to have, or a question that makes you or others uncomfortable, or your inner voice is disagreeing with a teaching and is yelling and trying to get you to listen, that's Satan. It's like the song "Turn It Off" from the *Book of Mormon Musical*.
 

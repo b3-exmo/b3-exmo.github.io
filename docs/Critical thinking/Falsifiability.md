@@ -1,6 +1,7 @@
 ---
 comments: true
 ---
+# 👎 Falsifiability
 
 Apologies in advance if these examples sound condescending or reductive. I'm using them for illustrative purposes to make sure we're on the same page, you and I.
 

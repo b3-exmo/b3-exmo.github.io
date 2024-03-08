@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Infallibility
+# 😇 Infallibility
 ## “[Be ye therefore perfect.](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p48#p48)”
 
 “Nah, we don’t ever claim to be perfect! The Gospel is perfect, our church structure / leadership / members / teachings are not perfect.”

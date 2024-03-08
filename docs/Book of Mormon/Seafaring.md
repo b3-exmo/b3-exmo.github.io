@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# Seafaring
+# ⚓ Seafaring
 
 ## Note
 This page of notes is effectively a distillation of a *Mormon Expression* podcast episode, [How to build a transoceanic vessel](https://podcasters.spotify.com/pod/show/mormonexpression/episodes/276-How-to-build-a-transoceanic-vessel-e16pa2t). I've added a few of my own remarks here and there, but shoutout to John Larsen and cohorts for presenting a good majority of the content & observations in this page.

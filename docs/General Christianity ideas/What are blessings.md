@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# What are blessings?
+# ❓ What are blessings?
 
 ## Bednar
 Bednar talk:

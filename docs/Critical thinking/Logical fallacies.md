@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Logical Fallacies
+# ♟️ Logical Fallacies
 Fallacies are problems with how an argument is constructed. They say nothing about why a conclusion is wrong, other than to say that the conclusion came from a bad argument. Bad arguments can still lead to conclusions that are true.
 
 In other words, once we're done labeling the arguments, one also should consider explaining why the conclusions are shit, too.

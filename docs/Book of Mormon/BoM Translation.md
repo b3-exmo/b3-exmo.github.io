@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Book of Mormon Translation
+# 👅 Book of Mormon Translation
 ## [Gospel Topic Essay on BoM translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation)
 
 The following quotes are all taken from this essay; source links (should) take you to the paragraph in question

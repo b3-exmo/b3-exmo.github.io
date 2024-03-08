@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Strengthening Church Members Committee
+# 🤐 Strengthening Church Members Committee
 "nah, man, doesn't exist. Just anti-mormon lies and conspiracies."
 
 ## Deseret News

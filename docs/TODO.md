@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# TODO
+# 🗒️ TODO
 ## Functional
 
 - [x] Add comment sections

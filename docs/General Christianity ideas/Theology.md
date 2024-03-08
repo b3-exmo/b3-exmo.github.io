@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Theology
+# 😶‍🌫️ Theology
 ## LDS God
 According to LDS doctrine:
 

@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Critical Thinking
+# 🤨 Critical Thinking
 
 [[Cognitive Bias]]
 

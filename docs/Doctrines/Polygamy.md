@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Polygamy
+# 👩‍🤝‍👩 Polygamy
 ## Required for exaltation!
 
 ### Journal of Discourses 11:269, Brigham Young

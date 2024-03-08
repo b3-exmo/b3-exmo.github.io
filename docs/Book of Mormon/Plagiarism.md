@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# Plagiarism
+# 🤥 Plagiarism
 ## Poetic qualities
 
 Here's a list of poetic phrases in Book of Mormon sermons that can be found in religious literature published before 1830. The text of the Book of Mormon itself is anachronistic and clearly demonstrates that it's a 19th century creation.

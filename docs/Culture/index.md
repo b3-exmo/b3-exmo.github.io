@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Culture
+# 👥 Culture
 
 ## Hypocrisy
 

@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Bible
+# 📑 Bible
 ## Article of Faith
 
 > We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God.

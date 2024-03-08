@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Emotional Thinking
+# 🥺 Emotional Thinking
 ## Testimony
 A noteworthy video, of people from a wide variety of religious inclinations testifying of their spiritual witness:
 

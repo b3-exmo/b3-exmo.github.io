@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# My own experience
+# ✍️ My own experience
 ## Upbringing
 
 I was born & raised in the covenant, fully immersed in the culture. I was homeschooled, was raised to believe that the outside world is evil, scary, ruled by Satan. I shouldn't go to a proper school, the other students might influence me to do *nonspecific bad things*.

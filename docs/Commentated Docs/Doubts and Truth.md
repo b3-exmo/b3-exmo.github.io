@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# Doubts and Truth
+# 🤔 Doubts and Truth
 
 This is a transcript of these quotes from various church leaders concerning doubts & truth, along with some of my responses and comments.
 

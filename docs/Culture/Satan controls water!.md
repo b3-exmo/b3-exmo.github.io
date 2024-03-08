@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Satan controls water!
+# 🤽 Satan controls water!
 [https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-61-the-lord-has-blessed-the-land-and-cursed-the-waters?lang=eng](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-61-the-lord-has-blessed-the-land-and-cursed-the-waters?lang=eng)
 
 > This revelation was received by the Prophet Joseph Smith on the bank of the Missouri River, McIlwaine’s Bend, on 12 August 1831. The Prophet wrote:

@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Historicity
+# 🌄Historicity
 Christianity and science don’t always get along nicely.
 
 ## Cavemen

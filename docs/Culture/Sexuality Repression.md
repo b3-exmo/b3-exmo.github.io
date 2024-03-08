@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# Sexuality & Repression
+# ⚧️ Sexuality & Repression
 
 ## Better off dead
 

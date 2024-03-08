@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# Women in Scripture
+# ♀️ Women in Scripture
 
 I grew up with a male gender identity, and was heavily affected by this strange idea that women are all evil temptresses, trying to corrupt righteous, impressionable teenagers like myself. Today, I still see remnants of that idea, but it seems to be toned down.
 

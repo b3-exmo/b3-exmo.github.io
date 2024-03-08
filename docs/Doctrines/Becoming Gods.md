@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Becoming Gods
+# 🪄 Becoming Gods
 
  >**Do Latter-day Saints believe that they will “get their own planet”?**
  >

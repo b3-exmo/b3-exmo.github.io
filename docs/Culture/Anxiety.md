@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Anxiety
+# 😬 Anxiety
 
 "Why are all these kids struggling with anxiety today?" — A nonspecific church authority, probably
 

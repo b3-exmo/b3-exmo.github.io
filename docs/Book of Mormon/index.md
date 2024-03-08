@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-
-# Book of Mormon
+# 📘 Book of Mormon
 
 > _…the Book of Mormon is the keystone of [our] testimony. Just as the arch crumbles if the keystone is removed, so does all the Church stand or fall with the truthfulness of the Book of Mormon._
 
