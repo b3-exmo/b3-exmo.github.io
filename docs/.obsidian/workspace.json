@@ -11,8 +11,12 @@
             "id": "ddff4c98e987d000",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Doctrines/Becoming Gods.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Doctrines/Becoming Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Doctrines/Becoming Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Doctrines/Becoming Gods.md"
+              }
             }
           }
         ]
@@ -140,17 +148,17 @@
   },
   "active": "ddff4c98e987d000",
   "lastOpenFiles": [
+    "Doctrines/Polygamy.md",
+    "General Christianity ideas/Baptism.md",
+    "General Christianity ideas/Bible.md",
+    "General Christianity ideas/Exaltation, afterlife.md",
     "General Christianity ideas/What are blessings.md",
     "General Christianity ideas/Theology.md",
     "General Christianity ideas/Satan.md",
-    "General Christianity ideas/Historicity.md",
     "General Christianity ideas/index.md",
-    "General Christianity ideas/Exaltation, afterlife.md",
-    "General Christianity ideas/Bible.md",
-    "General Christianity ideas/Baptism.md",
+    "General Christianity ideas/Historicity.md",
     "General Christianity ideas",
     "Doctrines/Becoming Gods.md",
-    "Doctrines/Polygamy.md",
     "Doctrines",
     "Culture/Strengthening Church Members Committee.md",
     "Culture/Sexuality Repression.md",

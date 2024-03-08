@@ -21,7 +21,7 @@ comments: true
 
 Christopher Hitchens
 
-# Scale
+## Scale
 
 The universe is huge, like really, incredibly, un-fucking-believably huge. The idea that any creature capable of creating and managing the whole of creation would care about something as cosmically insignificant as our galaxy, much less our specific planet and it’s myopic inhabitants, isn’t just arrogant, its outrageous and insane.
 
