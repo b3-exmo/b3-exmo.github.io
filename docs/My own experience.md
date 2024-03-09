@@ -57,7 +57,6 @@ So, then, what if some of those crazy anti-Mormons have a point? What if this fa
 Drawing from experience in analyzing statistics, if the church stands to benefit from one angle of its history, it will push that angle. It will insist that the faith-promoting story is the only story. The promotion of faith will lead members to pay tithes. On the flip side, who gets a financial interest in a version that does not promote faith? The anti-Mormons don’t have a centralized agency that needs funding. Should I look at their side of the story?
 
 ## Getting "Anti'd"
-
 I’d shied away from reading evil literature, inspired by the Devil, and had identified some the names of documents to avoid. How bad could they be, though? I’m smart enough, and faithful enough, to discern truth irrespective of the source.
 
 The [CES letter](https://cesletter.org/) has been blown out of proportion as either a pathetic attempt to tear down God’s unstoppable work, or a logically infallible refutation of the LDS church’s claims. Maybe there’s some middle ground.
@@ -75,15 +74,13 @@ What if the evil people are right? The perfect church, led by men inspired of & 
 I had to put my tablet down and stare off into the distance for some unknown amount of time. I don’t know how much time passed. Today, I’d estimate it to be twenty minutes, before reacting instinctively by clasping my hands together, kneeling, to supplicate some deity. I felt nothing. Silence. It was the most gut-wrenching silence I ever felt. I still get shivers when I think about that moment.
 
 ## Deconstruction begins
-
-I’d try to get through more of the CES letter, but could only bear the emotional stress of short exposures to the document. I couldn’t stop, but I couldn’t continue. Each claim had sources to back them up. Some sources more satisfying than others— I can say that, at the time, I didn’t feel like the CES letter was bulletproof or undeniable. But it had enough compelling information that my “[[shelf]]” that had since collapsed was further crushed under the weight of more questions and discrepancies. The salamander letters. Polygamy being so much worse and pervasive than I had been led to believe. Brigham Young’s theocratic dictatorship. Book of Abraham.
+I’d try to get through more of the CES letter, but could only bear the emotional stress of short exposures to the document. I couldn’t stop, but I couldn’t continue. Each claim had sources to back them up. Some sources more satisfying than others— I can say that, at the time, I didn’t feel like the CES letter was bulletproof or undeniable. But it had enough compelling information that my “[[shelf]]” that had since collapsed was further crushed under the weight of more questions and discrepancies. The salamander letters. [[Polygamy]] being so much worse and pervasive than I had been led to believe. Brigham Young’s theocratic dictatorship. Book of Abraham.
 
 I’d occasionally be pressured to attend church with my in-laws, and would oblige most mornings. I don’t remember feeling anything from the speakers or lessons, only bewilderment that the congregation appeared to be either A) buying into it, or B) so enraptured by their iPad, but still felt subject to presenteeism.
 
 I couldn’t sustain this belief in good conscience anymore.
 
 ## Today
-
 Here's a high-level summary of where I've landed, as of early 2024:
 - Joseph Smith is a flawed, mortal human.
 	- He has demonstrably done bad things.

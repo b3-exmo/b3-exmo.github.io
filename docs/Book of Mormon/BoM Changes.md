@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 🔁 BoM Changes
+# 🔃 BoM Changes
 
 [_Changes in the Book of Mormon - Royal Skousen, 2002 FairMormon Conference_](https://www.fairlatterdaysaints.org/conference/august-2002/changes-in-the-book-of-mormon)
 

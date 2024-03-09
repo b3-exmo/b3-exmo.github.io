@@ -43,6 +43,7 @@ Above copied from _[https://www.verywellmind.com/cognitive-biases-distort-thinki
 
 From the perspective of Mormonism, faith and confirmation bias seem very difficult to distinguish.
 
+When questioning members are advised to "take your questions to the Lord and to other faithful sources," what kind of answer can they expect? They're only asking people who believe.
 ### Moroni's Promise
 >And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
 >

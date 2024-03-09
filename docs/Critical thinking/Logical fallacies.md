@@ -25,7 +25,26 @@ Criticizing a person making the argument rather than the argument itself.
 Ex: “Because John is a former Mormon, an apostate from the LDS Church, his argument against the Book of Abraham cannot be considered valid.”
 
 See also: [[#No true Scottsman]]
+### Ad Populum (Appeal to Popularity, or to Public)
+Insisting that your position is true because other people agree with it. 
 
+*“The Church of Jesus Christ of Latter-day Saints has millions of members. Do you really think that many people can be wrong?”*
+
+_"So many people, including the pioneers, must have known it were true or they wouldn't have crossed the plains."_
+
+_Most people believe in God, are they really all wrong?_
+
+Just because a lot of people share the same view does not guarantee that the view they share is correct.
+
+This one is kinda silly but I still see it all the time. You can always turn it around by pointing out that most people on earth don't believe in their religion (there is no religion with more than 50% of the world’s population)
+
+By this metric, Catholicism would be a lot more "true" than Mormonism.
+
+909 people died in Jonestown. Why would the 909 die if Peoples Temple wasn't true?
+
+39 people in Heaven's Gate. Why would the 39 die if Heaven's Gate wasn't true?
+
+[https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
 ### Argument from Emotional Experience
 If you seriously think, meditate, or pray about a claim and you have a salient emotional reaction, the claim is most likely true.
 
@@ -63,7 +82,7 @@ Example: a traveling salesmen never fails to pray daily for safety, and never fa
 
 _But if there is no God then there is no meaning or purpose to existence!_
 
-The desirability or undesirability of the consequences of a claim are not evidence for or against the claim. This is closely related to Confirmation Bias, but easier to identify.
+The desirability or undesirability of the consequences of a claim are not evidence for or against the claim. This is closely related to [[Cognitive Bias#Confirmation bias|Confirmation Bias]], but easier to identify.
 
 [https://en.wikipedia.org/wiki/Appeal_to_consequences](https://en.wikipedia.org/wiki/Appeal_to_consequences)
 
@@ -73,22 +92,6 @@ Attempting to sway the audience by using emotional tactics to gain sympathy.
 Ex: “Since Mormons have been persecuted throughout the years, this faith must be true or otherwise these people wouldn’t have been attacked.”
 
 It is true that some Mormons have been persecuted over the past two centuries. However, even if it’s true that Mormons have been unduly persecuted, this does not validate Mormonism’s truth claims. If so, would the Mormon consider biblical Christianity to be true merely because Christians around the world are persecuted on a daily basis for _their_ faith?
-
-### Appeal to Popularity
-Insisting that your position is true because other people agree with it. 
-
-*“The Church of Jesus Christ of Latter-day Saints has millions of members. Do you really think that many people can be wrong?”*
-
-_Most people believe in God, are they really all wrong?_
-
-Just because a lot of people share the same view does not guarantee that the view they share is correct.
-
-This one is kinda silly but I still see it all the time. You can always turn it around by pointing out that most people on earth don't believe in their religion (there is no religion with more than 50% of the world’s population)
-
-By this metric, Catholicism would be a lot more "true" than Mormonism.
-
-[https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
-
 ### Appeal to Possibility
 
 _But its not impossible!_
@@ -133,7 +136,18 @@ But how do you know the book of mormon is telling you the truth?
 > _"Because I prayed and I felt the spirit, so I know it is true!"_
 
 [https://en.m.wikipedia.org/wiki/Circular_reasoning](https://en.m.wikipedia.org/wiki/Circular_reasoning)
+### False Cause
+_"Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax."_
 
+_"Why would Joseph Smith die for the Church if he didn't know it were true?"_
+
+Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.
+
+Joseph Smith didn't offer up his life for the church. He went to jail for a variety of factors, including sexual misconduct (with both minors and married women), polygamy, polyandry, fraud, forming a militia, and likely others that aren't coming to mind presently. When faced with the inability to deal with Smith legally, civil unrest grew to mob rule- not satisfied to know that he would actually face justice after a prison sentence, they broke it and killed him.
+
+Moreover, Smith had used a smuggled firearm to shoot at the mob to defend himself, blocking their entrance, trying to escape through a window in a bid for survival. Does this sound like a martyr? Did he "die for the church"?
+
+https://yourlogicalfallacyis.com/false-cause
 ### False Dilemma
 **Also called False Dichotomy**
 
@@ -241,7 +255,9 @@ This can happen between sects of Christianity, trying to make a case for their c
 ### Strawman Fallacy
 Making a particular position look weak by misrepresenting the argument. 
 
-_The Big Bang claims the universe came from nothing_
+_"The Big Bang claims the universe came from nothing!"_
+
+_"People leave the church over inconsistencies or little faults of people in its history!"_
 
 *According to History of the Church 6:476, Joseph Smith said the following: “Many men say there is one God; the Father, the Son and the Holy Ghost are only one God! I say that is a strange God anyhow—three in one, and one in three! It is a curious organization. . . . All are to be crammed into one God, according to sectarianism. It would make the biggest God in all the world. He would be a wonderfully big God—he would be a giant or a monster.”*
 
@@ -250,7 +266,6 @@ Smith gives an inaccurate analysis of what the Trinity teaches, making it easy 
 We have all experienced a misrepresentation of what we said or believe, and it’s important to call out this fallacy. This is probably the most common fallacy of all time.
 
 [https://en.m.wikipedia.org/wiki/Straw_man](https://en.m.wikipedia.org/wiki/Straw_man)
-
 ### Tu quoque
 Latin for "you too."
 Can also be called "two wrongs don't make a right" fallacy.
