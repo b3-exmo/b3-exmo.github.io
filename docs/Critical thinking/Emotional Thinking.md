@@ -19,12 +19,12 @@ Here are a few transcribed excerpts:
 ### **Catholicism**
 > _"A friend of mine who was praying for me at that moment, sensed Mother Mary came to me, took pity on me, and asked her son to save me. And I knew after that, that the cancer was gone, that I should sin no more, and shortly after that I knew I was called to join the Catholic church - a church I had never stepped foot in."_
 
-  &nbsp;
+&nbsp;
 
 ### **The People's Temple (Jim Jones)**
 > _"We were doing a meditation - myself and five other friends - and all of the sudden I felt this explosion of energy go up my spine from behind. Bang. And I turned around and saw this picture and I said 'who is that?' Oh that's Papa Jim - he's the most loving man... and I knew I had to find Jim Jones and the People's Temple."_
 
-  &nbsp;
+&nbsp;
 
 ### **The True and Living Church of Jesus Christ of Saints of the Last Days (current LDS polygamist offshoot)**
 

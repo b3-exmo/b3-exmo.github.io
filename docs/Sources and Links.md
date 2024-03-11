@@ -1,20 +1,15 @@
 ---
 comments: true
 ---
-# 🔗 Sources and Links
+# 🔗 Sources & More Material
 
-[https://www.lds-general-conference.org/](https://www.lds-general-conference.org/)
+**[lds-general-conference.org](https://www.lds-general-conference.org/)**: Does not appear to be an officially sanctioned site
 
-Does not appear to be an officially sanctioned site
+[fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): Unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents.
 
-[https://www.fairlatterdaysaints.org/](https://www.fairlatterdaysaints.org/)
-
-Unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents.
 ... It's maybe unofficial. I've encountered claims that writers for the game are paid by the church, but I haven't really looked into that.
 
-[https://catalog.churchofjesuschrist.org/](https://catalog.churchofjesuschrist.org/)
-
-Appears to be part of official church domain.
+[catalog.churchofjesuschrist.org](https://catalog.churchofjesuschrist.org/): Appears to be part of official church domain.
 
 When you first load up and select the search bar, this popup appears:
 
@@ -26,23 +21,32 @@ When you first load up and select the search bar, this popup appears:
 
 lol. lmao.
 
-[https://www.churchofjesuschrist.org/media/publications?lang=eng](https://www.churchofjesuschrist.org/media/publications?lang=eng)
+[churchofjesuschrist.org/media/publications](https://www.churchofjesuschrist.org/media/publications?lang=eng): Media publications. PDFs of scripture, proclamations, manuals, president teachings, etc
 
-Media publications. PDFs of scripture, proclamations, manuals, president teachings, etc
-
-## JSPP
+## Joseph Smith Papers Project
 
 Establish legitimacy of later sources:
 
-[https://newsroom.churchofjesuschrist.org/ldsnewsroom/eng/news-releases-stories/new-publishing-imprint-set-to-boost-mormon-scholarship](https://newsroom.churchofjesuschrist.org/ldsnewsroom/eng/news-releases-stories/new-publishing-imprint-set-to-boost-mormon-scholarship)
+[Official LDS Newsroom](https://newsroom.churchofjesuschrist.org/ldsnewsroom/eng/news-releases-stories/new-publishing-imprint-set-to-boost-mormon-scholarship) opens this announcement by saying:
 
-Official LDS Newsroom opens this announcement by saying:
-
-“The Church of Jesus Christ of Latter-day Saints announced today the establishment of The Church Historian’s Press, a new imprint for publishing works related to the Church’s origin and growth.”
+>“The Church of Jesus Christ of Latter-day Saints announced today the establishment of The Church Historian’s Press, a new imprint for publishing works related to the Church’s origin and growth.”
 
 [https://www.josephsmithpapers.org/](https://www.josephsmithpapers.org/) is part of this domain.
 
 Both The Church Historian’s Press and Joseph Smith Papers appear to be legitimate, LDS leadership-owned sources of information.
 
-https://faenrandir.github.io/a_careful_examination/
+## Other non-official materials
+
+[A Careful Examination](https://faenrandir.github.io/a_careful_examination/): Looks like another Github Pages compendium
+
+[LDS Discussions](https://www.ldsdiscussions.com/): Fantastic, well-researched dives into a variety of topics. Those pages are awfully long, so get comfy before reading
+
+[Thoughts on things and stuff](https://thoughtsonthingsandstuff.com/topics/): Sounds vague, feels like a muse for doctrinal thoughts
+
+[Mormonism under the microscope](https://www.mormonismunderthemicroscope.com/): Haven't explored much, looks like a topical document for various claims / controversies
+
+[Zelph on the Shelf](https://zelphontheshelf.com/): One of the early blogs I encountered that offers critical insights of LDS doctrine. As of 2024 March, appears to be offline- hoping it comes back in the future 🥺
+Bonus link: [The Millennials' Brief Guide to the CES Letter](https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/) is one I encountered early on (late 2018) when i was trying to find some "both sides" analyses of the CES Letter.
+
+[floodlit.org](https://floodlit.org/): Info on sexual abusers & coverups within LDS church
 

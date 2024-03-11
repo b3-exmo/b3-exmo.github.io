@@ -61,7 +61,7 @@ comments: true
     - [x] Steel
 - [ ] Tithing money
     - [ ] SEC & LDS Response
-- [ ] Links & Other Material
+- [x] Links & Other Material
 
 ### To be written
 - [ ] Succession crisis
@@ -90,3 +90,4 @@ comments: true
 - [ ] Beneficial Life
 - [ ] Nauvoo Safety Society
 - [ ] Scrupulosity
+- [ ] "Doesn't appear in the scriptures"

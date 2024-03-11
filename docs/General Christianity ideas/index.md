@@ -3,10 +3,15 @@ comments: true
 ---
 # ✝️ General Christianity Ideas
 [[Baptism]]
+
 [[Bible]]
+
 [[Exaltation, afterlife]]
+
 [[Historicity]]
+
 [[Satan]]
+
 [[Theology]]
 
 ## Time
