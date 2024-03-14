@@ -3,10 +3,9 @@ comments: true
 ---
 # ⛪ LDS Notes
 
-I call myself bee-cubed. Growing up in the LDS church has shaped my worldview. At one point, I encountered information that upended that worldview, and have since been engaging in a deconstruction process. This is a compendium of my notes and findings amid that deconstruction.
+I call myself bee-cubed. Growing up in the LDS church has shaped my worldview. At one point, in late 2018, I encountered information that upended that worldview, and have since been engaging in a deconstruction process. This is a compendium of my notes and findings amid that deconstruction.
 
 ## Why, though?
-
 I didn’t wake up one day, and decide to tear down my worldview.
 
 I want this to be true. I never missed a day of seminary, I went on a mission, I got married in the temple, I even got a recommend to be a temple worker in Provo.
