@@ -10,6 +10,8 @@ comments: true
 
 [[Historicity]]
 
+[[Holy Spirit Promptings]]
+
 [[Satan]]
 
 [[Theology]]

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 🪦 Exaltation & Afterlife
 
 For such emphasis on how this life is preparatory for our afterlife, we sure have vague notions of what the afterlife will be— aside from staying with our family forever.

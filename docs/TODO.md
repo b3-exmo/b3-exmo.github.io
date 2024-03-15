@@ -59,7 +59,7 @@ comments: true
     - [x] Women
     - [x] Anachronisms
     - [x] Steel
-- [ ] Tithing money
+- [x] Tithing money
     - [ ] SEC & LDS Response
 - [x] Links & Other Material
 
@@ -91,3 +91,4 @@ comments: true
 - [ ] Nauvoo Safety Society
 - [ ] Scrupulosity
 - [ ] "Doesn't appear in the scriptures"
+- [ ] Church Internal Audit Department

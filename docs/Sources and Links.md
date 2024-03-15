@@ -3,7 +3,7 @@ comments: true
 ---
 # 🔗 Sources & More Material
 
-**[lds-general-conference.org](https://www.lds-general-conference.org/)**: Does not appear to be an officially sanctioned site
+[lds-general-conference.org](https://www.lds-general-conference.org/): Does not appear to be an officially sanctioned site
 
 [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): Unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents.
 
@@ -22,7 +22,6 @@ When you first load up and select the search bar, this popup appears:
 lol. lmao.
 
 [churchofjesuschrist.org/media/publications](https://www.churchofjesuschrist.org/media/publications?lang=eng): Media publications. PDFs of scripture, proclamations, manuals, president teachings, etc
-
 ## Joseph Smith Papers Project
 
 Establish legitimacy of later sources:
@@ -34,6 +33,27 @@ Establish legitimacy of later sources:
 [https://www.josephsmithpapers.org/](https://www.josephsmithpapers.org/) is part of this domain.
 
 Both The Church Historian’s Press and Joseph Smith Papers appear to be legitimate, LDS leadership-owned sources of information.
+
+## [Deseret Management Corporation](https://www.deseretmanagement.com/#our-companies)
+>Deseret Management Corporation (DMC) is a for-profit company affiliated with The Church of Jesus Christ of Latter-day Saints.
+
+[Deseret Management, _Careers_](https://www.deseretmanagement.com/careers)
+
+One could rightfully argue that "affiliated with" doesn't mean "owned by." It'd be a shame if one of its subsidiaries [[#Deseret News|outright stated that DMC is owned by the church]], wouldn't it?
+### Deseret Digital Media
+[Owns KSL](https://www.deseretdigital.com/ksl-news) and its subsidiaries
+[Owns Utah.com](https://www.deseretdigital.com/utah-dotcom), tourism site
+### Deseret News
+>The Deseret News is a subsidiary of the [Deseret Management Corporation](http://www.deseretmanagement.com/), which is owned by The Church of Jesus Christ of Latter-day Saints.
+
+[About Us](https://www.deseret.com/pages/about-us/), Deseret News
+
+### So what?
+Disregarding all the times I'd been assured that Deseret News / Book was not owned by the church, the idea that a religion has a for-profit branch doesn't sit well with me. I thought religions were meant to operate by donation?
+
+Being owned by the church itself carries some connotations- I'm not going to imply that every KSL article is screened & approved by the 12 apostles, but the connection is close enough for us common folk to read a level of complicity in what Deseret Book publishes. I don't presently know much about their quality control process, but Deseret wouldn't publish things the Church would vehemently disagree with, would it? It's not an independent business, it's owned by the corporate office of the LDS Church. 
+
+
 
 ## Other non-official materials
 
