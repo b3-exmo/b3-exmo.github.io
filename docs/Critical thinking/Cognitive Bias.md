@@ -20,7 +20,7 @@ A quick example of where this is going:
 - Something good happens to a former Mormon? It’s not REAL happiness. They have forfeited real blessings from God.
 - Something bad happens to a former Mormon? Of course! The wicked will not prosper! They have forfeited real blessings from God.
 
-### Confirmation bias
+## Confirmation bias
 ![[confirmation-bias.png]]
 
 > The confirmation bias is the tendency to listen more often to information that confirms our existing beliefs. Through this bias, people tend to favor information that reinforces the things they already think or believe.
@@ -39,17 +39,20 @@ A quick example of where this is going:
 >
 > The problem with this is that it can lead to poor choices, an inability to listen to opposing views, or even contribute to othering people who hold different opinions.
 
-Above copied from _[https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763](https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763)_
+— _[13 Types of Common Cognitive Biases That Might Be Impairing Your Judgment ](https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763)_, Kendra Cherry, MSEd, Updated on February 22, 2024
 
 From the perspective of Mormonism, faith and confirmation bias seem very difficult to distinguish.
 
 When questioning members are advised to "take your questions to the Lord and to other faithful sources," what kind of answer can they expect? They're only asking people who believe.
+
+- As long as God continues to help me find my car keys, I won't think about all the suffering in Palestine and Ukraine. All is well in Zion. Zion prospers.
+- Keep paying tithing because God has promised ‘blessings such that there shall not be room enough to receive them’, even though month after month we continue in financial struggles.
 ### Moroni's Promise
 >And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
 >
 >And by the power of the Holy Ghost ye may know the truth of all things.
 
-[Moroni 10:3-5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p3-p5#p3)
+— _[Moroni 10:3-5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p3-p5#p3)_
 
 &nbsp;
 
@@ -72,26 +75,21 @@ What else do we do to set ourselves up for confirmation bias?
 
 “I heard myself say that it was true when I bore my testimony so it must be true.”
 
-> "Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it." 
+> Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it.
 
-[Dallin H Oaks](https://www.churchofjesuschrist.org/study/general-conference/2008/04/testimony?lang=eng&id=p20##p20)
+— _[Testimony](https://www.churchofjesuschrist.org/study/general-conference/2008/04/testimony?lang=eng&id=p20##p20)_, Dallin H Oaks, General Conference April 2008
 
 &nbsp;
 
+### LDS Scholar
 Kerry Muhlestein is an LDS scholar, here sharing an explanation on confirmation bias, and then describing his own confirmation bias to fit evidence to a predetermined conclusion:
 
+[![Kerry Muhlestein: A Masterclass in Confirmation Bias](http://img.youtube.com/vi/-xS3EnGxicg/2.jpg)](http://www.youtube.com/watch?v=-xS3EnGxicg)
+
 [https://www.youtube.com/watch?v=-xS3EnGxicg](https://www.youtube.com/watch?v=-xS3EnGxicg)
-
-Other examples:
-
-- As long as God continues to help me find my car keys, I won't think about all the suffering in Palestine and Ukraine. All is well in Zion. Zion prospers.
-- Keep paying tithing because God has promised ‘blessings such that there shall not be room enough to receive them’, even though month after month we continue in financial struggles.
-
-More links:
+## More links
 
 - [https://effectiviology.com/confirmation-bias/](https://effectiviology.com/confirmation-bias/)
-
- - [https://www.globalcognition.org/confirmation-bias-3-cures/](https://www.globalcognition.org/confirmation-bias-3-cures/)
-
+- [https://www.globalcognition.org/confirmation-bias-3-cures/](https://www.globalcognition.org/confirmation-bias-3-cures/)
 - [https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
 

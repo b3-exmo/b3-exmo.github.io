@@ -7,7 +7,7 @@ A noteworthy video, of people from a wide variety of religious inclinations test
 
 [![Recordings of various religious experiences](http://img.youtube.com/vi/UJMSU8Qj6Go/3.jpg)](http://www.youtube.com/watch?v=UJMSU8Qj6Go)
 
-Here's a direct link, in case my embed doesn't work: [https://www.youtube.com/watch?v=UJMSU8Qj6Go](https://www.youtube.com/watch?v=UJMSU8Qj6Go)
+[https://www.youtube.com/watch?v=UJMSU8Qj6Go](https://www.youtube.com/watch?v=UJMSU8Qj6Go)
 
 Here are a few transcribed excerpts:
 

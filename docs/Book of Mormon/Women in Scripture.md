@@ -1,7 +1,6 @@
 ---
 comments: true
 ---
-
 # ♀️ Women in Scripture
 
 I grew up with a male gender identity, and was heavily affected by this strange idea that women are all evil temptresses, trying to corrupt righteous, impressionable teenagers like myself. Today, I still see remnants of that idea, but it seems to be toned down.
@@ -19,20 +18,21 @@ There are numerous mentions of women as anonymous, faceless people. How often ar
 
 >And it came to pass that [king Noah] placed his heart upon his riches, and he spent his time in riotous living with his wives and his concubines; and so did also his priests spend their time with harlots.
 
-[Mosiah 11:14](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=eng&id=14#13)
+— _[Mosiah 11:14](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/11?lang=eng&id=14#13)_
 
 &nbsp;
 
 >For I, the Lord God, delight in the chastity of women. And whoredoms are an abomination before me; thus saith the Lord of Hosts.
 
-[Jacob 2:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=eng&id=p28#p28)
+— _[Jacob 2:28](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=eng&id=p28#p28)_
 
 &nbsp;
 
 
 >And so great were the blessings of the Lord upon us, that while we did live upon raw meat in the wilderness, our women did give plenty of suck for their children, and were strong, yea, even like unto the men; and they began to bear their journeyings without murmurings.
 
-[1 Ne 17:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng&id=p2#p2)
+— _[1 Ne 17:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng&id=p2#p2)_
+
 Lehite women were able to shut the fuck up and have boobs. 🙄 Truly inspired writing.
 
 &nbsp;
@@ -41,7 +41,8 @@ Lehite women were able to shut the fuck up and have boobs. 🙄 Truly inspired w
 >
 >And after they had done this thing, they did murder them in a most cruel manner, torturing their bodies even unto death; and after they have done this, they devour their flesh like unto wild beasts, because of the hardness of their hearts; and they do it for a token of bravery.
 
-[Moroni 9:9-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=eng&id=p9-p10#p9)
+— _[Moroni 9:9-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=eng&id=p9-p10#p9)_
+
 Women don't need names, they just need to be kept virgins as long as possible. Breaking that social norm is a heinous crime.
 
 &nbsp;
@@ -50,7 +51,8 @@ Women don't need names, they just need to be kept virgins as long as possible. B
 >
 >And now Omer was a friend to Akish; wherefore, when Jared had sent for Akish, the daughter of Jared danced before him that she pleased him, insomuch that he desired her to wife. And it came to pass that he said unto Jared: Give her unto me to wife.
 
-[Ether 8:10-11](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=eng&id=10-11#9)
+— _[Ether 8:10-11](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=eng&id=10-11#9)_
+
 🥵 lord have mercy
 
 &nbsp;
@@ -63,7 +65,7 @@ Women don't need names, they just need to be kept virgins as long as possible. B
 >
 >**35** And it came to pass that Amalickiah sought the favor of the queen, and took her unto him to wife; and thus by his fraud, and by the assistance of his cunning servants, he obtained the kingdom; yea, he was acknowledged king throughout all the land, among all the people of the Lamanites, who were composed of the Lamanites and the Lemuelites and the Ishmaelites, and all the dissenters of the Nephites, from the reign of Nephi down to the present time.
 
-[Alma 47:32-35](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=eng&id=32-35#31)
+— _[Alma 47:32-35](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=eng&id=32-35#31)_
 
 This was the nameless "[king of the Lamanites](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/47?lang=eng&id=p1#p1)", and the queen also appears nameless. I suppose this does suggest that rule passes to the queen by default, empowering women above that of just spinning cloth.
 
@@ -74,19 +76,19 @@ Well, I guess we still have the cultural propriety for marrying our nameless wom
 
 >the Lord spake unto him again, saying that it was not meet for him, Lehi, that he should take his family into the wilderness alone; but that his sons should take daughters to wife, that they might raise up seed unto the Lord in the land of promise.
 
-[1 Ne 7:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng&id=1#primary)
+— _[1 Ne 7:1](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng&id=1#primary)_
 
 &nbsp;
 
 >And it came to pass that I, Nephi, took one of the daughters of Ishmael to wife; and also, my brethren took of the daughters of Ishmael to wife; and also Zoram took the eldest daughter of Ishmael to wife.
 
-[1 Ne 16:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=eng&id=7#6)
+— _[1 Ne 16:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/16?lang=eng&id=7#6)_
 
 &nbsp;
 
 >And it came to pass that king Lamoni was much pleased with Ammon, and caused that his bands should be loosed; and he would that Ammon should take one of his daughters to wife.
 
-[Alma 17:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng&id=24#23)
+— _[Alma 17:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng&id=24#23)_
 
 ## Persuasion
 Even without a name, women appear to have some convincing power.
@@ -95,11 +97,12 @@ Even without a name, women appear to have some convincing power.
 >
 >And the Lamanites had compassion on Amulon and his brethren, and did not destroy them, because of their wives.
 
-[Mosiah 23:33-34](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=eng&id=p33-p34#p33)
+— _[Mosiah 23:33-34](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/23?lang=eng&id=p33-p34#p33)_
 
 &nbsp;
 
 >And it came to pass that they were angry with me again, and sought to lay hands upon me; but behold, one of the daughters of Ishmael, yea, and also her mother, and one of the sons of Ishmael, did plead with my brethren, insomuch that they did soften their hearts; and they did cease striving to take away my life.
 
-[1 Ne 7:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng&id=p19#p19)
+— _[1 Ne 7:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng&id=p19#p19)_
+
 All the ladies were on *my* side 😏

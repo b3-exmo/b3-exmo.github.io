@@ -5,9 +5,9 @@ comments: true
 
 [lds-general-conference.org](https://www.lds-general-conference.org/): Does not appear to be an officially sanctioned site
 
-[fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): Unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents.
+[fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents. The De Facto standard for defending The Truth ™️ from those evildoers.
 
-... It's maybe unofficial. I've encountered claims that writers for the game are paid by the church, but I haven't really looked into that.
+... It's maybe unofficial. I've encountered claims that writers for the game are paid by the church, but I haven't looked into it to verify those claims.
 
 [catalog.churchofjesuschrist.org](https://catalog.churchofjesuschrist.org/): Appears to be part of official church domain.
 
@@ -15,7 +15,7 @@ When you first load up and select the search bar, this popup appears:
 
 ![[lds-catalog.png]]
 
-> Collection Policy
+> **Collection Policy**
 > 
 > _The Church History Library collects materials by or about The Church of Jesus Christ of Latter-day Saints and its members. These materials come from a wide spectrum of sources and represent numerous points of view. Users of the catalog should not assume that the Church or the Library endorses every item in the collection._
 

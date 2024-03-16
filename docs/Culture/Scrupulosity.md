@@ -1,8 +1,7 @@
 ---
 comments: true
 ---
-# 🍃 Natural Man
-
+# ✔️ Scrupulosity
 When growing up, inevitably, your authentic self has a question or a doubt or dislikes a teaching. Growing up in the LDS faith, you are taught that that is the devil. That's the voice of Satan. That's evil. You are told this over and over from a young age, repeatedly throughout your entire life. Whenever you have a thought you're not "supposed" to have, or a question that makes you or others uncomfortable, or your inner voice is disagreeing with a teaching and is yelling and trying to get you to listen, that's Satan. It's like the song "Turn It Off" from the *Book of Mormon Musical*.
 
 What does this do to your mind? It turns your authentic self into the enemy. You become your own gaslighter. You try to shove down every thought and feeling you're not supposed to have. It splits your mind into two parts: the "evil" authentic self, and the unquestioning self the church wants you to have.
@@ -13,10 +12,8 @@ When you leave, you have to reconstruct yourself from scratch, and it's terrifyi
 
 This is the trauma we deal with when leaving the faith. This is why when evangelicals or other groups try to convert ex-mormons, they are simply not interested. We see the same pattern in them and it's triggering. We see the denial of the authentic self that we are being asked to repeat, and we don't want to go back to that. I don't care what the Bible says— if it feels wrong deep in my gut, I'm listening to my gut. I was raised to bury my inner voice, and I'm never going back to burying my inner voice ever again.
 
-  
+&nbsp;
 
 How is this manifest in my life today?
 
 Having lost faith about five years before the time of writing this, I’m still learning to trust myself. So often I look for external approval or advice, never making bigger decisions for myself.
-
-I think the term for this is *scrupulosity*?

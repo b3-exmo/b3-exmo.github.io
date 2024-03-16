@@ -25,7 +25,7 @@ Once they get to the land, which is not the promised land, they call it [Bountif
 Makes sense so far.
 
 > **11** And it came to pass that I, Nephi, did make a bellows wherewith to blow the fire, of the skins of beasts; and after I had made a bellows, that I might have wherewith to blow the fire, I did smite two stones together that I might make fire.
-
+>
 > **16** And it came to pass that I did make tools of the ore which I did molten out of the rock.
 
 It's not explicitly stated what ore this is, but we can rule out some possibilities since it's a transoceanic vessel, being submerged in saltwater for an extended amount of time. Gold, silver, or copper won't do. Iron will. Can we assume it's iron? It's not likely to be any kind of alloy like bronze. 

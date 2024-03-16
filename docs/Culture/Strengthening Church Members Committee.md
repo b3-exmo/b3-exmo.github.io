@@ -2,26 +2,20 @@
 comments: true
 ---
 # 🤐 Strengthening Church Members Committee
-"nah, man, doesn't exist. Just anti-mormon lies and conspiracies."
-
 ## Deseret News
-
-[https://www.deseret.com/1993/10/2/19068890/church-isn-t-conducting-a-purge-lds-apostle-says](https://www.deseret.com/1993/10/2/19068890/church-isn-t-conducting-a-purge-lds-apostle-says)
-
 > A former Utah Supreme Court justice and **the church's expert on disciplinary procedures**, Elder Oaks said the disciplinary decisions ranging from probation to excommunication are meted out by bishops and stake presidents.
-
-> He explained that local leaders are informed by church headquarters about members who may possibly be violating church standards. The church's **Strengthening the Members Committee** pores over newspapers and other publications and identifies members accused of crimes, preaching false doctrine, **criticizing leadership** or other problems. That information is forwarded on to the person's bishop or stake president, who is charged with helping them overcome problems and stay active in the church.
-
+>
+> He explained that local leaders are informed by church headquarters about members who may possibly be violating church standards. The church's ==Strengthening the Members Committee== pores over newspapers and other publications and identifies members accused of crimes, preaching false doctrine, ==criticizing leadership== or other problems. That information is forwarded on to the person's bishop or stake president, who is charged with helping them overcome problems and stay active in the church.
+>
 > "It is a way of keeping busy bishops informed," he said. "But it is up to the bishop to handle it. Bishops don't report back."
+>
+> Michael Quinn, a historian living in Salt Lake City, who said he was excommunicated this week, said that may be the procedure. "==But when a local leader is handed information from general authorities, it carries enormous weight and is the equivalent of instruction==," he said.
 
-> Michael Quinn, a historian living in Salt Lake City, who said he was excommunicated this week, said that may be the procedure. "But when a local leader is handed information from general authorities, it carries enormous weight and is the equivalent of instruction," he said.
-
-## Church News Room
-### First Presidency statement cites scriptural mandate for Church committee
-
-By Church News Archives 22 Aug 1992, 2:00 AM EDT
+— _[CHURCH ISN'T CONDUCTING A 'PURGE,' LDS APOSTLE SAYS](https://www.deseret.com/1993/10/2/19068890/church-isn-t-conducting-a-purge-lds-apostle-says)_, Deseret News, 2 Oct 1993
 
 ---
+
+## Church News Room
 
 >Generally, The Church of Jesus Christ of Latter-day Saints does not respond to criticism levied against its work. But in light of extensive publicity recently given to false accusations of so-called secret Church committees and files, the First Presidency has issued the following statement:
 > 
@@ -43,4 +37,8 @@ By Church News Archives 22 Aug 1992, 2:00 AM EDT
 > 
 > The First Presidency
 
-"😤 alright, fine, well it DID exist, but no longer exists."
+— _[First Presidency statement cites scriptural mandate for Church committee](https://www.thechurchnews.com/1992/8/22/23259274/first-presidency-statement-cites-scriptural-mandate-for-church-committee/)_, Church News Archives, 22 Aug 1992
+
+&nbsp;
+
+Whelp... I guess I'll wait for a phone call from my bishop. These notes are publicly available on that world-wide web, so I've almost certainly got my own file in the SCMC's cabinets. Smile and wave in the comment section!

@@ -12,7 +12,6 @@ A more comprehensive document would delineate these into formal vs informal fall
 
 ---
 ## Fallacies
-
 A primer:
 **"Absence of evidence**" = There is no evidence present. No evidence has been found. For example: There is no evidence that pink unicorns exist." This does not strictly mean that the argument is impossible, simply that there is no evidence.
 
@@ -25,6 +24,9 @@ Criticizing a person making the argument rather than the argument itself.
 Ex: “Because John is a former Mormon, an apostate from the LDS Church, his argument against the Book of Abraham cannot be considered valid.”
 
 See also: [[#No true Scottsman]]
+
+&nbsp;
+
 ### Ad Populum (Appeal to Popularity, or to Public)
 Insisting that your position is true because other people agree with it. 
 
@@ -45,20 +47,29 @@ By this metric, Catholicism would be a lot more "true" than Mormonism.
 39 people in Heaven's Gate. Why would the 39 die if Heaven's Gate wasn't true?
 
 [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
+
+&nbsp;
+
 ### Argument from Emotional Experience
 If you seriously think, meditate, or pray about a claim and you have a salient emotional reaction, the claim is most likely true.
 
 Example: The more I thought about it, the more I felt that Sarah really is madly in love with me and her saying "please stop texting me" is her way of processing her emotions.
+
+&nbsp;
 
 ### Argument from Faith
 If you want to know if a claim is true or not, you have to try _just believing_ that it's true.
 
 Example: Quija boards prove that Ghosts are real, but Ghosts don't talk to people through Quija boards unless those people sincerely believe that ghosts are real.
 
+&nbsp;
+
 ### Argument from Incompleteness
 because competing claims lack sufficient completeness, my claim is equally valid and reasonable.
 
 Example: "(pretend it's the 1990s) The Jury is still out on whether or not smoking causes cancer, so I see nothing wrong with smoking 2 packs a day."
+
+&nbsp;
 
 ### Argument from Ignorance
 *because I don't understand the counter-claim, my claim is true.*
@@ -73,18 +84,23 @@ The problem here is that there are an infinite number of things that haven't bee
 
 So if one believes that Mormonism is aided by lack of evidence to the contrary, one is then saddled with the burden of explaining why one particular thing is true with no evidence and another contradictory assertion is false without evidence.
 
-### Argument from the Null Hypothesis
+&nbsp;
 
+### Argument from the Null Hypothesis
 Because an event or data point is significantly divergent from a known statistical average, that event or data point can only be explained by outside forces and not random chance.  
 
 Example: a traveling salesmen never fails to pray daily for safety, and never fails to catch any of the hundreds of flights he takes every year. On the one morning he accidentally sleeps in, the flight he was supposed to be on crashes. This proves that his prayers were heard and answered.
-### Appeal to Consequences
 
+&nbsp;
+
+### Appeal to Consequences
 _But if there is no God then there is no meaning or purpose to existence!_
 
 The desirability or undesirability of the consequences of a claim are not evidence for or against the claim. This is closely related to [[Cognitive Bias#Confirmation bias|Confirmation Bias]], but easier to identify.
 
 [https://en.wikipedia.org/wiki/Appeal_to_consequences](https://en.wikipedia.org/wiki/Appeal_to_consequences)
+
+&nbsp;
 
 ### Appeal to Pity
 Attempting to sway the audience by using emotional tactics to gain sympathy. 
@@ -92,13 +108,21 @@ Attempting to sway the audience by using emotional tactics to gain sympathy.
 Ex: “Since Mormons have been persecuted throughout the years, this faith must be true or otherwise these people wouldn’t have been attacked.”
 
 It is true that some Mormons have been persecuted over the past two centuries. However, even if it’s true that Mormons have been unduly persecuted, this does not validate Mormonism’s truth claims. If so, would the Mormon consider biblical Christianity to be true merely because Christians around the world are persecuted on a daily basis for _their_ faith?
-### Appeal to Possibility
 
+&nbsp;
+
+### Appeal to Possibility
 _But its not impossible!_
 
 This is surprisingly common. Pretty much anything is possible, we _could_ all be in the Matrix. But possibility is not sufficient to justify belief.
 
 In the context of Mormonism, we'd then need to concede that all those lies about Joseph Smith are also possible. If one were to say that there's no way he destroyed the printing press for the Expositor, or used the Nauvoo Safety Society to defraud followers, this logical fallacy must also apply to that. It's not impossible that he did those things. In fact, there's documentation to support that he did those things.
+
+There is a very small chance that a shark could be lifted from the Atlantic Ocean by a tornado, and flung so far inland that it chomps on you before crashing into the ground. The chances of that are *remarkably* small, but not zero.
+
+Is it impossible for Nephi to have [[Seafaring|built a transoceanic ship]] in ~570 BC? No, it's not impossible. Is it more likely than a localized sharknado ruining your afternoon? 🤷
+
+&nbsp;
 
 ### Bandwagon
 Believing a view is correct because of its popularity. 
@@ -107,6 +131,8 @@ Believing a view is correct because of its popularity.
 Even if it were true that Mormonism is “one of the fastest growing religions,” this does not necessarily mean it’s true. Spiritual truth is not determined by popularity or growth in numbers.
 
 Closely related to Appeal to Popularity.
+
+&nbsp;
 
 ### Burden of Proof
 
@@ -117,6 +143,9 @@ Nearly every discussion will invoke this fallacy. You don’t have to show the c
 [https://en.m.wikipedia.org/wiki/Burden_of_proof_(philosophy)](https://en.m.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 
 [https://rationalwiki.org/wiki/The_Dragon_in_My_Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage)
+
+&nbsp;
+
 ### Circular Reasoning
 
 _God exists because the Bible says so, and God wrote the Bible so it must be true_
@@ -125,7 +154,7 @@ _God exists because the Bible says so, and God wrote the Bible so it must be tru
 When the argument being made relies upon the argument being true. This can be difficult to identify sometimes because its not always obvious, but always focus on what assumptions an argument is making, and sometimes you’ll find the conclusion hiding there.
 
 Made up example:
-> _"When I pray to know the BoM is true, then the spirit will gives me a good feeling which confirms to me the book is true."_
+> _"When I pray to know the BoM is true, then the spirit will give me a good feeling which confirms to me the book is true."_
 
 How do you know what you are feeling is a 'spirit' of God making you feel that way, and not just a conditioned feeling, or meditative peace, or any number of other sources that give you the nice feeling?
 
@@ -133,9 +162,12 @@ How do you know what you are feeling is a 'spirit' of God making you feel that w
 
 But how do you know the book of mormon is telling you the truth?
 
-> _"Because I prayed and I felt the spirit, so I know it is true!"_
+> _"Because I prayed and I felt the spirit, [[Emotional Thinking|so I know it is true]]!"_
 
 [https://en.m.wikipedia.org/wiki/Circular_reasoning](https://en.m.wikipedia.org/wiki/Circular_reasoning)
+
+&nbsp;
+
 ### False Cause
 _"Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax."_
 
@@ -148,6 +180,9 @@ Joseph Smith didn't offer up his life for the church. He went to jail for a vari
 Moreover, Smith had used a smuggled firearm to shoot at the mob to defend himself, blocking their entrance, trying to escape through a window in a bid for survival. Does this sound like a martyr? Did he "die for the church"?
 
 https://yourlogicalfallacyis.com/false-cause
+
+&nbsp;
+
 ### False Dilemma
 **Also called False Dichotomy**
 
@@ -171,6 +206,8 @@ How confident are we in the conclusion that “there is no other option”?
 
 [https://rationalwiki.org/wiki/False_dilemma](https://rationalwiki.org/wiki/False_dilemma)
 
+&nbsp;
+
 #### Disjunction with contraries
 Ooh, the False Dilemma even has subtopics!
 
@@ -181,6 +218,8 @@ Both are an example of XOR logic gate (exclusive "or")
 A politician could say "either vote for me, or lose the dream of a great America!"
 A pet food manufacturer could say "you can either buy *our* dog food, or your dog will be sad forever."
 
+&nbsp;
+
 ### Faulty Appeal to Authority
 Basing an argument on the opinion of a person or group. 
 
@@ -190,12 +229,16 @@ This person’s bishop may be knowledgeable in his particular field of expertise
 
 Other example would be trusting one's preferred politician to know about microbiology. Or, trusting a cardiac surgeon to know how to handle virology. Good thing neither of those things have ever happened! 🫢
 
+&nbsp;
+
 ### Genetic fallacy
 Rejecting an idea based on its origin rather than on its merit. 
 
 *“I found this video critical of Mormonism on a website that is not sponsored by the church, so its claims must be wrong.”*
 
 Rather than disparaging the source of the information, the argument itself should be the focal point of the disagreement. Someone you don't like can be correct.
+
+&nbsp;
 
 ### God of the Gaps
 
@@ -206,6 +249,9 @@ Humans have a long and well documented history of invoking deities and other uni
 [https://en.m.wikipedia.org/wiki/God_of_the_gaps](https://en.m.wikipedia.org/wiki/God_of_the_gaps)
 
 [https://en.m.wikipedia.org/wiki/Argument_from_ignorance](https://en.m.wikipedia.org/wiki/Argument_from_ignorance)
+
+&nbsp;
+
 ### No true Scottsman
 
 _Yeah but she (exmo) never had a testimony to begin with_
@@ -214,6 +260,8 @@ Nearly always used to dismiss experiences from former members. Very common among
 
 [https://en.m.wikipedia.org/wiki/No_true_Scotsman](https://en.m.wikipedia.org/wiki/No_true_Scotsman)
 
+&nbsp;
+
 ### Personal incredulity
 Because something is difficult to understand, it must be untrue. 
 
@@ -221,12 +269,16 @@ Because something is difficult to understand, it must be untrue.
 
 Trying to harmonize all the verses in the Bible that speak about God certainly involves in-depth study. But just because an explanation of something is not always simple does not make the premise false. There are many mysteries in Mormonism that also can’t be understood, including determining the reality of an infinite regression of the gods (determining just who the first God is).
 
+&nbsp;
+
 ### Red herring
 Diverting the topic at hand by introducing another topic. 
 
 *After having a Christian share about salvation by grace through faith outside the grounds of Temple Square, a Mormon responds, “Do you share your faith at Muslim mosques or Buddhist temples? If not, why don’t you go to those places instead of targeting Latter-day Saints?”*
 
 Getting off-topic is a diversionary tactic meant to sideline the conversation. An appropriate reply might be: “I’d be more than happy to talk about that issue, but could we first finish our conversation on salvation by grace through faith?”
+
+&nbsp;
 
 ### Sharpshooter fallacy
 
@@ -241,6 +293,8 @@ Focusing on all the "hits" and ignoring all the "misses".
 - President Nelson predicted the Covid pandemic by saying that 2020’s general conference would be unlike others. Or his post to 'take your vitamins'.
 - Joseph Smith predicted the civil war! (Ignoring his predictions of the end of the world or 2nd coming of Christ, or other vague prophecies)
 
+&nbsp;
+
 ### Special Pleading
 
 Having standards that apply to others, but not oneself, without applying justification for the exemption. 
@@ -252,6 +306,9 @@ Even though LDS scripture insists that no sin will be acceptable to God, those 
 This can happen between sects of Christianity, trying to make a case for their congregation. Every faith adherent has spiritual experiences, they will nearly always invoke a special pleading fallacy to try and claim theirs is special and different.
 
 [https://en.m.wikipedia.org/wiki/Special_pleading](https://en.m.wikipedia.org/wiki/Special_pleading)
+
+&nbsp;
+
 ### Strawman Fallacy
 Making a particular position look weak by misrepresenting the argument. 
 
@@ -266,6 +323,9 @@ Smith gives an inaccurate analysis of what the Trinity teaches, making it easy 
 We have all experienced a misrepresentation of what we said or believe, and it’s important to call out this fallacy. This is probably the most common fallacy of all time.
 
 [https://en.m.wikipedia.org/wiki/Straw_man](https://en.m.wikipedia.org/wiki/Straw_man)
+
+&nbsp;
+
 ### Tu quoque
 Latin for "you too."
 Can also be called "two wrongs don't make a right" fallacy.
@@ -277,26 +337,30 @@ An attempt to ignore a criticism by pointing out an inconsistency or hypocrisy o
 Instead of explaining the racist comments made by past LDS leaders, it avoids the criticism by pointing out the possible hypocrisy of the person asking the question.
 
 ## Rationalist Principles to understand
-
 ### Motivated Reasoning vs Critical Reasoning
 
 The most important rationalist principle in my opinion, and the root cause of most of these fallacies is reasoning backwards from a favored or predetermined conclusion. We all do this because we have strong preferences for truth outcomes and we let those bias us. The wikipedia article is excellent:
 
 [https://en.m.wikipedia.org/wiki/Motivated_reasoning](https://en.m.wikipedia.org/wiki/Motivated_reasoning)
 
+&nbsp;
+
 ### Evidence
 If something is claimed as evidence in favor, then the inverse must be evidence against. E.g. if someone claims their deity helped them find their keys and this is evidence in favor, ask them if they hadnt found their keys, would they have counted that as evidence against God’s existence? This is how you spot confirmation bias.  
 
+&nbsp;
+
 #### Sagan Standard
-Extraordinary claims require extraordinary evidence
+Extraordinary claims require extraordinary evidence.
 
 [https://en.m.wikipedia.org/wiki/Sagan_standard](https://en.m.wikipedia.org/wiki/Sagan_standard)
+
+&nbsp;
+
 #### Hitchen's Razor
 That which is asserted without evidence can be dismissed without evidence
 
-
 [https://en.m.wikipedia.org/wiki/Hitchens%27s_razor](https://en.m.wikipedia.org/wiki/Hitchens%27s_razor)
-  
 
 #### Pathos, Logos, Ethos
 

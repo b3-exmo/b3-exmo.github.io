@@ -6,6 +6,7 @@ comments: true
 
 - [x] Add comment sections
 - [ ] Book of Mormon Edition Changes
+- [ ] Polish the [[DC 132]] page
 
 ## Topics
 ### To be added
