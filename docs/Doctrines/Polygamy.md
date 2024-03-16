@@ -5,11 +5,30 @@ comments: true
 ## Required for exaltation!
 > It is the word of the Lord, and I wish to say to you, and all the world, that if you desire with all your hearts to obtain the blessings which Abraham obtained, ==you will be polygamists at least in your faith, or you will come short of enjoying the salvation and the glory which Abraham has obtained. This is as true as that God lives.==
 >
-> You who wish that there were no such thing in existence, if you have in your hearts to say: “We will pass along in the Church without obeying or submitting to it in our faith or believing this order, because, for aught that we know, this community may be broken up yet, and we may have lucrative offices offered to us; we will not, therefore, be polygamists lest we should fail in obtaining some earthly honor, character, and office, etc.” The man that has that in his heart, and will continue to persist in pursuing that policy, will come short of dwelling in the presence of the Father and the Son, in celestial glory.
+> . . . The man that [resists polygamy] in his heart, and will continue to persist in pursuing that policy, will come short of dwelling in the presence of the Father and the Son, in celestial glory.
 >
-> The only men who become Gods, even the Sons of God, are those who enter into polygamy. Others attain unto a glory and may even be permitted to come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to accept them.
+> ==The only men who [[Becoming Gods|become Gods]], even the Sons of God, are those who enter into polygamy==. Others attain unto a glory and may even be permitted to come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to accept them.
 
-— _[Journal of Discourses 11:269](https://jod.mrm.org/11/266#269)_, Brigham Young
+— _[Beneficial Effects of Polygamy](https://jod.mrm.org/11/266#269)_, Brigham Young, Journal of Discourses 11:269
+
+&nbsp;
+
+> Celestial marriage is for the fullness of the glory of god. It is the crowning glory. ==A man has no right to one wife unless he is worthy of two==. . . . There is no provision made for those who have had the chance & [opportunity] and have disregarded that law. Men who disregard that law are in the same situation as if they broke any other law. they are transgressors.
+
+— Apostle Francis M. Lyman, quoted in Van Wagoner, [Mormon Polygamy](https://archive.org/details/mormonpolygamyhi0000vanw/page/n9/mode/2up), p. 97
+
+&nbsp;
+
+### God is polygamist, too
+> “Yes, [polygamy is] one of the relics of Adam, of Enoch, of Noah, of Abraham, of Isaac, of Jacob, of Moses, David, Solomon, the Prophets, ==of Jesus, and his apostles==.”
+
+— _[The Improved Condition of the Saints, etc.](https://jod.mrm.org/11/321#328)_, Brigham Young, Journal of Discourses 11:328
+
+&nbsp;
+
+> “The Scripture says that ==He, the Lord==, came walking in the Temple, with His train; I do not know who they were, unless ==His wives== and children; but at any rate they filled the Temple, and how many there were who could not get into the Temple I cannot say. This is the account given by Isaiah, whether he told the truth or not I leave every body to judge for himself.”
+
+— _[Gathering the Poor—Religion a Science](https://jod.mrm.org/13/300#309)_, Brigham Young, Journal of Discourses 13:309
 
 ---
 
@@ -76,9 +95,7 @@ _From <_[_https://www.mormondialogue.org/topic/67255-teen-age-marriage-ages-of-t
 
 ### My analysis
 
-I did get the census data for 1830 to do some cursory number crunching (as one does). Here’s what I found:
-
-It’s 1830, so black and white men and women are four different categories. I’ve summed up white male and white female, in buckets of 15 - 19; 20 - 29; 30 - 39; 40 - 49;
+I did get the census data for 1830 to do some cursory number crunching (as one does). Given the time period, black and white men and women are four different categories. I’ve summed up white male and white female, in buckets of 15 - 19; 20 - 29; 30 - 39; 40 - 49; Here’s what I found:
 
 |              | 15 - 19 | 20 - 29 | 30 - 39 | 40 - 49 | Total     |
 | ------------ | ------- | ------- | ------- | ------- | --------- |
@@ -116,7 +133,7 @@ Footnote to cite the above claim is as follows:
 
 >See Brian C. Hales, “Encouraging Joseph Smith to Practice Plural Marriage: The Accounts of the Angel with a Drawn Sword,” Mormon Historical Studies 11, no. 2 (Fall 2010): 69–70.
 
-No hyperlink. No worries, [[#Corroborating claimants|I found it]].
+I did end up [[#Corroborating claimants|finding the source]] for this.
 
 Other note in that essay:
 
@@ -175,7 +192,6 @@ Sex doesn’t 100% result in conception every time, as I understand it, there ar
 [https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up](https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up)
 
 ## Conflicting accounts
-
 There are numerous documents to suggest that Joseph Smith did not practice polygamy. There also exist many documents to suggest that he did. There exists documentary evidence that later church leaders (Young, Taylor, etc) retrofitted Joseph’s revelations like [[DC 132]] to endorse polygamous behavior post-mortem.
 
 We can banter about that until we’re blue in the face. What is **not** be up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor.

@@ -16,6 +16,8 @@ comments: true
 
 [[Theology]]
 
+[[What are blessings]]
+
 ## Time
 
 > "Let’s say that the consensus is that our species, we being the higher primates, has been on the planet for at least 100,000 years, maybe more. Francis Collins says 100,000, Richard Dawkins thinks a quarter-of-a-million. I’ll take 100,000…
@@ -26,21 +28,24 @@ comments: true
 >
 > This is nonsense; it can’t be believed by a thinking person."
 
-Christopher Hitchens
+— Christopher Hitchens
+
+I've encountered this quote in isolation a few times ([1](https://www.imdb.com/title/tt1572150/characters/nm0386899), [2](https://www.goodreads.com/quotes/919133-let-s-say-that-the-consensus-is-that-our-species-being), [3](https://hitchensdebates.blogspot.com/2010/07/hitchens-vs-wilson-kings-college.html)) but I've not yet seen a primary source for it.
+
+&nbsp;
 
 ## Scale
-
 The universe is huge, like really, incredibly, un-fucking-believably huge. The idea that any creature capable of creating and managing the whole of creation would care about something as cosmically insignificant as our galaxy, much less our specific planet and it’s myopic inhabitants, isn’t just arrogant, its outrageous and insane.
 
-The more I thought about it, the more I concluded that, should any being capable of forging our reality exist, we wouldn’t _want_ it’s attention. Would it even perceive us as alive? We’d be less than bacteria in comparison to it.
-
-I don’t believe there is a creator, but if there is, I think I’d prefer to avoid it’s gaze.
+The more I thought about it, the more I concluded that, should any being or entity capable of forging our reality exist, we wouldn’t _want_ it’s attention. Would it even perceive us as alive? It would see us the way we see bacteria, if even with that level of respect. I don’t believe there is a creator, but if there is, I think I’d prefer to avoid it’s gaze or awareness.
 
 Put this further in perspective to the context of Mormonism; supreme creator of the universe would be _unfathomably_ petty to have created our universe, and gets exceptionally pissy if you do specific things:
 
 - Don’t say Mormon
 - Don’t drink coffee
 - I made you gay or with body dysmorphia; how dare you “act on it”, for whatever actions that leads to
+
+&nbsp;
 
 ## Proselytizing
 ### Quora

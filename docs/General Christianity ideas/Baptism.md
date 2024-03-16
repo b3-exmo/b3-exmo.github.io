@@ -2,9 +2,7 @@
 comments: true
 ---
 # 🌊 Baptism
-
 ## Age of Accountability
-
 Not pointing to a specific bishop or human, this is hypothetical: Would a given bishop excommunicate an 8 or 9 year old child, for whatever apostate behavior? Or would he think that the child was too young and didn’t understand what their sin was and wouldn’t understand being excommunicated. If so, then the child has not reached the age of accountability.
 
 **Have you ever talked to an 8-year-old?**
@@ -12,6 +10,8 @@ Not pointing to a specific bishop or human, this is hypothetical: Would a given 
 Granted, the Book of Mormon does teach about not baptizing “little children”. That’s about as far as that discourse goes, though- not much mention of accountability, or forbidding those 7 years or younger.
 
 Can you point me to any other culture or society, modern or ancient, that settled on 8 years being a milestone for accountability and responsibility? If that was inspired of God, wouldn’t other Christian denominations have at least approximated that idea? If it was part of God’s eternal, unchanging truth, wouldn’t there be mention of it in the NT or BoM?
+
+&nbsp;
 
 ### Who else does this?
 I’ll answer my own question!
@@ -41,7 +41,6 @@ I suppose the conclusion to arrive at is that an age of accountability isn’t u
 It’s an amazing coincidence how many 8 year olds have chosen to have the same religious beliefs as their parents, don’t you think?
 
 ## Peer pressure
-
 > This pressure is often strongest during childhood and teenage years, when there is a powerful **need to be accepted** by one’s peers.
 
 [https://www.churchofjesuschrist.org/study/manual/gospel-topics/peer-pressure?lang=eng](https://www.churchofjesuschrist.org/study/manual/gospel-topics/peer-pressure?lang=eng)
@@ -50,31 +49,28 @@ Do 8 year old children really decide on their own to be baptized?
 
 This is not a rhetorical question. Do they? What factors influence that decision, however small?
 
+&nbsp;
+
 ## Scriptural backing
+> Behold I say unto you that this thing shall ye teach—repentance and baptism unto those who are ==accountable and capable of committing sin==; yea, teach parents that they must repent and be baptized, and humble themselves as their little children, and they shall all be saved with their little children.
 
-### Moroni 8
+> And their little ==children need no repentance, neither baptism==. Behold, baptism is unto repentance to the fulfilling the commandments unto the remission of sins.
 
-> **_10_** _Behold I say unto you that this thing shall ye teach—repentance and baptism unto those who are_ **_accountable and capable of committing sin_**_; yea, teach parents that they must repent and be baptized, and humble themselves as their little children, and they shall all be saved with their little children._
-
-> **_11_** _And their little_ **_children need no repentance, neither baptism_**_. Behold, baptism is unto repentance to the fulfilling the commandments unto the remission of sins._
-
-[https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng&id=p10-p11#p10](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng&id=p10-p11#p10)
+— _[Moroni 8:10-11](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng&id=p10-p11#p10)_
 
 &nbsp;
 
-### D&C 18:42
+> For all men must repent and be baptized, and not only men, but women, and ==children who have arrived at the years of accountability==.
 
-> _For all men must repent and be baptized, and not only men, but women, and_ **_children who have arrived at the years of accountability_**_._
-
-[https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=eng&id=p42#p42](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=eng&id=p42#p42)
+— _[D&C 18:42](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=eng&id=p42#p42)_
 
 &nbsp;
 
-### D&C 68:27
+> And their children shall be ==baptized for the remission of their sins when eight years old==, and receive the laying on of the hands.
 
-> And their children shall be baptized for the remission of their sins **when eight years old**, and receive the laying on of the hands.
+— _[D&C 68:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng&id=p27#p27)_
 
-[https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng&id=p27#p27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng&id=p27#p27)
+&nbsp;
 
 Interested to dig into that; this suggests that an eight-year-old is universally guilty of sin on their birthday…? Because at that point they’re accountable, I suppose.
 

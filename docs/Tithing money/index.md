@@ -42,7 +42,7 @@ Quote often used by the church:
 
 > _“Prove me now herewith . . . if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.”_
 
-Chapter divisions weren’t present in King James Version until the 1500’s. The book of Malachi was one big ol' wall of text. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
+Chapter divisions weren’t present in the original revisions of the King James Version. The book of Malachi was one big ol' wall of text. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
 
 [Chapter 3 verses 8 - 11](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p8-p11#p8) are not directed to the general public to contribute to God’s storehouse. They’re reprimanding the priests for misusing the tithing funds to live lavishly. Malachi is saying that this misuse of tithing is why, as 3:9 says, “[ye are cursed.](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p9#p9)”
 
