@@ -8,7 +8,7 @@ comments: true
 
 — _[8th Article of Faith](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p8#p8)_
 
-What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#JST]] address all of them, and the LDS Standard Works OT & NT are now “translated correctly”? I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in.
+What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#Joseph Smith Translation|JST]] address all of them, and the LDS Standard Works OT & NT are now “translated correctly”? I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in.
 
 Without clarification, it sounds like this gives the church permission to repudiate specific parts, as if “that’s one of the mistranslated parts” but what supports our existing doctrine is translated fine.
 

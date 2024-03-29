@@ -4,6 +4,8 @@ comments: true
 # 💵Tithing Money
 [[Audits]]
 
+[[In General Conference]]
+
 Quick note: I would like to be proven wrong about the ideas in this page. To me, this is disheartening, and to you, it may sound very pessimistic. If you have compelling information that disproves any of this, there's a comment section at the bottom of each page.
 
 &nbsp;
@@ -78,6 +80,11 @@ That ellipsis and that footnote are doing some heavy lifting. What is it omittin
 — _[1899 General Conference Report](https://archive.org/details/conferencereport1899sa/page/28/mode/2up?q=who+has+means)_, archive.org
 
 **“who has means”** changes the context of this commandment. It necessarily excludes those who are impoverished. “I plead” does not really sound like it should be equated to “thus saith the Lord”.
+
+Also note in the top right corner of that image is year-over-year comparisons of tithing money "paid" in July - September, 1808 - 1809. I wonder why they stopped publishing information like that?
+
+&nbsp;
+
 ## Joseph F Smith
 >_Furthermore, I want to say to you, we may not be able to reach it right away, but we expect to see the day when ==we will not have to ask you for one dollar of donation== for any purpose, except that which you volunteer to give of your own accord, because we will have tithes sufficient in the storehouse of the Lord to pay ==everything that is needful== for the advancement of the kingdom of God._
 

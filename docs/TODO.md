@@ -93,3 +93,5 @@ comments: true
 - [ ] Scrupulosity
 - [ ] "Doesn't appear in the scriptures"
 - [ ] Church Internal Audit Department
+- [ ] Prosperity Gospel
+- [ ] 

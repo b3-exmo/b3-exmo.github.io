@@ -3,7 +3,7 @@ comments: true
 ---
 # 😶‍🌫️ Theology
 ## LDS God
-Quick note: For clarity's sake, I'm referring to God the Father as [Elohim](https://en.wikipedia.org/wiki/Elohim). That ~~name~~ word appears in [Hebrew](https://www.britannica.com/topic/Elohim) transcripts, and even in the [LDS Topical Guide](https://www.churchofjesuschrist.org/study/scriptures/tg/god-the-father-elohim?lang=eng). Its [etymology](https://www.theopedia.com/elohim) suggest that *El* may be singular, the suffix *-im* is plural and masculine. I surmise this is why the Nicaean Counsel took more than five minutes to settle on trinitarianism- the Hebrew transcripts aren't monotheistic, as mentions of Elohim literally does not refer to one being, but a plurality of deities.
+Quick note: For clarity's sake, I'm referring to God the Father as [Elohim](https://en.wikipedia.org/wiki/Elohim). That ~~name~~ word appears in [Hebrew](https://www.britannica.com/topic/Elohim) transcripts, and even in the [LDS Topical Guide](https://www.churchofjesuschrist.org/study/scriptures/tg/god-the-father-elohim?lang=eng). Its [etymology](https://www.theopedia.com/elohim) suggest that *El* may be singular, the suffix *-im* is plural and masculine. I surmise this is why the Nicaean Counsel took more than five minutes to settle on trinitarianism- the Hebrew transcripts are **not** monotheistic, as mentions of Elohim literally does not refer to one being, but a plurality of deities.
 
 LDS Theology, for some reason, has settled on the idea that the Hebrew word for "two or more male gods" means the name of one individual.
 ### Oversimplification
@@ -28,6 +28,9 @@ Don’t forget that even after passing the test, not letting demons sway you int
 God *requires* justice, but can't bring himself to forgive outright. So, he needs a *blood offering* to be happy with us.
 
 Think of that. The God of Christianity requires suffering for sins, and we're made to sin. We're imperfect enough that it's inevitable. God made us this way! He requires blood to be happy with his creations!
+
+&nbsp;
+
 ### Is God's love conditional?
 Well, yes, but actually no.
 #### Yes, it's conditional!
@@ -39,11 +42,10 @@ Well, yes, but actually no.
 
 I can't explain why, but when LDS leaders use alliteration like that, it just gives me Facebook-boomer minion-meme vibes.
 
+To be clear, Nelson in the quoted section seems to be focusing on the conditionality of *love*. I'm not making the argument that all blessings, salvation, prosperity etc should all be unconditional. While [searching for material related to this topic](https://www.churchofjesuschrist.org/search?lang=eng&query=unconditional&page=1&facet=all), I encountered many passages describing God's blessings, or the effects of Christ's Atonement as being conditional. I don't see those notions as problematic as love being conditional.
+
 &nbsp;
 
-(spoilers ahead: Nelson isn't the only one who teaches this. [[#Slow down, now, buddy|More on that later]])
-
-To be clear, Nelson in the quoted section seems to be focusing on the conditionality of *love*. I'm not making the argument that all blessings, salvation, prosperity etc should all be unconditional. While [searching for material related to this topic](https://www.churchofjesuschrist.org/search?lang=eng&query=unconditional&page=1&facet=all), I encountered many passages describing God's blessings, or the effects of Christ's Atonement as being conditional. I don't see those notions as problematic as love being conditional.
 ##### Is that a problem?
 Yes, that's a problem.
 
@@ -84,8 +86,6 @@ True. To find those quotes, I literally just googled "_parents conditional love_
 But what other implications does this idea of conditional love carry?
 
 >A new commandment I give unto you, That ye love one another; ==as I have loved you, that ye also love one another==.
->
->By this shall all men know that ye are my disciples, if ye have love one to another.
 
 [John 13:34-35](https://www.churchofjesuschrist.org/study/scriptures/nt/john/13?lang=eng&id=34-35#p34)
 
@@ -95,13 +95,7 @@ Is this saying that "you should *also* love conditionally"?
 
 >**9** ==As the Father hath loved me, so have I loved you==: continue ye in my love.
 >
->**10** ==If ye keep my commandments, ye shall abide in my love==; even as I have kept my Father’s commandments, and abide in his love.
-> 
->. . .
-> 
 >**12** This is my commandment, That ye ==love one another, as I have loved you==.
->
->**13** Greater love hath no man than this, that a man lay down his life for his friends.
 >
 >**14** Ye are my friends, ==if ye do whatsoever I command you==.
 
@@ -112,6 +106,29 @@ Boy, reading this with the context of conditional love does change things... for
 Jesus is straight up saying that Elohim's love for Jehovah is conditional, so that condition is being passed on to His mortal disciples on Earth.
 
 Nelson's [[#Yes, it's conditional!|talk]] does outline [more examples like this](https://www.churchofjesuschrist.org/study/ensign/2003/02/divine-love?lang=eng&id=title8#title8)!
+
+&nbsp;
+
+##### Anyone else teach this?
+I haven't looked outside of Mormonism for an answer to that, but I can observe that [[#Yes, it's conditional!|address from Elder Nelson]] is an easy target to wail on for teaching the idea that divine love is conditional. For what it's worth, Nelson isn't the only one to teach that.
+
+>There are many ways to describe and speak of divine love. One of the [[#Maybe it's actually *unconditional*?|terms we hear often today]] is that God’s love is “unconditional.” While in one sense that is true, the descriptor _unconditional_ appears nowhere in scripture. Rather, His love is described in scripture as “great and wonderful love,” “perfect love,” “redeeming love,” and “everlasting love.” These are better terms because the word _unconditional_ can convey mistaken impressions about divine love, such as, God tolerates and excuses anything we do because His love is unconditional. . .
+
+_["Abide in My Love"](https://www.churchofjesuschrist.org/study/general-conference/2016/10/abide-in-my-love?lang=eng&id=p4#p4)_, D. Todd Christofferson, General Conference October 2016
+
+&nbsp;
+
+>**The Love of God Does Not Excuse Sin; Rather, It Offers Redemption.**
+>
+>Because God’s love is all-embracing, some speak of it as “unconditional,” and in their minds they may project that thought to mean that God’s _blessings_ are “unconditional” and that _salvation_ is “unconditional.” They are not.
+
+_[The Love of God](https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=eng&id=title2-p4#title2)_, D. Todd Christofferson, General Conference October 2021
+
+&nbsp;
+
+Call me a grouch if you think I deserve it, but I feel more inclined toward Christofferson's presentation of this idea- it feels more approachable. It feels like a charitable, patient clarification, rather than "you thought you were loved, but _psych_, you've gotta earn it first! Here's an alliteration to make that idea stick in your mind 😏"
+
+&nbsp;
 
 #### Maybe it's actually *unconditional*?
 >... all men are literally the children of Almighty God, that each of us is the spirit child of a Heavenly Father who loves us and by whom we are esteemed as one, who is as concerned and interested in the least of men as He is in the most seemingly righteous of men, who establishes and preserves laws which when lived produce blessings, which when broken result in sad consequences; but a God who, though He will not protect men from the effects of their own bad choices, ==unceasingly, unremittingly, unreservedly, unconditionally loves the individual==.
@@ -179,20 +196,3 @@ One could argue these two aren't "prophetic", but I don't think there's any ques
 Latter-day Saints Channel, [Seeing Others Through God’s Eyes](https://www.churchofjesuschrist.org/inspiration/seeing-others-through-gods-eyes), 2016
 
 ### Slow down, now, buddy
-That [[#Yes, it's conditional!|address from Elder Nelson]] is an easy target to wail on for teaching the idea that divine love is conditional, but... for what it's worth, Nelson isn't the only one to teach that.
-
->There are many ways to describe and speak of divine love. One of the terms we hear often today is that God’s love is “unconditional.” While in one sense that is true, the descriptor _unconditional_ appears nowhere in scripture. Rather, His love is described in scripture as “great and wonderful love,” “perfect love,” “redeeming love,” and “everlasting love.” These are better terms because the word _unconditional_ can convey mistaken impressions about divine love, such as, God tolerates and excuses anything we do because His love is unconditional, or God makes no demands upon us because His love is unconditional, or _all_ are saved in the heavenly kingdom of God because His love is unconditional. God’s love is infinite and it will endure forever, but what it means for each of us depends on how we respond to His love.
-
-["Abide in My Love"](https://www.churchofjesuschrist.org/study/general-conference/2016/10/abide-in-my-love?lang=eng&id=p4#p4), General Conference October 2016, D. Todd Christofferson
-
-&nbsp;
-
->**The Love of God Does Not Excuse Sin; Rather, It Offers Redemption.**
->
->Because God’s love is all-embracing, some speak of it as “unconditional,” and in their minds they may project that thought to mean that God’s _blessings_ are “unconditional” and that _salvation_ is “unconditional.” They are not. Some are wont to say, “The Savior loves me just as I am,” and that is certainly true. But He cannot take any of us into His kingdom just as we are, “for no unclean thing can dwell there, or dwell in his presence.” Our sins must first be resolved.
-
-[The Love of God](https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=eng&id=title2-p4#title2), General Conference October 2021, D. Todd Christofferson
-
-&nbsp;
-
-Call me a grouch if you think I deserve it, but I feel more inclined toward Christofferson's presentation of this idea- it feels more approachable. It feels like a charitable, patient clarification, rather than "you thought you were loved, but _psych_, you've gotta earn it first! Here's an alliteration to make that idea stick in your mind 😏"
