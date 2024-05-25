@@ -40,7 +40,7 @@ Well, yes, but actually no.
 
 🤔
 
-I can't explain why, but when LDS leaders use alliteration like that, it just gives me Facebook-boomer minion-meme vibes.
+I can't explain why, but when LDS leaders use alliteration like that, it just gives me Facebook Boomer minion-meme vibes.
 
 To be clear, Nelson in the quoted section seems to be focusing on the conditionality of *love*. I'm not making the argument that all blessings, salvation, prosperity etc should all be unconditional. While [searching for material related to this topic](https://www.churchofjesuschrist.org/search?lang=eng&query=unconditional&page=1&facet=all), I encountered many passages describing God's blessings, or the effects of Christ's Atonement as being conditional. I don't see those notions as problematic as love being conditional.
 

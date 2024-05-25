@@ -238,6 +238,20 @@ I don't think I need to point out that the City Creek project is not a homeless 
 Don't forget to check out their list of [stores](https://shopcitycreekcenter.com/stores/) that are paying the Church to be in their mall. You can't even fucking [park there](https://citycreekparking.com/) without paying.
 
 Is _this_ what Jesus taught? Is this a charitable organization with no independent audits, no public financial records, or accountability that you want to donate to?
+
+### What's wrong with this? 
+Take a step back and think rationally, maybe without cursing.
+
+Yes, the Church is within its rights to do this. They're accountable only to themselves. They didn't outright create a mall, there was a mall already there. It's downtown Salt Lake. A high-rise and a shopping center go in downtown, it's not out of place, nor is it misplaced. I don't have a source handy, but I had heard the claim that since the LDS faith practically founded Salt Lake, they have stakes, connections, ownership partially or wholly in industries and businesses. Is that, on its face, wrong? No. 
+
+**However...**
+
+Imagine seeing the Catholic Church buying up some established McDonald's franchises. Imagine the JW's Watchtower buying ownership of plastics manufacturing. 7th day Adventist owning a bus fleet, or railway.
+
+Now picture the LDS church owning a shopping mall and apartment complex. 
+
+None of those things are pearl-clutching revelations to bring the masses to grab their pitchforks and start lynching. They definitely feel out of place- the public image of these organizations and religions is that they're charitable, running on donations, not engaging in any commercial business. I feel a lot of cognitive dissonance reading about it. *I was raised to believe that the Church runs on donated tithes.* 
+
 ## Where **should** the money go?
 A shopping center that the church itself describes as luxurious? Extravagant temple furnishings? All for Jesus Christ, the man who was born in a stable, who taught sermons on boats, on the sides of roads, and on top of hills. The man who disliked extravagance. **The man who said “If you love me, feed my sheep.”**
 

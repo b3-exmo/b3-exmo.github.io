@@ -20,6 +20,8 @@ Yes, it’s another testament of Christ. Not focusing on that argument. What doc
 - Infant Baptism is wrong
 - ???
 
+&nbsp;
+
 Does not talk about temples, marriage, eternal marriage, afterlife, church leadership outside of First Presidency + Q15.
 
 Does it demonstrate the need for prophets?
@@ -31,7 +33,9 @@ There are no “truly” LDS doctrines are in there:
 - Two priesthood tiers (by whatever name we prefer)
 - Organization of church
 
-Even if it was true, the Book of Mormon’s main value would be a witness that Christ visited somewhere on the American continents and briefly ministered to the indigenous peoples within a small radius of His “landing spot.” But if you already believe in Christ, even that is basically just a fun fact.
+&nbsp;
+
+If this book was true, the Book of Mormon’s main value would be a witness that Christ visited somewhere on the American continents and briefly ministered to the indigenous peoples within a small radius of His “landing spot.” But if you already believe in Christ, that is basically just a fun fact.
 
 So much of Jesus’ ministry in the BoM was a repetition of the sermon on the mount, like in the New Testament. He set up sacrament communion, like he did in the New Testament.
 
@@ -41,7 +45,7 @@ BoM supports the idea of “other sheep I have which are not of this fold”… 
 
 If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]] church, it seems to leave a lot out. So much of the modern LDS church seems to be part of the Doctrine & Covenants, or the Pearl of Great Price.
 ### Pride cycle
-Pride precedeth the fall. Pride comes from righteous living. Do you see a problem with this yet? "You should strive and try and live the gospel. but... when you do... here's what's going to happen."
+*Pride precedeth the fall*. Pride comes from righteous living. Do you see a problem with this? "You should strive and try and live the gospel. but... when you do... here's what's going to happen."
 
 An awful lot of the Book of Mormon is what folks call the pride cycle:
 

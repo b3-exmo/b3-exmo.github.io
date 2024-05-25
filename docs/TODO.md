@@ -6,10 +6,14 @@ comments: true
 
 - [x] Add comment sections
 - [ ] Book of Mormon Edition Changes
-- [ ] Polish the [[DC 132]] page
+- [ ] Polish the [[DC 132|D&C 132]] page
 
 ## Topics
 ### To be added
+I have notes on these topics, but they aren't in a presentable condition. (Meaning, this webpage uses Markdown syntax, and the notes were originally written in Microsoft OneNote, so the formatting is all kinds of wonky)
+
+It's low-hanging fruit for me to process them and add them, just... I have a day job, is all. I'll get to it.
+
 - [x] Doctrines
     - [x] Polygamy
     - [x] Becoming Gods
@@ -65,6 +69,8 @@ comments: true
 - [x] Links & Other Material
 
 ### To be written
+Most of these topics I have some opinions on, dispositions, etc— maybe even some rudimentary notes. These are things I intend to expound on before publishing.
+
 - [ ] Succession crisis
 - [ ] American Frontier Magic
 - [ ] Anti-LGBT
@@ -94,4 +100,5 @@ comments: true
 - [ ] "Doesn't appear in the scriptures"
 - [ ] Church Internal Audit Department
 - [ ] Prosperity Gospel
-- [ ] 
+- [ ] The "Temple Lot Case" pertaining to polygamy
+- [ ] Persecution complex

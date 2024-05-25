@@ -5,9 +5,11 @@ comments: true
 How do we discern between faith and cognitive bias?
 
 ## Overview of Biases
-Biases are not inherently bad. There is simply too much information in the world for us to ingest and process, in order for us to come to a reliable conclusion. We have no choice but to filter it, or else we’d never come to a conclusion on anything. Cognitive biases are ways out brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so philosophically-minded folks have categorized some of these filtering methods as cognitive biases.
+==Biases are not inherently bad==. They are not a sign of ignorance, bad intention, nor contrarianism. 
 
-We don’t have all information on everything. We must extrapolate and fill in gaps. We are prone to doing this improperly. This notion isn’t really anti-religious, by my understanding. More of philosophical, neither for nor against religion. Recognizing them is used for logical discourse on any topic.
+There is simply too much information in the world for us to ingest and process, in order for us to come to a reliable conclusion. We have no choice but to filter it, or else we’d never come to a conclusion on anything. Cognitive biases are ways out brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so philosophically-minded folks have categorized some of these filtering methods as cognitive biases.
+
+We, as mortal, lay folk, don’t have all information on everything. We must extrapolate and fill in gaps. We are prone to doing this improperly. This notion isn’t really anti-religious, by my understanding. More of philosophical, neither for nor against religion. Recognizing them is used for logical discourse on any topic.
 
 We are humans with emotions. This is not something to be ashamed of. I don’t care how smart one thinks they are, every human is prone to this. I certainly am. Try as we may, being consistently and constantly open-minded is not feasible. You, reader, should be aware of these biases. Then, compare how they fit with your existing beliefs.
 

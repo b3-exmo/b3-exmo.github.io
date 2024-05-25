@@ -32,6 +32,18 @@ comments: true
 
 ---
 
+Three of the four quotes above are from Brigham Young. Yes, there are more than four discourses on the matter, these are ones I arbitrarily picked. What I want to emphasize is that many former Mormon folks will point to Joseph Smith and his polygamous affairs as awful, incriminating information that tarnishes his claims to authority.
+
+I don't feel like focusing on Smith is as much of a slam-dunk as other folks seem to think it is. I find all of the apologetics for Smith's polygamy to be vapid and nonsensical (I'll address some later in this page), but that's not really the issue. There's a lot of [[#Conflicting accounts|conflicting information]] about Smith concerning extramarital affairs.
+
+**However.**
+
+We can clutch our respective pearls at this idea, but... wait until you read about the latter succession of prophets. Brigham Young, John Taylor, Wilford Woodruff, Lorenzo Snow, et al were very much into polygamy, and were not discreet about it being sexual.
+
+This presents a problem. The Brighamite sect of Mormonism leaned pretty hard into polygamy, and I think a lot of that can be ascribed to the titular leader of that branch, Young himself. I'll have some [[Succession Crisis|more notes on the succession crisis]] written in the future, but as I understand it, part of that change in leadership included retrofitting some of Smith's documents to support Brigham's ideologies, including polygamy. Say what you will in Joseph's defense, but Brigham took it to the nth level, and his branch of Mormonism is what has survived the centuries to be known today at the Church of Jesus Christ of Latter-day Saints.
+
+Smith had some polygamous involvement, and has had plenty of slander thrown at him— some founded, some unfounded. Brigham Young and subsequent church leaders were much, much worse.
+
 ## Building up population
 
 Are you sure? I’ve encountered many insistent explanations that when Joseph Smith practiced polygamy, there was no boinking involved.
@@ -50,7 +62,7 @@ Don’t exclude verse 27, though:
 
 ---
 
-## Ages, Census analysis
+## Census analysis
 
 Marrying fourteen-year-olds is not normal today. Don’t tell me It was normal in Joseph Smith’s time, though.
 
@@ -66,11 +78,11 @@ Teenagers got married to other teenagers, not to the lord’s mouthpiece at thre
 
 US Census Bureau didn’t have granular detail in the 1800’s, but it’s got enough aggregate data for us to determine if something fits a pattern. The granularity did get better with subsequent decades, but it was a bit vague early on.
 
-Integrated Public Use Microdata Series ([https://usa.ipums.org/usa/](https://usa.ipums.org/usa/)) has census records you can download and analyze yourself.
+[Integrated Public Use Microdata Series]([https://usa.ipums.org/usa/](https://usa.ipums.org/usa/)) has census records you can download and analyze for yourself.
 
 &nbsp;
 
-The 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married.  They have two data points that you can try and guess the marriage age.  The first is a field for “Married in the last year”.  If that is checked, then the person’s age is most likely their age when they were married.  The second is a field for “Age of eldest child”.  Subtracting that from the parents age gives a really rough estimate of marriage age.
+he 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married. They have two data points that you can try and guess the marriage age. The first is a field for “Married in the last year”. If that is checked, then the person’s age is most likely their age when they were married. The second is a field for “Age of eldest child”.Subtracting that from the parents age gives a really rough estimate of marriage age.
 
 The 1900 census also has the age and marriage status but it also has a field for “Years of marriage”.  Subtracting that from the age should give the marriage age.
 
@@ -187,14 +199,14 @@ One way to circumvent suspicion is to engage in [polyandry](https://mit.irr.org/
 
 Contraception methods in the 1830’s might not be quite as sophisticated today, but… did they understand ovulation cycles to avoid conception? I can't really say with confidence.
 
-Sex doesn’t 100% result in conception every time, as I understand it, there are numerous factors at play. The absence of children does not mean there never were any extramarital affairs. It’s an indication, yes, but not a bulletproof refutation, either.
+Sex doesn’t 100% result in conception every time— as I understand it, there are numerous factors at play. The absence of children does not mean there never were any extramarital affairs. It’s an indication, yes, but not a bulletproof refutation, either.
 
 [https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up](https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up)
 
 ## Conflicting accounts
 There are numerous documents to suggest that Joseph Smith did not practice polygamy. There also exist many documents to suggest that he did. There exists documentary evidence that later church leaders (Young, Taylor, etc) retrofitted Joseph’s revelations like [[DC 132]] to endorse polygamous behavior post-mortem.
 
-We can banter about that until we’re blue in the face. What is **not** be up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor.
+We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is **not** be up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor.
 
 This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis.
 
