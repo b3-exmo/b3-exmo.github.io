@@ -13,58 +13,44 @@ comments: true
 
 — _[True or False](https://www.churchofjesuschrist.org/study/new-era/1995/06/true-or-false?lang=eng)_, President Jeffrey R. Holland, New Era, June 1995
 ## Fullness of the Gospel
-What, _specifically_, does the Bible lack that the BoM clears up?
-
-Yes, it’s another testament of Christ. Not focusing on that argument. What doctrine did BoM add?
+What, _specifically_, does the Bible lack that the Book of Mormon clears up? What doctrine did it add?
 
 - Infant Baptism is wrong
 - ???
 
 &nbsp;
 
-Does not talk about temples, marriage, eternal marriage, afterlife, church leadership outside of First Presidency + Q15.
-
-Does it demonstrate the need for prophets?
+It does not talk about temples, marriage, eternal marriage, afterlife, church leadership outside of First Presidency + Q15. Does it *demonstrate the need* for prophets? 
 
 There are no “truly” LDS doctrines are in there:
 
 - Temples
 - Temple ordinances
 - Two priesthood tiers (by whatever name we prefer)
-- Organization of church
+- Organization & centralization of **a** church, **the** true church
 
 &nbsp;
 
-If this book was true, the Book of Mormon’s main value would be a witness that Christ visited somewhere on the American continents and briefly ministered to the indigenous peoples within a small radius of His “landing spot.” But if you already believe in Christ, that is basically just a fun fact.
+If this book was true, the Book of Mormon’s main value would be a witness that Christ visited somewhere on the American continents and briefly ministered to the indigenous peoples within a small radius of His “landing spot.” **But if you already believe in Christ, that is basically just a fun fact.** Jesus presents no meaningfully new information, but his teachings are a direct copy of the KJV New Testament. It's enough to lead a skeptical reader to not see this testament of Christ as being very useful. The Book of Mormon supports the idea of “other sheep I have which are not of this fold”… but that is a bit vague in and of itself. Could have just as easily gone to Cape Town in South Africa. Or Mongolia. 
 
-So much of Jesus’ ministry in the BoM was a repetition of the sermon on the mount, like in the New Testament. He set up sacrament communion, like he did in the New Testament.
+If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]] church, it seems to leave a lot out. So much of the modern LDS church seems to be founded on the Doctrine & Covenants, or the Pearl of Great Price.
 
-Jesus presenting no meaningfully new information, but having a direct copy of the KJV New Testament, might lead a skeptical person to not see this testament of Christ as being very useful.
-
-BoM supports the idea of “other sheep I have which are not of this fold”… but that is a bit vague in and of itself. Could have just as easily gone to Cape Town in South Africa. Or Mongolia. Don’t quote me on where humans were in 33 AD, I’m making some broad assumptions.
-
-If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]] church, it seems to leave a lot out. So much of the modern LDS church seems to be part of the Doctrine & Covenants, or the Pearl of Great Price.
-### Pride cycle
+### Pride cycle vs Agency
 *Pride precedeth the fall*. Pride comes from righteous living. Do you see a problem with this? "You should strive and try and live the gospel. but... when you do... here's what's going to happen."
 
-An awful lot of the Book of Mormon is what folks call the pride cycle:
+An awful lot of the Book of Mormon is what its adherents call the pride cycle:
 
 - God blesses righteous, obedient people 
 - People become prideful & stop being obedient 
 - God has to punish the sinful, prideful people
 - People become humble & righteous
+- Rinse and repeat. 
 
-Rinse and repeat. 
+God rewards your obedience and righteousness with a reward corrupts you, bringing you to fall. God keeps perpetuating this cycle, and is going to keep the Lamanites a short distance away to use as a punishing tool for when you *obey too much*.
 
-1. You become more righteous
-2. You get rewarded
-3. That reward corrupts you, bringing you to fall
+Who breaks the cycle? Is it us? Are we meant to **not** be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle— God is the one who keeps blessing us. I won't be prideful anymore if God stops *making* me prideful. 
 
-God keeps perpetuating this cycle, and is going to keep the Lamanites a short distance away to use as a punishing tool for when you obey too much.
-
-Who breaks the cycle? Is it us? Are we meant to ==not== be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle— God keeps blessing us. I wont be prideful if God stops making me prideful. 
-
-He's had a more than a few years of experience with this cycle, you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever I get blessed by God? Is God trying to tell me that I shouldn't become humble and obedient? He sure seems to want to disincentivize that.
+God has had a more than a few years of experience with this cycle, you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever I get blessed by God? Is God trying to tell me that I shouldn't become humble and obedient? He sure seems to want to disincentivize that.
 
 &nbsp;
 
