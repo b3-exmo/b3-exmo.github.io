@@ -194,8 +194,8 @@ lol. lmao.
 
 &nbsp;
 
-### Vain Repetition
-#### Melchizedek Priesthood
+## Vain Repetition
+### Melchizedek Priesthood
 
 > _Why is the higher priesthood named after someone called Melchizedek? Wouldn’t it make more sense to name it after the Lord? The early Saints wondered about this, and the Lord explained it through the Prophet Joseph Smith:_
 
@@ -215,7 +215,7 @@ Also God: Don’t nickname my church after a righteous guy, Mormon. That doesn�
 
 &nbsp;
 
-#### Jehovah in the Old Testament
+### Jehovah in the Old Testament
 
 > Why then is Jehovah missing from our Bible translations? The answer can be found in the way His name has been treated by Jews since the days of Malachi and Zechariah. Jehovah is the name of God, and devout Jews, out of reverence for Him, never say His name. Instead they substitute Adonai, a Hebrew title meaning “Lord.” So whenever they speak of Him or read aloud His name from scripture, they substitute Adonai (Lord).
 
