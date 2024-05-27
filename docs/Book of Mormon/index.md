@@ -86,7 +86,7 @@ I think it's a useful illustration- if our relationship to God is like that of a
 
 &nbsp;
 
-## For our day, or for JS’ day?
+## Written for our day
 BoM answered a lot of the hotly debated controversies of the early 1800’s 2nd Great Awakening, Calvinism, Rationalism, Deism, etc.
 
 - Is a literal baptism required?
