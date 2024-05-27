@@ -7,6 +7,7 @@ comments: true
 - [x] Add comment sections
 - [ ] Book of Mormon Edition Changes
 - [ ] Polish the [[DC 132|D&C 132]] page
+- [ ] Structure images into folders
 
 ## Topics
 ### To be added
@@ -29,6 +30,8 @@ It's low-hanging fruit for me to process them and add them, just... I have a day
     - [x] Infallibility
     - [x] Natural Man
     - [x] SCMC
+    - [x] Truth
+    - [x] Name "Mormon"
 - [x] General Christianity Ideas
     - [x] Exaltation, afterlife
     - [x] Bible
@@ -50,7 +53,6 @@ It's low-hanging fruit for me to process them and add them, just... I have a day
     - [ ] George A Smith
     - [ ] Thomas S Monson
     - [ ] Russel M Nelson
-        - [ ] Name "Mormon"
 - [ ] Race
     - [ ] Comments from Modern Church Leadership
     - [ ] In Scripture
