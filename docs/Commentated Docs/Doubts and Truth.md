@@ -14,7 +14,7 @@ I’ll copy them here and offer some thoughts. Not comprehensive or definitive, 
 ---
 
 > “There is no need for you or for me, in this enlightened age when the fulness of the gospel has been restored, to sail uncharted seas or to travel unmarked roads in search of truth. A loving Heavenly Father has plotted our course and provided an unfailing guide- even obedience. A knowledge of truth and the answers to our greatest questions come to us as we are obedient to the commandments of God”  
-> (Thomas S. Monson, “Obedience Brings Blessings,” Ensign or Liahona, May 2013, 89).  
+> (Thomas S. Monson, “Obedience Brings Blessings,” Ensign or Liahona, May 2013, 89). 
 
 This sounds like we’re being discouraged from exploring outside the beaten path. Don’t look for any information outside of what we’ve approved to tell you.
 

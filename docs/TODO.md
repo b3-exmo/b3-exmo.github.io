@@ -6,7 +6,7 @@ comments: true
 
 - [x] Add comment sections
 - [ ] Book of Mormon Edition Changes
-- [ ] Polish the [[DC 132|D&C 132]] page
+- [x] Polish the [[DC 132|D&C 132]] page
 - [ ] Structure images into folders
 
 ## Topics

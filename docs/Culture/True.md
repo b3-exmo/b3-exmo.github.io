@@ -3,13 +3,13 @@ comments: true
 ---
 # ✅ True
 
-> And I know that the record which I make is [true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng#note3a); and I make it with mine own hand; and I make it according to my knowledge.
+> And I know that ==the record which I make is [true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng#note3a)==; and I make it with mine own hand; and I make it according to my knowledge.
 
 — [1 Nephi 1:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng), Book of Mormon
 
 &nbsp;
 
-> Mormonism is truth; and every man who embraced it felt himself at liberty to embrace every truth: consequently the shackles of superstition, bigotry, ignorance, and priestcraft, falls at once from his neck; and his eyes are opened to see the truth, and truth greatly prevails over priestcraft.
+> ==Mormonism is truth==; and every man who embraced it felt himself at liberty to embrace every truth: consequently the shackles of superstition, bigotry, ignorance, and priestcraft, falls at once from his neck; and his eyes are opened to see the truth, and truth greatly prevails over priestcraft.
 
 — Joseph Smith; Letter to Isaac Galland, 22 March 1839, p. 53, The Joseph Smith Papers, accessed May 26, 2024, https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/3
 
@@ -17,11 +17,11 @@ comments: true
 
 > Things that are self-evident or things have been proven are just assumed. If you go to an advanced physics class, They don't testify to the truthfulness of the test physics you learned in the first year. It's it's not only just generally accepted, it is demonstrated over and over again in the advanced material. When you work on computers, the guys don't say "and before I start, I want you to, I want you to know that I know this computer runs on binary". It's just understood, right? 
 > 
-> So when people are insisting things that otherwise would go without saying, pay attention, when somebody keeps telling you that they're honest, pay attention to it. When  whatever they're repeating to you that normally goes without saying, pay attention to why they feel the need to say that.
+> So when people are insisting things that otherwise would go without saying, pay attention. When somebody keeps telling you that they're honest, pay attention to it. When whatever they're repeating to you that normally goes without saying, pay attention to why they feel the need to say that.
 > 
 > It was a realization for me that the only proof you need for "the church is not true" is that they keep fucking saying it all the time. Because if it was actually true, no one would say it!
 >
-> People don't say things like "I know the garbage man comes on Wednesdays." They just don't do that. That's not how the human mind works. ... They just keep saying that over and over again, because it was true there would be no need to say it.
+> People don't say things like "I know the garbage man comes on Wednesdays." They just don't do that. That's not how the human mind works. ... ==They just keep saying that over and over again, because it was true there would be no need to say it.==
 
 — Insight shared from John Larsen's *Mormon Expression* [podcast episode on epistemology](https://mormonexpression.com/2013/11/29/episode-234-epistemology)
 
@@ -38,11 +38,11 @@ As much distaste as I feel for the trope of introducing a word's definition as p
 - not false
 - being what exists, rather than what was thought, intended, or stated
 
-I grew up in the LDS faith, and so I can't really speak to the experience of other religions. But this does make me wonder, do Catholic church attendees hear a testimony that the Catholic church is true? Or is it assumed? Would the priest be safe to assume that "if you congregants are here listening to me, you already believe it to be true"? Do Jehovah's Witnesses do this?
+I grew up in the LDS faith, and so I can't really speak to the experience of other religions. But this does make me wonder, do Catholic church attendees hear a testimony that the Catholic church is true? Or is it assumed? Would the priest be safe to assume that "if you congregants are here listening to me, you don't need for me to convince you that it's true"? Do Jehovah's Witnesses do this?
 
-What does a *true* church even mean? Does that mean it has not tried to obscure information? Does that mean it *is not false*? Does that mean it is internally consistent? Does that mean it is in harmony with Christ's teachings, or that it has not strayed from His word as recorded in the four Gospels?
+What does a *true* church even mean? Does that mean it has not tried to obscure information? Does that mean it is internally consistent? Does that mean it is in harmony with Christ's teachings, or that it has not strayed from His word as recorded in the four Gospels?
 
-### Opposing Force
+### Opposition
 > And it came to pass that he said unto me: Look, and behold that great and abominable church, which is the mother of abominations, whose founder is the devil.
 > 
 > And he said unto me: Behold there are save ==two churches only; the one is the church of the Lamb of God, and the other is the church of the devil==; wherefore, whoso belongeth not to the church of the Lamb of God belongeth to that great church, which is the mother of abominations;
@@ -70,16 +70,18 @@ What fortuitous timing this is! I'm writing these notes in May of 2024, and the 
 1. Make your contribution as informative as is required
 2. Do not make your contribution more informative than is required
 
-A fellow named Tom Scott has a Youtube channel where he [presents this in an approachable way](https://youtu.be/IJEaMtNN_dM?si=xqRLRGm3UY_cEgd5&t=87), with the example that we don't need to specify that tomatoes are vegan. Giving too much information (these tomatoes are vegan; they do not contain meat nor dairy) is a breach of this maxim of quantity, and so it feels strange and out of place in conversation. Another example is [asbestos-free cereal](https://xkcd.com/641/). You sure hope it has no asbestos, and now you wonder why the manufacturer felt the need to clarify that. The qualification brings more questions than answers; is this an improvement over past shipments that *did* have asbestos?
+A fellow named Tom Scott has a Youtube channel where he [presents this in an approachable way](https://youtu.be/IJEaMtNN_dM?si=xqRLRGm3UY_cEgd5&t=87), with the example that we don't need to specify that tomatoes are vegan. Giving too much information (these tomatoes do not contain meat nor dairy) is a breach of this maxim of quantity, and so it feels strange and out of place in conversation. Another example is [asbestos-free cereal](https://xkcd.com/641/). You sure hope it has no asbestos, and now you wonder why the manufacturer felt the need to clarify that. The qualification brings more questions than answers; is this an improvement over past shipments that *did* have asbestos?
 
 &nbsp;
 
 ### Why testify?
-The only reason one would testify "knowing that the church is true" is in opposition to the idea that it could be wrong, and wrongness would impact its utility or value. It's like saying "there are not lies here." "This is not an attempt to deceive you." The implication of verbalizing that "I know [this church] is true" inherently suggests that there are reasons to believe it is not, and you want to remind someone that those reasons are illegitimate. It makes me wonder more about what the disagreement points *are*. As part of the testimony I'm (hypothetically) hearing, I have one side of the argument, but I've also been indirectly advised of the other side. In a way, such a testimony asserts that "it is true, despite the things you or I have heard to say that it is not true."
+The only reason one would testify "knowing that the church is true" is to negate the idea that it could be wrong, and wrongness would impact its utility or value. It's like saying "there are not lies here." "This is not an attempt to deceive you." Okay...? I didn't consider that until I was assured otherwise.
 
-Per the above outlined maxim of quantity, I am left wondering why did you feel the need to tell me that? Why would Nephi feel the need to tell us that "[the record which [he makes] is true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng)"? Is he trying to get that idea in edgewise before someone else pops up and says he's lying? Has he been accused of being untruthful in the past?
+The implication of verbalizing that "I know [this church] is true" inherently suggests that there are reasons to believe it is not, and you want to remind someone that those reasons are illegitimate. It makes me wonder more about what the disagreement points *are*. As part of the testimony I'm (hypothetically) hearing, I have one side of the argument, but I've also been indirectly advised of the other side. In a way, such a testimony asserts that "it is true, despite the things you or I have heard to say that it is not true."
 
-This is a childish illustration, but I could tell you that Baskin Robbins ice cream is true. You might ask what in the hell that means, and I could defend my claim by saying that Häagen-Dazs is [the whore of all the earth](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p10#p10), and they're [trying to convince you](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng&id=p26-p27#p26) that Baskin Robbins is led by [[Satan]], and also promise that I am not trying to deceive you.
+Per the above outlined maxim of quantity, I am left wondering why did you feel the need to tell me that? Why would Nephi feel the need to tell us that "[the record which [he makes] is true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng)"? Is he trying to get that idea in edgewise before someone else pops up and says he's lying? Has he been accused of being untruthful in the past? Or, a more cynical explanation is that this statement is in some way a reaction to Lucy Harris' possession of 116 pages of Lehi's manuscript?
+
+This is a childish illustration, but I could tell you that Baskin Robbins ice cream is true. You might ask what in the hell that means, and I could defend my claim by saying that Häagen-Dazs is [the whore of all the earth](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p10#p10), and they're [trying to convince you](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng&id=p26-p27#p26) that Baskin Robbins is led by [[Satan]], and also I promise that I am not trying to deceive you.
 
 It's fucking ice cream. Relax.
 
