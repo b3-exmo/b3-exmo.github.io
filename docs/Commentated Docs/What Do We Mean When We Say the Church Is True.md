@@ -7,7 +7,7 @@ An article from June 2024 edition of the Liahona by Elder J. Devn Cornish, *Eme
 
 &nbsp;
 
-The first section seems pretty standard, using New Testament passages amid warming up to "testifying of truth is important! you should do it." But, oh boy, ==the first heading== after that is, at the time of writing, "What If Church Leaders Aren’t Perfect?"
+The first section seems pretty standard, using New Testament passages amid warming up to "testifying of truth is important! you should do it." But, oh boy, ==the first heading== after that reads, at the time of writing, "What If Church Leaders Aren’t Perfect?"
 
 ... [[True#Paul Grice's Maxim of Quantity|Who said anything about]] church leaders not being perfect?
 
