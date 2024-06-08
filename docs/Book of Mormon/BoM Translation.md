@@ -194,14 +194,17 @@ The BoM is exactly what you would expect from someone like Joseph Smith. It is t
 
 Yet it has detailed statistics of casualties in battle.
 
-As a piece of literature it is utter crap.
+As a piece of literature, this is utter crap.
 
 And doubly awful of a read when consumed in its original form: no verses, 1000’s of grammar errors, no punctuation, no chapter headings.
 
 How would anyone have thought this to be divinely inspired, in its original edition? I suppose 19th century readers would be accustomed to that kind of formatting...?
+
+&nbsp;
+
 ## Lost 116 Pages
 God could have re-dictated a word perfect second translation to Joseph if He wanted to, but He didn’t because He was wise to the evildoers’ trickery, knowing that they would alter the text in the manuscript in order to ensnare Joseph. Thus he wouldn’t allow Joseph to re-translate the same passage a second time.
 
-Of course, the bit about the evil-doers “altering” the text doesn’t make much sense unless Martin Harris (the scribe) was in on the trick as well, since the sole original manuscript was written in his (Martin's) hand, any alterations would be immediately noticed and could be refuted by Harris with the statement “that’s not my handwriting”. If it somehow was his handwriting, Harris would have to be in on the evildoing. Harris would have to agree that he wrote the altered original.
+Of course, the bit about the evil-doers “altering” the text doesn’t make much sense unless Martin Harris (the scribe) was in on the trick as well, since the sole original manuscript was written in his (Martin's) hand. Any alterations would be immediately noticed and could be refuted by Harris with the statement “that’s not my handwriting”. If it somehow was his handwriting, Harris would have to be in on the evildoing. Harris would have to agree that he wrote the altered original.
 
 Couldn’t the evildoers still have produced an altered typescript, hiding away the original Harris manuscript, and presenting that typescript as their “proof”? This is ridiculous logic, of course, since a typescript wouldn’t convince anyone and would be proof of nothing.

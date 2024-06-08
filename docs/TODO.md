@@ -22,7 +22,7 @@ It's low-hanging fruit for me to process them and add them, just... I have a day
     - [x] Cognitive Bias
     - [x] Emotional Thinking
     - [x] Logical Fallacies
-    - [ ] Falsifiability
+    - [x] Falsifiability
     - [x] The Shelf
 - [x] Culture
     - [x] Anxiety
@@ -104,3 +104,4 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] Prosperity Gospel
 - [ ] The "Temple Lot Case" pertaining to polygamy
 - [ ] Persecution complex
+- [ ] "Too sacred to share"

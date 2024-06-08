@@ -49,7 +49,12 @@ When questioning members are advised to "take your questions to the Lord and to 
 
 - As long as God continues to help me find my car keys, I won't think about all the suffering in Palestine and Ukraine. All is well in Zion. Zion prospers.
 - Keep paying tithing because God has promised ‘blessings such that there shall not be room enough to receive them’, even though month after month we continue in financial struggles.
+
+&nbsp;
+
 ### Moroni's Promise
+Failure to confirm the truth of an impossible counter-claim means that the claim is true.
+
 >And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
 >
 >And by the power of the Holy Ghost ye may know the truth of all things.
@@ -58,37 +63,55 @@ When questioning members are advised to "take your questions to the Lord and to 
 
 &nbsp;
 
-Let's examine some of this.
+![[moroni-flowchart.jpg]]
+
+&nbsp;
+
+**Let's examine some of this.** It's setting ourselves up for confirmation bias.
+
+Set yourself up for success. Have a [sincere desire](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p27##p27), have "real intent", believing you will receive an answer.
 
 >... and if ye shall ask with a sincere heart, with real intent, having faith in Christ ...
 
-Set yourself up for success. Have a sincere desire, have "real intent", believing you will receive an answer.
+Seek belief through prayer. What will the answer be? idk lol, but if praying doesn't give you the "yes it's true" answer, pray again, you did it wrong. 
 
 >... he will manifest the truth of it unto you, by the power of the Holy Ghost.
 
 You will receive a confirmation in a nonspecific way. Is it a warm fuzzy feeling? There's your answer. That verifies what you expected to find an answer to. It's true now!
 
-What else do we do to set ourselves up for confirmation bias?
+Calling any desirable outcome a "confirmation" may even be too strong of a word. "Did praying about this make you feel really good? No? Did you feel good *at all*? No? Well did you at least feel *not bad*? That's God."
 
-- Desire to believe ([Alma 32](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p27##p27))
-- Seek belief in prayer (If praying doesn't give you ‘yes its true’ answer, pray again)
-- Study from approved sources (Just listen to things you already think are true)
-- Bear testimony (repeatedly say it's true, put your reputation into it)
-
-“I heard myself say that it was true when I bore my testimony so it must be true.”
+Next, make sure you bear testimony. Put your reputation into it. Verbalize your beliefs repeatedly. Insist that [[True|it's true]]. After enough iterations of this, you'll think “I heard myself say that it was true when I bore my testimony so it must be true.”
 
 > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it.
 
 — _[Testimony](https://www.churchofjesuschrist.org/study/general-conference/2008/04/testimony?lang=eng&id=p20##p20)_, Dallin H Oaks, General Conference April 2008
 
+Don't forget to only study from approved sources. Just listen to things you already think are true!
+
 &nbsp;
 
-### LDS Scholar
-Kerry Muhlestein is an LDS scholar, here sharing an explanation on confirmation bias, and then describing his own confirmation bias to fit evidence to a predetermined conclusion:
+"Ask God if the things in this record _are not_ true. If ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. ... And whatsoever thing is good is just and true; wherefore, nothing that is good denieth the Christ, but acknowledgeth that he is."
 
-[![Kerry Muhlestein: A Masterclass in Confirmation Bias](http://img.youtube.com/vi/-xS3EnGxicg/2.jpg)](http://www.youtube.com/watch?v=-xS3EnGxicg)
+Moroni/JS asks the reader to ask God if the record is _not true_... and if it is true, God will confirm it."
 
-[https://www.youtube.com/watch?v=-xS3EnGxicg](https://www.youtube.com/watch?v=-xS3EnGxicg)
+The claim is "this historical record is true and God confirmed it." The counter-claim is "I asked God if it's _not true_ and God responded with 'yeah, bro! This shit is bogus.'" However, this is an impossible counter-claim because of Moroni's/JS's conditions:
+
+- You must ask with a sincere heart, with real intent (this is a subjective condition; who determines what is sincere with real intent?)
+- all good things are true.
+- All good things _acknowledgeth_ the Christ.
+- This record _acknowledgeth_ the Christ, therefore it is good.
+- Because this record is good, it is therefore true.
+- Thus, God cannot whisper _anything_ to you other than "it's true."
+
+Does your result agree with theory? No? Something is wrong with your experiment, then. Do it again.
+
+![[moroni-v-science.png]]
+
+&nbsp;
+
+**A non-Mormon example of Moroni's Fallacy:** "just ask yourself the question, is it _impossible_ for aliens to have been involved in the construction of the pyramids? How do you know aliens were _not_ involved? I'm not saying they used spaceships to lift rocks or anything like that; they might have used advanced tech to inspire the Egyptians to build them. Who knows? Good science means following the evidence to any conclusion, no matter how improbable. Given time, and given how many open questions remain about the pyramids, Egyptologists will have no choice but to consider this possibility."
+
 ## More links
 
 - [https://effectiviology.com/confirmation-bias/](https://effectiviology.com/confirmation-bias/)

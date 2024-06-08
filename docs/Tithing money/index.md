@@ -39,6 +39,9 @@ Side note: both of these sources have a draconian paywall— these links may not
 Internal audits promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie- the church most certainly has budgets, policies, procedures, etc, and perhaps amassing $100 billion doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
 
 **No, the church doesn't have a legal obligation to publish any of this**. But, if they want to garner trust that the money is spent on things like charity, or helping "the needy", they certainly could be sharing that information. An external audit would reveal this information, but the church (to my knowledge) doesn't arrange any.
+
+&nbsp;
+
 ## Malachi
 Quote often used by the church:
 
@@ -51,6 +54,9 @@ Chapter divisions weren’t present in the original revisions of the King James 
 Chapter 3 verse 3 is a threat to “[the sons of Levi](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p3#p3)”. What we today call the Aaronic Priesthood was only found in those of Levitical bloodline and lineage.
 
 This is not an admonition for the general public, us common folk in [current year] reading the Old Testament. _He is talking to the priests of the temple_.
+
+&nbsp;
+
 ### Quoted pretty often
 I'm not going for a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
 
@@ -64,6 +70,9 @@ That said, here are some references I found from a cursory search:
 - [Missionary pamphlet on tithing](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/english/manual/missionary/pdf/36954_tithing-and-fast-offerings-eng.pdf?lang=eng), other missionary material like those awful _The District_ DVDs we had to watch in the mission field
 
 I've got a separate page for some [[In General Conference|General Conference]] segments and quotes of interest, including some of the above mentions.
+
+&nbsp;
+
 ## Lorenzo Snow
 >_I plead with you in the name of the Lord, and I pray that every man, woman and child … shall pay one-tenth of their income as a tithing._
 
@@ -79,9 +88,9 @@ That ellipsis and that footnote are doing some heavy lifting. What is it omittin
 
 — _[1899 General Conference Report](https://archive.org/details/conferencereport1899sa/page/28/mode/2up?q=who+has+means)_, archive.org
 
-**“who has means”** changes the context of this commandment. It necessarily excludes those who are impoverished. “I plead” does not really sound like it should be equated to “thus saith the Lord”.
+**“who has means”** changes the context of this commandment. It necessarily excludes those who are impoverished. Lorenzo's “I plead” does not really sound like it should be equated to “thus saith the Lord”.
 
-Also note in the top right corner of that image is year-over-year comparisons of tithing money "paid" in July - September, 1808 - 1809. I wonder why they stopped publishing information like that?
+Also note in the top right corner of that image is year-over-year comparisons of tithing money "paid" in July - September, 1808 - 1809. I wonder why they stopped publishing information like that? Or, why did they publish it like that in the first place?
 
 &nbsp;
 
@@ -111,7 +120,10 @@ I could imagine someone defending this quote by pointing to the qualifier "*exce
 
 &nbsp;
 
-To me, this is such a fascinating word choice. Can that privilege be revoked? Is the law of consecration a privilege that got revoked? Are other commandments described as privileges?
+To me, this is such a fascinating word choice. Can that privilege be revoked? Is the law of consecration a privilege that got revoked? Are other commandments described as privileges? Or is it just this commandment which has a quantifiable, measurable transaction (at least on one side)?
+
+&nbsp;
+
 ## Where does the money go?
 We don’t have access to their financial documents, but we can point to public records of what the church owns.
 
@@ -130,6 +142,9 @@ The bottom of the tithing slip tells you everything you need to know:
 > _“Though reasonable efforts will be made globally to use donations as designated, all donations become the Church’s property and will be used at the Church’s sole discretion to further the Church’s overall mission.”_
 
 So, in essence, it doesn’t matter where the money is paid _from_… it all gets used however the church sees fit, so the expectation is that it is used for everything.
+
+&nbsp;
+
 ### Public Information
 >The Mormon Church's real-estate empire ==easily exceeds $1 billion==, including ==farms and ranches== in the West and Midwest, buildings and apartments on the West Coast and a huge chunk of land in central Florida, The Arizona Republic reported Tuesday.
 > 
@@ -171,15 +186,18 @@ If you’re a billionaire, they’ve even got a special donation avenue for you,
 
 so... what the fuck.
 
-This is an avenue for PR, and so that "wealthy families" can feel like being raised as billionaires isn't actually bad. Even your kids can comprise the entire board of directors, and have autonomy to decide how the money is spent! I find this very upsetting- Is this what Jesus taught? 
+This is an avenue for PR, and so that "wealthy families" can feel like being raised as billionaires isn't actually bad. Even your kids can comprise the entire board of directors, and have autonomy to decide how the money is spent! Little Timmy always wanted to be on a board of directors to spend daddy's money; that'll make a fine Christmas gift that *keeps on giving!* I find this very upsetting— Is this what Jesus taught?
 
 [Luke 11:39-43](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng&id=p20-p21#p20), [14:12-14](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), [Mark 10:20-23](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), and [12:41-44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41) would all like to have a word with you.
 
 We can hype up how great it is to build up your own personal charity with a private board of directors for future generations to laud how generous you are, but if you're going to do that, don't be the same organization that [teaches](https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-heart-of-the-widow?lang=eng&id=p5-p8#p5) us [about](https://www.churchofjesuschrist.org/study/general-conference/2022/04/57uchtdorf?lang=eng&id=p2-p4#p2) the [Widow's Mite](https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=eng&id=p25-p30#p25). _This is self-aggrandizement_.
 
 God bless America, if I keep reading into this my notes will devolve further into chaotic ranting 🙃
+
+&nbsp;
+
 ### City Creek Mall
-Chronologically, the first time I recall hearing about this was in General Conference, from Gordon Hinckley himself:
+Chronologically, the earliest time I recall hearing about this was in General Conference, from Gordon Hinckley himself:
 
 >We feel we have a compelling responsibility to protect the environment of the Salt Lake Temple. . . . We have felt it imperative to do something to revitalize this area. But I wish to give the entire Church the assurance that ==tithing funds have not and will not be used to acquire this property. Nor will they be used in developing it for commercial purposes.==
 >
@@ -187,14 +205,15 @@ Chronologically, the first time I recall hearing about this was in General Confe
 
 — _[The Condition of the Church](https://www.churchofjesuschrist.org/study/general-conference/2003/04/the-condition-of-the-church?lang=eng&id=p11-p12#p11)_, Gordon B Hinckley, General Conference April 2003
 
+Better get ahead of those rumors and defend our decisions *immediately*. Nothing to see here, just business as usual.
+
 &nbsp;
 
 >A recent column on Forbes.com (“[Salt Lake City’s Sacred Space](http://www.forbes.com/2010/06/29/salt-lake-city-urban-sacred-opinions-columnists-joel-kotkin.html)”) by Joel Kotkin takes a look at how ==City Creek — an initiative of The Church of Jesus Christ of Latter-day Saints== — is enhancing downtown [Salt Lake City](https://newsroom.churchofjesuschrist.org/article/presiding-bishop-discusses-church-s-involvement-in-salt-lake-city-development). The Church undertook the City Creek project to ==protect the environment around Temple Square==.
 
 _[Forbes Covers City Creek Project](https://newsroom.churchofjesuschrist.org/article/forbes-covers-city-creek-project)_, Church Newsroom
 
-Protect the environment? Protect from what? This sounds like gentrification with extra steps. 
-No, really, that just sounds like gentrification, full stop.
+Protect the environment? Protect from what? This sounds like [gentrification with extra steps](https://www.youtube.com/watch?v=yxUfe3g7klk). No, really, that just sounds like gentrification, full stop.
 
 Next up: that Forbes article that the LDS Newsroom got excited about.
 
@@ -218,7 +237,7 @@ Protect from what?
 
 — [1 John 3:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17)
 
-Or, in layman's terms, if you have spare resources and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about that.
+Or, in layman's terms, if you have spare resources and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the squalor around you!
 
 &nbsp;
 
@@ -229,7 +248,7 @@ _President Henry B. Eyring, first counselor in ==the First Presidency of The Chu
 
 Boy, this... This is quite the sight. They sure seem excited about this project. A religious institution having _literally any_ involvement, despite whatever public assurances they give us, is upsetting to me. Is _this_ what Jesus taught?
 
-I don't think I need to point out that the City Creek project is not a homeless shelter, not a soup kitchen, not a hospital, not a food bank, not subsidized housing, neither affordable housing, it's a shopping mall for middle class folks. Rent there is $[2,329](https://www.apartments.com/city-creek-landing-salt-lake-city-ut/4q97s7j/) - $[6,533](https://www.homes.com/property/city-creek-landing-salt-lake-city-ut/1kzy718my8b8y/), as of March 2024. Those links are to third party sites, because to no one's surprise, [City Creek Landing](https://www.citycreeklanding.com/floorplans)'s official site doesn't list the rent— only the deposit.
+I don't think I need to point out that the City Creek project is not a homeless shelter, not a soup kitchen, not a hospital, not a food bank, not subsidized housing— not even *affordable* housing— it's a shopping mall for middle class folks. Rent there is $[2,329](https://www.apartments.com/city-creek-landing-salt-lake-city-ut/4q97s7j/) - $[6,533](https://www.homes.com/property/city-creek-landing-salt-lake-city-ut/1kzy718my8b8y/), as of March 2024. Those links are to third party sites, because to no one's surprise, [City Creek Landing](https://www.citycreeklanding.com/floorplans)'s official site doesn't list the rent; only the deposit.
 
 >It's ==Utah's Rodeo Drive== without the stuffiness. City Creek is home to the ==national, luxury, and local brands== you love in one of the most unique shopping environments in the country.
 
@@ -237,7 +256,11 @@ I don't think I need to point out that the City Creek project is not a homeless 
 
 Don't forget to check out their list of [stores](https://shopcitycreekcenter.com/stores/) that are paying the Church to be in their mall. You can't even fucking [park there](https://citycreekparking.com/) without paying.
 
+*Utah's Rodeo Drive*? There are few other places I could think of to embody vanity, pride, and worldly values. Does Utah want, or need, such a place? Does it seem odd that the LDS church *owns* this bastion of capitalism? Wasn't it the great and spacious building that, of all details to be recorded in scripture, highlighted that "their manner of dress was exceedingly fine"? That had the "attitude of mocking and pointing their fingers" toward those who were pursuing salvation? The church *owns* it, and advertises it as being comparable to Rodeo Drive.
+
 Is _this_ what Jesus taught? Is this a charitable organization with no independent audits, no public financial records, or accountability that you want to donate to?
+
+&nbsp;
 
 ### What's wrong with this? 
 Take a step back and think rationally, maybe without cursing.
@@ -251,6 +274,8 @@ Imagine seeing the Catholic Church buying up some established McDonald's franchi
 Now picture the LDS church owning a shopping mall and apartment complex. 
 
 None of those things are pearl-clutching revelations to bring the masses to grab their pitchforks and start lynching. They definitely feel out of place- the public image of these organizations and religions is that they're charitable, running on donations, not engaging in any commercial business. I feel a lot of cognitive dissonance reading about it. *I was raised to believe that the Church runs on donated tithes.* 
+
+&nbsp;
 
 ## Where **should** the money go?
 A shopping center that the church itself describes as luxurious? Extravagant temple furnishings? All for Jesus Christ, the man who was born in a stable, who taught sermons on boats, on the sides of roads, and on top of hills. The man who disliked extravagance. **The man who said “If you love me, feed my sheep.”**
@@ -278,6 +303,9 @@ Idk, seems important. Are we going to interpret this as doing baptisms for the d
 — _[Acts 7:47-50](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=eng&id=p47-p50#p47)_
 
 Somehow, we can read this and call LDS temples “house of the lord.”
+
+&nbsp;
+
 ## Charitable efforts
 > _In_ [_a lecture given_](http://www.deseretnews.com/article/865655946/At-Oxford-Elder-Oaks-says-religions-value-evident-in-refugee-crisis.html?pg=all) last month at the University of Oxford, Elder Dallin H. Oaks of the Quorum of the Twelve Apostles said that each year The Church of Jesus Christ of Latter-day Saints spends about ==$40 million on welfare, humanitarian and other LDS Church-sponsored projects== around the world and has done so for more than 30 years.
 >
@@ -291,18 +319,24 @@ $1.2 billion is a big number. It’s a much smaller number when we realize it’
 
 That third paragraph is worth acknowledging- providing clean water & immunization is a real solid. Unironically, good job. Those are important things that real humans in the world struggle to secure for themselves.
 
-Also, don't overlook the utterance of the forbidden word "Mormon."
+Also, don't overlook the utterance of the forbidden word "[[Name Mormon|Mormon]]."
 
-I wonder if $40,000,000 places the LDS church among the top charitable donors?
+I wonder if $40,000,000 per year places the LDS church among the top charitable donors?
+
+&nbsp;
+
 ## Charity lists
 ### Forbes
 > _Overall, the nation’s top 100 charities took in a combined $58.8 billion in private donations in their most recently reported fiscal years, an 8% increase. In a country with more than one million nonprofits, they received one-eighth of all charitable giving. Combined with the 10% increase the 100 posted last year, this marks the highest two-year gain in the 24 years that Forbes has been putting together this list. The cutoff for this year’s list—No. 100—was $181 million in donations, up from $167 million in 2021._
 
 — _[America's Top 100 Charities](https://www.forbes.com/lists/top-charities/?sh=3038bbb85f50)_, Forbes
 
-Is the five year gap between 2016 and 2021 too big for a fair comparison? If not, the bottom of this list donated 4.175 times more than the LDS church had. That makes it 23.9% of the minimum cut-off to make the top 100 list.
+Is the five year gap between 2016 and 2021 too big for a fair comparison? If it is not, the bottom of this list donated 4.175 times more than the LDS church had. That makes it 23.9% of the minimum cut-off to make the top 100 list.
 
 Sure, 40 million is not nothing, and one could argue that the church has done some good with it. I'm not claiming that the money was wasted. I'm saying that flexing that number doesn't make you look as good as you think it does.
+
+&nbsp;
+
 ### Charity Watch
 > _Groups included on the CharityWatch Top-Rated list generally_ _**spend 75% or more of their budgets on programs, spend $25 or less to raise $100 in public support, ==do not hold excessive assets in reserve==**, have met CharityWatch’s governance benchmarks, and receive “open-book” status for disclosure of basic financial information and documents to CharityWatch. Please see the_ [_Our Process_](https://www.charitywatch.org/our-charity-rating-process) page of the website for more information on the rating criteria and methodology that CharityWatch adheres to.
 

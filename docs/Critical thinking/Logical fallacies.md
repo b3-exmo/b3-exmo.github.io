@@ -6,7 +6,7 @@ Fallacies are problems with how an argument is constructed. They say nothing abo
 
 In other words, once we're done labeling the arguments, one also should consider explaining why the conclusions are shit, too.
 
-==I am not exempt from these!== Please, point out where I use logical fallacies so I can fix / revisit the arguments. I've added a comment section to these notes for exactly that purpose.
+==I am not exempt from these!== Please, point out where I use logical fallacies so I can fix / revisit the arguments. In fact, a reader might find examples of these fallacies in the notes I wrote. I've added a comment section to these notes for exactly that purpose.
 
 A more comprehensive document would delineate these into formal vs informal fallacies. I'm not doing that here. You can go down that rabbit hole on your own time.
 
@@ -47,6 +47,15 @@ By this metric, Catholicism would be a lot more "true" than Mormonism.
 39 people in Heaven's Gate. Why would the 39 die if Heaven's Gate wasn't true?
 
 [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)
+
+&nbsp;
+
+### Argument by Assertion
+Asserting that Mormonism has more truth (or at least many unique truths) than other religions without any demonstration to support that claim.
+
+If truth claims are of eternal importance, one would think that LDS theologists would enumerate and refute other religions' truth claims. Barring the possibility that I simply haven't encountered these arguments, I might conclude that either these arguments won't withstand scrutiny, or eternal salvation isn't really that important.
+
+https://rationalwiki.org/wiki/Argument_by_assertion
 
 &nbsp;
 
@@ -338,7 +347,6 @@ Instead of explaining the racist comments made by past LDS leaders, it avoids th
 
 ## Rationalist Principles to understand
 ### Motivated Reasoning vs Critical Reasoning
-
 The most important rationalist principle in my opinion, and the root cause of most of these fallacies is reasoning backwards from a favored or predetermined conclusion. We all do this because we have strong preferences for truth outcomes and we let those bias us. The wikipedia article is excellent:
 
 [https://en.m.wikipedia.org/wiki/Motivated_reasoning](https://en.m.wikipedia.org/wiki/Motivated_reasoning)
@@ -363,30 +371,8 @@ That which is asserted without evidence can be dismissed without evidence
 [https://en.m.wikipedia.org/wiki/Hitchens%27s_razor](https://en.m.wikipedia.org/wiki/Hitchens%27s_razor)
 
 #### Pathos, Logos, Ethos
-
 **Pathos** is appealing to the audience’s emotions when trying to argue. (e.g. Moroni’s promise). Having an emotional response to something is not evidence that it is true.
 
 **Logos** is appealing to logic, which is what I am attempting to do with this note.
 
 **Ethos** is an appeal to authority, which isn’t necessarily bad or wrong. If you don’t have a sufficient knowledge base to understand a logos argument, the best you can do is appeal to the consensus of the experts, but a logos argument is preferred. In general the strength of your opinion ought to be proportional to the depth of your knowledge on the subject.
-
-## Bonus fallacy
-
-**Moroni's Fallacy** - Failure to confirm the truth of an impossible counter-claim means that the claim is true.
-
-Example: "Ask God if the things in this record _are not_ true. If ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.... And whatsoever thing is good is just and true; wherefore, nothing that is good denieth the Christ, but acknowledgeth that he is."
-
-Moroni/JS asks the reader to ask God if the record is _not true_... and if it is true, God will confirm it."
-
-The claim is thus "this historical record is true and God confirmed it." The counter-claim is "I asked God if it's _not true_ and God responded with 'yeah, bro! This shit is bogus.'" However, this is an impossible counter-claim because of Moroni's/JS's conditions:
-
-- You must ask with a sincere heart, with real intent (this is a subjective condition; who determines what is sincere with real intent?)
-- all good things are true.
-- All good things _acknowledgeth_ the Christ.
-- This record _acknowledgeth_ the Christ, therefore it is good.
-- Because this record is good, it is therefore true.
-- Thus, God cannot whisper _anything_ to you other than "it's true."
-
-&nbsp;
-
-**A non-Mormon example of Moroni's Fallacy:** "just ask yourself the question, is it _impossible_ for aliens to have been involved in the construction of the pyramids? How do you know aliens were _not_ involved? I'm not saying they used spaceships to lift rocks or anything like that; they might have used advanced tech to inspire the Egyptians to build them. Who knows? Good science means following the evidence to any conclusion, no matter how improbable. Given time, and given how many open questions remain about the pyramids, Egyptologists will have no choice but to consider this possibility."

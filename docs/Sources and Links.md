@@ -67,6 +67,8 @@ Being owned by the church itself carries some connotations- I'm not going to imp
 [Zelph on the Shelf](https://zelphontheshelf.com/): One of the early blogs I encountered that offers critical insights of LDS doctrine. As of 2024 March, appears to be offline- hoping it comes back in the future 🥺
 Bonus link: [The Millennials' Brief Guide to the CES Letter](https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/) is one I encountered early on (late 2018) when i was trying to find some "both sides" analyses of the [CES Letter](https://read.cesletter.org/).
 
+Speaking of, there's also plenty of material that claims to [debunk the CES Letter](https://debunking-cesletter.com/). 
+
 [floodlit.org](https://floodlit.org/): Info on sexual abusers & coverups within LDS church
 
 &nbsp;
