@@ -186,7 +186,7 @@ If you’re a billionaire, they’ve even got a special donation avenue for you,
 
 so... what the fuck.
 
-This is an avenue for PR, and so that "wealthy families" can feel like being raised as billionaires isn't actually bad. Even your kids can comprise the entire board of directors, and have autonomy to decide how the money is spent! Little Timmy always wanted to be on a board of directors to spend daddy's money; that'll make a fine Christmas gift that *keeps on giving!* I find this very upsetting— Is this what Jesus taught?
+This is an avenue for PR, and so that "wealthy families" can feel like being raised as billionaires isn't actually bad. Even your kids can comprise the entire board of directors, and have autonomy to decide how the money is spent! Little Timmy always wanted to be on a board of directors that spends daddy's money; that'll make a fine Christmas gift that *keeps on giving!* I find this very upsetting— Is this what Jesus taught?
 
 [Luke 11:39-43](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng&id=p20-p21#p20), [14:12-14](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), [Mark 10:20-23](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), and [12:41-44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41) would all like to have a word with you.
 
@@ -237,7 +237,7 @@ Protect from what?
 
 — [1 John 3:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17)
 
-Or, in layman's terms, if you have spare resources and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the squalor around you!
+Or, in layman's terms, if you have spare resources and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty around you!
 
 &nbsp;
 

@@ -41,9 +41,9 @@ The more I thought about it, the more I concluded that, should any being or enti
 
 Put this further in perspective to the context of Mormonism; supreme creator of the universe would be _unfathomably_ petty to have created our universe, and gets exceptionally pissy if you do specific things:
 
-- Don’t say Mormon
+- Don’t say [[Name Mormon|Mormon]]
 - Don’t drink coffee
-- I made you gay or with body dysmorphia; how dare you “act on it”, for whatever actions that leads to
+- I (God) made you gay or with body dysmorphia; how dare you “act on it”, for whatever actions that leads to
 
 &nbsp;
 

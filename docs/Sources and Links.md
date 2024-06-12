@@ -2,7 +2,6 @@
 comments: true
 ---
 # 🔗 Sources & More Material
-
 [lds-general-conference.org](https://www.lds-general-conference.org/): Does not appear to be an officially sanctioned site
 
 [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents. The De Facto standard for defending The Truth ™️ from those evildoers.
@@ -17,11 +16,13 @@ When you first load up and select the search bar, this popup appears:
 
 > **Collection Policy**
 > 
-> _The Church History Library collects materials by or about The Church of Jesus Christ of Latter-day Saints and its members. These materials come from a wide spectrum of sources and represent numerous points of view. Users of the catalog should not assume that the Church or the Library endorses every item in the collection._
+> *The Church History Library collects materials by or about The Church of Jesus Christ of Latter-day Saints and its members. These materials come from a wide spectrum of sources and represent numerous points of view. Users of the catalog should not assume that the Church or the Library endorses every item in the collection.*
 
 lol. lmao.
 
 [churchofjesuschrist.org/media/publications](https://www.churchofjesuschrist.org/media/publications?lang=eng): Media publications. PDFs of scripture, proclamations, manuals, president teachings, etc
+
+[Utah Lighthouse Ministry](http://www.utlm.org/), abbreviated to UTLM. Looks to be the official site of Jerald & Sandra Tanner, two notorious critics of the LDS church's truth claims.
 ## Joseph Smith Papers Project
 
 Establish legitimacy of later sources:
@@ -89,6 +90,14 @@ My experience with this show has been quite positive- at the time of writing thi
 This show also exposed me to others like John Larsen's Mormon Expression, and Radio Free Mormon.
 
 #### John Larsen / Mormon Expression
-Looks like this show formally ended in 2014. Larsen has been a semi-frequent guest on Mormon Stories. What I like most about Larsen is that he 'retires' more than once. His Mormon Expression show came to a close, and in Larsen's later episodes of hosting it, has commented something along the lines of "there's a great, big, beautiful world out there. Get out of here and enjoy it." I imagine myself having that same sentiment at some future point in my deconstruction. Mormonism is this never-ending, deep well of nonsense and shenanigans to marvel over. At some point, Larsen appears to have drawn the line, having said what he feels needs to have been said, and now focuses on gardening and homesteading. Good on you, buddy.
+Looks like this show formally ended in 2014. Larsen has been a semi-frequent guest on Mormon Stories. What I like most about Larsen is that he 'retires' more than once. His Mormon Expression show came to a close, and in Larsen's later episodes of hosting it, he comments something along the lines of "there's a great, big, beautiful world out there. Get out of here and enjoy it." I imagine myself having that same sentiment at some future point in my deconstruction. Mormonism is this never-ending, deep well of nonsense and shenanigans to marvel over. At some point, Larsen appears to have drawn the line, having said what he feels needs to have been said, and now focuses on gardening and homesteading. Good on you, buddy.
 
 That is, until he comes back, as if to say "and *one more thing*...!" by appearing on John Dehlin's Mormon Stories show. Still with some hot takes and compelling insights. I like how Larsen will get really fired up over a given topic, but still has the emotional capacity to empathize with actively practicing LDS folks. Hearing [this particular tirade](https://www.youtube.com/live/yMUIgzrM4WQ?si=QX2HUURZuUnCI4Sm&t=4770) really shaped my respect for him, where he becomes emotional while telling the audience to have compassion and patience with LDS folks. He has the sentiment of "they're trying their best, and legitimately believe something even if you don't." Shoutout to Larsen, he's a real keeper. He infrequently appears once in a while, and it's always a treat to listen to.
+
+## Unorganized links
+https://faenrandir.github.io/a_careful_examination/truth-claim-summaries/
+
+https://faenrandir.github.io/a_careful_examination/five-key-facts/
+
+http://www.themormonchallenge.com/
+

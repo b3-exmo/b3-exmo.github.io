@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# ♀️ Women in Scripture
+# ♀️ Representation of Women
 
 I grew up with a male gender identity, and was heavily affected by this strange idea that women are all evil temptresses, trying to corrupt righteous, impressionable teenagers like myself. Today, I still see remnants of that idea, but it seems to be toned down.
 
@@ -11,7 +11,9 @@ How would an adolescent girl feel about divine, holy scripture depicting women i
 Out of [337 proper names](https://eom.byu.edu/index.php/Book_of_Mormon_Names) in the Book of Mormon, [six women are mentioned by name,](https://eom.byu.edu/index.php/Women_in_the_Book_of_Mormon)and three of them are mentions of biblical women (Eve, Sarah, and Mary). 
 Sariah and Abish are, by BoM standards, individuals with depth. Isabel, one of the three BoM-exclusive women, is [simply a harlot](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/39?lang=eng&id=3-5#p3). Not only just mentioned in passing, but she's got a reputation for "[stealing] the hearts of many", and Alma stresses this infraction as "grievous", shaming Corianton for not tending to "the ministry wherewith thou wast entrusted". Out of few examples, this one named woman seems to have placed the salvation and religious standing of Corianton, just by having hormones.
 
-I'm not a teenage girl, nor was I ever. I had role models like Nephi, being tall in stature and is always right and is definitely not a self-insert of Joseph Smith. Teenagers are a volcano of hormones and impulses. Should I believe that this book was "[[Book of Mormon/index#For our day, or for JS’ day?|written for our time]]" still? I'll again emphasize that this isn't my own experience, but if I were to find an example of a male escort that corrupted the righteous women in scripture, jeopardizing their standing with God, all while struggling to keep my own pants on, I imagine I'd be strongly affected by that. How many LDS women grew up with this idea that their self-restraint is the only thing keeping righteous men from damnation?
+I'm not a teenage girl, nor was I ever. I had role models like Nephi, being tall in stature and is always right and is definitely not a self-insert of Joseph Smith. Teenagers are a volcano of hormones and impulses. Should I believe that this book was "[[Scripture/Book of Mormon/index#For our day, or for JS’ day?|written for our time]]" still? I'll again emphasize that this isn't my own experience, but if I were to find an example of a male escort that corrupted the righteous women in scripture, jeopardizing their standing with God, all while struggling to keep my own pants on, I imagine I'd be strongly affected by that. How many LDS women grew up with this idea that their self-restraint is the only thing keeping righteous men from damnation?
+
+&nbsp;
 
 ## Anonymity
 There are numerous mentions of women as anonymous, faceless people. How often are they simply reduced to sexual purposes?
@@ -28,12 +30,11 @@ There are numerous mentions of women as anonymous, faceless people. How often ar
 
 &nbsp;
 
-
 >And so great were the blessings of the Lord upon us, that while we did live upon raw meat in the wilderness, our women did give plenty of suck for their children, and were strong, yea, even like unto the men; and they began to bear their journeyings without murmurings.
 
 — _[1 Ne 17:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng&id=p2#p2)_
 
-Lehite women were able to shut the fuck up and have boobs. 🙄 Truly inspired writing.
+Lehite women were able to shut the fuck up and have boobs. They were *almost* as strong and cool as me! 🙄 Truly inspired writing.
 
 &nbsp;
 
@@ -43,7 +44,7 @@ Lehite women were able to shut the fuck up and have boobs. 🙄 Truly inspired w
 
 — _[Moroni 9:9-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/9?lang=eng&id=p9-p10#p9)_
 
-Women don't need names, they just need to be kept virgins as long as possible. Breaking that social norm is a heinous crime.
+Women don't need names, they just need to be kept virgins as long as possible. Breaking *that* social norm is a heinous crime.
 
 &nbsp;
 
@@ -71,6 +72,8 @@ This was the nameless "[king of the Lamanites](https://www.churchofjesuschrist.o
 
 Other examples exist of nameless women, but those are times when a demographic, group, or nonspecific people necessitate taking individuality out. Times like [Mosiah 20:1-2](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=eng&id=1#p1), "where the daughters of the Lamanites did gather themselves together to sing, and to dance, and to make themselves merry." I'm not going to expect a roster of attendees for girls who like to hang out. I'm not including the innocuous passages like that, as they don't really prove anything.
 
+&nbsp;
+
 ## Marriage material
 Well, I guess we still have the cultural propriety for marrying our nameless women away, as a means of placating men.
 
@@ -89,6 +92,8 @@ Well, I guess we still have the cultural propriety for marrying our nameless wom
 >And it came to pass that king Lamoni was much pleased with Ammon, and caused that his bands should be loosed; and he would that Ammon should take one of his daughters to wife.
 
 — _[Alma 17:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?lang=eng&id=24#23)_
+
+&nbsp;
 
 ## Persuasion
 Even without a name, women appear to have some convincing power.

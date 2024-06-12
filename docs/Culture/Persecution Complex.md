@@ -1,0 +1,7 @@
+---
+comments: true
+---
+# 🤕 Persecution Complex
+I don't want to overlook the violence and injustices that followers of Joseph Smith had endured during his lifetime. One could argue that the whole purpose of settling in Salt Lake was to escape persecution, as the US government wasn't doing much to settle the disputes at that time. Uprooting a movement like that isn't borne of "my neighbor said mean things," it's driven by atrocities like the Hawn's Mill Massacre ([1](https://www.churchofjesuschrist.org/study/history/topics/hawns-mill-massacre?lang=eng), [2](https://en.wikipedia.org/wiki/Hawn%27s_Mill_massacre)) being responded to with indifference and contempt from Washington ([1](https://www.churchofjesuschrist.org/church/news/joseph-smiths-unsuccessful-visit-to-white-house-for-redress-still-inspiring-editor-says-?lang=eng), [2](https://rsc.byu.edu/joseph-smith-prophet-seer/joseph-smith-goes-washington-1839-40)). "I might lose voters if I actually levy consequences for those who are committing hate crimes against you, sorry about that!"
+
+I'm not talking about persecution in early Mormonism— not here, at least. I haven't encountered claims from the upper ranks of the modern LDS church leadership to really push the idea that Mormon folks are persecuted, but I've definitely encountered those claims from common members, particularly in social media platforms.

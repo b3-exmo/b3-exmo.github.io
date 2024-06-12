@@ -1,0 +1,103 @@
+---
+comments: true
+---
+# 👨‍💼 Prophets
+Asking “is he speaking as a prophet or a man?” presupposes there are moments when a prophet ceases to be a man with flaws and agency, and the ability to be wrong. There is never such a moment, so we are never absolved of our responsibility to confirm truth for ourselves.
+
+There have been very few revelations since Joseph Smith, who received revelations almost instantly when he needed to be personally helped out when he ran into moral/leadership problems: polygamy, funding from Martin Harris, Hiram Page’s seer stone. Why is God so quick to help Joseph Smith out of personal issues but so unresponsive to issues that impact everyone?
+
+**When is the last time we had a meaningful revelation?** Was changing the minimum age for missionaries meaningful, or was it more of a secular policy? Is cutting Sunday meetings to 2 hours meaningful? Every General Conference we hear a lot of the same things.
+
+Tell me the things that Russell Nelson has done to make the world a better place. Or Monson, or Hinckley.
+
+JS “brought forth” the Book of Mormon, instituted temple rites. One could argue that BY led the saints to Utah. After that… what? Have they made a dent in world hunger? Has missionary work in Africa quelled the warlords? Has domestic abuse gone down? Did they do anything to warn or prepare the world for COVID? Built hospitals?
+
+&nbsp;
+
+## Authority
+One way you know the LDS church is true is that God will [[Polygamy#Angel with a Sword vs Joseph Smith|literally send an angel with a sword to threaten to kill the prophet]] if he’s going astray.
+
+Here is a complete list of the times God has done this:
+
+1. [[Polygamy|To get Joseph Smith to marry other men's wives]]
+2. &nbsp;
+
+&nbsp;
+
+> My boy, you always keep your eye on the President of the Church, and ==if he tells you to do something wrong==, and you do it, the Lord will bless you for it.
+>
+> You don’t need to worry, however; ==the Lord will never let his mouthpiece lead his people astray==.
+
+— Heber J Grant; quote copied from [Ensign address](https://www.churchofjesuschrist.org/study/ensign/1972/07/the-covenant-of-the-priesthood?lang=eng) by Marion G Romney
+
+&nbsp;
+
+> “This morning, I . . . visited with a brother and sister from Michigan, who thought that “a prophet is always a prophet;” but I told them that a prophet was a prophet only when he was acting as such."
+
+— Joseph Smith ([1](https://www.churchofjesuschrist.org/study/new-era/2007/09/ordinary-men-extraordinary-callings?lang=eng&id=p11#p11), [History of the Church 5:265](https://archive.org/details/history-of-the-church-volume-5/page/258/mode/2up?view=theater&q=%22a+prophet+is+always+a+prophet%22))
+
+&nbsp;
+
+> _Said Brigham Young, “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture.”_
+
+Journal of Discourses, 13:95.
+
+&nbsp;
+
+> A few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find.
+
+— [Trial of Your Faith](https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=eng), Elder Neil L. Andersen, of the Quorum of the Twelve Apostles; General Conference October 2012
+
+&nbsp;
+
+## Policy vs Doctrine
+> *OAKS: I don’t know that it’s possible to distinguish between policy and doctrine in a church that believes in continuing revelation and sustains its leader as a prophet… I’m not sure I could justify the difference in doctrine and policy in the fact that before 1978 a person could not hold the priesthood and after 1978 they could hold the priesthood.*
+
+— Elder Dallin H Oaks in [interview with Associated Press SLC](https://www.newspapers.com/article/the-times-news-partial-transcript-of-ap/21138508/), regarding the 1978 revelation on race
+
+"You don't like that thing we (the church) do? Well, it's actually just a policy, not a doctrine of the church."
+
+Oh? Sounds like we really should delineate what those words mean, and what's the difference between them. Until I find better definitions, I'm going with the following:
+
+- **Doctrine** is what we find in scripture, during conference talks, revelation by the acting prophets. Commonality between those is the words can be traced back to, and ascribed to God.
+
+- **Policy** is more secular. Rules, handbooks, organization of the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose they'd be philosophies of men, mingled with scripture.
+
+Here's where problems arise:
+
+The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are doctrinal.
+
+Behind every policy of the church, there's doctrine. Without doctrine to back policy, it has no justification, no grounds, no purpose. The hierarchical structure of the church (first presidency, quorum of 12, quorum of 70, area authorities, stake presidencies, bishopric) pertains to the workings of the earthly, mortal organization that makes up "the church." 
+
+&nbsp;
+
+## Divine Witness
+> I did not live in the days of our Savior; he has not come to me in person. ==I have not beheld him==. His Father and he have not felt it necessary to grant me such a great blessing as this. ==But it is not necessary==. I have felt his presence. I know that the Holy Spirit has ==enlightened my mind and revealed him unto me==, so that I do love my Redeemer, I hope, and feel it is true, better than everything else in this life. I would not have it otherwise.
+
+Joseph Fielding Smith, [lesson manual, chapter 2](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-joseph-fielding-smith/chapter-2-our-savior-jesus-christ?lang=eng&id=p3#p3).
+
+I thought the whole idea of being a prophet/apostle was having seen Jesus Christ? As in, can personally testify and account for having seen and witnessed Him?
+
+&nbsp;
+
+## Thinking
+> *Any Latter-day Saint who denounces or opposes, whether actively or otherwise, any plan or doctrine advocated by the “prophets, seers, and revelators” of the Church is cultivating the spirit of apostasy. One cannot speak evil of the Lord’s anointed and retain the Holy Spirit in his heart.*
+>
+> *It should be remembered that Lucifer has a very cunning way of convincing unsuspecting souls that the General Authorities of the Church are as likely to be wrong as they are to be right. This sort of game is Satan’s favorite pastime, and he has practiced it on believing souls since Adam. ==He wins a great victory when he can get members of the Church to speak against their leaders and to “do their own thinking.”== He specializes in suggesting that our leaders are in error while he plays the blinding rays of apostasy in the eyes of those whom he thus beguiles. What cunning! And to think that some of our members are deceived by this trickery.*
+>
+> _. . ._
+>
+> _==When our leaders speak, the thinking has been done. When they propose a plan–it is God’s plan.== When they point the way, there is no other which is safe. When they give direction, it should mark the end of controversy. God works in no other way. To think otherwise, without immediate repentance, may cost one his faith, may destroy his testimony, and leave him a stranger to the kingdom of God.
+
+> _CONDUCTED UNDER THE SUPERVISION OF THE PRESIDING BISHOPRIC. EDITED BY LEE A. PALMER._
+
+— The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) (accessed: June 28, 2023)
+
+&nbsp;
+
+## Is "prophet" even a priesthood office?
+No! Not according to one George Q Cannon in 1869, at least:
+
+> we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost; and, in fact, he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination. But when the time came for him to be baptized, then a man who held the keys of that Priesthood came to him and laid his hands upon Joseph’s head, and upon Oliver Cowdery, and set them apart, and gave them authority to officiate in the Aaronic Priesthood, which Priesthood held the keys of baptism and so forth.
+
+[https://www.fairlatterdaysaints.org/answers/Journal_of_Discourses/13/8#47](https://www.fairlatterdaysaints.org/answers/Journal_of_Discourses/13/8#47)

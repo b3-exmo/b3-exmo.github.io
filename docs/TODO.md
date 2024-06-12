@@ -7,13 +7,11 @@ comments: true
 - [x] Add comment sections
 - [ ] Book of Mormon Edition Changes
 - [x] Polish the [[DC 132|D&C 132]] page
-- [ ] Structure images into folders
+- [x] Structure images into folders
 
 ## Topics
 ### To be added
-I have notes on these topics, but they aren't in a presentable condition. (Meaning, this webpage uses Markdown syntax, and the notes were originally written in Microsoft OneNote, so the formatting is all kinds of wonky)
-
-It's low-hanging fruit for me to process them and add them, just... I have a day job, is all. I'll get to it.
+I have notes on these topics, but they aren't in a presentable condition. They'll need some attention and polish before publishing them here. It's low-hanging fruit for me to process them and add them, just... I have a day job, is all. I'll get to it.
 
 - [x] Doctrines
     - [x] Polygamy
@@ -38,14 +36,11 @@ It's low-hanging fruit for me to process them and add them, just... I have a day
     - [x] Historicity
     - [x] Satan
     - [x] Theology
-- [ ] Prophets
-    - [ ] Authority
+- [x] Prophets
+    - [x] Authority
     - [ ] Joseph Smith
-        - [ ] First Vision
+        - [x] First Vision
         - [ ] Emma Smith
-        - [ ] Acquiring the Plates
-        - [ ] Translation of BoA / Kinderhook
-        - [ ] Lucy Mack Smith
     - [ ] Brigham Young
     - [ ] Ezra Taft Benson
     - [ ] Wilford Woodruff
@@ -85,7 +80,7 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] Poetry
 - [ ] Questions to ask
 - [ ] Testimony, faith, bias
-- [ ] Moroni's promise
+- [x] Moroni's promise
 - [ ] Reading Material
 - [ ] Temple
 - [ ] Conflation
@@ -105,3 +100,6 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] The "Temple Lot Case" pertaining to polygamy
 - [ ] Persecution complex
 - [ ] "Too sacred to share"
+- [ ] Reed Smoot Hearings
+- [ ] Apostles
+- [ ] Membership & attendance statistics

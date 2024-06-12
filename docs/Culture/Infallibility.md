@@ -11,9 +11,7 @@ Ok.
 &nbsp;
 
 ## Imperfect individuals
-Can you tell me about something that, for example, Russel Nelson has done that you find problematic or disagreeable?
-
-Or, more generously, can you list anything he’s said or done that indicates imperfection?
+Can you tell me about something that, for example, Russel Nelson has done that you find problematic or disagreeable? Or, more generously, can you list anything he’s said or done that indicates imperfection?
 
 I’m not trying to catch you, hypothetical conversation partner, in your words- I’m observing that the inability to scrutinize any behavior doesn’t sit well with the idea that leaders are infallible.
 
@@ -40,6 +38,6 @@ Observing that the context of a church leaders' words is important and impactful
 ## Organization
 If we were to take a step away from individuals and leaders, and examine the organization as a whole…
 
-Is there anything that The Church of Jesus Christ of Latter-day Saints ™️ has done that you find disagreeable? Imperfect? Something you take issue with?
+Is there anything that The Church of Jesus Christ of Latter-day Saints™️ has done that you find disagreeable? Imperfect? Something you take issue with?
 
 If your answer is ‘no’, that’s an acceptable answer— so long as you don’t perpetuate the idea that “we don’t claim the church to be perfect.”

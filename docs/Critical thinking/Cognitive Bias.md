@@ -55,11 +55,11 @@ When questioning members are advised to "take your questions to the Lord and to 
 ### Moroni's Promise
 Failure to confirm the truth of an impossible counter-claim means that the claim is true.
 
->And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
+> *And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.*
 >
->And by the power of the Holy Ghost ye may know the truth of all things.
+> *And by the power of the Holy Ghost ye may know the truth of all things.*
 
-— _[Moroni 10:3-5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p3-p5#p3)_
+— *[Moroni 10:3-5](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p3-p5#p3)*
 
 &nbsp;
 
@@ -85,7 +85,7 @@ Next, make sure you bear testimony. Put your reputation into it. Verbalize your 
 
 > Another way to seek a testimony seems astonishing when compared with the methods of obtaining other knowledge. We gain or strengthen a testimony by bearing it.
 
-— _[Testimony](https://www.churchofjesuschrist.org/study/general-conference/2008/04/testimony?lang=eng&id=p20##p20)_, Dallin H Oaks, General Conference April 2008
+— *[Testimony](https://www.churchofjesuschrist.org/study/general-conference/2008/04/testimony?lang=eng&id=p20##p20)*, Dallin H Oaks, General Conference April 2008
 
 Don't forget to only study from approved sources. Just listen to things you already think are true!
 

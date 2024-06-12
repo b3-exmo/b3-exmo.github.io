@@ -7,7 +7,7 @@ For such emphasis on how this life is preparatory for our afterlife, we sure hav
 &nbsp;
 
 ## Families
-What about folks who don’t want to stay with their family forever? I’m not part of this demographic, but there are people who are subject to abusive relationships in their family. Someone who gets beaten and raped by their father probably won’t see that eternal family as a selling point. I was subject to emotional abuse in my family. I would be okay with not spending eternity with them.
+What about folks who don’t want to stay with their family forever? I’m not part of this demographic, but there are people who are subject to abusive relationships in their family. Someone who gets beaten and raped by their father probably won’t see that eternal family as a selling point. I would be okay with not spending eternity with that group of people.
 
 If we’re all descendants of a common ancestor, Adam, then… where do we delineate family? If you’re Joseph Smith and your brother just passed away, that’s probably as far as the consideration got.
 
@@ -20,7 +20,7 @@ How many generations back would it go? Wouldn’t that mean that everyone you se
 ## For women
 [[Polygamy]] is already kind of a raw deal for mortal women, but the following quotes pretty strongly suggest that God and Jesus both are polygamists. If we’re spirit sons and daughters of God, it’s kind of odd to think that Heavenly Mother doesn’t refer to one individual. Could be one of many. Each of us in this room are from the same heavenly father, and there is a non-zero chance we’re from different heavenly mothers, if the second Prophet of the church is to be believed.
 
-If Polygamy is an eternal law, and we are to become like God, then… that means that exaltation for women is to be a spiritual breeder, who shall not be named or known, and her children cannot commune with her. Does that sound like heaven? Watching children suffer through arduous trials on earth, and being able to offer no comfort, knowing they’re forbidden from even talking to you, or even knowing about you? Does that sound like heaven?
+If Polygamy is an eternal law, and [[Becoming Gods|we are to become like God]], then… that means that exaltation for women is to be a spiritual breeder, who shall not be named or known, and her children cannot commune with her. Does that sound like heaven? Watching children suffer through arduous trials on earth, and being able to offer no comfort, knowing they’re forbidden from even talking to you, or even knowing about you? Does that sound like heaven?
 
 &nbsp;
 
@@ -29,7 +29,7 @@ Brigham Young is a prophet, yes or no?
 
 When he teaches that [[Theology|Elohim]] and Jesus are both polygamists, should be believe the spokesperson of Elohim and Jesus?
 
-> “Plural marriage is the patriarchal order of marriage lived by God and others who reign in the Celestial Kingdom.”
+> *“Plural marriage is the patriarchal order of marriage lived by God and others who reign in the Celestial Kingdom.”*
 
 — _Brigham Young and His Wives and The True Story of Plural Marriage_, John J. Stewart, 1961, p. 41
 

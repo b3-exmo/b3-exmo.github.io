@@ -7,7 +7,7 @@ comments: true
 > 
 > *She twinkles, “I still have some questions on that shelf, but I’ve come to understand so many other things in my life that I’m willing to bide my time for the rest of the answers.”*
 
-— _[Camilla Kimball: Lady of Constant Learning](https://www.churchofjesuschrist.org/study/ensign/1975/10/camilla-kimball-lady-of-constant-learning?lang=eng)_, Ensign October 1975
+— *[Camilla Kimball: Lady of Constant Learning](https://www.churchofjesuschrist.org/study/ensign/1975/10/camilla-kimball-lady-of-constant-learning?lang=eng)*, Ensign October 1975
 
 &nbsp;
 

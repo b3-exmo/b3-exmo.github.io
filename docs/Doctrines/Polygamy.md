@@ -45,7 +45,6 @@ This presents a problem. The Brighamite sect of Mormonism leaned pretty hard int
 Smith had some polygamous involvement, and has had plenty of slander thrown at him— some founded, some unfounded. Brigham Young and subsequent church leaders were much, much worse.
 
 ## Building up population
-
 Are you sure? I’ve encountered many insistent explanations that when Joseph Smith practiced polygamy, there was no boinking involved.
 
 If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. Plenty of souls had human bodies in 1830, but still, LDS church leaders needed to be blessed with multiple wives. **Don’t tell me it was to build population.**
@@ -63,12 +62,11 @@ Don’t exclude verse 27, though:
 ---
 
 ## Census analysis
+Marrying fourteen-year-olds is not normal today. Don’t tell me It was normal in Joseph Smith’s time, though. I’ll concede that yes, humans under 18 did get married, even at ages like 14.
 
-Marrying fourteen-year-olds is not normal today. Don’t tell me It was normal in Joseph Smith’s time, though.
+**However...** 
 
-I’ll concede that yes, humans under 18 did get married, even at ages like 14. However. Fourteen-year-olds did not get married to men in their mid-thirties. Did not get married to religious clergy with such a power dynamic and imbalance.
-
-Teenagers got married to other teenagers, not to the lord’s mouthpiece at threat of death and destruction, and the promise of exaltation for complying.
+Fourteen-year-olds did not get married to men in their mid-thirties, nor did they get married to religious clergy with such a power dynamic and imbalance. Teenagers got married to other teenagers, not to the lord’s mouthpiece at threat of death and destruction, and the promise of exaltation for complying.
 
 &nbsp;
 
@@ -204,15 +202,11 @@ Sex doesn’t 100% result in conception every time— as I understand it, there 
 [https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up](https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up)
 
 ## Conflicting accounts
-There are numerous documents to suggest that Joseph Smith did not practice polygamy. There also exist many documents to suggest that he did. There exists documentary evidence that later church leaders (Young, Taylor, etc) retrofitted Joseph’s revelations like [[DC 132]] to endorse polygamous behavior post-mortem.
+There are numerous documents to suggest that Joseph Smith did not practice polygamy. There also exist many documents to suggest that he did. There exists documentary evidence that later church leaders (Young, Taylor, etc) retrofitted Joseph’s revelations like [[DC 132|D&C 132]] to endorse polygamous behavior post-mortem.
 
-We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is **not** be up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor.
+We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is **not** up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis.
 
-This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis.
-
-Let’s assume that accusations against JS are exaggerated or outright fabricated. We then have to contend with the 2nd and 3rd presidents of the church.
-
-Did God command _them_ to do it? Did they use JS as justification? If there was explicit revelation from God to do that, do we have a record of it? General conference, Journal of Discourses, D&C entry, book of commandments, anything of the sort?
+Let’s assume that accusations against JS are exaggerated or outright fabricated. We then have to contend with the 2nd and 3rd presidents of the church. Did God command _them_ to do it? Did they use JS as justification? If there was explicit revelation from God to do that, do we have a record of it? General conference, Journal of Discourses, D&C entry, book of commandments, anything of the sort?
 
 If no, then we have a problem.
 

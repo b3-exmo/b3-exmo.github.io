@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# [What Do We Mean When We Say the Church Is True?](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng)
+# 💭 [What Do We Mean When We Say the Church Is True?](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng)
 
 An article from June 2024 edition of the Liahona by Elder J. Devn Cornish, *Emeritus General Authority Seventy*.
 
@@ -29,13 +29,7 @@ That's a nice [[Logical fallacies#Strawman Fallacy|strawman]] you've got there.
 
 You mean like the time when God "guided" Joseph Smith, prophet of the restoration, by [[Polygamy#Angel with a Sword vs Joseph Smith|sending an angel with a flaming sword to destroy him if he doesn't cheat on his wife]]? *Are you led by God or not*? Because if you have a convenient explanation for why something you did *was not* inspired of God each time it's found to be disagreeable, I might question how divinely inspired your organization is.
 
-Quick side note:
-
-> I don’t know that it’s possible to distinguish between policy and doctrine in a church that believes in continuing revelation and sustains its leader as a prophet…
-
-— Elder Dallin H Oaks in [interview with Associated Press SLC](https://www.newspapers.com/article/the-times-news-partial-transcript-of-ap/21138508/), regarding the 1978 revelation on race
-
-Make of that what you will.
+Quick side note: Dallin H Oaks is on record conflating [[Authority#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will.
 
 > [The Lord gives us](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p15#p15) _guidance_ but does not generally exercise _control_, except in matters that bear directly on our salvation. Once again, it is not His purpose to perfect the Church but rather to perfect His children, including Church leaders and administrators. This pattern of inspired operations at Church headquarters is not substantially different from that used in stakes and wards and homes.
 

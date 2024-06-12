@@ -182,7 +182,7 @@ Were Smith to have written it, what elements of his life would be reflected in i
 
 The BoM is exactly what you would expect from someone like Joseph Smith. It is totally superficial story mixed with protestant sermons.
 
-- Hardly any [[Women in Scripture|women]].
+- Hardly any [[Representation of Women|women]].
 - Nothing about the culture.
 - Nothing about their cities.
 - Very little about government or laws.

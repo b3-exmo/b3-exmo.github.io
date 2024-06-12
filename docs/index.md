@@ -44,7 +44,7 @@ If your answer to these notes is to tell me to read more scriptures and pray abo
 
 ### Where to start?
 
-You'll find a column on the left side of this webpage to help navigate how my notes are organized. Pick a topic that interests you. Or, if you don't have a starting point in mind, I'd direct you to notes on [[True|truth]], an overview of the [[Book of Mormon/index|Book of Mormon]], comments on [[DC 132|D&C Section 132]], or how the LDS faith views the [[Bible]].
+You'll find a column on the left side of this webpage to help navigate how my notes are organized. Pick a topic that interests you. Or, if you don't have a starting point in mind, I'd direct you to notes on [[True|truth]], an overview of the [[Scripture/Book of Mormon/index|Book of Mormon]], comments on [[DC 132|D&C Section 132]], or how the LDS faith views the [[Bible]].
 
 This is an ongoing work. I've got a [[TODO]] for documents to outline what topics to cover next, along with which documents are slated for additional polish. This is all hosted via Github Pages, which [keeps track of changes and additions](https://github.com/b3-exmo/b3-exmo.github.io/commits/main/) over time. It's not quite an approachable changelog, but you're welcome to examine how the notes have developed over time.
 

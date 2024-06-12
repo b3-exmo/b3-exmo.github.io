@@ -28,9 +28,7 @@ How else would you describe a group of old men with insane amounts of hidden wea
 &nbsp;
 
 ## Worthiness
-We can point to some examples of Joseph Smith engaging in dubious behavior.
-
-We can write it off as him being a product of his time, or an imperfect servant, or simply a mortal; God chose a flawed mortal to bring in the restoration, etc.
+We can point to some examples of Joseph Smith engaging in dubious behavior. We can write it off as him being a product of his time, or an imperfect servant, or simply a mortal; God chose a flawed mortal to bring in the restoration, etc.
 
 Why is worthiness for **anything** a relevant factor for us, then?
 
@@ -73,17 +71,17 @@ Govern yourself! But…
 ## Thought Stoppers
 The American Psychological Association says in an article:
 
-> Members are taught to stop doubts from entering their consciousness about the cult, often with a key phrase they repeat.
+> *Members are taught to stop doubts from entering their consciousness about the cult, often with a key phrase they repeat.*
 
 — _[Cults of hatred](https://www.apa.org/monitor/nov02/cults.html)_, American Psychology Association
 
-> “Repeating a key phrase” is also known as chanting a mantra repeating mantras is a form of psychological ritual that reinforces belief. In the case of cults, it is also an important aid in brainwashing”
+> *“Repeating a key phrase” is also known as chanting a mantra repeating mantras is a form of psychological ritual that reinforces belief. In the case of cults, it is also an important aid in brainwashing*.
 
 — _[How Cults Trick You Into Believing](https://www.grunge.com/47584/cults-trick-believing/)_
 
 &nbsp;
 
-### **Examples in LDS faith**
+### Examples in LDS faith
 - “We will know in the next life”
 - “I don’t know, I just know that god commanded it”
 - Sing a hymn when you want to do something “wRoNg”.

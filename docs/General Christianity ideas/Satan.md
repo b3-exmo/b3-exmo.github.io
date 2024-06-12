@@ -10,6 +10,9 @@ comments: true
 > However, even in the New Testament there is a great deal of confusion about who Satan is. Scholars must look closely at different translations of the Hebrew and Aramaic words for “evil one” or the proper names of certain demons, like Abaddon, Beelzebub or Belial, and ==try to guess whether they refer to Satan or a more generic evil in context. When referencing the Bible solely, it’s difficult to determine what Satan looks like, where he came from or what his goals might be==.
 
 — _[How Satanism Works](https://people.howstuffworks.com/satanism.htm?srch_tag=cgzxsa6ji3hpuyiibjrg55gw2blylnoo#pt1)_, The Origins of Satan, howstuffworks.com
+
+&nbsp;
+
 ## Wikipedia Excerpts
 ### Hebrew Bible
 > The [Hebrew](https://en.wikipedia.org/wiki/Hebrew) term _śāṭān_ ([Hebrew](https://en.wikipedia.org/wiki/Hebrew_language): שָׂטָן) is a generic noun **meaning “accuser” or “adversary”**, and is derived from a verb meaning primarily “to obstruct, oppose”. In the earlier biblical books, e.g. 1 Samuel 29:4, it refers to human adversaries, but in the later books, especially [Job](https://en.wikipedia.org/wiki/Book_of_Job) 1-2 and [Zechariah](https://en.wikipedia.org/wiki/Book_of_Zechariah) 3, to a supernatural entity. When used without the definite article (simply _satan_), it can refer to any accuser, but when it is used with the definite article (_ha-satan_), it usually refers specifically to the heavenly accuser, literally, _the_ satan.
@@ -23,6 +26,8 @@ comments: true
 > The word does not occur in the [Book of Genesis](https://en.wikipedia.org/wiki/Book_of_Genesis), which mentions only a [talking serpent](https://en.wikipedia.org/wiki/Serpents_in_the_Bible) and does not identify the serpent with any supernatural entity. The first occurrence of the word “satan” in the Hebrew Bible in reference to a supernatural figure comes from [Numbers 22:22](https://mechon-mamre.org/p/pt/pt0422.htm#22), which describes the [Angel of Yahweh](https://en.wikipedia.org/wiki/Angel_of_the_Lord) confronting [Balaam](https://en.wikipedia.org/wiki/Balaam) on his donkey: “Balaam’s departure aroused the wrath of [Elohim](https://en.wikipedia.org/wiki/Elohim), and the Angel of Yahweh stood in the road as a satan against him.” In [2 Samuel 24](https://mechon-mamre.org/p/pt/pt08b24.htm#1), Yahweh sends the “Angel of Yahweh” to inflict a plague against Israel for three days, [killing 70,000 people](https://en.wikipedia.org/wiki/Destroying_angel_(Bible)) as punishment for [David](https://en.wikipedia.org/wiki/David) having taken a census without his approval. [1 Chronicles 21:1](https://mechon-mamre.org/p/pt/pt25a21.htm#1) repeats this story, but replaces the “Angel of Yahweh” with an entity referred to as “a satan”.
 
 _From <_ [_https://en.wikipedia.org/wiki/Satan#Hebrew_Bible_](https://en.wikipedia.org/wiki/Satan#Hebrew_Bible)_>_
+
+&nbsp;
 
 ### Serpents in the Bible: Eden
 

@@ -144,7 +144,6 @@ Closely related to Appeal to Popularity.
 &nbsp;
 
 ### Burden of Proof
-
 _But can you prove that Joseph Smith wasn’t a true prophet?_
 
 Nearly every discussion will invoke this fallacy. You don’t have to show the church is false. Its their job to demonstrate that the church is true and they will always do everything they can to shift that burden to you so that they can rest upon the logical inability to prove a negative.
@@ -156,31 +155,30 @@ Nearly every discussion will invoke this fallacy. You don’t have to show the c
 &nbsp;
 
 ### Circular Reasoning
-
 _God exists because the Bible says so, and God wrote the Bible so it must be true_
 (Note: I'm not sure I've really heard anyone claim that God wrote the Bible. This is an oversimplistic example.)
 
 When the argument being made relies upon the argument being true. This can be difficult to identify sometimes because its not always obvious, but always focus on what assumptions an argument is making, and sometimes you’ll find the conclusion hiding there.
 
 Made up example:
-> _"When I pray to know the BoM is true, then the spirit will give me a good feeling which confirms to me the book is true."_
+> *"When I pray to know the BoM is true, then the spirit will give me a good feeling which confirms to me the book is true."*
 
 How do you know what you are feeling is a 'spirit' of God making you feel that way, and not just a conditioned feeling, or meditative peace, or any number of other sources that give you the nice feeling?
 
-> _"Because the book of mormon tells me that this feeling comes from the Spirit."_
+> *"Because the book of mormon tells me that this feeling comes from the Spirit."*
 
 But how do you know the book of mormon is telling you the truth?
 
-> _"Because I prayed and I felt the spirit, [[Emotional Thinking|so I know it is true]]!"_
+> *"Because I prayed and I felt the spirit, [[Emotional Thinking|so I know it is true]]!"*
 
 [https://en.m.wikipedia.org/wiki/Circular_reasoning](https://en.m.wikipedia.org/wiki/Circular_reasoning)
 
 &nbsp;
 
 ### False Cause
-_"Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax."_
+*"Pointing to a fancy chart, Roger shows how temperatures have been rising over the past few centuries, whilst at the same time the numbers of pirates have been decreasing; thus pirates cool the world and global warming is a hoax."*
 
-_"Why would Joseph Smith die for the Church if he didn't know it were true?"_
+*"Why would Joseph Smith die for the Church if he didn't know it were true?"*
 
 Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.
 
@@ -199,7 +197,7 @@ Claiming that “either” proposition A or B is true when a third option is po
 
 *“If the Mormon Church isn’t true, then nothing is.”*
 
-_If you’re wrong about God then you’re going to suffer in hell._
+*If you’re wrong about God then you’re going to suffer in hell.*
 
 For the above example, this is the fallacy invoked by [Pascal’s Wager](https://en.m.wikipedia.org/wiki/Pascal%27s_wager).
 
@@ -207,9 +205,9 @@ Also commonly used in tandem with the God of the Gaps where God is invoked as a 
 
 Different example:
 
-> We must make a simple choice with the Book of Mormon: it is either of God or the devil. There is no other option.
+> *We must make a simple choice with the Book of Mormon: it is either of God or the devil. There is no other option.*
 
-[Tad R Callister, 2011](https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-book-of-mormon-a-book-from-god?lang=eng&id=p6#p6)
+— [The Book of Mormon—a Book from God](https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-book-of-mormon-a-book-from-god?lang=eng&id=p6#p6), Elder Tad R. Callister of the Presidency of the Seventy, General Conference October 2011
 
 How confident are we in the conclusion that “there is no other option”?
 
@@ -236,7 +234,7 @@ Basing an argument on the opinion of a person or group.
 
 This person’s bishop may be knowledgeable in his particular field of expertise, but it does not necessarily mean he is an expert when it comes to the accuracy of the Bible.
 
-Other example would be trusting one's preferred politician to know about microbiology. Or, trusting a cardiac surgeon to know how to handle virology. Good thing neither of those things have ever happened! 🫢
+Other example would be trusting one's preferred politician to know about microbiology. Or, trusting a cardiac surgeon to know how to handle virology. Good thing neither of those things have ever happened! 🙃
 
 &nbsp;
 
@@ -250,7 +248,6 @@ Rather than disparaging the source of the information, the argument itself shou
 &nbsp;
 
 ### God of the Gaps
-
 _So what caused the Big Bang then? How else do you explain [something that isn’t fully understood]?_
 
 Humans have a long and well documented history of invoking deities and other universal explanations (magic etc) to fill the gaps of our knowledge.
@@ -262,7 +259,6 @@ Humans have a long and well documented history of invoking deities and other uni
 &nbsp;
 
 ### No true Scottsman
-
 _Yeah but she (exmo) never had a testimony to begin with_
 
 Nearly always used to dismiss experiences from former members. Very common among many faiths. If the claim is only made _after_ a member leaves its a form of ad hoc rationalization and confirmation bias.
@@ -290,14 +286,15 @@ Getting off-topic is a diversionary tactic meant to sideline the conversation. 
 &nbsp;
 
 ### Sharpshooter fallacy
-
 Focusing on all the "hits" and ignoring all the "misses".
 
 >The name comes from a metaphor about a person from Texas who fires a gun at the side of a barn, then paints a shooting target centered on the tightest cluster of shots and claims to be a sharpshooter.
+
 — [Wikipedia](https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy)
  
 >The Texas Sharpshooter fallacy is a logical fallacy that occurs when data is selectively collected and then used to support the conclusion of the argument. It is commonly used to describe situations where a person or group of people cherry-pick data points from a set of available data to support a predetermined conclusion, giving the impression that the data points were chosen for their relevance to the conclusion. In other words, the data points are chosen not for their relevance to the conclusion, but for their ability to support the conclusion.
-[Source](https://www.logicalfallacies.org/texas-sharpshooter.html)
+
+— [Source](https://www.logicalfallacies.org/texas-sharpshooter.html)
 
 - President Nelson predicted the Covid pandemic by saying that 2020’s general conference would be unlike others. Or his post to 'take your vitamins'.
 - Joseph Smith predicted the civil war! (Ignoring his predictions of the end of the world or 2nd coming of Christ, or other vague prophecies)
@@ -305,7 +302,6 @@ Focusing on all the "hits" and ignoring all the "misses".
 &nbsp;
 
 ### Special Pleading
-
 Having standards that apply to others, but not oneself, without applying justification for the exemption. 
 
 “Yes, Doctrine and Covenants 1:31 does say the Lord will not look upon sin with the least degree of allowance, but Heavenly Father loves me, so I’m sure I will be eligible for exaltation.”
@@ -344,6 +340,8 @@ An attempt to ignore a criticism by pointing out an inconsistency or hypocrisy o
 *“Yes, it is true that several of our past leaders made remarks that certainly sound racist. But have you never exhibited behavior that might make you appear to be prejudiced or bigoted? Besides, many people during that time period had similar views.”*
 
 Instead of explaining the racist comments made by past LDS leaders, it avoids the criticism by pointing out the possible hypocrisy of the person asking the question.
+
+&nbsp;
 
 ## Rationalist Principles to understand
 ### Motivated Reasoning vs Critical Reasoning

@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Technology
+# 🤖 Technology
 ## Steel
 > Iron production began in Anatolia about 2000 bc, and the Iron Age was well established by 1000 bc. The technology of iron making then spread widely; by 500 bc it had reached the western limits of Europe, and by 400 bc it had reached China. Iron ores are widely distributed, and the other raw material, charcoal, was readily available. The iron was produced in small shaft furnaces as solid lumps, called blooms, and these were then hot forged into bars of wrought iron, a malleable material containing bits of slag and charcoal.
 >
