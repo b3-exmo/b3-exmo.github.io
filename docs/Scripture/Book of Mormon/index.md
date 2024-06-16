@@ -40,10 +40,10 @@ If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]
 
 An awful lot of the Book of Mormon is what its adherents call the pride cycle:
 
-- God blesses righteous, obedient people 
-- People become prideful & stop being obedient 
-- God has to punish the sinful, prideful people
-- People become humble & righteous
+1. God blesses righteous, obedient people 
+2. People become prideful & stop being obedient 
+3. God has to punish the sinful, prideful people
+4. People become humble & righteous
 - Rinse and repeat. 
 
 God rewards your obedience and righteousness with a reward corrupts you, bringing you to fall. God keeps perpetuating this cycle, and is going to keep the Lamanites a short distance away to use as a punishing tool for when you *obey too much*.

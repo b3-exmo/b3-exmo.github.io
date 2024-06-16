@@ -14,7 +14,7 @@ According to LDS doctrine:
 - Elohim then sent Lucifer and the 1/3 failed spirits down to Earth to confuse us and lead as many astray as possible.
 - But Elohim really does want us to believe in him, so he withholds all demonstrable evidence and requires that we rely on logical fallacies and coincidences. This includes feelings that must be interpreted as telepathic communications from your divine creator living on an exalted planet tens of thousands of light years away, not known demonstrable chemical processes occurring in your brain (which brain He designed and created.)
 
-#### The Plan:
+#### God's Plan for Us
 Have his only perfect son murdered so he could convince himself to forgive you for failing the test and then use the blood of the Jesus to save you from failing! As long as you ritualistically pretend to drink his blood and eat his flesh every week, pay the club dues, obey your leaders, and covenant to give everything you have including your own life to one specific church. 
 
 If you don't like that plan, prison is waiting for you on the other side. But wait, there's more! While you're in prison, someone in a temple will be performing nonconsensual rituals for you so you can choose while a gun is pointed at your head to accept Elohim's plan and enter a lower tier peasant heaven for second class citizens! You'll still be looked down on for eternity, but hey, at least you're not in prison!

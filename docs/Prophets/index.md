@@ -87,7 +87,7 @@ I thought the whole idea of being a prophet/apostle was having seen Jesus Christ
 >
 > _. . ._
 >
-> _==When our leaders speak, the thinking has been done. When they propose a plan–it is God’s plan.== When they point the way, there is no other which is safe. When they give direction, it should mark the end of controversy. God works in no other way. To think otherwise, without immediate repentance, may cost one his faith, may destroy his testimony, and leave him a stranger to the kingdom of God.
+> *==When our leaders speak, the thinking has been done. When they propose a plan–it is God’s plan.== When they point the way, there is no other which is safe. When they give direction, it should mark the end of controversy. God works in no other way. To think otherwise, without immediate repentance, may cost one his faith, may destroy his testimony, and leave him a stranger to the kingdom of God.*
 
 > _CONDUCTED UNDER THE SUPERVISION OF THE PRESIDING BISHOPRIC. EDITED BY LEE A. PALMER._
 

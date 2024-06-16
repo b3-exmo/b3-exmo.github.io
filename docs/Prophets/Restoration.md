@@ -37,6 +37,7 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 
 &nbsp;
 
+### Already Restored
 > No matter where I go, I meet our missionaries. They are remarkably resilient and ever effective. They give visible and tangible evidence that the Church of Jesus Christ ==has been restored in its fulness==.
 
 — *[Senior Missionaries and the Gospel](https://www.churchofjesuschrist.org/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=eng&id=p4#p4)*, Elder Russel M Nelson, General Conference October 2004
@@ -49,7 +50,7 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 
 &nbsp;
 
-> The Great Apostasy was a time of spiritual darkness, but we now live in a time when we can partake of “the light of the glorious gospel of Christ”. **The fulness of the gospel has been restored**, and the true Church of Jesus Christ is on the earth again. No other organization can compare to it. It is not the result of a reformation, with well-meaning men and women doing all in their power to bring about change. It is a restoration of the Church established by Jesus Christ. It is the work of Heavenly Father and His Beloved Son.
+> The Great Apostasy was a time of spiritual darkness, but we now live in a time when we can partake of “the light of the glorious gospel of Christ”. ==The fulness of the gospel has been restored==, and the true Church of Jesus Christ is on the earth again. No other organization can compare to it. It is not the result of a reformation, with well-meaning men and women doing all in their power to bring about change. It is a restoration of the Church established by Jesus Christ. It is the work of Heavenly Father and His Beloved Son.
 
 — [Restoration of the Gospel](https://www.churchofjesuschrist.org/study/manual/true-to-the-faith/restoration-of-the-gospel?lang=eng), True to the Faith (2004)
 

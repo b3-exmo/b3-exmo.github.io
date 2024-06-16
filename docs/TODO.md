@@ -4,43 +4,14 @@ comments: true
 # 🗒️ TODO
 ## Functional
 
-- [x] Add comment sections
 - [ ] Book of Mormon Edition Changes
-- [x] Polish the [[DC 132|D&C 132]] page
-- [x] Structure images into folders
 
 ## Topics
 ### To be added
-I have notes on these topics, but they aren't in a presentable condition. They'll need some attention and polish before publishing them here. It's low-hanging fruit for me to process them and add them, just... I have a day job, is all. I'll get to it.
+I have notes on these topics, but they aren't in a presentable condition. They'll need some attention and polish before publishing them. It's low-hanging fruit for me to process them and add them, just... I have a day job, is all. I'll get to it.
 
-- [x] Doctrines
-    - [x] Polygamy
-    - [x] Becoming Gods
-- [x] Critical Thinking
-    - [x] Cognitive Bias
-    - [x] Emotional Thinking
-    - [x] Logical Fallacies
-    - [x] Falsifiability
-    - [x] The Shelf
-- [x] Culture
-    - [x] Anxiety
-    - [x] Satan controls water
-    - [x] Infallibility
-    - [x] Natural Man
-    - [x] SCMC
-    - [x] Truth
-    - [x] Name "Mormon"
-- [x] General Christianity Ideas
-    - [x] Exaltation, afterlife
-    - [x] Bible
-    - [x] Historicity
-    - [x] Satan
-    - [x] Theology
-- [x] Prophets
-    - [x] Authority
-    - [ ] Joseph Smith
-        - [x] First Vision
-        - [ ] Emma Smith
+-  Prophets
+	- [ ] Joseph Smith
     - [ ] Brigham Young
     - [ ] Ezra Taft Benson
     - [ ] Wilford Woodruff
@@ -51,20 +22,8 @@ I have notes on these topics, but they aren't in a presentable condition. They'l
 - [ ] Race
     - [ ] Comments from Modern Church Leadership
     - [ ] In Scripture
-- [x] Book of Mormon
-    - [x] Translation
-    - [x] Plagiarism
-    - [x] Changes
-    - [x] Isaiah
-    - [x] Seafaring
-    - [x] Technology
-    - [x] Women
-    - [x] Anachronisms
-    - [x] Steel
-- [x] Tithing money
-    - [ ] SEC & LDS Response
-- [x] Links & Other Material
-
+- [ ] Tithing: SEC & LDS Response
+- [ ] Emma Smith
 ### To be written
 Most of these topics I have some opinions on, dispositions, etc— maybe even some rudimentary notes. These are things I intend to expound on before publishing.
 
@@ -76,7 +35,7 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] Discernment
 - [ ] Don't look elsewhere for info
 - [ ] NDA's
-- [ ] Moving goalposts
+- [x] Moving goalposts
 - [ ] Poetry
 - [ ] Questions to ask
 - [ ] Testimony, faith, bias

@@ -21,7 +21,7 @@ comments: true
 > 
 > It was a realization for me that the only proof you need for "the church is not true" is that they keep fucking saying it all the time. Because if it was actually true, no one would say it!
 >
-> People don't say things like "I know the garbage man comes on Wednesdays." They just don't do that. That's not how the human mind works. ... ==They just keep saying that over and over again, because it was true there would be no need to say it.==
+> People don't say things like "I know the garbage man comes on Wednesdays." They just don't do that. That's not how the human mind works. ... ==They just keep saying that over and over again, but if it was true there would be no need to say it.==
 
 — Insight shared from John Larsen's *Mormon Expression* [podcast episode on epistemology](https://mormonexpression.com/2013/11/29/episode-234-epistemology)
 
@@ -38,16 +38,18 @@ As much distaste as I feel for the trope of introducing a word's definition as p
 - not false
 - being what exists, rather than what was thought, intended, or stated
 
-I grew up in the LDS faith, and so I can't really speak to the experience of other religions. But this does make me wonder, do Catholic church attendees hear a testimony that the Catholic church is true? Or is it assumed? Would the priest be safe to assume that "if you congregants are here listening to me, you don't need for me to convince you that it's true"? Do Jehovah's Witnesses do this?
+I grew up in the LDS faith, and so I can't really speak to the experience of other religions. But this does make me wonder, do Catholic church attendees hear a testimony that the Catholic church is true, or is it assumed? Would the priest be safe to assume that "if you congregants are here listening to me, you don't need for me to convince you that it's true"? Do Jehovah's Witnesses do this?
 
 What does a *true* church even mean? Does that mean it has not tried to obscure information? Does that mean it is internally consistent? Does that mean it is in harmony with Christ's teachings, or that it has not strayed from His word as recorded in the four Gospels?
 
-### Opposition
-> And it came to pass that he said unto me: Look, and behold that great and abominable church, which is the mother of abominations, whose founder is the devil.
-> 
-> And he said unto me: Behold there are save ==two churches only; the one is the church of the Lamb of God, and the other is the church of the devil==; wherefore, whoso belongeth not to the church of the Lamb of God belongeth to that great church, which is the mother of abominations;
+&nbsp;
 
-— [1 Nephi 14:9-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p9-p10#p9)
+### Opposition
+> *And it came to pass that he said unto me: Look, and behold that great and abominable church, which is the mother of abominations, whose founder is the devil.*
+> 
+> *And he said unto me: Behold there are save ==two churches only; the one is the church of the Lamb of God, and the other is the church of the devil==; wherefore, whoso belongeth not to the church of the Lamb of God belongeth to that great church, which is the mother of abominations;*
+
+— *[1 Nephi 14:9-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p9-p10#p9)*
 
 My first reaction to the above passage is that it's a prime example of a [[Logical fallacies#False Dilemma|false dilemma]] logical fallacy. This is oversimplifying something to two possible outcomes. In the above example, "the church" can either be backed and authorized by God, or founded by the devil and has a maternal connection to non-specific abominations.
 
@@ -58,7 +60,6 @@ This dualistic all-or-nothing approach seems to oversimplify what humans find va
 &nbsp;
 
 ## ["What Do We Mean When We Say the Church Is True?"](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng)
-
 What fortuitous timing this is! I'm writing these notes in May of 2024, and the upcoming edition of the LDS church's magazine Liahona (formally Ensign) has an address specifically about this very topic. I wrote up some notes on it, but found my comments to be much more numerous than I expected. They're kept in a separate note, [[What Do We Mean When We Say the Church Is True|find it here]].
 
 &nbsp;

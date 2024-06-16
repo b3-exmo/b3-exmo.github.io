@@ -204,7 +204,7 @@ Sex doesn’t 100% result in conception every time— as I understand it, there 
 ## Conflicting accounts
 There are numerous documents to suggest that Joseph Smith did not practice polygamy. There also exist many documents to suggest that he did. There exists documentary evidence that later church leaders (Young, Taylor, etc) retrofitted Joseph’s revelations like [[DC 132|D&C 132]] to endorse polygamous behavior post-mortem.
 
-We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is **not** up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis.
+We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is ==not== up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis.
 
 Let’s assume that accusations against JS are exaggerated or outright fabricated. We then have to contend with the 2nd and 3rd presidents of the church. Did God command _them_ to do it? Did they use JS as justification? If there was explicit revelation from God to do that, do we have a record of it? General conference, Journal of Discourses, D&C entry, book of commandments, anything of the sort?
 
