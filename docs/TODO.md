@@ -11,7 +11,7 @@ comments: true
 I have notes on these topics, but they aren't in a presentable condition. They'll need some attention and polish before publishing them. It's low-hanging fruit for me to process them and add them, just... I have a day job, is all. I'll get to it.
 
 -  Prophets
-	- [ ] Joseph Smith
+	- [x] Joseph Smith
     - [ ] Brigham Young
     - [ ] Ezra Taft Benson
     - [ ] Wilford Woodruff
@@ -22,7 +22,7 @@ I have notes on these topics, but they aren't in a presentable condition. They'l
 - [ ] Race
     - [ ] Comments from Modern Church Leadership
     - [ ] In Scripture
-- [ ] Tithing: SEC & LDS Response
+- [x] Tithing: SEC & LDS Response
 - [ ] Emma Smith
 ### To be written
 Most of these topics I have some opinions on, dispositions, etc— maybe even some rudimentary notes. These are things I intend to expound on before publishing.
@@ -62,3 +62,4 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] Reed Smoot Hearings
 - [ ] Apostles
 - [ ] Membership & attendance statistics
+- [ ] Temple worthiness

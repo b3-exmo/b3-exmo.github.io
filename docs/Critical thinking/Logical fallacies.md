@@ -2,13 +2,11 @@
 comments: true
 ---
 # ♟️ Logical Fallacies
-Fallacies are problems with how an argument is constructed. They say nothing about why a conclusion is wrong, other than to say that the conclusion came from a bad argument. Bad arguments can still lead to conclusions that are true.
+Fallacies are problems with how an argument is constructed. They say nothing about why a conclusion is wrong, other than to say that the conclusion came from a bad argument. Bad arguments can still lead to conclusions that are true. In other words, once we're done labeling the arguments, one also should consider explaining why the conclusions are shit, too.
 
-In other words, once we're done labeling the arguments, one also should consider explaining why the conclusions are shit, too.
+==I am not exempt from these!== Please, point out where I use logical fallacies so I can fix / revisit the arguments. I've added a comment section to these notes for exactly that purpose. In fact, I can give you a heads-up that I'll be using [[#Strawman Fallacy]] for illustrative purposes in the examples for other fallacies.
 
-==I am not exempt from these!== Please, point out where I use logical fallacies so I can fix / revisit the arguments. In fact, a reader might find examples of these fallacies in the notes I wrote. I've added a comment section to these notes for exactly that purpose.
-
-A more comprehensive document would delineate these into formal vs informal fallacies. I'm not doing that here. You can go down that rabbit hole on your own time.
+This is a high-level overview with some short examples I've found. A more comprehensive document would delineate these into formal vs informal fallacies. I'm not doing that here. It's a topic with plenty of material to consume!
 
 ---
 ## Fallacies
@@ -17,11 +15,20 @@ A primer:
 
 **"Evidence of absence"** = Found evidence demonstrating that something was there but is now missing or gone. For example: "The dust on the mantel shows that the clock has been removed." Evidence of absence is indeed evidence.
 
-These are different, and one does not follow from the other.
+This leads to the idea of double-negative equating positive. To say "no one has proven 'not X', therefore X is true" is not a valid argument. No one has ever proven that there are *not* invisible aliens living in my earlobes, therefore it must be true. No one has proven that God does not exist, therefore, God must exist. This conclusion fits nicely with [[Falsifiability]].
+
+If I am looking for an elephant in my closet and I find no evidence of one, it makes no sense to say "Absence of evidence is not evidence of absence". In this case absence of evidence of an elephant most definitely means an elephant is absent.
+
+If, however, I am looking for an ant in my backyard and I find no evidence of one, it is very possible I didn’t look hard enough or long enough. An ant is small and I likely have missed it. In this case absence of evidence is *not* evidence of absence. Although in this case it would be more correct to say that absence of evidence is not proof of absence. It could very well be taken as evidence; it just that it is not conclusive evidence.
+
+&nbsp;
+
 ### Ad Hominem
 Criticizing a person making the argument rather than the argument itself. 
 
-Ex: “Because John is a former Mormon, an apostate from the LDS Church, his argument against the Book of Abraham cannot be considered valid.”
+"[We can't trust anything D Michael Quinn says](https://www.fairlatterdaysaints.org/answers/Criticism_of_Mormonism/Books/One_Nation_Under_Gods/Use_of_sources/Boyd_K._Packer_on_the_truth#cite_ref-2) because he got excommunicated! Also he was gay all along."
+
+"Because John is a former Mormon, an apostate from the LDS Church, his argument against the Book of Abraham cannot be considered valid."
 
 See also: [[#No true Scottsman]]
 
@@ -148,9 +155,9 @@ _But can you prove that Joseph Smith wasn’t a true prophet?_
 
 Nearly every discussion will invoke this fallacy. You don’t have to show the church is false. Its their job to demonstrate that the church is true and they will always do everything they can to shift that burden to you so that they can rest upon the logical inability to prove a negative.
 
-[https://en.m.wikipedia.org/wiki/Burden_of_proof_(philosophy)](https://en.m.wikipedia.org/wiki/Burden_of_proof_(philosophy))
+*"I've got [[Falsifiability#Dragon in my Garage|a dragon in my garage]]. No, I do not feel the need to verify or prove this statement, it's up to you to demonstrate that I'm wrong."*
 
-[https://rationalwiki.org/wiki/The_Dragon_in_My_Garage](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage)
+[https://en.m.wikipedia.org/wiki/Burden_of_proof_(philosophy)](https://en.m.wikipedia.org/wiki/Burden_of_proof_(philosophy))
 
 &nbsp;
 
@@ -163,11 +170,11 @@ When the argument being made relies upon the argument being true. This can be di
 Made up example:
 > *"When I pray to know the BoM is true, then the spirit will give me a good feeling which confirms to me the book is true."*
 
-How do you know what you are feeling is a 'spirit' of God making you feel that way, and not just a conditioned feeling, or meditative peace, or any number of other sources that give you the nice feeling?
+How do you know what you are feeling is a 'spirit' of God making you feel that way, and not just a conditioned feeling, elevation emotion, or meditative peace, or any number of other sources that give you the nice feeling?
 
-> *"Because the book of mormon tells me that this feeling comes from the Spirit."*
+> *"Because the book of Mormon tells me that this feeling comes from the Spirit."*
 
-But how do you know the book of mormon is telling you the truth?
+But how do you know the book of Mormon is telling you the truth?
 
 > *"Because I prayed and I felt the spirit, [[Emotional Thinking|so I know it is true]]!"*
 
@@ -304,7 +311,7 @@ Focusing on all the "hits" and ignoring all the "misses".
 ### Special Pleading
 Having standards that apply to others, but not oneself, without applying justification for the exemption. 
 
-“Yes, Doctrine and Covenants 1:31 does say the Lord will not look upon sin with the least degree of allowance, but Heavenly Father loves me, so I’m sure I will be eligible for exaltation.”
+*“Yes, Doctrine and Covenants 1:31 does say the Lord will not look upon sin with the least degree of allowance, but Heavenly Father loves me, so I’m sure I will be eligible for exaltation.”*
 
 Even though LDS scripture insists that no sin will be acceptable to God, those using this argument feel that they are somehow exempt from any penalty for their sin.
 
@@ -369,8 +376,10 @@ That which is asserted without evidence can be dismissed without evidence
 [https://en.m.wikipedia.org/wiki/Hitchens%27s_razor](https://en.m.wikipedia.org/wiki/Hitchens%27s_razor)
 
 #### Pathos, Logos, Ethos
+None of these should be counted as wrong, or bad. They are rhetorical devices used to make an argument. I'll observe them here for you to keep in mind for the future.
+
 **Pathos** is appealing to the audience’s emotions when trying to argue. (e.g. Moroni’s promise). Having an emotional response to something is not evidence that it is true.
 
 **Logos** is appealing to logic, which is what I am attempting to do with this note.
 
-**Ethos** is an appeal to authority, which isn’t necessarily bad or wrong. If you don’t have a sufficient knowledge base to understand a logos argument, the best you can do is appeal to the consensus of the experts, but a logos argument is preferred. In general the strength of your opinion ought to be proportional to the depth of your knowledge on the subject.
+**Ethos** is an appeal to authority, or to ethics. If you don’t have a sufficient knowledge base to understand a logos argument, the best you can do is appeal to the consensus of the experts, but a logos argument is preferred. In general the strength of your opinion ought to be proportional to the depth of your knowledge on the subject.

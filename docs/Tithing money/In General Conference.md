@@ -78,7 +78,7 @@ Tell me how to make sense of this. _It feels dishonest_. It feels manipulative. 
 
 [Tithing: Opening the Windows of Heaven](https://www.churchofjesuschrist.org/study/general-conference/2023/10/22andersen?lang=eng&id=p40-p18#p40), Elder Neil L. Andersen, General Conference October 2023
 
-Blessings of heaven, you say? That sounds so incredibly vague. I'm being asked to pay an organization a portion of my money, which money is quantifiable, tangible, useful, in exchange for... Something. Maybe it'll be just health. Maybe you didn't get in a car collision. You'll never really know. 
+Blessings of heaven, you say? That sounds so incredibly vague. I'm being asked to pay an organization a portion of my money, which money is quantifiable, tangible, useful, in exchange for... Something. Maybe it'll be just health. Maybe you didn't get in a car collision. [[Falsifiability|You'll never really know]].
 
 &nbsp;
 

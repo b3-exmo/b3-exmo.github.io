@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 🤓 Name "Mormon"
+# ☝️🤓 Name "Mormon"
 At the end of the day, one growing problem that the LDS church is facing is that continuous revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, Ensign. This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9).
 
 ## Are nicknames acceptable?

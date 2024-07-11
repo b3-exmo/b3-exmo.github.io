@@ -29,6 +29,8 @@ Does no one think this is a problem?
 
 Excuse me? For the record to say it was literally written by the hand of Abraham, you’ll claim that it doesn’t have to be from when Abraham *was even alive*? Didn't Joseph Smith himself assert that Abraham wrote it?
 
+&nbsp;
+
 ## Translated
 > Alternatively, Joseph’s study of the papyri may have led to a revelation about key events and teachings in the life of Abraham, much as he had earlier received a revelation about the life of Moses while studying the Bible.
 

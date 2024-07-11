@@ -62,9 +62,11 @@ Perhaps there's room for middle ground between those two outcomes? The significa
 
 &nbsp;
 
-The Book of Mormon was translated from golden plates, preserved by Moroni. You'll just have to take Joseph's word that the plates existed, since you're not allowed to see them. Even if you had, it's written in a language no one else can read, also doesn't exist anywhere else so no one else *could* read it. There's a testimony of three and also eight witnesses, they saw it. Maybe.
+The Book of Mormon was translated from golden plates, preserved by Moroni. You'll just have to take Joseph's word that the plates existed, since you're not allowed to see them. Even if you had, it's written in a language no one else can read, also doesn't exist anywhere else so no one else *could* read it. There's a testimony of three and also eight witnesses, and *they* saw it. Maybe.
 
 Joseph Smith saw God and Jesus. No one else was there, but it's an event of significant impact and consequence. Despite how world-changing this was, Joseph [[First Vision#Timeline of Accounts|didn't write it down for 14 years]] (oops 🤪). Definitely happened, though.
+
+&nbsp;
 
 ### Moving goalposts 
 *If you change the criteria of verifying a claim, anything can be true!*
@@ -73,7 +75,7 @@ You want to examine the golden plates containing the original Book of Mormon tex
 
 You're upset that the Book of Abraham scrolls don't appear to have [[Book of Abraham|anything to do with Abraham]]? Well, there were other scrolls in the set, and *those* ones were written by Abraham. Or maybe none of it was a direct translation, and the funerary texts for a pedestrian regular guy acted as a catalyst for Joseph to receive the scripture through revelation. It's fine.
 
-The Garden of Eden was in Jackson County Missouri? Well, the garden was geographically small, secretive, and it disappeared to test our faith. No way to prove that it *wasn't* in Missouri, so it has to be true. I could just as easily claim that it was in [Muddy Fork, Arkansas](https://maps.app.goo.gl/Vpz8TyfpN2uigrfP7), and you would have no recourse against me, other than I didn't start a church 200 years ago.
+The Garden of Eden was in Jackson County Missouri? Well, the garden was geographically small, secretive, and it disappeared to test our faith. No way to prove that it *wasn't* in Missouri, so [[Logical fallacies#Fallacies|it has to be true]]. I could just as easily claim that it was in [Muddy Fork, Arkansas](https://maps.app.goo.gl/Vpz8TyfpN2uigrfP7), and you would have no recourse against me, other than I didn't start a church 200 years ago.
 
 A global flood happened during Noah's prophetic leadership? Well, it wasn't *actually* global, and... uh... counter-evidence is just there to test our faith.
 

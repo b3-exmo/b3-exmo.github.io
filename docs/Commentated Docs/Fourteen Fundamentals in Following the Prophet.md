@@ -3,13 +3,13 @@ comments: true
 ---
 # 🤡 [Fourteen Fundamentals in Following the Prophet](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng)
 
+***If I had to point to one church publication as evidence that the LDS church is a cult, it'd be this one.***
+
 The link above is to the Ensign magazine, reprinting the [address given in BYU](https://speeches.byu.edu/talks/ezra-taft-benson/fourteen-fundamentals-following-prophet/) in February, 1980. I won't repost the entire speech, but show some excerpts with comments.
 
 It's worth acknowledging that as of [October '79,](https://www.churchofjesuschrist.org/study/general-conference/1979/10/the-sustaining-of-church-officers?lang=eng&id=p5#p5) Benson was not the president of the church, but the "President of the Council of the Twelve," which I suppose is what we'd call today the senior-most apostle. The Ensign distribution of this talk was in '81. When Elder Benson here is talking about "the prophet", at the time of the speech he was talking about Spencer Kimball, but there's no way that Benson didn't see the writing on the wall. Benson *will be* "the prophet" soon, so he can get this faith-promoting address in now so he doesn't sound quite so much like a tyrant who destroys, reigning with blood and horror upon the earth.
 
 &nbsp;
-
-*If I had to point to one church publication as evidence that the LDS church is a cult, it'd be this one.*
 
 ## Notes
 > *My beloved brothers and sisters, I am honored to be in your presence today. You students are a part of a choice young generation—a generation which might well witness the return of our Lord.*
@@ -22,10 +22,12 @@ GOD BLESS AMERICA 🌎🇺🇸🗽🦅🍔🔫
 
 We're a worldwide organization, but don't forget that not only is '*merica* the *promised land*, Utah specifically is the *super-promised land*. The border between Colorado and Utah has a magic barrier that keeps out ~~people of color~~ sinful heathens.
 
+&nbsp;
+
 ### 1
 > *1. The prophet is the only man who speaks for the Lord in everything.*
 
-Idk man that sounds like you really want to be able to *dictate* “anything”.
+Idk man that sounds like you really want to be able to *dictate* “everything”.
 
 > *In [D&C 132:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.7?lang=eng#p7) the Lord speaks of the prophet—the president—and says:*
 > 
@@ -38,7 +40,7 @@ Wait, so... do we sustain the quorum of 12 as "prophets, seers, and revelators"?
 ### 2
 > *2. The living prophet is more vital to us than the Standard Works.*
 
-So… Existing, established records of Jesus’ teachings are less important than you. I suppose that would make sense **if** you really spoke to Jesus. From anyone left of skepticism, that sounds very authoritarian and cult-like.
+So… Existing, established records of Jesus’ teachings are less important than you. I suppose that would make sense *if* you really spoke to Jesus. From anyone left of skepticism, that sounds very authoritarian and cult-like.
 
 > *President Wilford Woodruff tells of an interesting incident that occurred in the days of the Prophet Joseph Smith:*
 > 
@@ -59,15 +61,13 @@ That's quite a leap in logic. Joseph Smith has passed away, and still gets quote
  
 > *. . . Therefore the most important reading we can do is any of the words of the prophet contained each month in our Church Magazines. Our instructions about what we should do for each six months are found in the General Conference addresses which are printed in the Church magazine.*
 
-*ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴍᴀɢᴀᴢɪɴᴇ ᴏʀ ʏᴏᴜ ᴡᴏɴ'ᴛ ᴋɴᴏᴡ ɢᴏᴅ'ꜱ ᴡɪʟʟ*
+***ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴍᴀɢᴀᴢɪɴᴇ ᴏʀ ʏᴏᴜ ᴡᴏɴ'ᴛ ᴋɴᴏᴡ ɢᴏᴅ'ꜱ ᴡɪʟʟ***
 
-I can be satisfied to call this a product of the 80's. Truthfully, I wasn't around for the 80's, but I imagine that magazine printing and distributing was the most efficient way to communicate, and it does have overhead costs. To my knowledge, the Ensign et al were not at an exorbitant subscription fee... although, something could be said about the church taking in 10% of your income.
+I can be satisfied to call this a product of the 80's. Truthfully, I wasn't around for the 80's, but I imagine that magazine printing and distributing was the most efficient way to disseminate information, and it does incur overhead costs. To my knowledge, the Ensign et al were not at an exorbitant subscription fee... although, something could be said about the church taking in 10% of your income.
 
 > *Beware of those who would set up the dead prophets against the living prophets, for the living prophets always take precedence.*
 
 ... What? What does this mean? What does that look like, exactly? Quoting Jesus when His words conflict with President Monson's? Observing that Brigham Young asserted that the eternal laws of polygamy "will always be so"? Mentioning that mankind will never make it to the moon, or that it's already inhabited by Quakers?
-
-https://talkingtomormons.com/false-prophecies-moon-men/
 
 &nbsp;
 
@@ -76,7 +76,7 @@ https://talkingtomormons.com/false-prophecies-moon-men/
 
 I do take issue with this declaration. “Trust everything I say. If it were wrong, God wouldn’t let me say it. Since I said it, that means I have God’s approval backing what I say. It’s practically God saying it!”
 
-> President Wilford Woodruff stated:
+> *President Wilford Woodruff stated:*
 >
 > *“I say to Israel, the Lord will never permit me or any other man who stands as president of the Church to lead you astray. It is not in the program. It is not in the mind of God.”* (The Discourses of Wilford Woodruff, pp. 212–13.)
 >
@@ -84,7 +84,7 @@ I do take issue with this declaration. “Trust everything I say. If it were wro
 > 
 > *“I remember years ago when I was a bishop I had President Heber J. Grant talk to our ward. After the meeting I drove him home … Standing by me, he put his arm over my shoulder and said: ‘My boy, you always keep your eye on the President of the Church and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it.’ Then with a twinkle in his eye, he said, ‘But you don’t need to worry. The Lord will never let his mouthpiece lead the people astray.’”* (Conference Report, October 1960, p. 78.)
 
-Cool faith promoting story about blind obedience even if the prophet deliberately tells you to do something that is wrong. "But don't worry that would never happen lmao how ridiculous would that me... *me* of all people telling you to do something *wrong* 😜 god won't let me, so that means everything I tell you must be right!"
+Cool faith promoting story about blind obedience even if the prophet deliberately tells you to do something that is wrong. "But don't worry that would never happen lmao how ridiculous would that be... *me* of all people telling you to do something *wrong* 😜 god won't let me, so that means everything I tell you must be right!"
 
 &nbsp;
 
@@ -105,7 +105,7 @@ I've only got an undergrad bachelor's degree in information systems & business i
 
 oh for the love of
 
-Joseph was a complete dumbass who [couldn't tell left from right](https://www.churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=eng&id=p11#p11), and was able to summon up *very convenient* revelations that benefitted him on the spot.
+"Joseph was a complete dumbass who [couldn't tell left from right](https://www.churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=eng&id=p11#p11), and was able to summon up *very convenient* revelations that benefitted him on the spot." Just take our word at face value that [[Education|he was an uneducated dweeb]].
 
 &nbsp;
 
@@ -118,7 +118,7 @@ Within that talk, a quote from Brigham Young:
 
 > *Said Brigham Young, “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture.” (Journal of Discourses, 13:95.)*
 
-Therefore, *all* words of *all* subsequent prophets are scriptural.
+Therefore, *all* words of *all* subsequent prophets are scriptural. To me, this suggests that any statement of "he was speaking as a man, not a prophet" are invalidated.
 
 &nbsp;
 ### 7
@@ -132,7 +132,7 @@ Again, imagine anyone else saying this. The combination of point 5 and 7 sounds 
 
 >  *“Thou has declared unto us hard things, more than we are able to bear,” complained Nephi’s brethren. But Nephi answered by saying, “The guilty taketh the truth to be hard, for it cutteth them to the very center.” ([1 Ne. 16:1–2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/16.1-2?lang=eng#p1).)*
 
-Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, they haven't even [[Seafaring|built their ship]] to leave for the promised land yet.
+Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, they haven't even [[Seafaring|built their ship]] to leave for the promised land yet. You know, the one Lehi was told by God to go to?
 
 > *Said President Harold B. Lee:*
 > 
@@ -153,7 +153,7 @@ Definitely not a cult lmao
 > 
 > *“Whatever God requires is right, no matter what it is, although we may not see the reason thereof until long after the events transpire.” (Scrapbook of Mormon Literature, vol. 2, p. 173).*
 
-What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "[We can't trust anything D Michael Quinn says](https://www.fairlatterdaysaints.org/answers/Criticism_of_Mormonism/Books/One_Nation_Under_Gods/Use_of_sources/Boyd_K._Packer_on_the_truth#cite_ref-2), because he got excommunicated! Also he was gay all along! Meanwhile let me quote from a dead prophet in an apocryphal scrapbook, and relate those words in in a university, and then redistribute it in the church's official magazine." [[#3|You just said to disregard past prophets]] what are you trying to tell us
+What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "We can't trust anything D Michael Quinn says [[Logical fallacies#Ad Hominem|because he got excommunicated]]! Meanwhile let me quote from a dead prophet in an apocryphal scrapbook, and relate those words in in a university, and then redistribute it in the church's official magazine." [[#3|You just said to disregard past prophets]] what are you trying to tell us
 
 > *“For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.” ([Isa. 55:8–9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.8-9?lang=eng#p8).)*
 
@@ -172,6 +172,10 @@ Yikes 😬
 
 Consider, for a moment, that when a man is convinced he is an authoritative voice of God himself, that man isn't going to listen to anyone else? When his words are indistinguishable from God's words, of course he feels qualified to authoritatively talk to anyone about anything, and will refuse to hear anything else. Or does that only apply to [David Koresh](https://en.wikipedia.org/wiki/David_Koresh)?
 
+Really, imagine a scenario where you confront President Oaks, and recommend a course of action based on public opinion from survey results. "You should be more compassionate toward LGBT folks," you might say. You're not God, talking to a man who believes he speaks *for* God. How would that pan out?
+
+And here I am scrutinizing this Brigham Young quote while Benson just asserted that the president of the LDS church can willfully receive revelation on anything about anything. Revelation! From God, about which jar of pasta sauce you should buy.
+
 &nbsp;
 
 ### 10
@@ -186,7 +190,7 @@ The notes to [rationalize this claim](https://www.churchofjesuschrist.org/study/
 ### 11
 > *11. The two groups who have the greatest difficulty in following the prophet are the proud who are learned and the proud who are rich.*
 
-"People who are *wrong*: those who are smarter than me and those who are wealthier than me. They’re wrong. I am the smartest and richest person who matters, who you should be listening to. The others ‘have the greatest difficulty’ following me.”
+"People who are *wrong* are those who are smarter than me, and those who are wealthier than me. They’re wrong. I am the smartest and richest person who matters, who you should be listening to. The others ‘have the greatest difficulty’ following me.”
 
 On the flip side, this implies pretty strongly that church leadership loves the poorly educated (reminiscent of someone else [[1](https://www.independent.co.uk/news/people/donald-trump-declares-i-love-the-poorly-educated-as-he-storms-to-victory-in-nevada-caucus-a6893106.html)], [[2](https://www.yahoo.com/news/trump-i-love-the-poorly-educated-144008662.html?guccounter=1)]), those who are dissatisfied with economic standing, and those who hope that a leader will solve all their problems for them.
 
@@ -196,11 +200,13 @@ Yes, there's something to be said about the psychological effects that affluence
 ### 12
 > *12. The prophet will not necessarily be popular with the world or the worldly.*
 
-Come on, now. This is a self-fulfilling prophecy. "If I say something that mainstream disagrees with, that means I’m right." Isn't it convenient how the chosen spokesperson for God, loving creator of mankind, always says something upsetting to all of mankind?
+Come on, now. "If I say something that mainstream disagrees with, that means I’m right." Isn't it convenient how the chosen spokesperson for God, loving creator of mankind, always says something upsetting to all of mankind? This gives the prophet a pass to *say anything*, and he can point to the opposition and nay-sayers as proof that he's right, and reflecting God's will. Following this logic, he could make some preposterous statement about zoophilia, and since lay people disagree, that means he must be right!
 
 > *As a prophet reveals the truth it divides the people. The honest in heart heed his words but the unrighteous either ignore the prophet or fight him.*
 
 What? Isn't the prophet meant to be unifying people under one banner? Gathering Israel to Zion or whatever? Much like how the [[Scripture/Book of Mormon/index#Pride cycle vs Agency|Book of Mormon's pride cycle]]™ is perpetuated by God making people prideful, why is God dividing people by sending a prophet to say divisive things? Can't God afford a PR department to run statements by first? Does God not know what things to say to his own children?
+
+"*People who ignore me or resist my words are unrighteous!*" — Someone who is definitely not a cult leader
 
 > *As we come closer to the Lord’s second coming you can expect that as the people of the world become more wicked, the prophet will be less popular with them.*
 

@@ -29,7 +29,7 @@ Which of the following is that process?
 3. Urim & Thummim, with Moroni's plates
 4. Just prayer and revelation
 
-Because it appears that Joseph did... I don't know, maybe [[BoM Translation|all of these methods]]?
+Because it appears that Joseph did... I don't know, maybe [[Translation|all of these methods]]?
 
 &nbsp;
 

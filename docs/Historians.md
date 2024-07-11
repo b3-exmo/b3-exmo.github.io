@@ -3,11 +3,13 @@ comments:
 ---
 # 📜 Historians
 ## History
-> My view is that being open about our history solves a whole lot more problems than it creates. We might not have all the answers, but if we are open (and we now have pretty remarkable transparency), then I think in the long run that will serve us well. I think ==in the past there was a tendency to keep a lot of the records closed or at least not give access to information==. But the world has changed in the last generation—with the access to information on the Internet, ==we can’t continue that pattern==; I think we need to continue to be more open.
+> *My view is that being open about our history solves a whole lot more problems than it creates. We might not have all the answers, but if we are open (and we now have pretty remarkable transparency), then I think in the long run that will serve us well. I think ==in the past there was a tendency to keep a lot of the records closed or at least not give access to information==. But the world has changed in the last generation—with the access to information on the Internet, ==we can’t continue that pattern==; I think we need to continue to be more open.*
 
 — Steven E Snow; [Start with Faith: A Conversation with Elder Steven E. Snow](https://rsc.byu.edu/vol-14-no-3-2013/start-faith-conversation-elder-steven-e-snow), BYU Religious Studies Center
 
 This interview took place in 2013, while Elder Snow was the official church historian. His remarks do raise a question in my mind, though- what is this "pattern" that we can't continue?
+
+&nbsp;
 
 The office of Historian has some [unusual background](https://en.wikipedia.org/wiki/Church_Historian_and_Recorder) in itself! There is what I would call a suspicious pattern of God calling only lawyers to fill the space. You know, folks whose livelihood and profession revolves around their ability to spin truth, argue and defend the indefensible? Seem odd to anyone else? The Lord works in mysterious ways, I suppose. Wouldn't we want a historian to serve in this capacity?
 

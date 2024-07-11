@@ -191,7 +191,7 @@ John C Bennett was in the equivalent of the church’s first presidency at Nauvo
 
 &nbsp;
 
-The 19th century is in a modern era, where humans understand that sex = babies. If an unexplained number of pregnancies showed up surrounding Joseph, people would get suspicious. The point is to be discreet. They didn’t want babies, that would blow their cover.
+The 19th century is not so far removed from us today to be considered barbaric or uncivilized. It is in our modern era, where humans understand that sex = babies. If an unexplained number of pregnancies showed up surrounding Joseph, people would get suspicious. *The point was to be discreet*. They didn’t want babies, that would blow their cover.
 
 One way to circumvent suspicion is to engage in [polyandry](https://mit.irr.org/chart-of-joseph-smiths-plural-wives), or coital behavior with women who were already married. That way, there’s plausible deniability for extramarital affairs.
 

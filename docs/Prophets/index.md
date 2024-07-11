@@ -30,6 +30,8 @@ Here is a complete list of the times God has done this:
 
 — Heber J Grant; quote copied from [Ensign address](https://www.churchofjesuschrist.org/study/ensign/1972/07/the-covenant-of-the-priesthood?lang=eng) by Marion G Romney
 
+See also the time Ezra Taft Benson [[Fourteen Fundamentals in Following the Prophet#4|used this quote]].
+
 &nbsp;
 
 > “This morning, I . . . visited with a brother and sister from Michigan, who thought that “a prophet is always a prophet;” but I told them that a prophet was a prophet only when he was acting as such."
