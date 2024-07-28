@@ -33,7 +33,7 @@ There are not many contemporary sources for ancient Greek history. Ancient Greek
 
 The US civil war has myriad contemporary sources. We can be fairly confident in piecing together what happened, given the abundance of independent sources making the same claims.
 
-Historical claims made by the LDS church rarely meet these criteria. That does not mean that all of its claims are false, it only necessitates healthy skepticism and critical evaluation.
+Some key historical claims made by the LDS church rarely meet these criteria. That does not mean that all of its claims are false, it only necessitates healthy skepticism and critical evaluation.
 
 **I'm not counting myself as an expert in anything— I simply have an internet connection.**
 
@@ -52,7 +52,7 @@ If your answer to these notes is to tell me to read more scriptures and pray abo
 &nbsp;
 
 ### Where to start?
-You'll find a column on the left side of this webpage to help navigate how my notes are organized. Pick a topic that interests you. Or, if you don't have a starting point in mind, I'd direct you to notes on [[True|truth]], an overview of the [[Scripture/Book of Mormon/index|Book of Mormon]], comments on [[DC 132|D&C Section 132]], or how the LDS faith views the [[Bible]].
+You'll find a column on the left side of this webpage to help navigate how my notes are organized. Pick a topic that interests you. Or, if you don't have a starting point in mind, I'd direct you to notes on [[True|truth]], an overview of the [[Scripture/Book of Mormon/index|Book of Mormon]], comments on [[DC 132|D&C Section 132]], whether or not to [[Name Mormon|call someone Mormon]], or how the LDS faith views the [[Bible]].
 
 This is an ongoing work. I've got a [[TODO]] for documents to outline what topics to cover next, along with which documents are slated for additional polish. This is all hosted via Github Pages, which [keeps track of changes and additions](https://github.com/b3-exmo/b3-exmo.github.io/commits/main/) over time. It's not quite an approachable changelog, but you're welcome to examine how the notes have developed over time.
 

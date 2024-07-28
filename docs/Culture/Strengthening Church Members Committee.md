@@ -3,7 +3,7 @@ comments: true
 ---
 # 🤐 Strengthening Church Members Committee
 ## Deseret News
-> A former Utah Supreme Court justice and **the church's expert on disciplinary procedures**, Elder Oaks said the disciplinary decisions ranging from probation to excommunication are meted out by bishops and stake presidents.
+> A former Utah Supreme Court justice and ==the church's expert on disciplinary procedures, Elder Oaks== said the disciplinary decisions ranging from probation to excommunication are meted out by bishops and stake presidents.
 >
 > He explained that local leaders are informed by church headquarters about members who may possibly be violating church standards. The church's ==Strengthening the Members Committee== pores over newspapers and other publications and identifies members accused of crimes, preaching false doctrine, ==criticizing leadership== or other problems. That information is forwarded on to the person's bishop or stake president, who is charged with helping them overcome problems and stay active in the church.
 >
@@ -17,7 +17,7 @@ comments: true
 
 ## Church News Room
 
->Generally, The Church of Jesus Christ of Latter-day Saints does not respond to criticism levied against its work. But in light of extensive publicity recently given to false accusations of so-called secret Church committees and files, the First Presidency has issued the following statement:
+> Generally, The Church of Jesus Christ of Latter-day Saints does not respond to criticism levied against its work. But in light of extensive publicity recently given to false accusations of so-called secret Church committees and files, the First Presidency has issued the following statement:
 > 
 > "The Church of Jesus Christ of Latter-day Saints was established in 1830 following the appearance of God the Father and Jesus Christ to the Prophet Joseph Smith in upstate New York. This sacred event heralded the onset of the promised restitution of all things.' Many instructions were subsequently given to the Prophet including Section 123 of the Doctrine and Covenants: "And again, we would suggest for your consideration the propriety of all the saints gathering up a knowledge of all the facts, and sufferings and abuses put upon them. . . .
 > 

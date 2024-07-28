@@ -128,22 +128,17 @@ To me, this is incredibly problematic. For two years, at the MTC and in the miss
 &nbsp;
 
 ## Later church leaders
-### Brigham Young, 1855
 > *The Lord did not come with the armies of heaven, in power and great glory, nor send His messengers panoplied with aught else than the truth of heaven, to communicate to the meek, the lowly, the youth of humble origin, the sincere enquirer after the knowledge of God. ==But He did send His angel to this same obscure person, Joseph Smith jun.==, who afterwards became a Prophet, Seer, and Revelator, and informed him that he should not join any of the religious sects of the day, for they were all wrong; that they were following the precepts of men instead of the Lord Jesus; that He had a work for him to perform, inasmuch as he should prove faithful before Him.*
 
-JoD 2:171
+— Brigham Young, [Journal of Discourses 2:171](https://scriptures.byu.edu/#:t4e3f:j02c)
 
 &nbsp;
 
-### Heber C Kimball
 > *Do you suppose that God in person called upon Joseph Smith, our Prophet? God called upon him; but God did not come himself and call, but he sent Peter to do it. Do you not see? He sent Peter and sent Moroni to Joseph, and told him that he had got the plates. Did God come himself? No: he sent Moroni and told him there was a record, and says he, “That record is matter that pertains to the Lamanites, and it tells when their fathers came out of Jerusalem, and how they came, and all about it;”*
 
-JoD 6:29
+— Heber C. Kimball, [Journal of Discourses 6:29](https://scriptures.byu.edu/#:t4e3f:j02c)
 
 &nbsp;
-
-### Wilford Woodruff
-Excerpts:
 
 > *Gospel of Jesus Christ which has been revealed in our day, **by the administering of holy angels, in all its fulness**, beauty, power, and glory.*
 
@@ -153,14 +148,13 @@ Excerpts:
 
 > ***Wherever the words of the Gospel, which the angel revealed to him**, were preached among the children of men, it had its effect.*
 
-JoD 2:191
+— Wilford Woodruff, [Journal of Discourses 2:191](https://scriptures.byu.edu/#:t4e3f:j02c) (excerpts above; see  document for fuller context)
 
 &nbsp;
 
-### George Albert Smith
 > [Joseph Smith] had read the Bible and had found that passage in James which says, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not,” and taking this literally, he went humbly before the Lord and inquired of Him, and the Lord answered his prayer, and revealed to Joseph, by the ministration of angels, the true condition of the religious world. When the holy angel appeared, Joseph inquired which of all these denominations was right and which he should join, and was told they were all wrong—they had all gone astray, transgressed the laws, changed the ordinances and broken the everlasting covenant, and that the Lord was about to restore the priesthood and establish His Church, which would be the only true and living Church on the face of the whole earth.
 
-JoD 12:334
+— George Albert Smith [Journal of Discourses 12:334](https://scriptures.byu.edu/#:t4e3f:j02c)
 
 &nbsp;
 

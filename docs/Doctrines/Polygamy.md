@@ -3,32 +3,32 @@ comments: true
 ---
 # 👩‍🤝‍👩 Polygamy
 ## Required for exaltation!
-> It is the word of the Lord, and I wish to say to you, and all the world, that if you desire with all your hearts to obtain the blessings which Abraham obtained, ==you will be polygamists at least in your faith, or you will come short of enjoying the salvation and the glory which Abraham has obtained. This is as true as that God lives.==
+> *It is the word of the Lord, and I wish to say to you, and all the world, that if you desire with all your hearts to obtain the blessings which Abraham obtained, ==you will be polygamists at least in your faith, or you will come short of enjoying the salvation and the glory which Abraham has obtained. This is as true as that God lives.==*
 >
-> . . . The man that [resists polygamy] in his heart, and will continue to persist in pursuing that policy, will come short of dwelling in the presence of the Father and the Son, in celestial glory.
+> *. . . The man that [resists polygamy] in his heart, and will continue to persist in pursuing that policy, will come short of dwelling in the presence of the Father and the Son, in celestial glory.*
 >
-> ==The only men who [[Becoming Gods|become Gods]], even the Sons of God, are those who enter into polygamy==. Others attain unto a glory and may even be permitted to come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to accept them.
+> *==The only men who [[Becoming Gods|become Gods]], even the Sons of God, are those who enter into polygamy==. Others attain unto a glory and may even be permitted to come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to accept them.*
 
-— _[Beneficial Effects of Polygamy](https://jod.mrm.org/11/266#269)_, Brigham Young, Journal of Discourses 11:269
+— _[Beneficial Effects of Polygamy, Journal of Discourses 11:269](https://scriptures.byu.edu/#:t4e3f:j02c)_, Brigham Young
 
 &nbsp;
 
-> Celestial marriage is for the fullness of the glory of god. It is the crowning glory. ==A man has no right to one wife unless he is worthy of two==. . . . There is no provision made for those who have had the chance & [opportunity] and have disregarded that law. Men who disregard that law are in the same situation as if they broke any other law. they are transgressors.
+> *Celestial marriage is for the fullness of the glory of god. It is the crowning glory. ==A man has no right to one wife unless he is worthy of two==. . . . There is no provision made for those who have had the chance & [opportunity] and have disregarded that law. Men who disregard that law are in the same situation as if they broke any other law. they are transgressors.*
 
 — Apostle Francis M. Lyman, quoted in Van Wagoner, [Mormon Polygamy](https://archive.org/details/mormonpolygamyhi0000vanw/page/n9/mode/2up), p. 97
 
 &nbsp;
 
 ### God is polygamist, too
-> “Yes, [polygamy is] one of the relics of Adam, of Enoch, of Noah, of Abraham, of Isaac, of Jacob, of Moses, David, Solomon, the Prophets, ==of Jesus, and his apostles==.”
+> *Yes, [polygamy is] one of the relics of Adam, of Enoch, of Noah, of Abraham, of Isaac, of Jacob, of Moses, David, Solomon, the Prophets, ==of Jesus, and his apostles==.*
 
-— _[The Improved Condition of the Saints, etc.](https://jod.mrm.org/11/321#328)_, Brigham Young, Journal of Discourses 11:328
+— _[The Improved Condition of the Saints, etc, Journal of Discourses 11:328](https://scriptures.byu.edu/#:t4e3f:j02c)_, Brigham Young
 
 &nbsp;
 
-> “The Scripture says that ==He, the Lord==, came walking in the Temple, with His train; I do not know who they were, unless ==His wives== and children; but at any rate they filled the Temple, and how many there were who could not get into the Temple I cannot say. This is the account given by Isaiah, whether he told the truth or not I leave every body to judge for himself.”
+> *The Scripture says that ==He, the Lord==, came walking in the Temple, with His train; I do not know who they were, unless ==His wives== and children; but at any rate they filled the Temple, and how many there were who could not get into the Temple I cannot say. This is the account given by Isaiah, whether he told the truth or not I leave every body to judge for himself.*
 
-— _[Gathering the Poor—Religion a Science](https://jod.mrm.org/13/300#309)_, Brigham Young, Journal of Discourses 13:309
+— _[Gathering the Poor—Religion a Science, Journal of Discourses 13:309](https://scriptures.byu.edu/#:t4e3f:j02c)_, Brigham Young
 
 ---
 
@@ -40,24 +40,24 @@ I don't feel like focusing on Smith is as much of a slam-dunk as other folks see
 
 We can clutch our respective pearls at this idea, but... wait until you read about the latter succession of prophets. Brigham Young, John Taylor, Wilford Woodruff, Lorenzo Snow, et al were very much into polygamy, and were not discreet about it being sexual.
 
-This presents a problem. The Brighamite sect of Mormonism leaned pretty hard into polygamy, and I think a lot of that can be ascribed to the titular leader of that branch, Young himself. I'll have some [[Succession Crisis|more notes on the succession crisis]] written in the future, but as I understand it, part of that change in leadership included retrofitting some of Smith's documents to support Brigham's ideologies, including polygamy. Say what you will in Joseph's defense, but Brigham took it to the nth level, and his branch of Mormonism is what has survived the centuries to be known today at the Church of Jesus Christ of Latter-day Saints.
+This presents a problem. The Brighamite sect of Mormonism leaned pretty hard into polygamy, and I think a lot of that can be ascribed to the titular leader of that branch, Young himself. I'll have some [[Succession Crisis|more notes on the succession crisis]] written in the future, but as I understand it, part of that change in leadership included retrofitting some of Smith's documents to support Brigham's ideologies, including polygamy. Say what you will in Joseph's defense, but Brigham took it to the nth level, and his polygamous branch of Mormonism is what has survived the centuries to be known today at the Church of Jesus Christ of Latter-day Saints.
 
-Smith had some polygamous involvement, and has had plenty of slander thrown at him— some founded, some unfounded. Brigham Young and subsequent church leaders were much, much worse.
+Smith had some polygamous escapades, and has had plenty of slander thrown at him— some founded, some unfounded. Brigham Young and subsequent church leaders were much, much worse.
 
 ## Building up population
 Are you sure? I’ve encountered many insistent explanations that when Joseph Smith practiced polygamy, there was no boinking involved.
 
 If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. Plenty of souls had human bodies in 1830, but still, LDS church leaders needed to be blessed with multiple wives. **Don’t tell me it was to build population.**
 
-Brigham Young did teach that Adam had multiple wives, which detail was omitted from Genesis and Pearl of Great Price, and temple ceremonies. Can both be true?
+Brigham Young did teach that Adam had multiple wives, which detail was omitted from Genesis and Pearl of Great Price, and temple ceremonies. Why? That would be a pretty convincing precedent to be restored. Can both be true?
 
 Polygamy being only about population can likely be traced to Jacob 2:30:
 
-> “For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.”
+> *For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.*
 
 Don’t exclude verse 27, though:
 
-> “Wherefore, my brethren, hear me, and hearken to the word of the Lord: For there shall not any man among you have save it be one wife; and concubines he shall have none;”
+> *Wherefore, my brethren, hear me, and hearken to the word of the Lord: For there shall not any man among you have save it be one wife; and concubines he shall have none;*
 
 ---
 
@@ -80,7 +80,7 @@ US Census Bureau didn’t have granular detail in the 1800’s, but it’s got e
 
 &nbsp;
 
-he 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married. They have two data points that you can try and guess the marriage age. The first is a field for “Married in the last year”. If that is checked, then the person’s age is most likely their age when they were married. The second is a field for “Age of eldest child”.Subtracting that from the parents age gives a really rough estimate of marriage age.
+The 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married. They have two data points that you can try and guess the marriage age. The first is a field for “Married in the last year”. If that is checked, then the person’s age is most likely their age when they were married. The second is a field for “Age of eldest child”.Subtracting that from the parents age gives a really rough estimate of marriage age.
 
 The 1900 census also has the age and marriage status but it also has a field for “Years of marriage”.  Subtracting that from the age should give the marriage age.
 
@@ -117,7 +117,7 @@ There were more men than women in this subset of fertile age ranges, among white
 
 This directly contradicts the apologetic that I’ve heard that due to warfare and poor sanitation that there were more women than men, and they weren’t legally allowed to own a home, therefore polygamy was for charitable purposes. No. This is empirical evidence that the reverse is true.
 
-This does not mean that in places like Kirtland or Palmyra that the populations matched this exact ratio, but it’s the best indicator I can really hope for. Across America, those aged over 20, there were about 40,000 more men. The idea that women were vulnerable and houseless is not far-fetched, but Brigham Young taking fifty wives for charitable purposes only does not work. I will not believe it.
+This does not mean that in places like Kirtland or Palmyra that the populations matched this exact ratio, but it’s the best indicator I can really hope for. Across America, for women aged over 20, there were about 40,000 more men. The idea that women were vulnerable and houseless is not far-fetched, but Brigham Young taking fifty wives for charitable purposes only does not work. I will not believe it.
 
 US Census Bureau started tracking in 1890, and shows the average age for women getting married was 22. Grown adult men marrying sixteen year olds was not normal in the United States. In the church, it was.
 
@@ -133,7 +133,7 @@ In early church membership there were more men than women (see above). Polygamy 
 &nbsp;
 
 ## Angel with a Sword vs Joseph Smith
-> “When God commands a difficult task, He sometimes sends additional messengers to encourage His people to obey. Consistent with this pattern, Joseph told associates that an angel appeared to him three times between 1834 and 1842 and commanded him to proceed with plural marriage when he hesitated to move forward. During the third and final appearance, the angel came with a drawn sword, threatening Joseph with destruction unless he went forward and obeyed the commandment fully.”
+> *When God commands a difficult task, He sometimes sends additional messengers to encourage His people to obey. Consistent with this pattern, Joseph told associates that an angel appeared to him three times between 1834 and 1842 and commanded him to proceed with plural marriage when he hesitated to move forward. During the third and final appearance, the angel came with a drawn sword, threatening Joseph with destruction unless he went forward and obeyed the commandment fully.*
 
 — _[Gospel Topics Essay: Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng)_
 
@@ -143,11 +143,11 @@ Footnote to cite the above claim is as follows:
 
 >See Brian C. Hales, “Encouraging Joseph Smith to Practice Plural Marriage: The Accounts of the Angel with a Drawn Sword,” Mormon Historical Studies 11, no. 2 (Fall 2010): 69–70.
 
-I did end up [[#Corroborating claimants|finding the source]] for this.
+I did end up [[#Corroborating claimants|finding the source]] for this. I'll share some notes below.
 
 Other note in that essay:
 
-> “Although the Lord commanded the adoption—and later the cessation—of plural marriage in the latter days, He did not give exact instructions on how to obey the commandment.”
+> *Although the Lord commanded the adoption—and later the cessation—of plural marriage in the latter days, He did not give exact instructions on how to obey the commandment.*
 
 Well golly gee if only we had a spokesperson for God who could obtain and interpret His will
 
@@ -160,13 +160,15 @@ Well golly gee if only we had a spokesperson for God who could obtain and interp
 
 Excerpts from [Encouraging Joseph Smith to Practice Plural Marriage – The Accounts of the Angel with a Drawn Sword](http://ensignpeakfoundation.org/wp-content/uploads/2013/03/Encouraging-Joseph-Smith-to-Practice-Plural-Marriage-The-Accounts-of-the-Angel-with-a-Drawn-Sword.pdf):
 
-> So in the face of multiple anxieties, what might have prompted Joseph Smith to move forward personally and once again marry polygamously and teach others to do likewise? Several writers left accounts from the Nauvoo period that Joseph told of an angel with a sword who threatened him if he did not proceed.
+> *So in the face of multiple anxieties, what might have prompted Joseph Smith to move forward personally and once again marry polygamously and teach others to do likewise? Several writers left accounts from the Nauvoo period that Joseph told of an angel with a sword who threatened him if he did not proceed.*
 >
-> Several accounts relate how Joseph appeared to have felt genuine fear at the time. Mary Elizabeth Rollins Lightner recalled that the sword-threat was not symbolic: ==“Joseph told me that he was afraid when the angel appeared to him and told him to take other wives. He hesitated, and the angel appeared to him the third time with a drawn sword in his hand and threatened his life if he did not fulfill the commandment.”== Erastus Snow claimed that Joseph had “to plead on his knees before the Angel for his Life.” On another occasion, Joseph reportedly affirmed: “God commanded me to obey it [plural marriage]. He said to me that unless I accept it and introduce it, and practice it, I, together with my people, should be damned and cut off from this time henceforth.
+> *Several accounts relate how Joseph appeared to have felt genuine fear at the time. Mary Elizabeth Rollins Lightner recalled that the sword-threat was not symbolic: ==“Joseph told me that he was afraid when the angel appeared to him and told him to take other wives. He hesitated, and the angel appeared to him the third time with a drawn sword in his hand and threatened his life if he did not fulfill the commandment.”== Erastus Snow claimed that Joseph had “to plead on his knees before the Angel for his Life.” On another occasion, Joseph reportedly affirmed: “God commanded me to obey it [plural marriage]. He said to me that unless I accept it and introduce it, and practice it, I, together with my people, should be damned and cut off from this time henceforth.*
 
 Seems odd to me that the pivotal figure in restoring the church would be “damned and cut off” after having founded the church, if he didn’t do this one particular thing that his family and peers disapproved of.
 
-> The time arrived; but Joseph, in virtuous desperation, concluded rather to flee the city than be the medium of communicating a matter so repugnant to his mind. He mounted his horse and galloped from the town, but was met by an angel with a drawn sword, and threatened with instant destruction unless he immediately returned and fulfilled his mission.
+&nbsp;
+
+> *The time arrived; but Joseph, in virtuous desperation, concluded rather to flee the city than be the medium of communicating a matter so repugnant to his mind. He mounted his horse and galloped from the town, but was met by ==an angel with a drawn sword, and threatened with instant destruction== unless he immediately returned and fulfilled his mission.*
 
 I can’t claim to understand motivation or reasoning behind this, but that seems pretty uncharacteristic of God to arrange that encounter. [God’s work cannot be frustrated](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng&id=p1#p1), _unless_ the one individual called to restore the Gospel hesitates when being told to get bangin' your wife.
 
@@ -183,17 +185,17 @@ Consider some possible reasons.
 
 John C Bennett was in the equivalent of the church’s first presidency at Nauvoo. He was a physician, a trained obstetrician, and is on record as having propositioned women with the following stipulation:
 
-> … he had promised to give his victims “medicine to produce abortions, providing they should become pregnant.”
+> *… he had promised to give his victims “medicine to produce abortions, providing they should become pregnant.”*
 
 — _[Joseph Smith, John C. Bennett, and the Extradition Attempt, 1842](https://rsc.byu.edu/joseph-smith-prophet-seer/joseph-smith-john-c-bennett-extradition-attempt-1842)_, BYU Religious Studies Center
 
-**I haven’t encountered any direct evidence** that Bennett did perform abortions, but for him to be so close to Joseph Smith and being willing to perform abortions for Joseph seems likely.
+**I haven’t encountered any direct evidence** that Bennett did perform abortions, but for him to be so close to Joseph Smith and being willing to perform abortions for Joseph seems likely. The above quote is what I will call strong circumstantial evidence.
 
 &nbsp;
 
 The 19th century is not so far removed from us today to be considered barbaric or uncivilized. It is in our modern era, where humans understand that sex = babies. If an unexplained number of pregnancies showed up surrounding Joseph, people would get suspicious. *The point was to be discreet*. They didn’t want babies, that would blow their cover.
 
-One way to circumvent suspicion is to engage in [polyandry](https://mit.irr.org/chart-of-joseph-smiths-plural-wives), or coital behavior with women who were already married. That way, there’s plausible deniability for extramarital affairs.
+One way to circumvent suspicion is to engage in [polyandry](https://mit.irr.org/chart-of-joseph-smiths-plural-wives), or coital behavior with women who were already married. That way, there’s plausible deniability for extramarital affairs. I don't think paternity tests existed at the time, so if a plural wife of Joseph happens to be the legal wife of someone else, a pregnancy would look a lot less suspicious. Pedestrian, even.
 
 Contraception methods in the 1830’s might not be quite as sophisticated today, but… did they understand ovulation cycles to avoid conception? I can't really say with confidence.
 
@@ -204,7 +206,7 @@ Sex doesn’t 100% result in conception every time— as I understand it, there 
 ## Conflicting accounts
 There are numerous documents to suggest that Joseph Smith did not practice polygamy. There also exist many documents to suggest that he did. There exists documentary evidence that later church leaders (Young, Taylor, etc) retrofitted Joseph’s revelations like [[DC 132|D&C 132]] to endorse polygamous behavior post-mortem.
 
-We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is ==not== up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis.
+We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is ==not== up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis. #TODO 
 
 Let’s assume that accusations against JS are exaggerated or outright fabricated. We then have to contend with the 2nd and 3rd presidents of the church. Did God command _them_ to do it? Did they use JS as justification? If there was explicit revelation from God to do that, do we have a record of it? General conference, Journal of Discourses, D&C entry, book of commandments, anything of the sort?
 

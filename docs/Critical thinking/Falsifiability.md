@@ -55,7 +55,7 @@ If a claim **can** be refuted, or proven "false", it carries more value. As Saga
 
 If the contents of the Book of Abraham were found in scrolls found in a sarcophagus sold to Joseph Smith, that's a big deal. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[Logical fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, this is a falsifiable claim. An independent examination could go one of two ways:
 
-1. Joseph Smith nailed that translation! For him to happen upon those scrolls is nothing short of divine intervention, and those teachings prove Mormonism to be true.
+1. Joseph Smith nailed that translation! For him to happen upon those scrolls is nothing short of divine intervention, and those resultant teachings prove Mormonism to be true.
 2. The Book of Abraham has absolutely nothing to do with the contents of those scrolls, which modern scholars can reliably, accurately, demonstrably translate. This calls into question other claims that the LDS church made.
 
 Perhaps there's room for middle ground between those two outcomes? The significance to focus on here is the idea that the claim can be verifiably true, or verifiably false. 
@@ -109,4 +109,4 @@ In a meeting on Feb 14, 1835, [[Prophets/Joseph Smith/index|Joseph Smith]] defin
 
 — *[History, 1838–1856, volume B-1](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/18)*, [1 September 1834–2 November 1838], p. 564
 
-Well... 1835 + 56 = 1891. That year has come and gone. It'd be odd if any [church leader after 1891](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=second+coming&page=1) was [hyping up how we need to prepare for it](https://www.churchofjesuschrist.org/study/general-conference/topics/second-coming?lang=eng) in the non-specific future. After all, [no one knows](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng&id=p7#p7) when it will be!
+Well... 1835 + 56 = 1891. That year has come and gone. It'd be odd if any [church leader after 1891](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=second+coming&page=1) were to [hype up how we need to prepare for it](https://www.churchofjesuschrist.org/study/general-conference/topics/second-coming?lang=eng) in the non-specific future. After all, [no one knows](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng&id=p7#p7) when it will be!

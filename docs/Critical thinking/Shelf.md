@@ -13,4 +13,4 @@ comments: true
 
 The term describes a concept or notion that you find dissatisfying, but have the optimism that an answer may appear at some point. Rather than dismiss the entire dispute, “shelf” it and come back later.
 
-In former-Mormon circles, one’s faith breaking comes from putting too much weight on the shelf. Too many unanswered or unsatisfied questions leads one’s shelf to break.
+In former-Mormon circles, one’s faith breaking comes from putting too much weight on the shelf. Too many unanswered or unsatisfied questions leads one’s shelf to "break", or become so pressing that they can no longer be ignored or pushed aside. This event is colloquially thought of as the inciting incident for one's faith crisis.

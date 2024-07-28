@@ -22,11 +22,11 @@ The LDS Church prides itself on raising young people with good sexual values. Wh
 
 It places an insufferable burden of shame and guilt on young people for things that are completely normal. (sexual thoughts, masturbation, etc.) It teaches LGBTQ+ youth that their feelings are sinful and can never be acted upon which, along with persecution they face within the Church, drives them towards depression and suicide.
 
-In LDS theology, sex outside wedlock is the “sin next to murder.” Church object lessons have compared those who have had pre-marital sex to chewed gum, crumpled paper, licked food, etc., teachings damaging to so many young people’s self-worth. Those who have engaged in sexual activity prior to marriage are required to go through the traumatic experience of confessing their acts, often in unnecessary detail, to a much older man, followed by the public shaming of not being allowed to take the sacrament in front of their peers.
+In LDS theology, sex outside wedlock is the “sin next to murder.” Church object lessons have compared those who have had pre-marital sex to chewed gum, crumpled paper, licked food, etc., and these teachings are so damaging to so many young people’s self-worth. Those who have engaged in sexual activity prior to marriage are required to go through the traumatic experience of confessing their acts, often in unnecessary detail, to a much older man, followed by the public shaming of not being allowed to take the sacrament in front of their peers.
 
 Because the LDS Church allows no sexual outlet whatsoever to young people prior to marriage, some feel compelled to rush into marriage prematurely. Because the Church has surrounded pre-marital sex in such an aura of shame, some members have trouble having sex, even after marriage, without feeling guilty about it.
 
-I do remember being taught that having sexual desires is normal, we’re expected to live as functionally asexual beings until we’re married. While that may be just fine and dandy for those who are actually asexual people, it’s not so great for the rest of us.
+I do remember being taught that having sexual desires is normal, but we’re expected to live as functionally asexual beings until we’re married. While that may be just fine and dandy for those who are actually asexual people, it’s not so great for the rest of us.
 
 &nbsp;
 

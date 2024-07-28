@@ -93,13 +93,13 @@ Cool faith promoting story about blind obedience even if the prophet deliberatel
 
 Not only is the prophet NEVER wrong, ALWAYS speaks for the Lord, but is always fully qualified to authoritatively speak about anything. 🤔
 
-Really, now. Imagine *anyone else* saying this. "Our great leader Kim Jong Un doesn't *need* training or diplomas— he can speak on any subject or act on any matter at any time!" If you heard this about [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) of Scientology, would you think "oh wow that's fascinating, now I'm more interested to hear what he has to say about the intersection of art and mathematics," or would you think "only a narcissistic cult leader would say that about themselves"?
+Really, now. Imagine *anyone else* saying this. "Our great leader Kim Jong Un doesn't *need* training or diplomas— he can speak on any subject or act on any matter at any time!" If you heard this said about [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) of Scientology, would you think "oh wow that's fascinating, now I'm more interested to hear what he has to say about the intersection of art and mathematics," or would you think "only a narcissistic cult leader would say that about themselves"?
 
 > *Sometimes there are those who feel their earthly knowledge on a certain subject is superior to the heavenly knowledge which God gives to his prophet on the same subject. They feel the prophet must have the same earthly credentials or training which they have had before they will accept anything the prophet has to say that might contradict their earthly schooling.*
 
 Yeah. There's something to be said about years of rigorous study versus warm fuzzy feelings in your tum-tums.
 
-I've only got an undergrad bachelor's degree in information systems & business intelligence— arguably what gave me the mindset of skeptical analysis that [[My own experience|drives my religious deconstruction]]. But if President Nelson somehow cornered me and wanted to tell me about statistics, I would treat that information with the same skepticism as any other claim. If it's contrary to what I know already, I'm not about to disregard four years of schooling and bet my career on a nonagenarian's advice at face value.
+I've only got an undergrad bachelor's degree in information systems & business intelligence— arguably what gave me the mindset of skeptical analysis that [[My own experience|drives my religious deconstruction]]. But if President Nelson somehow cornered me and wanted to tell me about statistics, I would treat that information with the same skepticism as any other claim. If what he says in this made-up scenario is contrary to what I know already, I'm not about to disregard four years of schooling and bet my career on a nonagenarian's advice at face value.
 
 > *How much earthly schooling did Joseph Smith have? Yet he gave revelations on all kinds of subjects.*
 
@@ -172,7 +172,7 @@ Yikes 😬
 
 Consider, for a moment, that when a man is convinced he is an authoritative voice of God himself, that man isn't going to listen to anyone else? When his words are indistinguishable from God's words, of course he feels qualified to authoritatively talk to anyone about anything, and will refuse to hear anything else. Or does that only apply to [David Koresh](https://en.wikipedia.org/wiki/David_Koresh)?
 
-Really, imagine a scenario where you confront President Oaks, and recommend a course of action based on public opinion from survey results. "You should be more compassionate toward LGBT folks," you might say. You're not God, talking to a man who believes he speaks *for* God. How would that pan out?
+Really, imagine a scenario where you confront President Oaks, and recommend a course of action based on public opinion from survey results. "You should be more compassionate toward LGBT folks," you might say. You're not God, and you're talking to a man who believes he speaks *for* God. How would that pan out?
 
 And here I am scrutinizing this Brigham Young quote while Benson just asserted that the president of the LDS church can willfully receive revelation on anything about anything. Revelation! From God, about which jar of pasta sauce you should buy.
 
@@ -192,9 +192,9 @@ The notes to [rationalize this claim](https://www.churchofjesuschrist.org/study/
 
 "People who are *wrong* are those who are smarter than me, and those who are wealthier than me. They’re wrong. I am the smartest and richest person who matters, who you should be listening to. The others ‘have the greatest difficulty’ following me.”
 
-On the flip side, this implies pretty strongly that church leadership loves the poorly educated (reminiscent of someone else [[1](https://www.independent.co.uk/news/people/donald-trump-declares-i-love-the-poorly-educated-as-he-storms-to-victory-in-nevada-caucus-a6893106.html)], [[2](https://www.yahoo.com/news/trump-i-love-the-poorly-educated-144008662.html?guccounter=1)]), those who are dissatisfied with economic standing, and those who hope that a leader will solve all their problems for them.
+On the flip side, this implies pretty strongly that church leadership loves the poorly educated (reminiscent of someone else ([[1](https://www.independent.co.uk/news/people/donald-trump-declares-i-love-the-poorly-educated-as-he-storms-to-victory-in-nevada-caucus-a6893106.html)], [[2](https://www.yahoo.com/news/trump-i-love-the-poorly-educated-144008662.html?guccounter=1)]), those who are dissatisfied with economic standing, and those who hope that a leader will solve all their problems for them.
 
-Yes, there's something to be said about the psychological effects that affluence has on a human mind. Associating prosperity with morality compounds this effect. Is it surprising to anyone that a wealthy person who has their needs met doesn't see the need to upend their lifestyle? Particularly someone who wants 10% of their income perpetually?
+Yes, there's something to be said about the psychological effects that affluence has on a human mind. Associating prosperity with morality compounds this effect. Is it surprising to anyone that a wealthy person who has their needs met doesn't see the need to upend their lifestyle? Certainly not at the behest of someone who wants 10% of their income perpetually?
 
 &nbsp;
 ### 12

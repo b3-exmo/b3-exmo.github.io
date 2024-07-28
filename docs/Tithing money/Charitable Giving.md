@@ -67,7 +67,7 @@ uPenn's link to the study is also a dead end. Using their internal search, I can
 
 > *Of the 2,664 respondents, 65 reported to be “young full-time missionaries.” We defined a young full-time missionary as someone under 30 who answered “yes” to having served at least part of the last 12 months on a full-time mission.*
 
-A subset of `65 / 2,664 = 2.4%` of respondents under 30 had served missions? The study does outline their sample & methodology, and "the average age of respondents is 50 years." Goodness, okay. I guess that accounts for the low percentage of those having served missions in the recent several years. Props to them for not limiting themselves to the university singles ward's around University of Pennsylvania.
+A subset of `65 / 2,664 = 2.4%` of respondents were under 30 and had served missions in the prior year? The study does outline their sample & methodology, and "the average age of respondents is 50 years." Goodness, okay. I guess that accounts for the low percentage of those having served missions in the recent several years. Props to them for not limiting themselves to the university singles ward's around University of Pennsylvania.
 
 &nbsp;
 
@@ -90,6 +90,8 @@ I'll acknowledge upfront that this is a bad-faith conclusion to jump to, so hold
 428 hours annually is an impressive number. 8.2 hours weekly does seem like a lot. I have no information to suggest that this is wrong, but I am left to wonder how respondents defined volunteer labor. Setting up folding chairs in the stake center? Accompanying missionaries? Shoveling snow off the meetinghouse sidewalk? More charitably, shoveling snow for elderly folks...? Would a bishopric member in a ward count all the additional meetings before & after sacrament meeting? Relief Society president taking on practically a full-time job of calling responsibilities? The ward clerk counting the hours spent preparing and handling tithing? It's "voluntary", doing the Lord's work, and truthfully, it can be laborious. I can't confidently say for or against those ideas. 
 
 Searching the word "bias" in the paper doesn't turn up any results, but I want to acknowledge [social desirability bias](https://en.wikipedia.org/wiki/Social-desirability_bias), where respondents overreport percieved ‘good behavior’ and underreport ‘bad behavior’. Did the surveyors make it very clear that the purpose of the survey is to measure how much Mormons contribute to charitable ends, by time or money donated? "By Jove," a fifty-year-old respondent strawman in my head is saying, "this is our chance to show the world how charitable we Mormons are! Nine hours per week, minimum. We're *the best*."
+
+#TODO 
 
 https://www.deseret.com/faith/2022/5/13/23071410/2021-charitable-humanitarian-aid-spending-by-the-church-of-jesus-christ-of-latter-day-saints-mormons/
 

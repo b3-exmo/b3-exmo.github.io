@@ -3,25 +3,25 @@ comments: true
 ---
 # ✅ True
 
-> And I know that ==the record which I make is [true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng#note3a)==; and I make it with mine own hand; and I make it according to my knowledge.
+> *And I know that ==the record which I make is [true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng#note3a)==; and I make it with mine own hand; and I make it according to my knowledge.*
 
 — [1 Nephi 1:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng), Book of Mormon
 
 &nbsp;
 
-> ==Mormonism is truth==; and every man who embraced it felt himself at liberty to embrace every truth: consequently the shackles of superstition, bigotry, ignorance, and priestcraft, falls at once from his neck; and his eyes are opened to see the truth, and truth greatly prevails over priestcraft.
+> *==Mormonism is truth==; and every man who embraced it felt himself at liberty to embrace every truth: consequently the shackles of superstition, bigotry, ignorance, and priestcraft, falls at once from his neck; and his eyes are opened to see the truth, and truth greatly prevails over priestcraft.*
 
 — Joseph Smith; Letter to Isaac Galland, 22 March 1839, p. 53, The Joseph Smith Papers, accessed May 26, 2024, https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/3
 
 &nbsp;
 
-> Things that are self-evident, or things have been proven, are just assumed. If you go to an advanced physics class, They don't testify to the truthfulness of the test physics you learned in the first year. It's not only just generally accepted, it is demonstrated over and over again in the advanced material. When you work on computers, the guys don't say "and before I start, I want you to, I want you to know that I know this computer runs on binary". It's just understood, right? 
+> *Things that are self-evident, or things have been proven, are just assumed. If you go to an advanced physics class, They don't testify to the truthfulness of the test physics you learned in the first year. It's not only just generally accepted, it is demonstrated over and over again in the advanced material. When you work on computers, the guys don't say "and before I start, I want you to, I want you to know that I know this computer runs on binary". It's just understood, right?* 
 > 
-> So when people are insisting things that otherwise would go without saying, pay attention. ==When somebody keeps telling you that they're honest, pay attention to it==. When whatever they're repeating to you that normally goes without saying, pay attention to why they feel the need to say that.
+> *So when people are insisting things that otherwise would go without saying, pay attention. ==When somebody keeps telling you that they're honest, pay attention to it==. When whatever they're repeating to you that normally goes without saying, pay attention to why they feel the need to say that.*
 > 
-> It was a realization for me that the only proof you need for "the church is not true" is that they keep fucking saying it all the time. Because if it was actually true, no one would say it!
+> *It was a realization for me that the only proof you need for "the church is not true" is that they keep fucking saying it all the time. Because if it was actually true, no one would say it!*
 >
-> People don't say things like "I know the garbage man comes on Wednesdays." They just don't do that. That's not how the human mind works. ... ==They just keep saying that over and over again, but if it was true, there would be no need to say it.==
+> *People don't say things like "I know the garbage man comes on Wednesdays." They just don't do that. That's not how the human mind works. ... ==They just keep saying that over and over again, but if it was true, there would be no need to say it.==*
 
 — Insight shared from John Larsen's *Mormon Expression* [podcast episode on epistemology](https://mormonexpression.com/2013/11/29/episode-234-epistemology)
 
@@ -49,7 +49,7 @@ What does a *true* church even mean? Does that mean it has not tried to obscure 
 > 
 > *And he said unto me: Behold there are save ==two churches only; the one is the church of the Lamb of God, and the other is the church of the devil==; wherefore, whoso belongeth not to the church of the Lamb of God belongeth to that great church, which is the mother of abominations;*
 
-— *[1 Nephi 14:9-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p9-p10#p9)*
+— [1 Nephi 14:9-10](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p9-p10#p9)
 
 &nbsp;
 

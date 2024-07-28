@@ -2,7 +2,36 @@
 comments: true
 ---
 # 😈 Satan
-## How Stuff Works
+## Has power
+#TODO (Notes under construction; Satan is not powerless... according to LDS theology)
+
+I've got some unorganized notes and excerpts on this; once it's cleaned up, I'll post them here.
+
+### Controls water (I guess)
+> This revelation was received by the Prophet Joseph Smith on the bank of the Missouri River, McIlwaine’s Bend, on 12 August 1831. The Prophet wrote:
+>
+> “On the 9th, in company with ten Elders, I left Independence landing for Kirtland. We started down the river in canoes, and went the first day as far as Fort Osage, where we had an excellent wild turkey for supper. Nothing very important occurred till the third day, when many of the dangers so common upon the western waters, manifested themselves; and after we had encamped upon the bank of the river, at McIlwaine’s Bend, Brother Phelps, in open vision by daylight, ==saw the destroyer in his most horrible power, ride upon the face of the waters==; others heard the noise, but saw not the vision.
+>
+> “The next morning after prayer, I received the following: [D&C 61](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/61).” (History of the Church, 1:202–3.)
+
+— _[The Lord Has Blessed the Land and Cursed the Waters](https://www.churchofjesuschrist.org/manual/doctrine-and-covenants-student-manual/section-61-the-lord-has-blessed-the-land-and-cursed-the-waters?lang=eng)_, Doctrine & Covenants Student Manual
+
+&nbsp;
+
+Right, OK.
+
+That somehow became “Satan controls water”.
+
+Why then, do we:
+
+- Pray to God instead of Satan for rain?
+- Get completely immersed in Satan's element for baptism?
+- Have bodies made of 70% water?
+
+&nbsp;
+
+## Origin
+### How Stuff Works
 > The first mentions of Satan appear in the Hebrew Bible, from which much of the Christian Old Testament is derived. However, there’s a lot of uncertainty among religious scholars regarding what the authors meant when the word “Satan” appears in the Old Testament. The definition can vary depending on how the [Biblical](https://science.howstuffworks.com/nature/natural-disasters/2012-bible-world-end.htm) Hebrew term for Satan (שָּׂטָן‎‎) is translated and interpreted. **In some cases, the term simply means “opponent” or “adversary” and clearly indicates a human figure, not a supernatural one.** In other cases, it suggests Satan is “the accuser,” or part of a heavenly legal system. There is no consensus on which references to Satan indicate human adversaries and which ones indicate a supernatural enemy of God ([source: Stokes](https://www.jstor.org/stable/25610168?seq=1)). While the concept took many forms over the centuries, the idea of Satan representing an outsider who opposes established values is the common thread woven through all his incarnations.
 > 
 > The [Christian](https://people.howstuffworks.com/creationism.htm) New Testament contains a much clearer evolution of Satan as a single, supernatural evil being in opposition to God. He often appears at God’s behest, to test humans so they display their true faith (source: [Farrar and Williams](http://journals.sagepub.com/doi/abs/10.1177/0142064X16660911)). This version of Satan is sometimes referred to as “the Satan of the Scriptures.”
@@ -30,7 +59,6 @@ _From <_ [_https://en.wikipedia.org/wiki/Satan#Hebrew_Bible_](https://en.wikiped
 &nbsp;
 
 ### Serpents in the Bible: Eden
-
 > There is a debate about whether the serpent in Eden should be viewed figuratively or as a literal animal. According to one [midrashic interpretation](https://en.wikipedia.org/wiki/Midrash) in [Rabbinic literature](https://en.wikipedia.org/wiki/Rabbinic_literature), the serpent represents [sexual desire](https://en.wikipedia.org/wiki/Sexual_desire); another interpretation is that the snake is the [yetzer hara](https://en.wikipedia.org/wiki/Yetzer_hara). Modern Rabbinic ideas include interpreting the story as a psychological allegory where Adam represents reasoning faculties, Eve the emotional faculties, and the serpent the hedonic sexual/physical faculties. [Voltaire](https://en.wikipedia.org/wiki/Voltaire), drawing on [Socinian](https://en.wikipedia.org/wiki/Socinian) influences, wrote: “It was so decidedly a real serpent, that all its species, which had before walked on their feet, were condemned to crawl on their bellies. No serpent, no animal of any kind, is called [Satan](https://en.wikipedia.org/wiki/Satan#Judaism), or [Belzebub](https://en.wikipedia.org/wiki/Belzebub), or [Devil](https://en.wikipedia.org/wiki/Devil#Christianity), in the [Pentateuch](https://en.wikipedia.org/wiki/Torah).”
 
 _From <_[_https://en.wikipedia.org/wiki/Serpents_in_the_Bible#Eden_](https://en.wikipedia.org/wiki/Serpents_in_the_Bible#Eden)_>_

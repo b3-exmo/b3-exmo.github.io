@@ -19,6 +19,8 @@ We shifted from Christ having established a church (maybe) and the next heading,
 
 That's a nice [[Logical fallacies#Strawman Fallacy|strawman]] you've got there.
 
+&nbsp;
+
 > [So the purpose](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p8#p8) of the Lord is the perfecting of the Saints, not the perfecting of the Church. We can take real comfort from that principle because it implies that there is room in the Lord’s Church for all of us imperfect people!
 
 ... You were just talking about leadership. "all of us imperfect people" sounds like you're trying now to include the layman congregants who attend church weekly. I suppose both groups qualify as "imperfect," but this doesn't have anything to do with your previous statement, nor your thesis statement of the church's truthfulness claims mean. See me after class.
@@ -30,6 +32,8 @@ That's a nice [[Logical fallacies#Strawman Fallacy|strawman]] you've got there.
 You mean like the time when God "guided" Joseph Smith, prophet of the restoration, by [[Polygamy#Angel with a Sword vs Joseph Smith|sending an angel with a flaming sword to destroy him if he doesn't cheat on his wife]]? *Are you led by God or not*? Because if you have a convenient explanation for why something you did *was not* inspired of God each time it's found to be disagreeable, I might question how divinely inspired your organization is.
 
 Quick side note: Dallin H Oaks is on record conflating [[Authority#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will.
+
+&nbsp;
 
 > [The Lord gives us](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p15#p15) _guidance_ but does not generally exercise _control_, except in matters that bear directly on our salvation. Once again, it is not His purpose to perfect the Church but rather to perfect His children, including Church leaders and administrators. This pattern of inspired operations at Church headquarters is not substantially different from that used in stakes and wards and homes.
 
@@ -85,9 +89,13 @@ LMAO YEAH THAT'S ONE WAY TO PUT IT
 
 my brother in christ, your opening statements were *literally defending* accusations of you not being perfect.
 
+&nbsp;
+
 > But belief in general can become so vague as to have neither motivating nor saving power, and near-infidels can claim adherence (see [James 2:19–20](https://www.churchofjesuschrist.org/study/scriptures/nt/james/2?lang=eng&id=p19-p20#p19)).
 
 Yes, I recall hearing this criticism of other varieties of Christianity when I was growing up. They're too superficial, they got no substance, no *authority*.
+
+&nbsp;
 
 > By contrast, a conviction that The Church of Jesus Christ of Latter-day Saints is true and guided by the Lord leads one to attend meetings, pay tithes and offerings, serve in callings, receive ordinances, and keep the associated covenants. With clear belief and conviction come clear and compelling commitments. In other words, once we know it is true, we become morally obligated to act like it’s true.
 

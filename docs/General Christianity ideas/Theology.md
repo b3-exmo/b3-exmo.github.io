@@ -30,7 +30,7 @@ After everything is said and done, the success rate of Elohim's plan will be sig
 
 If it's all true, then Elohim is either the most incompetent god or the most evil god in all of mythology. Either way, he's not worthy of my time or consideration.
 
-Don’t forget that even after passing the test, not letting demons sway you into doing bad things like drinking hot bean water, paying club dues for life, etc., you also gotta learn the right handshakes to enter to go back to live with your dad. Hope you’ve been wearing right kind of underwear!
+Don’t forget that even after passing the test, abd not letting demons persuade you into doing bad things like drinking hot bean water, or thinking about touching your ding-dong, you also must learn the right handshakes to enter to go back to live with your dad. Hope you’ve been wearing right kind of underwear!
 
 God *requires* justice, but can't bring himself to forgive outright. So, he needs a *blood offering* to be happy with us.
 

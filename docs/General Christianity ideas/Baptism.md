@@ -3,9 +3,9 @@ comments: true
 ---
 # 🌊 Baptism
 ## Age of Accountability
-Not pointing to a specific bishop or human, this is hypothetical: Would a given bishop excommunicate an 8 or 9 year old child, for whatever apostate behavior? Or would he think that the child was too young and didn’t understand what their sin was and wouldn’t understand being excommunicated. If so, then the child has not reached the age of accountability.
-
 **Have you ever talked to an 8-year-old?**
+
+Not pointing to a specific bishop or human, this is hypothetical: Would a given bishop excommunicate an 8 or 9 year old child, for whatever apostate behavior? Denying the Holy Ghost, for example? Or would hthis bishop think that the child was too young and didn’t understand what their sin was and wouldn’t understand being excommunicated. If so, then the child has not reached the age of accountability.
 
 Granted, the Book of Mormon does teach about not baptizing “little children”. That’s about as far as that discourse goes, though- not much mention of accountability, or forbidding those 7 years or younger.
 
@@ -20,7 +20,8 @@ Part of [Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_cano
 
 > *On completion of the seventh year, a minor is presumed to have the use of reason, but intellectual disability can prevent some individuals from ever attaining the use of reason.*
 
-_[https://en.wikipedia.org/wiki/Person_(Catholic_canon_law)#Physical_persons](https://en.wikipedia.org/wiki/Person_(Catholic_canon_law)#Physical_persons)_
+#TODO  link borked
+_[Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_canon_law)#Physical_persons)_
 
 > *As many as 36 collections of canon law are known to have been brought into existence before 1150.*
 
@@ -38,12 +39,15 @@ I suppose the conclusion to arrive at is that an age of accountability isn’t u
 
 &nbsp;
 
-It’s an amazing coincidence how many 8 year olds have chosen to have the same religious beliefs as their parents, don’t you think?
-
 ## Peer pressure
 > *This pressure is often strongest during childhood and teenage years, when there is a powerful ==need to be accepted== by one’s peers.*
 
+#TODO 
 [https://www.churchofjesuschrist.org/study/manual/gospel-topics/peer-pressure?lang=eng](https://www.churchofjesuschrist.org/study/manual/gospel-topics/peer-pressure?lang=eng)
+
+&nbsp;
+
+It’s an amazing coincidence how many 8 year olds have chosen to have the same religious beliefs as their parents, don’t you think?
 
 Do 8 year old children really decide on their own to be baptized?
 
@@ -53,7 +57,7 @@ This is not a rhetorical question. Do they? What factors influence that decision
 
 ## Scriptural backing
 > *Behold I say unto you that this thing shall ye teach—repentance and baptism unto those who are ==accountable and capable of committing sin==; yea, teach parents that they must repent and be baptized, and humble themselves as their little children, and they shall all be saved with their little children.*
-
+>
 > *And their little ==children need no repentance, neither baptism==. Behold, baptism is unto repentance to the fulfilling the commandments unto the remission of sins.*
 
 — _[Moroni 8:10-11](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng&id=p10-p11#p10)_
@@ -62,13 +66,13 @@ Wait, children need no repentance, nor baptism? The ordinance should only be tau
 
 &nbsp;
 
-> For all men must repent and be baptized, and not only men, but women, and ==children who have arrived at the years of accountability==.
+> *For all men must repent and be baptized, and not only men, but women, and ==children who have arrived at the years of accountability==.*
 
 — _[D&C 18:42](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/18?lang=eng&id=p42#p42)_
 
 &nbsp;
 
-> And their children shall be ==baptized for the remission of their sins when eight years old==, and receive the laying on of the hands.
+> *And their children shall be ==baptized for the remission of their sins when eight years old==, and receive the laying on of the hands.*
 
 — _[D&C 68:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng&id=p27#p27)_
 

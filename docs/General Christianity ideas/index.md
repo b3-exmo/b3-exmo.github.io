@@ -20,15 +20,15 @@ comments: true
 
 ## Time
 
-> "Let’s say that the consensus is that our species, we being the higher primates, has been on the planet for at least 100,000 years, maybe more. Francis Collins says 100,000, Richard Dawkins thinks a quarter-of-a-million. I’ll take 100,000…
+> *Let’s say that the consensus is that our species, we being the higher primates, has been on the planet for at least 100,000 years, maybe more. Francis Collins says 100,000, Richard Dawkins thinks a quarter-of-a-million. I’ll take 100,000…*
 >
-> In order to be a Christian you have to believe that for 98,000 years, our species suffered and died, most of its children dying in childbirth, most other people having a life expectancy of about 25 years, dying of their teeth. Famine, struggle, bitterness, war, suffering, misery.
+> *In order to be a Christian you have to believe that for 98,000 years, our species suffered and died, most of its children dying in childbirth, most other people having a life expectancy of about 25 years, dying of their teeth. Famine, struggle, bitterness, war, suffering, misery.*
 >
-> All of that for 98,000 years, Heaven watches this with complete indifference. Then 2000 years ago, thinks, ‘That’s enough of that, it’s time to intervene.’ And the best way to do this would be by condemning someone to a human sacrifice somewhere in the less literate parts of the Middle East. Don’t let’s appeal to the Chinese, for example, where people can read and study evidence and have a civilization - no, let’s go to the desert and have another revelation there.
+> *All of that for 98,000 years, Heaven watches this with complete indifference. Then 2000 years ago, thinks, ‘That’s enough of that, it’s time to intervene.’ And the best way to do this would be by condemning someone to a human sacrifice somewhere in the less literate parts of the Middle East. Don’t let’s appeal to the Chinese, for example, where people can read and study evidence and have a civilization - no, let’s go to the desert and have another revelation there.*
 >
-> This is nonsense; it can’t be believed by a thinking person."
+> *This is nonsense; it can’t be believed by a thinking person.*
 
-— Christopher Hitchens
+— Christopher Hitchens (probably)
 
 I've encountered this quote in isolation a few times ([1](https://www.imdb.com/title/tt1572150/characters/nm0386899), [2](https://www.goodreads.com/quotes/919133-let-s-say-that-the-consensus-is-that-our-species-being), [3](https://hitchensdebates.blogspot.com/2010/07/hitchens-vs-wilson-kings-college.html)) but I've not yet seen a primary source for it.
 
@@ -48,7 +48,6 @@ Put this further in perspective to the context of Mormonism; supreme creator of 
 &nbsp;
 
 ## Proselytizing
-### Quora
 [https://www.quora.com/Why-do-people-get-angry-when-I-try-to-share-the-word-of-God-with-them-I-only-do-it-because-I-care-about-them-deeply-and-don-t-want-them-to-end-up-in-hell-I-feel-like-some-people-avoid-me-because-of-this-Is-there-any](https://www.quora.com/Why-do-people-get-angry-when-I-try-to-share-the-word-of-God-with-them-I-only-do-it-because-I-care-about-them-deeply-and-don-t-want-them-to-end-up-in-hell-I-feel-like-some-people-avoid-me-because-of-this-Is-there-any)
 
 > **Why do people get angry when I try to share the word of God with them? I only do it because I care about them deeply and don’t want them to end up in hell. I feel like some people avoid me because of this. Is there any way to get through to them?**

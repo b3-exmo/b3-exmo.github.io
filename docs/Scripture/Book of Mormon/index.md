@@ -12,6 +12,9 @@ comments: true
 > _…everything in the Church – everything – rises or falls on the truthfulness of the Book of Mormon and, by implication, the Prophet Joseph Smith’s account of how it came forth…It sounds like a ‘sudden death’ proposition to me. Either the Book of Mormon is what the Prophet Joseph said it is or this Church and its founder are false, fraudulent, a deception from the first instance onward._
 
 — _[True or False](https://www.churchofjesuschrist.org/study/new-era/1995/06/true-or-false?lang=eng)_, President Jeffrey R. Holland, New Era, June 1995
+
+&nbsp;
+
 ## Fullness of the Gospel
 What, _specifically_, does the Bible lack that the Book of Mormon clears up? What doctrine did it add?
 
@@ -67,7 +70,7 @@ I could imagine this being very closely related to Prosperity Gospel. I [[TODO|o
 &nbsp;
 
 ### Natural Man
-> For ==the natural man is an enemy to God==, and ==has been== from the fall of Adam, and ==will be==, forever and ever, unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father.
+> *For ==the natural man is an enemy to God==, and ==has been== from the fall of Adam, and ==will be==, forever and ever, unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father.*
 
 — _[Mosiah 3:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng&id=p19#p19)_
 
@@ -83,6 +86,21 @@ Props to John Larsen for presenting and illustrating this idea in [his podcast](
 > Imagine a parent in the mall scolding their child, saying "you little shit, you are an enemy of mine! You have been since the day you were born, and _always will be unless you do what I tell you to do_. You have to do everything I say or else you're my enemy." One step further, "you will never *not* be my enemy, unless I punish your brother. You, on your own, will never be good enough."
 
 I think it's a useful illustration- if our relationship to God is like that of a father and child, we can imagine literally a father and child having such an interaction as a third party.
+
+How do you react in this imagined scenario? Do you think "wow that father sure loves his kids. Wish my dad was that chill." Or do you call CPS?
+
+&nbsp;
+
+### Perfection
+> In preparing for this conference address, I had the glorious experience of quietly examining several pages of Joseph’s original manuscript of the Book of Mormon, which is safely protected in the Church archive. I was overwhelmed at the purity of the transcription, which had only a very few insignificant corrections, such as a misspelled word. ==Joseph’s original manuscript is so perfect== it could only have come from one source—divine revelation.
+
+https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12
+
+> Since the 1837 version, the Church has published ==five additional major editions== of the Book of Mormon, all of which included slight changes to improve the clarity of the text. The Church’s ==Scripture Committee== is responsible for overseeing the editing process. They research corrections brought to their attention and then make recommendations. All recommendations and any subsequent changes are approved by the Council of the [First Presidency](https://newsroom.churchofjesuschrist.org/topic/organizational-structure-of-the-church) and Quorum of the Twelve Apostles, the highest governing body of the Church.
+> 
+> ==Almost 4,000 editing corrections have been made== to the Book of Mormon since the first publication in 1830. For example: the word _which_ has been changed to _who_ 891 times; _was_ has been changed to _were_ 162 times; and the word _that_ has been deleted 188 times. Other examples involve mistakes in the transcription process. While Joseph Smith and a scribe were translating in the book of Alma, for instance, the scribe misheard Joseph and wrote the word _whether_ instead of _wither_. This mistake, which was included in the first edition, changed the complexion of the sentence and caused confusion among readers. Each correction that has been made has aimed at aligning the text with the original translation.
+
+
 
 &nbsp;
 
@@ -147,7 +165,7 @@ Jesus does, by definition, visit the new world, but not all of it. He goes to on
 
 Imagine it: you just [lost your family](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p25#p25), your house, your livelihood; [populous cities just got flattened](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p14#p14) by storms and earthquakes, followed by a full [72 hours of people moaning and wailing in despair](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p23#p23) as their sight is blinded by dark mists. All you can feel is rubble and dead bodies around you, all you can hear is other people mourning, or those who were injured or maimed, having not yet died, but scream out in horror at their reality. You can't find food. Wallowing in excrement. Nothing to suggest that your condition will improve, or that your sight will ever return *for three days straight*. But hey, at least Jesus came here to tell you [the Lord's prayer](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p9-p13#p9). Just what you needed, right?
 
-One could argue that this emphasizes how important that message is, that native Americans need it too- but part of what's dramatic about this book is the idea that it survived such great lengths to preserve for us, today, in 2024 to read as convincing evidence that God's one true church has been restored. Those two ideas don't fit together. Was it [[#For our day, or for JS’ day?|for us]], who already have the source material? Was it for *our day*, more of a temporal matter than demographic- for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
+One could argue that this emphasizes how important that message is, that native Americans need it too- but part of what's dramatic about this book is the idea that it survived such great lengths to preserve for us, today, in 2024 to read as convincing evidence that God's one true church has been restored. Those two ideas don't fit together. Was it [[#For our day, or for JS’ day?|for us]], who already have the source material? Jesus appeared to Nephites after leveling their cities to talk to you and I in the 21st century? Was it for *our day*, more of a temporal matter than demographic- for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
 
 &nbsp;
 
@@ -191,7 +209,7 @@ Really, now. Here are the times where, during the physical ministry of Jesus Chr
 &nbsp;
 
 ### Cannot be written
-> And now there ==cannot be written== in this book even a hundredth part of the things which Jesus did truly teach unto the people;
+> *And now there ==cannot be written== in this book even a hundredth part of the things which Jesus did truly teach unto the people;*
 
 — _[3 Ne 26:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng&id=p6#p6)_
 
@@ -205,6 +223,15 @@ I initially had these following passages quoted inline, but I think you can foll
 - _[3 Ne 19:32-34](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=eng&id=p32-p34#p32)_
 
 But out of all the myriad things they didn't write down, the one concept they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[BoM Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 600+ years separated from Lehi.
+
+&nbsp;
+
+#### Vs Gospels
+The four gospels in the New Testament were written well after Jesus was crucified, [ranging from 65 - 110 CE.](https://www.churchofjesuschrist.org/study/liahona/2023/01/digital-only/the-gospels-four-testimonies-of-the-savior?lang=eng) Subtract 34 years from that for the crucifixion, we're looking at 31 to 76 years after the fact. I'm not aware of a better primary source, but the reason I bring this up is that the authors of these gospels were able to produce *something*, rather than "Jesus came and said a bunch of stuff idk lol"
+
+If you, reader, served a full-time mission for the church, how often did you tout the Book of Mormon as "another testament of Jesus Christ"? Did someone with a Christian background have their interest piqued? Did they find the part of the book where Jesus makes a physical appearance? Did this hypothetical investigator then read "we didn't write any of it down, anyway here's the sermon on the mount exactly as it appears in KJV" and think "hot dog, this verbatim copy-paste is exactly what I was looking for. I am now convinced that Joseph Smith was a prophet!"?
+
+No? Why not, did you have a problem with porn or something?
 
 &nbsp;
 

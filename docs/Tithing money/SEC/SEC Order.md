@@ -1,13 +1,13 @@
 ---
 comments: true
 ---
-## 📃 [SEC Order](https://www.sec.gov/litigation/admin/2023/34-96951.pdf)
+# 📃 [SEC Order](https://www.sec.gov/litigation/admin/2023/34-96951.pdf)
 This heading is a link to the original document. Below are some excerpts with emphases, and some added commentary.
 
 If you haven't already, check the summary of PR statements from both parties. The headings below reflect those in the document, if you'd like to follow along. I don't know how to implement "when you hear the chime, turn the page!" so this is the next best solution.
 
 &nbsp;
-### Summary
+## Summary
 > *From 1997 through 2019, Ensign Peak Advisors, Inc. (“Ensign Peak”), an entity which manages the assets, including the investment securities, of The Church of Jesus Christ of Latter-day Saints (the “Church”), failed to file with the Commission certain required forms (“Forms 13F”) that would have disclosed the size of the Church’s equity portfolio to the Commission and the public. Instead, the Church and Ensign Peak created ==thirteen limited liability corporations== (“LLCs”), including twelve similar LLCs (the “Clone LLCs”) with addresses located throughout the U.S., ==for the sole purpose of filing Forms 13F== and ==preventing public disclosure== by Ensign Peak of the Church’s ==equity securities holdings==. The Forms 13F that Ensign Peak filed in the names of these LLCs misstated, among other things, that they had sole investment and voting discretion over the listed securities, when Ensign Peak at all times retained discretion over all investment decisions.*
 
 I don't think we can soften this to say "it's a misunderstanding, they were diversifying in case of a loss!" The sole purpose of the shell companies is to commit fraud.
@@ -18,7 +18,7 @@ I don't think we can soften this to say "it's a misunderstanding, they were dive
 
 &nbsp;
 
-### Respondents
+## Respondents
 
 > *The Church of Jesus Christ of Latter-day Saints is a Utah corporation sole, headquartered in Salt Lake City, Utah, which was organized and operated to carry out the purposes of the faith . . . As referenced in this Order, “==senior leadership of the Church==” consists of the Church’s ==First Presidency and Presiding Bishopric.==*
 
@@ -59,25 +59,3 @@ Ensign Peak's inception was in 1997, lest we overlook that detail. “A signific
 Not all securities require 13f form submission. Church has some of those assets. I’ve heard the claim (haven’t found solid info to back it up) that around 1/3 of the assets do, and here we have a quantifiable number of $37.8 billion. That’s $113.4 billion managed by Ensign Peak alone, assuming that figure is accurate.
 
 If that number is inaccurate, meaning more or less, I can still get behind the idea that not all assets require 13f submission. This does raise the question, what other assets do they have? And with nearly $40 billion, how do they have the balls to ask me for my money?
-
-
-
-
-
-
-
-
-
-### Phrasing comparison
-
-| Church                                               | SEC                                                 |
-| ---------------------------------------------------- | --------------------------------------------------- |
-| affiliated investment manager                        | investment manager owned and operated by the church |
-| settled a matter                                     |                                                     |
-| above a certain threshold                            |                                                     |
-| received and relied upon legal counsel               |                                                     |
-| maintain the privacy of the portfolio                | [obscuring] the portfolio                           |
-| expressed concern                                    |                                                     |
-| single aggregated report                             |                                                     |
-| cooperated with the government over a period of time |                                                     |
-|                                                      |                                                     |

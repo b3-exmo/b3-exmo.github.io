@@ -4,6 +4,9 @@ comments: true
 # 🔗 Sources & More Material
 [lds-general-conference.org](https://www.lds-general-conference.org/): Does not appear to be an officially sanctioned site
 
+edit:
+whoops, nevermind, [looks like it might be](https://www.churchofjesuschrist.org/church/news/quick-tip-finding-older-general-conference-talks?lang=eng) after all
+
 [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents. The De Facto standard for defending The Truth ™️ from those evildoers.
 
 ... It's maybe unofficial. I've encountered claims that writers for the game are paid by the church, but I haven't looked into it to verify those claims.

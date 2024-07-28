@@ -4,13 +4,13 @@ comments: true
 # 👨‍💼 Prophets
 Asking “is he speaking as a prophet or a man?” presupposes there are moments when a prophet ceases to be a man with flaws and agency, and the ability to be wrong. There is never such a moment, so we are never absolved of our responsibility to confirm truth for ourselves.
 
-There have been very few revelations since Joseph Smith, who received revelations almost instantly when he needed to be personally helped out when he ran into moral/leadership problems: polygamy, funding from Martin Harris, Hiram Page’s seer stone. Why is God so quick to help Joseph Smith out of personal issues but so unresponsive to issues that impact everyone?
+No, I don't think it's reasonable to demand that every word to come out of their mouth to be [[Infallibility#Thought exercise|profound or publicly scrutinized]]. I do, however, think it's reasonable to expect dignity and credence whenever a prophet has an audience with the intention of listening. If Gordon Hinckley is standing behind a pulpit, his words in that moment carry more weight than if he's chilling at home in his PJ's. I understand that there is a difference here. I also understand that when Brigham Young is speaking to an audience who reveres him as a divinely appointed leader, that carries more weight theologically than when he's berating wife #23 for whatever domestic matter.
 
-**When is the last time we had a meaningful revelation?** Was changing the minimum age for missionaries meaningful, or was it more of a secular policy? Is cutting Sunday meetings to 2 hours meaningful? Every General Conference we hear a lot of the same things.
+There have been very few revelations since Joseph Smith, who received revelations almost instantly when he needed to be personally helped out when he ran into moral/leadership problems: polygamy, funding from Martin Harris, Hiram Page’s seer stone. Why was God so quick to help Joseph Smith out of personal issues, but  today God is so unresponsive to issues that impact everyone?
 
-Tell me the things that Russell Nelson has done to make the world a better place. Or Monson, or Hinckley.
+**When is the last time we had a meaningful revelation?** Was changing the minimum age for missionaries meaningful, or was it more of a secular policy? Is cutting Sunday meetings to 2 hours meaningful? Aside from those changes that have practically no impact on Christ's philosophy, every General Conference we hear a lot of the same things.
 
-JS “brought forth” the Book of Mormon, instituted temple rites. One could argue that BY led the saints to Utah. After that… what? Have they made a dent in world hunger? Has missionary work in Africa quelled the warlords? Has domestic abuse gone down? Did they do anything to warn or prepare the world for COVID? Built hospitals?
+Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. One could argue that BY led the saints to Utah. After that… what have LDS prophets done for the world? Tell me the things that Russell Nelson has done to make the world a better place. Or Monson, or Hinckley. Have they made a dent in world hunger? Has missionary work in Africa quelled the warlords? Has domestic abuse gone down? Did they do anything to warn or prepare the world for COVID? Built hospitals? Solved homelessness? Are they performing miracles like we read about in scripture?
 
 &nbsp;
 

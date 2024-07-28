@@ -6,8 +6,14 @@ How much rationalization has to occur in an LDS believers mind to still see Jose
 
 Notes on [[Education|Joseph's education]] got too long to fit here, now has its own page. 
 
+It's also worth noting that the notes here will be focusing more on Joseph's problems, flaws, and shortcomings. This does not mean that Joseph was a villainous miscreant rapscallion. Humans are complicated creatures, and Joseph Smith is a human. I had nearly 30 years of focusing solely and exclusively on Joseph's positive qualities, his wins, his successes, and theological contribution. There are good things to be said about him. I won't focus on them here. I had plenty of indoctrination on how noble and great Joseph was. The purpose of this compendium of notes is for me to organize my thoughts and findings.
+
+I'll reveal part of my thought process here: flaws give depth to character. The shiny, clean, presentable image of any historical figure is frankly quite boring. A character in a fictional story who is good at everything, has no challenges, always wins and everyone agrees with is not a compelling story. A representation of history where the figure in question is suave and diplomatic, wins every battle, is skilled at everything, and always overcomes obstacles feels dishonest. Life isn't like that. Slavery abolitionist [John Brown](https://en.wikipedia.org/wiki/John_Brown_(abolitionist)) is a fascinating historical figure to read about because of the opposition he faced and overcame, which was pretty clearly documented. The version of Joseph Smith that I grew up with is that he was always right, inspired of God, brought about the fullness of Christ's church, and clearly did a great job of it because it's still around today, 200 years later. As an adult, I'm finding out about domestic disputes with Emma, evolving theology, and actual reasons for being incarcerated that are more profound than "[[Satan]] make bad thing happen to Jesus-man". To me, these negative aspects make Smith feel more like a real human, rather than an idealized, romanticized image of 19th century frontier living. Reality isn't so polished and presentable, and I'm skeptical of presentations of history that sound too good to be true.
+
+&nbsp;
+
 ## Construction zone!
-I've got lots of notes on Joseph, but I have yet to decide how to structure, organize, and present them. Things might shift around if you come back later.
+I've got lots of notes on Joseph, but I have yet to decide how to structure, organize, and present them. Come on in and look around, but know that things might shift around if you come back later.
 
 ## Lucy Mack Smith
 I don't have much to say about Lucy as an individual. Most of what I find online is that she was the first woman to give a general conference address ([1](https://www.ldsliving.com/the-first-time-a-woman-spoke-in-general-conference-lucy-mack-smiths-powerful-talk-from-1845/s/84948), [2](https://www.churchhistorianspress.org/at-the-pulpit/part-1/chapter-5?lang=eng), [3](https://www.churchofjesuschrist.org/church/news/womens-voices-past-and-present-impact-general-conference-and-the-church-for-good?lang=eng)). 
@@ -25,7 +31,7 @@ I did find a [list of women who have participated](https://www.churchhistoriansp
 &nbsp;
 
 ### Joseph Jr's Upbringing
-What I find more fascinating is her account of Joseph Jr's upbringing.
+What I find more fascinating about Lucy is her account of Joseph Jr's upbringing.
 
 Lucy tells that Joseph had a great interest in the “ancient inhabitants” of this continent and that before he “translated” the Book of Mormon he used to entertain the family with stories about them:
 

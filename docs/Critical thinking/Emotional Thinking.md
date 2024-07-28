@@ -6,7 +6,9 @@ I remember being a teenager and hearing the argument that "the fact that humans 
 
 There are a [[Logical fallacies|few problems]] with this perspective— among them, the idea that [[Falsifiability|I can't prove it happened]], but the logical leaps and jumps to arrive at the conclusion this Young Men's leader already had in mind are, in retrospect, baffling.
 
-Humans connect with emotional experiences. Marriage ceremonies are, by my understanding, an emotional commitment and have no objective value whatsoever. Does that mean they're bad? Useless? Waste of ~~money~~ time? Not necessarily. I look back on my wedding day with fondness, and I love my wife. One could argue that this emotional attachment to the event is more valuable than the money spent on the venue, catering, etc. I don't want to come off as the snarky contrarian who thinks human emotions are holding us back. Emotions— positive or negative— are what  make us human. I bet a philosophy student would have some words for me, but that's where I stand today.
+Humans connect with emotional experiences. Marriage ceremonies are, by my understanding, an emotional commitment and have no objective value whatsoever. Does that mean they're bad? Useless? Waste of ~~money~~ time? Not necessarily. I look back on my wedding day with fondness, and I love my wife. One could argue that this emotional attachment to the event is more valuable than the money spent on the venue, catering, etc. I don't want to come off as the snarky contrarian who thinks human emotions are holding us back. Emotions— positive or negative— are what make us human. I bet a philosophy student would have some words for me, but that's where I stand today.
+
+&nbsp;
 
 ## In Religion
 I know I've mentioned this elsewhere, but I don't want to come off as contrarian, pompous, "better than you plebes 'cause I criticize religions on *the internet* 😤" kind of guy. Religions hold value. It's easy to point to [egregious things](https://en.wikipedia.org/wiki/Crusades) done in the name of religion, but it's harder to quantify how millions of lay folk find comfort in it. I can attest that it quells existential dread. I'm not qualified to try and assess if Christianity is a net positive or net negative; the [Spanish Inquisition torturing people](https://en.wikipedia.org/wiki/Spanish_Inquisition#Torture) to prove heresy tips the scales toward negative. All done in the name of Jesus.
@@ -64,4 +66,5 @@ If simply testifying with emotion makes something true, then we’re in trouble.
 
 &nbsp;  
 
+#TODO 
 Will likely add more summarized content from this source: [https://www.ldsdiscussions.com/testimonies](https://www.ldsdiscussions.com/testimonies)

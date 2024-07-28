@@ -25,4 +25,4 @@ The office of Historian has some [unusual background](https://en.wikipedia.org/w
 - [Kyle S. McKay](https://www.churchofjesuschrist.org/learn/kyle-s-mckay?lang=eng) is, at the time of writing, the acting church historian.
 	- "In 1987 he received a ==juris doctor degree== from Brigham Young University. From 1987 to 2018 Elder McKay ==practiced law== in Oregon and Utah."
 
-Well golly gee, it's almost as if the church office build *really* values their historian's ability to argue and defend against accusations. One day I may look into these men's careers to determine if they were defense attorneys or prosecutors, but... today, I don't have that information.
+Well golly gee, it's almost as if the church office building *really* values their historian's ability to argue and defend against accusations. One day I may look into these men's careers to determine if they were defense attorneys or prosecutors, but... today, I don't have that information.
