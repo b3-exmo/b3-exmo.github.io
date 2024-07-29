@@ -59,6 +59,18 @@ Being owned by the church itself carries some connotations- I'm not going to imp
 
 &nbsp;
 
+## Journal of Discourses
+
+[https://www.churchofjesuschrist.org/study/manual/gospel-topics/journal-of-discourses?lang=eng](https://www.churchofjesuschrist.org/study/manual/gospel-topics/journal-of-discourses?lang=eng)
+
+LDS official topic essays, saying JoD is not an official publication, but it does have doctrinal teachings of early church leaders.
+
+> *“It included some doctrinal instruction but also practical teaching, some of which is speculative in nature and some of which is only of historical interest.”*
+
+Some of it is legitimate, some of it is not; we won’t specify what is reliable, just want plausible deniability when something uncomfortable comes up. Lots of non-committal language, acknowledging that JoD exists, and you could go find it if you really wanted to.
+
+Found three or four sites online that have JoD published, but elected to reference Byu’s scriptural library; BYU is owned and funded by the LDS corporate office
+
 ## Other non-official materials
 [A Careful Examination](https://faenrandir.github.io/a_careful_examination/): Looks like another Github Pages compendium of LDS-adjacent notes
 

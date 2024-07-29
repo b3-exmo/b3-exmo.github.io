@@ -20,14 +20,13 @@ Part of [Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_cano
 
 > *On completion of the seventh year, a minor is presumed to have the use of reason, but intellectual disability can prevent some individuals from ever attaining the use of reason.*
 
-#TODO  link borked
-_[Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_canon_law)#Physical_persons)_
+> . . .
 
 > *As many as 36 collections of canon law are known to have been brought into existence before 1150.*
 
-_[https://en.wikipedia.org/wiki/Canon_law_of_the_Catholic_Church#Legal_history_and_codification](https://en.wikipedia.org/wiki/Canon_law_of_the_Catholic_Church#Legal_history_and_codification)_
+— [Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_canon_law)#Physical_persons), Wikipedia
 
-Here’s a short summary: [https://www.catholic.com/encyclopedia/age-of-reason](https://www.catholic.com/encyclopedia/age-of-reason)
+Here’s another short summary: [https://www.catholic.com/encyclopedia/age-of-reason](https://www.catholic.com/encyclopedia/age-of-reason)
 
 Cool. Anyone else?
 
@@ -42,8 +41,7 @@ I suppose the conclusion to arrive at is that an age of accountability isn’t u
 ## Peer pressure
 > *This pressure is often strongest during childhood and teenage years, when there is a powerful ==need to be accepted== by one’s peers.*
 
-#TODO 
-[https://www.churchofjesuschrist.org/study/manual/gospel-topics/peer-pressure?lang=eng](https://www.churchofjesuschrist.org/study/manual/gospel-topics/peer-pressure?lang=eng)
+— [Peer Pressure](https://www.churchofjesuschrist.org/study/manual/gospel-topics/peer-pressure?lang=eng), Topics and Questions, LDS.org
 
 &nbsp;
 

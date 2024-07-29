@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 👁‍🗨 First Vision
+# 🕶 First Vision
 > *Our whole strength rests on the validity of that [first] vision. ==It either occurred or it did not occur==. If it did not, then this work is a fraud. If it did, then it is the most important and wonderful work under the heavens.*
 
 — *[The Marvelous Foundation of our Faith](https://www.churchofjesuschrist.org/study/general-conference/2002/10/the-marvelous-foundation-of-our-faith?lang=eng)*, President Gordon B. Hinckley, General Conference October 2002
@@ -136,7 +136,13 @@ To me, this is incredibly problematic. For two years, at the MTC and in the miss
 
 > *Do you suppose that God in person called upon Joseph Smith, our Prophet? God called upon him; but God did not come himself and call, but he sent Peter to do it. Do you not see? He sent Peter and sent Moroni to Joseph, and told him that he had got the plates. Did God come himself? No: he sent Moroni and told him there was a record, and says he, “That record is matter that pertains to the Lamanites, and it tells when their fathers came out of Jerusalem, and how they came, and all about it;”*
 
-— Heber C. Kimball, [Journal of Discourses 6:29](https://scriptures.byu.edu/#:t4e3f:j02c)
+— Heber C. Kimball, [Journal of Discourses 6:29](https://scriptures.byu.edu/#:tea64:j06)
+
+&nbsp;
+
+> *We are the people of God; we are the Church of Jesus Christ of Latter-day Saints, the foundation of which, in these last days, was begun by the Almighty sending an holy angel to Joseph Smith to reveal to him his will and establish the everlasting Gospel that was preached in the days of Jesus[.] . . .*
+
+— Heber C. Kimball, [Journal of Discourses 7:18](https://scriptures.byu.edu/#:t11173:j07)
 
 &nbsp;
 
@@ -148,13 +154,13 @@ To me, this is incredibly problematic. For two years, at the MTC and in the miss
 
 > ***Wherever the words of the Gospel, which the angel revealed to him**, were preached among the children of men, it had its effect.*
 
-— Wilford Woodruff, [Journal of Discourses 2:191](https://scriptures.byu.edu/#:t4e3f:j02c) (excerpts above; see  document for fuller context)
+— Wilford Woodruff, [Journal of Discourses 2:191](https://scriptures.byu.edu/#:t4e3f:j02c) (isolated excerpts; see document for fuller context)
 
 &nbsp;
 
 > [Joseph Smith] had read the Bible and had found that passage in James which says, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not,” and taking this literally, he went humbly before the Lord and inquired of Him, and the Lord answered his prayer, and revealed to Joseph, by the ministration of angels, the true condition of the religious world. When the holy angel appeared, Joseph inquired which of all these denominations was right and which he should join, and was told they were all wrong—they had all gone astray, transgressed the laws, changed the ordinances and broken the everlasting covenant, and that the Lord was about to restore the priesthood and establish His Church, which would be the only true and living Church on the face of the whole earth.
 
-— George Albert Smith [Journal of Discourses 12:334](https://scriptures.byu.edu/#:t4e3f:j02c)
+— George Albert Smith [Journal of Discourses 12:334](https://scriptures.byu.edu/#:t1d500:j12)
 
 &nbsp;
 

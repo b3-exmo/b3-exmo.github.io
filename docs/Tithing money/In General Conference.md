@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 🗣️ In General Conference
 ### 1994
 > Some people say, “I can’t afford to pay tithing.” ==Those who place their faith in the Lord’s promises say, “I can’t afford not to pay tithing.”==

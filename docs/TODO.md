@@ -13,9 +13,12 @@ I have notes on these topics, but they aren't in a presentable condition. They'l
 -  Prophets
 	- [x] Joseph Smith
     - [ ] Brigham Young
+	    - [ ] Blood Atonement
     - [ ] Ezra Taft Benson
+	    - [ ] COMMUNISM
     - [ ] Wilford Woodruff
     - [ ] Gordon Hinckley
+	    - [ ] Ensign Peak
     - [ ] George A Smith
     - [ ] Thomas S Monson
     - [ ] Russel M Nelson
@@ -23,7 +26,7 @@ I have notes on these topics, but they aren't in a presentable condition. They'l
     - [ ] Comments from Modern Church Leadership
     - [ ] In Scripture
 - [x] Tithing: SEC & LDS Response
-- [ ] Emma Smith
+- [x] Emma Smith
 ### To be written
 Most of these topics I have some opinions on, dispositions, etc— maybe even some rudimentary notes. These are things I intend to expound on before publishing.
 
@@ -38,7 +41,7 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [x] Moving goalposts
 - [ ] Poetry
 - [ ] Questions to ask
-- [ ] Testimony, faith, bias
+- [x] Testimony, faith, bias
 - [x] Moroni's promise
 - [ ] Reading Material
 - [ ] Temple

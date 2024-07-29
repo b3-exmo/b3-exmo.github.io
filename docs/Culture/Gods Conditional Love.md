@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# ❤ God's Conditional Love
+# 💔 God's Conditional Love
 *Is God's love conditional?*
 
 Well, yes, but actually no.

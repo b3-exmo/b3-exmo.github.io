@@ -12,9 +12,9 @@ We can read the [1830 edition](https://www.josephsmithpapers.org/paper-summary/b
 
 &nbsp;
 
-> Since the 1837 version, the Church has published ==five additional major editions== of the Book of Mormon, all of which included slight changes to improve the clarity of the text. The Church’s ==Scripture Committee== is responsible for overseeing the editing process. They research corrections brought to their attention and then make recommendations. All recommendations and any subsequent changes are approved by the Council of the [First Presidency](https://newsroom.churchofjesuschrist.org/topic/organizational-structure-of-the-church) and Quorum of the Twelve Apostles, the highest governing body of the Church.
+> *Since the 1837 version, the Church has published ==five additional major editions== of the Book of Mormon, all of which included slight changes to improve the clarity of the text. The Church’s ==Scripture Committee== is responsible for overseeing the editing process. They research corrections brought to their attention and then make recommendations. All recommendations and any subsequent changes are approved by the Council of the [First Presidency](https://newsroom.churchofjesuschrist.org/topic/organizational-structure-of-the-church) and Quorum of the Twelve Apostles, the highest governing body of the Church.*
 > 
-> ==Almost 4,000 editing corrections have been made== to the Book of Mormon since the first publication in 1830. For example: the word _which_ has been changed to _who_ 891 times; _was_ has been changed to _were_ 162 times; and the word _that_ has been deleted 188 times. Other examples involve mistakes in the transcription process. While Joseph Smith and a scribe were translating in the book of Alma, for instance, the scribe misheard Joseph and wrote the word _whether_ instead of _wither_. This mistake, which was included in the first edition, changed the complexion of the sentence and caused confusion among readers. ==Each correction that has been made has aimed at aligning the text with the original translation==.
+> *==Almost 4,000 editing corrections have been made== to the Book of Mormon since the first publication in 1830. For example: the word which has been changed to who 891 times; was has been changed to were 162 times; and the word that has been deleted 188 times. Other examples involve mistakes in the transcription process. While Joseph Smith and a scribe were translating in the book of Alma, for instance, the scribe misheard Joseph and wrote the word whether instead of wither. This mistake, which was included in the first edition, changed the complexion of the sentence and caused confusion among readers. ==Each correction that has been made has aimed at aligning the text with the original translation==.*
 
 — [Understanding the Process of Publishing the Book of Mormon](https://newsroom.churchofjesuschrist.org/article/understanding-the-process-of-publishing-the-book-of-mormon#), Church Newsroom, January 2008
 
@@ -35,7 +35,7 @@ What really bothered me as a missionary is the idea that any of these changes we
 
 | Pre-2006                                                                         | Post-2006                                                                    |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| …the Lamanites, and they are ==the principal== ancestors of the American Indians | …the Lamanites, and they are ==among the== ancestors of the American Indians |
+| *…the Lamanites, and they are ==the principal== ancestors of the American Indians* | *…the Lamanites, and they are ==among the== ancestors of the American Indians* |
 
 Why did this get changed? Could it be due to criticism that Native American DNA shows little to no connection to the Middle East? If so, that suggests that the church isn’t going to double down on this claim.
 
@@ -69,9 +69,9 @@ FAIR [explains these changes](https://www.fairlatterdaysaints.org/conference/aug
 
 Moreover, in the chapters surrounding these excerpts of visions shown to Nephi, the text does use the phrases God the Father, the Lamb of God, and the Son of God. Meaning, each of those phrases were used in the same context. Were they referring to the same individual by three separate titles? If so, I'd find that confusing and a real cop-out explanation. 
 
-> **[24](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p24#p24)** . . . and I beheld ==the Son of God== going forth among the children of men;
+> **[24](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p24#p24)** *. . . and I beheld ==the Son of God== going forth among the children of men;*
 
-> **[31](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p31#p31)** . . . and I beheld ==the Lamb of God== going forth. . .
+> **[31](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p31#p31)** *. . . and I beheld ==the Lamb of God== going forth. . .*
 
 Same chapter, same page.
 
@@ -80,7 +80,7 @@ Yes, Jesus has been referred to by many titles throughout the ages, some more ma
 &nbsp;
 
 ## Perfection!
-> In preparing for this conference address, I had the glorious experience of quietly examining several pages of Joseph’s original manuscript of the Book of Mormon, which is safely protected in the Church archive. I was overwhelmed at the purity of the transcription, which had only a ==very few insignificant corrections==, such as a misspelled word. Joseph’s ==original manuscript is so perfect== it could only have come from one source—divine revelation.
+> *In preparing for this conference address, I had the glorious experience of quietly examining several pages of Joseph’s original manuscript of the Book of Mormon, which is safely protected in the Church archive. I was overwhelmed at the purity of the transcription, which had only a ==very few insignificant corrections==, such as a misspelled word. Joseph’s ==original manuscript is so perfect== it could only have come from one source—divine revelation.*
 
 — [The Translation Miracle of the Book of Mormon](https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12), Elder Robert K. Dellenbach Of the Seventy, General Conference April 1995
 

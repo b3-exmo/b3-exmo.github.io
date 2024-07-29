@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 😶‍🌫️ Theology
+# 🌩 Theology
 ## LDS God
 Quick note: For clarity's sake, I'm referring to God the Father as [Elohim](https://en.wikipedia.org/wiki/Elohim). That ~~name~~ word appears in [Hebrew](https://www.britannica.com/topic/Elohim) transcripts, and even in the [LDS Topical Guide](https://www.churchofjesuschrist.org/study/scriptures/tg/god-the-father-elohim?lang=eng). Its [etymology](https://www.theopedia.com/elohim) suggest that *El* may be singular, the suffix *-im* is plural and masculine. I surmise this is why the Nicaean Counsel took more than five minutes to settle on trinitarianism- the Hebrew transcripts are **not** monotheistic, as mentions of Elohim literally does not refer to one being, but a plurality of deities.
 

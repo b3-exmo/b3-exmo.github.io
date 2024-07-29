@@ -1,5 +1,5 @@
 ---
-comments:
+comments: true
 ---
 # 📜 Historians
 ## History

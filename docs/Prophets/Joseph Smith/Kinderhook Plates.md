@@ -49,6 +49,8 @@ How did the prophet of the restoration fall for this? We have "no translated tex
 
 Has the church tried to distance themselves from this? ... Would it surprise you if they used weasel words, along the lines of "no translated text" suggesting that no attempt of translation was ever done?
 
+&nbsp;
+
 Here are some excerpts from [Kinderhook Plates Brought to Joseph Smith Appear to Be a Nineteenth-Century Hoax](https://www.churchofjesuschrist.org/study/ensign/1981/08/kinderhook-plates-brought-to-joseph-smith-appear-to-be-a-nineteenth-century-hoax?lang=eng), Stanley B. Kimball, Ensign, August 1981.
 
 > *. . . a nineteenth-century attempt to lure Joseph Smith into making a translation of ancient-looking characters that had been etched into the plates.*
@@ -63,13 +65,11 @@ As soon as the translation is completed, you say? Does that mean the translation
 
 Also, the facsimiles of the plates appear to have been published. If the source material for a translation is readily available, like being published in a news press, and then viewers can examine the finished product, questions might arise. Uncomfortable questions. Folks who might try to independently reproduce those results.
 
+&nbsp;
+
 > *Although this account ==appears to be the writing of Joseph Smith==, it is actually ==an excerpt from a journal of William Clayton==. It has been well known that the serialized “History of Joseph Smith” consists largely of items from other persons’ personal journals and other sources, collected during Joseph Smith’s lifetime and continued after the Saints were in Utah, then edited and pieced together to form a history of the Prophet’s life “in his own words.”*
 
-Oh. How convenient. Joseph's mention of starting to translate the prank-plates wasn't even Joseph writing it. In fact, it's clearly so far displaced from Joseph, that this preposterous accusation doesn't even need a [gospel topics essay](https://www.churchofjesuschrist.org/study/history/topics/kinderhook-plates?lang=eng) to defend it. 
-
-It has been well known, as Stanley Kimball states, that the *History of Joseph Smith* isn't actually about Joseph Smith. You know, following that trend that the kids are into nowadays when they write a biography and it isn't about who's on the cover, or named in the title.
-
-Fortunately for us, we live in [current year], so we can look into that claim.
+Oh. How convenient. Joseph's mention of starting to translate the prank-plates wasn't even Joseph writing it. In fact, it's clearly so far displaced from Joseph, that this preposterous accusation doesn't even need a [gospel topics essay](https://www.churchofjesuschrist.org/study/history/topics/kinderhook-plates?lang=eng) to defend it. It has been well known, as Stanley Kimball states, that the *History of Joseph Smith* isn't actually about Joseph Smith. You know, following the trend that the kids are into nowadays when they write a biography and it isn't about who's on the cover, or named in the title. Fortunately for us, we live in [current year], so we can look into that claim.
 
 &nbsp;
 

@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# ⁉ Anachronisms
+# ❓ Anachronisms
 > . . . I spoke with a good friend, not a member of the Church. He said he had ==a list of 50 anachronisms== in the Book of Mormon that demonstrated the book was a nineteenth-century invention. An anachronism refers to something that is chronologically out of place, a bit like saying Julius Caesar drove his SUV into Rome. Well, I told my friend that ==he was too late, for I had received a witness of the truth== of the Book of Mormon. But I said to him, “Give me your list, and I will keep it.” I did keep that list, and over the years, as more research was done by various academics, one item after another dropped off the list.
 >
 > A few years ago when I was speaking to a group at Cornell University, I mentioned my list and noted that, after these many years, only one item remained. After my presentation a distinguished professor said to me, “You can remove your last item, for ==our studies indicate that it is not an anachronism==.”

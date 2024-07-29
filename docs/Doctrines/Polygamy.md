@@ -9,7 +9,7 @@ comments: true
 >
 > *==The only men who [[Becoming Gods|become Gods]], even the Sons of God, are those who enter into polygamy==. Others attain unto a glory and may even be permitted to come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to accept them.*
 
-— _[Beneficial Effects of Polygamy, Journal of Discourses 11:269](https://scriptures.byu.edu/#:t4e3f:j02c)_, Brigham Young
+— *[Beneficial Effects of Polygamy, etc]; Brigham Young, [Journal of Discourses 11](https://scriptures.byu.edu/jod/pdf/JoD11/JoD11.pdf):269
 
 &nbsp;
 
@@ -22,13 +22,13 @@ comments: true
 ### God is polygamist, too
 > *Yes, [polygamy is] one of the relics of Adam, of Enoch, of Noah, of Abraham, of Isaac, of Jacob, of Moses, David, Solomon, the Prophets, ==of Jesus, and his apostles==.*
 
-— _[The Improved Condition of the Saints, etc, Journal of Discourses 11:328](https://scriptures.byu.edu/#:t4e3f:j02c)_, Brigham Young
+— *[The Improved Condition of the Saints, etc]; Brigham Young, [Journal of Discourses 11](https://scriptures.byu.edu/jod/pdf/JoD11/JoD11.pdf):328
 
 &nbsp;
 
 > *The Scripture says that ==He, the Lord==, came walking in the Temple, with His train; I do not know who they were, unless ==His wives== and children; but at any rate they filled the Temple, and how many there were who could not get into the Temple I cannot say. This is the account given by Isaiah, whether he told the truth or not I leave every body to judge for himself.*
 
-— _[Gathering the Poor—Religion a Science, Journal of Discourses 13:309](https://scriptures.byu.edu/#:t4e3f:j02c)_, Brigham Young
+— *[Gathering the Poor—Religion a Science, Journal of Discourses 13:309](https://scriptures.byu.edu/#:t4e3f:j02c)*, Brigham Young
 
 ---
 
@@ -99,7 +99,7 @@ Based off that data, here’s the numbers that I got:
     - Total married women under 18: 5,310 (0.8%).
     - Total married women who were married before 18: 107, 283 (16%)
 
-_From <_[_https://www.mormondialogue.org/topic/67255-teen-age-marriage-ages-of-the-late-1800s/_](https://www.mormondialogue.org/topic/67255-teen-age-marriage-ages-of-the-late-1800s/)_>_
+*From <[https://www.mormondialogue.org/topic/67255-teen-age-marriage-ages-of-the-late-1800s/](https://www.mormondialogue.org/topic/67255-teen-age-marriage-ages-of-the-late-1800s/)>*
 
 &nbsp;
 
@@ -135,7 +135,7 @@ In early church membership there were more men than women (see above). Polygamy 
 ## Angel with a Sword vs Joseph Smith
 > *When God commands a difficult task, He sometimes sends additional messengers to encourage His people to obey. Consistent with this pattern, Joseph told associates that an angel appeared to him three times between 1834 and 1842 and commanded him to proceed with plural marriage when he hesitated to move forward. During the third and final appearance, the angel came with a drawn sword, threatening Joseph with destruction unless he went forward and obeyed the commandment fully.*
 
-— _[Gospel Topics Essay: Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng)_
+— *[Gospel Topics Essay: Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng)*
 
 I can think of no other time in church history that a religious leader was threatened with a violent death from God if he did not follow a commandment, let alone a commandment that was morally dubious at best, and goes against social & cultural norms. “I’ve got to do this illegal thing, or else an angel with a sword that only I saw will destroy me!”
 
@@ -170,12 +170,12 @@ Seems odd to me that the pivotal figure in restoring the church would be “damn
 
 > *The time arrived; but Joseph, in virtuous desperation, concluded rather to flee the city than be the medium of communicating a matter so repugnant to his mind. He mounted his horse and galloped from the town, but was met by ==an angel with a drawn sword, and threatened with instant destruction== unless he immediately returned and fulfilled his mission.*
 
-I can’t claim to understand motivation or reasoning behind this, but that seems pretty uncharacteristic of God to arrange that encounter. [God’s work cannot be frustrated](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng&id=p1#p1), _unless_ the one individual called to restore the Gospel hesitates when being told to get bangin' your wife.
+I can’t claim to understand motivation or reasoning behind this, but that seems pretty uncharacteristic of God to arrange that encounter. [God’s work cannot be frustrated](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng&id=p1#p1), *unless* the one individual called to restore the Gospel hesitates when being told to get bangin' your wife.
 
 &nbsp;
 
 ## “Well, if he fuckin’, then why no [babby](https://www.youtube.com/watch?v=39lHPHs8bV8)?”
-It seems to me that we don’t have _solid_ info as to why, but we have a lot of suspicious circumstantial evidence.
+It seems to me that we don’t have *solid* info as to why, but we have a lot of suspicious circumstantial evidence.
 
 Consider some possible reasons.
 
@@ -187,7 +187,7 @@ John C Bennett was in the equivalent of the church’s first presidency at Nauvo
 
 > *… he had promised to give his victims “medicine to produce abortions, providing they should become pregnant.”*
 
-— _[Joseph Smith, John C. Bennett, and the Extradition Attempt, 1842](https://rsc.byu.edu/joseph-smith-prophet-seer/joseph-smith-john-c-bennett-extradition-attempt-1842)_, BYU Religious Studies Center
+— *[Joseph Smith, John C. Bennett, and the Extradition Attempt, 1842](https://rsc.byu.edu/joseph-smith-prophet-seer/joseph-smith-john-c-bennett-extradition-attempt-1842)*, BYU Religious Studies Center
 
 **I haven’t encountered any direct evidence** that Bennett did perform abortions, but for him to be so close to Joseph Smith and being willing to perform abortions for Joseph seems likely. The above quote is what I will call strong circumstantial evidence.
 
@@ -208,7 +208,7 @@ There are numerous documents to suggest that Joseph Smith did not practice polyg
 
 We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is ==not== up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis. #TODO 
 
-Let’s assume that accusations against JS are exaggerated or outright fabricated. We then have to contend with the 2nd and 3rd presidents of the church. Did God command _them_ to do it? Did they use JS as justification? If there was explicit revelation from God to do that, do we have a record of it? General conference, Journal of Discourses, D&C entry, book of commandments, anything of the sort?
+Let’s assume that accusations against JS are exaggerated or outright fabricated. We then have to contend with the 2nd and 3rd presidents of the church. Did God command *them* to do it? Did they use JS as justification? If there was explicit revelation from God to do that, do we have a record of it? General conference, Journal of Discourses, D&C entry, book of commandments, anything of the sort?
 
 If no, then we have a problem.
 
