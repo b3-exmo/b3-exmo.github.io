@@ -34,7 +34,7 @@ Let’s first examine two possibilities. Tell me if other outcomes are feasible.
 
 Which of these options is more likely? Are there middle ground scenarios to consider?
 
-(To be clear, I can get behind the idea of the US Govt as a whole being villainous. Please don't think I'd defend them, particularly after this past tax season.)
+(To be clear, I can get behind the idea of the US Govt as a whole being villainous. Please don't think I'd defend them, particularly within proximity to tax season.)
 
 I'll introduce the debacle with the church's take on things. They employ lots of "weasel words" to obfuscate what happened, minimize its impact, and present it in an innocuous way. Reading it, keep count of how many "non-specific" things they say. We'll later [[#Phrasing comparison|compare]] that to what the SEC says about the fine.
 
@@ -45,11 +45,13 @@ I'll first reiterate that I have no legal authority or training, I'm a dork with
 
 > *The Church of Jesus Christ of Latter-day Saints and its ==affiliated investment manager==, Ensign Peak Advisors, Inc., have ==settled a matter== with the Securities and Exchange Commission (SEC).*
 
-First, I'd emphasize some highlights here: "affiliated", past tense verb, likely means "to become part of or form a close relationship with a group or organization", or as a noun is "an organization that is officially connected with or controlled by another, usually larger, organization."
+First, I'd emphasize some highlights here: "affiliated" as a past tense verb likely means "to become part of or form a close relationship with a group or organization", or as a noun is "an organization that is officially connected with or controlled by another, usually larger, organization."
 
 "Affiliated" probably doesn't mean "preferred," or "my nephew owns this and I'll support family business." This is a transactional relationship. Ensign Peak Advisors (EPA) may not be [a subsidiary](https://www.investopedia.com/ask/answers/06/subsidiaries.asp) of the church, but EPA certainly doesn't exist independent of it.
 
-Other point to emphasize is the choice of words in "settled a matter." My understanding of settling, in a legal context, is that it's a viable alternative to going to court. It's faster, cheaper, and avoids public appearance. Much more preferable if a defendant is not made out of money, or has a strong interest in maintaining its public image. It does carry some legal implications of skirting accountability; one effect is "we'll just slip you some cash under the table, and both walk away." It doesn't admit fault, nor result in further punitive charges. Outside a legal context, settling sounds like an innocuous way to reach resolution where both parties are satisfied.
+**If** the church is innocent, truthful, [not trying to hide anything](https://youtu.be/yXFjhU7UzoI?si=Oh_NBHX27OLmUfmH&t=72), **why did they pay the fine?**
+
+Outside a legal context, settling sounds like an innocuous way to reach resolution where both parties are satisfied. Within a legal context, settling sure sounds like demands have been met, and the accused has done something to satisfy the accuser outside the scope of a courthouse. Someone who actually understands legal intricacies would be a better commentator on this terminology.
 
 &nbsp;
 

@@ -59,7 +59,19 @@ Don’t exclude verse 27, though:
 
 > *Wherefore, my brethren, hear me, and hearken to the word of the Lord: For there shall not any man among you have save it be one wife; and concubines he shall have none;*
 
----
+&nbsp;
+
+> *During the era in which plural marriage was practiced, Latter-day Saints distinguished between sealings for time and eternity and sealings for eternity only. ==Sealings for time and eternity included== commitments and relationships during this life, generally including the possibility of ==sexual relations==. Eternity-only sealings indicated relationships in the next life alone.* 
+> 
+> *==Evidence indicates that Joseph Smith participated in both types of sealings==. sealings. The exact number of women to whom he was sealed in his lifetime is unknown because the evidence is fragmentary. Some of the women who were sealed to Joseph Smith later testified that their marriages were for time and eternity, while others indicated that their relationships were for eternity alone.*
+
+— *[Joseph Smith and Plural Marriage](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng)*, Plural Marriage in Kirtland and Nauvoo, Gospel Topics Essay
+
+I remain baffled by the differentiation between *time and eternity* and just regular ol' *eternity*. Why. Are the two mutually exclusive? Does eternity, the notion of endless time, exist without time? How in the hell does that conundrum then translate to "commitments and relationships during this life"? Does this life not qualify as part of infinite time? I guess not, because somehow Joseph Smith will use that as an explanation for why plural marriage definitely doesn't imply anything else that marriage implies.
+
+[Footnote 25](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng#note25) at the end of the above excerpt reads "it is possible he fathered two or three children with plural wives." 
+
+&nbsp;
 
 ## Census analysis
 Marrying fourteen-year-olds is not normal today. Don’t tell me It was normal in Joseph Smith’s time, though. I’ll concede that yes, humans under 18 did get married, even at ages like 14.
@@ -133,11 +145,11 @@ In early church membership there were more men than women (see above). Polygamy 
 &nbsp;
 
 ## Angel with a Sword vs Joseph Smith
-> *When God commands a difficult task, He sometimes sends additional messengers to encourage His people to obey. Consistent with this pattern, Joseph told associates that an angel appeared to him three times between 1834 and 1842 and commanded him to proceed with plural marriage when he hesitated to move forward. During the third and final appearance, the angel came with a drawn sword, threatening Joseph with destruction unless he went forward and obeyed the commandment fully.*
+> *When God commands a difficult task, He sometimes sends ==additional messengers to encourage His people to obey==. Consistent with this pattern, Joseph told associates that ==an angel appeared to him== three times between 1834 and 1842 and ==commanded him to proceed with plural marriage== when he hesitated to move forward. During the third and final appearance, the ==angel came with a drawn sword, threatening Joseph with destruction== unless he went forward and obeyed the commandment fully.*
 
 — *[Gospel Topics Essay: Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng)*
 
-I can think of no other time in church history that a religious leader was threatened with a violent death from God if he did not follow a commandment, let alone a commandment that was morally dubious at best, and goes against social & cultural norms. “I’ve got to do this illegal thing, or else an angel with a sword that only I saw will destroy me!”
+I can think of no other time in church history that a religious leader was threatened with a violent death from God if he did not follow a commandment, let alone a commandment that was morally dubious at best, and goes against social & cultural norms. “I’ve *got* to do this illegal thing, or else an angel with a sword that only I saw will destroy me!”
 
 Footnote to cite the above claim is as follows:
 
@@ -174,7 +186,53 @@ I can’t claim to understand motivation or reasoning behind this, but that seem
 
 &nbsp;
 
-## “Well, if he fuckin’, then why no [babby](https://www.youtube.com/watch?v=39lHPHs8bV8)?”
+> *The following accounts help to clarify the feelings of the Prophet Joseph Smith and other Church members when plural marriage was first introduced.*
+> 
+> *==Eliza R. Snow==, who was sealed to the Prophet Joseph Smith, recorded the details of the Prophet Joseph teaching the ==principle of plural marriage== to her brother Lorenzo Snow. She noted the anguish and pain that the principle caused Joseph Smith and that he only moved forward in establishing the principle because of divine revelation:*
+>
+> > *“The Prophet Joseph unbosomed his heart [to Lorenzo Snow], and described the trying mental ordeal he experienced in overcoming the repugnance of his feelings, the natural result of the force of education and social custom, relative to the introduction of ==plural marriage==. He knew the voice of God—he knew the commandment of the Almighty to him was to go forward—to set the example, and ==establish Celestial plural marriage==. He knew that he had not only his own prejudices and prepossessions to combat and to overcome, but those of the whole Christian world stared him in the face; but God, who is above all, had given the commandment, and He must be obeyed. Yet the Prophet hesitated and deferred from time to time, until ==an angel of God stood by him with a drawn sword, and told him that, unless he moved forward and established plural marriage, his Priesthood would be taken from him and he should be destroyed!== This testimony he not only bore to my brother, but also to others—a testimony that cannot be gainsayed [contradicted]” (Biography and Family Record of Lorenzo Snow [1884], 69–70).*
+
+— *[Commentary and Background Information](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-6/lesson-140-doctrine-and-covenants-132-1-2-34-66?lang=eng&id=figure1_p8#figure1_p8)* , Lesson 140: Doctrine and Covenants 132:1–2, 34–66; Doctrine and Covenants and Church History Seminary Teacher Manual
+
+&nbsp;
+
+As an added bonus, in that same lesson in the teacher manual:
+
+> ***Avoid speculation.***
+> 
+> *Do not speculate about whether plural marriage is a requirement for the celestial kingdom. We have no knowledge that plural marriage will be a requirement for exaltation.*
+
+&nbsp;
+
+## Polygamous marriages weren't sexual!
+How confident are we that this is the case?
+
+One thing we need to agree on, irrespective of which side of the issue you stand, is a success criteria. How much information is enough? What information would definitively settle the question?
+
+If the only thing that will settle this dispute is a journal account from Eliza R Snow that reads "yeah, Smith had this massive hog and got real freaky, kept going all night and I couldn't walk straight the next day 🥴" then you're not going to find that. If you're looking for a public sermon clarifying that "in case any of you were wondering, my relationships with Helen Kimball involve no penetrative sex. Just wanted to clear the air and get that out there," you won't find that either.
+
+What you might find instead are affidavits of [[Meat commerce|carnal intercourse]], being married "in the very deed," which are much more euphemistic. I don't know how many ambiguous ways one could interpret that.
+
+&nbsp;
+
+### How important is this issue?
+I've encountered some folks, missionaries in particular, who will assert that what Joseph did shouldn't have a deep enough impact on us today. Did he have sex with teenagers? Maybe— the more pressing issue is, if yes, or if no, how does that affect our lives today under President Nelson?
+
+I don't need to spend a whole lot of time on this, but... The priesthood lineage all traces back to Joseph. If he was called of God to be a prophet, I should damn well be able to expect him to act like one. If a teenager gets a bit too handsy with their romantic interest, any Aaronic priesthood that was present is removed until they confess to the local bishop. They are [[Culture/index#Worthiness|no longer authorized]] to pass, prepare, nor bless sacrament or perform baptisms until they are deemed worthy again. **Why** then, in the ever-loving shit, is the prophet of the restoration held to a different, remarkably lower standard? If he isn't worthy of the priesthood office he held, wouldn't that mean anyone following after isn't really acting by God's authority? Because that's the exact scenario I distinctly remember being drilled on as a teenager in Sunday school. Was that just a shame tactic without any doctrinal basis? Because if it holds up, Joseph wasn't a worthy priesthood holder.
+
+We could spend a lot of time bantering about whether or not a church leader 200 years ago had a boner or not. Extant records don't explicitly state. One Lindsay Hansen Park describes that settling this disagreement isn't nearly as important as understanding the impact of what we can demonstrably prove:
+
+> [What matters here] is the power, not the situation. It's the person using you, manipulating you— that's what happened to Helen Mar, whether she slept with him or not. ... What I'm saying is that in this context, this is about power. So when we argue whether he did or didn't have sex with Helen Mar, I say it doesn't matter. ==He took her life away==.
+
+— *[Marrying underage girls was about power](https://www.youtube.com/watch?v=83LTNf9TM4Y)*, Lindsay Hansen Park, Mormon Stories Podcast
+
+&nbsp;
+
+Helen was a teenager, and had aspects of teenaged life taken away, now that she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things— simply socializing with friends is now completely different. In what ways does a 15-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What if a teenager just gets pushed straight into the "age 35" category?
+
+&nbsp;
+
+### “Well, if he fuckin’, then why no [babby](https://www.youtube.com/watch?v=39lHPHs8bV8)?”
 It seems to me that we don’t have *solid* info as to why, but we have a lot of suspicious circumstantial evidence.
 
 Consider some possible reasons.

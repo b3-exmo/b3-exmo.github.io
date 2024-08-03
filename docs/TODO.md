@@ -5,6 +5,13 @@ comments: true
 ## Functional
 
 - [ ] Book of Mormon Edition Changes
+- [ ] Readability
+	- [ ] Ellipses correction
+	- [ ] Indentation
+
+I'm not entirely certain, but I think I might be using ellipses improperly for a text medium. Ought to check.
+
+Also, indenting paragraphs should make the notes feel a lot less like a wall of text rambles.
 
 ## Topics
 ### To be added
@@ -12,9 +19,9 @@ I have notes on these topics, but they aren't in a presentable condition. They'l
 
 -  Prophets
 	- [x] Joseph Smith
-    - [ ] Brigham Young
-	    - [ ] Blood Atonement
-    - [ ] Ezra Taft Benson
+    - [x] Brigham Young
+	    - [x] Blood Atonement
+    - [x] Ezra Taft Benson
 	    - [ ] COMMUNISM
     - [ ] Wilford Woodruff
     - [ ] Gordon Hinckley
@@ -46,7 +53,7 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] Reading Material
 - [ ] Temple
 - [ ] Conflation
-- [ ] Anti
+- [ ] "Anti"
 - [ ] Word of Wisdom
 - [ ] Whitewashing History
 - [ ] State of Utah
@@ -66,3 +73,4 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] Apostles
 - [ ] Membership & attendance statistics
 - [ ] Temple worthiness
+- [ ] Korihor / Antichrist

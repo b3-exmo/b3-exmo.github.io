@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Ezra Taft Benson
+# 🇺🇸 Ezra Taft Benson
 See also: [[Fourteen Fundamentals in Following the Prophet]]
 
 ## Race

@@ -55,6 +55,7 @@ I guess we can take comfort in knowing that we have two pre-conditions before th
 If you are like me and have the attention span of a toddler with an iPad, you'd probably prefer a short-form audio-video medium to summarize the upcoming notes. Good news, I've got just the video for you!
 
 [![[jonathan-frakes-never-happened.gif]]](https://youtu.be/GM-e46xdcUo)
+
 [jonathan frakes telling you you're wrong for 47 seconds](https://youtu.be/GM-e46xdcUo)
 
 &nbsp;
@@ -243,6 +244,10 @@ I'm not about to advocate that any of these are good or harmless, but... Decidin
 > *These are my views, and the Lord knows that I believe in the principles of sanctification; and when I am guilty of seducing any man's wife, or any woman in God's world, ==I say, sever my head from my body==.*
 
 — [Sanctification](https://scriptures.byu.edu/#:t11173:j07); Heber C. Kimball, [Journal of Discourses 7](https://scriptures.byu.edu/jod/pdf/JoD07/JoD07.pdf):18
+
+&nbsp;
+
+"Wipe out" is a lot less explicit than "I'm about to give you some height-reduction surgery". However, threatening to wipe out evil abominations from existence doesn't seem so veiled. I don't feel like that's got much plausible deniability.
 
 &nbsp;
 
