@@ -2,7 +2,6 @@
 comments: true
 ---
 # 😬 Anxiety
-
 "Why are all these kids struggling with anxiety today?" — A nonspecific church authority, probably
 
 >*In this course, you will learn how to be a good steward of the things you have been blessed with. This lesson is all about using time. God has given you agency to use your time as you choose, but he warns us not to “idle away thy time” ([D&C 60:13](https://www.lds.org/scriptures/dc-testament/dc/60.13?lang=eng)) because ==you will have to stand before God one day and give an account of what you did with your time==. You will have to provide a stewardship of the time, talents, and blessings that the Lord has given you.*

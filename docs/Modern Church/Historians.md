@@ -9,6 +9,8 @@ comments: true
 
 This interview took place in 2013, while Elder Snow was the official church historian. His remarks do raise a question in my mind, though- what is this "pattern" that we can't continue?
 
+That is rhetorical, of course- he says right there that the unsustainable practice is to "keep records closed" or "not give access to information." Tell me I'm wrong.
+
 &nbsp;
 
 The office of Historian has some [unusual background](https://en.wikipedia.org/wiki/Church_Historian_and_Recorder) in itself! There is what I would call a suspicious pattern of God calling only lawyers to fill the space. You know, folks whose livelihood and profession revolves around their ability to spin truth, argue and defend the indefensible? Seem odd to anyone else? The Lord works in mysterious ways, I suppose. Wouldn't we want a historian to serve in this capacity?

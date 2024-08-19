@@ -3,7 +3,7 @@ comments: true
 ---
 # 🔎Audits
 ## Financial Audits
->_Based upon audits performed, the Church Auditing Department is of the opinion that, in all material respects, contributions received, expenditures made, and assets of the Church for the year 2008 have been recorded and administered in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures._
+>_Based upon audits performed, the Church Auditing Department is of the opinion that, in all material respects, contributions received, expenditures made, and assets of the Church for the year [2008] have been recorded and administered in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures._
 
 — Last paragraph found in and after 2004's Auditing Department Reports
 
@@ -20,7 +20,7 @@ They're used to determine if whatever enterprise, project, or organization is fo
 
 Financial audits would compare operations against accounting practices, for example. [GAAP](https://www.accounting.com/resources/gaap/) is an acronym for "generally accepted accounting principles," not to be confused with [Gäap](https://en.wikipedia.org/wiki/Gaap), one of [72 demons](https://en.wikipedia.org/wiki/The_Lesser_Key_of_Solomon#The_seventy-two_demons) listed in a grimoire on sorcery. GAAP are like a minimal industry standard for bookkeeping, among other practices.
 
-An internal audit is easy enough; the org asks itself "are we following the rules? If no, we can correct ourselves before someone finds out— no harm done." When you and I hear internal audit reports, we can take them at face value, or look for an *external audit*, where a third-party checks the operations to see if this org is following the rules. External (or independent) audits carry more weight and credibility, since the conductors don't really have a vested interest in the organization passing the audit. Internal auditors could ostensibly "tilt the scales" as it were, because their paycheck depends on the organization passing. External audits require the organization to locate and hire an auditing contractor. It costs money, and exposes internal, potentially confidential information for the auditor to examine.
+An internal audit is easy enough; the org asks itself "are we following the rules? If not, we can correct ourselves before someone finds out— no harm done." When you and I hear internal audit reports, we can take them at face value, or look for an *external audit*, where a third-party checks the operations to see if this org is following the rules. External (or independent) audits carry more weight and credibility, since the conductors don't really have a vested interest in the organization passing the audit. Internal auditors could ostensibly "tilt the scales" as it were, because their paycheck depends on the organization passing. External audits require the organization to locate and hire an auditing contractor. It costs money, and exposes internal, potentially confidential information for the auditor to examine.
 
 You could ask a child if they took from the cookie jar, or you could check the security camera footage.
 

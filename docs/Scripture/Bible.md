@@ -8,11 +8,11 @@ comments: true
 
 — _[8th Article of Faith](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p8#p8)_
 
-What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#Joseph Smith Translation|JST]] address all of them, and the LDS Standard Works OT & NT are now “translated correctly”? I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in.
+What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#Joseph Smith Translation|JST]] address all of them, and the LDS Standard Works OT & NT are now “translated correctly”? I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in. I should also think that the church led by God's chosen prophets wouldn't perpetuate and republish mistranslated directives from God.
 
-Without clarification, it sounds like this gives the church permission to repudiate specific parts, as if “that’s one of the mistranslated parts” but what supports our existing doctrine is translated fine.
+Without any clarification, it sounds like this gives the church permission to repudiate specific parts, as if “that’s one of the mistranslated parts” but what supports our existing doctrine is translated fine.
 
-The passage specifying that [women aren't allowed to speak](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=eng&id=p34#p34) in meetings? Nah, that's a mis-translation. That whole [Stick of Judah](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng&id=p16#p16) thing, though, they nailed that one. Inspired writing, it is!
+The passage specifying that [women aren't allowed to speak](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=eng&id=p34#p34) in meetings? Nah, that's a mis-translation. To our modern sensibilities, it's both unambiguous and discriminatory. That whole symbolic [Stick of Judah](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng&id=p16#p16) thing, though, they nailed that one. Inspired writing, it is! Just the right level of vague.
 
 &nbsp;
 

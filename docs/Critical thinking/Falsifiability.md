@@ -2,8 +2,9 @@
 comments: true
 ---
 # 👎 Falsifiability
-
 Apologies in advance if these examples sound condescending or reductive. I'm using them for illustrative purposes to make sure we're on the same page, you and I. That said, I'm likely going to make a fool of myself here; I don't count myself well-versed in philosophy, I just have an internet connection.
+
+&nbsp;
 
 ## What is it?
 > *A [theory](https://en.wikipedia.org/wiki/Scientific_theory "Scientific theory") or [hypothesis](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis") is **falsifiable** (or **refutable**) if it can be logically contradicted by an [empirical test](https://en.wikipedia.org/wiki/Empirical_test "Empirical test").*
@@ -51,9 +52,9 @@ See also: https://philosophyterms.com/law-of-falsifiability/
 &nbsp;
 
 ## Why is it important?
-If a claim **can** be refuted, or proven "false", it carries more value. As Sagan described in the conclusion of his thoughts on the ethereal dragon, "what's the difference between an intangible dragon and no dragon at all?" A claim carries more weight if it could theoretically be proven false. If there's a failure criteria that exists, but is not met, that lends credence toward proof.
+If a claim **can** be refuted, or proven "false", it carries more value. As Sagan described in the conclusion of his thoughts quoted above, "what's the difference between an intangible dragon and no dragon at all?" A claim carries more weight if it could theoretically be proven false. If there's a failure criteria that exists, but is not met, that lends credence toward proof.
 
-If the contents of the Book of Abraham were found in scrolls found in a sarcophagus sold to Joseph Smith, that's a big deal. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[Logical fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, this is a falsifiable claim. An independent examination could go one of two ways:
+If the contents of the [[Book of Abraham]] were found in scrolls found in a sarcophagus sold to Joseph Smith, that's a big deal. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[Logical fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, this is a falsifiable claim. An independent examination could go one of two ways:
 
 1. Joseph Smith nailed that translation! For him to happen upon those scrolls is nothing short of divine intervention, and those resultant teachings prove Mormonism to be true.
 2. The Book of Abraham has absolutely nothing to do with the contents of those scrolls, which modern scholars can reliably, accurately, demonstrably translate. This calls into question other claims that the LDS church made.

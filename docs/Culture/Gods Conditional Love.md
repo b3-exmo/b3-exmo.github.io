@@ -21,11 +21,11 @@ To be clear, Nelson in the quoted section seems to be focusing on the conditiona
 ### Is that a problem?
 Yes, that's a problem.
 
->*Conditional love teaches children that they are only worthy and deserving of love if they behave in ways that please the parents, not just for being themselves. They learn that their true self is wrong, bad, and undeserving of love. This affects their self-worth, their self-esteem, and their ability to create and maintain social connections.*
+> *Conditional love teaches children that they are only worthy and deserving of love if they behave in ways that please the parents, not just for being themselves. They learn that their true self is wrong, bad, and undeserving of love. This affects their self-worth, their self-esteem, and their ability to create and maintain social connections.*
 >
 > *. . .*
 >
->*Parents who love their children unconditionally teach them that the world is safe. When parents reject their children through conditional love, it teaches them that the world is not safe and that they can expect rejection. These children then grow up believing that they will be abandoned and rejected.*
+> *Parents who love their children unconditionally teach them that the world is safe. When parents reject their children through conditional love, it teaches them that the world is not safe and that they can expect rejection. These children then grow up believing that they will be abandoned and rejected.*
 >
 >*. . .*
 >
@@ -82,9 +82,9 @@ Nelson's [[#Yes, it's conditional!|talk]] does outline [more examples like this]
 &nbsp;
 
 ### Anyone else teach this?
-I haven't looked outside of Mormonism for an answer to that, but I can observe that [[#Yes, it's conditional!|address from Elder Nelson]] is an easy target to wail on for teaching the idea that divine love is conditional. For what it's worth, Nelson isn't the only one to teach that.
+I haven't looked outside of Mormonism for an answer to that, but I can observe that [[#Yes, it's conditional!|this address from Elder Nelson]] is an easy target to wail on for teaching the idea that divine love is conditional. For what it's worth, Nelson isn't the only one to teach that.
 
->*There are many ways to describe and speak of divine love. One of the [[#Maybe it's actually unconditional*?|terms we hear often today]] is that God’s love is “unconditional.” While in one sense that is true, the descriptor unconditional appears nowhere in scripture. Rather, His love is described in scripture as “great and wonderful love,” “perfect love,” “redeeming love,” and “everlasting love.” These are better terms because the word unconditional can convey mistaken impressions about divine love, such as, God tolerates and excuses anything we do because His love is unconditional. . .*
+>*There are many ways to describe and speak of divine love. One of the [[#Maybe it's actually unconditional*?|terms we hear often today]] is that God’s love is “unconditional.” While in one sense that is true, the descriptor unconditional appears nowhere in scripture. ... [T]he word unconditional can convey mistaken impressions about divine love, such as, God tolerates and excuses anything we do because His love is unconditional. . .*
 
 — *["Abide in My Love"](https://www.churchofjesuschrist.org/study/general-conference/2016/10/abide-in-my-love?lang=eng&id=p4#p4)*, D. Todd Christofferson, General Conference October 2016
 

@@ -10,11 +10,6 @@ I'll include here some excerpts from the article that I found particularly notew
 
 &nbsp;
 
-Oh, but one other note before continuing... 
-
-
-&nbsp;
-
 ## Notes
 > *A whistleblower revealed a few years ago that the [Church of Jesus Christ of Latter-day Saints had an estimated $100 billion investment portfolio](https://archive.is/o/BbqbV/https://www.wsj.com/articles/the-mormon-church-amassed-100-billion-it-was-the-best-kept-secret-in-the-investment-world-11581138011), and ==at the time==, church officials called the holdings a rainy-day account.*
 
@@ -56,7 +51,7 @@ This can't be understated; 46 billion is a *subset*.
 
 > *The church also has misstated its assets on federal tax returns. On its 2007 return, Ensign Peak put down “1,000,000” for its total assets. ==The real number was about $38,000,000,000, an Ensign Peak document shows==. In later years, ==Ensign Peak wrote “over 1,000,000” on its returns==. The church followed the same practices on its own IRS returns, where it reports business income unrelated to its tax-exempt mission.*
 
-[![](https://archive.ph/eXtuj/78cb06ee7b6e0d5b6e9ca682867ed81c2cc25a54.jpg)](https://archive.ph/eXtuj/78cb06ee7b6e0d5b6e9ca682867ed81c2cc25a54.jpg)
+![[1mill.jpg]]
 *ayyy don't worry so much, it was only off by 37,999,000,000.*
 
 But don't worry, they recognize mistakes and regret mistakes.

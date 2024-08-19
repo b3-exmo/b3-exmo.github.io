@@ -75,6 +75,8 @@ If you, dear reader, have had an interaction like the above quote from Nelson co
 
 Here's a [side-by-side video comparison](https://www.youtube.com/watch?v=2lKQrYUE3yc) of Hinckley vs Nelson's arguments on the matter.
 
+&nbsp;
+
 ### What offends God?
 > *However, it ultimately is impossible for another person to offend you or to offend me. Indeed, believing that another person offended us is fundamentally false. ==To be offended is a choice we make==; it is not a condition inflicted or imposed upon us by someone or something else.*
 
@@ -124,13 +126,15 @@ We can't really read tone through text. Is Smith's comment resentful of the name
 ## “I’m a Mormon” campaign
 Honestly. Unironically. Demonstrate to me that calling someone “Mormon” was offensive between the Brighamite sect break-off and 2018. Did any of the "Mormon pioneers" get in a huff and correct Omaha residents by asserting "we're actually 'a member of the church of Jesus Christ of latter-day saints' pioneers"?
 
-If you can demonstrate that "Mormon" was a mean-spirited derogatory slur at some point in time, I will demonstrate a multi-million dollar marketing campaign going in the opposite direction, leaning into the nickname and actively promoting that LDS members should be called Mormons. This campaign included ads in those huge screens on Times Square.
+If you can demonstrate that "Mormon" was a mean-spirited derogatory slur at some point in time, I will direct your attention to a multi-million dollar marketing campaign going in the opposite direction, leaning into the nickname and actively promoting that LDS members should be called Mormons. This campaign included ads in those huge screens on Times Square.
 
 The *I’m a Mormon* campaign was really the centerpiece of my mission. Those were THE pass-along cards I was given to distribute. I had DVDs to hand out of that feature-length documentary. I would bring investigators to the visitor’s center with the explicit intent and purpose of showing them the cool rooms fashioned around the campaign, to show them videos of that campaign. *It worked*.
 
 Under Monson, it was divinely inspired. Under Nelson, it is “a victory for Satan.”
 
 🙄
+
+&nbsp;
 
 ## Name changes
 The name of the modern LDS Church has undergone [numerous name changes](https://www.josephsmithpapers.org/topic/church-of-christ). Most notably is the second name.
@@ -147,7 +151,7 @@ Maybe I'm just being contrarian, but that doesn't sound to me like an authoritat
 **1834: Church of Latter Day Saints** [1](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/483),[2](https://www.josephsmithpapers.org/paper-summary/minutes-3-may-1834/1)
 Four years after the church is formally founded, Joseph Smith himself recorded some minutes of a meeting where they decide to change the name from the *Church of Christ* to the *Church of Latter Day Saints*.
 
-> *After Prayer the conference proceeded to discuss the subject of names and appellations, when a motion was made by Sidney Rigdon, and seconded by Newel K. **Whitney**, that this church be known hereafter by the name of ==the church of the Latter Day Saints==. Remarks were made by the members after which ==the motion passed by unanimous voice==.*
+> *After Prayer the conference proceeded to discuss the subject of names and appellations, when a motion was made by Sidney Rigdon, and seconded by Newel K. Whitney, that this church be known hereafter by the name of ==the church of the Latter Day Saints==. Remarks were made by the members after which ==the motion passed by unanimous voice==.*
 
 &nbsp;
 

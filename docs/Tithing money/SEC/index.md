@@ -36,7 +36,7 @@ Which of these options is more likely? Are there middle ground scenarios to cons
 
 (To be clear, I can get behind the idea of the US Govt as a whole being villainous. Please don't think I'd defend them, particularly within proximity to tax season.)
 
-I'll introduce the debacle with the church's take on things. They employ lots of "weasel words" to obfuscate what happened, minimize its impact, and present it in an innocuous way. Reading it, keep count of how many "non-specific" things they say. We'll later [[#Phrasing comparison|compare]] that to what the SEC says about the fine.
+I'll introduce the debacle with the church's take on things. They employ lots of "weasel words" to obfuscate what happened, minimize its impact, and present it in an innocuous way. When reading it, keep count of how many "non-specific" things they say. We'll later [[#Phrasing comparison|compare]] that to what the SEC says about the fine.
 
 &nbsp;
 
@@ -45,13 +45,13 @@ I'll first reiterate that I have no legal authority or training, I'm a dork with
 
 > *The Church of Jesus Christ of Latter-day Saints and its ==affiliated investment manager==, Ensign Peak Advisors, Inc., have ==settled a matter== with the Securities and Exchange Commission (SEC).*
 
-First, I'd emphasize some highlights here: "affiliated" as a past tense verb likely means "to become part of or form a close relationship with a group or organization", or as a noun is "an organization that is officially connected with or controlled by another, usually larger, organization."
+I'd like to emphasize some highlights here: "affiliated" as a past tense verb means "to become part of or form a close relationship with a group or organization", or as a noun is "an organization that is officially connected with or controlled by another, usually larger, organization."
 
-"Affiliated" probably doesn't mean "preferred," or "my nephew owns this and I'll support family business." This is a transactional relationship. Ensign Peak Advisors (EPA) may not be [a subsidiary](https://www.investopedia.com/ask/answers/06/subsidiaries.asp) of the church, but EPA certainly doesn't exist independent of it.
+"Affiliated" shouldn't be interpreted to mean "preferred," or "my nephew owns this and I'll support family business." This is a transactional relationship. Ensign Peak Advisors (EPA) may not be [a subsidiary](https://www.investopedia.com/ask/answers/06/subsidiaries.asp) of the church, but EPA certainly doesn't exist independent of it.
 
 **If** the church is innocent, truthful, [not trying to hide anything](https://youtu.be/yXFjhU7UzoI?si=Oh_NBHX27OLmUfmH&t=72), **why did they pay the fine?**
 
-Outside a legal context, settling sounds like an innocuous way to reach resolution where both parties are satisfied. Within a legal context, settling sure sounds like demands have been met, and the accused has done something to satisfy the accuser outside the scope of a courthouse. Someone who actually understands legal intricacies would be a better commentator on this terminology.
+Outside a legal context, "settling" sounds like an innocuous way to reach resolution where both parties are satisfied. Within a legal context, settling sure sounds like demands have been met, and the accused has done something to satisfy the accuser outside the scope (and scrutiny) of a courthouse.
 
 &nbsp;
 
@@ -75,9 +75,9 @@ Investment discretion of over $100 million. Not in net value, real estate, reven
 
 > *Since 2000, Ensign Peak ==received and relied upon legal counsel== regarding how to comply with its reporting obligations while attempting to ==maintain the privacy of the portfolio==. As a result, ==Ensign Peak established separate companies (LLCs)== that each filed Forms 13F instead of a single aggregated filing. Ensign Peak and the Church believe that all securities required to be reported were included in the filings by the separate companies.*
 
-Ensign Peak relied on external legal counsel? You mean EPA doesn't have its own internal legal team? *The church itself* isn't comprised entirely of lawyers up at the top? And not one of you thought to read the requirements on how to file it?
+Ensign Peak relied on external legal counsel? You mean EPA doesn't have its own internal legal team? *The church itself* isn't comprised entirely of lawyers up at the top? And not one of you thought to read the requirements on how to file a tax form?
 
-If they relied on legal counsel from an external source, wouldn't they also be culpable in this violation? If that's the case, then either I misunderstand how punitive charges work... or the legal counsel was not external.
+If they relied on legal counsel from an external source, wouldn't they also be culpable in this violation? If that's the case, then either I misunderstand how punitive charges work, or the legal counsel was not external. From an outside perspective, I'm very interested to find out more about the legal counsel that EPA received and relied on.
 
 &nbsp;
 
@@ -85,7 +85,7 @@ If they relied on legal counsel from an external source, wouldn't they also be c
 
 13 quarterly reports? Filing form 13f, concerning 13 shell companies? Get your tinfoil hats!
 
-Really, though, to have "expressed concern" sounds a bit light for a government agency capable of levying fines. "Reporting approach" is a very soft way of saying "committing fraud via shell companies". Why would you call it a single aggregated report? It was meant to be one report in the first place! What are you aggregating? Does the SEC accept aggregated reports? If so, is it clear that it's an aggregation from *shell companies*?
+Really, though, to have "expressed concern" sounds a bit light for a government agency capable of levying fines. "Reporting approach" is a very soft way of saying "committing fraud via shell companies". Why would you call it a single aggregated report? It was meant to be one report in the first place! What are you aggregating? Does the SEC accept aggregated reports? If so, is it clear that the report an aggregation from *shell companies*?
 
 &nbsp;
 
@@ -120,17 +120,19 @@ According to the SEC, the US governmental authority on... securities exchanges, 
 
 Over 22 years. Each quarter over the span of 22 years. The church had up to *88* opportunities to correct what they're calling a regrettable mistake. Legal scrutiny found that this regrettable mistake was to avoid negative consequences, "with the Church's knowledge and approval[.]" You don't accidentally make thirteen shell LLC's to obscure your profile. They knew what they were doing, and did it deliberately. Did they weigh what the negative consequences were versus the public relations damage for committing fraud? I can only assume so.
 
-Refer again to the opening statement in this page of notes: is the SEC just a bunch of miserable paper-pushers looking to bully the church, or did the church commit fraud and now has to face consequences? 
+Refer again to the opening statement in this page of notes: is the SEC just a bunch of miserable paper-pushers looking to bully the church? Or did the church commit fraud and now has to face consequences? 
+
+Also compare to the LDS' PR statement that the relevant time range began in 2000, and the SEC is stating 1997. I should hope that both parties can agree on when fraudulent actions began. The LDS statement specified that "[s]ince 2000, Ensign Peak received and relied upon legal counsel regarding how to comply with its reporting obligations..." Would it be unreasonable to conclude that between '97 and 2000, EPA did *not* rely on legal counsel?
 
 &nbsp;
 
 > *“We allege that the LDS Church’s investment manager, ==with the Church’s knowledge==, went to great lengths to ==avoid disclosing the Church’s investments==, depriving the Commission and the investing public of accurate market information,” said Gurbir S. Grewal, Director of the SEC’s Division of Enforcement. “The requirement to file timely and accurate information on Forms 13F applies to all institutional investment managers, including non-profit and charitable organizations.”*
 
-... They didn't call it a religious organization? Probably just a coincidence.
+... They didn't categorize the LDS church a religious organization? Probably just a coincidence. I am now curious to know if other religious institutions have investment discretion of $100+ million within one category of securities.
 
 &nbsp;
 
-> *Ensign Peak agreed to settle the SEC’s allegation that it violated Section 13(f) of the Securities Exchange Act of 1934 and Rule 13f-1 thereunder by failing to file Forms 13F and for misstating information in these forms. The Church agreed to settle the SEC’s allegation that it caused Ensign Peak’s violations through its knowledge and approval of Ensign Peak’s use of the shell LLCs.*
+> *Ensign Peak ==agreed to settle the SEC’s allegation== that it violated Section 13(f) of the Securities Exchange Act of 1934 and Rule 13f-1 thereunder by ==failing to file== Forms 13F and for ==misstating information in these forms==. The Church ==agreed to settle the SEC’s allegation== that it caused Ensign Peak’s violations through its knowledge and approval of Ensign Peak’s use of the shell LLCs.*
 
 I am not a lawyer, but my loose understanding of having "agreed to settle" can imply a variety of things: "we don't want you to investigate us further, so let's cooperate to satisfy what you've found so far" or, "we agree that you caught us red-handed, and will pay the penalties." I can't confidently say which one, but that choice of words doesn't look good.
 
@@ -145,4 +147,4 @@ I do not have investment discretion on $100+ million. I don't expect I'll reach 
 
 SEC.gov has an [index of forms and filings](https://www.sec.gov/submit-filings/forms-index). [13F is in there](https://www.sec.gov/files/form13f.pdf). Any one of us can just go read it. The index shows it was last updated in July of 2023, at the time of writing this page (summer 2024).
 
-Looks to me like the first 10 pages of the document are instructions. Pages 11 - 13 are a cover sheet & summary, and page 14 appears to be the form itself that is to be copied and repeated as necessary. Think on that for a good moment. 10 pages of instructions to make sure there's no misunderstanding. A two-page cover sheet, and a summary. ==An intern could do this==. This is not complicated. The 14th page could be an Excel spreadsheet. I refuse to believe that Ensign Peak doesn't have the required fields tabulated in some variation or another. The form is to declare what positions your company holds. If an organization were to given a cease-and-desist "for Disclosure Failures and Misstated Filings", it is because it was intentional. 
+Looks to me like the first 10 pages of the document are instructions. Pages 11 - 13 are a cover sheet & summary, and page 14 appears to be the form itself that is to be copied and repeated as necessary. Think on that for a good moment. 10 pages of instructions to make sure there's no misunderstanding. A two-page cover sheet, and a summary. ==An intern could do this==. This is not complicated. The 14th page could be an Excel spreadsheet. I refuse to believe that Ensign Peak doesn't have the required fields tabulated in some variation or another. The form is to declare what positions your company holds. If an organization were to be given a cease-and-desist "for Disclosure Failures and Misstated Filings", it is because it was intentional.

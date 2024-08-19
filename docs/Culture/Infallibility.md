@@ -24,8 +24,8 @@ I’m about to make up a few dumb, hyperbolic examples for illustration purposes
 
 If Elder Rasband, being an imperfect mortal, wants a Whopper from Burger King, is his spoken order for fast food to be counted as divine or scriptural? No, that would be nonsense.
 
-If Elder Uchtdorf has a granddaughter who is about to get married, and he shares some life advice and wisdom from life experience, should that be counted as divine or scriptural? Not necessarily, even though those words may be valid, having been borne of life experience. Grandparents, seniors, etc have life experience, and can share wisdom from it.
+If Elder Uchtdorf has a granddaughter who is about to get married, and he shares some  advice and wisdom from life experience, should that be counted as divine or scriptural? Not necessarily, even though those words may be valid, having been borne of life experience. Grandparents, seniors, etc have life experience, and can share wisdom from it.
 
-Contrast that to someone like Dallin H Oaks defending Mark Hoffman’s documents, before they are found to be forgeries. He’s an apostle, directly confronting a theological matter. Was he inspired of God to do that?
+Contrast that to someone like Dallin H Oaks defending Mark Hoffman’s documents, before they are found to be forgeries. He’s an apostle, directly confronting a theological matter. Was he inspired of God to do that? #TODO I got a source for that buried somewhere
 
 Observing that the context of a church leaders' words is important and impactful, but please don't think that only works in defending them. If they proclaim something while acting under their calling, I'm going to use that to compare against their claim to divine influence.

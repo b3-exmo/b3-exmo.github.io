@@ -13,9 +13,9 @@ Tithing is required to get into the temple, right? And temple ceremonies are req
 - A church that promises a happy afterlife in exchange for money is indistinguishable from fraud.
 - If your god needs your money, your god is incompetent.
 - “God doesn’t need the money” Then what the hell am I paying for? Salvation is kept behind a paywall.
-- “It’s just so we can get blessed” There’s no other way to qualify for those blessings, than donating money to an organization with 0 accountability?
+- “It’s just so we can get blessed” There’s no way to qualify for those blessings, other than donating money to an organization with 0 accountability?
 - “We need tithing to do the Lord’s work.” Idk has the church tried praying for money? Has God asked his family and friends for money instead?
-- If the church is great with our money, why don’t they publish their budgets? Why don’t they prove that they are good stewards of our donations? Why, instead, did they set up 13 shell companies?
+- If the church is great with our money, why don’t they publish their budgets? Why don’t they prove that they are good stewards of our donations? Why, instead, did they [[SEC Order|set up 13 shell companies]]?
 
 Please, list the ordinances I qualify for without paying any money. “Tithing is a commandment” is not a reason.
 
@@ -38,16 +38,16 @@ Somewhere between 30 and 100 billion in investment portfolios:
 
 Internal audits promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie- the church most certainly has budgets, policies, procedures, etc, and perhaps amassing $100 billion doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
 
-==No, the church doesn't have a *legal obligation* to publish any of this==. But, if they want to garner trust that the money is spent on things like charity, or helping "the needy", they certainly could be sharing that information. An external audit would reveal this information, but the church (to my knowledge) doesn't arrange any. They certainly could afford to. They are choosing not to.
+==No, the church doesn't have a *legal obligation* to publish any of this==. But if they want to garner trust that the money is spent on things like charity, or helping "the needy", they certainly could be sharing that information. An external audit would reveal this information, but the church (to my knowledge) doesn't arrange any. They certainly could afford to. They are choosing not to.
 
 &nbsp;
 
 ## Quoting Malachi
 > *Prove me now herewith . . . if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.*
 
-Chapter divisions weren’t present in the original revisions of the King James Version. The book of Malachi was one big ol' wall of text. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
+Chapter divisions weren’t present in the original revisions of the King James Version. The Bible, including the book of Malachi, was one big ol' wall of text. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
 
-[Chapter 3 verses 8 - 11](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p8-p11#p8) are not directed to the general public to contribute to God’s storehouse. They’re reprimanding the priests for misusing the tithing funds to live lavishly. Malachi is saying that this misuse of tithing is why, as 3:9 says, “[ye are cursed.](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p9#p9)”
+[Chapter 3 verses 8 - 11](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p8-p11#p8) are ==not directed to the general public== to contribute to God’s storehouse. They’re reprimanding the priests for misusing the tithing funds to live lavishly. Malachi is saying that this misuse of tithing is why, as 3:9 says, “[ye are cursed.](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p9#p9)”
 
 Chapter 3 verse 3 is a threat to “[the sons of Levi](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p3#p3)”. What we today call the Aaronic Priesthood was only found in those of Levitical bloodline and lineage.
 
@@ -104,21 +104,21 @@ I could imagine someone defending this quote by pointing to the qualifier "*exce
 &nbsp;
 
 ## It's a privilege!
->One of the blessings of membership in The Church of Jesus Christ of Latter-day Saints is ==the privilege of paying tithing==. This privilege is a double blessing. By paying tithing, Church members show their gratitude to God for their blessings and their resolve to trust in the Lord rather than in material things. They also help further the work of the Lord in the earth, blessing others of God’s children with the opportunity to learn of Him and grow in the gospel.
+> *One of the blessings of membership in The Church of Jesus Christ of Latter-day Saints is ==the privilege of paying tithing==. This privilege is a double blessing. By paying tithing, Church members show their gratitude to God for their blessings and their resolve to trust in the Lord rather than in material things. They also help further the work of the Lord in the earth, blessing others of God’s children with the opportunity to learn of Him and grow in the gospel.*
 >
->==[[#City Creek Mall|Tithing funds are always used for the Lord’s purposes]]==—to build and maintain temples and meetinghouses, to sustain missionary work, to educate Church members, and to carry on the work of the Lord throughout the world.
+> *==[[#City Creek Mall|Tithing funds are always used for the Lord’s purposes]]==—to build and maintain temples and meetinghouses, to sustain missionary work, to educate Church members, and to carry on the work of the Lord throughout the world.*
 
 — _[Topics and Questions: Tithing](https://www.churchofjesuschrist.org/study/manual/gospel-topics/tithing?lang=eng&id=p2#p2)_, Overview
 
 &nbsp;
 
->. . . and then [my mother] thanked our Heavenly Father for ==the privilege of living the law of tithing==. I immediately experienced a feeling of comfort and assurance. Living ==the law of the tithe was a privilege== and would bring blessings.
+> *. . . and then [my mother] thanked our Heavenly Father for ==the privilege of living the law of tithing==. I immediately experienced a feeling of comfort and assurance. Living ==the law of the tithe was a privilege== and would bring blessings.*
 
 — _[Tithing: A Privilege](https://www.churchofjesuschrist.org/study/general-conference/1998/04/tithing-a-privilege?lang=eng&id=p3#p3)_, Elder Ronald E. Poelman, General Conference April 1998
 
 &nbsp;
 
-To me, this is such a fascinating word choice. Can that privilege be revoked? Is the law of consecration a privilege that got revoked? Are other commandments described as privileges? Or is it just this commandment which has a quantifiable, measurable transaction (at least on one side)?
+To me, this is such a fascinating word choice. Can that privilege be revoked? Is the law of consecration a privilege that got revoked? Are other commandments described as privileges? Is the Word of Wisdom a privilege? Or is it just this one commandment which is a quantifiable, measurable transaction (at least on one side)?
 
 &nbsp;
 
@@ -143,11 +143,11 @@ So, in essence, it doesn’t matter where the money is paid _from_… it all get
 &nbsp;
 
 ### Public Information
->*The Mormon Church's real-estate empire ==easily exceeds $1 billion==, including ==farms and ranches== in the West and Midwest, buildings and apartments on the West Coast and a huge chunk of land in central Florida, The Arizona Republic reported Tuesday.*
+> *The Mormon Church's real-estate empire ==easily exceeds $1 billion==, including ==farms and ranches== in the West and Midwest, buildings and apartments on the West Coast and a huge chunk of land in central Florida, The Arizona Republic reported Tuesday.*
 > 
-> *Given its enormous ==**income from tithing and business operations**==, it appears the church is investing several hundred million dollars a year in ==securities and real estate==, the newspaper said in the third installment of a four-part series on the holdings of the Utah-based church. "I would say they're probably ==one of the largest private owners of farmland in the United States==," said John Scott, professor of land economics and farm management at the University of Illinois, although he hasn't compiled records to prove that.*
+>  *Given its enormous ==**income from tithing and business operations**==, it appears the church is ==investing several hundred million dollars a year== in ==securities and real estate==, the newspaper said in the third installment of a four-part series on the holdings of the Utah-based church. "I would say they're probably ==one of the largest private owners of farmland in the United States==," said John Scott, professor of land economics and farm management at the University of Illinois, although he hasn't compiled records to prove that.*
 > 
-> *Officials of The Church of Jesus Christ of Latter-day Saints ==refuse to disclose information about real-estate holdings, even to members==, saying such information would distract from the church's ecclesiastical mission.*
+>  *Officials of The Church of Jesus Christ of Latter-day Saints ==refuse to disclose information about real-estate holdings, even to members==, saying such information would distract from the church's ecclesiastical mission.*
 
 — _[LDS CHURCH REAL-ESTATE HOLDINGS INCLUDE FARMS, RANCHES, BUILDINGS](https://www.deseret.com/1991/7/2/18928879/lds-church-real-estate-holdings-include-farms-ranches-buildings)_, Deseret News ==1991==
 
@@ -165,6 +165,7 @@ Need I remind readers that Deseret News is [[Sources and Links#Deseret News|owne
 
 &nbsp;
 
+### Philanthropy, maybe
 If you’re a billionaire, they’ve even got a special donation avenue for you, via LDS Philanthropies, [Private Foundation](https://philanthropies.churchofjesuschrist.org/gift-planning/how-to-give/family-directed-giving-tools/private-foundation). Is this a problem? Strictly speaking, no, it isn't morally wrong, but it certainly doesn't feel like they're asking for donations to support The Lord's work here on earth. In fact...
 
 >*Private foundations have been a popular and effective method ==for wealthy families to create a family legacy of philanthropy==.*
@@ -187,7 +188,7 @@ This is an avenue for PR, and so that "wealthy families" can feel like being rai
 
 I find this very upsetting— Is this what Jesus taught? [Luke 11:39-43](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng&id=p20-p21#p20), [14:12-14](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), [Mark 10:20-23](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), and [12:41-44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41) would all like to have a word with you.
 
-We can hype up how great it is to build up your own personal charity with a private board of directors for future generations to laud how generous you are, but if you're going to do that, don't be the same organization that [teaches](https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-heart-of-the-widow?lang=eng&id=p5-p8#p5) us [about](https://www.churchofjesuschrist.org/study/general-conference/2022/04/57uchtdorf?lang=eng&id=p2-p4#p2) the [Widow's Mite](https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=eng&id=p25-p30#p25). _This is self-aggrandizement_.
+We can hype up how great it is to build up your own personal charity with a private board of directors for future generations to laud how generous you are, but if you're going to do that, don't be the same organization that [teaches](https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-heart-of-the-widow?lang=eng&id=p5-p8#p5) us [about](https://www.churchofjesuschrist.org/study/general-conference/2022/04/57uchtdorf?lang=eng&id=p2-p4#p2) the [Widow's Mite](https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=eng&id=p25-p30#p25). _This is self-aggrandizement_. That promotional statement has absolutely nothing to do with the church's declared mission, or any purpose of tithing.
 
 God bless America, if I keep reading into this, my notes will devolve further into chaotic ranting 🙃
 
@@ -209,7 +210,7 @@ Better get ahead of those rumors and defend our decisions *immediately*. Nothing
 #### It's to protect downtown SLC!
 >*A recent column on Forbes.com (“[Salt Lake City’s Sacred Space](http://www.forbes.com/2010/06/29/salt-lake-city-urban-sacred-opinions-columnists-joel-kotkin.html)”) by Joel Kotkin takes a look at how ==City Creek — an initiative of The Church of Jesus Christ of Latter-day Saints== — is enhancing downtown [Salt Lake City](https://newsroom.churchofjesuschrist.org/article/presiding-bishop-discusses-church-s-involvement-in-salt-lake-city-development). The Church undertook the City Creek project to ==protect the environment around Temple Square==.*
 
-_[Forbes Covers City Creek Project](https://newsroom.churchofjesuschrist.org/article/forbes-covers-city-creek-project)_, Church Newsroom
+— _[Forbes Covers City Creek Project](https://newsroom.churchofjesuschrist.org/article/forbes-covers-city-creek-project)_, Church Newsroom
 
 Protect the environment? Protect from what? This sounds like [gentrification with extra steps](https://www.youtube.com/watch?v=yxUfe3g7klk). No, really, that just sounds like gentrification, full stop.
 
@@ -235,9 +236,9 @@ Protect from what?
 > 
 >*My little children, let us not love in word, neither in tongue; but in deed and in truth.*
 
-— [1 John 3:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17)
+— [*1 John 3:17-18*](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17)
 
-Or, in layman's terms, if you have spare resources and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty ([[1](https://www.slc.gov/homelessness/)], [[2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/)], [[3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)]) around you!
+Or, in layman's terms, if you have spare resources ($2 billion for a shopping center) and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty ([[1](https://www.slc.gov/homelessness/)], [[2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/)], [[3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)]) around you!
 
 Just say what you mean— you're trying to protect the church office building from poor people.
 

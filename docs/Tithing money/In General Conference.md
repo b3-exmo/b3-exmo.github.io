@@ -29,7 +29,7 @@ Perhaps these words would carry more weight if they weren't spoken by someone wh
 > 
 > **_First, pay your tithing._** ==Do you want the windows of heaven opened to you?== Do you wish to receive blessings so great there is not room enough to receive them? Always pay your tithing and leave the outcome in the hands of the Lord.
 > 
-> Obedience to God’s commandments is the foundation for a happy life. Surely we will be blessed with the gifts of heaven for our obedience. Failure to pay tithing by those who know the principle can lead to heartache in this life and perhaps sorrow in the next.
+> Obedience to God’s commandments is the foundation for a happy life. Surely we will be blessed with the gifts of heaven for our obedience. ==Failure to pay tithing by those who know the principle== can lead to heartache in this life and perhaps sorrow in the next.
 
 [Earthly Debts, Heavenly Debts](https://www.churchofjesuschrist.org/study/general-conference/2004/04/earthly-debts-heavenly-debts?lang=eng&id=p22-p24#p22), Elder Joseph B. Wirthlin, General Conference April 2004
 

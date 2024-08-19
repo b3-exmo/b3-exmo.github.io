@@ -2,6 +2,10 @@
 comments: true
 ---
 # 🔗 Sources & More Material
+#TODO This page is pretty messy. Come in and look around if you like! Hopefully by next time you stop by, it'll feel more coherent.
+
+---
+
 [lds-general-conference.org](https://www.lds-general-conference.org/): Does not appear to be an officially sanctioned site
 
 edit:

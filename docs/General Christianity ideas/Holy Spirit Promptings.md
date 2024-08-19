@@ -2,6 +2,7 @@
 comments: true
 ---
 # 👻 Holy Spirit's Promptings
+#TODO 
 When leadership in the LDS church has been asked "how do I know if that's the spirit or just me?" the response that seems to be repeatedly stated is "If it inspires you to do good and to follow the gospel then it is of God."
 
 This is problematic for a variety of reasons. Among them is the idea that the reverse is implicitly true. Other thoughts:

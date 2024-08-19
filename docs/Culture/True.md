@@ -28,17 +28,15 @@ comments: true
 &nbsp;
 
 ## Definition
-
 When we hear the word "true," what does that really mean?
 As much distaste as I feel for the trope of introducing a word's definition as part of a thesis (see also LDS sacrament meetings), some cursory searches online define *true* as:
 
-- being in accordance with the actual state of affairs
+- in accordance with the actual state of affairs
 - in accordance with fact or reality
-- without variation from type
 - not false
 - being what exists, rather than what was thought, intended, or stated
 
-I grew up in the LDS faith, and so I can't really speak to the experience of other religions. But this does make me wonder, do Catholic church attendees hear a testimony that the Catholic church is true, or is it assumed? Would the priest be safe to assume that "if you congregants are here listening to me, you don't need for me to convince you that it's true"? Do Jehovah's Witnesses do this?
+I grew up in the LDS faith, and so I can't really speak to the experience of other religions. But this does make me wonder, do Catholic church attendees hear a testimony that the Catholic church is true, or is it assumed? Would the priest be safe to assume that "if you congregants are here listening to me, you don't need for me to convince you that it's true"? Do Jehovah's Witnesses do this? Do Muslims do this?
 
 What does a *true* church even mean? Does that mean it has not tried to obscure information? Does that mean it is internally consistent? Does that mean it is in harmony with Christ's teachings, or that it has not strayed from His word as recorded in the four Gospels?
 
@@ -57,12 +55,12 @@ My first reaction to the above passage is that it's a prime example of a [[Logic
 
 My next thought is that this doctrine wants to categorize everything outside of the LDS faith as being led by an evil force, in opposition to the one organization outside of that broad category. Maybe when this angel speaking to Nephi says "church," he doesn't mean "church" as we understand it today. If this is the case, that conflicts with the idea of it being [[Scripture/Book of Mormon/index#Written for our day|written for our day]], but I digress. Is this angel suggesting that every branch, sect and offshoot of Christianity is borne of Satan, with only one exception? Does "the church of the devil" includes everything that is not the modern Brighamite sect of the LDS church? If so, why? Why would one "church" be plural, but the other "church" is singular? Are all Eastern religions founded by Christianity's boogeyman? What does this suggest about [offshoots from the LDS church](https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement), founded by Joseph Smith? Did their founder change?
 
-This dualistic all-or-nothing approach seems to oversimplify what humans find value in. "This one is *true*, therefore everything else is false." Not a little bit false, either, but led by Satan and will 100% certainly lead its adherents to eternal torment.
+This dualistic all-or-nothing approach seems to oversimplify what humans find value in. "This one is *true*, therefore *everything else* is false." Not a little bit false, either, but led by Satan and will 100% certainly lead its adherents to eternal damnation and torment.
 
 &nbsp;
 
 ## ["What Do We Mean When We Say the Church Is True?"](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng)
-What fortuitous timing this is! I'm writing these notes in May of 2024, and the upcoming edition of the LDS church's magazine Liahona (formally Ensign) has an address specifically about this very topic. I wrote up some notes on it, but found my comments to be much more numerous than I expected. They're kept in a separate note, [[What Do We Mean When We Say the Church Is True|find it here]].
+What fortuitous timing this is! I'm writing these notes in May of 2024, and the upcoming edition of the LDS church's magazine Liahona (formally Ensign) has an address specifically about this very topic. I wrote up some notes on it, but found my comments to be much more numerous than I expected. They're kept in a separate note, you can [[What Do We Mean When We Say the Church Is True|find it here]].
 
 &nbsp;
 
@@ -80,7 +78,7 @@ A fellow named Tom Scott has a YouTube channel where he [presents this in an app
 ### Why testify?
 The only reason one would testify "knowing that the church is true" is to negate the idea that it could be wrong, and wrongness would impact its utility or value. It's like saying "there are not lies here." "This is not an attempt to deceive you." Okay...? I didn't consider that possibility until I was assured otherwise.
 
-The implication of verbalizing that "I know [this church] is true" inherently suggests that there are reasons to believe it is not, and you want to remind someone that those reasons are illegitimate. It makes me wonder more about what the disagreement points *are*. As part of the testimony I'm (hypothetically) hearing, I have one side of the argument, but I've also been indirectly advised of the other side. In a way, such a testimony asserts that "it is true, despite the things you or I have heard to say that it is not true."
+The implication of verbalizing that "I know [this church] is true" inherently suggests that there are reasons to believe it is not, and you want to remind someone that those reasons are illegitimate. It makes me wonder more about what the disagreement points *are*. As part of the testimony I'm hearing in this hypothetical scenario, I have one side of the argument, but I've also been indirectly advised of the other side. In a way, such a testimony asserts that "it is true, despite the things you or I have heard to say that it is not true."
 
 Per the above outlined maxim of quantity, I am left wondering why did you feel the need to tell me that? Why would Nephi feel the need to tell us that "[the record which [he makes] is true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng)"? Is he trying to get that idea in edgewise before someone else pops up and says he's lying? Has he been accused of being untruthful in the past? Or, a more cynical explanation is that this statement is in some way a reaction to Lucy Harris' possession of 116 pages of manuscript containing the Book of Lehi's?
 
