@@ -14,7 +14,7 @@ So, how should we react to this presumably legitimate claim that Brigham says Em
 
 1. Brigham Young is *lying in General Conference* about the wife of the prophet of the restoration
 2. The Smiths, being mortal, imperfect people had a strained marriage, both people were under tremendous stress, escalating to civil disagreement; Brigham's exaggerated retelling then gets blown out of proportion
-3. Emma tried to fucking murder Joseph, [[Polygamy#Angel with a Sword vs Joseph Smith|sick of his shit]]
+3. Emma tried to fucking murder Joseph, [[Doctrines/Polygamy/index#Angel with a Sword vs Joseph Smith|sick of his shit]]
 
 The only source for this is a prophet of God, in general conference, where the prophet prophesies, where the authorized Church of God disperses revelation to people… so… maybe it didn’t actually happen?
 

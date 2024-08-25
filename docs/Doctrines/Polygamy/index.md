@@ -204,67 +204,16 @@ As an added bonus, in that same lesson in the teacher manual:
 
 &nbsp;
 
-## Polygamous marriages weren't sexual!
-How confident are we that this is the case?
+Idk man, I think there's enough information to say that we do have knowledge that plural marriage is required for exaltation— that is, unless we're going to just disregard [[#Required for exaltation!|Brigham Young's teachings]].
 
-One thing we need to agree on, irrespective of which side of the issue you stand, is a success criteria. How much information is enough? What information would definitively settle the question?
-
-If the only thing that will settle this dispute is a journal account from Eliza R Snow that reads "yeah, Smith had this massive hog and got real freaky, kept going all night and I couldn't walk straight the next day 🥴" then you're not going to find that. If you're looking for a public sermon clarifying that "in case any of you were wondering, my relationships with Helen Kimball involve no penetrative sex. Just wanted to clear the air and get that out there," you won't find that either.
-
-What you might find instead are affidavits of [[Meat commerce|carnal intercourse]], being married "in the very deed," which are much more euphemistic. I don't know how many ambiguous ways one could interpret that.
+I also feel uneasy about the warning against speculation. That sounds like they really don't want us to [[Culture/index#Thought Stoppers|think about it]] too much... or much at all.
 
 &nbsp;
-
-### How important is this issue?
-I've encountered some folks, missionaries in particular, who will assert that what Joseph did shouldn't have a deep enough impact on us today. Did he have sex with teenagers? Maybe— the more pressing issue is, if yes, or if no, how does that affect our lives today under President Nelson?
-
-I don't need to spend a whole lot of time on this, but... The priesthood lineage all traces back to Joseph. If he was called of God to be a prophet, I should damn well be able to expect him to act like one. If a teenager gets a bit too handsy with their romantic interest, any Aaronic priesthood that was present is removed until they confess to the local bishop. They are [[Culture/index#Worthiness|no longer authorized]] to pass, prepare, nor bless sacrament or perform baptisms until they are deemed worthy again. **Why** then, in the ever-loving shit, is the prophet of the restoration held to a different, remarkably lower standard? If he isn't worthy of the priesthood office he held, wouldn't that mean anyone following after isn't really acting by God's authority? Because that's the exact scenario I distinctly remember being drilled on as a teenager in Sunday school. Was that just a shame tactic without any doctrinal basis? Because if it holds up, Joseph wasn't a worthy priesthood holder.
-
-We could spend a lot of time bantering about whether a man had a boner 200 years ago or not. Extant records don't explicitly state. One Lindsay Hansen Park describes that settling this disagreement isn't nearly as important as understanding the impact of what we can demonstrably prove:
-
-> *[What matters here] is the power, not the situation. It's the person using you, manipulating you— that's what happened to Helen Mar, whether she slept with him or not. ... What I'm saying is that in this context, this is about power. So when we argue whether he did or didn't have sex with Helen Mar, I say it doesn't matter. ==He took her life away==.*
-
-— *[Marrying underage girls was about power](https://www.youtube.com/watch?v=83LTNf9TM4Y)*, Lindsay Hansen Park, Mormon Stories Podcast
-
-&nbsp;
-
-Helen was a teenager, and had aspects of teenaged life taken away, now that she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things— simply socializing with friends is now completely different. In what ways does a 15-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What if a teenager just gets pushed straight into the "age 35" category?
-
-&nbsp;
-
-### “Well, if he fuckin’, then why no [babby](https://www.youtube.com/watch?v=39lHPHs8bV8)?”
-It seems to me that we don’t have *solid* info as to why, but we have a lot of suspicious circumstantial evidence.
-
-Consider some possible reasons.
-
-1. JS et al did not engage in polygamy (does not appear to be the case)
-2. Plural marriage(s) never were consummated (appears false; Emma probably wouldn’t have had such a strong reaction if it was only domestic)
-3. Plan B! Abort, abort!
-
-John C Bennett was in the equivalent of the church’s first presidency at Nauvoo. He was a physician, a trained obstetrician, and is on record as having propositioned women with the following stipulation:
-
-> *… he had promised to give his victims “medicine to produce abortions, providing they should become pregnant.”*
-
-— *[Joseph Smith, John C. Bennett, and the Extradition Attempt, 1842](https://rsc.byu.edu/joseph-smith-prophet-seer/joseph-smith-john-c-bennett-extradition-attempt-1842)*, BYU Religious Studies Center
-
-**I haven’t encountered any direct evidence** that Bennett did perform abortions, but for him to be so close to Joseph Smith and being willing to perform abortions for Joseph seems likely. The above quote is what I will call strong circumstantial evidence.
-
-&nbsp;
-
-The 19th century is not so far removed from us today to be considered barbaric or uncivilized. It is in our modern era, where humans understand that sex = babies. If an unexplained number of pregnancies showed up surrounding Joseph, people would get suspicious. *The point was to be discreet*. They didn’t want babies, that would blow their cover.
-
-One way to circumvent suspicion is to engage in [polyandry](https://mit.irr.org/chart-of-joseph-smiths-plural-wives), or coital behavior with women who were already married. That way, there’s plausible deniability for extramarital affairs. I don't think paternity tests existed at the time, so if a plural wife of Joseph happens to be the legal wife of someone else, a pregnancy would look a lot less suspicious. Pedestrian, even.
-
-Contraception methods in the 1830’s might not be quite as sophisticated today, but… did they understand ovulation cycles to avoid conception? I can't really say with confidence.
-
-Sex doesn’t 100% result in conception every time— as I understand it, there are numerous factors at play. The absence of children does not mean there never were any extramarital affairs. It’s an indication, yes, but not a bulletproof refutation, either.
-
-[https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up](https://archive.org/details/josephsmithproph00wylwrich/page/n4/mode/1up)
 
 ## Conflicting accounts
 There are numerous documents to suggest that Joseph Smith did not practice polygamy. There also exist many documents to suggest that he did. There exists documentary evidence that later church leaders (Young, Taylor, etc) retrofitted Joseph’s revelations like [[DC 132|D&C 132]] to endorse polygamous behavior post-mortem.
 
-We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is ==not== up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis. #TODO 
+We can banter about that until we’re blue in the face, as there is a multiplicity of well-sourced information to support both sides of that argument. What is ==not== up for debate is the prurient, predatory behavior of subsequent church leaders like Brigham Young and John Taylor. This presents a real dilemma. That dilemma will be further explored in the note section on the Succession Crisis... once I gather enough information to write about it. (What I do know is Brigham wasn't explicitly designated to take Joseph's place as the leader of the church, and yet somehow he filled that role anyway. Led to numerous offshoots.)
 
 Let’s assume that accusations against JS are exaggerated or outright fabricated. We then have to contend with the 2nd and 3rd presidents of the church. Did God command *them* to do it? Did they use JS as justification? If there was explicit revelation from God to do that, do we have a record of it? General conference, Journal of Discourses, D&C entry, book of commandments, anything of the sort?
 

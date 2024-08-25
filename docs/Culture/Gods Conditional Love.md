@@ -94,11 +94,21 @@ I haven't looked outside of Mormonism for an answer to that, but I can observe t
 >
 >*Because God’s love is all-embracing, some speak of it as “unconditional,” and in their minds they may project that thought to mean that God’s blessings are “unconditional” and that salvation is “unconditional.” They are not.*
 
-_[The Love of God](https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=eng&id=title2-p4#title2)_, D. Todd Christofferson, General Conference October 2021
+— _[The Love of God](https://www.churchofjesuschrist.org/study/general-conference/2021/10/15christofferson?lang=eng&id=title2-p4#title2)_, D. Todd Christofferson, General Conference October 2021
 
 &nbsp;
 
 Call me a grouch if you think I deserve it, but I feel more inclined toward Christofferson's presentation of this idea- it feels more approachable. It feels like a charitable, patient clarification, rather than "you thought you were loved, but _psych_, you've gotta earn it first! Here's an alliteration to make that idea stick in your mind 😏"
+
+Ooh, but there is a scriptural basis for the idea of disqualifying for God's love.
+
+> *If you keep not my commandments, the love of the Father shall not continue with you, therefore you shall walk in darkness.*
+
+— *[D&C 95:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12)*
+
+&nbsp;
+
+Sure, the exact word "unconditional" might not exist in the ancient Hebrew manuscripts. The semantic appearance sure made an appearance in modern scripture, though.
 
 &nbsp;
 

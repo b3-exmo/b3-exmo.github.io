@@ -15,11 +15,11 @@ Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. On
 &nbsp;
 
 ## Authority
-One way you know the LDS church is true is that God will [[Polygamy#Angel with a Sword vs Joseph Smith|literally send an angel with a sword to threaten to kill the prophet]] if he’s going astray.
+One way you know the LDS church is true is that God will [[Doctrines/Polygamy/index#Angel with a Sword vs Joseph Smith|literally send an angel with a sword to threaten to kill the prophet]] if he’s going astray.
 
 Here is a complete list of the times God has done this:
 
-1. [[Polygamy|To get Joseph Smith to marry other men's wives]]
+1. [[Doctrines/Polygamy/index|To get Joseph Smith to marry other men's wives]]
 2. &nbsp;
 
 &nbsp;

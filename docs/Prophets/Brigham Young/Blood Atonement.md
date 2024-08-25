@@ -97,7 +97,7 @@ Easily disproven? Can you point me to a disproving claim, then?
 
 "It's likely that in least one instance, at least one member at some point time in history maybe did this." I don't know that I could fit more qualifiers in that sentence if I tried to. That's genuinely impressive.
 
-To be fair, that quote from the essay does also have a footnote on this kind of religious violence was normal. That footnote points to some cited sources. At the time of writing this, I haven't delved into those citations, but that sounds like something I ought to do at some point. #TODO
+To be fair, that quote from the essay does also have a footnote on this kind of religious violence was normal. That footnote points to some cited sources. At the time of writing this, I haven't delved into those citations, but that sounds like something I ought to do at some point.
 
 
 
@@ -196,43 +196,42 @@ I'm not about to advocate that any of these are good or harmless, but... Decidin
 
 &nbsp;
 
-### Murder
+**Murder**
 > I am opposed to hanging, even if a man kill another, I will shoot him, or cut off his head, ==spill his blood on the ground== and let the smoke ascend thereof up to God… 
 
 — ==Joseph Smith==, _Documentary History of the Church_ 5:296 [[1](https://web.archive.org/web/20200414003340/http://boap.org/LDS/History/History_of_the_Church/Vol_V)], [[2](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf)]
-#TODO Ought to be able to find a better source for this document
 
 &nbsp;
 
-### Adultery 
+**Adultery** 
 > *Let me suppose a case. Suppose you found your brother in bed with your wife, and put a javelin through both of them. You would be justified, and ==they would atone for their sins==, and be received into the kingdom of God. I would at once do so in such a case, and under such circumstances, I have no wife whom I love so well that I would not put a javelin through her heart, and I would do it with clean hands.*
 
 — [Men Judged According to Their Knowledge, etc](https://scriptures.byu.edu/#:t7553:j03); Brigham Young, [Journal of Discourses 3](https://scriptures.byu.edu/jod/pdf/JoD03/JoD03.pdf):247).
 
 &nbsp;
 
-### Stealing
+**Stealing**
 > *If you want to know what to do with a thief that you may find stealing. I say ==kill him on the spot==, and never suffer him to commit another iniquity … If I caught a man stealing on my premises I should be very apt to ==send him straight home==, and that is what I wish every man to do, to put a stop to that abominable practice in the midst of this people[.]* 
 
 — [President B. Young’s Journey South, etc](https://scriptures.byu.edu/#:t2723:j01); Brigham Young, [Journal of Discourses 1](https://scriptures.byu.edu/jod/pdf/JoD01/JoD01.pdf):108).
 
 &nbsp;
 
-### Marriage to a person of black skin
+**Marriage to a person of black skin**
 > *Shall I tell you of the law of God in regards to the African race? If the white man who belongs to the chosen seed mixes his blood with the seed of Cain, the ==penalty under the law of God is death on the spot==. This will always be so.* 
 
 — [The Persecutions of the Saints, etc](https://scriptures.byu.edu/#:t186b9:j10); Brigham Young, [Journal of Discourses 10](https://scriptures.byu.edu/jod/pdf/JoD10/JoD10.pdf):110
 
 &nbsp;
 
-### Covenant Breaking
+**Covenant Breaking**
 > *I say, there are men and women that I would advise to go to the Presidency immediately, and ask him to appoint a committee to attend to their case; and then let a place be selected, and let that committee shed their blood. We have those amongst us that are full of all manner of abominations, ==those who need to have their bloodshed==, for water will not do, ==their sins are too deep a dye==… I believe that there are a great many; and if they are covenant breakers we need a place designated, where we can shed their blood … Brethren and sisters, we want you to repent and forsake your sins. And you who have committed ==sins that cannot be forgiven through baptism, let your blood be shed==, and let the smoke ascend, that the incense thereof may come up before God as an atonement for your sins, and that the sinners in Zion may be afraid.* 
 
 — [Rebuking Iniquity](https://scriptures.byu.edu/#:t9c49:j04), Jedediah M. Grant, [Journal of Discourses 4](https://scriptures.byu.edu/jod/pdf/JoD04/JoD04.pdf):49-51).
 
 &nbsp;
 
-### Prostitution
+**Prostitution**
 > *It is believed in the world that our females are all common women. Well, in one sense they are common—that is, they are like all other women, I suppose; but they are not unclean, for ==we wipe all unclean ones from our midst==: we not only wipe them from our streets, but ==we wipe them out of existence==. And if the world want to practice uncleanness, and bring their prostitutes here, if they do not repent and forsake such sins, ==we will wipe the evil out==. We will not have them in this valley, unless they repent; for, so help me God, while I live, ==I will lend my hand to wipe such persons out; and I know this people will==.*
 > 
 > *Such things cannot exist here. . . . It never can be allowed in this community in male or female, whether they belong to the Church or not; and ==we will wipe out such abominations==, the Lord being our helper.*
@@ -294,7 +293,7 @@ Keep your torch and pitchfork at arm's length; I acknowledge that this is not a 
 
 &nbsp;
 
-#TODO I want to dig into those footnote references; he mentions numerous scripture passages, and at face value, I am very skeptical.
+I intend to dig into those footnote references; he mentions numerous scripture passages, and at face value, I am very skeptical.
 
 Not sure what conclusion we’re trying to reach here, honestly. The section appears to have various sub-headings, marked by all-caps short statements? It starts out acknowledging that Christ's atonement covers everything, but... maybe just *most* things. Then we focus on how this is an anomaly found only in the Brighamite sect of Mormonism, along with numerous scriptural backings. Next... "Yeah, if you goof up too bad, you've got to die." Then we make a hard left turn, a complete 180, asserting "this is all nonsense hearsay, 'without one grain of truth.' This never happened. You can't name anyone who actually got involved, can you? Mic drop."
 

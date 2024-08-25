@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🔗 Sources & More Material
-#TODO This page is pretty messy. Come in and look around if you like! Hopefully by next time you stop by, it'll feel more coherent.
+This page is pretty messy. Come in and look around if you like! Hopefully by next time you stop by, it'll feel more coherent.
 
 ---
 

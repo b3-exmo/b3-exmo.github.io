@@ -66,5 +66,4 @@ If simply testifying with emotion makes something true, then we’re in trouble.
 
 &nbsp;  
 
-#TODO 
 Will likely add more summarized content from this source: [https://www.ldsdiscussions.com/testimonies](https://www.ldsdiscussions.com/testimonies)

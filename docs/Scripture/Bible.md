@@ -53,7 +53,7 @@ To date, I haven't found [record](https://www.josephsmithpapers.org/search?query
 
 &nbsp;
 
-### Mormons take issue
+### Imperfect translation
 > *“Though it is the most important book in the religious life and culture of the English-speaking world, the King James Bible or Authorized Version of 1611 ==has never been perfectly printed==,” wrote David Norton, a professor at Victoria University who recently published the New Cambridge Paragraph Bible. “What we now read as the King James Bible contains ==numerous deliberate and some accidental changes to the text==, and these can be revised to make it more faithful to the King James translators’ own decisions as to how it should read.”*
 
 — *[Understanding the Process of Publishing the Book of Mormon](https://newsroom.churchofjesuschrist.org/article/understanding-the-process-of-publishing-the-book-of-mormon#)*, Church Newsroom, January 2008
@@ -65,6 +65,30 @@ This will become very relevant in the next section.
 &nbsp;
 
 ### Could we get a re-translation?
+#### Modern attempt(s)
+> *Few scholars have the expertise, let alone the confidence, to embark on a new translation of the New Testament for Latter-day Saints. Fortunately, Thomas Wayment has enough of both. ... His [new translation](https://amzn.to/2WzQEgV) was published by Deseret Book and the BYU Religious Studies Center—just in time for the church’s 2019 focus on the New Testament. This conversation focuses on his new translation and new perspectives he gained during the process, including some surprises.*
+
+— *[Thom Wayment - A New Translation of The New Testament](https://faithmatters.org/a-new-new-testament-translation-a-conversation-with-thom-wayment/)*, FaithMatters
+
+&nbsp;
+
+> *This new translation from the best available Greek manuscripts renders the New Testament text into modern English and is sensitive to Latter-day Saint beliefs and practices. This translation is readable and accessible for a wide range of readers.* 
+
+— [Product description](https://www.amazon.com/New-Testament-Translation-Latter-day-Saints/dp/1944394672) as listed on Amazon
+
+&nbsp;
+
+Thomas Wayment has a PhD in New Testament studies (see his [bio page](https://rsc.byu.edu/author/wayment-thomas) in BYU's *Religious Studies Center*), which means he knows a lot more about scripture than I do. Seeing how he was employed by BYU, the LDS church's private university, I assume he has good intentions and good qualifications to try and do this. So why, then, did I find out about this modern translation five years after it was published? Did *you* know about the BYU professor who published a new translation of the New Testament?
+
+I can observe two things: his bio page, linked above, does state he publications director of BYU's Religious Studies Center until 2018. His book was published in early 2019. He is now a professor of Classical Studies. At the time of writing, his Humanities [bio page](https://hum.byu.edu/directory/thomas-wayment) verifies that title.
+
+I can only offer conjecture, but I suspect his change from departments had to do with his insubordination to [[#Who can translate?|do what a prophet, seer, revelator, and translator]] does. Terminating employment would be a bad look. Let's send him to another department, even though he demonstrated that New Testament seems to be his wheelhouse (you know, having a PhD and all that.)
+
+The only other name that comes to mind for biblical scholars is one [Dan McClellan](https://www.maklelan.org/about), who has a [really neat podcast](https://www.youtube.com/playlist?list=PLwC6CRSpee0sVJ6Wl3G7BmklCFm-Lq_22) on the Bible, and even has a [BYU article](https://rsc.byu.edu/vol-20-no-2-2019/far-it-translated-correctly-bible-translation-church) commenting on Bible translations, including a section on Wayment's publication. At the time of writing this note, I haven't read it yet, but I've got it bookmarked! 🙃
+
+&nbsp;
+
+## Who can translate?
 > *Now Ammon said unto him: I can assuredly tell thee, O king, of a man ==that can translate the records==; for he has wherewith that he can look, and translate all records that are of ancient date; and ==it is a gift from God==. And the things are called interpreters . . . [a]nd whosoever is commanded to look in them, the same is called ==seer==.*
 
 — _[Mosiah 8:13](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=eng&id=p13#p13)_
@@ -128,12 +152,12 @@ Oh. It’s not… It’s not even a translation? It’s a revelation accompanime
 
 This BoM passage is cited as evidence that the Bible is incomplete, and BoM fills in the gaps.
 
-Legitimate question: what gaps?
+Legitimate question: what gaps? The Book of Mormon doesn't have hardly any Mormon [[Scripture/Book of Mormon/index#Fullness of the Gospel|doctrines or practices]] in it. If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps- modern prophets are.
 
-If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps- modern prophets are.
+&nbsp;
 
 > *“Surely ==the most plain and precious of all truths lost from the Bible==, particularly the Old Testament, are the clear and unequivocal declarations of the mission of Jesus Christ, his foreordained role as Messiah and Savior of the world, and the covenantal elements of his gospel, which have been taught from Adam down through each succeeding dispensation. ==Thus the Book of Mormon’s highest purpose== is to restore to the universal family of God that crucial knowledge of Christ’s role in the salvation of every man, woman, and child who now lives, has ever lived, or will yet live upon the earth.”*
 
 — _[Christ and the New Covenant: The Messianic Message of the Book of Mormon](https://www.churchofjesuschrist.org/study/ensign/2006/10/plain-and-precious-truths-restored)_, Jeffrey R Holland, Ensign 1997, 6–7.
 
-Find me a fanatical Christian who didn’t already know that from reading the Bible alone.
+Find me a practicing Christian who didn’t already know that from reading the Bible alone.

@@ -75,7 +75,7 @@ The American Psychological Association says in an article:
 
 — _[Cults of hatred](https://www.apa.org/monitor/nov02/cults.html)_, American Psychology Association
 
-> *“Repeating a key phrase” is also known as chanting a mantra repeating mantras is a form of psychological ritual that reinforces belief. In the case of cults, it is also an important aid in brainwashing*.
+> *“Repeating a key phrase” is also known as chanting a mantra repeating mantras is a form of psychological ritual that reinforces belief. In the case of cults, it is also an important aid in brainwashing.*
 
 — _[How Cults Trick You Into Believing](https://www.grunge.com/47584/cults-trick-believing/)_
 

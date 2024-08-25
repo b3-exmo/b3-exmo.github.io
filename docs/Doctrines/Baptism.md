@@ -5,7 +5,7 @@ comments: true
 ## Age of Accountability
 **Have you ever talked to an 8-year-old?**
 
-Not pointing to a specific bishop or human, this is hypothetical: Would a given bishop excommunicate an 8 or 9 year old child, for whatever apostate behavior? Denying the Holy Ghost, for example? Or would hthis bishop think that the child was too young and didn’t understand what their sin was and wouldn’t understand being excommunicated. If so, then the child has not reached the age of accountability.
+Not pointing to a specific bishop or human, this is hypothetical: Would a given bishop excommunicate an 8 or 9 year old child, for whatever apostate behavior? Denying the Holy Ghost, for example? Or would this bishop think that the child was too young and didn’t understand what their sin was and wouldn’t understand being excommunicated. If so, then the child has not reached the age of accountability.
 
 Granted, the Book of Mormon does teach about not baptizing “little children”. That’s about as far as that discourse goes, though- not much mention of accountability, or forbidding those 7 years or younger.
 

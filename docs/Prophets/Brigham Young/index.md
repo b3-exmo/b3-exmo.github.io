@@ -108,7 +108,7 @@ Boy, this guy sure sounds like he was called of God to speak in His behalf.
 #### Get the priesthood in some future day
 > *Now I tell you what I know; when the mark was put upon Cain, Abels children was in all probability young; the Lord told Cain that he should not receive the blessings of the preisthood nor his seed, until the last of the posterity of Able had received the preisthood, until the redemtion of the earth.*
 
-— [Brigham Young Address to Legislature](https://archive.org/details/CR100317B0001F0017), Feb 5, 1852 #TODO I ought to be able to find a better source for this
+— [Brigham Young Address to Legislature](https://archive.org/details/CR100317B0001F0017), Feb 5, 1852
 
 &nbsp;
 

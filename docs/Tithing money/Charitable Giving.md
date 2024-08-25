@@ -2,6 +2,18 @@
 comments: true
 ---
 # 💸 Charitable Giving
+> *Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
+> 
+> Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
+> 
+> But when thou doest alms, let not thy left hand know what thy right hand doeth:
+> 
+> That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.*
+
+— [Matthew 6:1–4](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/6?id=p1-p4&lang=eng#p1)
+
+&nbsp;
+
 Most of these notes rely on context from the page on [[Tithing money/index|tithing]], so give that a read if you haven't already. This was a subsection, but became long enough that I think it warrants a page of its own.
 
 &nbsp;
@@ -36,13 +48,13 @@ I've got some notes (and a link to the source) for this article on [[WSJ Intervi
 
 Ooh boy. I have a lot to say about this paragraph.
 
-`($2,500,000,000 / 35 = $71,428,571) 71.4 million `
+`($2,500,000,000 ÷ 35 = $71,428,571) 71.4 million`
 
-Not sure if the $906 million is counted in that sum. But it does sound like $200 million is included, and is an outlier, so I might adjust that math to get a better average: `(($2,500,000,000 - $200,000,000) / (35 - 1)) = $67,647,059`
+Not sure if the $906 million is counted in that sum. But it does sound like $200 million is included, and is an outlier, so I might adjust that math to get a better average: `(($2,500,000,000 - $200,000,000) ÷ (35 - 1)) = $67,647,059`
 
 That means we're averaging $67.6 million per year over 35 years. As I'd [[Tithing money/index#Charitable efforts|observed in another page]], 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
 
-`(67,647,059 / 46,200,000,000) = 0.001464`, or 0.15% of *the subset* of Ensign Peak's US stockholdings. That is just over *a tenth of 1%* that they'll proudly tout as being the charitable endeavors from the official church™ restored by Jesus Christ himself.
+`(67,647,059 ÷ 46,200,000,000) = 0.001464`, or 0.15% of *the subset* of Ensign Peak's US stockholdings. That is just over *a tenth of 1%* that they'll proudly tout as being the charitable endeavors from the official church™ restored by Jesus Christ himself.
 
 Don't overlook that last sentence: "*The church subsequently revamped its methodology for reporting charitable spending*[.]" What does that mean? To "[revamp] its methodology for reporting" does not sound like they decided to increase charitable spending by a factor of 14. To me, it sounds like they're stretching the numbers, or quantifying non-monetary services by valuating it through dollars, but surely they wouldn't use fuzzy metrics like that to pad their numbers... would they?
 
@@ -67,7 +79,7 @@ uPenn's link to the study is also a dead end. Using their internal search, I can
 
 > *Of the 2,664 respondents, 65 reported to be “young full-time missionaries.” We defined a young full-time missionary as someone under 30 who answered “yes” to having served at least part of the last 12 months on a full-time mission.*
 
-A subset of `65 / 2,664 = 2.4%` of respondents were under 30 and had served missions in the prior year? The study does outline their sample & methodology, and "the average age of respondents is 50 years." Goodness, okay. I guess that accounts for the low percentage of those having served missions in the recent several years. Props to them for not limiting themselves to the university singles ward's around University of Pennsylvania.
+A subset of `65 ÷ 2,664 = 2.4%` of respondents were under 30 and had served missions in the prior year? The study does outline their sample & methodology, and "the average age of respondents is 50 years." Goodness, okay. I guess that accounts for the low percentage of those having served missions in the recent several years. Props to them for not limiting themselves to the university singles ward's around University of Pennsylvania.
 
 &nbsp;
 
@@ -81,7 +93,7 @@ Oh no you didn't. Deseret is using this study as a source to prove *monetary don
 
 YEAH YOU FUCKEN BETTER OMIT THOSE
 
-I'll acknowledge upfront that this is a bad-faith conclusion to jump to, so hold onto your pants. [2012's General Conference](https://www.churchofjesuschrist.org/study/general-conference/2013/04/statistical-report-2012?lang=eng) reported 58,990 full-time missionaries, and 22,961 church-service missionaries. I don't know if the church would have the audacity to combine those figures. If this study hadn't omitted missionaries, valuing 3,120 hours *per missionary* at $21.36 would make `21.36 * 3120 * 58990 = $3,931,282,368`. Just under *$4 billion* "donated" per year by having a missionary program that the individuals pay for the privilege of being counted in. I can't confidently say that the LDS church is using these numbers in the way I'm outlining here— I'm presenting a worst case scenario in the event that they are.
+I'll acknowledge upfront that this is a bad-faith conclusion to jump to, so hold onto your pants. [2012's General Conference](https://www.churchofjesuschrist.org/study/general-conference/2013/04/statistical-report-2012?lang=eng) reported 58,990 full-time missionaries, and 22,961 church-service missionaries. I don't know if the church would have the audacity to combine those figures. If this study hadn't omitted missionaries, valuing 3,120 hours *per missionary* at $21.36 would make `21.36 * 3120 * 58990 = $3,931,282,368`. Just under *four billion* "donated" per year by having a missionary program that the individuals pay for the privilege of being counted in. I can't confidently say that the LDS church is using these numbers in the way I'm outlining here— I'm presenting a worst case scenario in the event that they are.
 
 &nbsp;
 
@@ -91,27 +103,36 @@ I'll acknowledge upfront that this is a bad-faith conclusion to jump to, so hold
 
 Searching the word "bias" in the paper doesn't turn up any results, but I want to acknowledge [social desirability bias](https://en.wikipedia.org/wiki/Social-desirability_bias), where respondents overreport percieved ‘good behavior’ and underreport ‘bad behavior’. Did the surveyors make it very clear that the purpose of the survey is to measure how much Mormons contribute to charitable ends, by time or money donated? "By Jove," a fifty-year-old respondent strawman in my head is saying, "this is our chance to show the world how charitable we Mormons are! Nine hours per week, minimum. We're *the best*."
 
-#TODO 
-
-https://www.deseret.com/faith/2022/5/13/23071410/2021-charitable-humanitarian-aid-spending-by-the-church-of-jesus-christ-of-latter-day-saints-mormons/
-
-https://www.sltrib.com/news/2024/03/22/how-much-lds-church-spent/
-
-https://www.thechurchnews.com/global/2023/6/11/23754413/caring-for-those-in-need-humanitarian-welfare-self-reliance-numbers/
-
-https://archive.org/details/LdsWelfareFactSheet2009/mode/1up
-
-https://www.reddit.com/r/exmormon/comments/wnflmg/most_of_the_25_billion_in_assistance_that_lds/
-
-
-
-
-
-
-
-
+&nbsp;
 
 ## Widow's Mite
 If you're not familiar with the [Widow's Mite Report](https://widowsmitereport.wordpress.com/), now's a good time to check in on their findings. It's a group of, reportedly, "current and former Church members, whose professional and educational backgrounds include business, finance, law, investment management, economics, journalism and history." They do a better job than I do of tracking down [sources and documents](https://widowsmitereport.wordpress.com/sources/) pertaining to the LDS Church's finances, statistics, spending, etc. They present their findings in an easily-digestible slideshow.
 
 Looking through their 2023 report ([[1](https://widowsmitereport.wordpress.com/2023update)], [[2](https://www.canva.com/design/DAFDocnELmA/view)], they mention some "fuzzy metrics" starting around [page 15](https://www.canva.com/design/DAFDocnELmA/view#15). Given the church's opacity in how they determine these numbers to report, all I have to work with is circumstantial evidence, and it doesn't look good.
+
+&nbsp;
+
+## Canada
+> *The Church of Jesus Christ of Latter-day Saints is stepping forward to help thousands of families facing food insecurity in Toronto, through a generous $2 million donation to Daily Bread Food Bank. ==This is the largest financial gift the Church has made in Canada to date==, and supplements more moderate donations made to Daily Bread in 2022 and 2023.*
+
+— *[THE CHURCH OF JESUS CHRIST MAKES IMPACTFUL $2 MILLION DONATION TO DAILY BREAD FOOD BANK](https://www.newswire.ca/news-releases/the-church-of-jesus-christ-makes-impactful-2-million-donation-to-daily-bread-food-bank-852848224.html)*, Cision Canada
+
+`2,000,000 ÷ 135,000,000,000 = 0.0000148148148148`
+
+That's enough decimal places to render as 1.418E - 5. That's `1 ÷ 67,500`.
+
+&nbsp;
+
+> *That year alone, ... ==the LDS church sent almost $100 million== to its Brigham Young University in the United States.* 
+>
+> *The majority of that money came from tithing — or the 10 per cent of gross annual income some 200,000 Canadian Mormons ... contribute to the church annually.*
+>
+> *In fact, in the last 15 years, the LDS church in Canada has ==moved more than $1 billion across the border== to Brigham Young universities in the U.S., an investigation by CBC's The Fifth Estate has found.*
+>
+> *If members of the church ... were surprised to see how donated money was used, so, too, might Canadian taxpayers. According to tax experts consulted by The Fifth Estate, the church's tax-free status meant the move ==may have cost the Canadian treasury as much as $280 million==.*
+
+— *[Mormon Church in Canada moved $1B out of the country tax free — and it's legal](https://www.cbc.ca/news/canada/mormon-church-jesus-christ-latter-day-saints-funds-charity-1.6630190)*, CBC/Radio-Canada
+
+&nbsp;
+
+Maybe I shouldn't be so upset with the church— after all, maybe they [[Tithing money/SEC/index#LDS Church [PR statement](https //newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3

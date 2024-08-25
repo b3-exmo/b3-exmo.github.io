@@ -9,7 +9,7 @@ An article from June 2024 edition of the Liahona by Elder J. Devn Cornish, *Eme
 
 The first section seems pretty standard, using New Testament passages amid warming up to "testifying of truth is important! you should do it." But, oh boy, ==the first heading== after that reads, at the time of writing, "What If Church Leaders Aren’t Perfect?"
 
-... [[True#Paul Grice's Maxim of Quantity|Who said anything about]] church leaders not being perfect?
+... [[True#Paul Grice's Maxim of Quantity|Who said anything about]] church leaders not being perfect? Moreover, how is their perfection related to the church being true?
 
 We shifted from Christ having established a church (maybe) and the next heading, "Why are you accusing me of not being perfect? It's fine, I never said that I was! Why are you being so hostile to church leaders?" ... what? Is that related to the thesis statement? Perfect leadership wasn't part of the conversation on doctrine or truthfulness until Elder Cornish brought it up in a remarkably defensive way. We're like four paragraphs in, and we've escalated to defending imperfections.
 
@@ -29,7 +29,7 @@ That's a nice [[Logical fallacies#Strawman Fallacy|strawman]] you've got there.
 
 > *[Sometimes](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p14#p14) we defend a concept about the way the Lord deals with the leaders and members of His Church that does not serve us well. We might expect that the Lord should control everything that leaders and administrators in the Church do so that no mistakes of any kind can be made. It may be better to recognize that the Lord gives guidance to those servants as they prayerfully do their best in their respective charges to direct His work. That is how loving parents teach their children.*
 
-You mean like the time when God "guided" Joseph Smith, prophet of the restoration, by [[Polygamy#Angel with a Sword vs Joseph Smith|sending an angel with a flaming sword to destroy him if he doesn't cheat on his wife]]? *Are you led by God or not*? Because if you have a convenient explanation for why something you did *was not* inspired of God each time it's found to be disagreeable, I might question how divinely inspired your organization is.
+You mean like the time when God "guided" Joseph Smith, prophet of the restoration, by [[Doctrines/Polygamy/index#Angel with a Sword vs Joseph Smith|sending an angel with a flaming sword to destroy him if he doesn't cheat on his wife]]? *Are you led by God or not*? Because if you have a convenient explanation for why something you did *was not* inspired of God each time it's found to be disagreeable, I might question how divinely inspired your organization is.
 
 Quick side note: Dallin H Oaks is on record conflating [[Authority#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will.
 
@@ -37,7 +37,7 @@ Quick side note: Dallin H Oaks is on record conflating [[Authority#Policy vs Doc
 
 > *[The Lord gives us](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p15#p15) guidance but does not generally exercise control, except in matters that bear directly on our salvation. Once again, it is not His purpose to perfect the Church but rather to perfect His children, including Church leaders and administrators. This pattern of inspired operations at Church headquarters is not substantially different from that used in stakes and wards and homes.*
 
-God isn't specific unless there's a doctrine you absolutely must follow to get into the celestial kingdom... unless it's about polygamy; [you're on your own to figure out how to obey the commandment](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng&id=p3#p3) to marry multiple women. By the way, it's non-negotiable that [[Polygamy#Required for exaltation!|you need polygamy to be exalted]]. He also does want you to come live with Him in heaven. Good luck!
+God isn't specific unless there's a doctrine you absolutely must follow to get into the celestial kingdom... unless it's about polygamy; [you're on your own to figure out how to obey the commandment](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng&id=p3#p3) to marry multiple women. By the way, it's non-negotiable that [[Doctrines/Polygamy/index#Required for exaltation!|you need polygamy to be exalted]]. He also does want you to come live with Him in heaven. Good luck!
 
 "Stop claiming leaders have to be perfect. We're only a ~$200 billion organization, we're holding ourselves to the same standard of organizational operations as your branch president in West Virginia."
 

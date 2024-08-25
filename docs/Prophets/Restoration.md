@@ -12,20 +12,24 @@ Boy, Jesus sure missed the mark on saying that the church wouldn’t fall to apo
  
 — *[Matthew 16:18](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/16?lang=eng&id=p18#p18)*
 
+&nbsp;
+
 > *Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.*
 
 — *[Matthew 28:20](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=eng&id=p20#p20)*
+
+&nbsp;
 
 There are other NT scriptures quoting Christ on this matter (read [Matthew 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=eng) and [John 15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15?lang=eng)-17)
 
 &nbsp;
 
 ## Ongoing Restoration
-Fun fact, the phrase “ongoing restoration” was never uttered in any general conference talk until 2019 when they made a bunch of changes like 2 hour church and the youth programs and such. For simplicity's sake, here are some [search results](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=ongoing+restoration&genConfDateRange=any-date) for the church's library of the term "ongoing restoration." It was a hot topic in 2019 and 2020.
+Fun fact: the phrase “ongoing restoration” was never uttered in any general conference talk until 2019 when they made a bunch of changes like 2 hour church and the youth programs and such. For simplicity's sake, here are some [search results](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=ongoing+restoration&genConfDateRange=any-date) for the church's library of the term "ongoing restoration." It was a hot topic in 2019 and 2020.
 
 The only exception I've encountered thus far is 2014:
 
-> In reality, the Restoration is an ongoing process; we are living in it right now.
+> *In reality, the Restoration is an ongoing process; we are living in it right now.*
 
 — *[Are You Sleeping through the Restoration?](https://www.churchofjesuschrist.org/study/general-conference/2014/04/are-you-sleeping-through-the-restoration?lang=eng&id=p9#p9)*, President Dieter F. Uchtdorf, General Conference April 2014
 
@@ -38,19 +42,19 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 &nbsp;
 
 ### Already Restored
-> No matter where I go, I meet our missionaries. They are remarkably resilient and ever effective. They give visible and tangible evidence that the Church of Jesus Christ ==has been restored in its fulness==.
+> *No matter where I go, I meet our missionaries. They are remarkably resilient and ever effective. They give visible and tangible evidence that the Church of Jesus Christ ==has been restored in its fulness*==.
 
 — *[Senior Missionaries and the Gospel](https://www.churchofjesuschrist.org/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=eng&id=p4#p4)*, Elder Russel M Nelson, General Conference October 2004
 
 &nbsp;
 
-> When the circumstances were right, Heavenly Father once again reached out to His children in love. He called a young man named Joseph Smith as a prophet. ==Through him the fulness of the gospel of Jesus Christ was restored== to the earth.
+> *When the circumstances were right, Heavenly Father once again reached out to His children in love. He called a young man named Joseph Smith as a prophet. ==Through him the fulness of the gospel of Jesus Christ was restored== to the earth.*
 
-— *[Lesson 1: The Message of the Restoration of the Gospel of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p20#p20)*, Preach My Gospel
+— *[Lesson 1: The Message of the Restoration of the Gospel of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p20#p20)*, Preach My Gospel, 2004 
 
 &nbsp;
 
-> The Great Apostasy was a time of spiritual darkness, but we now live in a time when we can partake of “the light of the glorious gospel of Christ”. ==The fulness of the gospel has been restored==, and the true Church of Jesus Christ is on the earth again. No other organization can compare to it. It is not the result of a reformation, with well-meaning men and women doing all in their power to bring about change. It is a restoration of the Church established by Jesus Christ. It is the work of Heavenly Father and His Beloved Son.
+> *The Great Apostasy was a time of spiritual darkness, but we now live in a time when we can partake of “the light of the glorious gospel of Christ”. ==The fulness of the gospel has been restored==, and the true Church of Jesus Christ is on the earth again. No other organization can compare to it. It is not the result of a reformation, with well-meaning men and women doing all in their power to bring about change. It is a restoration of the Church established by Jesus Christ. It is the work of Heavenly Father and His Beloved Son.*
 
 — [Restoration of the Gospel](https://www.churchofjesuschrist.org/study/manual/true-to-the-faith/restoration-of-the-gospel?lang=eng), True to the Faith (2004)
 
@@ -83,7 +87,7 @@ If we can't define what part of Christ's gospel is being restored, then what are
 
 I recognize the risk in bringing this up, but the idea of "make America great again" comes to mind. When was it great? What made it great? How will we know it has been restored to its state of greatness? Had no other political movement before 2016 thought of a nonspecific past when things were "great"? Does the timeframe we think of as "great" look back on another time that they thought qualified as "great"? Are we nostalgic for the times when seven-year-olds were sweeping chimneys and dying of scarlet fever? No? Then what is the nostalgia pointing to? Did America peak in 1969 when we declared ourselves rulers of outer space by moving the goalposts on Russia?
 
-In the same way, I'd expect that if the modern LDS church is a restoration of what Jesus (allegedly) set up, we'd see a lot more parallels than what I recall:
+In the same way, I'd expect that if the modern LDS church is a restoration of what Jesus (allegedly) set up, we'd see a lot more parallels than:
 
 - 12 followers who might be called apostles
 - Should get baptized

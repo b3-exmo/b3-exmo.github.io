@@ -3,7 +3,7 @@ comments: true
 ---
 # 😈 Satan
 ## Has power
-#TODO (Notes under construction; Satan is not powerless... according to LDS theology)
+(Notes under construction; Satan is not powerless... according to LDS theology)
 
 I've got some unorganized notes and excerpts on this; once it's cleaned up, I'll post them here.
 
