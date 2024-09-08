@@ -3,8 +3,8 @@ site_name: b3-exmo's notes
 theme:
   name: 'material'
   custom_dir: overrides
+  primary: custom
   palette:
-    primary: custom
   # Light mode
   - media: "(prefers-color-scheme: light)"
     scheme: obs-light
@@ -52,22 +52,8 @@ plugins:
   - search
   - roamlinks
   - optimize
-  # - blog
-  # - rss:
-  #     match_path: blog/posts/.* 
-  #     date_from_meta:
-  #       as_creation: date
-  #     categories:
-  #       - categories
-  #       - tags
 
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
-
-# nav:
-#   - Features:
-#     - Features/index.md
-#     - Folder 1: Features/Folder-1.md
+extra:
+  analytics:
+    provider: google
+    property: G-WSB0F0E5MY
