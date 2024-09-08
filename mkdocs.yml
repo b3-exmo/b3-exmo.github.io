@@ -6,13 +6,13 @@ theme:
   primary: custom
   palette:
   # Light mode
-  - media: "(prefers-color-scheme: light)"
+  - media: "(prefers-color-scheme: obs-light)"
     scheme: obs-light
     toggle:
       icon: material/brightness-4
       name: Switch to dark mode
   # Dark mode
-  - media: "(prefers-color-scheme: dark)"
+  - media: "(prefers-color-scheme: obs-dark)"
     scheme: obs-dark
     toggle:
       icon: material/brightness-7

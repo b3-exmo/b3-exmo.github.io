@@ -8,7 +8,11 @@
     --md-accent-fg-color:                #9873f7;
 
     --md-typeset-mark-color:      #ffec99;
-}
+
+    .md-typeset blockquote {
+        border-left: .2rem solid #8a5cf5;
+      }
+    }
 
 [data-md-color-scheme="obs-dark"] {
     --md-primary-fg-color:        #9873f7;
@@ -20,4 +24,8 @@
     --md-accent-fg-color:                #9873f7;
 
     --md-typeset-mark-color:      #786512;
+
+    .md-typeset blockquote {
+        border-left: .2rem solid #8a5cf5;
+      }
 }
