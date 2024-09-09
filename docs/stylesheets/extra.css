@@ -5,13 +5,20 @@
 
     --md-primary-bg-color--light:        #f6f6f6;
     --md-primary-bg-color--dark:        #1e1e1e;
-    
+
     --md-accent-fg-color:                #9873f7;
+
+    --md-default-fg-color: #000;
+    --md-default-bg-color: #fff;
 
     --md-typeset-mark-color:      #ffec99;
 
     .md-typeset blockquote {
         border-left: .2rem solid #8a5cf5;
+      }
+
+    .md-typeset h1 {
+        color: #000;
       }
     }
 
@@ -21,6 +28,7 @@
     --md-primary-fg-color--dark:  #8a5cf5;
 
     --md-default-fg-color: #dadad4;
+    --md-default-bg-color: #1e1e1e;
 
     --md-primary-bg-color--dark:        #1e1e1e;
     --md-primary-bg-color--light:        #f6f6f6;
@@ -33,4 +41,9 @@
     .md-typeset blockquote {
         border-left: .2rem solid #8a5cf5;
       }
+
+    .md-typeset h1 {
+        color: #000;
+      }
+
 }
