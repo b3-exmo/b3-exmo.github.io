@@ -4,7 +4,8 @@
     --md-primary-fg-color--dark:  #8a5cf5;
 
     --md-primary-bg-color--light:        #f6f6f6;
-
+    --md-primary-bg-color--dark:        #1e1e1e;
+    
     --md-accent-fg-color:                #9873f7;
 
     --md-typeset-mark-color:      #ffec99;
@@ -22,6 +23,7 @@
     --md-default-fg-color: #dadad4;
 
     --md-primary-bg-color--dark:        #1e1e1e;
+    --md-primary-bg-color--light:        #f6f6f6;
     --md-primary-bg-color:        #1e1e1e;
 
     --md-accent-fg-color:                #9873f7;
