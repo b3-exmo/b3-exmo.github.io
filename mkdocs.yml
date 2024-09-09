@@ -6,7 +6,7 @@ theme:
   palette:
   # Light mode
   - media: '(prefers-color-scheme: light)'
-    scheme: obs-light
+    scheme: default
     primary: custom
     accent: custom
     toggle:
@@ -14,8 +14,7 @@ theme:
       name: Switch to dark mode
   # Dark mode
   - media: '(prefers-color-scheme: dark)'
-    # scheme: slate
-    scheme: obs-dark
+    scheme: slate
     primary: custom
     accent: custom
     toggle:
