@@ -3,8 +3,6 @@ site_name: b3-exmo's notes
 theme:
   name: 'material'
   custom_dir: overrides
-  primary: custom
-  accent: custom
   palette:
   # Light mode
   - scheme: obs-light
@@ -50,6 +48,9 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   analytics:
