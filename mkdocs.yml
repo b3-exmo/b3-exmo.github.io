@@ -1,16 +1,18 @@
 site_name: b3-exmo's notes
 
 theme:
-  name: 'material'
+  name: material
   custom_dir: overrides
   palette:
   # Light mode
-  - scheme: obs-light
+  - media: '(prefers-color-scheme: light)'
+    scheme: obs-light
     toggle:
       icon: material/brightness-4
       name: Switch to dark mode
   # Dark mode
-  - scheme: obs-dark
+  - media: '(prefers-color-scheme: dark)'
+    scheme: obs-dark
     toggle:
       icon: material/brightness-7
       name: Switch to light mode
