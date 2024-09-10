@@ -2,8 +2,6 @@
 comments: true
 ---
 # 🩸 Blood Atonement
-I don't know what to say in introduction. This practice is pretty self-explanatory, and you'll get the picture soon enough. Read on!
-
 ## Modern Church's comments
 > *"==The lady doth protest too much, methinks==" is a line from the play Hamlet by William Shakespeare. It is spoken by Queen Gertrude in response to the insincere overacting of a character in the play within a play created by Prince Hamlet to elicit evidence of his uncle's guilt in the murder of his father, the King of Denmark.*
 > 
@@ -32,7 +30,7 @@ I'm not pretentious enough to claim that I know more than a handful of Shakespea
 
 And, wouldn't you know it, "it was normal for church leaders to kill their sinful followers in 19th century manifest destiny, why are you making such a big deal out of it" is the note they chose to end on.
 
-Need I remind you that during Brigham's rule over Salt Lake, banishment meant death by exposure to natural elements. You wouldn't just take a Lyft down to Provo and be fine; anything west of the Mississippi river at this time was effectively lawless territory, and by this point Native Americans were getting the idea that these European-descended folks don't have good intentions. If the theocratic state didn't like you, you were pretty well fucked. You could try [walking to Omaha](https://www.google.com/maps/dir/Salt+Lake+City,+Utah/Omaha,+Nebraska/@41.0526261,-109.1927721,6z/data=!4m14!4m13!1m5!1m1!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!2m2!1d-111.8910474!2d40.7607793!1m5!1m1!1s0x87938dc8b50cfced:0x46424d4fae37b604!2m2!1d-95.9345034!2d41.2565369!3e2?entry=ttu) for 2 weeks, if you were feeling spicy.
+Need I remind you that during Brigham's rule over Salt Lake, banishment meant death by exposure to natural elements. You wouldn't just take a Lyft down to Provo and be fine; anything west of the Mississippi river at this time was effectively lawless territory and harsh wilderness, and by this point Native Americans were getting the idea that these European-descended folks don't have good intentions. If the theocratic state didn't like you, you were pretty well fucked. You could try [walking to Omaha](https://www.google.com/maps/dir/Salt+Lake+City,+Utah/Omaha,+Nebraska/@41.0526261,-109.1927721,6z/data=!4m14!4m13!1m5!1m1!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!2m2!1d-111.8910474!2d40.7607793!1m5!1m1!1s0x87938dc8b50cfced:0x46424d4fae37b604!2m2!1d-95.9345034!2d41.2565369!3e2?entry=ttu) for 2 weeks, if you were feeling spicy.
 
 &nbsp;
 
@@ -99,8 +97,6 @@ Easily disproven? Can you point me to a disproving claim, then?
 
 To be fair, that quote from the essay does also have a footnote on this kind of religious violence was normal. That footnote points to some cited sources. At the time of writing this, I haven't delved into those citations, but that sounds like something I ought to do at some point.
 
-
-
 &nbsp;
 
 ## Proponents
@@ -125,8 +121,6 @@ We'll start short. Heber had more to say on this matter in later JoD volumes. He
 &nbsp;
 
 ### Brigham Young
-*In case that wasn't obvious by now*
-
 > *==There are sins that men commit for which they cannot receive forgiveness in this world, or in that which is to come==, and if they had their eyes open to see their true condition, they would be perfectly ==willing to have their blood spilt== upon the ground, that the smoke thereof might ascend to heaven as an offering for their sins; and the smoking incense would atone for their sins, whereas, if such is not the case, they will stick to them and remain upon them in the spirit world.*
 >
 > *. . .*

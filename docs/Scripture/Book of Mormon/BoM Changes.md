@@ -18,7 +18,7 @@ We can read the [1830 edition](https://www.josephsmithpapers.org/paper-summary/b
 
 — [Understanding the Process of Publishing the Book of Mormon](https://newsroom.churchofjesuschrist.org/article/understanding-the-process-of-publishing-the-book-of-mormon#), Church Newsroom, January 2008
 
-A Scripture Committee? That's something I'd like to read more about.
+A Scripture Committee? That's something I'd like to read more about. The Church itself to describing "almost 4,000 editing corrections" makes me think we have an officially sanctioned count and enumeration of those changes. That's also something I'd like to read more about.
 
 What's this? Five *major* editions? Reader, if you were to grab your printed copy of the Book of Mormon, look through the cover & title pages, and let me know if you can find which edition it is. Seems to me that if there were multiple editions, the least the church could do is tell you that upfront.
 
@@ -54,6 +54,18 @@ Joseph asserts that Lamanites are “the former inhabitants” of this continent
 > *The evidence assembled to date suggests that the majority of Native Americans carry largely Asian DNA. Scientists theorize that in an era that predated Book of Mormon accounts, a relatively small group of people migrated from northeast Asia to the Americas by way of a land bridge that connected Siberia to Alaska. These people, scientists say, spread rapidly to fill North and South America and were likely the primary ancestors of modern American Indians.*
 
 — _[Gospel Topics Essay: Book of Mormon and DNA Studies](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-and-dna-studies?lang=eng&id=p4#p4)_
+
+&nbsp;
+
+> *Holy scripture records that “after the waters had receded from off the face of this land it became a choice land above all other lands, a chosen land of the Lord; wherefore the Lord would have that all men should serve him who dwell upon the face thereof.” ([Ether 13:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/13.2?lang=eng#p2).) Such a special place needed now to be kept apart from other regions, free from the indiscriminate traveler as well as the soldier of fortune. To guarantee such sanctity the very surface of the earth was rent. In response to God’s decree, the great continents separated and the ocean rushed in to surround them. The promised place was set apart. ==Without habitation== it waited for the fulfillment of God’s special purposes.*
+>
+> *With care and selectivity, the Lord began almost at once to repeople the promised land. The Jaredites came first, with stories of the great flood fresh in their memories...*
+
+&mdash; *[A Promised Land](https://www.churchofjesuschrist.org/study/ensign/1976/06/a-promised-land?lang=eng&id=p13-p14#p13)*, Jeffrey R Holland, Ensign, June 1976
+
+So... The land was "without habitation." I suppose the interpretation here is that since the Jaredite extinction, Lehi's descendants are the sole progenitors of all Native Americans?
+
+&nbsp;
 
 ## What Nephi sees
 
@@ -150,6 +162,6 @@ Here are some notes from [his post](https://www.reddit.com/r/exmormon/comments/6
 
 The Dropbox folder has some docx, pdf, featuring the highlighted changes, and txt files with the raw, unformatted contents.
 
-I popped those raw texts into [Beyond Compare](https://www.scootersoftware.com/download), since it allowed for more flexible comparisons, such as ignoring case. (e.g. "And it came to pass" vs "and it came to pass" syntactically does count as a change, but practically I find those inconsequential.)
+I popped those raw texts into [Beyond Compare](https://www.scootersoftware.com/download), since it allowed for more flexible comparisons, such as ignoring case, e.g. "And it came to pass" vs "and it came to pass" syntactically does count as a change, but practically I find those inconsequential.
 
 Once I spend more time on the comparison, I'll look for a way to [[TODO#Functional|share my findings here]]. Meanwhile, you now have the same links I do.

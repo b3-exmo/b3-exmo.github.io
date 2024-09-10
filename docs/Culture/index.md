@@ -7,7 +7,7 @@ In the temple endowment ceremony, we are forbidden from selling signs & tokens f
 
 In order for you to receive them, you must… pay money to the church. Am I reading too far into this? Are they selling signs & tokens for money with extra steps to obfuscate the transaction?
 
-Moreover, **how do we delineate “philosophies of men mingled with scripture?”** Isn’t that what General Conference is?
+Moreover, *how do we delineate “philosophies of men mingled with scripture?”* Isn’t that what General Conference is?
 
 &nbsp;
 

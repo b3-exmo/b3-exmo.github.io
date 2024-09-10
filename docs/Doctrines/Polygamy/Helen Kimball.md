@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Helen Mar Kimball
+# 👧 Helen Mar Kimball
 I don't expect I'll delve into the details of each of Joseph's plural wives. I've looked into a few, and feel satisfied that what I've found is egregious enough that reading more isn't going to make things more palatable. If you're interested in the others, I'd direct you to a podcast called [Year of Polygamy](https://www.yearofpolygamy.com/). I've got notes on Helen simply because of the notorious timeline, age gap, and documentation.
 
 ---
@@ -25,7 +25,7 @@ Let's assume there was no boinking involved, and it was simply being "sealed" an
 
 The fact is that he married her- and by that act he secured all rights and privileges to himself and thereby deprived her of any other possible social opportunities. If Joseph was going to wait until she was 18, or whatever the equivalent age of consent would be in the 1840's, he still took advantage of a child and put her in a position that she was unable to consent to.
 
----
+&nbsp;
 
 ## *A Woman's View*
 > *Joseph Smith, a close friend of the Kimballs, privately taught Heber and Vilate in 1841 about plural marriage, which he was commanded by revelation to introduce. In May or June of 1843, Heber introduced Helen to the idea of plural marriage and encouraged her to be sealed to Joseph Smith as a plural wife. She agreed to the sealing and later characterized it as being ==“for eternity alone,” suggesting that the relationship did not involve sexual relations==. Helen ==considered the marriage a sacrifice== that could ==eternally link== the Kimball and Smith families in heavenly society.*
@@ -124,3 +124,10 @@ hol up now
 Helen is asserting in no uncertain terms that she refuses to be sealed as a plural wife to her own father Heber, with the understanding that it's to "raise up children" what the fuck Heber. Heber. Sit down. I am deadass right now I need someone to get in the comments and tell me I'm misinterpreting this, cause it sure sounds like Heber wants to take his own daughter as a plural wife to raise up children. "By doing so they should gain his approbation?" Whose, Josephs? I can't think of anyone's approbation that makes this okay. I can't. 
 
 If this celestial marriage was just ceremonial, why would Helen lament that it was "any thing more than ceremony?" What exactly were these things that were more than a ceremony? If Joseph's plural wives were not for raising up seed, why would the surviving apostles have that as their explicitly stated goal in taking Joseph's surviving wives after his passing? Did these women need to be sealed *again* in order for Joseph's initial plan of bringing them exaltation to work? That wouldn't make sense, and makes me think that Joseph's polygamy wasn't quite so innocuous and philanthropic.
+
+&nbsp;
+
+## As a proponent
+Defenders of the faith will (rightfully) point out that Helen did come around, speaking in favor of polygamy, advocating for it in her later years. At face value, they're not wrong.
+
+I am not qualified to diagnose anything, but could this be a case of something like Stockholm syndrome? Did she convince herself that it was all well and fine in the interest of her own psyche, and emotional wellbeing? I can't say for certain. I can observe that she had a tough transition into it, and later seemed to calm down.

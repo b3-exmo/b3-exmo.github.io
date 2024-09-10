@@ -2,15 +2,6 @@
 comments: true
 ---
 # 🤨 Critical Thinking
-
-[[Cognitive Bias]]
-
-[[Logical fallacies]]
-
-[[Emotional Thinking]]
-
-[[Shelf]]
-
 ## Hugh B Brown
 
 > *The honest investigator must be prepared to follow wherever the search of truth may lead. Truth is often found in the most unexpected places. He must, with fearless and open mind insist that facts are more important than any cherished, mistaken beliefs, no matter how unpleasant the facts or how delightful the beliefs.*
@@ -39,10 +30,5 @@ What seems to work better is explaining the fallacy instead of invoking it. Rath
 
 &nbsp;
 
-## Reading material
-An approachable, readable explanation of many logical fallacies
-https://yourlogicalfallacyis.com/
-
-A really great read:
-[https://medium.com/@veronikatait/all-things-denote-there-is-a-mormon-god-94a11c62cbe6](https://medium.com/@veronikatait/all-things-denote-there-is-a-mormon-god-94a11c62cbe6)
-
+## [All Things Denote There is a Mormon God](https://medium.com/@veronikatait/all-things-denote-there-is-a-mormon-god-94a11c62cbe6)
+One [Veronika Tait](https://medium.com/@veronikatait) wrote a neat article about unfalsifiable claims specific to the LDS Church. At some point, I'd like to copy some excerpts here. Until then, there's a link for you to peruse on your own.

@@ -64,7 +64,7 @@ That said, yes, one can find information to back up any belief or ideology. This
 
 Flip that around.
 
-The LDS church has printed, published online, and frequently repeats a lot of information. That does not make it true. How, then, would we discern [[True|truth]]? Warm fuzzies from the holy spirit?
+The LDS church has printed, published online, and frequently repeats a lot of information. That does not make it true. How, then, would we discern [[True|truth]]? Warm fuzzies from the holy spirit? We don't have a better method without such a vast margin of error?
 
 This isn’t directly related, but appeals to sensibilities and rhetoric is how mass media operates. News outlets can tell you something outright stupid and disprovable, but with such confidence and poise that listeners can take it at face value. This point supports both sides of the argument, for and against LDS beliefs. Anti-LDS will present compelling info. LDS will also present compelling info. Moot point.
 
@@ -110,6 +110,7 @@ It sounds awfully reminiscent of Uchtdorf’s good advice to not jump to a concl
 
 ---
 
+## Joseph Smith
 > *We might remind the sincere inquirer that Internet information does not have a ‘truth’ filter. Some information, no matter how convincing, is simply not true.*
 
 — *[Joseph Smith](https://www.churchofjesuschrist.org/study/liahona/2014/11/saturday-afternoon-session/joseph-smith?lang=eng&id=p18#p18)*, Neil L Andersen Ensign or Liahona, Nov. 2014
@@ -120,6 +121,7 @@ Indeed disinformation exists. Does it only exist outside of LDS teachings, or ca
 
 ---
 
+## A Pattern for Learning Spiritual Things
 > *Answers to spiritual questions are given to individuals who don’t harden their hearts; who ask in faith, believing they will receive; and who diligently keep the commandments.*
 
 — *[A Pattern for Learning Spiritual Things](https://rsc.byu.edu/vol-14-no-3-2013/pattern-learning-spiritual-things)*, Paul V. Johnson, CES address to religious educators, Aug. 7, 2012
@@ -128,6 +130,7 @@ See mentions of cognitive biases. Promising answers only to people “receptive�
 
 ---
 
+## All Hell is Moved
 > *Studying the Church … through the eyes of its defectors [is] like interviewing Judas to understand Jesus.* 
 
 — [All Hell Is Moved](https://speeches.byu.edu/talks/neal-a-maxwell/hell-moved/), Neal A. Maxwell, BYU Devotional, Nov. 8, 1977
@@ -138,6 +141,6 @@ Full quote:
 
 “Some insist upon studying the Church only through the eyes of its defectors—like interviewing Judas to understand Jesus. Defectors always tell us more about themselves than about that from which they have departed.”
 
-That excluded sentence is deflecting the criticism onto the questioning individuals. Not a good look.
+That excluded sentence is deflecting the criticism onto the questioning individuals. Not a good look. This is like asserting "we'll *never* understand Jonestown, because the only people who experienced it defected!" "We have no way of really knowing *The Beatles*. [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr) is still alive, yes, but the group has disbanded, so we can't ask him anything."
 
 Using ellipsis to exclude the word “only” shouldn’t be overlooked. True, if you only read anti-LDS sentiments, you’ll get grossly skewed information. What does it say when LDS leadership damns itself through its own teachings, though?

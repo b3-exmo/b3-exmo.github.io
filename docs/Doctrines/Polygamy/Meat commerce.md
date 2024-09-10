@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-## 🥩💱 Meat Commerce
+# 🥩💱 Meat Commerce
 ## Runtu
 [Runtu's Rincon](https://runtu.wordpress.com/about/) appears to be a wordpress blog run by one [John Williams](https://runtu.wordpress.com/runtus-book-heaven-up-here/) under the pseudonym Runtu. As near as I can tell, he (?) runs a personal blog that often veers into commentary on his life and involvement with Mormonism. The About Page describes Runtu as being "in [his] 50's" as of mid-2008. One of Runtu's posts, [Secret Wives](https://runtu.wordpress.com/2010/12/24/secret-wives/), examines the ideas of Joseph Smith hiding his polygamous relationships from his legally, lawfully wedded wife Emma. Here's an excerpt from that blog entry:
 

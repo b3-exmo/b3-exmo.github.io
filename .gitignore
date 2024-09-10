@@ -1,2 +1,224 @@
 .vscode/settings.json
-.obsidian/*
+docs/.obsidian
+docs-synced
+docs/.obsidian/app.json
+docs/.obsidian/appearance.json
+docs/.obsidian/community-plugins.json
+docs/.obsidian/core-plugins-migration.json
+docs/.obsidian/core-plugins.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/workspace.json
+docs/.obsidian/plugins/highlightr-plugin/main.js
+docs/.obsidian/plugins/highlightr-plugin/manifest.json
+docs/.obsidian/plugins/highlightr-plugin/styles.css
+docs/Needs more info/American frontier magic.md
+docs/Needs more info/Anachronisms.md
+docs/Needs more info/Anti-LGBT.md
+docs/Needs more info/Cult.md
+docs/Needs more info/Discernment.md
+docs/Needs more info/Doctrine.md
+docs/Needs more info/Dont look for info elsewhere.md
+docs/Needs more info/Expositor.md
+docs/Needs more info/Moving Goalposts.md
+docs/Needs more info/name mormon WIP.md
+docs/Needs more info/Nauvoo Expositor.md
+docs/Needs more info/NDA.md
+docs/Needs more info/Needs more info.md
+docs/Needs more info/Oh no, you left!.md
+docs/Needs more info/Poetry.md
+docs/Needs more info/Reading material.md
+docs/Needs more info/Temple.md
+docs/Needs more info/truth wip.md
+docs/Needs more info/Utah.md
+docs/Needs more info/Wanking.md
+docs/Needs more info/Whitewashing History.md
+docs/Needs more info/Copied posts/BY claims.md
+docs/Needs more info/Copied posts/Claims to examine.md
+docs/Needs more info/Copied posts/Copied posts.md
+docs/Needs more info/Copied posts/Isaac Hale.md
+docs/Needs more info/Copied posts/Misogyny, women.md
+docs/Needs more info/Copied posts/Nuancehoe doc.md
+docs/Needs more info/Questions to ask/25 Questions.md
+docs/Needs more info/Questions to ask/Questions to ask.md
+docs/Needs more info/Testimony, Faith, Belief, Bias/Moronis Promise.md
+docs/Needs more info/Testimony, Faith, Belief, Bias/Testimony, Faith, Belief, Bias.md
+docs/Needs more info/To-do/Anti.md
+docs/Needs more info/To-do/Conflate.md
+docs/Needs more info/To-do/Succession Crisis.md
+docs/Needs more info/To-do/To-do.md
+docs/Needs more info/To-do/Word of Wisdom.md
+docs/Needs more info/Unsorted/For-profit.md
+docs/Needs more info/Unsorted/Tithing lawsuit.md
+docs/Needs more info/Unsorted/Unsorted.md
+/docs/.obsidian
+docs/.obsidian/app.json
+docs/.obsidian/appearance.json
+docs/.obsidian/community-plugins.json
+docs/.obsidian/core-plugins-migration.json
+docs/.obsidian/core-plugins.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/workspace.json
+docs/.obsidian/plugins/highlightr-plugin/main.js
+docs/.obsidian/plugins/highlightr-plugin/manifest.json
+docs/.obsidian/plugins/highlightr-plugin/styles.css
+docs/backup/index~20240728-134343.md
+docs/backup/Mark E Petersen~20240728-134343.md
+docs/backup/My own experience~20240728-134343.md
+docs/backup/.obsidian/workspace-mobile~20240726-174212.json
+docs/backup/.obsidian/workspace-mobile~20240727-170747.json
+docs/backup/.obsidian/workspace-mobile~20240728-134343.json
+docs/backup/.obsidian/workspace~20240722-075632.json
+docs/backup/Commentated Docs/Fourteen Fundamentals in Following the Prophet~20240726-084645.md
+docs/backup/Commentated Docs/What Do We Mean When We Say the Church Is True~20240725-081620.md
+docs/backup/Critical thinking/Emotional Thinking~20240725-081620.md
+docs/backup/Critical thinking/Falsifiability~20240725-081620.md
+docs/backup/Critical thinking/Falsifiability~20240725-124105.md
+docs/backup/Culture/Compare to other faiths~20240722-115317.md
+docs/backup/Culture/Compare to other faiths~20240722-115337.md
+docs/backup/Culture/Compare to other faiths~20240722-115407.md
+docs/backup/Culture/Infallibility~20240726-084645.md
+docs/backup/Culture/Sexuality Repression~20240726-084645.md
+docs/backup/Culture/Strengthening Church Members Committee~20240726-084645.md
+docs/backup/Culture/Too Sacred to Share~20240726-084645.md
+docs/backup/Culture/True~20240726-084645.md
+docs/backup/Culture/Untitled~20240722-092412.md
+docs/backup/Doctrines/Becoming Gods~20240726-084645.md
+docs/backup/Doctrines/Becoming Gods~20240726-121007.md
+docs/backup/Doctrines/Polygamy~20240726-084645.md
+docs/backup/Doctrines/Polygamy~20240727-170745.md
+docs/backup/General Christianity ideas/Apostles~20240726-121007.md
+docs/backup/General Christianity ideas/Apostles~20240726-173309.md
+docs/backup/General Christianity ideas/Baptism~20240726-121450.md
+docs/backup/General Christianity ideas/Baptism~20240726-121524.md
+docs/backup/General Christianity ideas/Baptism~20240726-173339.md
+docs/backup/General Christianity ideas/Exaltation, afterlife~20240726-173348.md
+docs/backup/General Christianity ideas/Historicity~20240726-173902.md
+docs/backup/General Christianity ideas/Historicity~20240726-173941.md
+docs/backup/General Christianity ideas/Historicity~20240726-174000.md
+docs/backup/General Christianity ideas/Holy Spirit Promptings~20240726-174021.md
+docs/backup/General Christianity ideas/index~20240726-174031.md
+docs/backup/General Christianity ideas/index~20240726-174041.md
+docs/backup/General Christianity ideas/index~20240726-174051.md
+docs/backup/General Christianity ideas/Satan Larsen~20240727-170748.md
+docs/backup/General Christianity ideas/Theology~20240727-170745.md
+docs/backup/Needs more info/Questions to ask/Copies~20240722-092311.md
+docs/backup/Needs more info/Unsorted/Unsorted~20240722-075632.md
+docs/backup/Prophets/George Albert Smith~20240727-170746.md
+docs/backup/Prophets/index~20240726-084645.md
+docs/backup/Prophets/index~20240727-170747.md
+docs/backup/Prophets/Brigham Young/Blood Atonement~20240727-170748.md
+docs/backup/Prophets/Ezra Taft Benson/index~20240726-084645.md
+docs/backup/Prophets/Joseph Smith/First Vision~20240727-170749.md
+docs/backup/Prophets/Joseph Smith/index~20240727-170747.md
+docs/backup/Prophets/Joseph Smith/Kinderhook Plates~20240726-084645.md
+docs/backup/Prophets/Joseph Smith/Kinderhook Plates~20240727-170745.md
+docs/backup/Scripture/Bible~20240724-083511.md
+docs/backup/Scripture/Book of Mormon/Translation~20240722-075633.md
+docs/backup/Tithing money/Charitable Giving~20240727-170748.md
+docs/backup/javascripts/mathjax~20240728-134343.js
+docs/.obsidian/app.json
+docs/.obsidian/appearance.json
+docs/.obsidian/community-plugins.json
+docs/.obsidian/core-plugins-migration.json
+docs/.obsidian/core-plugins.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/workspace.json
+docs/.obsidian/plugins/highlightr-plugin/main.js
+docs/.obsidian/plugins/highlightr-plugin/manifest.json
+docs/.obsidian/plugins/highlightr-plugin/styles.css
+docs/Needs more info/addressing the evidence for the lds church.pdf
+docs/Needs more info/coverup.md
+docs/Needs more info/discoursesofbrig028407mbp.pdf
+docs/Needs more info/hoc v1.pdf
+docs/Needs more info/KSS.md
+docs/Needs more info/letter for my wife.pdf
+docs/Needs more info/Mark E Petersen.md
+docs/Needs more info/mcconkie.md
+docs/Needs more info/moon.md
+docs/Needs more info/mormon-challenge-short.pdf
+docs/Needs more info/mormon-challenge.pdf
+docs/Needs more info/Not commanded in all things.pdf
+docs/Needs more info/Prophets wip.md
+docs/Needs more info/Repudiation or Journal of Discourses.md
+docs/Needs more info/Sec-order.pdf
+docs/Needs more info/Questions to ask/Copies.md
+docs/Needs more info/Unsorted/what happened to the plates.md
+docs/javascripts/mathjax.js
+docs/.obsidian/app.json
+docs/.obsidian/appearance.json
+docs/.obsidian/community-plugins.json
+docs/.obsidian/core-plugins-migration.json
+docs/.obsidian/core-plugins.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/workspace.json
+docs/.obsidian/plugins/highlightr-plugin/main.js
+docs/.obsidian/plugins/highlightr-plugin/manifest.json
+docs/.obsidian/plugins/highlightr-plugin/styles.css
+docs/.stfolder/syncthing-folder-5ec79b.txt
+docs/.obsidian/app.json
+docs/.obsidian/appearance.json
+docs/.obsidian/community-plugins.json
+docs/.obsidian/core-plugins-migration.json
+docs/.obsidian/core-plugins.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/workspace.json
+docs/.obsidian/plugins/highlightr-plugin/main.js
+docs/.obsidian/plugins/highlightr-plugin/manifest.json
+docs/.obsidian/plugins/highlightr-plugin/styles.css
+docs/.trash/25 Questions.md
+docs/.trash/Fourteen Fundamentals in Following the Prophet - Dev copy.md
+docs/.trash/jonathan-roumie-sigh 1.gif
+docs/.trash/Questions to ask.md
+docs/.trash/SEC.md
+docs/.trash/javascripts/mathjax.js
+docs/backup/scratch~20240908-141836.md
+docs/backup/.obsidian/app~20240908-141836.json
+docs/backup/.obsidian/appearance~20240908-141836.json
+docs/backup/.obsidian/workspace-mobile~20240908-180015.json
+docs/backup/.obsidian/workspace-mobile~20240908-201729.json
+docs/backup/.obsidian/workspace-mobile~20240909-081731.json
+docs/backup/.obsidian/workspace~20240908-141836.json
+docs/backup/.obsidian/workspace~20240908-141957.json
+docs/backup/.obsidian/workspace~20240909-081851.json
+docs/backup/General Christianity ideas/Apostles~20240908-141836.md
+docs/backup/General Christianity ideas/Theology~20240905-140754.md
+docs/backup/Needs more info/Needs more info~20240905-140755.md
+docs/backup/Prophets/index~20240909-081731.md
+docs/backup/Race/index~20240908-141836.md
+docs/backup/Race/Race in scripture~20240908-141836.md
+docs/backup/Race/Skin of blackness~20240905-140755.md
+docs/backup/Race/Skin of blackness~20240908-141836.md
+docs/backup/Race/Race in Modern Church Leadership/Race in Modern Church Leadership~20240908-141836.md
+docs/Needs more info/01pyz56vjj4a1.webp
+docs/Needs more info/Agency.md
+docs/Needs more info/Antichrist.md
+docs/Needs more info/Apostles.md
+docs/Needs more info/Beneficial Life.md
+docs/Needs more info/Compare to other faiths.md
+docs/Needs more info/Does not appear in scripture.md
+docs/Needs more info/in very deed.md
+docs/Needs more info/Jesus' church.md
+docs/Needs more info/Meetings TODO.md
+docs/Needs more info/Membership statistics.md
+docs/Needs more info/Pasted image 20240802170022.png
+docs/Needs more info/Satan Larsen.md
+docs/Needs more info/Temple lot.md
+docs/Needs more info/Unanswered questions.md
+docs/Needs more info/Wentworth Letter.md
+docs/Needs more info/Witnesses.md
+docs/Needs more info/Multimedia/Reading Church History--1985.mp3
+docs/Needs more info/PDF/08702_eng.pdf
+docs/Needs more info/PDF/addressing the evidence for the lds church.pdf
+docs/Needs more info/PDF/Asherah-Class-Bibliography.pdf
+docs/Needs more info/PDF/BITE Model - Mormonism.pdf
+docs/Needs more info/PDF/discoursesofbrig028407mbp.pdf
+docs/Needs more info/PDF/documentary history of the church.pdf
+docs/Needs more info/PDF/general_handbook_august_2022.pdf
+docs/Needs more info/PDF/hoc v1.pdf
+docs/Needs more info/PDF/JFSDoctrinesofSalvationv1-3.pdf
+docs/Needs more info/PDF/letter for my wife.pdf
+docs/Needs more info/PDF/mormon-challenge-short.pdf
+docs/Needs more info/PDF/mormon-challenge.pdf
+docs/Needs more info/PDF/MormonDoctrine1966.pdf
+docs/Needs more info/PDF/Not commanded in all things.pdf
+docs/Needs more info/PDF/Sec-order.pdf

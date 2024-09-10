@@ -2,22 +2,6 @@
 comments: true
 ---
 # ✝️ General Christianity Ideas
-[[Baptism]]
-
-[[Bible]]
-
-[[Exaltation, afterlife]]
-
-[[Historicity]]
-
-[[Holy Spirit Promptings]]
-
-[[Satan]]
-
-[[Theology]]
-
-[[What are blessings]]
-
 ## Time
 
 > *Let’s say that the consensus is that our species, we being the higher primates, has been on the planet for at least 100,000 years, maybe more. Francis Collins says 100,000, Richard Dawkins thinks a quarter-of-a-million. I’ll take 100,000…*

@@ -9,36 +9,34 @@ Apologies in advance if these examples sound condescending or reductive. I'm usi
 ## What is it?
 > *A [theory](https://en.wikipedia.org/wiki/Scientific_theory "Scientific theory") or [hypothesis](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis") is **falsifiable** (or **refutable**) if it can be logically contradicted by an [empirical test](https://en.wikipedia.org/wiki/Empirical_test "Empirical test").*
 
-— *[Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)*, Wikipedia
-
-See also: https://philosophyterms.com/law-of-falsifiability/
+— *[Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)*, Wikipedia; See also: *[Law of Falsifiability](https://philosophyterms.com/law-of-falsifiability/)*, Philosophy Terms
 
 &nbsp;
 
 ### Dragon in my Garage
-> *Suppose . . . I seriously make such an assertion to you. Surely you'd want to check it out, see for yourself. There have been innumerable stories of dragons over the centuries, but no real evidence. What an opportunity!
+> *Suppose . . . I seriously make such an assertion to you. Surely you'd want to check it out, see for yourself. There have been innumerable stories of dragons over the centuries, but no real evidence. What an opportunity!*
 >
-> "Show me," you say. I lead you to my garage. You look inside and see a ladder, empty paint cans, an old tricycle — but no dragon.
+> *"Show me," you say. I lead you to my garage. You look inside and see a ladder, empty paint cans, an old tricycle — but no dragon.*
 >
-> "Where's the dragon?" you ask.
+> *"Where's the dragon?" you ask.*
 >
-> "Oh, she's right here," I reply, waving vaguely. "I neglected to mention that she's an invisible dragon."
+> *"Oh, she's right here," I reply, waving vaguely. "I neglected to mention that she's an invisible dragon."*
 >
-> You propose spreading flour on the floor of the garage to capture the dragon's footprints.
+> *You propose spreading flour on the floor of the garage to capture the dragon's footprints.*
 >
-> "Good idea," I say, "but this dragon floats in the air."
+> *"Good idea," I say, "but this dragon floats in the air."*
 >
-> Then you'll use an infrared sensor to detect the invisible fire.
+> *Then you'll use an infrared sensor to detect the invisible fire.*
 >
-> "Good idea, but the invisible fire is also heatless."
+> *"Good idea, but the invisible fire is also heatless."*
 >
-> You'll spray-paint the dragon and make her visible.
+> *You'll spray-paint the dragon and make her visible.*
 >
-> "Good idea, but she's an incorporeal dragon and the paint won't stick."
+> *"Good idea, but she's an incorporeal dragon and the paint won't stick."*
 >
-> And so on. I counter every physical test you propose with a special explanation of why it won't work.
+> *And so on. I counter every physical test you propose with a special explanation of why it won't work.*
 >
-> Now, ==what's the difference between an invisible, incorporeal, floating dragon who spits heatless fire and no dragon at all?== If there's no way to disprove my contention, no conceivable experiment that would count against it, ==what does it mean to say that my dragon exists==? ==Your inability to invalidate my hypothesis is not at all the same thing as proving it true==. Claims that cannot be tested, assertions immune to disproof are veridically worthless, whatever value they may have in inspiring us or in exciting our sense of wonder. What I'm asking you to do comes down to believing, in the absence of evidence, on my say-so.
+> *Now, ==what's the difference between an invisible, incorporeal, floating dragon who spits heatless fire and no dragon at all?== If there's no way to disprove my contention, no conceivable experiment that would count against it, ==what does it mean to say that my dragon exists==? ==Your inability to invalidate my hypothesis is not at all the same thing as proving it true==. Claims that cannot be tested, assertions immune to disproof are veridically worthless, whatever value they may have in inspiring us or in exciting our sense of wonder. What I'm asking you to do comes down to believing, in the absence of evidence, on my say-so.*
 
 — [*The Demon-Haunted World*](https://archive.org/details/the-demon-haunted-world-01), by Carl Sagan, 1995. Copied from [RationalWiki](https://rationalwiki.org/wiki/The_Dragon_in_My_Garage#Overview_of_the_analogy)
 
@@ -96,9 +94,9 @@ Have LDS church leaders made falsifiable claims that turned out false? I'll add 
 
 — *[D&C 130:14-17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng&id=p14-p17#p14)*
 
-He was born in 1805, so adding 85 to that places us at 1890.
+He was born in 1805, so `1805 + 85 = 1890`.
 
-Once could argue that there's enough of a caveat in there; since Joseph did not live to be 85, the prophecy is still valid. D&C 3:1 is at odds with that claim: "*The works, and the designs, and the purposes of God cannot be frustrated, neither can they come to naught.*" Who would have guessed that the mob that killed Joseph could overrule God's intentions! 
+Once could argue that there's enough of a caveat in there; since Joseph did not live to be 85, the prophecy is still valid. [D&C 3:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng&id=p1#p1) is at odds with that claim: "*The works, and the designs, and the purposes of God cannot be frustrated, neither can they come to naught.*" Who would have guessed that the mob that killed Joseph could overrule God's intentions! 
 
 Both of these passages can't be true. If one or the other is false, we might begin to question whether or not Smith was a prophet.
 
@@ -110,4 +108,4 @@ In a meeting on Feb 14, 1835, [[Prophets/Joseph Smith/index|Joseph Smith]] defin
 
 — *[History, 1838–1856, volume B-1](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/18)*, [1 September 1834–2 November 1838], p. 564
 
-Well... 1835 + 56 = 1891. That year has come and gone. It'd be odd if any [church leader after 1891](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=second+coming&page=1) were to [hype up how we need to prepare for it](https://www.churchofjesuschrist.org/study/general-conference/topics/second-coming?lang=eng) in the non-specific future. After all, [no one knows](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng&id=p7#p7) when it will be!
+Well... `1835 + 56 = 1891`. That year has come and gone. It'd be odd if any [church leader after 1891](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=second+coming&page=1) were to [hype up how we need to prepare for it](https://www.churchofjesuschrist.org/study/general-conference/topics/second-coming?lang=eng) in the non-specific future. After all, [no one knows](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng&id=p7#p7) when it will be!

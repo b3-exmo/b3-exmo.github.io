@@ -10,7 +10,9 @@ This is a high-level overview with some short examples I've found. A more compre
 
 ---
 ## Fallacies
-A primer:
+In the event that you don't find a great, big, wall of text appealing, consider [Your logical fallacy is...](https://yourlogicalfallacyis.com/), a site that presents these ideas in a simpler, approachable way. If you hate brevity and color, stick around!
+
+
 **"Absence of evidence**" = There is no evidence present. No evidence has been found. For example: There is no evidence that pink unicorns exist." This does not strictly mean that the argument is impossible, simply that there is no evidence.
 
 **"Evidence of absence"** = Found evidence demonstrating that something was there but is now missing or gone. For example: "The dust on the mantel shows that the clock has been removed." Evidence of absence is indeed evidence.
@@ -374,6 +376,8 @@ Extraordinary claims require extraordinary evidence.
 That which is asserted without evidence can be dismissed without evidence
 
 [https://en.m.wikipedia.org/wiki/Hitchens%27s_razor](https://en.m.wikipedia.org/wiki/Hitchens%27s_razor)
+
+&nbsp;
 
 #### Pathos, Logos, Ethos
 None of these should be counted as wrong, or bad. They are rhetorical devices used to make an argument. I'll observe them here for you to keep in mind for the future.

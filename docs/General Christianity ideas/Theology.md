@@ -3,9 +3,9 @@ comments: true
 ---
 # 🌩 Theology
 ## LDS God
-Quick note: For clarity's sake, I'm referring to God the Father as [Elohim](https://en.wikipedia.org/wiki/Elohim). That ~~name~~ word appears in [Hebrew](https://www.britannica.com/topic/Elohim) transcripts, and even in the [LDS Topical Guide](https://www.churchofjesuschrist.org/study/scriptures/tg/god-the-father-elohim?lang=eng). Its [etymology](https://www.theopedia.com/elohim) suggest that *El* may be singular, the suffix *-im* is plural and masculine. I surmise this is why the Nicaean Counsel took more than five minutes to settle on trinitarianism- the Hebrew transcripts are **not** monotheistic, as mentions of Elohim literally does not refer to one being, but a plurality of deities.
+Quick note: For clarity's sake, I'm referring to God the Father as [Elohim](https://en.wikipedia.org/wiki/Elohim). That ~~name~~ word appears in [Hebrew](https://www.britannica.com/topic/Elohim) transcripts, and even in the [LDS Topical Guide](https://www.churchofjesuschrist.org/study/scriptures/tg/god-the-father-elohim?lang=eng). Its [etymology](https://www.theopedia.com/elohim) suggests that *El* may be singular, the suffix *-im* is plural and masculine. I surmise this is why the Nicaean Counsel took more than five minutes to settle on trinitarianism- the Hebrew transcripts are **not** monotheistic, as mentions of Elohim literally does not refer to one being, but a plurality of deities.
 
-LDS Theology, for some reason, has settled on the idea that the Hebrew *word* for "two or more male gods" means the name of one individual.
+LDS Theology, for some reason, has settled on the idea that the Hebrew *word* for "two or more male gods" means the name of one individual. Christian denominations that use English, including LDS, have a grammatical hurdle here: God as a proper noun, name, unique individual to be identified, is the same word as "god" as a concept, a noun, a role or title. This wouldn't be too troublesome if we didn't use that same lower-case word "god" to refer to both Jehovah the son, and Elohim the father. Since I'm a monolingual American, I can't really speak to Christian flavors outside of English language & culture.
 
 See also: [[Gods Conditional Love|God's Conditional Love]]
 
@@ -21,7 +21,7 @@ According to LDS doctrine:
 
 &nbsp;
 
-#### God's Plan for Us
+### God's Plan for Us
 Have his only perfect son murdered so he could convince himself to forgive you for failing his test and then use the blood of the Jesus to save you from his consequences for failing! As long as you ritualistically pretend to drink the blood and eat the flesh of god's son every week, pay the club dues, obey your leaders, and covenant to give everything you have including your own life to one specific church. If you don't like that plan, prison is waiting for you on the other side. 
 
 But wait, there's more! While you're in prison, someone in a temple will be performing nonconsensual rituals for you so you can choose while under duress to accept Elohim's plan and enter a lower tier peasant heaven for second class citizens! You'll still be looked down on for eternity, but hey, at least you're not in prison!
@@ -30,10 +30,8 @@ After everything is said and done, the success rate of Elohim's plan will be sig
 
 If it's all true, then Elohim is either the most incompetent god or the most evil god in all of mythology. Either way, he's not worthy of my time or consideration.
 
-Don’t forget that even after passing the test, and not letting demons persuade you into doing bad things like drinking hot bean water or thinking about touching your ding-dong, you also must learn the right handshakes to enter to go back to live with your dad. Hope you’ve been wearing right kind of underwear!
+Don’t forget that even after resisting demons who persuade you into doing bad things like drink hot bean water or think about touching your ding-dong, you also must learn the right handshakes to enter to go back to live with your dad. Hope you’ve been wearing right kind of underwear!
 
-God *requires* justice, but can't bring himself to forgive outright. So, *he needs a blood offering* to be happy with us.
-
-Think of that. The God of Christianity requires suffering for sins, and we're made to sin. We're imperfect enough that it's inevitable. God made us this way! He requires blood to be happy with his creations!
+God *requires* justice, but can't bring himself to forgive outright. So, *he needs a blood offering* to be happy with us. Think of that. The God of Christianity requires suffering for sins, and we're made to sin. We're imperfect enough that it's inevitable. God made us this way! He requires blood to be happy with his creations!
 
 Within Mormonism, this is packaged in the pretext that God is our father who loves us, but you can expect [[Anxiety|no mercy if you step out of line]].

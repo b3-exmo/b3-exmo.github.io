@@ -29,7 +29,11 @@ There are no “truly” LDS doctrines are in there:
 
 - Temples
 - Temple ordinances
+	- Baptisms for the Dead
+	- Eternal marriage
+	- Sealing
 - Two priesthood tiers (by whatever name we prefer)
+- Ongoing revelation
 - Organization & centralization of **a** church, **the** true church
 
 &nbsp;
@@ -38,10 +42,12 @@ If this book was true, the Book of Mormon’s main value would be a witness that
 
 If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]] church, it seems to leave a lot out. So much of the modern LDS church seems to be founded on the Doctrine & Covenants, or the Pearl of Great Price.
 
-### Pride cycle vs Agency
-*Pride precedeth the fall*. Pride comes from righteous living. Do you see a problem with this? "You should strive and try and live the gospel. but... when you do... here's what's going to happen."
+&nbsp;
 
-An awful lot of the Book of Mormon is what its adherents call the pride cycle:
+### Pride cycle vs Agency
+*Pride precedeth the fall*. Pride comes from righteous living. Do you see a problem with this? An awful lot of the Book of Mormon is what its adherents call the *pride cycle*. 
+
+"You should strive and try and live the gospel. but... when you do... here's what's going to happen:"
 
 1. God blesses righteous, obedient people 
 2. People become prideful & stop being obedient 
@@ -53,7 +59,7 @@ God rewards your obedience and righteousness with a reward corrupts you, bringin
 
 Who breaks the cycle? Is it us? Are we meant to **not** be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle— God is the one who keeps blessing us. I won't be prideful anymore if God stops *making* me prideful. 
 
-God has had a more than a few years of experience with this cycle, you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever I get blessed by God? Is God trying to tell me that I shouldn't become humble and obedient? He sure seems to want to disincentivize that.
+God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually&mdash; you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever I get blessed by God? Is God trying to tell me that I shouldn't become humble and obedient? He sure seems to want to disincentivize that.
 
 &nbsp;
 
@@ -247,7 +253,7 @@ When the author of the _Book of Mormon_ lifted these words from the book of Re
 — _From [http://www.utlm.org/onlinebooks/changech5b.htm](http://www.utlm.org/onlinebooks/changech5b.htm)_
 
 &nbsp;
-## Probability / Occam’s Razor
+## Probability / [Occam’s Razor](https://www.britannica.com/topic/Occams-razor)
 The official story is that Joseph was visited by a Native American ghost who led him to a buried golden book in the style of 19th century New England folk magic. The book was written in a language and script found nowhere else in history, though the characters look amazingly similar to modern English letters with extra lines or turned upside down. Joseph translated it using a magic rock he found in a well and previously used to search for buried Native American treasure. The original book has since disappeared, but we can confirm without a doubt that Joseph’s later translation activities were fabricated based on existing source documents.
 
 The book is a story about a massive, thousand-year civilization for which there is no supporting linguistic, archaeological, or genetic evidence. It copies large excerpts from the King James Bible edition to which Joseph had access, including translation errors and writings that didn’t exist when the Book of Mormon peoples were supposed to have left Jerusalem. Joseph claimed it to be a legitimate translation.

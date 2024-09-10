@@ -63,7 +63,7 @@ Hoo boy. Are there any other spicy things in this book, used as the primary sour
 
 Teachings on [[Blood Atonement]] right there in the exact same source material that the church's own published book uses as a source. I will defecate myself right here, right now, if the comment section suggests this *Discourses of Brigham Young* is "anti-Mormon" literature. God*dammit*.
 
-I can't explain the discrepancy between the page numbers in the *Teachings of the Presidents* manual and the *DBY* source. Maybe they're different editions. But I don't imagine that the 1997 First Presidency expected that lay folk would actually be able to dig up the source used. I don't know that I would have, if they hadn't outright told me to not bother looking up the source.
+I can't explain the discrepancy between the page numbers in the *Teachings of the Presidents* manual and the *DBY* source. Maybe they're different editions. But I don't imagine that the 1997 First Presidency expected that lay folk would actually be able to dig up the source used. I don't know that I would have done it myself, if they hadn't outright told me to not bother looking up the source.
 
 ---
 
@@ -119,11 +119,15 @@ _From <_[_https://rsc.byu.edu/firm-foundation/six-days-august-brigham-young-succ
 
 🎼 *We thank thee, o God, for a prophet...* 🎵
 
+&nbsp;
+
 ## Popularity
 > *Many wish for the time when President Brigham Young and his brethren will be relieved from attending to temporal matters, and attend to spiritual matters altogether. You will have to wait for this until we get into the spiritual world and have to deal with spirits.*
 
 — [Sanctification](https://scriptures.byu.edu/#:t11173:j07); Heber C. Kimball, [Journal of Discourses 7](https://scriptures.byu.edu/jod/pdf/JoD07/JoD07.pdf):18
 
-"I'm feeling dissatisfied with a theocratic dictator who is very open about talking of killing his followers." "Tough shit, wait til he dies before things will get any better."
+"I'm feeling dissatisfied with a theocratic dictator who is very open about talking of killing his followers."
+
+"Tough shit, wait til he dies before things will get any better."
 
 (ಠ_ಠ)

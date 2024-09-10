@@ -9,7 +9,7 @@ comments: true
 >
 > *==The only men who [[Becoming Gods|become Gods]], even the Sons of God, are those who enter into polygamy==. Others attain unto a glory and may even be permitted to come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to accept them.*
 
-— *[Beneficial Effects of Polygamy, etc]; Brigham Young, [Journal of Discourses 11](https://scriptures.byu.edu/jod/pdf/JoD11/JoD11.pdf):269
+— *[Beneficial Effects of Polygamy, etc]; Brigham Young, [Journal of Discourses 11](https://scriptures.byu.edu/jod/pdf/JoD11/JoD11.pdf):269*
 
 &nbsp;
 
@@ -22,7 +22,7 @@ comments: true
 ### God is polygamist, too
 > *Yes, [polygamy is] one of the relics of Adam, of Enoch, of Noah, of Abraham, of Isaac, of Jacob, of Moses, David, Solomon, the Prophets, ==of Jesus, and his apostles==.*
 
-— *[The Improved Condition of the Saints, etc]; Brigham Young, [Journal of Discourses 11](https://scriptures.byu.edu/jod/pdf/JoD11/JoD11.pdf):328
+— *[The Improved Condition of the Saints, etc]; Brigham Young, [Journal of Discourses 11](https://scriptures.byu.edu/jod/pdf/JoD11/JoD11.pdf):328*
 
 &nbsp;
 
