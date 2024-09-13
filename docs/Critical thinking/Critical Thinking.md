@@ -23,10 +23,10 @@ Side note: Lds website only shows general conferences back to 1971. Why?
 &nbsp;
 
 ## In conversation
-When discussing/arguing/debating church issues or talks or anything theological, DON'T ever say the words "[[Logical Fallacies|logical fallacy]]" or use the specific fallacy terms. It instantly turns people off and makes you seem like a pretentious know-it-all. This is largely why I don't engage with believing members about their beliefs. Epistemology is personal and emotional. Invalidating that with logic isn't going to be a useful conversation for either of us.
+When discussing/arguing/debating church issues or talks or anything theological, DON'T ever say the words "[[logical-fallacies|logical fallacy]]" or use the specific fallacy terms. It instantly turns people off and makes you seem like a pretentious know-it-all. This is largely why I don't engage with believing members about their beliefs. Epistemology is personal and emotional. Invalidating that with logic isn't going to be a useful conversation for either of us.
 That, and I don't think I'd have the verbal nimbleness to make a case without writing everything down.
 
-What seems to work better is explaining the fallacy instead of invoking it. Rather than saying “well what nelson said in that talk was an [[Logical Fallacies#Ad Populum (Appeal to Popularity, or to Public)|argument ad populum]],” say, “just because a large group of people did something, doesn’t make their reasons for doing so valid.” then provide an example.
+What seems to work better is explaining the fallacy instead of invoking it. Rather than saying “well what nelson said in that talk was an [[logical-fallacies#Ad Populum (Appeal to Popularity, or to Public)|argument ad populum]],” say, “just because a large group of people did something, doesn’t make their reasons for doing so valid.” then provide an example.
 
 &nbsp;
 

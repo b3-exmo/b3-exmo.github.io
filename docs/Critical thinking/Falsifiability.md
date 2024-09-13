@@ -52,7 +52,7 @@ Apologies in advance if these examples sound condescending or reductive. I'm usi
 ## Why is it important?
 If a claim **can** be refuted, or proven "false", it carries more value. As Sagan described in the conclusion of his thoughts quoted above, "what's the difference between an intangible dragon and no dragon at all?" A claim carries more weight if it could theoretically be proven false. If there's a failure criteria that exists, but is not met, that lends credence toward proof.
 
-If the contents of the [[Book of Abraham]] were found in scrolls found in a sarcophagus sold to Joseph Smith, that's a big deal. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[Logical Fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, this is a falsifiable claim. An independent examination could go one of two ways:
+If the contents of the [[Book of Abraham]] were found in scrolls found in a sarcophagus sold to Joseph Smith, that's a big deal. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[logical-fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, this is a falsifiable claim. An independent examination could go one of two ways:
 
 1. Joseph Smith nailed that translation! For him to happen upon those scrolls is nothing short of divine intervention, and those resultant teachings prove Mormonism to be true.
 2. The Book of Abraham has absolutely nothing to do with the contents of those scrolls, which modern scholars can reliably, accurately, demonstrably translate. This calls into question other claims that the LDS church made.
@@ -74,7 +74,7 @@ You want to examine the golden plates containing the original Book of Mormon tex
 
 You're upset that the Book of Abraham scrolls don't appear to have [[Book of Abraham|anything to do with Abraham]]? Well, there were other scrolls in the set, and *those* ones were written by Abraham. Or maybe none of it was a direct translation, and the funerary texts for a pedestrian regular guy acted as a catalyst for Joseph to receive the scripture through revelation. It's fine.
 
-The Garden of Eden was in Jackson County Missouri? Well, the garden was geographically small, secretive, and it disappeared to test our faith. No way to prove that it *wasn't* in Missouri, so [[Logical Fallacies#Fallacies|it has to be true]]. I could just as easily claim that it was in [Muddy Fork, Arkansas](https://maps.app.goo.gl/Vpz8TyfpN2uigrfP7), and you would have no recourse against me, other than I didn't start a church 200 years ago.
+The Garden of Eden was in Jackson County Missouri? Well, the garden was geographically small, secretive, and it disappeared to test our faith. No way to prove that it *wasn't* in Missouri, so [[logical-fallacies#Fallacies|it has to be true]]. I could just as easily claim that it was in [Muddy Fork, Arkansas](https://maps.app.goo.gl/Vpz8TyfpN2uigrfP7), and you would have no recourse against me, other than I didn't start a church 200 years ago.
 
 A global flood happened during Noah's prophetic leadership? Well, it wasn't *actually* global, and... uh... counter-evidence is just there to test our faith.
 

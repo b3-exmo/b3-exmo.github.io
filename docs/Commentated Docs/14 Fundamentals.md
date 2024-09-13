@@ -152,7 +152,7 @@ Definitely not a cult lmao
 > 
 > *“Whatever God requires is right, no matter what it is, although we may not see the reason thereof until long after the events transpire.” (Scrapbook of Mormon Literature, vol. 2, p. 173).*
 
-What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "We can't trust anything D Michael Quinn says [[Logical Fallacies#Ad Hominem|because he got excommunicated]]! Meanwhile let me quote from a dead prophet in an apocryphal scrapbook, and relate those words in in a university, and then redistribute it in the church's official magazine." [[#3|You just said to disregard past prophets]] what are you trying to tell us
+What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "We can't trust anything D Michael Quinn says [[logical-fallacies#Ad Hominem|because he got excommunicated]]! Meanwhile let me quote from a dead prophet in an apocryphal scrapbook, and relate those words in in a university, and then redistribute it in the church's official magazine." [[#3|You just said to disregard past prophets]] what are you trying to tell us
 
 > *“For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.” ([Isa. 55:8–9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.8-9?lang=eng#p8).)*
 

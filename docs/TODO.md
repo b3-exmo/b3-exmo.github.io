@@ -8,7 +8,7 @@ comments: true
 - [ ] Readability
 	- [ ] Ellipses correction
 	- [ ] Indentation
-- [ ] Static Navigation (w/ emoji)
+- [x] Static Navigation (w/ emoji)
 
 I'm not entirely certain, but I think I might be using ellipses improperly for a text medium. Ought to check.
 

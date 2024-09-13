@@ -135,4 +135,4 @@ That's enough decimal places to render as 1.418E - 5. That's `1 ÷ 67,500`.
 
 &nbsp;
 
-Maybe I shouldn't be so upset with the church— after all, maybe they [[Tithing/SEC/index#LDS Church [PR statement](https //newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3
+Maybe I shouldn't be so upset with the church— after all, maybe they [[SEC#LDS Church [PR statement](https //newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3

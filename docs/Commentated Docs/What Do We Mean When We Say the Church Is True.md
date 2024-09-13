@@ -17,7 +17,7 @@ We shifted from Christ having established a church (maybe) and the next heading,
 
 ![[jesse.gif]]
 
-That's a nice [[Logical Fallacies#Strawman Fallacy|strawman]] you've got there.
+That's a nice [[logical-fallacies#Strawman Fallacy|strawman]] you've got there.
 
 &nbsp;
 
