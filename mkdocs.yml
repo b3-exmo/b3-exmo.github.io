@@ -60,7 +60,7 @@ extra_css:
 
 nav:
   - ⛪ LDS Notes: index.md
-  - Christianity:
+  - ✝️ Christianity:
     - ✝️ Christianity: Christianity.md
     - 🪦 Exaltation & Afterlife: Exaltation.md
     - 🌄Historicity: Historicity.md
@@ -69,7 +69,7 @@ nav:
     - 🌩 Theology: Theology.md
     - ❓ What are blessings?: What are blessings.md
   - 💬 Commentated Documents:
-    - Commentated Docs/index.md
+    - 💬 Commentated Documents: Commentated Docs.md
     - 💒 D&C 132: DC 132.md
     - 🤔 Doubts and Truth: Doubts and Truth.md
     - 🤡 Fourteen Fundamentals in Following the Prophet: Fourteen Fundamentals in Following the Prophet.md
