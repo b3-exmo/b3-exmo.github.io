@@ -206,7 +206,7 @@ As an added bonus, in that same lesson in the teacher manual:
 
 Idk man, I think there's enough information to say that we do have knowledge that plural marriage is required for exaltation— that is, unless we're going to just disregard [[#Required for exaltation!|Brigham Young's teachings]].
 
-I also feel uneasy about the warning against speculation. That sounds like they really don't want us to [[Culture/index#Thought Stoppers|think about it]] too much... or much at all.
+I also feel uneasy about the warning against speculation. That sounds like they really don't want us to [[Culture#Thought Stoppers|think about it]] too much... or much at all.
 
 &nbsp;
 

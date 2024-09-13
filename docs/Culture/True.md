@@ -11,7 +11,7 @@ comments: true
 
 > *==Mormonism is truth==; and every man who embraced it felt himself at liberty to embrace every truth: consequently the shackles of superstition, bigotry, ignorance, and priestcraft, falls at once from his neck; and his eyes are opened to see the truth, and truth greatly prevails over priestcraft.*
 
-— Joseph Smith; Letter to Isaac Galland, 22 March 1839, p. 53, The Joseph Smith Papers, accessed May 26, 2024, https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/3
+— Joseph Smith; Letter to Isaac Galland, 22 March 1839, p. 53, The Joseph Smith Papers, accessed May 26, 2024, [https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/3](https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/3)
 
 &nbsp;
 
@@ -51,7 +51,7 @@ What does a *true* church even mean? Does that mean it has not tried to obscure 
 
 &nbsp;
 
-My first reaction to the above passage is that it's a prime example of a [[Logical fallacies#False Dilemma|false dilemma]] logical fallacy. This is oversimplifying something to two possible outcomes. In the above example, "the church" can either be backed and authorized by God, or founded by the devil and has a maternal affinity for non-specific abominations.
+My first reaction to the above passage is that it's a prime example of a [[Logical Fallacies#False Dilemma|false dilemma]] logical fallacy. This is oversimplifying something to two possible outcomes. In the above example, "the church" can either be backed and authorized by God, or founded by the devil and has a maternal affinity for non-specific abominations.
 
 My next thought is that this doctrine wants to categorize everything outside of the LDS faith as being led by an evil force, in opposition to the one organization outside of that broad category. Maybe when this angel speaking to Nephi says "church," he doesn't mean "church" as we understand it today. If this is the case, that conflicts with the idea of it being [[Scripture/Book of Mormon/index#Written for our day|written for our day]], but I digress. Is this angel suggesting that every branch, sect and offshoot of Christianity is borne of Satan, with only one exception? Does "the church of the devil" includes everything that is not the modern Brighamite sect of the LDS church? If so, why? Why would one "church" be plural, but the other "church" is singular? Are all Eastern religions founded by Christianity's boogeyman? What does this suggest about [offshoots from the LDS church](https://en.wikipedia.org/wiki/List_of_denominations_in_the_Latter_Day_Saint_movement), founded by Joseph Smith? Did their founder change?
 

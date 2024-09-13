@@ -91,7 +91,7 @@ The article then lists numerous contributors to the document— 20 of them, by m
 
 > *[Jerald and Sandra Tanner](https://en.wikipedia.org/wiki/Jerald_and_Sandra_Tanner "Jerald and Sandra Tanner") have alleged that when History of the Church is compared to the original manuscripts from which it is drawn, =="more than 62,000 words" can be identified that were either added or deleted==. One response to these charges points out that the methods used in creating History of the Church—while ==flawed by today's standards==—were not uncommon practices in the nineteenth century, even by reputable historians.*
 
-Boy, where have I heard [[Doctrines/Polygamy/index#Census analysis|that justification]] before?
+Boy, where have I heard [[Doctrines/Polygamy/Polygamy#Census analysis|that justification]] before?
 
 "It's *fine*, we just removed parts of the history and added some fabrication. What's the big deal? People used to do that all the time 200 years ago!"
 

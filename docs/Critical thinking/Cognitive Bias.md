@@ -47,7 +47,7 @@ We are humans with emotions. This is not something to be ashamed of. I don’t c
 When questioning members are advised to "take your questions to the Lord and to other faithful sources," what kind of answer can they expect? They're only asking people who believe. From the perspective of Mormonism, faith and confirmation bias seem very difficult to distinguish.
 
 - As long as God continues to help me find my car keys, I won't think about all the suffering in Palestine and Ukraine. [All is well in Zion](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28?lang=eng&id=21#p21). Zion prospers.
-- Keep paying tithing because God has promised ‘blessings such that [[Tithing money/index#Quoting Malachi|there shall not be room enough to receive them]]’, even though month after month we continue in financial struggles.
+- Keep paying tithing because God has promised ‘blessings such that [[Tithing/index#Quoting Malachi|there shall not be room enough to receive them]]’, even though month after month we continue in financial struggles.
 
 &nbsp;
 

@@ -29,9 +29,9 @@ I have notes on these topics, but they aren't in a presentable condition. They'l
     - [ ] George A Smith
     - [ ] Thomas S Monson
     - [ ] Russel M Nelson
-- [ ] Race
-    - [ ] Comments from Modern Church Leadership
-    - [ ] In Scripture
+- [x] Race
+    - [x] Comments from Modern Church Leadership
+    - [x] In Scripture
 - [x] Tithing: SEC & LDS Response
 - [x] Emma Smith
 ### To be written
@@ -68,7 +68,7 @@ Most of these topics I have some opinions on, dispositions, etc— maybe even so
 - [ ] Prosperity Gospel
 - [ ] The "Temple Lot Case" pertaining to polygamy
 - [ ] Persecution complex
-- [ ] "Too sacred to share"
+- [x] "Too sacred to share"
 - [ ] Reed Smoot Hearings
 - [ ] Apostles
 - [ ] Membership & attendance statistics

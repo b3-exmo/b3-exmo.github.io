@@ -2,7 +2,7 @@
 comments: true
 ---
 # 😤 Brigham Young
-Before delving in, I'll point readers to the [[Prophets/index#👨‍💼 Prophets|landing page under Prophets]]. The idea of discounting what a prophet says as "speaking as a man" is preposterous to me. Defending Brigham Young by categorizing his words as "not divinely inspired" whenever his statements make the church look bad is a shit argument. Not every word he said was written down. The words that have survived today were likely recorded for a reason. Anyone in public office runs this risk, theological authority or not. Being "taken out of context" is only a good defense if the proper context can be provided, and that context somehow makes Brigham's advocacy of slavery more palatable.
+Before delving in, I'll point readers to the [[Prophets#👨‍💼 Prophets|landing page under Prophets]]. The idea of discounting what a prophet says as "speaking as a man" is preposterous to me. Defending Brigham Young by categorizing his words as "not divinely inspired" whenever his statements make the church look bad is a shit argument. Not every word he said was written down. The words that have survived today were likely recorded for a reason. Anyone in public office runs this risk, theological authority or not. Being "taken out of context" is only a good defense if the proper context can be provided, and that context somehow makes Brigham's advocacy of slavery more palatable.
 
 Also worth mentioning notes on the [[Sources and Links#Journal of Discourses|Journal of Discourses]]. Many of Brigham's teachings that the modern church likes to distance itself from are found in those documents. Probably just a coincidence.
 

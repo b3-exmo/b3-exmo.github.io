@@ -62,34 +62,34 @@ This appendix leads me to believe that this reminiscence was written on 30 March
 ### Poetry
 Helen attaches this to her reminiscence in that same appendix:
 
-> *==I thought through this life my time will be my own==*
-> *The step I now am taking’s for eternity alone,*  
-> *No one need be the wiser, through time I shall be free,*  
-> *And as the past hath been the future still will be.*  
-> *To my guileless heart all free from worldly care*  
-> *And full of blissful hopes—and youthful visions rare*  
-> *The world seamed bright the thret’ning clouds were kept*  
-> *From sight, and all looked fair but pitying angels wept.*  
-> *They saw my youthful friends grow shy and cold.*  
-> *And poisonous darts from sland’rous tongues were hurled,*  
-> *Untutor’d heart in thy gen’rous sacrafise,*  
-> *Thou dids’t not weigh the cost nor know the bitter price;*  
-> *==Thy happy dreems all o’er thou’rt doom’d alas to be==*
-> *==Bar’d out from social scenes by this thy destiny,==*
-> *And o’er thy sad’nd mem’ries of sweet departed joys*  
-> *Thy sicken’d heart will brood and imagine future woes,*  
-> *==And like a fetter’d bird with wild and longing heart,==*
-> *==Thou’lt dayly pine for freedom and murmor at thy lot;==*
-> *But could’st thou see the future & view that glorious crown,*  
-> *Awaiting you in Heaven you would not weep nor mourn,*
-> *Pure and exalted was thy father’s aim, he saw*  
-> *A glory in obeying this high celestial law,*  
-> *For to thousands who’ve died without the light*  
-> *I will bring eternal joy & make thy crown more bright.*  
-> *==I’d been taught to receive the Prophet of God==*
-> *==And receive every word as the word of the Lord==.*
-> *==But had this not come through my dear father’s mouth,==*
-> *==I should ne’r have received it as God’s sacred truth.==*
+> *==I thought through this life my time will be my own==*&nbsp;
+> *The step I now am taking’s for eternity alone,*&nbsp;
+> *No one need be the wiser, through time I shall be free,*&nbsp;
+> *And as the past hath been the future still will be.*&nbsp;
+> *To my guileless heart all free from worldly care*&nbsp;
+> *And full of blissful hopes—and youthful visions rare*&nbsp;
+> *The world seamed bright the thret’ning clouds were kept*&nbsp;
+> *From sight, and all looked fair but pitying angels wept.*&nbsp;
+> *They saw my youthful friends grow shy and cold.*&nbsp;
+> *And poisonous darts from sland’rous tongues were hurled,*&nbsp;
+> *Untutor’d heart in thy gen’rous sacrafise,*&nbsp;
+> *Thou dids’t not weigh the cost nor know the bitter price;*&nbsp;
+> *==Thy happy dreems all o’er thou’rt doom’d alas to be==*&nbsp;
+> *==Bar’d out from social scenes by this thy destiny,==*&nbsp;
+> *And o’er thy sad’nd mem’ries of sweet departed joys*&nbsp;
+> *Thy sicken’d heart will brood and imagine future woes,*&nbsp;
+> *==And like a fetter’d bird with wild and longing heart,==*&nbsp;
+> *==Thou’lt dayly pine for freedom and murmor at thy lot;==*&nbsp;
+> *But could’st thou see the future & view that glorious crown,*&nbsp;
+> *Awaiting you in Heaven you would not weep nor mourn,*&nbsp;
+> *Pure and exalted was thy father’s aim, he saw*&nbsp;
+> *A glory in obeying this high celestial law,*&nbsp;
+> *For to thousands who’ve died without the light*&nbsp;
+> *I will bring eternal joy & make thy crown more bright.*&nbsp;
+> *==I’d been taught to receive the Prophet of God==*&nbsp;
+> *==And receive every word as the word of the Lord==.*&nbsp;
+> *==But had this not come through my dear father’s mouth,==*&nbsp;
+> *==I should ne’r have received it as God’s sacred truth.==*&nbsp;
 
 &nbsp;
 

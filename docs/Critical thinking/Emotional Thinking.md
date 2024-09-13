@@ -4,7 +4,7 @@ comments: true
 # 🥺 Emotional Thinking
 I remember being a teenager and hearing the argument that "the fact that humans cry is proof that God exists". The rationale was that our spirits are experiencing an emotion so intensely, be it positive or negative, that our physical bodies can't handle it, but we're still feeling it, so we cry. Therefore, we have spirits, therefore we're children of God, therefore God exists, Joseph was a prophet, and it's all [[True|true]].
 
-There are a [[Logical fallacies|few problems]] with this perspective— among them, the idea that [[Falsifiability|I can't prove it happened]], but the logical leaps and jumps to arrive at the conclusion this Young Men's leader already had in mind are, in retrospect, baffling.
+There are a [[Logical Fallacies|few problems]] with this perspective— among them, the idea that [[Falsifiability|I can't prove it happened]], but the logical leaps and jumps to arrive at the conclusion this Young Men's leader already had in mind are, in retrospect, baffling.
 
 Humans connect with emotional experiences. Marriage ceremonies are, by my understanding, an emotional commitment and have no objective value whatsoever. Does that mean they're bad? Useless? Waste of ~~money~~ time? Not necessarily. I look back on my wedding day with fondness, and I love my wife. One could argue that this emotional attachment to the event is more valuable than the money spent on the venue, catering, etc. I don't want to come off as the snarky contrarian who thinks human emotions are holding us back. Emotions— positive or negative— are what make us human. I bet a philosophy student would have some words for me, but that's where I stand today.
 
@@ -22,7 +22,7 @@ With that out of the way, consider what religious practices do with emotionally 
 * Find solace in scripture study
 * Confess sins to alleviate guilt, find absolution
 * Church leaders are given endearing titles ("our beloved prophet", [current prophet name])
-* Read about the church's [[Tithing money/index#Charitable efforts|charitable givings]] (but don't look too hard pls); we're saving poor kids in Africa, just like Jesus would!
+* Read about the church's [[Tithing/index#Charitable efforts|charitable givings]] (but don't look too hard pls); we're saving poor kids in Africa, just like Jesus would!
 * A family member passed away? Better [take advantage of your emotional state](https://www.churchofjesuschrist.org/study/general-conference/1988/10/funerals-a-time-for-reverence?lang=eng&id=p25#p25) to preach about how [*you* can qualify for exaltation](https://www.churchofjesuschrist.org/study/general-conference/1988/10/funerals-a-time-for-reverence?lang=eng&id=p31-p32#p31) in the afterlife!
 * Lost your job? Sounds like an opportunity for missionaries to come preach to you, while you're feeling uncertain about your immediate future!
 

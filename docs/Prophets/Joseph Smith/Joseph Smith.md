@@ -57,15 +57,13 @@ Deseret News - 23 August 1865, page 4: [https://newspapers.lib.utah.edu/details?
 Goodness. What kind of lies might be perpetuated in Lucy's account? I hope it isn't the observation that Joseph was imagining the Book of Mormon well before Moroni reveals the plates to him. That could affect the book's divine origins.
 
 ## How do we define “martyr”?
-JS had a gun and fought back ([1](https://books.google.ca/books?id=EXjTCwAAQBAJ&pg=PA59#v=onepage&q&f=false), [2](https://fairlatterdaysaints.org/answers/Joseph_Smith_fired_a_gun_at_Carthage_Jail), [3](https://en.wikipedia.org/wiki/Killing_of_Joseph_Smith#Incarceration_at_Carthage_Jail), [4](https://www.deseret.com/faith/2021/4/1/22358412/11-fascinating-images-of-latter-day-saint-artifacts/)). How does this fit with “[praise to the man](https://www.churchofjesuschrist.org/media/music/songs/praise-to-the-man?lang=eng)”? Was his blood shed by assassins? Or was it a mob, sick of his bullshit?
+Joseph had a gun and fought back ([[1](https://books.google.ca/books?id=EXjTCwAAQBAJ&pg=PA59#v=onepage&q&f=false)], [[2](https://fairlatterdaysaints.org/answers/Joseph_Smith_fired_a_gun_at_Carthage_Jail)], [[3](https://en.wikipedia.org/wiki/Killing_of_Joseph_Smith#Incarceration_at_Carthage_Jail)], [[4](https://www.deseret.com/faith/2021/4/1/22358412/11-fascinating-images-of-latter-day-saint-artifacts/)]). How does this fit with “[praise to the man](https://www.churchofjesuschrist.org/media/music/songs/praise-to-the-man?lang=eng)”? Was his blood shed by assassins? Or was it a mob, sick of his bullshit?
 
 How many other religious leaders get a lynching mob sent after them while they're Imprisoned? He fought back, emptying a six-shooter into a crowd. I can concede that this was in a panic since his life was in immediate danger; not saying he shouldn’t have, nor that I would have reacted differently. I’m saying he did, and I was raised to believe he did not.
 
 ## As was foretold...
+> 33 He called me by [name](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#note33a), and said unto me that he was a [messenger](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#note33b) sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that my name should be had for [good](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#note33c) and evil among all nations, kindreds, and tongues, or that it should be both good and evil spoken of among all people.
+
+link below
+
 Joseph Smith's name [shall be had for good and for evil](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33) among all nations? What exactly does that mean? Hasn't Mark Zuckerberg's name also been had for good and evil among all nations? Mussolini? Czar Nicholas III? Michael Jackson? Anyone with a wide reach will have their name for good and evil. Having both fanatic supporters and vitriolic opponents doesn't make Joseph Smith special.
-
-[[First Vision]]
-
-[[Book of Abraham]]
-
-[[Acquiring the Plates]]

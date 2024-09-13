@@ -51,7 +51,7 @@ Jennifer Delgado, *[The scars that parents’ conditional love leaves on their c
 
 &nbsp;
 
-**"yeah but those are just worldly views, philosophies of men, etc- they're not led by divine influence!"** - some imagined [[Logical fallacies#Strawman Fallacy|strawman argument]]
+**"yeah but those are just worldly views, philosophies of men, etc- they're not led by divine influence!"** - some imagined [[Logical Fallacies#Strawman Fallacy|strawman argument]]
 
 True. To find those quotes, I literally just googled "_parents conditional love_", seeing how we're taught that God is our Heavenly *Father*.
 

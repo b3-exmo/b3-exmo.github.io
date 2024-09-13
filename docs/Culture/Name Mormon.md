@@ -98,7 +98,7 @@ Oh, were they speaking as a man? My bad.
 
 &nbsp;
 
-God wasn’t offended when Brigham Young had [[Prophets/Brigham Young/index#Race|slavery legalized]] in Utah, or when he said Christ’s atonement wasn’t good enough and people needed to have their throats slit to [[Blood Atonement|cover the more egregious sins]]. God doesn’t seem offended by those who kill in his name. He isn’t offended by [church leaders sexually abusing children](https://floodlit.org/failure-to-report/), [[Tithing money/SEC/index|index]], short-selling stocks, misrepresenting His teachings, but *don’t you dare say “Mormon”*!
+God wasn’t offended when Brigham Young had [[Brigham Young#Race|slavery legalized]] in Utah, or when he said Christ’s atonement wasn’t good enough and people needed to have their throats slit to [[Blood Atonement|cover the more egregious sins]]. God doesn’t seem offended by those who kill in his name. He isn’t offended by [church leaders sexually abusing children](https://floodlit.org/failure-to-report/), [[Tithing/SEC/index|index]], short-selling stocks, misrepresenting His teachings, but *don’t you dare say “Mormon”*!
 
 We have a living prophet today, who speaks in behalf of God. Turns out, when we have a land war in Europe, racial injustice and political upheaval, uncertainty pertaining to a viral disease, the only thing God really wants is for us to not call church members Mormons anymore.
 

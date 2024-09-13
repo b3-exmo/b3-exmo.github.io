@@ -58,6 +58,26 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 
+nav:
+  - ⛪ LDS Notes: index.md
+  - Christianity:
+    - ✝️ Christianity: Christianity.md
+    - 🪦 Exaltation & Afterlife: Exaltation.md
+    - 🌄Historicity: Historicity.md
+    - 👻 Holy Spirit's Promptings: Holy Spirit Promptings.md
+    - 😈 Satan: Satan.md
+    - 🌩 Theology: Theology.md
+    - ❓ What are blessings?: What are blessings.md
+  - 💬 Commentated Documents:
+    - Commentated Docs/index.md
+    - 💒 D&C 132: DC 132.md
+    - 🤔 Doubts and Truth: Doubts and Truth.md
+    - 🤡 Fourteen Fundamentals in Following the Prophet: Fourteen Fundamentals in Following the Prophet.md
+    - 😵 It's too sacred!: Too Sacred.md
+    - 💭 What Do We Mean When We Say the Church Is True?: What Do We Mean When We Say the Church Is True.md
+
+# POC; will need to add other sections by hand, i think
+
 extra:
   analytics:
     provider: google

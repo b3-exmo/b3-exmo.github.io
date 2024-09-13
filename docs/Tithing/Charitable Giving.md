@@ -14,7 +14,7 @@ comments: true
 
 &nbsp;
 
-Most of these notes rely on context from the page on [[Tithing money/index|tithing]], so give that a read if you haven't already. This was a subsection, but became long enough that I think it warrants a page of its own.
+Most of these notes rely on context from the page on [[Tithing/index|tithing]], so give that a read if you haven't already. This was a subsection, but became long enough that I think it warrants a page of its own.
 
 &nbsp;
 
@@ -52,7 +52,7 @@ Ooh boy. I have a lot to say about this paragraph.
 
 Not sure if the $906 million is counted in that sum. But it does sound like $200 million is included, and is an outlier, so I might adjust that math to get a better average: `(($2,500,000,000 - $200,000,000) ÷ (35 - 1)) = $67,647,059`
 
-That means we're averaging $67.6 million per year over 35 years. As I'd [[Tithing money/index#Charitable efforts|observed in another page]], 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
+That means we're averaging $67.6 million per year over 35 years. As I'd [[Tithing/index#Charitable efforts|observed in another page]], 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
 
 `(67,647,059 ÷ 46,200,000,000) = 0.001464`, or 0.15% of *the subset* of Ensign Peak's US stockholdings. That is just over *a tenth of 1%* that they'll proudly tout as being the charitable endeavors from the official church™ restored by Jesus Christ himself.
 
@@ -135,4 +135,4 @@ That's enough decimal places to render as 1.418E - 5. That's `1 ÷ 67,500`.
 
 &nbsp;
 
-Maybe I shouldn't be so upset with the church— after all, maybe they [[Tithing money/SEC/index#LDS Church [PR statement](https //newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3
+Maybe I shouldn't be so upset with the church— after all, maybe they [[Tithing/SEC/index#LDS Church [PR statement](https //newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3

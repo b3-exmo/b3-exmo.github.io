@@ -15,11 +15,11 @@ Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. On
 &nbsp;
 
 ## Authority
-One way you know the LDS church is true is that God will [[Doctrines/Polygamy/index#Angel with a Sword vs Joseph Smith|literally send an angel with a sword to threaten to kill the prophet]] if he’s going astray.
+One way you know the LDS church is true is that God will [[Doctrines/Polygamy/Polygamy#Angel with a Sword vs Joseph Smith|literally send an angel with a sword to threaten to kill the prophet]] if he’s going astray.
 
 Here is a complete list of the times God has done this:
 
-1. [[Doctrines/Polygamy/index|To get Joseph Smith to marry other men's wives]]
+1. [[Doctrines/Polygamy/Polygamy|To get Joseph Smith to marry other men's wives]]
 2. &nbsp;
 
 &nbsp;
@@ -42,7 +42,7 @@ See also the time Ezra Taft Benson [[Fourteen Fundamentals in Following the Prop
 
 > _Said Brigham Young, “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture.”_
 
-Journal of Discourses, 13:95.
+Journal of Discourses, 13:95. #TODO 
 
 &nbsp;
 
@@ -95,6 +95,8 @@ I thought the whole idea of being a prophet/apostle was having seen Jesus Christ
 
 — The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) (accessed: June 28, 2023)
 
+https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theater
+
 &nbsp;
 
 ## Is "prophet" even a priesthood office?
@@ -103,3 +105,53 @@ No! Not according to one George Q Cannon in 1869, at least:
 > we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost; and, in fact, he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination. But when the time came for him to be baptized, then a man who held the keys of that Priesthood came to him and laid his hands upon Joseph’s head, and upon Oliver Cowdery, and set them apart, and gave them authority to officiate in the Aaronic Priesthood, which Priesthood held the keys of baptism and so forth.
 
 [https://www.fairlatterdaysaints.org/answers/Journal_of_Discourses/13/8#47](https://www.fairlatterdaysaints.org/answers/Journal_of_Discourses/13/8#47)
+
+---
+
+#TODO 
+I have two Mormon friends and both have told me that their leader which I am told calls himself a prophet has said things that have come true.  To both of my friends I have asked them to clarify their definition of prophet.  I would ask them, prophet like the prophets of the bible?  For example Moses?  In both cases they said yes.  I pointed out that Moses lead the Israelites, they had no doubt that god was using him.  He parted the Red Sea, water from a stone and many others.  If you can show me that your prophet has done comparable things as Moses, I will become Mormon today.  They said, no its not like that today.  So, what makes him a prophet then?  Well, he has said things that have come to pass.  I said, ok fine, if you can show me even on thing that he has said that has some to pass, I will become Mormon today.  This was a few months ago and in both cases I have yet to get a response.  One of my friends said that I need to have the right heart condition.  I said, no I dont need to have any sort of heart condition to see a prophet making an accurate prophecy.  You said he said things that have come to pass, those were your words not mine, just show me one.  I got nothing but crickets
+
+This made me start to think, has there been things said by the prophet that didnt come to pass?  I pointed out that in Duet 18:20-22 it clearly points out how to identity a false prophet.  If anyone has said things that have not come to pass, that would make him a false prophet.  Just curious if there is anything I can go back to them and point out how he actually is a false prophet.  Thanks
+
+
+
+They made the claim, the burden of evidence is 100% on THEM. You don't have to clarify any of their definitions, you need to press them for evidence of their fantastical claim. Ask them to PRESENT EVIDENCE.
+
+1) They need to name the prophecy. It needs to be something unique, not something like "take your vitamins" or "the sun will come out tomorrow."
+
+2) They need to show documentation of when that prophecy was disseminated to the world.
+
+3) They need to show documentation of when that prophecy came true. (#2 needs to have happened well before #3)
+
+They will stumble on 2) and utterly fail on 3).
+
+
+My checklist is as follows: 
+
+1. Made clearly and demonstrably prior to the events predicted.
+2. Intended to be a prediction.
+3. A non-mundane claim.
+4. Answerable only by a single, clear, verifiable occurrence.
+5. Not open to interpretation.
+6. Not something people are actively attempting to fulfill.
+
+I remember this by the letters PIESDI, based on these words:
+
+Prior
+Intentional
+Extraordinary
+Singular
+Definitive
+Involuntary
+
+Edit: Credit where it's due, I think I got this from the YouTuber Paulogia, though I'm having trouble finding the video. The 6 words to remember are my own.
+
+Damn that's good.
+
+I have so many friends and family that claim Rusty predicted Covid because he said Gen Con would be different that year. 
+
+Of course, he meant it was the 100 anniversary of the first vision, and even admitted that it wasn't intended to be covid, but that's good enough for them. That works well with what you said:
+Easily interpreted differently.
+Not made clear.
+Not intended.
+

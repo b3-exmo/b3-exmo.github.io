@@ -70,7 +70,7 @@ Meanwhile, [the web edition](https://www.churchofjesuschrist.org/study/manual/pr
 ![[pmg-plates.jpeg]]
 (_Photo taken from https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/_)
 
-Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
+Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-Mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
 
 The issue is not the seer stone. The issue is that I didn’t find out until my late 20’s that it was a seer stone.
 
@@ -122,6 +122,9 @@ After laying the groundwork, the professors continue:
 > *What David Whitmer is asking us to believe is that the Lord had Moroni seal up the plates and the means by which they were to be translated hundreds of years before they would come into Joseph Smith’s possession and then decided to have the Prophet use a seer stone found while digging a well so that none of these things would be necessary after all. ==Is this, we would ask, really a credible explanation of the way the heavens operate?==*
 
 I don't know that there's much more to add, really. I don't like the idea that scholarly studies can reliably conclude so many things, excluding theological matters- I imagine that would be the dismissal for this account: "spiritual matters require spiritual methods," or something to that effect. That's awfully convenient when a 19th century con artist's words conflict with evidence.
+
+&nbsp;
+
 ## Tools used
 Joseph Smith used to use the same seer stone to find treasure before he used it to “translate” the Book of Mormon. What was the point of the “Urim and Thummim”?  Why would God include them if Joseph didn’t actually need them to “translate” the writing on the plates?
 
@@ -132,6 +135,9 @@ Joseph Smith used to use the same seer stone to find treasure before he used it 
 — _[A Peaceful Heart](https://www.churchofjesuschrist.org/study/friend/1974/09/a-peaceful-heart?lang=eng&id=p2-p3#p2)_, Friend magazine, Sept 1974
 
 I'm legitimately curious to know both how and why Smith was 'tested' before being designated as a translator. I'm pretty sure those terms were [[Bible#Could we get a re-translation?|not mutually exclusive]]. Was that not always the case? Was he called to be a prophet after acquiring the plates and U&T?
+
+&nbsp;
+
 ### Seer Stone & Martin Harris
 Fun fact: Martin once swapped out the seer stone to see if Joseph would notice. He did notice, but I still think it's fascinating to read about.
 
@@ -146,6 +152,9 @@ Also, [this blog](https://thirdhour.org/blog/faith/joseph-smith/church-history-m
 > Roberts wrote, “_. . . on resuming their labors of translation Martin put in place of [the Seer Stone] the stone that he had found. He said that the Prophet remained silent unusually long and intently gaining in darkness, no trace of the usual sentence appearing. Much surprised Joseph exclaimed: “Martin! What is the matter? All is as dark as Egypt.” Martin’s countenance betrayed him, and the Prophet asked Martin why he had done so. Martin said, to stop the mouths of fools, who had told him that the Prophet had learned those sentences and was merely repeating them_.”
 
 Don't think that I'd call this a significant event, but I don't know where else to put it. "It's just a prank, bro, there's the camera over there!" 🤓
+
+&nbsp;
+
 ### Urim & Thummim
 Conveniently, the “Urim and Thummim” AKA the “breastplate” was taken back up to heaven after Martin Harris lost the original 116 pages of the Book of Mormon. (Maybe. I've heard this explanation verbally, but haven't yet found any written account of this happening.) Joseph had no other means of “translation” other than his seer stone in his hat.
 
@@ -157,6 +166,40 @@ Or did he?
 — [_The Latter-Day Saints' Millennial Star](https://archiveviewer.org/viewer/hathitrust/chi.097922887?position=510–512)_, 11 August 1874
 
 Well. Alright. Granted, this account is published in 1874, and it doesn't explicitly state when this interaction took place. But if, by this point, Joseph didn't need any translation tools, he can just do it all in his head...?
+
+&nbsp;
+
+### Stone? What stone?
+> **WALTERS:** *Well I thought somebody said that Joseph Fielding had had Joseph Smith’s seer stone.*
+> 
+> **RICHARDS:** *No. We don’t have that.*
+> 
+> **WALTERS:** *You don’t have that?*
+> 
+> **RICHARDS:** *No.*
+> 
+> **WALTERS:** *Oh.*
+> 
+> **RICHARDS:** *We have got some of the early writings of the Prophet Joseph and things of that kind, and testimony of when Joseph Smith performed a plural marriage for them, but – things of that kind in the Historian’s office. But we have [unintelligible] church.*
+> 
+> **VLACHOS:** *Is the seer stone in the historical department?*
+> 
+> **RICHARDS:** *We don’t have a seer stone. That went back with the plates when [unintelligible]*
+> 
+> **WALTERS:** *Oh! Okay, I hadn’t heard that. I see. I thought that somebody said that it was still out there somewhere.*
+> 
+> **VLACHOS:** *Do you know what it looked like?*
+> 
+> **RICHARDS:** *What?*
+> 
+> **VLACHOS:** *Do you know what the stone looked like?*
+> 
+> **RICHARDS:** *No. I’ve never seen it. And I don’t think there is any living man who has seen it.*
+
+— 
+
+&nbsp;
+
 ## [A Treasured Testament](https://www.churchofjesuschrist.org/study/ensign/1993/07/a-treasured-testament?lang=eng) - Elder Nelson, 1993
 > _“==Joseph Smith would put the seer stone into a hat==, and put his face in the hat, drawing it closely around his face to exclude the light; and in the darkness the spiritual light would shine. A piece of something resembling parchment would appear, and on that appeared the writing. One character at a time would appear, and under it was the interpretation in English. Brother Joseph would read off the English to Oliver Cowdery, who was his principal scribe, and when it was written down and repeated to Brother Joseph to see if it was correct, then it would disappear, and another character with the interpretation would appear. Thus the Book of Mormon was translated by the gift and power of God, and not by any power of man.”_
 
@@ -177,6 +220,9 @@ Not reformed Egyptian?
 > *There are some things that the Book of Mormon is not. ==It is not a text of history==, although some history is found within its pages. It is not a definitive work on ancient American agriculture or politics. It is not a record of all former inhabitants of the Western Hemisphere, but only of particular groups of people.
 
 Even with qualifiers in that sentence, this is a bold claim. History is generally measured by multiple, independent, contemporary sources. How many other contemporary sources do we have? Jesus saying he'll be visiting other sheep?
+
+&nbsp;
+
 ## Joseph’s Impact
 Were Smith to have written it, what elements of his life would be reflected in it?
 

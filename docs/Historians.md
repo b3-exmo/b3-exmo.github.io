@@ -1,8 +1,10 @@
 ---
 comments: true
 ---
-# 📜 Historians
+# 📜 LDS Historians
 ## History
+(I don't have a proper folder for this just yet— it'll be moved in the non-specific future)
+
 > *My view is that being open about our history solves a whole lot more problems than it creates. We might not have all the answers, but if we are open (and we now have pretty remarkable transparency), then I think in the long run that will serve us well. I think ==in the past there was a tendency to keep a lot of the records closed or at least not give access to information==. But the world has changed in the last generation—with the access to information on the Internet, ==we can’t continue that pattern==; I think we need to continue to be more open.*
 
 — Steven E Snow; [Start with Faith: A Conversation with Elder Steven E. Snow](https://rsc.byu.edu/vol-14-no-3-2013/start-faith-conversation-elder-steven-e-snow), BYU Religious Studies Center

@@ -1,7 +1,11 @@
 ---
-comments:
+comments: true
 ---
 # 😵 It's too sacred!
+These are quotes and examples meant to illustrate ideas that are [[Too Sacred to Share]]. Ended up being too many to fit snugly in that section, so they're here instead.
+
+&nbsp;
+
 ## General Conference
 > *Although many of our experiences in the house of the Lord are ==too sacred to share== publicly, some we can share.*
 

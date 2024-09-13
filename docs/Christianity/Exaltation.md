@@ -18,7 +18,7 @@ How many generations back would it go? Wouldn’t that mean that everyone you se
 &nbsp;
 
 ## For women
-[[Doctrines/Polygamy/index|Polygamy]] is already kind of a raw deal for mortal women, but the following quotes pretty strongly suggest that God and Jesus both are polygamists. If we’re spirit sons and daughters of God, it’s kind of odd to think that Heavenly Mother doesn’t refer to one individual. Could be one of many. Each of us in this room are from the same heavenly father, and there is a non-zero chance we’re from different heavenly mothers, if the second Prophet of the church is to be believed.
+[[Doctrines/Polygamy/Polygamy|Polygamy]] is already kind of a raw deal for mortal women, but the following quotes pretty strongly suggest that God and Jesus both are polygamists. If we’re spirit sons and daughters of God, it’s kind of odd to think that Heavenly Mother doesn’t refer to one individual. Could be one of many. Each of us in this room are from the same heavenly father, and there is a non-zero chance we’re from different heavenly mothers, if the second Prophet of the church is to be believed.
 
 If Polygamy is an eternal law, and [[Becoming Gods|we are to become like God]], then… that means that exaltation for women is to be a spiritual breeder, who shall not be named or known, and her children cannot commune with her. Does that sound like heaven? Watching children suffer through arduous trials on earth, and being able to offer no comfort, knowing they’re forbidden from even talking to you, or even knowing about you? Does that sound like heaven?
 
@@ -35,4 +35,4 @@ When he teaches that [[Theology|Elohim]] and Jesus are both polygamists, should 
 
 &nbsp;
 
-Brigham Young has a fair amount of other statements on the godhead being polygamist, but those quotes fit better [[Doctrines/Polygamy/index#God is polygamist, too|in that section]].
+Brigham Young has a fair amount of other statements on the godhead being polygamist, but those quotes fit better [[Doctrines/Polygamy/Polygamy#God is polygamist, too|in that section]].
