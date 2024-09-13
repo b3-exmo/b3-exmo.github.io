@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# Doctrines
+# 📐 Doctrines
 Not much to put here, as notes are too specific to describe things broadly.
 
 Let's see if I remember to maintain this list to reflect the folder's contents:

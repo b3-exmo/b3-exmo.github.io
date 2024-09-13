@@ -4,7 +4,7 @@ comments: true
 # 🏁 Race
 For 126 years, between [[Brigham Young|Brigham Young]]’s presidency beginning and 1978, imagine thousands of black Mormons praying to God to please lift the temple/priesthood ban… Then imagine David O’McKay praying and concluding, “Nah. We’re good for now.”
 
-A church that claims to be [[Restoration|restored]] by God should be ahead of the ‘[[Scripture/Book of Mormon/index#Natural Man|natural man]]’ in getting things right, not behind. They took away the right of black members to enter the Celestial Kingdom, which is a spiritual issue, not a civil issue. We can call it a priesthood ban, but let's not overlook that priesthood is a prerequisite for salvation.
+A church that claims to be [[Restoration|restored]] by God should be ahead of the ‘[[Book of Mormon#Natural Man|natural man]]’ in getting things right, not behind. They took away the right of black members to enter the Celestial Kingdom, which is a spiritual issue, not a civil issue. We can call it a priesthood ban, but let's not overlook that priesthood is a prerequisite for salvation.
 
 The LDS church has had some really odd takes on race in the past, and today likes to pretend that none of it ever happened. I'll be aggregating some quotes, teachings, and adding my own comments and thoughts to them. I will note that I am a white American, arguably the least qualified demographic to offer meaningful commentary on racial prejudice as none of this has ever [impacted me directly](https://youtu.be/RovF1zsDoeM&t=54). Also, please note that I'll be using direct quotes from LDS church figureheads in the 19th century who use terms that we today consider to be offensive slurs.
 

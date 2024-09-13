@@ -6,6 +6,8 @@ The church does have a [Gospel Topics Essay](https://www.churchofjesuschrist.org
 
 No part of it holds water.
 
+&nbsp;
+
 ## Written by whom?
 > _“A Translation of some ancient Records that have fallen into our hands from the catacombs of Egypt. ==The writings of Abraham== while he was in Egypt, called the Book of Abraham, ==written by his own hand==, upon papyrus.”_
 

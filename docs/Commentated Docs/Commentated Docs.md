@@ -13,7 +13,7 @@ Listed here are some supplemental documents. Most of these were borne of tangent
 
 ## LDS Church Addresses
 ### BYU Speeches
-[[Fourteen Fundamentals in Following the Prophet]], Ezra Taft Benson
+[[14 Fundamentals]], Ezra Taft Benson
 
 ### Liahona Magazine
 [[What Do We Mean When We Say the Church Is True]], June 2024, by Elder J. Devn Cornish

@@ -14,7 +14,7 @@ comments: true
 
 &nbsp;
 
-Most of these notes rely on context from the page on [[Tithing/index|tithing]], so give that a read if you haven't already. This was a subsection, but became long enough that I think it warrants a page of its own.
+Most of these notes rely on context from the page on [[Tithing|tithing]], so give that a read if you haven't already. This was a subsection, but became long enough that I think it warrants a page of its own.
 
 &nbsp;
 
@@ -52,7 +52,7 @@ Ooh boy. I have a lot to say about this paragraph.
 
 Not sure if the $906 million is counted in that sum. But it does sound like $200 million is included, and is an outlier, so I might adjust that math to get a better average: `(($2,500,000,000 - $200,000,000) ÷ (35 - 1)) = $67,647,059`
 
-That means we're averaging $67.6 million per year over 35 years. As I'd [[Tithing/index#Charitable efforts|observed in another page]], 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
+That means we're averaging $67.6 million per year over 35 years. As I'd [[Tithing#Charitable efforts|observed in another page]], 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
 
 `(67,647,059 ÷ 46,200,000,000) = 0.001464`, or 0.15% of *the subset* of Ensign Peak's US stockholdings. That is just over *a tenth of 1%* that they'll proudly tout as being the charitable endeavors from the official church™ restored by Jesus Christ himself.
 

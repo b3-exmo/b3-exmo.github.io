@@ -254,3 +254,29 @@ God could have re-dictated a word perfect second translation to Joseph if He wan
 Of course, the bit about the evil-doers “altering” the text doesn’t make much sense unless Martin Harris (the scribe) was in on the trick as well, since the sole original manuscript was written in his (Martin's) hand. Any alterations would be immediately noticed and could be refuted by Harris with the statement “that’s not my handwriting”. If it somehow was his handwriting, Harris would have to be in on the evildoing. Harris would have to agree that he wrote the altered original.
 
 Couldn’t the evildoers still have produced an altered typescript, hiding away the original Harris manuscript, and presenting that typescript as their “proof”? This is ridiculous logic, of course, since a typescript wouldn’t convince anyone and would be proof of nothing.
+
+---
+
+#TODO 
+
+So god has an angel who can
+sneak the gold plates away from
+Joseph when he turns his back to
+the plates, but god doesn't have an
+angel who can retrieve the lost 116
+pages of the manuscript? What
+kind of wimpy god did believe in?
+
+Seriously, an all powerful and all knowing god couldn’t perform his tricks on the bad guys? Only on the good guys? Oh right, because the good guys need their faith tested. And the bad guys just damned themselves to an even deeper circle of hell. 
+
+Oh, and sorry Lehi, we know you spent a lot of time and effort recording your story on the gold plates, but god’s modern day servants screwed up big time. So your story will be lost forever. Your story wasn’t that interesting anyway and your son Nephi basically said the same stuff but he was concerned with a more spiritual aspect than just a history of your people. The story we have now is better for all of us so it works out. 
+
+Those pesky devil followers have been foiled again!
+
+
+
+The same one who was able to teach a bunch of desert dwelling hebrews to build a boat strong enough to withstand a trip across the Atlantic-ON THE FIRST FUCKING TRY, & gave us section 124 which has explicit details of every bit of minutiae included on how to build Joey’s mansion, but only taught polygamy loosely enough so that the only apologetic that can be used now is “it was messy.”
+
+
+
+You want another inconsistency? Smith told people that if they looked at the gold plates without permission, they would die. But he also fought off attackers trying to steal the gold plates. Why? They were stealing a Medusa’s head. All Smith had to do was stop and hold up the plates.

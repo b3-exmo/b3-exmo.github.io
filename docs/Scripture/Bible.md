@@ -152,7 +152,7 @@ Oh. It’s not… It’s not even a translation? It’s a revelation accompanime
 
 This BoM passage is cited as evidence that the Bible is incomplete, and BoM fills in the gaps.
 
-Legitimate question: what gaps? The Book of Mormon doesn't have hardly any Mormon [[Scripture/Book of Mormon/index#Fullness of the Gospel|doctrines or practices]] in it. If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps- modern prophets are.
+Legitimate question: what gaps? The Book of Mormon doesn't have hardly any Mormon [[Book of Mormon#Fullness of the Gospel|doctrines or practices]] in it. If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps- modern prophets are.
 
 &nbsp;
 

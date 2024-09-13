@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 💵Tithing Money
+# 💵 Tithing
 Quick note: I would like to be proven wrong about the ideas in this page. To me, this is disheartening, and to you, it may sound very pessimistic. If you have compelling information that disproves any of this, there's a comment section at the bottom of each page.
 
 &nbsp;

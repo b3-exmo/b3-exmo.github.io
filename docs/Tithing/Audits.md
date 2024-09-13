@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 🔎Audits
+# 🔎 Audits
 ## Financial Audits
 >_Based upon audits performed, the Church Auditing Department is of the opinion that, in all material respects, contributions received, expenditures made, and assets of the Church for the year [2008] have been recorded and administered in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures._
 

@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 🤐 Strengthening Church Members Committee
+# 💪 Strengthening Church Members Committee
 ## Deseret News
 > *A former Utah Supreme Court justice and ==the church's expert on disciplinary procedures, Elder Oaks== said the disciplinary decisions ranging from probation to excommunication are meted out by bishops and stake presidents.*
 >

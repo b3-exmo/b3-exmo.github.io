@@ -22,7 +22,7 @@ With that out of the way, consider what religious practices do with emotionally 
 * Find solace in scripture study
 * Confess sins to alleviate guilt, find absolution
 * Church leaders are given endearing titles ("our beloved prophet", [current prophet name])
-* Read about the church's [[Tithing/index#Charitable efforts|charitable givings]] (but don't look too hard pls); we're saving poor kids in Africa, just like Jesus would!
+* Read about the church's [[Tithing#Charitable efforts|charitable givings]] (but don't look too hard pls); we're saving poor kids in Africa, just like Jesus would!
 * A family member passed away? Better [take advantage of your emotional state](https://www.churchofjesuschrist.org/study/general-conference/1988/10/funerals-a-time-for-reverence?lang=eng&id=p25#p25) to preach about how [*you* can qualify for exaltation](https://www.churchofjesuschrist.org/study/general-conference/1988/10/funerals-a-time-for-reverence?lang=eng&id=p31-p32#p31) in the afterlife!
 * Lost your job? Sounds like an opportunity for missionaries to come preach to you, while you're feeling uncertain about your immediate future!
 

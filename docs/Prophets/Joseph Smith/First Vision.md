@@ -11,7 +11,7 @@ comments: true
 &nbsp;
 
 ## Account discrepancies
-There's a [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics/first-vision?lang=eng) on this! It clearly makes the claim that the First Vision happened in Spring of 1820. Sounds awfully familiar to the verbiage I had to memorize and recite verbatim on my mission. Saw both God and Jesus, other churches are wrong, and "[many other things](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p20#p20)" [[Scripture/Book of Mormon/index#Cannot be written|which cannot be written]].
+There's a [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics/first-vision?lang=eng) on this! It clearly makes the claim that the First Vision happened in Spring of 1820. Sounds awfully familiar to the verbiage I had to memorize and recite verbatim on my mission. Saw both God and Jesus, other churches are wrong, and "[many other things](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p20#p20)" [[Book of Mormon#Cannot be written|which cannot be written]].
 
 &nbsp;
 

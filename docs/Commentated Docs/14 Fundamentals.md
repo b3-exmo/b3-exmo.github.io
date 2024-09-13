@@ -2,7 +2,6 @@
 comments: true
 ---
 # 🤡 [Fourteen Fundamentals in Following the Prophet](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng)
-
 ***If I had to point to one church publication as evidence that the LDS church is a cult, it'd be this one.***
 
 The link above is to the Ensign magazine, reprinting the [address given in BYU](https://speeches.byu.edu/talks/ezra-taft-benson/fourteen-fundamentals-following-prophet/) in February, 1980. I won't repost the entire speech, but show some excerpts with comments.
@@ -204,7 +203,7 @@ Come on, now. "If I say something that mainstream disagrees with, that means I�
 
 > *As a prophet reveals the truth it divides the people. The honest in heart heed his words but the unrighteous either ignore the prophet or fight him.*
 
-What? Isn't the prophet meant to be unifying people under one banner? Gathering Israel to Zion or whatever? Much like how the [[Scripture/Book of Mormon/index#Pride cycle vs Agency|Book of Mormon's pride cycle]]™ is perpetuated by God making people prideful, why is God dividing people by sending a prophet to say divisive things? Can't God afford a PR department to run statements by first? Does God not know what things to say to his own children?
+What? Isn't the prophet meant to be unifying people under one banner? Gathering Israel to Zion or whatever? Much like how the [[Book of Mormon#Pride cycle vs Agency|Book of Mormon's pride cycle]]™ is perpetuated by God making people prideful, why is God dividing people by sending a prophet to say divisive things? Can't God afford a PR department to run statements by first? Does God not know what things to say to his own children?
 
 "*People who ignore me or resist my words are unrighteous!*" — Someone who is definitely not a cult leader
 

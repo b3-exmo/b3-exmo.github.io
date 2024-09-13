@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🇺🇸 Ezra Taft Benson
-See also: [[Fourteen Fundamentals in Following the Prophet]]
+See also: [[14 Fundamentals]]
 
 ## Race
 ### You were not worthy to be in the church
