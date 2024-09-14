@@ -9,7 +9,7 @@ These are quotes and examples meant to illustrate ideas that are [[Too Sacred to
 ## General Conference
 > *Although many of our experiences in the house of the Lord are ==too sacred to share== publicly, some we can share.*
 
-&mdash; *[Temples, Houses of the Lord Dotting the Earth](https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng&id=p18#p18)* Elder Neil L. Andersen Of the Quorum of the Twelve Apostles, General Conference April 2024
+— *[Temples, Houses of the Lord Dotting the Earth](https://www.churchofjesuschrist.org/study/general-conference/2024/04/55andersen?lang=eng&id=p18#p18)* Elder Neil L. Andersen Of the Quorum of the Twelve Apostles, General Conference April 2024
 
 &nbsp;
 
@@ -21,7 +21,7 @@ These are quotes and examples meant to illustrate ideas that are [[Too Sacred to
 > 
 > *It is ==not that they are secret, but they are sacred==; not to be discussed, but to be harbored and to be protected and regarded with the deepest of reverence.*
 
-&mdash; *[“The Spirit Beareth Record”](https://www.churchofjesuschrist.org/study/general-conference/1971/04/the-spirit-beareth-record?lang=eng&id=p15#p15)*,  Elder Boyd K. Packer Of the Council of the Twelve, General Conference April 1971
+— *[“The Spirit Beareth Record”](https://www.churchofjesuschrist.org/study/general-conference/1971/04/the-spirit-beareth-record?lang=eng&id=p15#p15)*,  Elder Boyd K. Packer Of the Council of the Twelve, General Conference April 1971
 
 This experience is recounted again in Packer's book, [Teach Ye Diligently](https://archive.org/details/teachyediligentl0000boyd), quoted [[#Other|below]]
 
@@ -29,13 +29,13 @@ This experience is recounted again in Packer's book, [Teach Ye Diligently](https
 
 > *When I considered that request, I remembered many such incidents which had been whispered in confidence to me over the years. But those seemed ==too sacred to share== in a worldly way, especially to the benefit of a commercial venture. Besides, what would be the validity of isolated stories of life after life without supporting testimonies of witnesses?*
 
-&mdash; *[Life after Life](https://www.churchofjesuschrist.org/study/general-conference/1987/04/life-after-life?lang=eng&id=p6#p6)*, Elder Russell M. Nelson Of the Quorum of the Twelve Apostles, General Conference April 1987
+— *[Life after Life](https://www.churchofjesuschrist.org/study/general-conference/1987/04/life-after-life?lang=eng&id=p6#p6)*, Elder Russell M. Nelson Of the Quorum of the Twelve Apostles, General Conference April 1987
 
 &nbsp;
 
 > *As a special witness of Jesus Christ, I testify that He lives! I also testify that the veil of death is very thin. ==I know by experiences too sacred to relate== that those who have gone before are not strangers to leaders of this Church. To us and to you, our loved ones may be just as close as the next room—separated only by the doors of death.*
 
-&mdash; *[Doors of Death](https://www.churchofjesuschrist.org/study/general-conference/1992/04/doors-of-death?lang=eng&id=p43#p43)*, Elder Russell M. Nelson Of the Quorum of the Twelve Apostles, General Conference April 1992
+— *[Doors of Death](https://www.churchofjesuschrist.org/study/general-conference/1992/04/doors-of-death?lang=eng&id=p43#p43)*, Elder Russell M. Nelson Of the Quorum of the Twelve Apostles, General Conference April 1992
 
 &nbsp;
 
@@ -43,7 +43,7 @@ This experience is recounted again in Packer's book, [Teach Ye Diligently](https
 >
 > *Rather, I have seen their loyalty and care for their wives and children. I have experienced their love and sure witness of our Heavenly Father and His Son. I have watched them untiringly seek first to build up the kingdom of God. I have seen the power of God rest upon them and magnify and sustain them. I have witnessed the fulfillment of their prophetic voice. I have seen the sick raised and nations blessed through their authority and have stood with them ==in moments too sacred to recount==. I testify that they are the Lord’s anointed.*
 
-&mdash; *[Come unto Him](https://www.churchofjesuschrist.org/study/general-conference/2009/04/come-unto-him?lang=eng&id=p15#p15)*, Elder Neil L. Andersen Of the Quorum of the Twelve Apostles, General Conference April 2004
+— *[Come unto Him](https://www.churchofjesuschrist.org/study/general-conference/2009/04/come-unto-him?lang=eng&id=p15#p15)*, Elder Neil L. Andersen Of the Quorum of the Twelve Apostles, General Conference April 2004
 
 &nbsp;
 
@@ -53,31 +53,31 @@ This experience is recounted again in Packer's book, [Teach Ye Diligently](https
 
 > *At times I have stumbled and been less than I should have been. All of us experience those wrenching, defining, difficult decisions that move us to a higher level of spirituality. They are the Gethsemanes of our lives that bring with them great pain and anguish. ==Sometimes they are too sacred to be shared publicly==. They are the watershed experiences that help purge us of our unrighteous desires for the things of the world. As the scales of worldliness are taken from our eyes, we see more clearly who we are and what our responsibilities are concerning our divine destiny.*
 
-&mdash; A Growing Testimony ([[1](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p5#p5)], [[2](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p13#p13)]), President James E. Faust, Second Counselor in the First Presidency, General Conference October 2000
+— A Growing Testimony ([[1](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p5#p5)], [[2](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p13#p13)]), President James E. Faust, Second Counselor in the First Presidency, General Conference October 2000
 
 &nbsp;
 
 > *I wish I could help everyone to understand this one simple fact: we believe in God because of things we know with our heart and mind, not because of things we do not know. ==Our spiritual experiences are sometimes too sacred to explain in worldly terms==, but that doesn’t mean they are not real.*
 
-&mdash; *[Be Not Afraid, Only Believe](https://www.churchofjesuschrist.org/study/general-conference/2015/10/be-not-afraid-only-believe?lang=eng&id=p35#p35)*, President Dieter F. Uchtdorf, Second Counselor in the First Presidency, General Conference October 2015
+— *[Be Not Afraid, Only Believe](https://www.churchofjesuschrist.org/study/general-conference/2015/10/be-not-afraid-only-believe?lang=eng&id=p35#p35)*, President Dieter F. Uchtdorf, Second Counselor in the First Presidency, General Conference October 2015
 
 &nbsp;
 
 > *We can help others become more familiar with the promptings of the Spirit when we share our testimony of the influence of the Holy Ghost in our lives. Remember that ==some experiences are too sacred to relate==. However, by sharing testimony of the Spirit in our lives, those who are unfamiliar with these promptings are more likely to recognize when they have similar feelings.*
 
-&mdash; *[Helping Others Recognize the Whisperings of the Spirit](https://www.churchofjesuschrist.org/study/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit?lang=eng&id=p12#p12)*, Vicki F. Matsumori, Second Counselor in the Primary General Presidency, General Conference October 2009
+— *[Helping Others Recognize the Whisperings of the Spirit](https://www.churchofjesuschrist.org/study/general-conference/2009/10/helping-others-recognize-the-whisperings-of-the-spirit?lang=eng&id=p12#p12)*, Vicki F. Matsumori, Second Counselor in the Primary General Presidency, General Conference October 2009
 
 &nbsp;
 
 > *There is one title that the First Presidency and the Twelve seldom use, ==considering it too sacred—that of Apostle==. It is in that role that I come to you my beloved priesthood brethren.*
 
-&mdash; *[The Sanctity of Womanhood](https://www.churchofjesuschrist.org/study/general-conference/2000/04/the-sanctity-of-womanhood?lang=eng&id=p3#p3)*, Elder Richard G. Scott Of the Quorum of the Twelve Apostles, General Conference April 2000
+— *[The Sanctity of Womanhood](https://www.churchofjesuschrist.org/study/general-conference/2000/04/the-sanctity-of-womanhood?lang=eng&id=p3#p3)*, Elder Richard G. Scott Of the Quorum of the Twelve Apostles, General Conference April 2000
 
 &nbsp;
 
 > *Virtually all my experience in the hospital during that first period is lost to my memory. What is not lost is my memory of a journey outside the hospital, out to what seemed the edge of eternity. ==I cannot speak fully of that experience here==, but I can say that part of what I received was an admonition to return to my ministry with more urgency, more consecration, more focus on the Savior, more faith in His word.*
 
-&mdash; *[Motions of a Hidden Fire](https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng&id=p8#p8)*, President Jeffrey R. Holland, Acting President of the Quorum of the Twelve Apostles, General Conference April 2024
+— *[Motions of a Hidden Fire](https://www.churchofjesuschrist.org/study/general-conference/2024/04/13holland?lang=eng&id=p8#p8)*, President Jeffrey R. Holland, Acting President of the Quorum of the Twelve Apostles, General Conference April 2024
 
 Not as solid of a match, but context does suggest pretty heavily that this unspeakable experience drove this Apostle to go do Apostle things with more urgency.
 
@@ -92,7 +92,7 @@ Not as solid of a match, but context does suggest pretty heavily that this unspe
 >
 > *“==That experience … is too sacred for me to share over the pulpit==, but it is one that I can never forget or deny,” she said. “Because of that sacred experience I can take any witness stand in any nation on earth and testify that I know that President Russell Marion Nelson has been called by God to be the living prophet of the Lord on the earth today.”*
 
-&mdash; *[President Nelson Concludes Global Ministry Tour in Hawaii with Message about the Temple](https://www.churchofjesuschrist.org/church/news/president-nelson-concludes-global-ministry-tour-in-hawaii-with-message-about-the-temple?lang=eng)*, Contributed By Marianne Holman Prescott, Church News staff writer, 25 April 2018
+— *[President Nelson Concludes Global Ministry Tour in Hawaii with Message about the Temple](https://www.churchofjesuschrist.org/church/news/president-nelson-concludes-global-ministry-tour-in-hawaii-with-message-about-the-temple?lang=eng)*, Contributed By Marianne Holman Prescott, Church News staff writer, 25 April 2018
 
 &nbsp;
 
