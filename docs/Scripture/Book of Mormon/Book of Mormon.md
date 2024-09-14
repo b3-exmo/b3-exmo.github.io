@@ -59,7 +59,7 @@ God rewards your obedience and righteousness with a reward corrupts you, bringin
 
 Who breaks the cycle? Is it us? Are we meant to **not** be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle— God is the one who keeps blessing us. I won't be prideful anymore if God stops *making* me prideful. 
 
-God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually&mdash; you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever I get blessed by God? Is God trying to tell me that I shouldn't become humble and obedient? He sure seems to want to disincentivize that.
+God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually— you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever I get blessed by God? Is God trying to tell me that I shouldn't become humble and obedient? He sure seems to want to disincentivize that.
 
 &nbsp;
 

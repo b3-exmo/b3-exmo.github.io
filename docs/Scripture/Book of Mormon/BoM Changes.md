@@ -61,7 +61,7 @@ Joseph asserts that Lamanites are “the former inhabitants” of this continent
 >
 > *With care and selectivity, the Lord began almost at once to repeople the promised land. The Jaredites came first, with stories of the great flood fresh in their memories...*
 
-&mdash; *[A Promised Land](https://www.churchofjesuschrist.org/study/ensign/1976/06/a-promised-land?lang=eng&id=p13-p14#p13)*, Jeffrey R Holland, Ensign, June 1976
+— *[A Promised Land](https://www.churchofjesuschrist.org/study/ensign/1976/06/a-promised-land?lang=eng&id=p13-p14#p13)*, Jeffrey R Holland, Ensign, June 1976
 
 So... The land was "without habitation." I suppose the interpretation here is that since the Jaredite extinction, Lehi's descendants are the sole progenitors of all Native Americans?
 

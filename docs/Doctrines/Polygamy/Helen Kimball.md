@@ -30,7 +30,7 @@ The fact is that he married her- and by that act he secured all rights and privi
 ## *A Woman's View*
 > *Joseph Smith, a close friend of the Kimballs, privately taught Heber and Vilate in 1841 about plural marriage, which he was commanded by revelation to introduce. In May or June of 1843, Heber introduced Helen to the idea of plural marriage and encouraged her to be sealed to Joseph Smith as a plural wife. She agreed to the sealing and later characterized it as being ==“for eternity alone,” suggesting that the relationship did not involve sexual relations==. Helen ==considered the marriage a sacrifice== that could ==eternally link== the Kimball and Smith families in heavenly society.*
 
-&mdash; *[Helen Mar Kimball Whitney](https://www.churchofjesuschrist.org/study/history/topics/helen-mar-kimball-whitney?lang=eng&id=p3#p3)*, Church History Topics
+— *[Helen Mar Kimball Whitney](https://www.churchofjesuschrist.org/study/history/topics/helen-mar-kimball-whitney?lang=eng&id=p3#p3)*, Church History Topics
 
 &nbsp;
 
@@ -49,7 +49,7 @@ In [Appendix One](https://rsc.byu.edu/womans-view/appendix-one), we find the fol
 >
 > *This promise was so great that I will-ingly gave myself to purchase so glorious a reward. ==None but God & his angels could see my mother’s bleeding heart==—when Joseph asked her if she was willing, she replied “If Helen is willing I have nothing more to say.” She had witnessed the sufferings of others, who were older & who better understood the step they were taking, & to see her child, who had ==scarcely seen her fifteenth summer==, following in the same thorny path, in her mind ==she saw the misery which was as sure to come== as the sun was to rise and set; ==but it was all hidden from me==.*
 
-&mdash; [Appendix One](https://rsc.byu.edu/womans-view/appendix-one), *A Woman's View*, Helen Mar Kimball
+— [Appendix One](https://rsc.byu.edu/womans-view/appendix-one), *A Woman's View*, Helen Mar Kimball
 
 &nbsp;
 
@@ -62,34 +62,34 @@ This appendix leads me to believe that this reminiscence was written on 30 March
 ### Poetry
 Helen attaches this to her reminiscence in that same appendix:
 
-> *==I thought through this life my time will be my own==*&nbsp;
-> *The step I now am taking’s for eternity alone,*&nbsp;
-> *No one need be the wiser, through time I shall be free,*&nbsp;
-> *And as the past hath been the future still will be.*&nbsp;
-> *To my guileless heart all free from worldly care*&nbsp;
-> *And full of blissful hopes—and youthful visions rare*&nbsp;
-> *The world seamed bright the thret’ning clouds were kept*&nbsp;
-> *From sight, and all looked fair but pitying angels wept.*&nbsp;
-> *They saw my youthful friends grow shy and cold.*&nbsp;
-> *And poisonous darts from sland’rous tongues were hurled,*&nbsp;
-> *Untutor’d heart in thy gen’rous sacrafise,*&nbsp;
-> *Thou dids’t not weigh the cost nor know the bitter price;*&nbsp;
-> *==Thy happy dreems all o’er thou’rt doom’d alas to be==*&nbsp;
-> *==Bar’d out from social scenes by this thy destiny,==*&nbsp;
-> *And o’er thy sad’nd mem’ries of sweet departed joys*&nbsp;
-> *Thy sicken’d heart will brood and imagine future woes,*&nbsp;
-> *==And like a fetter’d bird with wild and longing heart,==*&nbsp;
-> *==Thou’lt dayly pine for freedom and murmor at thy lot;==*&nbsp;
-> *But could’st thou see the future & view that glorious crown,*&nbsp;
-> *Awaiting you in Heaven you would not weep nor mourn,*&nbsp;
-> *Pure and exalted was thy father’s aim, he saw*&nbsp;
-> *A glory in obeying this high celestial law,*&nbsp;
-> *For to thousands who’ve died without the light*&nbsp;
-> *I will bring eternal joy & make thy crown more bright.*&nbsp;
-> *==I’d been taught to receive the Prophet of God==*&nbsp;
-> *==And receive every word as the word of the Lord==.*&nbsp;
-> *==But had this not come through my dear father’s mouth,==*&nbsp;
-> *==I should ne’r have received it as God’s sacred truth.==*&nbsp;
+> *==I thought through this life my time will be my own==* 
+> *The step I now am taking’s for eternity alone,* 
+> *No one need be the wiser, through time I shall be free,* 
+> *And as the past hath been the future still will be.* 
+> *To my guileless heart all free from worldly care* 
+> *And full of blissful hopes—and youthful visions rare* 
+> *The world seamed bright the thret’ning clouds were kept* 
+> *From sight, and all looked fair but pitying angels wept.* 
+> *They saw my youthful friends grow shy and cold.* 
+> *And poisonous darts from sland’rous tongues were hurled,* 
+> *Untutor’d heart in thy gen’rous sacrafise,* 
+> *Thou dids’t not weigh the cost nor know the bitter price;* 
+> *==Thy happy dreems all o’er thou’rt doom’d alas to be==* 
+> *==Bar’d out from social scenes by this thy destiny,==* 
+> *And o’er thy sad’nd mem’ries of sweet departed joys* 
+> *Thy sicken’d heart will brood and imagine future woes,* 
+> *==And like a fetter’d bird with wild and longing heart,==* 
+> *==Thou’lt dayly pine for freedom and murmor at thy lot;==* 
+> *But could’st thou see the future & view that glorious crown,* 
+> *Awaiting you in Heaven you would not weep nor mourn,* 
+> *Pure and exalted was thy father’s aim, he saw* 
+> *A glory in obeying this high celestial law,* 
+> *For to thousands who’ve died without the light* 
+> *I will bring eternal joy & make thy crown more bright.* 
+> *==I’d been taught to receive the Prophet of God==* 
+> *==And receive every word as the word of the Lord==.* 
+> *==But had this not come through my dear father’s mouth,==* 
+> *==I should ne’r have received it as God’s sacred truth.==* 
 
 &nbsp;
 
@@ -102,7 +102,7 @@ Ready for more sad reading? Good, cause we got more to get through.
 
 > *During the winter of 1843, there were plenty of parties and balls. … Some of the young gentlemen got up a series of dancing parties, to be held at the Mansion once a week. … I had to stay at home, as my father had been warned by the Prophet to keep his daughter away from there, because of the blacklegs and certain ones of questionable character who attended there. His wife ==Emma had become the ruling spirit, and money had become her God==. I did not betray William, but I felt quite sore over it, and thought it a very unkind act in father to allow [William] to go and enjoy the dance unrestrained with others of my companions, and fetter me down, ==for no girl loved dancing better than I did==, and I really felt that it was too much to bear. It made the dull school still more dull, and like a wild bird I longed for the freedom that was denied me; and thought myself a much abused child, and that it was pardonable if I did murmur. I imagined that my happiness was all over, and brooded over the sad memories of sweet departed joys and all manner of future woes[.]*
 
-&mdash; *[Scenes and Incidents in Nauvoo](https://rsc.byu.edu/womans-view/scenes-incidents-nauvoo)*, *A Woman's View*, Helen Mar Kimball
+— *[Scenes and Incidents in Nauvoo](https://rsc.byu.edu/womans-view/scenes-incidents-nauvoo)*, *A Woman's View*, Helen Mar Kimball
 
 &nbsp;
 
@@ -113,7 +113,7 @@ Other pages within this book describe her affinity for dancing and socializing. 
 ### Regrets
 > *The Twelve took Joseph's wives after his death. Kimball and Young took most of them; the daughter of Kimball was one of Joseph's wives. I heard her say to her mother, "I will never be sealed to my Father, (meaning as a wife) and ==I would never have been sealed (married) to Joseph, had I known it was any thing more than ceremony. I was young, and they deceived me, by saying the salvation of our whole family depended on it==. I say again, I will never be sealed to my Father; no, I will sooner be damned and go to hell, if I must. Neither will I be sealed to Brigham Young." The Apostles said they only took Joseph's wives to raise up children, carry them through to the next world, there deliver them up to him, by so doing they should gain his approbation, &c.*
 
-&mdash; *[Narrative of Some of the Proceedings of the Mormons](https://archive.org/details/CatherineLewisNarrative/page/n17/mode/2up)*, Catherine Lewis, 1848
+— *[Narrative of Some of the Proceedings of the Mormons](https://archive.org/details/CatherineLewisNarrative/page/n17/mode/2up)*, Catherine Lewis, 1848
 
 &nbsp;
 

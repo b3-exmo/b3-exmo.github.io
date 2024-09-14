@@ -21,7 +21,7 @@ Well... If we attribute scripture to divine revelation from God, I think [[Race 
 
 🤨 Didn't we just establish that "all are alike unto God?" Why would God's official restored church exclude a specific race for 126 years? Does God's official restored church not represent His will?
 
-I'd also like to point out this explicit acknowledgement that simply disallowing black men from holding priesthood authority cascades into other matters&mdash; if  interracial marriage is also forbidden, that means anyone of African ancestry is simply not allowed to participate in saving ordinances. They can't be endowed nor sealed. Their families will not be [together forever](https://www.churchofjesuschrist.org/media/music/songs/families-can-be-together-forever-1989?lang=eng), explicitly because of Heavenly Father's plan. But don't worry too much, all are alike unto God. ... Maybe.
+I'd also like to point out this explicit acknowledgement that simply disallowing black men from holding priesthood authority cascades into other matters— if  interracial marriage is also forbidden, that means anyone of African ancestry is simply not allowed to participate in saving ordinances. They can't be endowed nor sealed. Their families will not be [together forever](https://www.churchofjesuschrist.org/media/music/songs/families-can-be-together-forever-1989?lang=eng), explicitly because of Heavenly Father's plan. But don't worry too much, all are alike unto God. ... Maybe.
 
 Let's not overlook the nebulous "mid-1800s" timeframe. We can trace [down to the day](https://catalog.churchofjesuschrist.org/record/5df3b7da-d0a5-437b-8268-7dde8a87c76e/e6a939a0-3402-4771-814d-4eaf2547e613) when this doctrine was established by the prophet of God, to lead His one, true church. It was Thursday, 5 February 1852, and [finally reversed](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=eng) on Thursday, 1 June 1978. We're looking at 126 years, 3 months, and 27 days. 46,137 days of God, eternal and unchanging, being completely oblivious or complacent before ultimately revealing that "actually, black folks are allowed to be saved now." Just a prank, bro.
 
@@ -45,7 +45,7 @@ It wasn't churchwide, though, so I guess we can just ignore the admittance of se
 
 So... is there *unreliable* evidence of that? For an organization with a vested interest in one angle of a narrative to acknowledge and exclude evidence makes me think that evidence is worth examining. It makes me think that the reader should be the one to determine reliability.
 
-Asserting that there's "no reliable evidence" during Joseph Smith's presidency isn't quite the flex you seem to think it is. If we were to excuse him, we still have 11 other acting presidents of God's true, restored church to examine, not to mention their respective apostles and first presidencies, *all of whom* are called as prophets to bring God's will to us common folk. The easiest example to point to is [[Brigham Young|Brigham Young]]'s presidency, where we find some pretty unambiguous documentation on God's chosen vessel, representative, spokesman, being racist as *fuck*. Joseph's presidency has some conflicting information about racial dispositions&mdash; one day he’s for equality, others not so much. How should I feel about the idea that both men were called of God to be a prophet? I don't like the idea of pinning all of this on Joseph Smith. He's got [[Joseph Smith|his own set of issues]] to sort through, but this doctrine on race persisted for an uncomfortably long time.
+Asserting that there's "no reliable evidence" during Joseph Smith's presidency isn't quite the flex you seem to think it is. If we were to excuse him, we still have 11 other acting presidents of God's true, restored church to examine, not to mention their respective apostles and first presidencies, *all of whom* are called as prophets to bring God's will to us common folk. The easiest example to point to is [[Brigham Young|Brigham Young]]'s presidency, where we find some pretty unambiguous documentation on God's chosen vessel, representative, spokesman, being racist as *fuck*. Joseph's presidency has some conflicting information about racial dispositions— one day he’s for equality, others not so much. How should I feel about the idea that both men were called of God to be a prophet? I don't like the idea of pinning all of this on Joseph Smith. He's got [[Joseph Smith|his own set of issues]] to sort through, but this doctrine on race persisted for an uncomfortably long time.
 
 &nbsp;
 
@@ -63,7 +63,7 @@ Stop distancing your history from these offensive ideas. *Don't even try that sh
 
 What? The entire world doesn't see race the way America does? ... And the prophet of God for the entire world didn't anticipate that?
 
-This reminds me of the hand-waving I've encountered for treatment of LGBT folks&mdash; "we're not turning them away, they're welcome to attend sacrament meeting!" I mean, yeah, but they still can't participate in all of the requisite saving ordinances. To assert "we never prevented black folks from being baptized" is missing the point. They can't get into the temple, *even if they paid money to construct it*. What this sounds like to me is God wasn't involved in this decision to put a temple in São Paulo. Building a temple shouldn't result in a logistical problem for allowing demographics of members to even make use of it. Did God get blindsided by this discrepancy, too?
+This reminds me of the hand-waving I've encountered for treatment of LGBT folks— "we're not turning them away, they're welcome to attend sacrament meeting!" I mean, yeah, but they still can't participate in all of the requisite saving ordinances. To assert "we never prevented black folks from being baptized" is missing the point. They can't get into the temple, *even if they paid money to construct it*. What this sounds like to me is God wasn't involved in this decision to put a temple in São Paulo. Building a temple shouldn't result in a logistical problem for allowing demographics of members to even make use of it. Did God get blindsided by this discrepancy, too?
 
 &nbsp;
 
@@ -99,7 +99,7 @@ This guy has numerous things to say about race. I'll put just one quote here, bu
 
 > *I would be willing that they have all the advantages they can get out of life in the world. but let them enjoy these things among themselves. I think the Lord segregated the Negro and who is man to change that segregation? It reminds me of the scripture on marriage, “what God hath joined together, let not man put asunder.” Only here we have the reverse of the thing—what God hath separated, let not man bring together again.*
 
-&mdash; *[Race Problems - As They Affect the Church](https://www.fairlatterdaysaints.org/answers/Primary_sources/Mark_E._Petersen/Race_Problems_-_As_They_Affect_the_Church)*, Mark E. Petersen, August 27, 1954 at the BYU Convention of Teachers of Religion on the College Level
+— *[Race Problems - As They Affect the Church](https://www.fairlatterdaysaints.org/answers/Primary_sources/Mark_E._Petersen/Race_Problems_-_As_They_Affect_the_Church)*, Mark E. Petersen, August 27, 1954 at the BYU Convention of Teachers of Religion on the College Level
 
 &nbsp;
 
@@ -109,7 +109,7 @@ This guy has numerous things to say about race. I'll put just one quote here, bu
 > 
 > *“Our position as a Church is clear. We do condemn all racism, past or present, in any form, and we disavow any ==theory== that black or dark skin is a sign of a curse. We are brothers and sisters, and I consider you friends.”*
 
-&mdash; *[“All Are Alike unto God,” Elder Stevenson Says at NAACP Luncheon](https://www.churchofjesuschrist.org/church/news/all-are-alike-unto-god-elder-stevenson-says-at-naacp-luncheon?lang=eng)*, Church News, 22 January 2020
+— *[“All Are Alike unto God,” Elder Stevenson Says at NAACP Luncheon](https://www.churchofjesuschrist.org/church/news/all-are-alike-unto-god-elder-stevenson-says-at-naacp-luncheon?lang=eng)*, Church News, 22 January 2020
 
 Alright, sure, cool, you can disavow theories, but *[[Race in scripture|scripture]] is not theory.* Until you disavow that *doctrine*, your words mean shit to me.
 
@@ -123,7 +123,7 @@ Alright, sure, cool, you can disavow theories, but *[[Race in scripture|scriptur
 ### LeGrand Richards
 > *5 weeks after the initial announcement, two men were granted an opportunity to speak with LeGrand Richards, one of the senior Apostles. They asked several key questions of the Elder and one of the most straightforward descriptions of the process of modern revelation was given in reply. In addition, other interesting topics were discussed including the existence of Joseph’s seer-stone, the legitimacy of the “Lectures on Faith” and changes to the Book of Mormon.*
 
-&mdash; *[The Legrand Richards Interview](https://thoughtsonthingsandstuff.com/the-legrand-richards-interview)*, Thoughts on Things and Stuff
+— *[The Legrand Richards Interview](https://thoughtsonthingsandstuff.com/the-legrand-richards-interview)*, Thoughts on Things and Stuff
 
 The link above has a transcription of this interview, along with links to [an audio recording](https://archive.org/details/1978LegrandRichardsInterview) and [an offsite transcript](https://archive.org/details/CorrespondenceWithLeGrandRichardsRegarding1978Interview). I'll include two excerpts of that interview here:
 
@@ -176,7 +176,7 @@ Sounds to me like this "revelation" is in response to a business problem. They b
 > 
 > *How grateful I am that ==The Church of Jesus Christ of Latter-day Saints has from its beginnings stood strongly against racism in any of its malignant manifestations==. President Spencer W. Kimball stated the Church’s position well: “We do wish that there would be no racial prejudice. … Racial prejudice is of the devil. … There is no place for it in the gospel of Jesus Christ” (The Teachings of Spencer W. Kimball, ed. Edward L. Kimball [1982], 236–37).*
 
-&mdash; [“No More Strangers”](https://www.churchofjesuschrist.org/study/ensign/2000/09/no-more-strangers?lang=eng&id=p5-p6#p5), By Elder Alexander B. Morrison Of the Seventy, Ensign September 2000
+— [“No More Strangers”](https://www.churchofjesuschrist.org/study/ensign/2000/09/no-more-strangers?lang=eng&id=p5-p6#p5), By Elder Alexander B. Morrison Of the Seventy, Ensign September 2000
 
 Boy, those church leaders sure like calling racism a theory.
 
@@ -188,7 +188,7 @@ Boy, those church leaders sure like calling racism a theory.
 > 
 > *Now I am told that racial slurs and denigrating remarks are sometimes heard among us. I remind you that ==no man who makes disparaging remarks concerning those of another race can consider himself a true disciple of Christ==. Nor can he consider himself to be in harmony with the teachings of the Church of Christ. How can any man holding the Melchizedek Priesthood arrogantly assume that he is eligible for the priesthood whereas another who lives a righteous life but whose skin is of a different color is ineligible?*
 
-&mdash; [The Need for Greater Kindness](https://www.churchofjesuschrist.org/study/general-conference/2006/04/the-need-for-greater-kindness?lang=eng&id=p7-p8#p7), President Gordon B. Hinckley, President of the Church, General Conference April 2006
+— [The Need for Greater Kindness](https://www.churchofjesuschrist.org/study/general-conference/2006/04/the-need-for-greater-kindness?lang=eng&id=p7-p8#p7), President Gordon B. Hinckley, President of the Church, General Conference April 2006
 
 So... if the prophet of God in 2006 can make this declaration, can it be retrofitted to those, say, prior to 1978? Because if so, this presents something of a conundrum. And if not, can we call the prophet authoritative?
 

@@ -13,26 +13,26 @@ I think this is a nice opportunity to point out that the LDS church's site only 
 
 > *The negro is an unfortunate man. He has been given a black skin. But that is as nothing compared with that greater handicap that he is not permitted to receive the Priesthood and the ordinances of the temple, necessary to prepare men and women to enter into and enjoy a fulness of glory in the celestial kingdom. What is the reason for this condition, we ask, and I find it to my satisfaction to think that as spirit children of our Eternal Father they were not valiant in the fight. We are told that Michael and his angels fought, and we understand that we stood with Christ our Lord, on the plat- form, ‘Father, thy will be done, and the glory be thine forever. ’I cannot conceive our Father consigning his children to a condition such as that of the negro race, if they had been valiant in the spirit world in that war in heaven. Neither could they have been a part of those who rebelled and were cast down, for the latter had not the privilege of tabernacling in the flesh. Somewhere along the line were these spirits, indifferent perhaps, and possibly neutral in the war. We have no definite knowledge concerning this.*
 
-&mdash; _[George F. Richards, Conference Reports, April 1939](https://archive.org/details/conferencereport1939a/page/58/mode/1up?q=%22unfortunate+man%22), pp. 58-59_
+— _[George F. Richards, Conference Reports, April 1939](https://archive.org/details/conferencereport1939a/page/58/mode/1up?q=%22unfortunate+man%22), pp. 58-59_
 
 &nbsp;
 
 > *Just as Brother George F. Richards has indicated that our poor benighted negro brethren are suffering the consequence of their sowing at some other time and place, so as certainly shall we hereafter reap what we are sowing here and now.*
 
-&mdash; _[Melvin J. Ballard, Conference Reports, April 1939](https://archive.org/details/conferencereport1939a/page/69/mode/1up?q=benighted), p. 69_
+— _[Melvin J. Ballard, Conference Reports, April 1939](https://archive.org/details/conferencereport1939a/page/69/mode/1up?q=benighted), p. 69_
 
 &nbsp;
 
 > *The Negro race have been forbidden the priesthood, and the higher temple blessings, presumably because of their not having been valiant while in the spirit. It does not pay to be anything but valiant.*
 
-&mdash; _[George F. Richards, Conference Reports, October 1947](https://archive.org/details/conferencereport1947sa/page/57/mode/1up?q=%22forbidden+the+priesthood%22), p. 57_
+— _[George F. Richards, Conference Reports, October 1947](https://archive.org/details/conferencereport1947sa/page/57/mode/1up?q=%22forbidden+the+priesthood%22), p. 57_
 
 &nbsp;
 
 ## Journal of Discourses
 > *When the curse of the Almighty comes upon a people, it certainly is the work of generations to remove it. When Cain brought a curse upon his own head, and that of his household, his after generations bore the same curse. The curse that came upon Canaan, the son of Ham, has extended to a great portion of the human race, and has continued to the present day. For the last hundred years, philanthropists, who were ignorant of the order of God—of the irrevocable decrees of the Almighty—have exerted themselves vigorously to thwart the purposes of the Almighty, in trying to remove the curse of servitude from the descendants of Canaan; but their endeavors are vain and useless; it is labor lost, and answers no end, only so far as it serves to multiply the difficulties and perplexities which are arising in this generation, to bring about the great destruction of corruption and wickedness from the earth; in this way it all indirectly serves a purpose.*
 
-&mdash; _George A. Smith, September 23, 1855, [Journal of Discourses 3](https://scriptures.byu.edu/#:t7536:j03):29_
+— _George A. Smith, September 23, 1855, [Journal of Discourses 3](https://scriptures.byu.edu/#:t7536:j03):29_
 
 &nbsp;
 
@@ -49,19 +49,19 @@ There are numerous others in the JoD, but I can only handle so much racist nonse
 ## Other
 > *Part of the curse upon Canaan was ‘a blackness,’ similar to that which had been placed upon ‘the seed of Cain.’ The curse also deprived the Canaanites of the Priesthood; though they were blessed ‘with the blessings of the earth and with the blessings of wisdom’*
 
-&mdash; _[Orson F. Whitney, Saturday Night Thoughts](https://archive.org/details/saturdaynighttho0000orso), pp. 119-120, published 1921_
+— _[Orson F. Whitney, Saturday Night Thoughts](https://archive.org/details/saturdaynighttho0000orso), pp. 119-120, published 1921_
 
 &nbsp;
 
 > *Why is it in this Church we do not grant the priesthood to the Negroes? It is alleged that the Prophet Joseph said—and I have no reason to dispute it—that it is because of some act committed by them before they came into this life. It is alleged that they were neutral, standing neither for Christ nor the devil. But, I am convinced it is because of some things they did before they came into this life that they have been denied the privilege. The races of today are very largely reaping the consequences of a previous life*
 
-&mdash; _Sermons and Missionary Service of Melvin J. Ballard ([[1](https://archive.org/details/sermonsmissionar0000brya)], [[2](https://www.familysearch.org/library/books/viewer/20024/?offset=0#page=251)]) , p. 248_
+— _Sermons and Missionary Service of Melvin J. Ballard ([[1](https://archive.org/details/sermonsmissionar0000brya)], [[2](https://www.familysearch.org/library/books/viewer/20024/?offset=0#page=251)]) , p. 248_
 
 &nbsp;
 
 > “The principles that the Prophet Joseph taught are the doctrines that we must abide in, or we shall be overthrown. …It was manifest to him that the seed of Cain would not come in remembrance before the Lord for their final redemption, until the seed of Abel the righteous should all have their opportunity”
 
-&mdash; _Franklin D. Richards, October 5, 1896, Collected Discourses 5:220_
+— _Franklin D. Richards, October 5, 1896, Collected Discourses 5:220_
 
 To date, I haven't found a primary source for "collected discourses", but I have found other official LDS speeches cite this collection ([[1](https://www.churchofjesuschrist.org/study/ensign/2002/09/hope-for-parents-of-wayward-children?lang=eng&id=p3#p3)], [[2](https://speeches.byuh.edu/joseph-smith-lecture/joseph-smith-through-the-eyes-of-those-who-knew-him-best)])
 
@@ -118,14 +118,14 @@ This isn't really a quote pertaining to race, but this heading for Petersen is t
 
 > *“We have been a blessed people to have had him for nearly forty years as one of our prophets, seers, and revelators. He was a “giant” here. We miss him. He is a “giant” there.”*
 
-&mdash; *[Mark E. Petersen— A Giant among Men](https://www.churchofjesuschrist.org/study/ensign/1984/03/mark-e-petersen-a-giant-among-men?lang=eng)*, Elder ==Thomas S. Monson== Of the Quorum of the Twelve, Ensign March 1984
+— *[Mark E. Petersen— A Giant among Men](https://www.churchofjesuschrist.org/study/ensign/1984/03/mark-e-petersen-a-giant-among-men?lang=eng)*, Elder ==Thomas S. Monson== Of the Quorum of the Twelve, Ensign March 1984
 
 &nbsp;
 
 ### McConkie
 > *As a result of his rebellion, Cain was cursed with a dark skin; he became the father of the Negroes, and those spirits who are not worthy to receive the priesthood are born through his lineage. He became the first mortal to be cursed as a son of perdition.*
 
-&mdash; _Bruce R. McConkie, [Mormon Doctrine, 1966](https://archive.org/details/MormonDoctrine1966/page/79/mode/1up?q=%22son+of+perdition%22), p. 109_
+— _Bruce R. McConkie, [Mormon Doctrine, 1966](https://archive.org/details/MormonDoctrine1966/page/79/mode/1up?q=%22son+of+perdition%22), p. 109_
 
 &nbsp;
 
@@ -135,14 +135,14 @@ This isn't really a quote pertaining to race, but this heading for Petersen is t
 > 
 > *==It doesn’t make a particle of difference what anybody ever said about the Negro matter before the first day of June of this year, 1978==. It is a new day and a new arrangement, and the Lord has now given the revelation that sheds light out into the world on this subject. As to any slivers of light or any particles of darkness of the past, we forget about them. We now do what meridian Israel did when the Lord said the gospel should go to the Gentiles. We forget all the statements that limited the gospel to the house of Israel, and we start going to the Gentiles.*
 
-&mdash; [All Are Alike unto God](https://speeches.byu.edu/talks/bruce-r-mcconkie/alike-unto-god/), Bruce R. McConkie Of the Quorum of the Twelve Apostles, August 18, 1978
+— [All Are Alike unto God](https://speeches.byu.edu/talks/bruce-r-mcconkie/alike-unto-god/), Bruce R. McConkie Of the Quorum of the Twelve Apostles, August 18, 1978
 
 "Yeah, I *said* horrible things in the past and passed them off as unchangeable, eternal doctrine. Get over it, it's a new day. You need to repent. We have a prophet."
 
-I don't know how else to express this&mdash; *You don't get to tell us that "it doesn't make a particle of difference.* The doctrine *you* (McConkie) perpetuated literally kept people away from salvation. You don't just get to wave it off and move on with zero consequence. The proper response to making a bold claim when you have limited understanding is "I'm sorry." You apologize. You don't tell people that *they* are wrong, and *they* need to repent. What do those people need to repent of? *You* (McConkie) are the one who perpetuated offensively racist teachings that you've conceded were wrong. *You* repent, you bitch.
+I don't know how else to express this— *You don't get to tell us that "it doesn't make a particle of difference.* The doctrine *you* (McConkie) perpetuated literally kept people away from salvation. You don't just get to wave it off and move on with zero consequence. The proper response to making a bold claim when you have limited understanding is "I'm sorry." You apologize. You don't tell people that *they* are wrong, and *they* need to repent. What do those people need to repent of? *You* (McConkie) are the one who perpetuated offensively racist teachings that you've conceded were wrong. *You* repent, you bitch.
 
 &nbsp;
 
 > “One clear-cut position is that the folklore must never be perpetuated. … I have to concede to my earlier colleagues. … They, I’m sure, in their own way, were doing the best they knew to give shape to [the policy], to give context for it, to give even history to it. All I can say is however well intended the explanations were, I think almost all of them were inadequate and/or wrong. … It probably would have been advantageous to say nothing, to say we just don’t know, and, [as] with many religious matters, whatever was being done was done on the basis of faith at that time. But some explanations were given and had been given for a lot of years. … At the very least, there should be no effort to perpetuate those efforts to explain why that doctrine existed. I think, to the extent that I know anything about it, as one of the newer and younger ones to come along, … we simply do not know why that practice, that policy, that doctrine was in place. Well, some of the folklore that you must be referring to are suggestions that there were decisions made in the pre-mortal councils where someone had not been as decisive in their loyalty to a Gospel plan or the procedures on earth or what was to unfold in mortality, and that therefore that opportunity and mortality was compromised. I really don’t know a lot of the details of those, because fortunately I’ve been able to live in the period where we’re not expressing or teaching them, but I think that’s the one I grew up hearing the most, was that it was something to do with the pre-mortal councils. … But I think that’s the part that must never be taught until anybody knows a lot more than I know. … We just don’t know, in the historical context of the time, why it was practiced. … That’s my principal [concern], is that we don’t perpetuate explanations about things we don’t know. …We don’t pretend that something wasn’t taught or practice wasn’t pursued for whatever reason. But I think we can be unequivocal and we can be declarative in our current literature, in books that we reproduce, in teachings that go forward, whatever, that from this time forward, from 1978 forward, we can make sure that nothing of that is declared. That may be where we still need to make sure that we’re absolutely dutiful, that we put [a] careful eye of scrutiny on anything from earlier writings and teachings, just [to] make sure that that’s not perpetuated in the present. That’s the least, I think, of our current responsibilities on that topic”
 
-&mdash; _PBS Documentary “The Mormons” transcript of_ [_Interview with Jeffrey Holland_](http://www.pbs.org/mormons/interviews/holland.html)
+— _PBS Documentary “The Mormons” transcript of_ [_Interview with Jeffrey Holland_](http://www.pbs.org/mormons/interviews/holland.html)

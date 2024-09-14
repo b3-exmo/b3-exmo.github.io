@@ -26,7 +26,7 @@ To me, this raises the question if there is a precedent for this kind of aversio
 &nbsp;
 
 ## What does it imply?
-I suppose this is context-sensitive, but broadly speaking I'd say that a sacred (holy, divine, demanding reverence) experience is meant to confirm truthfulness. A sacred experience would verify or confirm God's presence, love, involvement&mdash; or that the restored LDS church is led by God.
+I suppose this is context-sensitive, but broadly speaking I'd say that a sacred (holy, divine, demanding reverence) experience is meant to confirm truthfulness. A sacred experience would verify or confirm God's presence, love, involvement— or that the restored LDS church is led by God.
 
 So, then, does that mean that spiritual experiences, below or above the threshold of "too sacred," can only be felt by those of the LDS faith? If yes, that claim is remarkably bold, even arrogant. If no, then what's the point? Human experience is too broad to say that spirituality is owned, copyrighted, monopolized by one organization.
 
@@ -37,7 +37,7 @@ Look, if you can't share it, either the experience is bullshit or you're lying. 
 
 Which of the following is more likely: an [[First Vision|event]] that defies all known laws of physics privately witnessed and leaving no evidence... or a human lying.
 
-Anyone who says their experience is too sacred to share has discovered the thrill of exaggerating a story for effect only to have gullible people give you undeserved reverence&mdash; it's a potent thrill that really deepens and intensifies while serving a full-time mission.
+Anyone who says their experience is too sacred to share has discovered the thrill of exaggerating a story for effect only to have gullible people give you undeserved reverence— it's a potent thrill that really deepens and intensifies while serving a full-time mission.
 
 If you wouldn't believe such a claim from any other religious zealot, then why would he believe yours? If you encountered a 7th day Adventist who mentioned that they know of a certainty that their flavor of Christianity is [[True|true]] because of personal experiences, how would you feel when they refuse to tell you about that personal experience? Would you think "well, by golly, if it's so sacred that they can't tell me anything about it, they must be telling the truth. Sign me up!" If it's that secretive, why would God even want you to even hint at it and then refuse sharing? Did you feel prompted by the [[Holy Spirit Promptings|holy ghost]] to share your experience, or not?
 
@@ -71,7 +71,7 @@ If something is too sacred to speak of outside of some context, I am left to ass
 > 
 > ***20** ==Teaching them to observe all things whatsoever I have commanded you==: and, lo, I am with you alway, even unto the end of the world. Amen.*
 
-&mdash; *[Matthew 28:16-20](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=eng&id=p16-p20#p16)*
+— *[Matthew 28:16-20](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=eng&id=p16-p20#p16)*
 
 &nbsp;
 
@@ -85,7 +85,7 @@ If something is too sacred to speak of outside of some context, I am left to ass
 > 
 > ***20** And ==they went forth, and preached every where==, the Lord working with them, and confirming the word with signs following. Amen.*
 
-&mdash; *[Mark 16:14-16, 20](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=eng&id=p14-p20#p14)*
+— *[Mark 16:14-16, 20](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=eng&id=p14-p20#p14)*
 
 &nbsp;
 
@@ -95,7 +95,7 @@ To me, it sounds like Jesus himself specifically told these apostles to do what 
 
 Now... Somehow we've gone from the original twelve apostles going to preach Christ's teachings, baptizing people, even to their own detriment and violent demises, to... hiding behind a pulpit, saying their experience is [[Too Sacred|too sacred to share]]. Including, but not limited to, being asked if a given latter-day apostle has seen Jesus Christ, the response is that "it's too sacred to share." Somehow, modern apostles have taken Jesus' admonition to mean "go ye into all the world, but don't give anyone any details about me or my teachings!"
 
-*This is your job.* Not "job" as in mission, though that is also true, but "job" as in W2 employees with a 401k. This is literally the one thing Apostles are meant to do. Either you saw Jesus or you didn't. Were ancient apostles concerned about what the world would think of them? Need I remind you, strawman apostle, that Joseph Smith testified of seeing Elohim, and Jehovah&mdash; God the Eternal Father, and Jesus Christ&mdash; physically and in person? And you can't say one way or the other if you saw Jesus? Why? Is your experience more sacred than the [[First Vision|First Vision]]? [Paul met Jesus](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=eng&id=p17#p17) on the road to Damascus&mdash; is your experience more sacred than Paul's? Martin Harris "[met the Lord Jesus Christ](https://archive.org/details/volume-2_202011/page/271/mode/2up?q=deer), who walked along by the side of him in the shape of a deer for two or three miles, talking with him as familiarly as one man talks with another." Was that experience too sacred to share? What am I [[Tithing|paying tithing]] for if an apostolic witness of Christ isn't going to witness of Christ?
+*This is your job.* Not "job" as in mission, though that is also true, but "job" as in W2 employees with a 401k. This is literally the one thing Apostles are meant to do. Either you saw Jesus or you didn't. Were ancient apostles concerned about what the world would think of them? Need I remind you, strawman apostle, that Joseph Smith testified of seeing Elohim, and Jehovah— God the Eternal Father, and Jesus Christ— physically and in person? And you can't say one way or the other if you saw Jesus? Why? Is your experience more sacred than the [[First Vision|First Vision]]? [Paul met Jesus](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/9?lang=eng&id=p17#p17) on the road to Damascus— is your experience more sacred than Paul's? Martin Harris "[met the Lord Jesus Christ](https://archive.org/details/volume-2_202011/page/271/mode/2up?q=deer), who walked along by the side of him in the shape of a deer for two or three miles, talking with him as familiarly as one man talks with another." Was that experience too sacred to share? What am I [[Tithing|paying tithing]] for if an apostolic witness of Christ isn't going to witness of Christ?
 
 If an apostle will rationalize that a sacred experience is *too* sacred, I am left to assume that means "no I have not seen Jesus Christ, but I want you to think that I have. I want to keep that illusion alive so that I still have some form of power over you." It could also mean "nobody will believe me anyway and I don't want anyone suggesting alternate, more realistic, interpretations of my experience." Whatever imagined story that us common, lay members conjure up must be more faith-promoting than whatever story this hypothetical apostle could tell us. The implication must be more powerful than the actual story. If there was ever an individual, or quorum of individuals, who shouldn't be dissuaded by something being sacred, I should damn well expect it to be the apostles of Jesus Christ's one, true, [[Restoration#Already Restored|restored]] church.
 

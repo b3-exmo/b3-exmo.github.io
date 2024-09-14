@@ -23,11 +23,10 @@ Today's priesthood lineage all traces back to Joseph. If he was called of God to
 ## “Well, if he fuckin’, then why no [babby](https://www.youtube.com/watch?v=39lHPHs8bV8)?”
 It seems to me that we don’t have *solid* info as to why, but we have a lot of suspicious circumstantial evidence. The first I could point to is how many of the children born between Joseph and Emma had died in infancy. 
 
-Consider some possible reasons.
+Consider some possible reasons, having established that plural marriage did indeed happen.
 
-1. JS et al did not engage in polygamy (does not appear to be the case)
-2. Plural marriage(s) never were consummated (appears false; Emma probably wouldn’t have had such a strong reaction if it was only domestic)
-3. Plan B! Abort, abort!
+1. Plural marriage(s) never were consummated (appears false; Emma probably wouldn’t have had such a strong reaction if it was purely domestic)
+2. Plan B! Abort, abort!
 
 John C Bennett was in the equivalent of the church’s first presidency at Nauvoo. He was a physician, a trained obstetrician, and is on record as having propositioned women with the following stipulation:
 
