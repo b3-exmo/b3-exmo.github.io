@@ -20,6 +20,9 @@ theme:
     toggle:
       icon: material/brightness-7
       name: Switch to light mode
+  font:
+    text: Inter
+    code: Fira Code
 
   features:
   - navigation.indexes
@@ -54,6 +57,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - privacy
 
 extra_css:
   - stylesheets/extra.css
