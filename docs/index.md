@@ -22,7 +22,7 @@ For more information on this, I have a page outlining [[My own experience]].
 ### History
 How can we know the accuracy of historical claims? Here are some qualifications to look for in any historical claim, religious or not:
 
-- Are they falsifiable?
+- Are they [[Falsifiability|falsifiable]]?
 - Do multiple, independent, contemporary sources make the same claim?
 - Do any claimants have motivated reasoning or a stake in a claim’s veracity?
 - How close is the recording date to the date of the event? Or, how much time has passed before someone wrote down this event?

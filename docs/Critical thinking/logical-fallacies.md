@@ -4,7 +4,7 @@ comments: true
 # ♟️ Logical Fallacies
 Fallacies are problems with how an argument is constructed. They say nothing about why a conclusion is wrong, other than to say that the conclusion came from a bad argument. Bad arguments can still lead to conclusions that are true. In other words, once we're done labeling the arguments, one also should consider explaining why the conclusions are shit, too.
 
-==I am not exempt from these!== Please, point out where I use logical fallacies so I can fix / revisit the arguments. I've added a comment section to these notes for exactly that purpose. In fact, I can give you a heads-up that I'll be using [[#Strawman Fallacy]] for illustrative purposes in the examples for other fallacies.
+==I am not exempt from these!== Please, point out where I use logical fallacies so I can fix / revisit the arguments. I've added a comment section to these notes for exactly that purpose. In fact, I can give you a heads-up that I'll be using [[#Strawman Fallacy|Strawman Fallacy]] for illustrative purposes in the examples for other fallacies.
 
 This is a high-level overview with some short examples I've found. A more comprehensive document would delineate these into formal vs informal fallacies. I'm not doing that here. It's a topic with plenty of material to consume!
 
@@ -32,7 +32,7 @@ Criticizing a person making the argument rather than the argument itself.
 
 "Because John is a former Mormon, an apostate from the LDS Church, his argument against the Book of Abraham cannot be considered valid."
 
-See also: [[#No true Scottsman]]
+See also: [[#No true Scottsman|No true Scottsman]]
 
 &nbsp;
 
