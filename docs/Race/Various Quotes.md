@@ -139,7 +139,7 @@ This isn't really a quote pertaining to race, but this heading for Petersen is t
 
 "Yeah, I *said* horrible things in the past and passed them off as unchangeable, eternal doctrine. Get over it, it's a new day. You need to repent. We have a prophet."
 
-I don't know how else to express this— *You don't get to tell us that "it doesn't make a particle of difference.* The doctrine *you* (McConkie) perpetuated literally kept people away from salvation. You don't just get to wave it off and move on with zero consequence. The proper response to making a bold claim when you have limited understanding is "I'm sorry." You apologize. You don't tell people that *they* are wrong, and *they* need to repent. What do those people need to repent of? *You* (McConkie) are the one who perpetuated offensively racist teachings that you've conceded were wrong. *You* repent, you bitch.
+I don't know how else to express this— *You don't get to tell us that "it doesn't make a particle of difference.* The doctrine *you* (McConkie) perpetuated literally kept people away from salvation. You don't just get to wave it off and move on with zero consequence. The proper response to correctinf a bold claim that you made with limited understanding is "I'm sorry." You apologize. You don't tell people that *they* are wrong, and *they* need to repent. What do those people need to repent of? Is this their fault for believing you? *You* (McConkie) are the one who perpetuated offensively racist teachings that you've conceded were wrong. *You* repent, you bitch.
 
 &nbsp;
 

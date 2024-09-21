@@ -17,7 +17,7 @@ The mainstream Mormonism idea that Joseph was of lower intelligence originated w
 
 — *[Last Testimony of Sister Emma](https://catalog.churchofjesuschrist.org/assets/944ff277-298c-45e2-9005-75e0ae0faf90/0/0?lang=eng)*, Saints Herald Vol. 26, 1 October 1879
 
-The church latched onto this claim to bolster the miraculous nature of the Book of Mormon. The fact that he had little formal education seemingly supported the notion of the book's divine origins. Nevermind that the early 19th century wasn't known for prolific education— at the time most people had little formal education, if any.
+The mainstream LDS church latched onto this claim to bolster the miraculous nature of the Book of Mormon. The fact that he had little formal education seemingly supported the notion of the book's divine origins. Nevermind that the early 19th century wasn't known for prolific education— at the time most people had little formal education, if any.
 
 In contradiction of Emma’s claims, the [Joseph Smith Papers Project](https://www.josephsmithpapers.org/) has released several letters dictated by Joseph around the time of the Book of Mormon translation (1828-1829). They read just fine.
 
@@ -35,7 +35,7 @@ But, nah, he was practically an illiterate cretin!
 ### Family members
 Joseph Smith Senior "[had earlier been a merchant and a teacher](https://www.churchofjesuschrist.org/study/ensign/1971/07/joseph-smiths-home-environment?lang=eng&id=p15#p15)". How far can we extrapolate from that one statement? I could speculate sales tactics and informal private tutoring, but it's purely speculation. Many years later in 1834, Joseph Senior pronounces a [partiarchal blessing](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1) to Junior, observing that "thou hast sought to know [God's] ways, and from thy childhood thou hast meditated much upon the great things of [His] law."
 
-Lucy Mack Smith's mother, Lydia Gates Mack, [was a schoolteacher](https://en.wikipedia.org/wiki/Solomon_Mack#War_and_marriage). Is it reasonable to imagine that educational discipline, even if informal, could pass to Lucy, and on to Joseph Jr? For what it's worth, I did not inherit my father's propensity for chemistry by virtue of blood relation. Given the chance, he probably would impart as much information has he could muster, given his propensity for the topic.
+Lucy Mack Smith's mother, Lydia Gates Mack, [was a schoolteacher](https://en.wikipedia.org/wiki/Solomon_Mack#War_and_marriage). Is it reasonable to imagine that educational discipline, even if informal, could pass to Lucy, and on to Joseph Jr? For what it's worth, I did not inherit my father's propensity for chemistry by virtue of blood relation. Given the chance, he probably would impart as much information has he could muster, given his enthusiasm for the topic.
 
 I've encountered claims that Joseph's brother Hyrum had attended one [Moore's Indian Charity School](https://archive.org/details/hyrumsmithlifeof00odri). I'm skeptical of how much weight to put on this observation. It's probably true, but did Hyrum then reliably recount his schooling back to his family in New York? I'll need to read more about it before making more assertions.
 

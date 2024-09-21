@@ -104,19 +104,9 @@ This guy has numerous things to say about race. I'll put just one quote here, bu
 &nbsp;
 
 ## 1978 - 1999
-### NAACP
-> *Elder Stevenson began his remarks saying he was “deeply saddened and hurt” by an error included in a ==recent Church manual== referencing ==outdated commentary== about race.*
-> 
-> *“Our position as a Church is clear. We do condemn all racism, past or present, in any form, and we disavow any ==theory== that black or dark skin is a sign of a curse. We are brothers and sisters, and I consider you friends.”*
-
-— *[“All Are Alike unto God,” Elder Stevenson Says at NAACP Luncheon](https://www.churchofjesuschrist.org/church/news/all-are-alike-unto-god-elder-stevenson-says-at-naacp-luncheon?lang=eng)*, Church News, 22 January 2020
-
-Alright, sure, cool, you can disavow theories, but *[[Race in scripture|scripture]] is not theory.* Until you disavow that *doctrine*, your words mean shit to me.
-
-&nbsp;
 
 ### Bruce R. McConkie
-
+My boy Bruce has plenty to say on plenty of topics. He has some quotes on race both before and after the revelation, which I have copied [[Various Quotes#McConkie|on another page]] for the sake of organizing by speaker rather than by time. I'd summarize the two statements as: "we are justified in these awful, racist teachings given to us from prophets of old," and "never mind, we're not racist anymore, and you need to repent now."
 
 &nbsp;
 
@@ -172,6 +162,18 @@ Sounds to me like this "revelation" is in response to a business problem. They b
 &nbsp;
 
 ## 2000 & Later
+### NAACP
+> *Elder Stevenson began his remarks saying he was “deeply saddened and hurt” by an error included in a ==recent Church manual== referencing ==outdated commentary== about race.*
+> 
+> *“Our position as a Church is clear. We do condemn all racism, past or present, in any form, and we disavow any ==theory== that black or dark skin is a sign of a curse. We are brothers and sisters, and I consider you friends.”*
+
+— *[“All Are Alike unto God,” Elder Stevenson Says at NAACP Luncheon](https://www.churchofjesuschrist.org/church/news/all-are-alike-unto-god-elder-stevenson-says-at-naacp-luncheon?lang=eng)*, Church News, 22 January 2020
+
+Alright, sure, cool, you can disavow theories, but *[[Race in scripture|scripture]] is not theory.* Until you disavow that *doctrine*, your words mean shit to me.
+
+&nbsp;
+
+### Ensign
 > *Unfortunately, racism—the abhorrent and morally destructive ==theory== that claims superiority of one person over another by reason of race, color, ethnicity, or cultural background—remains one of the abiding sins of societies the world over. The cause of much of the strife and conflict in the world, racism is an offense against God and a tool in the devil’s hands. In common with other Christians, ==members of The Church of Jesus Christ of Latter-day Saints regret the actions and statements of individuals who have been insensitive to the pain suffered by the victims of racism and ask God’s forgiveness for those guilty of this grievous sin==. The sin of racism will be eliminated only when every human being treats all others with the dignity and respect each deserves as a beloved child of our Heavenly Father.*
 > 
 > *How grateful I am that ==The Church of Jesus Christ of Latter-day Saints has from its beginnings stood strongly against racism in any of its malignant manifestations==. President Spencer W. Kimball stated the Church’s position well: “We do wish that there would be no racial prejudice. … Racial prejudice is of the devil. … There is no place for it in the gospel of Jesus Christ” (The Teachings of Spencer W. Kimball, ed. Edward L. Kimball [1982], 236–37).*
@@ -184,6 +186,7 @@ Boy, those church leaders sure like calling racism a theory.
 
 &nbsp;
 
+### General Conference
 > *Racial strife still lifts its ugly head. I am advised that even right here among us there is some of this. I cannot understand how it can be. It seemed to me that ==we all rejoiced in the 1978 revelation given President Kimball==. I was there in the temple at the time that that happened. There was no doubt in my mind or in the minds of my associates that what was revealed was the mind and the will of the Lord.*
 > 
 > *Now I am told that racial slurs and denigrating remarks are sometimes heard among us. I remind you that ==no man who makes disparaging remarks concerning those of another race can consider himself a true disciple of Christ==. Nor can he consider himself to be in harmony with the teachings of the Church of Christ. How can any man holding the Melchizedek Priesthood arrogantly assume that he is eligible for the priesthood whereas another who lives a righteous life but whose skin is of a different color is ineligible?*
