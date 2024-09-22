@@ -49,7 +49,7 @@ Verses 10 & 11 are a short tangent describing how laws exist, and breaking laws 
 
 &nbsp;
 
-> ***12** And this Anti-Christ, whose name was Korihor, (and the law could have no hold upon him) began to preach unto the people that there should be no Christ. And after this manner did he preach, saying...*
+> ***12** And this Anti-Christ, whose name was Korihor, (==and the law could have no hold upon him==) began to preach unto the people that there should be no Christ. And after this manner did he preach, saying...*
 
 In case you forgot from the brief tangent explaining [natural law](https://en.wikipedia.org/wiki/Natural_law), we'll now remind you for a second time that this man is Antichrist. After this second reminder, we finally get his name. Have we made it evident yet that he's bad and evil?
 
@@ -73,11 +73,9 @@ Assuming that assessment is correct, tell me what Korihor is saying wrong? Is he
 
 > ***17** And many more such things did he say unto them, telling them that there could be no atonement made for the sins of men, but every man fared in this life according to the management of the creature; therefore every man prospered according to his genius, and that every man conquered according to his strength; and whatsoever a man did was no crime.*
 
-In my days of attending early-morning seminary, this statement is presented to invoke a righteous indignation in the sleep-deprived students; "no atonement to be made? I am outraged! This man is the one who is misled, not us righteous church-attending folks!"
-
 Examining one's worldview from an outside perspective is a good way to evaluate them&mdash; at minimum, it can help you practice how to articulate or defend your beliefs. Ideally, it would grant you some empathy for an outsider and their confusion over your dogma.
 
-Think of this theology from the perspective of an outsider like Korihor. "You believe that sins a) exist, b) prevent you from suffering for all eternity after you die, and c) will be atoned for by someone who isn't born yet. Bro, you don't *know* any of this to be true, it sure sounds like a foolish tradition passed down by your ancestors."
+Think of this theology from the perspective of an outsider like Korihor. "You believe that sins a) exist, b) will cause you to suffer for all eternity after you die, unless c) the sins be atoned for by someone who isn't born yet. Bro, not one of these things can be demonstrably proven. You don't *know* any of this to be true, it sure sounds like a foolish tradition passed down by your ancestors."
 
 Faring by consequence of self-management & prospering according to ones genius seems reasonable. Those things are more tangible. Life isn't always so simple, but we could forgive an entry-level philosophy student for landing on that conclusion.
 
@@ -89,28 +87,30 @@ Faring by consequence of self-management & prospering according to ones genius s
 
 Oh, no, not [whoredoms](https://www.churchofjesuschrist.org/study/scriptures/tg/whore?lang=eng&id=title2#title2)!
 
-So... We've pretty well established that there is no law against having a belief outside of the culturally prevalent church, but dammit if we're not going to call anything in opposition "[wickedness](https://www.churchofjesuschrist.org/study/scriptures/tg/wickedness?lang=eng&id=title2#title2)."  
+So... We've pretty well established that there is [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against having a belief outside of the culturally prevalent church, but dammit if we're not going to call anything in opposition "[wickedness](https://www.churchofjesuschrist.org/study/scriptures/tg/wickedness?lang=eng&id=title2#title2)."
 
 &nbsp;
 
 #### The Inciting Incident
-> ***19** Now this man went over to the land of Jershon also, to preach these things among the people of Ammon, who were once the people of the Lamanites.*
-> 
-> ***20** But behold they were more wise than many of the Nephites; for ==they took him, and bound him, and carried him before Ammon, who was a high priest== over that people.*
+I'll share links to the pertinent verses, along with a short summary; the chapter I'm reading from is 60 verses long, you can read the original text if you choose to.
 
-"See, the *smart* people tied up Korihor and took him to the high priest. That was the wise thing to do about a guy who isn't breaking any laws concerning beliefs. They're smarter than the Nephites in Zerahemla."
+***[19-20](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p19-p20#p19)***: Korihor goes to Jershon, the home of former Lamanites who made a pact of pacifism. Korihor's preaching is met by tying him up, and taking him to the high priest named Ammon.
+
+"See, the *smart* people tied up Korihor and took him to the high priest. That was the wise thing to do about a guy who isn't breaking [any laws](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7)  concerning beliefs. They're smarter than the Nephites in Zerahemla."
 
 right okay
 
 &nbsp;
 
-> ***21** And it came to pass that ==he caused that he should be carried out of the land==. And he came over into the land of Gideon, and began to preach unto them also; and here he did not have much success, for ==he was taken and bound and carried before the high priest==, and also the chief judge over the land.*
+***[21](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p21#p21)***: Jershon's residents send Korihor away, so he tries again in a place called Gideon. Korihor is met with the same treatment&mdash; rejection, and being arrested and taken to the high priest.
 
-Remember when we established that "the law could have [no hold](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p12#p12) on him?" Or that there was "[no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man’s belief"? I honestly don't know how to settle that idea with the fact that the chief judge can banish someone from the land after people tied up Korihor to force him to face judgment. I really don't. Judgment for what? It must not have been for preaching a different belief, we've established twice that this wasn't against any laws!
+Remember when we established that "the law could have [no hold](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p12#p12) on him?" Or that there was "[no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man’s belief"? I honestly don't know how to settle that idea with the fact that the chief judge can banish someone from the land after people tied up Korihor to force him to face judgment. I really don't. Judgment for what? It must not have been for preaching a different belief, we've established twice that this wasn't against [any laws](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7)!
 
 &nbsp;
 
-Verses 22 and 23 begin examination by the high priest Giddonah. Korihor's explanation for his preaching is "because I do not teach the foolish traditions of your fathers, and because I do not teach this people to bind themselves down under the foolish ordinances and performances which are laid down by ancient priests."
+***[22-23](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p22-p23#p22)***: The high priest Giddonah begins examining Korihor. Korihor's explanation for his preaching is "because I do not teach the foolish traditions of your fathers, and because I do not teach this people to bind themselves down under the foolish ordinances and performances which are laid down by ancient priests."
+
+Korihor continues in the next few verses, quoted here:
 
 > ***24** Ye say that this people is a free people. Behold, I say they are in bondage. Ye say that those ancient prophecies are true. Behold, I say that ==ye do not know that they are true==.*
 > 
@@ -124,7 +124,7 @@ Let's not stray too far from verse 25 before emphasizing the central point insid
 
 &nbsp;
 
-Verse 28 meanders a bit, but the ending point is Nephites could "offend some unknown being, who they say is God—a being who never has been seen or known, who never was nor ever will be." I suppose this is the incident where Korihor is getting too fired up about being tied up and brought to a chief judge over a law he didn't break, explaining to a high priest his beliefs counter to the common religion. By the way, there is [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man’s belief.
+***[28](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p22-p23#p22)***: Korihor observes that Nephites could "offend some unknown being, who they say is God—a being who never has been seen or known, who never was nor ever will be." I suppose this is the moment where Korihor is getting too fired up about being tied down and brought to a chief judge over a [law he didn't break](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7), explaining to a high priest his beliefs counter to the common religion.
 
 &nbsp;
 
@@ -132,13 +132,15 @@ Verse 28 meanders a bit, but the ending point is Nephites could "offend some unk
 
 Well what the fuck.
 
-Silent treatment, getting bound up *again* and escalated to the governor over all the land. By the way, there is no law against a man's belief.
+Silent treatment, getting bound up *again* and escalated to the governor over all the land. By the way, there is  [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man's belief.
+
+&nbsp;
 
 > ***30** And it came to pass that when he was brought before Alma and the chief judge, he did go on in the same manner as he did in the land of Gideon; yea, ==he went on to blaspheme==.*
 > 
 > ***31** And he did rise up in ==great swelling words before Alma==, and did revile against the priests and teachers, accusing them of leading away the people after the silly traditions of their fathers, for the sake of glutting on the labors of the people.*
 
-Yeah I bet Korihor is getting a bit impatient. He's observing that this group of people has conflated belief with knowledge, and has been met with getting arrested and forcibly brought before law enforcement.
+Yeah I bet Korihor is getting quite impatient. He's observing that this group of people has conflated belief with knowledge, and has been met with getting arrested and forcibly brought before law enforcement.
 
 Quick side note: Verse 30 says Korihor is blaspheming.
 
@@ -150,18 +152,18 @@ Quick side note: Verse 30 says Korihor is blaspheming.
 
 &mdash; *[Blasphemy](https://www.churchofjesuschrist.org/study/scriptures/bd/blasphemy?lang=eng)*, Bible Dictionary; see also *[Guide to the Scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/blaspheme-blasphemy?lang=eng)*
 
-Boy, good thing these Nephites in the 🦅 land of the free 🎆, 🍔 home of the brave 🇺🇸 don't have these kinds of laws, or Korihor's tale would have ended by now. Instead, he's just saying something [contemptuous](https://www.oxfordlearnersdictionaries.com/us/definition/english/contemptuous) (disrespectful) about a state religion.
+Boy, good thing these Nephites in the 🦅 land of the free 🎆 and 🍔 home of the brave 🇺🇸 don't have these kinds of laws, or Korihor's tale would have ended by now. Instead, he's just saying something [contemptuous](https://www.oxfordlearnersdictionaries.com/us/definition/english/contemptuous) (disrespectful) about a state religion.
 
-"You've said something disrespectful of an intangible being whom we have no laws concerning, and who cannot be [[Falsifiability#Dragon in my Garage|demonstrably proven to exist]]? *HOW DARE YOU* we're taking you to the judges for not breaking this law"
+"You've said something disrespectful of an intangible being whom we have no laws concerning, and who cannot be [[Falsifiability#Dragon in my Garage|demonstrably proven to exist]]? *HOW DARE YOU* we're taking you to the judges for [not breaking the law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) we have in place to protect you from this exact scenario"
 
 &nbsp;
 
-Verses 32 - 34 contain Alma's rebuttal, defending himself that Alma doesn't get paid for this clerical work. I don't know that this was an explicit accusation, but okay. Korihor has said that priests broadly are "[glutting](https://dictionary.cambridge.org/dictionary/english/glut) on the labors of the people." I might take that to mean that the church demands a lot of unpaid volunteer labor of the people? Good thing there aren't any parallels between that accusation and [the modern LDS church](https://www.churchofjesuschrist.org/study/manual/general-handbook/29-meetings-in-the-church?lang=eng). 
+Verses 32 - 34 contain Alma's rebuttal, defending himself that Alma doesn't get paid for this clerical work. Note that in 31, Korihor spoke *before* Alma, "[reviling] against the priests and teachers," and Alma takes it personally. It doesn't sound to me like it was directed at Alma specifically, but okay. Korihor has said that priests broadly are "[glutting](https://dictionary.cambridge.org/dictionary/english/glut) on the labors of the people." I might take that to mean that the church demands a lot of unpaid volunteer labor of the people? Good thing there aren't any parallels between that accusation and [the modern LDS church](https://www.churchofjesuschrist.org/study/manual/general-handbook/29-meetings-in-the-church?lang=eng).
 
 &nbsp;
 
 #### The Debate
-Acknowledging again that this book is an abridgment, I'm going to summarize the next several verses (35 - 50). I've put in a link to the verses I'm summarizing, aggregated by speaker, if you'd like to compare to the original text and read along.
+Acknowledging again that this book is an abridgment, I'm going to summarize the next several verses (35 - 50). I've put in a link to the verses I'm summarizing, aggregated by speaker if you'd like to compare to the original text and read along.
 
 **[Alma](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p33-p35#p33)**: I'm not getting paid! I mean, I'm wealthy not because I'm the high priest, it's because I'm in the position of most power in a theocratic government&mdash; that's totally different. Why are you accusing me of getting paid and also of lying? Do you think we're deceiving people into being joyous and happy?
 
@@ -177,7 +179,7 @@ Acknowledging again that this book is an abridgment, I'm going to summarize the 
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p44-p45#p44)**: How about this: You have the words of your peers, and also words of prophets in a religion you aren't part of. They've *even written things down* in scripture. And get this&mdash; ✨𝓅𝓁𝒶𝓃𝑒𝓉𝓈✨. Just look around you at things generally, you know, it all clearly shows God is real. Yet here you are, saying that isn't solid proof?
 
-**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p45#p45)**: ... Yes. That's a stupid argument. Your refutation is that all I have are words, and your counter is that you also have words from prophets, and the observation that we're on a planet. What the fuck are you saying? Yes, I'm sticking with my belief, and I'm denying those "signs" because they don't prove jack shit. I want you to back up your claims.
+**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p45#p45)**: ... Yes. That's a stupid argument. Your refutation is that all I have are words, and your counter is that you also have words from prophets, and the observation that we're on a planet. What the fuck are you saying? Yes, I'm sticking with my belief, and I'm denying those "signs" because they don't prove jack shit. I want *you* to back up *your* claims.
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p46#p46)**: YOU'RE MAKING ME SAD WHY ARE YOU BEING SO UNREASONABLE. How about this for an ultimatum: I, being the high priest of a church you aren't a part of, and chief judge in a theocratic government, will invoke the power of my God to strike you mute, so you can't lead people away from my beliefs anymore. How about that? 😤
 
@@ -202,15 +204,31 @@ Now wait just a goddamned minute, Korihor can still *hear* can't he? Korihor is 
 
 "Right, okay. What you've done, Alma, is beyond my ability to explain or rationalize, so I guess I'll take this as a sign that God is real and has power."
 
-Though his next idea seems strange to me; having always known (after Korihor's central point was delineating belief vs knowledge) could be a duress response, being scared into compliance by force... or he was just joshin' around lmao
+Though his next idea seems strange to me; having always known (after Korihor's central point was delineating belief vs knowledge) could be a duress response, being scared into compliance by force... or maybe he was just joshin' around lmao
 
 &nbsp;
 
 > ***53** But behold, the devil hath deceived me; for ==he appeared unto me in the form of an angel==, and said unto me: Go and reclaim this people, for they have all gone astray after an unknown God. And he said unto me: There is no God; yea, and he taught me that which I should say. And I have taught his words; and I taught them because they were pleasing unto the carnal mind; and I taught them, even until I had much success, insomuch that I verily believed that they were true; and for this cause I withstood the truth, even until I have brought this great curse upon me.*
 
-I don't know how to interpret an angel of God denying God, unless there's some other subtext here. Is the perception that this otherworldly messenger telling Korihor to leave a false God, and return to a [[True|true]] God? That would make more sense. Korihor's perspective would be "I have seen (what I believe to be) an angel of God, who has charged me to preach in your land. I opted to do this by observing that you Nephites have conflated belief and knowledge, hoping to inspire critical thinking to change your misplaced beliefs."
+I don't know how to interpret an angel of God denying God, unless there's some other subtext here. Is the perception that this otherworldly messenger telling Korihor to leave a false God, and return to a [[True|true]] God? That would make more sense. Korihor's perspective would then be "I have seen (what I believe to be) an angel of God, who has charged me to preach in your land. I opted to do this by observing that you Nephites have conflated belief and knowledge, hoping to inspire critical thinking to change your misplaced beliefs."
 
 Irrespective of my extrapolated assumption, ==an angel appearing is a very compelling defense==. An angel appeared to Alma several chapters back, and Alma took that angel's words at face value. Korihor did the same thing, and gets shit on for believing an angel. ... Who are the good guys in this story?
+
+In today's LDS church, we have [modern revelation](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng&id=p4-p8#p4) about "the devil [appearing] as an angel of light." If I am to believe that the modern LDS church is a [[Restoration|restoration]] of God's one true church, and that this is the same church that Korihor is criticizing and that Alma is defending, I should expect that same doctrine of an unchanging, eternal God would be present in Alma's time. Alma advises Korihor about the words of prophets written on scriptural records. I should hope that they have the awareness of the same doctrines that Joseph Smith did when [D&C 129](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng) was recorded. The section heading doesn't state that this is revelation from the Lord, but it is in a book of scripture nonetheless.
+
+> ***4** When a messenger comes saying he has a message from God, offer him your hand and request him to shake hands with you.*
+> 
+> ***5** If he be an angel he will do so, and you will feel his hand.*
+> 
+> ***6** If he be the spirit of a just man made perfect he will come in his glory; for that is the only way he can appear—*
+> 
+> ***7** Ask him to shake hands with you, but he will not move, because it is contrary to the order of heaven for a just man to deceive; but he will still deliver his message.*
+> 
+> ***8** If it be the devil as an angel of light, when you ask him to shake hands he will offer you his hand, and you will not feel anything; you may therefore detect him.*
+
+&mdash; *[D&C 129:4-8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng&id=p4-p8#p4)*
+
+And so for whatever reason, Korihor did not extend his hand to the angel. Because he's not part of the church? Though he did recognize the angel for being a representative of a divine God. When Alma presented scriptures as a convincing testimony of God to Korihor, was this the first Korihor had encountered them? I would assume not, if he saw an angel purporting to represent God, that wouldn't mean much if Korihor wasn't aware of God&mdash; not to mention Korihor later stating that "I always knew."
 
 &nbsp;
 
@@ -230,7 +248,7 @@ This is Alma the Younger. You know, the one who had a notorious conversion story
 
 Of any person for Korihor to interact with, I would hope that Alma, of all people, would be empathetic and compassionate, seeing how Korihor is going the exact same fucking thing that Alma did, continuing up until divine intervention shook him into sobriety. What am I supposed to learn from this story?
 
-Shifting our focus away from Alma, being a real bitch-and-a-half about this, Korihor is now destitute, starving and begging for food. Presumably homeless. Jesus Christ had [some select words](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17) for those who refused to help the impoverished, the hungry, the destitute. That was kind of His whole deal in the New Testament. He gained quite a reputation for caring about poor people ([[1](https://www.churchofjesuschrist.org/study/scriptures/nt/john/12?lang=eng&id=p8#p8)], [[2](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=eng&id=p7#p7)], [[3](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=eng&id=p11#p11)]). This is a golden opportunity for the followers of Jesus Christ's teachings to take in Korihor and show him charity and compassion. Do any of Christ's followers *do* that here?
+Shifting our focus away from Alma, being a real bitch-and-a-half about this, Korihor is now destitute, starving and begging for food. Presumably homeless. Jesus Christ had [some select words](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17) for those who refused to help the impoverished, the hungry, the destitute. That was kind of His whole deal in the New Testament. Jesus had gained quite a reputation for caring about poor people ([[1](https://www.churchofjesuschrist.org/study/scriptures/nt/john/12?lang=eng&id=p8#p8)], [[2](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/14?lang=eng&id=p7#p7)], [[3](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/26?lang=eng&id=p11#p11)]). This is a golden opportunity for the followers of Jesus Christ's teachings to take in Korihor and show him charity and compassion. Do any of Christ's followers *do* that here?
 
 &nbsp;
 
@@ -257,6 +275,8 @@ What the fuck
 
 The... The *devil*?? Bitch, how many prophets has God let die? Abinadi? Which party in this universe of duality refused to give Korihor shelter and sustenance? The group of unembodied evil spirits, or those with physical forms who could provide food but were told not to because Alma got his feelings hurt?
 
+This verse does not describe the God I had been taught about in my time as a practicing Mormon.
+
 Alma and Amulek were forced to witness the converts from their missionary efforts [get burned alive right before their eyes](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng&id=8-11#p8) back in chapter 14. Were they perverting the ways of the Lord? Doesn't seem like God protected them! Later on in 3 Nephi we've got "many" [unnamed martyrs](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=eng&id=15#p15), killed for testifying of Christ. Don't "thus we see" me about the devil not protecting denizens, God isn't doing a very good job at this either!
 
 What other cases of martyrdom do we see in contrast to this "thus we see" lesson to be learned from believing an angel when it appears to you? Rather than copy a list here, I'll point you to the LDS scriptural [topical guide](https://www.churchofjesuschrist.org/study/scriptures/tg/martyrdom?lang=eng&id=p32-p37#p32) entry, outlining martyrdom in the Book of Mormon, the [index of the triple combination](https://www.churchofjesuschrist.org/study/scriptures/triple-index/martyrdom?lang=eng&id=p1-p8#p1) on martyrdom, and the [guide to the scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/martyr-martyrdom?lang=eng&id=p6-p8#p6) references. The translator of this record, Joseph Smith himself, gets martyred, and... well, if Joseph was perverting the ways of the Lord is an issue [[Polygamy|too big to tackle here]]. *Thus we see* that Korihor is the exception here. The moral of this story is that you're going to get screwed over by a divine power, irrespective of which one you follow. *Thus we see* Alma being a dickwad and refusing to forgive someone who did exactly what he did years prior. *Thus we see* the prophet denying someone salvation because his feelings got hurt, because he was accused of getting rich, and because Korihor delineated faith vs knowledge.
@@ -265,10 +285,12 @@ What other cases of martyrdom do we see in contrast to this "thus we see" lesson
 
 &nbsp;
 
-If you'd read this entire page of notes, you might recall way at the beginning of [[#The Buildup|Korihor's introduction]] the example of poisoning the well, where before we even know who he is, we're told he's an antichrist, and is not to be trusted. We're told that not once, but twice, verses [6](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p6#p6) and [12](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p12#p12). He's leading people to do whoredoms and wicked things, and after some "justice" with many air quotes around it, we get a nice conclusion to the story, outlining the lesson to be learned here.
+If you'd read this entire page of notes, you might recall way at the beginning of [[#The Buildup|Korihor's introduction]] the example of poisoning the well, where before we even know who he is, we're told he's an antichrist, and is not to be trusted. We're told that not once, but twice, verses [6](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p6#p6) and [12](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p12#p12). 
+
+Since the [brief tangent describing laws and respective punishments](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p9-p11#p9) include "wicked" things like adultery or murder, and Korihor wasn't arrested for breaking laws, is it safe to assume he wasn't doing anything wicked? *Was* he wicked? We can demonstrate that Alma was wicked at one point.
 
 Stay with me, now&mdash; I've got a challenge for you to try on your own time.
 
-Re-read this chapter, but skip verses 6, 12, and 60. Doing that removes the passages calling Korihor and antichrist, and doesn't wrap it all up with the moral lesson at the end. Because without those verses, this is a story of a missionary who is teaching in earnest, in response to what he perceives as a divine calling. He gets rejected, persecuted, bound and brought before law enforcement, eventually cursed by the god of these people, and he gets trampled to death for it all. If we don't frame it in the context of "this guy is a [Snidely Whiplash](https://en.wikipedia.org/wiki/Snidely_Whiplash)-style cartoonish villain," this is a tragic story of someone who is just trying their best to follow their religious convictions. Korihor is met with heavy resistance, and Alma the Younger, who I will iterate again is the very antithesis of Christlike compassion, even with empathy for Korihor's experience, curses him and leaves him to die alone and hungry.
+Re-read this chapter, but skip verses 6, 12, and 60. Doing that removes the passages calling Korihor and antichrist, and doesn't wrap it all up with the moral lesson at the end. Because without those verses, this is a story of a missionary who is teaching in earnest, in response to what he perceives as a divine calling. He gets rejected, persecuted for his beliefs, bound and brought before law enforcement, eventually cursed by the god of these people, and he gets trampled to death for it all. If we don't frame it in the context of "this guy is a [Snidely Whiplash](https://en.wikipedia.org/wiki/Snidely_Whiplash)-style cartoonish villain," this is a tragic story of someone who is just trying their best to follow their religious convictions. Korihor is met with heavy resistance, and Alma the Younger, who I will iterate again is the very antithesis of Christlike compassion, even with empathy for Korihor's experience, curses him and leaves him to die alone and hungry.
 
 Who is the anti-Christ here? Is it Korihor who is just trying his best, or Alma who threw out everything Christ taught to make a point? Straight up, I'm siding with Korihor here. If I was part of a church professing of Christ, and saw the leadership do what Alma does in this chapter, I'd be out. I would leave.
