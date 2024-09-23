@@ -42,7 +42,8 @@ Internal audits promise that everything is fine, and "in accordance with appropr
 
 &nbsp;
 
-## Quoting Malachi
+## Rationalization
+### Quoting Malachi
 > *Prove me now herewith . . . if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.*
 
 Chapter divisions weren’t present in the original revisions of the King James Version. The Bible, including the book of Malachi, was one big ol' wall of text. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
@@ -55,7 +56,7 @@ This is not an admonition for the general public, us common folk in [current yea
 
 &nbsp;
 
-### Quoted pretty often
+#### Quoted pretty often
 I'm not going for a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
 
 That said, here are some references I found from a cursory search:
@@ -71,7 +72,7 @@ I've got a separate page for some [[In General Conference|General Conference]] s
 
 &nbsp;
 
-## Quoting Lorenzo Snow
+### Quoting Lorenzo Snow
 >_I plead with you in the name of the Lord, and I pray that every man, woman and child … shall pay one-tenth of their income as a tithing._
 
 — _[Chapter 12: Tithing, a Law for Our Protection and Advancement](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-lorenzo-snow/chapter-12-tithing-a-law-for-our-protection-and-advancement?lang=eng&id=title4-p12#title4)_, Teachings of Presidents of the Church: Lorenzo Snow
@@ -92,7 +93,7 @@ Lorenzo's “I plead” does not really sound like it should be equated to “th
 
 &nbsp;
 
-## Joseph F Smith
+### Joseph F Smith
 >_Furthermore, I want to say to you, we may not be able to reach it right away, but we expect to see the day when ==we will not have to ask you for one dollar of donation== for any purpose, except that which you volunteer to give of your own accord, because we will have tithes sufficient in the storehouse of the Lord to pay ==everything that is needful== for the advancement of the kingdom of God._
 
 — _[Chapter 31: Obedience to the Law of Tithing](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-f-smith/chapter-31?lang=eng&id=p26#p26)_, Teachings of Presidents of the Church: Joseph F. Smith
@@ -103,7 +104,7 @@ I could imagine someone defending this quote by pointing to the qualifier "*exce
 
 &nbsp;
 
-## It's a privilege!
+## Paying a privilege!
 > *One of the blessings of membership in The Church of Jesus Christ of Latter-day Saints is ==the privilege of paying tithing==. This privilege is a double blessing. By paying tithing, Church members show their gratitude to God for their blessings and their resolve to trust in the Lord rather than in material things. They also help further the work of the Lord in the earth, blessing others of God’s children with the opportunity to learn of Him and grow in the gospel.*
 >
 > *==[[#City Creek Mall|Tithing funds are always used for the Lord’s purposes]]==—to build and maintain temples and meetinghouses, to sustain missionary work, to educate Church members, and to carry on the work of the Lord throughout the world.*
@@ -257,7 +258,7 @@ Boy, this... This is quite the sight. They sure seem excited about this project.
 &nbsp;
 
 #### What it is *not*
-I don't think I need to point out that the City Creek project is not a homeless shelter, not a soup kitchen, not a hospital, not a food bank, not subsidized housing— not even *affordable* housing— it's a shopping mall for upper-middle class folks. Rent there is $[2,329](https://www.apartments.com/city-creek-landing-salt-lake-city-ut/4q97s7j/) - $[6,533](https://www.homes.com/property/city-creek-landing-salt-lake-city-ut/1kzy718my8b8y/), as of March 2024. That's more than my mortgage, taxes, and HOA dues combined. Those links are to third party sites, because to no one's surprise, [City Creek Landing](https://www.citycreeklanding.com/floorplans)'s official site doesn't list the rent; only the deposit.
+I don't think I need to point out that the City Creek project is not a homeless shelter, not a soup kitchen, not a hospital, not a food bank, not subsidized housing— not even *affordable* housing— it's a shopping mall for upper-middle class folks. Rent there is $[2,329](https://www.apartments.com/city-creek-landing-salt-lake-city-ut/4q97s7j/) - $[6,533](https://www.homes.com/property/city-creek-landing-salt-lake-city-ut/1kzy718my8b8y/), as of March 2024. The low end of that range costs more than my mortgage, taxes, and HOA dues combined. Those links are to third party sites, because to no one's surprise, [City Creek Landing](https://www.citycreeklanding.com/floorplans)'s official site doesn't list the rent; only the deposit.
 
 &nbsp;
 
@@ -273,6 +274,13 @@ Is _this_ what Jesus taught? Do you want to donate to a charitable organization 
 
 &nbsp;
 
+### Beneficial Life
+[![Thomas S. Monson's 2005 Beneficial Insurance Ad](https://img.youtube.com/vi/vaWFZpVwrgw/2.jpg)](https://www.youtube.com/watch?v=vaWFZpVwrgw)
+
+[Archived link of President Monson's advertisement](https://web.archive.org/web/20240721155104/https://www.youtube.com/watch?v=vaWFZpVwrgw)
+
+Beneficial ~~Life~~ Financial Group [is still around](https://www.beneficialfinancialgroup.com/public/Default.aspx), still [owned by Deseret Management Corporation](https://en.wikipedia.org/wiki/Beneficial_Financial_Group). Moving the business from life insurance to "finance" also seems shady to me, being owned by a church accused of holding a lot more money than they have any business with.
+
 ### What's wrong with this? 
 Take a step back and think rationally, maybe without cursing.
 
@@ -284,7 +292,7 @@ Imagine seeing the Catholic Church buying up some established McDonald's franchi
 
 Now picture the LDS church owning a shopping mall and apartment complex. 
 
-None of those things are pearl-clutching revelations to bring the masses to grab their pitchforks and start lynching. They definitely feel out of place- the public image of these organizations and religions is that they're charitable, running on donations, not engaging in any commercial business. I feel a lot of cognitive dissonance reading about it. *I was raised to believe that the Church runs on donated tithes.* 
+None of those things are pearl-clutching revelations to bring the masses to grab their pitchforks and start lynching. They definitely feel out of place, though. The public image of these organizations and religions is that they're charitable, running on donations, not engaging in any commercial business. I feel a lot of cognitive dissonance reading about it. *I was raised to believe that the Church runs on donated tithes.*
 
 I cannot understate this enough— this is not a problem that reading scriptures and praying is going to fix. This is not a problem that will be fixed by humming a hymn and taking sacrament. I want accountability.
 

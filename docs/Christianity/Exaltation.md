@@ -25,7 +25,7 @@ If Polygamy is an eternal law, and [[Becoming Gods|we are to become like God]], 
 &nbsp;
 
 ## Prophetic teachings
-Brigham Young is a prophet, yes or no?
+[[Brigham Young]] is a prophet, yes or no?
 
 When he teaches that [[Theology|Elohim]] and Jesus are both polygamists, should be believe the spokesperson of Elohim and Jesus?
 

@@ -70,7 +70,7 @@ Joseph Smith saw God and Jesus. No one else was there, but it's an event of sign
 ### Moving goalposts 
 *If you change the criteria of verifying a claim, anything can be true!*
 
-You want to examine the golden plates containing the original Book of Mormon text? The plates are gone now. Also they were written in [reformed Egyptian](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng&id=p32-p33#p32), which totally exists. It's not in Hebrew, which could be cross-examined. You can't do any carbon dating, chemical analysis, linguistic study of this extraordinary language or anthropological examination of the [[Scripture/Book of Mormon/Anachronisms#How many people died?|only bit of hard evidence]] that might have existed.
+You want to examine the golden plates containing the original Book of Mormon text? The plates are gone now. Also they were written in [reformed Egyptian](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng&id=p32-p33#p32), which totally exists. It's not in Hebrew, which could be cross-examined. You can't do any carbon dating, chemical analysis, linguistic study of this extraordinary language or anthropological examination of the [[logistical-problems#How many people died?|only bit of hard evidence]] that might have existed.
 
 You're upset that the Book of Abraham scrolls don't appear to have [[Book of Abraham|anything to do with Abraham]]? Well, there were other scrolls in the set, and *those* ones were written by Abraham. Or maybe none of it was a direct translation, and the funerary texts for a pedestrian regular guy acted as a catalyst for Joseph to receive the scripture through revelation. It's fine.
 
