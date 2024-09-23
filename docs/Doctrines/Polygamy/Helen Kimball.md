@@ -148,7 +148,7 @@ I'll acknowledge that practicing Mormons won't like this source, as they like to
 
 hol up now
 
-Helen is asserting in no uncertain terms that she refuses to be sealed as a plural wife to her own father Heber, with the understanding that it's to "raise up children" what the fuck Heber. Heber. Sit down. I am deadass right now I need someone to get in the comments and tell me I'm misinterpreting this, cause it sure sounds like Heber wants to take his own daughter as a plural wife to raise up children. "By doing so they should gain his approbation?" Whose, Josephs? I can't think of anyone's approbation that makes this okay. I can't. 
+Helen is asserting in no uncertain terms that she refuses to be sealed as a plural wife to her own father Heber, with the understanding that it's to "raise up children" what the fuck Heber. *Heber*. Sit down. I am deadass right now I need someone to get in the comments and tell me I'm misinterpreting this, cause it sure sounds like Heber wants to take his own daughter as a plural wife to raise up children. "By doing so they should gain his approbation?" Whose, Josephs? I can't think of anyone's approbation that makes this okay. I can't. 
 
 If this celestial marriage was just ceremonial, why would Helen lament that it was "any thing more than ceremony?" What exactly were these things that were more than a ceremony? If Joseph's plural wives were not for raising up seed, why would the surviving apostles have that as their explicitly stated goal in taking Joseph's surviving wives after his passing? Did these women need to be sealed *again* in order for Joseph's initial plan of bringing them exaltation to work? That wouldn't make sense, and makes me think that Joseph's polygamy wasn't quite so innocuous and philanthropic.
 

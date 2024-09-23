@@ -1,11 +1,10 @@
 ---
 comments: true
 ---
+# ❓ Logistical Problems
 This page was originally labeled *Anachronisms,* but the contents didn't really reflect that title. A few mentions of anachronisms will be here, but until I gather enough primary sources to make a case, I'll leave them out for now.
 
 &nbsp;
-
-# ❓ Logistical Problems
 ## Anachronisms
 > *. . . I spoke with a good friend, not a member of the Church. He said he had ==a list of 50 anachronisms== in the Book of Mormon that demonstrated the book was a nineteenth-century invention. An anachronism refers to something that is chronologically out of place, a bit like saying Julius Caesar drove his SUV into Rome. Well, I told my friend that ==he was too late, for I had received a witness of the truth== of the Book of Mormon. But I said to him, “Give me your list, and I will keep it.” I did keep that list, and over the years, as more research was done by various academics, one item after another dropped off the list.*
 >

@@ -1,10 +1,7 @@
 ---
 comments: true
 ---
-
 # 🍽 The Plates
-$passage about the plates of gold, both in bom and from ja perspective
-
 ## Acquiring the Plates
 
 ### Was it Moroni, or Nephi?
