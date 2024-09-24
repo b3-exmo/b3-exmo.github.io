@@ -48,6 +48,7 @@ One could argue that "affiliated with" doesn't mean "owned by." Although, in the
 
 #### Deseret Digital Media
 [Owns KSL](https://www.deseretdigital.com/ksl-news) and its subsidiaries
+
 [Owns Utah.com](https://www.deseretdigital.com/utah-dotcom), tourism site
 
 &nbsp;
@@ -56,6 +57,8 @@ One could argue that "affiliated with" doesn't mean "owned by." Although, in the
 >*The Deseret News is a subsidiary of the [Deseret Management Corporation](http://www.deseretmanagement.com/), which is owned by The Church of Jesus Christ of Latter-day Saints.*
 
 [About Us](https://www.deseret.com/pages/about-us/), Deseret News
+
+&nbsp;
 
 #### So what?
 Disregarding all the times I'd been assured that Deseret News / Book was not owned by the church, the idea that a religion has a for-profit branch doesn't sit well with me. I thought religions were meant to operate by donation? I've certainly been told this explicitly about the LDS church. I was told that with such confidence that I perpetuated that explanation while on a mission for the church.
@@ -95,6 +98,8 @@ I've encountered the claim that both of these sites run independently of the LDS
 - [CES Letter](https://read.cesletter.org/): An approachable list of concerns with LDS teachings, history, practices, etc. Sent to a Church Education System (CES) ([[1](https://www.churchofjesuschrist.org/church-education?lang=eng)], [[2](https://en.wikipedia.org/wiki/Church_Educational_System)]) director seeking answers, thus the name. There's also plenty of material that claims to [debunk the CES Letter](https://debunking-cesletter.com/).
 
 - [Letter for my Wife](https://www.letterformywife.com/): Feels very reminiscent of CES letter, but directed to a more familial audience. To me, it feels more approachable with the attitude of "I don't want these findings to harm our relationship." The site has a [PDF](https://www.letterformywife.com/_files/ugd/7d420e_0bc538269e1546a4b3eeaff385b02643.pdf), which I find easier to navigate than the site's pages.
+
+&nbsp;
 
 Honorable Mentions:
 - [A Careful Examination](https://faenrandir.github.io/a_careful_examination/): Looks like another Github Pages compendium of LDS-adjacent notes

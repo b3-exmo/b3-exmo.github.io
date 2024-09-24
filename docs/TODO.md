@@ -35,15 +35,17 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] "Doesn't appear in the scriptures"
 - [ ] Don't look elsewhere for info
 - [ ] For-profit
-- [ ] [[Helen Kimball|Helen Kimball]] (I've got more to add)
+- [x] [[Helen Kimball|Helen Kimball]]
 - [ ] Isaac Hale
 - [ ] James Strang
 - [ ] Kirtland Safety Society
+- [x] Korihor / Antichrist
 - [ ] Law of Chastity (self-abuse 😱)
 - [ ] Massacre: Fort Utah
 - [ ] Massacre: Mountain Meadows
 - [ ] Membership & attendance statistics
 - [ ] MOON MEN
+- [x] Moroni's promise
 - [ ] Nauvoo Expositor
 - [ ] NDA's / Nondisclosure Agreements
 - [ ] Persecution complex
@@ -76,9 +78,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] Tithing: Beneficial Life
 - [ ] Tithing: For-Profit
 - [ ] Tithing: Lawsuits
+- [x] "Too sacred to share"
 - [ ] Whitewashing History
 - [ ] Women & Misogyny
 - [ ] Word of Wisdom
-- [x] Korihor / Antichrist
-- [x] Moroni's promise
-- [x] "Too sacred to share"

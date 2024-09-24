@@ -2,7 +2,7 @@
 comments: true
 ---
 # 😔 Too Sacred to Share
-This link isn't clearly marked in the notes below, so here's a link to a list of times LDS church leadership has rationalized that something is [[Too Sacred]] to share.
+This isn't clearly marked in the notes below, but I have a collection of quotes from LDS church leadership,rationalizing that something is [[Too Sacred]] to share.
 
 ---
 

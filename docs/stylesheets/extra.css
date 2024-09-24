@@ -37,8 +37,8 @@
     }
 
 [data-md-color-scheme="slate"] {
-    --md-primary-fg-color:        #8a5cf5;
-    --md-primary-fg-color--light: #9873f7;
+    --md-primary-fg-color:        #a68af9;
+    --md-primary-fg-color--light: #c5b6fc;
     --md-primary-fg-color--dark:  #8a5cf5;
 
     --md-typeset-color: #dadad4;
@@ -63,7 +63,7 @@
     }
 
     .md-typeset blockquote {
-      color: #dadadaaa;
+      color: #dadad4;
     }
 
     .typeset a:hover {
