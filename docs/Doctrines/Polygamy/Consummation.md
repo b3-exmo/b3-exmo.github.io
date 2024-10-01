@@ -9,7 +9,7 @@ One thing we need to agree on, irrespective of which side of the issue you stand
 
 If the only thing that will settle this dispute is a journal account from Eliza R Snow that reads "yeah, Smith had this massive hog and got real freaky, kept going all night and I couldn't walk straight the next day 🥴" then you're not going to find that. If you're looking for a sermon from Joseph Smith publicly clarifying that "in case any of you were wondering, my relationships with Helen Kimball involve no penetrative sex. Just wanted to clear the air and get that out there," you won't find that either.
 
-What you might find instead are affidavits of [[Meat commerce|carnal intercourse]], being married "[in very deed](https://catalog.churchofjesuschrist.org/assets/fc70e605-098b-4c92-bb1f-723789e2c0c3/0/0)," or "celestializing," which are much more euphemistic. I don't know how many ambiguous ways one could interpret that. Point being, don't forget that these documents were written in 19th century America, where mentioning anatomical parts or prurient verbs is scandalous. No one is going to write down in detail their romantic encounters.
+What you might find instead are affidavits of [[Meat commerce|carnal intercourse]], being married "[in very deed](https://catalog.churchofjesuschrist.org/assets/fc70e605-098b-4c92-bb1f-723789e2c0c3/0/0)," or "[celestializing](https://newspapers.lib.utah.edu/details?id=25123307&q=celestializ&parent_i=25123306)," which are much more euphemistic. I don't know how many ambiguous ways one could interpret that. Point being, don't forget that these documents were written in 19th century America, where mentioning anatomical parts or prurient verbs is scandalous. No one is going to write down in detail their romantic encounters.
 
 &nbsp;
 

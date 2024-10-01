@@ -101,7 +101,7 @@ I've encountered the claim that both of these sites run independently of the LDS
 
 &nbsp;
 
-Honorable Mentions:
+### Honorable Mentions
 - [A Careful Examination](https://faenrandir.github.io/a_careful_examination/): Looks like another Github Pages compendium of LDS-adjacent notes
 - [Thoughts on things and stuff](https://thoughtsonthingsandstuff.com/topics/): Sounds vague, feels like a muse for doctrinal thoughts
 - [Mormonism under the microscope](https://www.mormonismunderthemicroscope.com/): I haven't explored them much, looks like a topical document for various claims / controversies
@@ -110,18 +110,17 @@ Honorable Mentions:
 	- Zelph's *[The Millennials' Brief Guide to the CES Letter](https://web.archive.org/web/20230927020917/https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/)* is one I encountered early on (late 2018) when I was trying to find some "both sides" analyses of the CES Letter.
 	- Zelph is still around, running a [YouTube channel](https://www.youtube.com/channel/UC3Y4j05DDAXv7vCedrOQ9FQ), though!
 
-
 &nbsp;
 
-### Podcasts & Shows
-#### Mormon.ish Podcast
+## Podcasts & Shows
+### Mormon.ish Podcast
 I've picked up several one-off episodes from this show. Good stuff. I first encountered them in early 2024, and I appreciated their assessments feeling not-so-harsh. Like many things in the LDS faith, there's good to be found, but there's also some shady business going on behind the curtains.
 
 I've begun listening to their [playlist on the Gospel Topics Essays](https://www.youtube.com/playlist?list=PLzh1qiLbCcydDdc2ZiCOuYDbkPN_Yp-PW), but haven't gotten through all of them yet. Each installment is close to two hours long, and yet they're not exhaustive. I'd call them approachable, and satisfying one's want for commiserating after you've already settled on a conclusion. YMMV. 4/5 stars? Good stuff, give them a listen, and find some other areas of interest in their catalog.
 
 &nbsp;
 
-#### Mormon Stories Podcast
+### Mormon Stories Podcast
 On [Youtube](https://www.youtube.com/@mormonstories)
 
 I think [[My own experience|in mid-2018]], when my [[Shelf|shelf]] was creaking under the weight of unanswered questions, I saw a billboard in Salt Lake advertising the show. Not knowing much at the time, I found their webpage, and I think I got intimidated by the click-bait style episode titles initially.
@@ -132,21 +131,21 @@ This show also exposed me to others like John Larsen's Mormon Expression, and Ra
 
 &nbsp;
 
-#### John Larsen / Mormon Expression
+### John Larsen / Mormon Expression
 Looks like this show formally ended in 2014. Larsen has been a semi-frequent guest on Mormon Stories. What I like most about Larsen is that he 'retires' more than once. His Mormon Expression show came to a close, and in Larsen's later episodes of hosting it, he comments something along the lines of "there's a great, big, beautiful world out there. Get out of here and enjoy it." I imagine myself having that same sentiment at some future point in my deconstruction. Mormonism is this never-ending, deep well of nonsense and shenanigans to marvel over. At some point, Larsen appears to have drawn the line, having said what he feels needs to have been said, and now focuses on gardening and homesteading. Good on you, buddy.
 
 That is, until he comes back, as if to say "and *one more thing*...!" by appearing on John Dehlin's Mormon Stories show. Still with some hot takes and compelling insights. I like how Larsen will get really fired up over a given topic, but still has the emotional capacity to empathize with actively practicing LDS folks. Hearing [this particular tirade](https://www.youtube.com/live/yMUIgzrM4WQ?si=QX2HUURZuUnCI4Sm&t=4770) really shaped my respect for him, where he becomes emotional while telling the audience to have compassion and patience with LDS folks. He has the sentiment of "they're trying their best, and legitimately believe something even if you don't." Shoutout to Larsen, he's a real keeper. He infrequently appears once in a while, and it's always a treat to listen to.
 
 &nbsp;
 
-#### RFM / Mormon Discussion Inc.
+### RFM / Mormon Discussion Inc.
 [Radio Free Mormon](https://www.youtube.com/playlist?list=PLq34QmiHsNjdSYebjG7e6ftoildD1Sp5W) (RFM) is also a regular guest in John Dehlin's show. He's got lots of career experience in law, and offers critical insights into the church's history and current practices. I can only handle so much RFM at a given time, given the cadence and rhythm of his speech&mdash; to me, it's reminiscent of Captain Kirk's dramatic pauses amid sentences, making each statement sound like a sentence fragment. If you can look past that, or set your podcast player to x1.4 speed, he's still a great listen.
 
 Bill Reel, also part of [Mormonism Live](https://www.youtube.com/playlist?list=PLq34QmiHsNjfs8Nw_mFgMGv_3hrFYNs9f) (a show within Mormon Discussion?) is a former apologist. He'll host some shows with RFM on a given topic, take some callers, and shares insights from his time serving in church leadership.
 
 &nbsp;
 
-#### Honorable Mentions
+### Honorable Mentions
 - [Alyssa Grenfell](https://www.youtube.com/@alyssadgrenfell): Feels more like an introduction to Mormonism, highlighting weird cultural phenomenon and practices. I'll also plug for Alyssa's book, [How to Leave the Mormon Church](http://amzn.to/3Hd62Z5), since I bought a copy and liked it 👍
 - [Carah Burrell, aka NuanceHoe](https://www.youtube.com/channel/UCAib1bMCLZh9Ln0Uq62xxjw): Spicy takes on Mormonism. Often a co-host with John Dehlin. Also runs her own show.
 - [Data over Dogma](https://www.youtube.com/@dataoverdogma): Two Dan's, two mics, one show. One Dan is a biblical scholar, and the other is a goofball. They examine biblical records from which modern translations are derived. Very insightful. For what it's worth, Dan McClellan is an active Mormon last I checked.
@@ -161,6 +160,8 @@ Bill Reel, also part of [Mormonism Live](https://www.youtube.com/playlist?list=P
 - [Sunstone Mormon History Podcast](https://sunstone.org/sunstone-history-podcast/): Lindsay Hansen Park and Bryan Buchanan do an excellent job of stepping through Mormonism's early days and history, sharing things in a more objective way; they're not tearing anyone's faith down, nor are they biasing it toward divine inspiration. Feels like "here are the journal entries and contemporary sources about what happened."
 - [TheraminTrees](https://www.youtube.com/@TheraminTrees): More somber and introspective. This is among the first channels I indulged in when deconstructing religion. He mentions Mormonism only a time or two in passing, and focuses more broadly on Christianity. These videos are long, but cathartic in their composed, collected calmness.
 - [Was I in a Cult?](https://www.wasiinacult.com/): No one knowingly and willingly joins a cult. They get swept up in elevation emotion, rationalize how an organization demands more and more of them, until they reach a breaking point, and have a realization that this group is culty. This show interviews folks who have left culty MLM's, fitness clubs, acting classes, hippie refuges, and even religions.
+
+&nbsp;
 
 ## Community
 [/r/exmormon subreddit](https://www.reddit.com/r/exmormon/): Pretty active hub for former Mormon folks to banter, vent, and interact. If you can believe that on reddit, of all places, folks can get fired up and have strong opinions.

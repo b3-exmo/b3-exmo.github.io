@@ -24,16 +24,18 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] "Anti"
 - [ ] Anti-LGBT
 - [ ] Apostles
-- [ ] Book of Mormon: Literacy in Ancient America
-- [ ] Book of Mormon: Plates of GOLD
-- [ ] Book of Mormon: Witnesses
+- [ ] Scripture: Book of Mormon: Literacy in Ancient America
+- [ ] Scripture: Book of Mormon: Plates of GOLD
+- [ ] Scripture: Book of Mormon: Witnesses
 - [ ] Church Internal Audit Department
 - [ ] Conflation
 - [ ] Cults
 - [ ] Discernment
 - [ ] Doctrine
+- [ ] Doctrine: Priesthood Authority
 - [ ] "Doesn't appear in the scriptures"
 - [ ] Don't look elsewhere for info
+- [ ] Family, Proclamation to the World
 - [ ] For-profit
 - [x] [[Helen Kimball|Helen Kimball]]
 - [ ] Isaac Hale
@@ -50,12 +52,14 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] NDA's / Nondisclosure Agreements
 - [ ] Persecution complex
 - [x] Poetry
+- [x] Polygamy: Sealing
 - [ ] Priesthood Restoration
 - [ ] Promptings
 - [ ] Prophets
 - [ ] Prophets: George A Smith
 - [ ] Prophets: Gordon Hinckley
 	- [ ] Ensign Peak
+- [ ] Prophets: Joseph Smith & Legal Trouble
 - [ ] Prophets: Russel M Nelson
 - [ ] Prophets: Thomas S Monson
 - [ ] Prophets: Wilford Woodruff

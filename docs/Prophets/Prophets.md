@@ -24,9 +24,9 @@ Here is a complete list of the times God has done this:
 
 &nbsp;
 
-> My boy, you always keep your eye on the President of the Church, and ==if he tells you to do something wrong==, and you do it, the Lord will bless you for it.
+> *My boy, you always keep your eye on the President of the Church, and ==if he tells you to do something wrong==, and you do it, the Lord will bless you for it.*
 >
-> You don’t need to worry, however; ==the Lord will never let his mouthpiece lead his people astray==.
+> *You don’t need to worry, however; ==the Lord will never let his mouthpiece lead his people astray==.*
 
 — Heber J Grant; quote copied from [Ensign address](https://www.churchofjesuschrist.org/study/ensign/1972/07/the-covenant-of-the-priesthood?lang=eng) by Marion G Romney
 
@@ -34,7 +34,7 @@ See also the time Ezra Taft Benson [[14 Fundamentals#4|used this quote]].
 
 &nbsp;
 
-> “This morning, I . . . visited with a brother and sister from Michigan, who thought that “a prophet is always a prophet;” but I told them that a prophet was a prophet only when he was acting as such."
+> *“This morning, I . . . visited with a brother and sister from Michigan, who thought that “a prophet is always a prophet;” but I told them that a prophet was a prophet only when he was acting as such."*
 
 — Joseph Smith ([1](https://www.churchofjesuschrist.org/study/new-era/2007/09/ordinary-men-extraordinary-callings?lang=eng&id=p11#p11), [History of the Church 5:265](https://archive.org/details/history-of-the-church-volume-5/page/258/mode/2up?view=theater&q=%22a+prophet+is+always+a+prophet%22))
 
@@ -46,7 +46,7 @@ Journal of Discourses, 13:95. #TODO
 
 &nbsp;
 
-> A few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find.
+> *A few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find.*
 
 — [Trial of Your Faith](https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=eng), Elder Neil L. Andersen, of the Quorum of the Twelve Apostles; General Conference October 2012
 

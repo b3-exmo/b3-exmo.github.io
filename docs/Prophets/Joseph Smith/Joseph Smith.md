@@ -60,8 +60,10 @@ Joseph had a gun and fought back ([[1](https://books.google.ca/books?id=EXjTCwAA
 
 How many other religious leaders get a lynching mob sent after them while they're Imprisoned? He fought back, emptying a six-shooter into a crowd. I can concede that this was in a panic since his life was in immediate danger; not saying he shouldn’t have, nor that I would have reacted differently. I’m saying he did, and I was raised to believe he did not.
 
+&nbsp;
+
 ## As was foretold...
-> 33 He called me by [name](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#note33a), and said unto me that he was a [messenger](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#note33b) sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that my name should be had for [good](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#note33c) and evil among all nations, kindreds, and tongues, or that it should be both good and evil spoken of among all people.
+> ***33** He called me by name, and said unto me that he was a messenger sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that ==my name should be had for good and evil among all nations==, kindreds, and tongues, or that it should be both good and evil spoken of among all people.*
 
 link below
 
