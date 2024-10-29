@@ -5,6 +5,7 @@ comments: true
 Joseph Smith was [[First Vision|told by God]] that he needed to restore His church, because all the other churches had inequities/problems/no authority. Whenever today's restored church comes under public scrutiny for some foible, the go-to explanation I hear is “God is perfect, but the church is not.” If that’s true, and God can work through an imperfect church, why did there have to be a restoration? Was it not to restore that purity or perfection?
 
 &nbsp;
+
 ## Jesus' Teachings
 Boy, Jesus sure missed the mark on saying that the church wouldn’t fall to apostasy, huh?
 
@@ -27,11 +28,15 @@ There are other NT scriptures quoting Christ on this matter (read [Matthew 13](
 ## Ongoing Restoration
 Fun fact: the phrase “ongoing restoration” was never uttered in any general conference talk until 2019 when they made a bunch of changes like 2 hour church and the youth programs and such. For simplicity's sake, here are some [search results](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=ongoing+restoration&genConfDateRange=any-date) for the church's library of the term "ongoing restoration." It was a hot topic in 2019 and 2020.
 
-The only exception I've encountered thus far is 2014:
+I've encountered few exceptions to this. One in 2014, another in 2016.
 
 > *In reality, the Restoration is an ongoing process; we are living in it right now.*
 
 — *[Are You Sleeping through the Restoration?](https://www.churchofjesuschrist.org/study/general-conference/2014/04/are-you-sleeping-through-the-restoration?lang=eng&id=p9#p9)*, President Dieter F. Uchtdorf, General Conference April 2014
+
+> *If you live as long as I have, you will come to know that things have a way of resolving themselves. An inspired insight or revelation may shed new light on an issue. Remember, ==the Restoration is not an event, but it continues to unfold==.*
+
+— *[To Whom Shall We Go?](https://www.churchofjesuschrist.org/study/general-conference/2016/10/to-whom-shall-we-go?lang=eng&id=p18-p19#p18)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference 2016 October
 
 Up to that point, based on skimming those search results, the only things to be called ongoing, continuous, etc was Christ's love, or revelation to the current president of the church. No specific examples, just that the prophet receives revelation. It did not mean that the church was going to fundamentally change doctrines, in fact, many presidents of the church emphatically stated that doctrines would never change.
 

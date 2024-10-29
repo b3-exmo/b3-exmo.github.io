@@ -21,7 +21,7 @@ Today's priesthood lineage all traces back to Joseph. If he was called of God to
 &nbsp;
 
 ## “Well, if he fuckin’, then why no [babby](https://www.youtube.com/watch?v=39lHPHs8bV8)?”
-It seems to me that we don’t have *solid* info as to why, but we have a lot of suspicious circumstantial evidence. The first I could point to is how many of the children born between Joseph and Emma had died in infancy. 
+It seems to me that we don’t have *solid* info as to why, but we have a lot of suspicious circumstantial evidence. The first I could point to is how many of the children born between Joseph and Emma had died in infancy. I don't know enough about biology and reproductive organs to confidently draw a connection between that observation (Emma's children passing away) and Joseph's other spouses not carrying to full term.
 
 Consider some possible reasons, having established that plural marriage did indeed happen.
 
@@ -32,7 +32,7 @@ John C Bennett was in the equivalent of the church’s first presidency at Nauvo
 
 > *… he had promised to give his victims “medicine to produce abortions, providing they should become pregnant.”*
 
-— *[Joseph Smith, John C. Bennett, and the Extradition Attempt, 1842](https://rsc.byu.edu/joseph-smith-prophet-seer/joseph-smith-john-c-bennett-extradition-attempt-1842)*, BYU Religious Studies Center
+— *[Joseph Smith, John C. Bennett, and the Extradition Attempt, 1842](https://rsc.byu.edu/joseph-smith-prophet-seer/joseph-smith-john-c-bennett-extradition-attempt-1842)*, BYU Religious Studies Center; see also *[Times and Seasons, 1 August 1842](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-august-1842/8)*
 
 **I haven’t encountered any direct evidence** that Bennett did perform abortions, but for him to be so close to Joseph Smith and being willing to perform abortions for Joseph seems likely. The above quote is what I will call strong circumstantial evidence.
 
@@ -42,6 +42,6 @@ The 19th century is not so far removed from us today to be considered barbaric o
 
 One way to circumvent suspicion is to engage in [polyandry](https://mit.irr.org/chart-of-joseph-smiths-plural-wives), or coital behavior with women who were already married. That way, there’s plausible deniability for extramarital affairs. I don't think paternity tests existed at the time, so if a plural wife of Joseph happens to be the legal wife of someone else, a pregnancy would look a lot less suspicious. Pedestrian, even.
 
-Contraception methods in the 1830’s might not be quite as sophisticated today, but… did they understand ovulation cycles to avoid conception? I can't really say with confidence.
+Contraception methods in the 1830’s might not be quite as sophisticated today, but… did they understand ovulation cycles to avoid conception? I assume so, but I can't really say with confidence.
 
 Sex doesn’t 100% result in conception every time— as I understand it, there are numerous factors at play. The absence of children does not mean there never were any extramarital affairs. It’s an indication, yes, but not a bulletproof refutation, either.

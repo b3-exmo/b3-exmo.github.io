@@ -50,11 +50,11 @@ Apologies in advance if these examples sound condescending or reductive. I'm usi
 &nbsp;
 
 ## Why is it important?
-If a claim **can** be refuted, or proven "false", it carries more value. As Sagan described in the conclusion of his thoughts quoted above, "what's the difference between an intangible dragon and no dragon at all?" A claim carries more weight if it could theoretically be proven false. If there's a failure criteria that exists, but is not met, that lends credence toward proof.
+If a claim **can** be refuted, or proven "false", it carries more value. As Sagan described in the conclusion of his thoughts quoted above, "what's the difference between [an intangible] dragon and no dragon at all?" A claim carries more weight if it could theoretically be proven false. If there's a failure criteria that exists, but is not met, that lends credence toward proof.
 
 If the contents of the [[Book of Abraham]] were found in scrolls found in a sarcophagus sold to Joseph Smith, that's a big deal. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[logical-fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, this is a falsifiable claim. An independent examination could go one of two ways:
 
-1. Joseph Smith nailed that translation! For him to happen upon those scrolls is nothing short of divine intervention, and those resultant teachings prove Mormonism to be true.
+1. Joseph Smith nailed that translation! For him to happen upon those scrolls and translate them accurately is nothing short of divine intervention, and those resultant teachings prove Mormonism to be true.
 2. The Book of Abraham has absolutely nothing to do with the contents of those scrolls, which modern scholars can reliably, accurately, demonstrably translate. This calls into question other claims that the LDS church made.
 
 Perhaps there's room for middle ground between those two outcomes? The significance to focus on here is the idea that the claim can be verifiably true, or verifiably false. 
@@ -70,15 +70,17 @@ Joseph Smith saw God and Jesus. No one else was there, but it's an event of sign
 ### Moving goalposts 
 *If you change the criteria of verifying a claim, anything can be true!*
 
-You want to examine the golden plates containing the original Book of Mormon text? The plates are gone now. Also they were written in [reformed Egyptian](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng&id=p32-p33#p32), which totally exists. It's not in Hebrew, which could be cross-examined. You can't do any carbon dating, chemical analysis, linguistic study of this extraordinary language or anthropological examination of the [[logistical-problems#How many people died?|only bit of hard evidence]] that might have existed.
+You want to examine the golden plates containing the original Book of Mormon text? [[The Plates#What happened to the plates?|The plates are gone now]]. Also they were written in [reformed Egyptian](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng&id=p32-p33#p32), which totally exists. It's not in Hebrew, which could be cross-examined. You can't do any carbon dating, chemical analysis, linguistic study of this extraordinary language or anthropological examination of the [[logistical-problems#How many people died?|only bit of hard evidence]] that might have existed.
 
-You're upset that the Book of Abraham scrolls don't appear to have [[Book of Abraham|anything to do with Abraham]]? Well, there were other scrolls in the set, and *those* ones were written by Abraham. Or maybe none of it was a direct translation, and the funerary texts for a pedestrian regular guy acted as a catalyst for Joseph to receive the scripture through revelation. It's fine.
+You're upset that the Book of Abraham scrolls don't appear to have [[Book of Abraham|anything to do with Abraham]]? Well, there were other scrolls in the set, and *those* ones were written by Abraham. Or maybe none of it was a direct translation, and the funerary texts for a pedestrian regular guy acted as a catalyst for Joseph to receive the scripture *about Abraham* through revelation. It's fine.
 
 The Garden of Eden was in Jackson County Missouri? Well, the garden was geographically small, secretive, and it disappeared to test our faith. No way to prove that it *wasn't* in Missouri, so [[logical-fallacies#Fallacies|it has to be true]]. I could just as easily claim that it was in [Muddy Fork, Arkansas](https://maps.app.goo.gl/Vpz8TyfpN2uigrfP7), and you would have no recourse against me, other than I didn't start a church 200 years ago.
 
 A global flood happened during Noah's prophetic leadership? Well, it wasn't *actually* global, and... uh... counter-evidence is just there to test our faith.
 
 Do you see the problem here? Nothing can prove these claims as false. It tautologically cannot fail, because there's no measurable proof for nor against it. Were I to claim that water boils at 100C at sea level and 80C at 1500m altitude, that is a falsifiable claim. Someone who lives at that altitude could measure the temperature of water when it boils and demonstrate that, while altitude does have an impact on water's boiling point, it's closer to 95C. My claim is falsified. It can be tested, there's a criteria of the claim being true, and also a criteria for it to be false.
+
+&nbsp;
 
 ## Claims by LDS leadership
 Have LDS church leaders made falsifiable claims that turned out false? I'll add more as I find them, but the first that comes to mind...
@@ -92,7 +94,7 @@ Have LDS church leaders made falsifiable claims that turned out false? I'll add 
 
 > *I believe the coming of the Son of Man will not be any sooner than that time.*
 
-— *[D&C 130:14-17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng&id=p14-p17#p14)*
+— *[D&C 130:14-17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng&id=p14-p17#p14)*, 2 April 1843
 
 He was born in 1805, so `1805 + 85 = 1890`.
 
@@ -108,4 +110,4 @@ In a meeting on Feb 14, 1835, [[Joseph Smith|Joseph Smith]] definitively stated:
 
 — *[History, 1838–1856, volume B-1](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/18)*, [1 September 1834–2 November 1838], p. 564
 
-Well... `1835 + 56 = 1891`. That year has come and gone. It'd be odd if any [church leader after 1891](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=second+coming&page=1) were to [hype up how we need to prepare for it](https://www.churchofjesuschrist.org/study/general-conference/topics/second-coming?lang=eng) in the non-specific future. After all, [no one knows](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng&id=p7#p7) when it will be!
+Well... `1835 + 56 = 1891`.  One could argue that 14 Feb & 2 April allows for some displacement of months, so it could be 1890 as the previous prophecy describes. Either way, that year has come and gone. It'd be odd if any [church leader after 1891](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=second+coming&page=1) were to [hype up how we need to prepare for it](https://www.churchofjesuschrist.org/study/general-conference/topics/second-coming?lang=eng) in the non-specific future. After all, [no one knows](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng&id=p7#p7) when it will be!

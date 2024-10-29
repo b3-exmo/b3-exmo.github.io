@@ -11,11 +11,18 @@ I don't think of this as a journal or blog. I'll interject a time or two, or sha
 ## Why, though?
 I didn’t wake up one day, and decide to tear down my worldview.
 
-I want this to be true. I never missed a day of seminary, I went on a mission, I got married in the temple, I even got recommended to be a temple worker in Provo. I did **not** resolve to upend my eternal perspective, and throw away a core part of my identity. *I want the LDS teachings to be true.*
+I want this to be true. I never missed a day of seminary, I went on a mission, I got married in the temple, I got recommended to be a temple worker in Provo. I did **not** resolve to upend my eternal perspective, and throw away a core part of my identity. *I want the LDS teachings to be true.*
 
 Many of these issues have conflicting amounts of weight behind them. I don’t have concrete evidence against all LDS teaching, nor is there solid, undeniable evidence in favor of it. The church could disambiguate and clear up all confusion, but it does not. Presumably, because you and I are meant to rely on faith. By every Mormon's [favorite scriptural passage](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p21#p21), “faith is . . . hope for things which are not seen, **which are true**.” Faith is not stubborn insistence despite evidence to the contrary.
 
 For more information on this, I have a page outlining [[My own experience]].
+
+&nbsp;
+
+### Who is this for?
+I don't really have a target audience. Truth be told, this began as an anxious preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions. Today, they're more of a "letter to my past self." Not a satisfying answer for a target audience.
+
+So, I suppose this is meant for folks in the Mormonosphere who are "physically in, mentally out," as I had been at one point in time. If you're interested in finding sources for the not-so-wholesome things the LDS church has been a part of, then I expect you'll find some satisfying content here.
 
 &nbsp;
 

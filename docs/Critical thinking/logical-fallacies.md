@@ -172,7 +172,7 @@ When the argument being made relies upon the argument being true. This can be di
 Made up example:
 > *"When I pray to know the BoM is true, then the spirit will give me a good feeling which confirms to me the book is true."*
 
-How do you know what you are feeling is a 'spirit' of God making you feel that way, and not just a conditioned feeling, elevation emotion, or meditative peace, or any number of other sources that give you the nice feeling?
+How do you know what you are feeling is a 'spirit' of God making you feel that way, and not just a conditioned feeling, [[Emotional Thinking#Elevation Emotion|elevation emotion]], or meditative peace, or any number of other sources that give you the nice feeling?
 
 > *"Because the book of Mormon tells me that this feeling comes from the Spirit."*
 

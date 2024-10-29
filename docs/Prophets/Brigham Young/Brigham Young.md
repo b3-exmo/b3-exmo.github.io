@@ -65,7 +65,7 @@ Teachings on [[Blood Atonement]] right there in the exact same source material t
 
 I can't explain the discrepancy between the page numbers in the *Teachings of the Presidents* manual and the *DBY* source. Maybe they're different editions. But I don't imagine that the 1997 First Presidency expected that lay folk would actually be able to dig up the source used. I don't know that I would have done it myself, if they hadn't outright told me to not bother looking up the source.
 
----
+&nbsp;
 
 ## "My words are important!"
 That's not a direct quote. 
@@ -99,7 +99,7 @@ This is a direct quote, though:
 >
 > *When the Lord God cursed old Cain, He said, ‘Until the last drop of Abel’s blood receives the Priesthood, and enjoys the blessings of the same, Cain shall bear the curse;’ then Cain is calculated to have his share next and not until then; consequently, I am firm in the belief that they ought to dwell in servitude.*
 
-— "Speech by ==Governor Brigham Young== in Joint Session of the Legislature Giving Counsel on a Bill in Relation to African Slavery", [Salt Lake City, Friday, 23 January 1852](https://mit.irr.org/brigham-young-we-must-believe-in-slavery-23-january-1852)
+— "Speech by ==Governor Brigham Young== in Joint Session of the Legislature Giving Counsel on a Bill in Relation to African Slavery", [Salt Lake City, Friday, 23 January 1852](https://catalog.churchofjesuschrist.org/assets/85e62ed8-dca0-4860-8b1e-4e6b7138fd16/0/1) ([text transcript](https://mit.irr.org/brigham-young-we-must-believe-in-slavery-23-january-1852))
 
 Boy, this guy sure sounds like he was called of God to speak in His behalf.
 

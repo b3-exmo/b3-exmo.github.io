@@ -53,3 +53,5 @@ Moroni took em idk lol
 &mdash; *Lucy Mack Smith, History, 1844–1845, Page [2], bk. 9, p. [2], bk. 9, The Joseph Smith Papers, accessed July 22, 2024, https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/106*
 
 😐 k
+
+We've already read some [[#Was it Moroni, or Nephi?|disagreements]] in the past about *who*, exactly, "the angel" could refer to. Neither of these accounts specify.

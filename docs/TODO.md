@@ -73,7 +73,6 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] Revelations from God
 - [ ] Scrupulosity
 - [ ] Statehood of Utah
-- [ ] State of Utah
 - [ ] Succession crisis
 - [ ] Temple
 - [ ] Temple worthiness

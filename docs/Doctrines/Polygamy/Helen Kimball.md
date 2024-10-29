@@ -80,7 +80,7 @@ The fact is that he married her- and by that act he secured all rights and privi
 
 &nbsp;
 
-Alright, now... You can read the rest of this article if you think added context will make this somehow less awful. Maybe you can explain how marriage "for eternity alone" means there were no sexual relations. What the fuck does that even mean?
+Alright, now... You can read the rest of this article if you think added context will make this somehow less awful. Maybe you can explain this me how marriage "for eternity alone" means there were no sexual relations. What the fuck does that even mean?
 
 I don't know how else to ask this: **why would Helen consider the marriage a sacrifice?** That sure makes it sound like it wasn't a romantic, mutually beneficial agreement between two consenting parties. That makes me think it wasn't marriage as you and I think of it today. Maybe things have dramatically changed since 1843, and I'm just naive?
 
@@ -101,7 +101,7 @@ In [Appendix One](https://rsc.byu.edu/womans-view/appendix-one), we find the fol
 
 I'll be real, I had to refrain from highlighting a lot more in that passage. Hooo boy. There's a lot to unpack here. I understand that 19th century views on women's rights are not the same as they are today, but god damn does this sound bleak.
 
-This appendix leads me to believe that this reminiscence was written on 30 March 1881. The quote at the beginning of this section says the interaction took place in 1843, meaning this would be around 38 years after, making Helen around 53 years old. I suppose she's had lots of time to think about it all, but the detail that seems to stick out the most in Helen's memory is the anguish of her mother at this exchange. Think of that. 38 years later, and she can still recollect such emotional pain seen in Vilate's eyes. Heber offered Helen to Joseph, having "but one Ewe lamb", and under the pretense that marrying Joseph will "ensure your eternal salvation and exaltation" for Helen and her family.
+This appendix leads me to believe that this reminiscence was written on 30 March 1881. The quote at the beginning of this section says the interaction took place in 1843, meaning this would be around 38 years after, making Helen around 53 years old. I suppose she's had lots of time to think about it all, but the vivid detail that seems to stick out the most in Helen's memory is the anguish of her mother at this exchange. Think of that. 38 years later, and she can still recollect such emotional pain seen in Vilate's eyes. Heber offered Helen to Joseph, having "but one Ewe lamb", and under the pretense that marrying Joseph will "ensure your eternal salvation and exaltation" for Helen and her family.
 
 &nbsp;
 

@@ -2,9 +2,9 @@
 comments: true
 ---
 # 🏁 Race
-For 126 years, between [[Brigham Young|Brigham Young]]’s presidency beginning and 1978, imagine thousands of black Mormons praying to God to please lift the temple/priesthood ban… Then imagine David O’McKay praying and concluding, “Nah. We’re good for now.”
+For 126 years, between [[Brigham Young|Brigham Young]]’s presidency beginning and 1978, imagine thousands of black Mormons praying to God to please lift the temple/priesthood ban… Then imagine David O’McKay praying about it and concluding, “Nah. We’re good for now.”
 
-A church that claims to be [[Restoration|restored]] by God should be ahead of the ‘[[Book of Mormon#Natural Man|natural man]]’ in getting things right, not behind. They took away the right of black members to enter the Celestial Kingdom, which is a spiritual issue, not a civil issue. We can call it a priesthood ban, but let's not overlook that priesthood is a prerequisite for salvation.
+A church that claims to be [[Restoration|restored]] by God should be ahead of the ‘[[Book of Mormon#Natural Man|natural man]]’ in getting things right, not behind. They took away the right of black members to enter the Celestial Kingdom, which is a spiritual issue, not a civil issue. The church likes to simply call it a priesthood ban, but let's not overlook that priesthood is a prerequisite for salvation. Folks were banned from salvation because of their race. I'll expound more on that later.
 
 The LDS church has had some really odd takes on race in the past, and today likes to pretend that none of it ever happened. I'll be aggregating some quotes, teachings, and adding my own comments and thoughts to them. I will note that I am a white American, arguably the least qualified demographic to offer meaningful commentary on racial prejudice as none of this has ever [impacted me directly](https://youtu.be/RovF1zsDoeM&t=54). Also, please note that I'll be using direct quotes from LDS church figureheads in the 19th century who use terms that we today consider to be offensive slurs.
 
@@ -13,7 +13,7 @@ The LDS church has had some really odd takes on race in the past, and today like
 ### [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood) notes
 > *Latter-day Saint scripture and teachings affirm that God loves all of His children and makes salvation available to all. God created the many diverse races and ethnicities and esteems them all equally. As the Book of Mormon puts it, “[all are alike unto God.](ptures/bofm/2-ne/26?lang=eng&id=p33#p33)”*
 
-Well... If we attribute scripture to divine revelation from God, I think [[Race in scripture|I could make an argument]] that perhaps *not* all are alike unto God. At least, not the God of the LDS church, as these problematic scriptures are exclusive to the Book of Mormon and Pearl of Great Price. Moreover, if we're to believe that prophets speak in God's behalf such that [their voices are functionally indistinguishable](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38), and when the prophet say and do some offensively racist things, that makes me think that the God of the LDS church esteems one race over another. Either that, or this given prophet was not called of God. Either way, we have a problem.
+Well... If we attribute scripture to divine revelation from God, I think [[Race in scripture|I could make an argument]] that perhaps *not* all are alike unto God. At least, not the God of the LDS church, as these problematic scriptures are exclusive to the Book of Mormon and Pearl of Great Price. Moreover, if we're to believe that prophets represent God, obtain and disseminate God's will, and speak in God's behalf such that [their voices are functionally indistinguishable](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38), I take issue when those prophets say and do some offensively racist things. That makes me think that the God of the LDS church esteems one race over another. Either that, or this given prophet was not called of God. Either way, we have a problem.
 
 &nbsp;
 
@@ -21,9 +21,9 @@ Well... If we attribute scripture to divine revelation from God, I think [[Race 
 
 🤨 Didn't we just establish that "all are alike unto God?" Why would God's official restored church exclude a specific race for 126 years? Does God's official restored church not represent His will?
 
-I'd also like to point out this explicit acknowledgement that simply disallowing black men from holding priesthood authority cascades into other matters— if  interracial marriage is also forbidden, that means anyone of African ancestry is simply not allowed to participate in saving ordinances. They can't be endowed nor sealed. Their families will not be [together forever](https://www.churchofjesuschrist.org/media/music/songs/families-can-be-together-forever-1989?lang=eng), explicitly because of Heavenly Father's plan. But don't worry too much, all are alike unto God. ... Maybe.
+I'd also like to point out this explicit acknowledgement that simply disallowing black men from holding priesthood authority cascades into other matters— if interracial marriage is also forbidden, that means anyone of African ancestry is simply not allowed to participate in saving ordinances. They can't be endowed nor sealed. Their families will not be [together forever](https://www.churchofjesuschrist.org/media/music/songs/families-can-be-together-forever-1989?lang=eng), explicitly because of Heavenly Father's plan. But don't worry too much, all are alike unto God. ... Maybe.
 
-Let's not overlook the nebulous "mid-1800s" timeframe. We can trace [down to the day](https://catalog.churchofjesuschrist.org/record/5df3b7da-d0a5-437b-8268-7dde8a87c76e/e6a939a0-3402-4771-814d-4eaf2547e613) when this doctrine was established by the prophet of God, to lead His one, true church. It was Thursday, 5 February 1852, and [finally reversed](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=eng) on Thursday, 1 June 1978. We're looking at 126 years, 3 months, and 27 days. 46,137 days of God, eternal and unchanging, being completely oblivious or complacent before ultimately revealing that "actually, black folks are allowed to be saved now." Just a prank, bro.
+Let's not overlook the nebulous "mid-1800s" timeframe. We can trace [down to the day](https://catalog.churchofjesuschrist.org/record/5df3b7da-d0a5-437b-8268-7dde8a87c76e/e6a939a0-3402-4771-814d-4eaf2547e613) when this doctrine was established by the prophet of God, to lead His one, true church. It was Thursday, 5 February 1852, and [finally reversed](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=eng) on Thursday, 1 June 1978. We're looking at 126 years, 3 months, and 27 days. 46,137 days of God, eternal and unchanging, being either completely oblivious or complacent before ultimately revealing that "actually, black folks are allowed to be saved now." Just a prank, bro.
 
 &nbsp;
 
@@ -37,7 +37,7 @@ We'll take a win when we can find one, I guess— "We never turned someone away 
 
 >*At some periods of time, reflecting local customs and laws, there were instances of segregated congregations in areas such as South Africa and the U.S. South.*
 
-It wasn't churchwide, though, so I guess we can just ignore the admittance of segregation in Mormon wards. 🙄
+It wasn't churchwide, though, so I guess we can just ignore the admittance of racial segregation in Mormon wards. 🙄
 
 &nbsp;
 
@@ -45,7 +45,7 @@ It wasn't churchwide, though, so I guess we can just ignore the admittance of se
 
 So... is there *unreliable* evidence of that? For an organization with a vested interest in one angle of a narrative to acknowledge and exclude evidence makes me think that evidence is worth examining. It makes me think that the reader should be the one to determine reliability.
 
-Asserting that there's "no reliable evidence" during Joseph Smith's presidency isn't quite the flex you seem to think it is. If we were to excuse him, we still have 11 other acting presidents of God's true, restored church to examine, not to mention their respective apostles and first presidencies, *all of whom* are called as prophets to bring God's will to us common folk. The easiest example to point to is [[Brigham Young|Brigham Young]]'s presidency, where we find some pretty unambiguous documentation on God's chosen vessel, representative, spokesman, being racist as *fuck*. Joseph's presidency has some conflicting information about racial dispositions— one day he’s for equality, others not so much. How should I feel about the idea that both men were called of God to be a prophet? I don't like the idea of pinning all of this on Joseph Smith. He's got [[Joseph Smith|his own set of issues]] to sort through, but this doctrine on race persisted for an uncomfortably long time.
+Asserting that there's "no reliable evidence" during Joseph Smith's presidency isn't quite the flex you seem to think it is. If we were to excuse him, we still have 11 other acting presidents of God's true, restored church to examine, not to mention their respective apostles and first presidencies, *all of whom* are called as prophets to bring God's will to us common folk. The easiest example to point to is [[Brigham Young|Brigham Young]]'s presidency, where we find some pretty unambiguous documentation on God's chosen vessel, representative, spokesman, being racist as *fuck*. Joseph's presidency has some conflicting information about racial dispositions— one day he’s for equality, others not so much. How should I feel about the idea that both men were called of God to be a prophet? I don't like the idea of pinning all of this on Joseph Smith. He's got [[Joseph Smith|his own set of issues]] to sort through, but this doctrine on race persisted well beyond Joseph's lifetime, lasting for an uncomfortably long time.
 
 &nbsp;
 
@@ -77,11 +77,11 @@ Yeah? That's what the church does? It "disavows theories advanced in the past?" 
 ### 1949 First Presidency Statement
 > *August 17, 1949*  
 >   
-> *The attitude of the Church with reference to Negroes remains as it has always stood. It is not a matter of the declaration of a policy but of direct commandment from the Lord, on which is founded the doctrine of the Church from the days of its organization, to the effect that Negroes may become members of the Church but that they are not entitled to the priesthood at the present time. The prophets of the Lord have made several statements as to the operation of the principle. President Brigham Young said: "Why are so many of the inhabitants of the earth cursed with a skin of blackness? It comes in consequence of their fathers rejecting the power of the holy priesthood, and the law of God. They will go down to death. And when all the rest of the children have received their blessings in the holy priesthood, then that curse will be removed from the seed of Cain, and they will then come up and possess the priesthood, and receive all the blessings which we now are entitled to."*  
+> *The attitude of the Church with reference to Negroes remains as it has always stood. ==It is not a matter of the declaration of a policy but of direct commandment from the Lord==, on which is founded the doctrine of the Church from the days of its organization, to the effect that Negroes may become members of the Church but that they are not entitled to the priesthood at the present time. The prophets of the Lord have made several statements as to the operation of the principle. President Brigham Young said: "Why are so many of the inhabitants of the earth cursed with a skin of blackness? It comes in consequence of their fathers rejecting the power of the holy priesthood, and the law of God. They will go down to death. And when all the rest of the children have received their blessings in the holy priesthood, then that curse will be removed from the seed of Cain, and they will then come up and possess the priesthood, and receive all the blessings which we now are entitled to."*  
 >   
 > *President Wilford Woodruff made the following statement: "The day will come when all that race will be redeemed and possess all the blessings which we now have."*  
 >   
-> *The position of the Church regarding the Negro may be understood when another doctrine of the Church is kept in mind, namely, that the conduct of spirits in the premortal existence has some determining effect upon the conditions and circumstances under which these spirits take on mortality and that while the details of this principle have not been made known, the mortality is a privilege that is given to those who maintain their first estate; and that the worth of the privilege is so great that spirits are willing to come to earth and take on bodies no matter what the handicap may be as to the kind of bodies they are to secure; and that among the handicaps, failure of the right to enjoy in mortality the blessings of the priesthood is a handicap which spirits are willing to assume in order that they might come to earth. Under this principle there is no injustice whatsoever involved in this deprivation as to the holding of the priesthood by the Negroes.*  
+> *The position of the Church regarding the Negro may be understood when another doctrine of the Church is kept in mind, namely, that ==the conduct of spirits in the premortal existence has some determining effect upon the conditions and circumstances under which these spirits take on mortality== and that while the details of this principle have not been made known, the mortality is a privilege that is given to those who maintain their first estate; and that the worth of the privilege is so great that spirits are willing to come to earth and take on bodies no matter what the handicap may be as to the kind of bodies they are to secure; and that among the handicaps, failure of the right to enjoy in mortality the blessings of the priesthood is a handicap which spirits are willing to assume in order that they might come to earth. Under this principle there is no injustice whatsoever involved in this deprivation as to the holding of the priesthood by the Negroes.*  
 >   
 > *The First Presidency*
 
@@ -94,19 +94,22 @@ Secondary sources
 
 &nbsp;
 
+Sounds to me like the statement is "this is doctrine, not policy," and "they deserve it anyway."
+
+&nbsp;
+
 ### Mark E Petersen
 This guy has numerous things to say about race. I'll put just one quote here, but I assure you that plenty more exist. I've got some additional excerpts [[Various Quotes#Mark E. Peterson|on another page]].
 
-> *I would be willing that they have all the advantages they can get out of life in the world. but let them enjoy these things among themselves. I think the Lord segregated the Negro and who is man to change that segregation? It reminds me of the scripture on marriage, “what God hath joined together, let not man put asunder.” Only here we have the reverse of the thing—what God hath separated, let not man bring together again.*
+> *I would be willing that they have all the advantages they can get out of life in the world. but let them enjoy these things among themselves. I ==think the Lord segregated the Negro and who is man to change that segregation==? It reminds me of the scripture on marriage, “what God hath joined together, let not man put asunder.” Only here we have the reverse of the thing—what God hath separated, let not man bring together again.*
 
 — *[Race Problems - As They Affect the Church](https://www.fairlatterdaysaints.org/answers/Primary_sources/Mark_E._Petersen/Race_Problems_-_As_They_Affect_the_Church)*, Mark E. Petersen, August 27, 1954 at the BYU Convention of Teachers of Religion on the College Level
 
 &nbsp;
 
 ## 1978 - 1999
-
 ### Bruce R. McConkie
-My boy Bruce has plenty to say on plenty of topics. He has some quotes on race both before and after the revelation, which I have copied [[Various Quotes#McConkie|on another page]] for the sake of organizing by speaker rather than by time. I'd summarize the two statements as: "we are justified in these awful, racist teachings given to us from prophets of old," and "never mind, we're not racist anymore, and you need to repent now."
+My boy Bruce has plenty to say on plenty of topics. He has some quotes on race both before and after the revelation, which I have copied [[Various Quotes#McConkie|on another page]] for the sake of organizing by speaker rather than by time. I'd summarize the two statements as: "we are justified in these awful, racist teachings given to us from prophets of old," and "never mind, we're not racist anymore, but you're the one who needs to repent now."
 
 &nbsp;
 

@@ -68,7 +68,7 @@ Being owned by the church itself carries some connotations- I'm not going to imp
 &nbsp;
 
 ### Journal of Discourses
-The [official topic essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/journal-of-discourses?lang=eng), reminds us that the Journal of Discourses is not an official publication, but it does have doctrinal teachings of early church leaders.
+The [official topic essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics/journal-of-discourses?lang=eng) remind us that the Journal of Discourses is not an official publication, but it does have doctrinal teachings of early church leaders.
 
 > *“It included some doctrinal instruction but also practical teaching, some of which is speculative in nature and some of which is only of historical interest.”*
 
@@ -159,7 +159,7 @@ Bill Reel, also part of [Mormonism Live](https://www.youtube.com/playlist?list=P
 - [Secular Buddhism](https://secularbuddhism.com/): My first intentional dive into another philosophy. Non-judgmental, approachable, and practical. This show is what helped me recreate the feelings of what Mormons call "the Spirit" while doing something mundane and non-spiritual. Unintentionally, this show contributed to my religious deconstruction, and I highly recommend it.
 - [Sunstone Mormon History Podcast](https://sunstone.org/sunstone-history-podcast/): Lindsay Hansen Park and Bryan Buchanan do an excellent job of stepping through Mormonism's early days and history, sharing things in a more objective way; they're not tearing anyone's faith down, nor are they biasing it toward divine inspiration. Feels like "here are the journal entries and contemporary sources about what happened."
 - [TheraminTrees](https://www.youtube.com/@TheraminTrees): More somber and introspective. This is among the first channels I indulged in when deconstructing religion. He mentions Mormonism only a time or two in passing, and focuses more broadly on Christianity. These videos are long, but cathartic in their composed, collected calmness.
-- [Was I in a Cult?](https://www.wasiinacult.com/): No one knowingly and willingly joins a cult. They get swept up in elevation emotion, rationalize how an organization demands more and more of them, until they reach a breaking point, and have a realization that this group is culty. This show interviews folks who have left culty MLM's, fitness clubs, acting classes, hippie refuges, and even religions.
+- [Was I in a Cult?](https://www.wasiinacult.com/): No one knowingly and willingly joins a cult. They get swept up in [[Emotional Thinking#Elevation Emotion|elevation emotion]], rationalize how an organization demands more and more of them, until they reach a breaking point, and have a realization that this group is culty. This show interviews folks who have left culty MLM's, fitness clubs, acting classes, hippie refuges, and even religions.
 
 &nbsp;
 

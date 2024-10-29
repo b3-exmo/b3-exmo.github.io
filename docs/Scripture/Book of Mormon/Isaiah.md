@@ -3,7 +3,6 @@ comments: true
 ---
 # 🤷 Isaiah
 ## Isaiah chapters
-
 A lot of what Joseph Smith wrote into the BoM were nearly word-for-word chapters from KJV Isaiah.
 
 Isaiah chapters were post-Babylonian diaspora, and Laban wouldn’t have those.

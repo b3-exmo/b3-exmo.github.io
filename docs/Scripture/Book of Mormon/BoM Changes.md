@@ -87,7 +87,7 @@ Moreover, in the chapters surrounding these excerpts of visions shown to Nephi, 
 
 Same chapter, same page.
 
-Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. Examining the 1830 edition uses titles for God that we, today, use for Jesus. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
+Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. Examining the 1837 edition uses titles for God that we, today, use for Jesus. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
 
 &nbsp;
 
@@ -96,7 +96,7 @@ Yes, Jesus has been referred to by many titles throughout the ages, some more ma
 
 — [The Translation Miracle of the Book of Mormon](https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12), Elder Robert K. Dellenbach Of the Seventy, General Conference April 1995
 
-Now... Maybe Elder Dellenbach and I have a different idea of the word "perfect". But for two adjacent sentences to first acknowledge flaws, even if insignificant, and immediately after assert perfection... doesn't sit right with me.
+Now... Maybe Elder Dellenbach and I have a different understanding of the word "perfect". But for two adjacent sentences to first acknowledge flaws, even if insignificant, and immediately after assert perfection... doesn't sit right with me.
 
 That discrepancy aside, calling the original manuscripts perfect makes me think that no further changes would be necessary. Is that unreasonable?
 

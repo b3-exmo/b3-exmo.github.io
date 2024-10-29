@@ -45,7 +45,7 @@ In case you were raised in the same technological environment I was, you may hav
 
 I, being a dumbass with a computer, can't really speak from experience concerning archaeology or how those educated folks arrive at their conclusions. Much like how a lay person doesn't worry themselves too much about [OSI model of network layers](https://www.geeksforgeeks.org/network-layer-protocols/), [DNS](https://www.cloudflare.com/learning/dns/what-is-dns/) lookups, [HTTP handshakes & sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session), [web application dependency management](https://cloud.google.com/blog/topics/developers-practitioners/best-practices-dependency-management) , or [browser rendering](https://frontendly.io/blog/browser-rendering); most folks know that when they tap the blue "F" icon on their smartphone, Facebook shows up. It may as well be magic. I could dig a hole in New Mexico, find a pottery shard, and think "huh, how about that." Someone with the right education could extrapolate a lot more than I could from that hypothetical encounter.
 
-What I do know, though, is if I find a video describing how the real reason behind the Europe's bubonic plague was microchips made in South Korea, I will be very skeptical of that claim. So it is with the Book of Mormon anachronisms. If I read that an Israeli family from 600 BC mastered [[Technology#Steel|metallurgy]] and [[Seafaring|seafaring]] in an isolated breakthrough of technology, leaving no trace and never reproducing those creations, I will be comparably skeptical.
+What I do know, though, is if I find a video describing how the real reason behind the Europe's bubonic plague was microchips made in South Korea, I will be very skeptical of that claim. So it is with the Book of Mormon anachronisms. If I read that an Israeli family from 600 BC mastered [[Scripture/Book of Mormon/Technology#Steel|metallurgy]] and [[Seafaring|seafaring]] in an isolated breakthrough of technology, leaving no trace and never reproducing those creations, I will be comparably skeptical.
 
 [[logical-fallacies#Sagan Standard|Extraordinary claims require extraordinary evidence]], and I don't believe that "pray about it" is going to qualify as evidence.
 
@@ -98,7 +98,7 @@ Sounds to me like it *might just be* made up.
 &nbsp;
 
 ### Wooden Submarines
-Jaredites in wooden submarines. Jaredites with steel. Did [[Technology|steel]] technology exist in 8000 BCE?
+Jaredites in wooden submarines. Jaredites with steel. Did [[Scripture/Book of Mormon/Technology|steel]] technology exist in 8000 BCE?
 
 Giving this any amount of critical evaluation makes it sound more ridiculous than inspiring or faith-promoting. No propulsion, no steering, constant flipping, no food stores, no potable water, no waste disposal, and no solid way to tell time or know how long it took. I'm not sure they knew how to measure the number of days- did they write it down, or just talk out a consensus once they made landfall? If it was written, what was it recorded on? Etched on the inside wall between the smears of cow poop?
 

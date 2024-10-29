@@ -42,13 +42,13 @@ See also the time Ezra Taft Benson [[14 Fundamentals#4|used this quote]].
 
 > _Said Brigham Young, “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture.”_
 
-Journal of Discourses, 13:95. #TODO 
+— [Latter-day Saint Families, Etc.](https://scriptures.byu.edu/#0651617b8:t1fbdd:j13); Brigham Young, [Journal of Discourses 13](https://scriptures.byu.edu/jod/pdf/JoD13/JoD13.pdf):95
 
 &nbsp;
 
 > *A few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find.*
 
-— [Trial of Your Faith](https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=eng), Elder Neil L. Andersen, of the Quorum of the Twelve Apostles; General Conference October 2012
+— *[Trial of Your Faith](https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=eng)*, Elder Neil L. Andersen, of the Quorum of the Twelve Apostles; General Conference October 2012
 
 &nbsp;
 
@@ -74,9 +74,9 @@ Behind every policy of the church, there's doctrine. Without doctrine to back po
 &nbsp;
 
 ## Divine Witness
-> I did not live in the days of our Savior; he has not come to me in person. ==I have not beheld him==. His Father and he have not felt it necessary to grant me such a great blessing as this. ==But it is not necessary==. I have felt his presence. I know that the Holy Spirit has ==enlightened my mind and revealed him unto me==, so that I do love my Redeemer, I hope, and feel it is true, better than everything else in this life. I would not have it otherwise.
+> *I did not live in the days of our Savior; he has not come to me in person. ==I have not beheld him==. His Father and he have not felt it necessary to grant me such a great blessing as this. ==But it is not necessary==. I have felt his presence. I know that the Holy Spirit has ==enlightened my mind and revealed him unto me==, so that I do love my Redeemer, I hope, and feel it is true, better than everything else in this life. I would not have it otherwise.*
 
-Joseph Fielding Smith, [lesson manual, chapter 2](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-joseph-fielding-smith/chapter-2-our-savior-jesus-christ?lang=eng&id=p3#p3).
+— *[Chapter 2: Our Savior, Jesus Christ](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-joseph-fielding-smith/chapter-2-our-savior-jesus-christ?lang=eng&id=p3#p3)*, Teachings of Presidents of the Church: Joseph Fielding Smith
 
 I thought the whole idea of being a prophet/apostle was having seen Jesus Christ? As in, can personally testify and account for having seen and witnessed Him?
 
@@ -102,6 +102,6 @@ https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theate
 ## Is "prophet" even a priesthood office?
 No! Not according to one George Q Cannon in 1869, at least:
 
-> we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost; and, in fact, he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination. But when the time came for him to be baptized, then a man who held the keys of that Priesthood came to him and laid his hands upon Joseph’s head, and upon Oliver Cowdery, and set them apart, and gave them authority to officiate in the Aaronic Priesthood, which Priesthood held the keys of baptism and so forth.
+> *... we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost; and, in fact, he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination. But when the time came for him to be baptized, then a man who held the keys of that Priesthood came to him and laid his hands upon Joseph’s head, and upon Oliver Cowdery, and set them apart, and gave them authority to officiate in the Aaronic Priesthood, which Priesthood held the keys of baptism and so forth.*
 
-[https://www.fairlatterdaysaints.org/answers/Journal_of_Discourses/13/8#47](https://www.fairlatterdaysaints.org/answers/Journal_of_Discourses/13/8#47)
+— *[Right and Authority of President Brigham Young.](https://scriptures.byu.edu/#0651617b8:t1fbd8:j13)*; George Q. Cannon, [Journal of Discourses 13](https://scriptures.byu.edu/jod/pdf/JoD13/JoD13.pdf):47

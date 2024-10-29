@@ -9,7 +9,7 @@ I was raised to believe that only our scriptures & church leaders can bring us h
 
 I’d occasionally hear some outrageous claims of Joseph Smith doing shady things, but *clearly* this was an attempt by the devil to pull me away from happiness.
 
-In my first year of seminary at age 14, studying the Doctrine & Covenants and church history, I clearly remember hearing numerous accounts of disaffected members leaving the faith over petty reasons; minimizing their experience, diminishing it to “being offended” over something trivial. After all, who in their right might would walk away from this?
+In my first year of early-morning seminary at age 14, studying the Doctrine & Covenants and church history, I clearly remember hearing numerous accounts of disaffected members leaving the faith over petty reasons; minimizing their experience, diminishing it to “being offended” over something trivial. After all, who in their right might would walk away from this?
 
 Doing baptisms for the dead as a teenager was always hyped up as a life-changing event. We did it twice a year, if memory serves right. I do recall treating it as a virtue-signaling opportunity to show how dignified and spiritual I could be to the girls there. Also how calm, ritualistic, solemn the process was. I remember temple workers corralling us down specific hallways, blocking specific doors, and wordlessly herding the group of teenagers toward the baptismal font. “One day,” I thought, “I’ll see what else these buildings contain. Adults seem very hush-hush about it. Must be cool?”
 
@@ -29,7 +29,7 @@ Once I get into the endowment ceremony, I remember my heart racing, as the whole
 &nbsp;
 
 ## Mission
-I went to Los Angeles. I grew up insulated from much of the world, in various parts of the midwest, and northern Texas. Being immersed in the massive city of LA where seeing green grass was a rarity kept my stress levels above healthy intervals, to put it lightly. My response to the ordeal was to double down, insist that I represent Jesus Christ and that I cannot be wrong— I cannot and will not falter and give up now. This work is important.
+I grew up insulated from much of the world, in various parts of the midwest, and northern Texas. My mission call sent me to Los Angeles. I distinctly remember descending through the clouds to the LAX airport, and feeling a moderate panic attack at how urbanized and dense the view was, seeing scarce green space, and reminding myself that I, an anxious dork from Kansas, will be held accountable for spreading Jesus' gospel to all eight million of these people. Being immersed in the massive city of LA where seeing green grass was a rarity kept my stress levels above healthy intervals, to put it lightly. My response to the ordeal was to double down, insist that I represent Jesus Christ and that I cannot be wrong— I cannot and will not falter and give up now. This work is important.
 
 As a district leader, I had another companionship call to vent that they “had their testimonies attacked” by some embittered ex-members. Claims about tithing, financial transparency, polygamy, hidden information, etc.. I assured them that, if they felt shaken, they can take the evening off to regain composure in their apartment, study and pray. I’d check in with them the next day. They shrugged it off and we never spoke of it again.
 

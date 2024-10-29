@@ -21,11 +21,11 @@ What, _specifically_, does the Bible lack that the Book of Mormon clears up? Wha
 - Infant Baptism is wrong
 - ???
 
+People wouldn’t have worried about their baby dying before being baptized if they had ==temples== where the work could later be done by proxy. If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism. If the age of accountability is an eternal principle, then Nephites wouldn’t be bothered at all&mdash; outside of the standard emotional reaction to the loss of a loved one, of course.
+
 &nbsp;
 
-It does not talk about temples, marriage, eternal marriage, afterlife, church leadership outside of First Presidency + Q15. Does it *demonstrate the need* for prophets? 
-
-There are no “truly” LDS doctrines are in there:
+Does it *demonstrate the need* for prophets? There are no LDS doctrines are in there:
 
 - Temples
 - Temple ordinances
@@ -33,6 +33,8 @@ There are no “truly” LDS doctrines are in there:
 	- Eternal marriage
 	- Sealing
 - Two priesthood tiers (by whatever name we prefer)
+- Afterlife
+- Pre-mortal life
 - Ongoing revelation
 - Organization & centralization of **a** church, **the** true church
 
@@ -40,7 +42,7 @@ There are no “truly” LDS doctrines are in there:
 
 If this book was true, the Book of Mormon’s main value would be a witness that Christ visited somewhere on the American continents and briefly ministered to the indigenous peoples within a small radius of His “landing spot.” **But if you already believe in Christ, that is basically just a fun fact.** Jesus presents no meaningfully new information, but his teachings are a direct copy of the KJV New Testament. It's enough to lead a skeptical reader to not see this testament of Christ as being very useful. The Book of Mormon supports the idea of “other sheep I have which are not of this fold”… but that is a bit vague in and of itself. Could have just as easily gone to Cape Town in South Africa. Or Mongolia. 
 
-If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]] church, it seems to leave a lot out. So much of the modern LDS church seems to be founded on the Doctrine & Covenants, or the Pearl of Great Price.
+If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]] church, it seems to leave a lot out. So much of the modern LDS church seems to be founded on the Doctrine & Covenants, or the Pearl of Great Price. Those books aren't pushed nearly as hard in missionary efforts as a demonstration of a modern restoration. Why is that?
 
 &nbsp;
 
@@ -55,11 +57,11 @@ If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]
 4. People become humble & righteous
 - Rinse and repeat. 
 
-God rewards your obedience and righteousness with a reward corrupts you, bringing you to fall. God keeps perpetuating this cycle, and is going to keep the Lamanites a short distance away to use as a punishing tool for when you *obey too much*.
+God rewards your obedience and righteousness with a reward that ultimately corrupts you, bringing you to fall. God keeps perpetuating this cycle, and is going to keep the Lamanites a short distance away to use as a punishing tool for when you *obey too much*.
 
 Who breaks the cycle? Is it us? Are we meant to **not** be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle— God is the one who keeps blessing us. I won't be prideful anymore if God stops *making* me prideful. 
 
-God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually— you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever I get blessed by God? Is God trying to tell me that I shouldn't become humble and obedient? He sure seems to want to disincentivize that.
+God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually— you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever God blesses me? [[What are blessings|What is a blessing]], anyway? It seems that God wants me to be humble and obedient, but as soon as I become humble and obedient, God "blesses" me with pride. What the hell, God?
 
 &nbsp;
 
@@ -71,42 +73,46 @@ If one were to studiously read through the BoM multiple times in a year, as is a
 
 &nbsp;
 
-I could imagine this being very closely related to Prosperity Gospel. I [[TODO|ought to]] write some notes about that.
-
-&nbsp;
-
 ### Natural Man
 > *For ==the natural man is an enemy to God==, and ==has been== from the fall of Adam, and ==will be==, forever and ever, unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father.*
 
 — _[Mosiah 3:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng&id=p19#p19)_
 
-One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father- the whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god- we're growing up, we're godlings, we're little wimpy baby gods. Right?
+One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father— the whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god— we're growing up, we're godlings, we're little wimpy baby gods. Right?
 
-But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and he made us that way. [[Theology#Oversimplification|Why does god hate his creations]]? By our very nature, by God's design, we are an enemy to God. What the hell.
+But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and he made us that way. [[Theology#Oversimplification|Why does god hate His creations]]? By our very nature, by God's design, we His enemies. What the hell, God?
+
+&nbsp;
 
 #### A parable
 Props to John Larsen for presenting and illustrating this idea in [his podcast](https://johnlarsen.org/mormon-expression/).
 
-> Imagine you're sitting in the mall and and there's a father talking to his child who you can overhear. Put whatever scripture you want in the mouth of the father talking to the child. Just about any biblical passage he says would make you consider calling Child Protective Services.
+> *Imagine you're sitting in the mall and and there's a father talking to his child who you can overhear. Put whatever scripture you want in the mouth of the father talking to the child. Just about any biblical passage he says would make you consider calling Child Protective Services.*
 >
-> Imagine a parent in the mall scolding their child, saying "you little shit, you are an enemy of mine! You have been since the day you were born, and _always will be unless you do what I tell you to do_. You have to do everything I say or else you're my enemy." One step further, "you will never *not* be my enemy, unless I punish your brother. You, on your own, will never be good enough."
+> *Imagine a parent in the mall scolding their child, saying "you little shit, you are an enemy to me! You have been since the day you were born, and always will be unless you do what I tell you to do. You have to do everything I say or else you're my enemy." One step further, "you will never* not *be my enemy, unless I punish your brother. You, on your own, will never be good enough."*
 
-I think it's a useful illustration- if our relationship to God is like that of a father and child, we can imagine literally a father and child having such an interaction as a third party.
+I think it's a useful illustration&mdash; if our relationship to God is like that of a father and child, we can imagine literally a father and child having such an interaction as a third party.
 
 How do you react in this imagined scenario? Do you think "wow that father sure loves his kids. Wish my dad was that chill." Or do you call CPS?
 
 &nbsp;
 
 ### Perfection
-> In preparing for this conference address, I had the glorious experience of quietly examining several pages of Joseph’s original manuscript of the Book of Mormon, which is safely protected in the Church archive. I was overwhelmed at the purity of the transcription, which had only a very few insignificant corrections, such as a misspelled word. ==Joseph’s original manuscript is so perfect== it could only have come from one source—divine revelation.
+> *In preparing for this conference address, I had the glorious experience of quietly examining several pages of Joseph’s original manuscript of the Book of Mormon, which is safely protected in the Church archive. I was overwhelmed at the purity of the transcription, which had ==only a very few insignificant corrections==, such as a misspelled word. ==Joseph’s original manuscript is so perfect== it could only have come from one source—divine revelation.*
 
-https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12
+&mdash; *[The Translation Miracle of the Book of Mormon](https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12)*, Elder Robert K. Dellenbach of the Seventy, General Conference April 1995
 
-> Since the 1837 version, the Church has published ==five additional major editions== of the Book of Mormon, all of which included slight changes to improve the clarity of the text. The Church’s ==Scripture Committee== is responsible for overseeing the editing process. They research corrections brought to their attention and then make recommendations. All recommendations and any subsequent changes are approved by the Council of the [First Presidency](https://newsroom.churchofjesuschrist.org/topic/organizational-structure-of-the-church) and Quorum of the Twelve Apostles, the highest governing body of the Church.
+&nbsp;
+
+> *Over the last 178 years, ==seven major editions of the Book of Mormon have been published== by The Church of Jesus Christ of Latter-day Saints. The purpose of each new edition is to eliminate the human errors that have occurred. This is all aimed at bringing the text into conformity with the message and meaning of the original manuscripts. The various editorial changes that have been made, such as typographical, grammatical and syntactical changes, have improved readability while leaving the doctrine unaltered.*
+>
+> ...
 > 
-> ==Almost 4,000 editing corrections have been made== to the Book of Mormon since the first publication in 1830. For example: the word _which_ has been changed to _who_ 891 times; _was_ has been changed to _were_ 162 times; and the word _that_ has been deleted 188 times. Other examples involve mistakes in the transcription process. While Joseph Smith and a scribe were translating in the book of Alma, for instance, the scribe misheard Joseph and wrote the word _whether_ instead of _wither_. This mistake, which was included in the first edition, changed the complexion of the sentence and caused confusion among readers. Each correction that has been made has aimed at aligning the text with the original translation.
+> *==Almost 4,000 editing corrections have been made== to the Book of Mormon since the first publication in 1830. For example: the word which has been changed to who 891 times; was has been changed to were 162 times; and the word that has been deleted 188 times. Other examples involve mistakes in the transcription process. While Joseph Smith and a scribe were translating in the book of Alma, for instance, the scribe misheard Joseph and wrote the word whether instead of wither. This mistake, which was included in the first edition, changed the complexion of the sentence and caused confusion among readers. Each correction that has been made has aimed at aligning the text with the original translation.*
 
+&mdash; *[Understanding the Process of Publishing the Book of Mormon](https://newsroom.churchofjesuschrist.org/article/understanding-the-process-of-publishing-the-book-of-mormon)*, Church Newsroom, 1 January 2008
 
+... Was it five versions, or seven?
 
 &nbsp;
 
@@ -147,10 +153,9 @@ Whose day was it written for?
 
 According to David A Bednar…
 
-> _“The Book of Mormon is not a book of history. The Book of Mormon is a book about the future.”_
+> *The Book of Mormon is not a book of history. The Book of Mormon is a book about the future.*
 
-— _[Elder Bednar Ministers in Amman, Jordan](https://news-middleeast.churchofjesuschrist.org/article/elder-bednar-ministers-in-amman-jordan)_, Church Newsroom, 
-23 October 2021
+— _[Elder Bednar Ministers in Amman, Jordan](https://news-middleeast.churchofjesuschrist.org/article/elder-bednar-ministers-in-amman-jordan)_, Church Newsroom, 23 October 2021
 
 Thanks, buddy. That clears it right up.
 
@@ -161,56 +166,19 @@ Christ's presence gets hyped up *a lot* in this book.
 
 They count down for 600 years, leading up to Christ's return. The entire book is about this event, leading up to this singular event— the event of a god walking among us, to deliver a message. Fast forward to after Christ's ministry, we have Mormon and Moroni hauling around ~450 lbs of metal plates in a desperate effort to preserve the records for future generations. After all, it was written for our day, right?
 
-The Bible teaches that Jesus was crucified, rose again, but in that interim when he is sealed away in that tomb, he appears in the New World to preach. (That's what I recall hearing in seminary- Jesus' visit to America was during those 2 - 3 days after mortal death) This necessarily must be *the most important thing* to have ever been told to all of humanity, you build up to Third Nephi with this hushed awe and wonderment, ready for divine insights and guidance— everything that has happened in the world is leading up to this one great moment to change all of humanity, God himself is descending, appearing in a physical manifestation to prove his identity and authority. God is appearing to the other side of the world, because he loves and cares for those people enough to appear and minister to them. The record of those teachings will be preserved, *must be* preserved, unaltered by priests or clergymen— the message is pure, given straight from God's mouth to us. The entire point of the Book of Mormon is to deliver *this message*:
+The Bible teaches that Jesus was crucified, rose again, but in that interim when he is sealed away in that tomb, he appears in the New World to preach. (That's what I recall hearing in seminary— Jesus' visit to America was during those 2 - 3 days immediately following his mortal death) This necessarily must be *the most important thing* to have ever been told to all of humanity, you build up to Third Nephi with this hushed awe and wonderment, ready for divine insights and guidance— everything that has happened in the world is leading up to this one great moment to change all of humanity, God himself is descending, appearing in a physical manifestation to prove his identity and authority. God is appearing to the other side of the world, because he loves and cares for those people enough to appear and minister to them. The record of those teachings will be preserved, *must be* preserved, unaltered by priests or clergymen— the message is pure, given straight from God's mouth to us. The entire point of the Book of Mormon is to deliver *this one message*.
 
-And what is it? It's the sermon on the mount exactly as it appears in the New Testament. Plus a [[#Cannot be written|bunch of other stuff we didn't write down]]. It's a re-run.
+And what is it? It's the sermon on the mount exactly as it appears in the KJV New Testament. Plus a [[#Cannot be written|bunch of other stuff we didn't write down]]. It's a re-run.
 
 Huh. If I didn't know any better, I might assume that Joseph just plagiarized these passages.
 
-Jesus does, by definition, visit the new world, but not all of it. He goes to one city. Not only that, but Zerahemla's buildings and infrastructure just got completely leveled- there isn't an auditorium or a gathering place. In an enclosed room, one's voice might reverberate from the walls enough to reach folks in the back row. They don't have rooms or buildings, just rubble and debris. Only the first 100 - 150 people to get to Jesus could hear him talk. And what does he talk about? The exact same message, suspiciously in the same vernacular and style as the King James Version of the New Testament, repeated. 
+Jesus does, by definition, visit the new world, but not all of it. He goes to one city. Not only that, but Zerahemla's buildings and infrastructure just got completely leveled— there isn't an auditorium or a gathering place. In an enclosed room, one's voice might reverberate from the walls enough to reach folks in the back row. They don't have rooms or buildings, just rubble and debris. Only the first 100 - 150 people to get to Jesus could hear him talk. And what does he talk about? The exact same message, suspiciously in the same 17th century English vernacular and style as the King James Version of the New Testament, repeated. 
 
-Imagine it: you just [lost your family](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p25#p25), your house, your livelihood; [populous cities just got flattened](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p14#p14) by storms and earthquakes, followed by a full [72 hours of people moaning and wailing in despair](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p23#p23) as their sight is blinded by dark mists. All you can feel is rubble and dead bodies around you, all you can hear is other people mourning, or those who were injured or maimed, having not yet died, but scream out in horror at their reality. You can't find food. Wallowing in excrement. Nothing to suggest that your condition will improve, or that your sight will ever return *for three days straight*. But hey, at least Jesus came here to tell you [the Lord's prayer](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p9-p13#p9). Just what you needed, right?
+Imagine it: you just [lost your family](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p25#p25), your house, your livelihood; [populous cities just got flattened](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p14#p14) by storms and earthquakes, followed by a full [72 hours of people moaning and wailing in despair](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p23#p23) as their sight is blinded by dark mists. All you can feel is rubble and dead bodies around you, all you can hear is other people mourning, or those who were injured or maimed, having not yet died, but scream out in horror at their reality as they bleed out, dying slowly. Maybe you're pinned down under a collapsed wall, unable to free your shattered bones from the weight of the structure. No one can treat your wounds or help you&mdash; no one can *find* each other. You can't find food. Anyone in earshot of you is wallowing in their own excrement. Nothing to suggest that your condition will improve, or that your sight will ever return *for three days straight*. But hey, at least Jesus came here to tell you [the Lord's prayer](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p9-p13#p9). Just what you needed, right?
 
-One could argue that this emphasizes how important that message is, that native Americans need it too- but part of what's dramatic about this book is the idea that it survived such great lengths to preserve for us, today, in 2024 to read as convincing evidence that God's one true church has been restored. Those two ideas don't fit together. Was it [[#For our day, or for JS’ day?|for us]], who already have the source material? Jesus appeared to Nephites after leveling their cities to talk to you and I in the 21st century? Was it for *our day*, more of a temporal matter than demographic- for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
+One could argue that this emphasizes how important that message is, that native Americans need it too— but part of what's dramatic about this book is the idea that it survived such great lengths to preserve for us, today, in 2024 to read as convincing evidence that God's one true church has been restored. *Those two ideas don't fit together*. Was it [[#For our day, or for JS’ day?|for us]], who already have the source material? We have the KJV already! Jesus appeared to Nephites after leveling their cities to talk to you and I in the 21st century? Was it for *our day*, more of a temporal matter than demographic— for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
 
-&nbsp;
-
-## Baptism revelation
-People wouldn’t have worried about their baby dying before being baptized if they had temples where the work could later be done by proxy.
-
-If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism.
-
-If the age of accountability is an eternal principle, then Nephites wouldn’t bother at all. Not discounting the mourning for lost family members, of course.
-
-&nbsp;
-
-## JST vs BoM
-Isn’t JST and BoM the most accurate translations of Christ’s everlasting message?
-
-Sermon on the Mount appears in 3 Nephi 13, Matt 6 KJV, and Matt 6 JST. There’s enough discrepancy for not all claims to be true; either BoM is not “the most correct of any book on earth” or JST is bunk. Why wouldn’t the BoM version include the JST edits?
-
-| Judge not, that ye be not judged.<br><br>For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again. | Now these are the words which Jesus taught his disciples that they should say unto the people.<br><br>Judge not unrighteously, that ye be not judged; but judge righteous judgment. | And now it came to pass that when Jesus had spoken these words he turned again to the multitude, and did open his mouth unto them again, saying: Verily, verily, I say unto you, Judge not, that ye be not judged.<br><br>For with what judgment ye judge, ye shall be judged; and with what measure ye mete, it shall be measured to you again. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| _[KJV: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng&id=p1-p2#p1)_                                                     | _[JST: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-matt/7?lang=eng&id=p1-p2#p1)_                                                                    | _[3 Nephi 14:1-2](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=eng&id=p1-p2#p1)_                                                                                                                                                                                                                                       |
-
-Why would Joseph Smith's "translation" of the KJV vary so differently from Jesus teaching the exact same thing to the Nephites? “The most correct book” on the planet, something to that affect.
-
-## Anglicization
-### Raca
-> *But I say unto you, that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, ==Raca==, shall be in danger of the ==council==; and whosoever shall say, Thou fool, shall be in danger of hell fire.*
-
-— _[3 Nephi 12:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=p22#p22)_
-
-This verse references a KJV “Anglicization” of the Greek text in which Raca has been ported from Aramaic ‘Reka’. The Nephites didn’t speak Greek. The Nephites didn’t speak Aramaic.
-
-It is NOT a Hebrew word. It is NOT an Egyptian word.
-
-That verse is COPIED from the KJV of the New Testament. It was not written as such on any Hebrew or Reformed Egyptian plates.
-
-WORSE is the reference to ‘council’. All biblical scholars recognize this is in reference to the Jewish Councils governing offenses in Jerusalem. Specifically the Sanhedrin. There was NO Sanhedrin among the Nephites or in the New World; if Sanhedrin was relevant in 600 BC, BoM outlines overhauls to governance and justiciary a few times. Sanhedrin may be an old oral legend, being 600 years displaced. There’s no way a Nephite in the New World would call their brother “Raca” and after having done so, be subject to the punishment of the Sanhedrin.
-
-**This passage would have been meaningless to the Nephites.** Being meaningless, they probably wouldn’t have written it down.
-Really, now. Here are the times where, during the physical ministry of Jesus Christ, savior of all mankind, in the resurrected flesh, the scribes just said 'yeah he said some other stuff too idk'
+If Jesus himself orchestrated that 4D-chess maneuver just to make a point 2,000 years later, then... I guess it is a testament of Jesus Christ. The only reverent respect I'd have for a deity that pulls a stunt like that would be out of terrified self-preservation, not familial affection. What's he going to do to me to give teenagers anxiety disorders in year 4,100 AD?
 
 &nbsp;
 
@@ -228,7 +196,10 @@ I initially had these following passages quoted inline, but I think you can foll
 - _[3 Ne 7:17](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=eng&id=p17#p17)_
 - _[3 Ne 19:32-34](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=eng&id=p32-p34#p32)_
 
-But out of all the myriad things they didn't write down, the one concept they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[BoM Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 600+ years separated from Lehi.
+
+Really, now. During the physical ministry of Jesus Christ, savior of all mankind, in the resurrected flesh, the scribes just wrote 'yeah he said some other stuff too. It was cool, you should have been there.'
+
+Out of all the myriad things they didn't write down, the [[#Anglicization|few concepts]] they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[BoM Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 600+ years separated from Lehi or any contemporaries from Jerusalem.
 
 &nbsp;
 
@@ -238,6 +209,39 @@ The four gospels in the New Testament were written well after Jesus was crucifie
 If you, reader, served a full-time mission for the church, how often did you tout the Book of Mormon as "another testament of Jesus Christ"? Did someone with a Christian background have their interest piqued? Did they find the part of the book where Jesus makes a physical appearance? Did this hypothetical investigator then read "we didn't write any of it down, anyway here's the sermon on the mount exactly as it appears in KJV" and think "hot dog, this verbatim copy-paste is exactly what I was looking for. I am now convinced that Joseph Smith was a prophet!"?
 
 No? Why not, did you have a problem with porn or something?
+
+&nbsp;
+
+## JST vs BoM
+Shouldn’t Joseph Smith's Translation (JST) and the Book of Mormon be the most accurate translations of Christ’s everlasting message?
+
+Sermon on the Mount appears in 3 Nephi 13, Matt 6 KJV, and Matt 6 JST. There’s enough discrepancy for not all claims to be true; either BoM is not “the most correct of any book on earth” or JST is bunk. Why wouldn’t the BoM version include the JST edits?
+
+| _[KJV: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng&id=p1-p2#p1)_                                                         | _[JST: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-matt/7?lang=eng&id=p1-p2#p1)_                                                                        | _[3 Nephi 14:1-2](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=eng&id=p1-p2#p1)_                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Judge not, that ye be not judged.*<br><br>*For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.* | *Now these are the words which Jesus taught his disciples that they should say unto the people.*<br><br>*Judge not unrighteously, that ye be not judged; but judge righteous judgment.* | *And now it came to pass that when Jesus had spoken these words he turned again to the multitude, and did open his mouth unto them again, saying: Verily, verily, I say unto you, Judge not, that ye be not judged.*<br><br>*For with what judgment ye judge, ye shall be judged; and with what measure ye mete, it shall be measured to you again.* |
+
+Why would Joseph Smith's "translation" of the KJV vary so differently from Jesus teaching the exact same thing to the Nephites? “The most correct book” on the planet, something to that affect.
+
+I have more [[Bible#Joseph Smith Translation|notes on JST]], if you're interested.
+
+&nbsp;
+
+## Anglicization
+### Raca
+> *But I say unto you, that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, ==Raca==, shall be in danger of the ==council==; and whosoever shall say, Thou fool, shall be in danger of hell fire.*
+
+— _[3 Nephi 12:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=p22#p22)_
+
+This verse references a KJV “Anglicization” of the Greek text in which Raca has been ported from Aramaic ‘Reka’. The Nephites didn’t speak Greek. The Nephites didn’t speak Aramaic.
+
+It is NOT a Hebrew word. It is NOT an Egyptian word.
+
+That verse is COPIED from the KJV of the New Testament. It was not written as such on any Hebrew or Reformed Egyptian plates.
+
+Worse yet is the reference to ‘council’. All biblical scholars recognize this is in reference to the Jewish Councils governing offenses in Jerusalem. Specifically the Sanhedrin. There was NO Sanhedrin among the Nephites or in the New World; if Sanhedrin was relevant in 600 BC, BoM outlines overhauls to governance and justiciary a few times. Sanhedrin may be an old oral legend, being 600 years displaced. There’s no way a Nephite in the New World would call their brother “Raca” and after having done so, be subject to the punishment of the Sanhedrin.
+
+**This passage would have been meaningless to the Nephites.** Being meaningless, they probably wouldn’t have written it down.
 
 &nbsp;
 

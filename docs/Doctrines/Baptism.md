@@ -34,7 +34,7 @@ Cool. Anyone else?
 
 Thanks, Wikipedia.
 
-I suppose the conclusion to arrive at is that an age of accountability isn’t unique to Mormonism?
+I suppose the conclusion to arrive at is that an age of accountability isn’t unique to Mormonism? Granted, these sources aren't explicitly stating this age as a qualification for baptism.
 
 &nbsp;
 
