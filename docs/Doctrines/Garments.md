@@ -235,11 +235,13 @@ I am not female, so this is an experience I can't empathize with... but was this
 
 Yeah, or they could also just be awkward, self-conscious teenagers. There are a variety of factors that could contribute to enjoying a prom experience. Again acknowledging that I am not female, I would imagine that having a bad date to accompany you could be a big factor. Maybe they don't normally wear bodices every day, so it's unfamiliar, making them conscientious of the fit?
 
-No, just had exposed *porn shoulders*.
+No, they just had *exposed porn shoulders*.
 
 &nbsp;
 
-I also found a few checklists ([1](https://www.churchofjesuschrist.org/study/friend/2010/05/modesty-checklist?lang=eng), [2](https://www.churchofjesuschrist.org/study/friend/2012/04/remembering-modesty?lang=eng)) to go through, both featured in the *Friend* magazine, targeted towards children under 10 years old. Gotta get 'em early, because if literal children didn't have those, they might not develop an unhealthy sense of [[Scrupulosity|scrupulosity]]. Also observe the release month for each of those quotes: June, June, August, June, & June. This doesn't justify breaking out your tinfoil hat, but is modesty only relevant in summer months? Why would people need to be reminded of modesty at this time of year? It's *hot* outside? Well, it's hotter down in hell, so get your heathen shoulders covered with a homely bolero jacket. Find long-sleeved swimwear. That'll help you fit right in with your peers. You won't be the subject of any judgment or scrutiny for dressing like you're scared of bare skin, nope
+I also found a few checklists ([1](https://www.churchofjesuschrist.org/study/friend/2010/05/modesty-checklist?lang=eng), [2](https://www.churchofjesuschrist.org/study/friend/2012/04/remembering-modesty?lang=eng)) to go through, both featured in the *Friend* magazine, targeted towards children under 10 years old. Gotta get 'em early, because if literal children didn't have those, they might not develop an unhealthy sense of [[Scrupulosity|scrupulosity]].
+
+Also observe the release month for each of those quotes: June, June, August, June, & June. This doesn't justify breaking out your tinfoil hat, but is modesty only relevant in summer months? Why would people need to be reminded of modesty at this time of year? It's *hot* outside? Well, it's hotter down in hell, so get your heathen shoulders covered with a homely bolero jacket. Find long-sleeved swimwear. That'll help you fit right in with your peers. You won't be the subject of any judgment or scrutiny for dressing like you're scared of bare skin, nope
 
 &nbsp;
 

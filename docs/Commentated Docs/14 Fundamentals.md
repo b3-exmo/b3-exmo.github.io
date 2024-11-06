@@ -23,8 +23,7 @@ We're a worldwide organization, but don't forget that not only is '*merica* the 
 
 &nbsp;
 
-### 1
-> *1. The prophet is the only man who speaks for the Lord in everything.*
+### *1. The prophet is the only man who speaks for the Lord in everything.*
 
 Idk man that sounds like you really want to be able to *dictate* “everything”.
 
@@ -36,8 +35,7 @@ Wait, so... do we sustain the quorum of 12 as "prophets, seers, and revelators"?
 
 &nbsp;
 
-### 2
-> *2. The living prophet is more vital to us than the Standard Works.*
+### *2. The living prophet is more vital to us than the Standard Works.*
 
 So… Existing, established records of Jesus’ teachings are less important than you. I suppose that would make sense *if* you really spoke to Jesus. From anyone left of skepticism, that sounds very authoritarian and cult-like.
 
@@ -49,8 +47,7 @@ Brigham thought Joseph was a cool guy, therefore, disregard all scriptures. Jose
 
 &nbsp;
 
-### 3
-> *3. The living prophet is more important to us than a dead prophet.*
+### *3. The living prophet is more important to us than a dead prophet.*
 
 Does this invalidate the rest of his points, since Benson is no longer living?
 
@@ -70,8 +67,7 @@ I can be satisfied to call this a product of the 80's. Truthfully, I wasn't arou
 
 &nbsp;
 
-### 4
-> *4. The prophet will never lead the Church astray.*
+### *4. The prophet will never lead the Church astray.*
 
 I do take issue with this declaration. “Trust everything I say. If it were wrong, God wouldn’t let me say it. Since I said it, that means I have God’s approval backing what I say. It’s practically God saying it!”
 
@@ -87,8 +83,7 @@ Cool faith promoting story about blind obedience even if the prophet deliberatel
 
 &nbsp;
 
-### 5
-> *5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.*
+### *5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.*
 
 Not only is the prophet NEVER wrong, ALWAYS speaks for the Lord, but is always fully qualified to authoritatively speak about anything. 🤔
 
@@ -108,8 +103,7 @@ oh for the love of
 
 &nbsp;
 
-### 6
-> *6. The prophet does not have to say “Thus saith the Lord” to give us scripture.*
+### *6. The prophet does not have to say “Thus saith the Lord” to give us scripture.*
 
 Oh good.
 
@@ -120,8 +114,7 @@ Within that talk, a quote from Brigham Young:
 Therefore, *all* words of *all* subsequent prophets are scriptural. To me, this suggests that any statement of "he was speaking as a man, not a prophet" are invalidated.
 
 &nbsp;
-### 7
-> *7. The prophet tells us what we need to know, not always what we want to know.*
+### *7. The prophet tells us what we need to know, not always what we want to know.*
 
 No room for abuse here, nope
 
@@ -143,8 +136,7 @@ Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, the
 
 &nbsp;
 
-### 8
-> *8. The Prophet is not limited by men’s reasoning.*
+### *8. The Prophet is not limited by men’s reasoning.*
 
 Definitely not a cult lmao
 
@@ -160,8 +152,7 @@ Ok thanks that helps clarify things
 
 &nbsp;
 
-### 9
-> *9. The prophet can receive revelation on any matter—temporal or spiritual.*
+### *9. The prophet can receive revelation on any matter—temporal or spiritual.*
 
 Yikes 😬
 
@@ -177,8 +168,7 @@ And here I am scrutinizing this Brigham Young quote while Benson just asserted t
 
 &nbsp;
 
-### 10
-> *10. The prophet may well advise on civic matters.*
+### *10. The prophet may well advise on civic matters.*
 
 Bigger yikes
 
@@ -186,8 +176,7 @@ The notes to [rationalize this claim](https://www.churchofjesuschrist.org/study/
 
 &nbsp;
 
-### 11
-> *11. The two groups who have the greatest difficulty in following the prophet are the proud who are learned and the proud who are rich.*
+### *11. The two groups who have the greatest difficulty in following the prophet are the proud who are learned and the proud who are rich.*
 
 "People who are *wrong* are those who are smarter than me, and those who are wealthier than me. They’re wrong. I am the smartest and richest person who matters, who you should be listening to. The others ‘have the greatest difficulty’ following me.”
 
@@ -196,8 +185,7 @@ On the flip side, this implies pretty strongly that church leadership loves the 
 Yes, there's something to be said about the psychological effects that affluence has on a human mind. Associating prosperity with morality compounds this effect. Is it surprising to anyone that a wealthy person who has their needs met doesn't see the need to upend their lifestyle? Certainly not at the behest of someone who wants 10% of their income perpetually?
 
 &nbsp;
-### 12
-> *12. The prophet will not necessarily be popular with the world or the worldly.*
+### *12. The prophet will not necessarily be popular with the world or the worldly.*
 
 Come on, now. "If I say something that mainstream disagrees with, that means I’m right." Isn't it convenient how the chosen spokesperson for God, loving creator of mankind, always says something upsetting to all of mankind? This gives the prophet a pass to *say anything*, and he can point to the opposition and nay-sayers as proof that he's right, and reflecting God's will. Following this logic, he could make some preposterous statement about zoophilia, and since lay people disagree, that means he must be right!
 
@@ -205,7 +193,8 @@ Come on, now. "If I say something that mainstream disagrees with, that means I�
 
 What? Isn't the prophet meant to be unifying people under one banner? Gathering Israel to Zion or whatever? Much like how the [[Book of Mormon#Pride cycle vs Agency|Book of Mormon's pride cycle]]™ is perpetuated by God making people prideful, why is God dividing people by sending a prophet to say divisive things? Can't God afford a PR department to run statements by first? Does God not know what things to say to his own children?
 
-"*People who ignore me or resist my words are unrighteous!*" — Someone who is definitely not a cult leader
+"*People who ignore me or resist my words are unrighteous!*" 
+— Someone who is definitely not a cult leader
 
 > *As we come closer to the Lord’s second coming you can expect that as the people of the world become more wicked, the prophet will be less popular with them.*
 
@@ -213,15 +202,13 @@ What? Isn't the prophet meant to be unifying people under one banner? Gathering 
 
 &nbsp; 
 
-### 13
-> *13. The prophet and his counselors make up the First Presidency—The highest quorum in the Church.*
+### *13. The prophet and his counselors make up the First Presidency—The highest quorum in the Church.*
 
 "I rule the organization made by God. I do. Me."
 
 &nbsp; 
 
-### 14
-> *14. The prophet and the presidency—the living prophet and the First Presidency—follow them and be blessed—reject them and suffer.*
+### *14. The prophet and the presidency—the living prophet and the First Presidency—follow them and be blessed—reject them and suffer.*
 
 "Do what I say, or *suffer*." 🤡
 

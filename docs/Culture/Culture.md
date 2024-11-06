@@ -40,9 +40,9 @@ If I don’t pay tithing into an organization that hides its financial records a
 
 If JS creates a fake bank, forges documents, engages in extramarital affairs, gouges Parley Pratt out of a home, he’s still revered as being a prophet and we don’t question his priesthood authority.
 
-But, God have mercy on that 15-year-old if he jacked off once and then prepared sacrament. Can’t tell you how many times that was the topic of 3rd hour lessons on Sunday.
+But, God have mercy on that 15-year-old if he jacked off the day before preparing sacrament. Can’t tell you how many times that was the topic of 3rd hour lessons on Sunday.
 
-Same goes for Brigham Young. If we can point to his imperfections and outright egregious behavior, and still call him a prophet, why do we need to follow any rules? Is BY going to be in the celestial kingdom despite his imperfections?
+Same goes for Brigham Young. If we can point to his imperfections and outright egregious behavior, and still call him a prophet, why do we need to follow any rules? And you expect me to want to go there, too, knowing that Brigham is there?
 
 &nbsp;
 
@@ -74,6 +74,8 @@ The American Psychological Association says in an article:
 > *Members are taught to stop doubts from entering their consciousness about the cult, often with a key phrase they repeat.*
 
 — _[Cults of hatred](https://www.apa.org/monitor/nov02/cults.html)_, American Psychology Association
+
+&nbsp;
 
 > *“Repeating a key phrase” is also known as chanting a mantra repeating mantras is a form of psychological ritual that reinforces belief. In the case of cults, it is also an important aid in brainwashing.*
 

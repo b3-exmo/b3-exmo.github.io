@@ -22,7 +22,7 @@ Please, list the ordinances I qualify for without paying any money. “Tithing i
 &nbsp;
 
 ## [[My own experience#Connecting the dots|As I See It]]
-In college, while I was taking accounting classes, I encountered a MormonLeaks whistleblower report that the LDS church had an outrageous sum of money, not being disbursed. Trying to apply what I’ve learned from accounting, I resolved that the church surely has balance sheets and reports. They _could_ set the record straight about how much money they have, and where it’s going.
+In college, during the same semester that I was taking accounting classes, I encountered a MormonLeaks whistleblower report that the LDS church had an outrageous sum of money, not being disbursed. Trying to apply what I’ve learned from accounting, I resolved that the church surely has balance sheets and reports. They _could_ set the record straight about how much money they have, and where it’s going.
 
 In General Conference, I’d listen to their [[#Internal Audits|financial audit report]]. I was not impressed. “We have examined ourselves, and found us to be following our own rules.” What rules? Why not have an external audit? Can we get more detail than a pass/fail?
 
@@ -46,18 +46,17 @@ Internal audits promise that everything is fine, and "in accordance with appropr
 ### Quoting Malachi
 > *Prove me now herewith . . . if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.*
 
-Chapter divisions weren’t present in the original revisions of the King James Version. The Bible, including the book of Malachi, was one big ol' wall of text. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
+Chapter divisions weren’t present in the original revisions of the King James Version. The Bible, including the book of Malachi, was one big ol' wall of text. Context can carry over across those drawn boundaries between chapters. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
 
 [Chapter 3 verses 8 - 11](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p8-p11#p8) are ==not directed to the general public== to contribute to God’s storehouse. They’re reprimanding the priests for misusing the tithing funds to live lavishly. Malachi is saying that this misuse of tithing is why, as 3:9 says, “[ye are cursed.](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p9#p9)”
 
 Chapter 3 verse 3 is a threat to “[the sons of Levi](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p3#p3)”. What we today call the Aaronic Priesthood was only found in those of Levitical bloodline and lineage.
 
-This is not an admonition for the general public, us common folk in [current year] reading the Old Testament. _He is talking to the priests of the temple_.
+This is not an admonition for the general public, us common folk in [current year] reading the Old Testament. _He is talking to the priests of the temple_, telling them that if they shape up, they'll be blessed.
 
 &nbsp;
 
-#### Quoted pretty often
-I'm not going for a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
+This passage in Malachi gets quoted pretty often. While I'm not sure how to prove this, what I won't do is make a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
 
 That said, here are some references I found from a cursory search:
 
@@ -104,7 +103,7 @@ I could imagine someone defending this quote by pointing to the qualifier "*exce
 
 &nbsp;
 
-## Paying a privilege!
+## Paying is a privilege!
 > *One of the blessings of membership in The Church of Jesus Christ of Latter-day Saints is ==the privilege of paying tithing==. This privilege is a double blessing. By paying tithing, Church members show their gratitude to God for their blessings and their resolve to trust in the Lord rather than in material things. They also help further the work of the Lord in the earth, blessing others of God’s children with the opportunity to learn of Him and grow in the gospel.*
 >
 > *==[[#City Creek Mall|Tithing funds are always used for the Lord’s purposes]]==—to build and maintain temples and meetinghouses, to sustain missionary work, to educate Church members, and to carry on the work of the Lord throughout the world.*

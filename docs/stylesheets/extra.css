@@ -34,6 +34,11 @@
       .typeset a {
         color: var(--md-accent-fg-color--light);
       }
+
+      .center {
+        display: block;
+        margin: 0 auto;
+    }
     }
 
 [data-md-color-scheme="slate"] {
@@ -89,4 +94,9 @@
     .md-header {
       color: var(--md-primary-bg-color);
     }
+
+    .center {
+      display: block;
+      margin: 0 auto;
+  }
 }

@@ -3,7 +3,6 @@ comments: true
 ---
 # 🍽 The Plates
 ## Acquiring the Plates
-
 ### Was it Moroni, or Nephi?
 > *Not only was his robe exceedingly white but his whole person was glorious beyond description, and his countenance truly like lightning. The room was exceedingly light, but not so very bright as immediately around his person. When I first looked upon him I was afraid, but the fear soon left me. He called me by name and said unto me that he was a messenger sent from the presence of God to me and that ==his name was Nephi==. That God had a work for me to do, and that my name should be had for good and evil among all nations kindreds and tongues. or that it should be both good and evil spoken of among all people. He said there was a book deposited written upon gold plates, giving an account of the former inhabitants of this continent and the source from whence they sprang.*
 
