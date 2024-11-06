@@ -17,7 +17,7 @@ comments: true
 
 ## Church News Room
 
-> *Generally, The Church of Jesus Christ of Latter-day Saints does not respond to criticism levied against its work. But in light of extensive publicity recently given to false accusations of so-called secret Church committees and files, the First Presidency has issued the following statement:*
+> *Generally, The Church of Jesus Christ of Latter-day Saints does not respond to criticism levied against its work. But in light of extensive publicity recently given to ==false accusations of so-called secret Church committees and files==, the First Presidency has issued the following statement:*
 > 
 > *"The Church of Jesus Christ of Latter-day Saints was established in 1830 following the appearance of God the Father and Jesus Christ to the Prophet Joseph Smith in upstate New York. This sacred event heralded the onset of the promised restitution of all things.' Many instructions were subsequently given to the Prophet including Section 123 of the Doctrine and Covenants: "And again, we would suggest for your consideration the propriety of all the saints gathering up a knowledge of all the facts, and sufferings and abuses put upon them. . . .*
 > 

@@ -37,7 +37,7 @@ I'll also observe that the document cited by Nelson describing "too frequent use
 
 I'd paraphrase the above quote as “we can’t stop people from calling us Mormons. Might as well lean into it… besides, they could be calling us worse things!”
 
-Meaning "more good" is cited as a quote from Joseph Smith himself ([1](https://www.josephsmithpapers.org/paper-summary/letter-to-editor-circa-20-may-1843/1?highlight=more+good), [2](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/198?highlight=more+good)), and oh boy is that a baffling display of etymology.
+Meaning "more good" is cited as a quote from Joseph Smith himself ([1](https://www.thechurchnews.com/1988/10/22/23263467/name-mormon-literally-means-more-good), [2](https://www.josephsmithpapers.org/paper-summary/letter-to-editor-circa-20-may-1843/1?highlight=more+good), [3](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/198?highlight=more+good)), and oh boy is that a baffling display of etymology.
 
 The matter faded out of official leadership discourse for 28 years, until...
 
@@ -80,7 +80,7 @@ Here's a [side-by-side video comparison](https://www.youtube.com/watch?v=2lKQrYU
 ### What offends God?
 > *However, it ultimately is impossible for another person to offend you or to offend me. Indeed, believing that another person offended us is fundamentally false. ==To be offended is a choice we make==; it is not a condition inflicted or imposed upon us by someone or something else.*
 
-— [And Nothing Shall Offend Them](https://www.churchofjesuschrist.org/study/general-conference/2006/10/and-nothing-shall-offend-them?lang=eng&id=p15#p15), Elder David A Bednar, General Conference October 2006
+— *[And Nothing Shall Offend Them](https://www.churchofjesuschrist.org/study/general-conference/2006/10/and-nothing-shall-offend-them?lang=eng&id=p15#p15)*, Elder David A Bednar, General Conference October 2006
 
 &nbsp;
 
@@ -106,14 +106,20 @@ Ok. Sure thing, buddy.
 
 &nbsp;
 
+> *As you think celestial, you will find yourself avoiding anything that robs you of your agency. Any addiction—be it gaming, gambling, debt, drugs, alcohol, anger, pornography, sex, or even food—==offends God==. Why? Because your obsession becomes your god. You look to it rather than to Him for solace.*
+
+— *[Think Celestial!](https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=eng&id=p18#p18)*, President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints, General Conference 2023 October
+
+&nbsp;
+
 ## A name given by enemies
-> [T]he name Mormon, and Mormonism, was ==given to us by our enemies==, but Latter Day Saints was the real name by which the church was organized.
+> *[T]he name Mormon, and Mormonism, was ==given to us by our enemies==, but Latter Day Saints was the real name by which the church was organized.*
 
 — Joseph Smith, Letter to Isaac Galland, 22 March 1839, p. 54, The Joseph Smith Papers, accessed May 26, 2024, https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/4#10621821545696261506
 
 "enemies" has a footnote; let's expand that.
 
-> As early as June 1830, an outside observer noted that because JS’s followers “believe in the Book of Mormon, they bear the name Mormonites.” In the 1830s, journalists called the religion “Mormonism,” with church members referred to as “Mormonites” and “Mormons.”
+> *As early as June 1830, an outside observer noted that because JS’s followers “believe in the Book of Mormon, they bear the name Mormonites.” In the 1830s, journalists called the religion “Mormonism,” with church members referred to as “Mormonites” and “Mormons.”*
 
 &nbsp;
 
@@ -123,14 +129,18 @@ We can't really read tone through text. Is Smith's comment resentful of the name
 
 &nbsp;
 
+Moreover, you might recall near the beginning of this page Joseph's 1843 etymology analysis concluding that ". . . The word Mormon means literally, more good." ([1](https://www.thechurchnews.com/1988/10/22/23263467/name-mormon-literally-means-more-good), [2](https://www.josephsmithpapers.org/paper-summary/letter-to-editor-circa-20-may-1843/1?highlight=more+good), [3](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/198?highlight=more+good)) It seems that between the 1839 quote above ("name given to us by our enemies") and publishing etymological findings in 1843, it's no longer offensive or upsetting... at least to us lay common folk. So how then should we interpret the idea that it's a pejorative "name given to us by our enemies?" Our enemies are, knowingly or unknowingly, calling us "more good." Calling people "more good" offends God, clearly. Is it because of grammar? "More good missionaries," "more good neighbors," "more good temples, "more good apologetics..."
+
+&nbsp;
+
 ## “I’m a Mormon” campaign
 Honestly. Unironically. Demonstrate to me that calling someone “Mormon” was offensive between the Brighamite sect break-off and 2018. Did any of the "Mormon pioneers" get in a huff and correct Omaha residents by asserting "we're actually 'a member of the church of Jesus Christ of latter-day saints' pioneers"?
 
-If you can demonstrate that "Mormon" was a mean-spirited derogatory slur at some point in time, I will direct your attention to a multi-million dollar marketing campaign going in the opposite direction, leaning into the nickname and actively promoting that LDS members should be called Mormons. This campaign included ads in those huge screens on Times Square.
+If you can demonstrate that "Mormon" was a mean-spirited derogatory slur at some point in time, I will direct your attention to a [multi-million dollar marketing campaign](https://www.theatlantic.com/national/archive/2011/11/mormon-churchs-6-million-ad-campaign-also-welcomes-trolls/335197/) going in the [opposite direction](https://en.m.wikipedia.org/wiki/I%27m_a_Mormon), leaning into the nickname and actively promoting that [LDS members should be called Mormons](https://news-uk.churchofjesuschrist.org/article/im-a-mormon). This campaign included [ads on those huge screens in Times Square](https://newsroom.churchofjesuschrist.org/article/mormon-ads-new-york-city).
 
-The *I’m a Mormon* campaign was really the centerpiece of my mission. Those were THE pass-along cards I was given to distribute. I had DVDs to hand out of that feature-length documentary. I would bring investigators to the visitor’s center with the explicit intent and purpose of showing them the cool rooms fashioned around the campaign, to show them videos of that campaign. *It worked*.
+The [*I’m a Mormon* campaign](https://newsroom.churchofjesuschrist.org/article/mormon-media-campaign-expands-across-us-australia) was really the centerpiece of my mission. Those were THE pass-along cards I was given to distribute. I had [DVDs](https://meetthemormons.com/) to hand out of that [feature-length documentary](https://www.churchofjesuschrist.org/media/video/2015-01-1000-meet-the-mormons?lang=eng). You can still [watch it online](https://www.youtube.com/watch?v=MmJaruLErcI) if you want. I would bring investigators to the visitor’s center with the explicit intent and purpose of showing them the cool rooms fashioned around the campaign, to show them [videos](https://en.m.wikipedia.org/wiki/Meet_the_Mormons) of that campaign. *It worked*.
 
-Under Monson, it was divinely inspired. Under Nelson, it is “a victory for Satan.”
+Under Monson, it was divinely inspired. Under Nelson, it is "a major victory for Satan."
 
 🙄
 
@@ -165,11 +175,9 @@ If God is offended when Christ’s name ~~gets taken out of the church~~ is omit
 >
 > *... for thus shall my Church be called in the Last days even ==the Church of Jesus Christ of Latter Day Saints==.*
 
-Eight years after being established, its proper name is revealed. Now it’s the name we’re familiar with. I'll reiterate for emphasis that, the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) / 75 = 38.9~` 39 times longer than a foundational book. Make it make sense.
+Eight years after being established, its proper name is revealed. Now it has the name we’re familiar with. I'll reiterate for emphasis that the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) / 75 = 38.9~` 39 times longer than a foundational book. Make it make sense.
 
-"church in Zion" also sounds like it's being presented (by revelation, no less) as the name of the religious organization headed by Joseph Smith, but I guess that's not the point we should focus on.
-
-I guess iterating this formally in [D&C 115](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=eng&id=4#p4) ought to settle it.
+"church in Zion" also sounds like it's being presented (by revelation, no less) as the name of the religious organization headed by Joseph Smith, but I guess that's not the point we should focus on. Iterating this formally in [D&C 115](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=eng&id=4#p4) ought to settle it.
 
 &nbsp;
 

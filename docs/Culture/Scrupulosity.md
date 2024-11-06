@@ -49,7 +49,7 @@ I ran this article through an online word count application. Out of the 1,492 wo
 
 I don't know how to feel about the idea that confessing a nonspecific sin to a bishop is required before I can receive forgiveness. As in, I need to go through a mortal man first, *then* Jesus. You know, the guy who is notorious for having performed an infinite atonement? Can't access it until you talk to someone at church who has absolutely no training or preparation on psychology. Since when did God need permission from your local bishop to forgive someone? 
 
-If you're really worried about "immorality," you could also talk to a licensed therapist. I will concede that this requires disposable income or very generous insurance, assuming you live in the States as I do, but a bishop is going to tell you that you can't take sacrament for four weeks, and then ask if you feel better about what you did. I really think that's a poor substitute.
+If you're really worried about "immorality," you could also talk to a licensed therapist. I will concede that this requires disposable income or very generous insurance, assuming you live in the States as I do. A bishop is going to tell you that you can't take sacrament for four weeks, and then ask if you feel better about what you did. I really think that's a poor substitute.
 
 Being vague about what to confess is not helpful. Weaponizing guilt and shame is unethical. Using guilt alone as a guiding principle is also not helpful. If you don't feel guilty about committing arson and burning down an orphanage, then no need to confess!
 

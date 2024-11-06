@@ -384,6 +384,6 @@ None of these should be counted as wrong, or bad. They are rhetorical devices us
 
 **Pathos** is appealing to the audience’s emotions when trying to argue. (e.g. Moroni’s promise). Having an emotional response to something is not evidence that it is true.
 
-**Logos** is appealing to logic, which is what I am attempting to do with this note.
+**Logos** is appealing to logic, which is what I am attempting to do with these notes.
 
 **Ethos** is an appeal to authority, or to ethics. If you don’t have a sufficient knowledge base to understand a logos argument, the best you can do is appeal to the consensus of the experts, but a logos argument is preferred. In general the strength of your opinion ought to be proportional to the depth of your knowledge on the subject.
