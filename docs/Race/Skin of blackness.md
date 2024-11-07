@@ -41,7 +41,7 @@ It sounds to me like Nephi's description of a “skin of blackness” must refer
 
 *Clothing*. We'll defend the idea that God cursed people who were white and delightsome "that they might not be enticing unto my people" by... giving them ugly clothes.
 
-![image](/img/bert-staredown.gif){: .center; width: 40%;}
+![image](/img/bert-staredown.gif){: .center .size40}
 
 For what it's worth, a poor fashion taste could be off-putting. I don't think the scriptural record describes much about the dating scene in ancient America. How did God cause, or force, the Lamanites to wear clothing that was dark? An affiliate deal with Hot Topic? How did God keep the Nephites' clothing white to distinguish from the Lamanites? What would prevent the Lamanites from wearing white clothing? Scripture Central, do you hear yourselves as you make this statement?
 

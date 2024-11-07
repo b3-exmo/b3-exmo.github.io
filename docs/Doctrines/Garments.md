@@ -170,7 +170,7 @@ Sure wish I could find that letter to link to. Also that this "outward expressio
 
 &mdash; *[Pornography](https://www.churchofjesuschrist.org/study/general-conference/2005/04/pornography?lang=eng&id=p47#p47)*, Elder Dallin H. Oaks, Quorum of the Twelve Apostles, General Conference 2005 April
 
-![image](/img/kabangu-eyeroll.gif){: .center}
+![image](/img/kabangu-eyeroll.gif){: .center .size40}
 
 "I, in a position of authority, have difficulty not sexualizing 'young women,' and it is *their fault*. They're becoming porn. This is an outward expression of my inward repression, and definitely not at all related to my 1946 high school experience."
 
