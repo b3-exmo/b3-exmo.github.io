@@ -170,7 +170,7 @@ Sure wish I could find that letter to link to. Also that this "outward expressio
 
 &mdash; *[Pornography](https://www.churchofjesuschrist.org/study/general-conference/2005/04/pornography?lang=eng&id=p47#p47)*, Elder Dallin H. Oaks, Quorum of the Twelve Apostles, General Conference 2005 April
 
-![image](../img/kabangu-eyeroll.gif){: .center}
+![image](/img/kabangu-eyeroll.gif){: .center}
 
 "I, in a position of authority, have difficulty not sexualizing 'young women,' and it is *their fault*. They're becoming porn. This is an outward expression of my inward repression, and definitely not at all related to my 1946 high school experience."
 
@@ -250,7 +250,7 @@ So... I guess we can demonstrate that the church has a very strange fascination 
 
 ... What's that? They made a sleeveless garment top design?
 
-![image](../img/garment-top.png){: .center}
+![image](/img/garment-top.png){: .center}
 
 If I was a woman, having grown up in the LDS church's youth program, I imagine that I would be *livid* by this development. The [Salt Lake Tribune](https://web.archive.org/web/20241106161048/https://www.sltrib.com/religion/2024/10/16/lds-temple-garments-women-rejoice/) describes this new variety targeted toward LDS members "in hot climates such as Uganda, Kenya, South Africa, the Philippines and some southern U.S. locations." 
 

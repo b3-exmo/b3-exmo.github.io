@@ -51,7 +51,7 @@ This can't be understated; 46 billion is a *subset*.
 
 > *The church also has misstated its assets on federal tax returns. On its 2007 return, Ensign Peak put down “1,000,000” for its total assets. ==The real number was about $38,000,000,000, an Ensign Peak document shows==. In later years, ==Ensign Peak wrote “over 1,000,000” on its returns==. The church followed the same practices on its own IRS returns, where it reports business income unrelated to its tax-exempt mission.*
 
-![image](../img/1mill.jpg){: .center}
+![image](/img/1mill.jpg){: .center}
 *ayyy don't worry so much, it was only off by 37,999,000,000.*
 
 But don't worry, they recognize mistakes and regret mistakes.

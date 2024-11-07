@@ -16,7 +16,7 @@ I'll have links here to sites that I'm pretty confident are owned and maintained
 
 When I first load up and select the search bar, this popup appears:
 
-![image](../img/lds-catalog.png){: .center}
+![image](/img/lds-catalog.png){: .center}
 
 > **Collection Policy**
 > 

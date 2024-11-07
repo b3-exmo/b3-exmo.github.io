@@ -7,7 +7,7 @@ I don't expect I'll delve into the details of each of Joseph's plural wives. I'v
 ---
 
 ## Mawwiage
-![image](../img/mawwiage.gif){: .center}
+![image](/img/mawwiage.gif){: .center}
 
 Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this sealing was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations.
 

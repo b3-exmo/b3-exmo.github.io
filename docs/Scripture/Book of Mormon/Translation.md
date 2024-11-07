@@ -67,7 +67,7 @@ The PDF of [the 2004 print edition](https://www.churchofjesuschrist.org/bc/conte
 I found my wife's printed copy of PMG, and sure enough, there's the same illustration.
 Meanwhile, [the web edition](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p29#p29) accessible online, as well as the mobile Gospel Library app, have both omitted that illustration. 🤔
 
-![image](../img/pmg-plates.jpeg){: .center}
+![image](/img/pmg-plates.jpeg){: .center}
 (_Photo taken from https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/_)
 
 Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-Mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
@@ -78,7 +78,7 @@ What’s worse, is that digging into these claims, I’ve felt the rhetoric that
 
 Oh, shut the fuck up.
 
-![image](../img/reading-plates.png){: .center}
+![image](/img/reading-plates.png){: .center}
 
 ### Claims against using the plates
 > *When Cowdery returned to Church membership in 1848 he spoke to an Iowa conference. His words there were recorded by Reuben Miller: “I wrote with my own pen the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet as he translated it by the gift and power of God by means of the Urim and Thummim, or as it is called by that book, holy interpreters. I beheld with my eyes and handled with my hands the gold plates from which it was translated. I also beheld the Interpreters. That book is true. … I wrote it myself as it fell from the lips of the Prophet.”*

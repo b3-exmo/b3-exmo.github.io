@@ -4,7 +4,7 @@ comments: true
 # 😏 Sealing
 What does *sealing* actually mean? 
 
-![image](../img/seals-seal.gif){: .center}
+![image](/img/seals-seal.gif){: .center}
 
 Probably not that. But, irrespective of the religious connotation, I'll be including some GIFs of seals periodically, because seals are the best animal. Fight me.
 
@@ -94,7 +94,7 @@ Ostensibly, we could have one person iterate through baptisms in behalf of every
 
 &nbsp;
 
-![image](../img/seal-silly.gif){: .center}
+![image](/img/seal-silly.gif){: .center}
 
 &nbsp;
 
@@ -169,7 +169,7 @@ Oh. It was doctrine until it wasn't anymore? Good thing we have a living prophet
 
 &nbsp;
 
-![image](../img/seal-come.gif){: .center}
+![image](/img/seal-come.gif){: .center}
 
 &nbsp;
 
@@ -196,7 +196,7 @@ If you're up for it, you could open each year and respective month, and search t
 
 &nbsp;
 
-![image](../img/seal-sleepy.gif){: .center}
+![image](/img/seal-sleepy.gif){: .center}
 
 &nbsp;
 
@@ -245,7 +245,7 @@ Yeah, Emma is in there, but... if you're going to tell me that this sealing powe
 
 &nbsp;
 
-![image](../img/seal-excited.gif){: .center}
+![image](/img/seal-excited.gif){: .center}
 
 &nbsp;
 
@@ -297,7 +297,7 @@ Under the heading "*The practice of plural marriage was a test of faith*..."
 > 
 > *You may want to remind students that as they study about plural marriage, they should remember the pattern that the Prophet Joseph Smith followed in his gospel learning. He studied, pondered, and prayed to gain knowledge. They should also remember that ==much unreliable information about plural marriage exists on the Internet== and in many print sources. Some authors who write about the Church and its history present information ==out of context==, or they include ==partial truths== that can be misleading. The intent of some of these writings is to destroy faith.*
 
-![image](../img/talkin-bout-me.gif){: .center}
+![image](/img/talkin-bout-me.gif){: .center}
 
 "Look, we're totally in the dark here. The prophet of the Restoration taught that this is required of us for salvation, but was *super* vague about it, and there aren't any reliable documents or teachings. This is such a non-issue that we have an entire lesson in this teacher's manual dedicated to how little information we have. Don't look online, though, that's where bad people are." Gotta get ahead of those rumors&mdash; we're the only trustworthy source of information, and we assert that *it's fine*. Don't ask anyone else.
 

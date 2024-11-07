@@ -76,11 +76,11 @@ I've got a separate page for some [[In General Conference|General Conference]] s
 
 — _[Chapter 12: Tithing, a Law for Our Protection and Advancement](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-lorenzo-snow/chapter-12-tithing-a-law-for-our-protection-and-advancement?lang=eng&id=title4-p12#title4)_, Teachings of Presidents of the Church: Lorenzo Snow
 
-![image](../img/tithing1.png){: .center}
+![image](/img/tithing1.png){: .center}
 
 That ellipsis and that footnote are doing some heavy lifting. What is it omitting? If only the church provided its own manuscript of that conference report. Alas, it does not. 1899 is too far back for its "official" archives to reach.
 
-![image](../img/tithing2.png){: .center}
+![image](/img/tithing2.png){: .center}
 
 >_I plead with you in the name of the Lord, and I pray that every man, woman and child ==who has means== shall pay one tenth of their income as a tithing._
 
@@ -134,7 +134,7 @@ How do we grapple with the cognitive dissonance of paying 10% of your money, but
 ### Tithing Slip
 The bottom of the tithing slip tells you everything you need to know:
 
-![image](../img/tithing3.png){: .center}
+![image](/img/tithing3.png){: .center}
 
 > _“Though reasonable efforts will be made globally to use donations as designated, all donations become the Church’s property and will be used at the Church’s sole discretion to further the Church’s overall mission.”_
 
@@ -245,7 +245,7 @@ Just say what you mean— you're trying to protect the church office building fr
 &nbsp;
 
 #### Opening Day
-![image](../img/City-Creek-opening.jpg){: .center}
+![image](/img/City-Creek-opening.jpg){: .center}
 _President Henry B. Eyring, first counselor in ==the First Presidency of The Church of Jesus Christ of Latter-day Saints== spoke at the City Creek Center opening. ==Church President Thomas S. Monson==, second counselor Dieter F. Uchtdorf and the Presiding Bishopric of the Church also attended the event 22 March 2012._
 
 — _[City Creek Center Opens](https://newsroom.churchofjesuschrist.org/article/city-creek-center-an-economic-revitalization)_, Church Newsroom

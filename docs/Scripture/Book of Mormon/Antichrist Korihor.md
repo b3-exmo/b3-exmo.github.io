@@ -189,7 +189,7 @@ Acknowledging again that this book is an abridgment, I'm going to paraphrase the
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p49-p50#p49)**: SHUT THE FUCK UP YOU CAN'T TALK ANYMORE
 
-![image](../img/neo-mouth.gif){: .center}
+![image](/img/neo-mouth.gif){: .center}
 
 (Brief reminder: there is [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man’s belief)
 
