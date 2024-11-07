@@ -16,7 +16,7 @@ We are humans with emotions. This is not something to be ashamed of. I don’t c
 &nbsp;
 
 ## Confirmation bias
-![[confirmation-bias.png]]
+![image](../img/confirmation-bias.png){: .center}
 
 &nbsp;
 
@@ -72,7 +72,7 @@ Failure to confirm the truth of an impossible counter-claim means that the claim
 
 &nbsp;
 
-![[moroni-flowchart.jpg]]
+![image](../img/moroni-flowchart.jpg){: .center}
 
 &nbsp;
 
@@ -121,7 +121,7 @@ If you got a different answer, it wasn't God, or you weren't sincere enough. Or 
 
 Does your result agree with theory? No? Something must be wrong with your experiment, then. Do it again.
 
-![[moroni-v-science.png]]
+![image](../img/moroni-v-science.png){: .center}
 
 &nbsp;
 

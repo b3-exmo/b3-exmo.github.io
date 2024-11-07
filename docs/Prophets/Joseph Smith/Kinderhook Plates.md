@@ -20,7 +20,7 @@ now wait just a damned minute there
 
 Joseph didn't translate anything, but could confidently say that it's a history of a descendant of Ham through Pharaoh. He did not try translating it through (and I cannot emphasize this enough) the "revelatory translation as he had done with the Book of Mormon."
 
-![[urkle-hmmm.gif]]
+![image](../img/urkle-hmmm.gif){: .center}
 
 Which of the following is that process?
 

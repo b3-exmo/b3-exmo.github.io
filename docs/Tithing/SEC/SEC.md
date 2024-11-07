@@ -65,7 +65,7 @@ The [SEC's page describing the form](https://www.sec.gov/divisions/investment/13
 
 > *Institutional investment managers [who,] in the course of their business and that exercise ==investment discretion over $100 million or more== in Section 13(f) securities must file Form 13F. See [Section 13(f)(1) of the Securities Exchange Act](https://www.sec.gov/about/laws/sea34.pdf).*
 
-![[joey-omg.gif]]
+![image](../img/joey-omg.gif){: .center}
 
 Sweet Jesus.
 

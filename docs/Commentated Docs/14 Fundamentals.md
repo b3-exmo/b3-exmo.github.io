@@ -130,7 +130,7 @@ Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, the
 > 
 > *“You may not like what comes from the authority of the Church. It may conflict with your political views. It may contradict your social views. It may interfere with some of your social life … Your safety and ours depends upon whether or not we follow … Let’s keep our eye on the President of the Church.” (Conference Report, October 1970, p. 152–153.)*
 
-![[robdown-facepalm.gif]]
+![image](../img/robdown-facepalm.gif){: .center}
 
 "Your safety depends on your ability to abandon critical evaluation and do whatever I say."
 

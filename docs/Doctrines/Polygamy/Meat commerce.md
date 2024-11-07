@@ -47,7 +47,7 @@ Stout appears to be a devout member of the LDS faith, and defends that religious
 
 &nbsp;
 
-![[tom-cruise-what.gif]]
+![image](../img/tom-cruise-what.gif){: .center}
 
 This apologetic comment had enough of an impact on Runtu that he [made a blog post](https://runtu.wordpress.com/2015/02/27/how-not-to-do-apologetics/) to reply to it.
 

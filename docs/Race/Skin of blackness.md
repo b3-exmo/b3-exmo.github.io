@@ -41,7 +41,7 @@ It sounds to me like Nephi's description of a “skin of blackness” must refer
 
 *Clothing*. We'll defend the idea that God cursed people who were white and delightsome "that they might not be enticing unto my people" by... giving them ugly clothes.
 
-![[bert-staredown.gif]]
+![image](../img/bert-staredown.gif){: .center}
 
 For what it's worth, a poor fashion taste could be off-putting. I don't think the scriptural record describes much about the dating scene in ancient America. How did God cause, or force, the Lamanites to wear clothing that was dark? An affiliate deal with Hot Topic? How did God keep the Nephites' clothing white to distinguish from the Lamanites? What would prevent the Lamanites from wearing white clothing? Scripture Central, do you hear yourselves as you make this statement?
 
@@ -63,7 +63,7 @@ god dammit
 
 > *Others have suggested that the mark could have been an ancient tattoo. Tattooing was known in the ancient Near East and in the Americas among various Indigenous tribes in both North and South America. In Mesoamerica, it can be documented from as early as 1400 BC among the Olmec and, later, the Maya, as the practice was continued up through the Spanish Conquest. Most tattooing in ancient America was black, but some evidence exists for red tattoos at Chichen Itza, thus accounting for both the black or dark skin of the Lamanites and the red mark of the Amlicites ([Alma 3:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=eng&id=p4#p4)).*
 
-![[sigh-in-hebrew.gif]]
+![image](../img/sigh-in-hebrew.gif){: .center}
 
 Look, I don't even know what to say at this point. Yeah, tattooing is also a practice among humans, irrespective of God's sore cursings. Are we implying that God tattooed the Lamanites in order to make them loathsome? Also that this curse is only present "[save they shall repent of their iniquities](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p22#p22)?" And also is hereditary?
 
