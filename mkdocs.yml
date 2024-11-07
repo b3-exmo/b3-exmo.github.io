@@ -3,8 +3,8 @@ site_name: b3-exmo's notes
 theme:
   name: material
   icon:
-    logo: img/bee-icon.png
-  favicon: img/bee-icon.png
+    logo: bee-icon.png
+  favicon: bee-icon.png
   custom_dir: overrides
   palette:
   # Light mode
