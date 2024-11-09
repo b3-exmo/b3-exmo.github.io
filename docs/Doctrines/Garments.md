@@ -16,7 +16,7 @@ The advice from the First Presidency is cited to a "First Presidency letter, Oct
 
 Maybe I'm just a whiny little bitch, but I had always felt like garments were hot and uncomfortable. I am not a woman so I haven't had to deal with adverse effects on female anatomy. One refrain I've heard from women is the inclination toward infections & poor breathability. That is not my experience, so I can't make meaningful commentary on it outside of observing that this doesn't appear to be a divine design. Didn't God create our bodies, and also design these garments? Wouldn't He know how to make clothing that is not actively causing harm? Are modern church leaders consulting God in this design process? Is it safe to conclude that these are the products of men with fifty-year-long careers in law?
 
-I do know that poor diet choices that result in some juicy flatulence means that laundering the garments was a real pain. The fabric is dyed white, meaning that bleach makes it worse. Truth be told, that was a better incentive for me to eat right than the Word of Wisdom had been.
+I do know that poor diet choices that result in some juicy flatulence means that laundering the garments was a real pain. The fabric is dyed white, meaning that bleach only makes stains worse. Truth be told, dealing with laundry was a better incentive for me to eat right than the Word of Wisdom ever had been.
 
 &nbsp;
 
@@ -25,8 +25,6 @@ I do know that poor diet choices that result in some juicy flatulence means that
 > *Explain that those who have participated in the temple ceremony are ==privileged== to wear the garment of the holy priesthood. In a statement to the Church, the First Presidency said [... it] is an ==outward expression of an inward commitment== to follow the Savior.*
 
 &mdash; *[Lesson 6: Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/lesson-6?lang=eng&id=p20-p21#p20)*, Temple Preparation class manual
-
-The manual then quotes that 1988 First Presidency letter.
 
 "This is important. You should understand how important it is. *It's a privilege.*" Yeah okay so what does it mean, though?
 
@@ -82,6 +80,8 @@ Telling me that it's "an outward expression of an inward commitment" doesn't tel
 
 Is this one of those topics that is [[Too Sacred to Share|too sacred to share]]? Really, now. There are symbols embroidered into modern garments. Can't we get an explanation for those?
 
+&nbsp;
+
 > *The marks in the garments are sacred symbols. The V-shaped symbol on the left breast was referred to as "The Compasses", while the reverse-L-shaped symbol on the right breast was referred to by early church leaders as "The Square".*
 > 
 > *According to a description by church president John Taylor in 1883, the "Square" represents "the justice and fairness of our Heavenly Father, that we will receive all the good that is coming to us or all that we earn, on a square deal", and the "Compasses" represents "the North Star". ... [T]he collar represented the idea that the Lord's "yoke is easy and burden is light", or the "Crown of the Priesthood"; the double-knotted strings represented "the Trinity" and "the marriage covenant"; the navel mark represents "strength in the navel and marrow in the bones"; and the knee mark represents "that every knee shall bow and every tongue confess that Jesus is the Christ".*
@@ -92,9 +92,9 @@ Is this one of those topics that is [[Too Sacred to Share|too sacred to share]]?
 
 &nbsp;
 
-... Was that so hard? In under one minute, Wikipedia just ran circles around the dozen or so LDS materials I had read that skirted the issue, insisting that it has "deep symbolic significance" and contrasting outward and inward. Those descriptions from McKay are the ones that I remember hearing as a practicing Mormon. I will also concede that those explanations I had heard were vague recollections at best, when every day I put them on. I was much more worried about how often they shrank in the laundry, resulting in a poor fit. I was also anxious about the possibility of them becoming visible to a passerby, and how would I explain wearing two layers of clothes in the summer months while living in Florida.
+... Was that so hard? In three paragraphs, Wikipedia just ran circles around the dozen or so LDS materials I had read that skirted the issue, insisting that it has "deep symbolic significance" and contrasting outward and inward. Those descriptions from McKay are the ones that I remember hearing as a practicing Mormon. I will also concede that those explanations I had heard were vague recollections at best, when every day I put them on. I was much more worried about how often they shrank in the laundry, resulting in a poor fit. I was also anxious about the possibility of them becoming visible to a passerby, and how would I explain wearing two layers of clothes in the summer months while living in Florida.
 
-Also, hold the phone, now&mdash; a collar? Double-knotted strings? I have some follow-up questions here. Those things with divinely appointed symbolism were removed some time between 1883 and 1926, presumably because of the industrial revolution making textile manufacturing more streamlined. Making the two-piece garment into a t-shirt and shorts style is presumably more accessible, easier to make, easier to don, and presumably cheaper. Who knew that God's eternal covenants would be so heavily influenced by capitalism? Moreover, in the linked Wikipedia article is an image of the classic garment, a one-piece, long-sleeved, full-length article of clothing, featuring a collar and strings to tie together. Go check it out if you'd like to. 
+Also, hold the phone, now&mdash; a collar? Double-knotted strings? I have some follow-up questions here. Those things with divinely appointed symbolism were removed some time between 1883 and 1926, likely because of the industrial revolution making textile manufacturing more streamlined. Making the two-piece garment into a t-shirt and shorts style is presumably more accessible, easier to make, easier to don, and presumably cheaper. Who knew that God's eternal covenants would be so heavily influenced by capitalism? Moreover, in the linked Wikipedia article is an image of the classic garment, a one-piece, long-sleeved, full-length article of clothing, featuring a collar and strings to tie together. Go check it out if you'd like to. 
 
 For President John Taylor to share this insight in 1883 makes me wonder if the symbolism had explanations during Smith or Young's respective presidencies. I know that there exists lots of reading material about the intersection of Free Masonry and Mormon temples, including those symbols. Did folks during Smith's presidency have an outlined symbolism explanation?
 
@@ -151,7 +151,7 @@ Wouldn't you know it, this section also shares the following insight: *"When you
 
 &nbsp;
 
-I would like to find some scriptural basis for all of this. Of the canon justifications I've found, there's [Exodus 28:2-4](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/28?lang=eng&id=p2-p4#p2), reading "Aaron should have holy garments; here's what they should look like," and [Exodus 39:41](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/39?lang=eng&id=p41#p41), reading "priests should have 'cloths of service.'" Go on and read those passages and tell me how did we get from a specific bloodline lineage having ceremonial clothes to "outward expression of inner commitment" yeast infection underpants. 
+I would like to find some scriptural basis for all of this. Of the canon justifications I've found, there's [Exodus 28:2-4](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/28?lang=eng&id=p2-p4#p2), reading "Aaron should have holy garments; here's what they should look like," and [Exodus 39:41](https://www.churchofjesuschrist.org/study/scriptures/ot/ex/39?lang=eng&id=p41#p41), reading "priests should have 'cloths of service.'" Go on and read those passages and tell me how did we get from a specific blood lineage having ceremonial clothes to "outward expression of inner commitment" yeast infection underpants. 
 
 If you want to be extra spicy, you could [search the Old Testament](https://www.churchofjesuschrist.org/search?facet=scriptures&lang=eng&query=garment&subfacet=ot&page=1) for the word "garment" and see if you can find the connection. Invoking [Occam’s Razor](https://www.britannica.com/topic/Occams-razor), choosing the simpler of two explanations, leads me to conclude that this is plagiarized Free Mason symbolism.
 
@@ -225,7 +225,7 @@ What? No, we're not a cult.
 
 &mdash; *[Modest by Design](https://www.churchofjesuschrist.org/study/new-era/2010/06/modest-by-design?lang=eng&id=p5-p7#p5)*, Julia Woodbury, New Era June 2010
 
-I am not female, so this is an experience I can't empathize with... but was this "rewarding?" There could be some social value in bonding with Grandma over a craft. I have little experience with sewing to create my own Halloween costumes, and must admit that it was kind of fun. How intrinsically satisfying was it to put a bolero jacket over your "cute black dress?" If your entire worth as a human is contingent upon temple-[[Culture#Worthiness|worthiness]], then I guess it's very fulfilling...?
+I am not female, so this is an experience I cannot empathize with... but really, was this "rewarding?" There could be some social value in bonding with Grandma over a craft. I have little experience with sewing to create my own Halloween costumes, and must admit that it was kind of fun. How intrinsically satisfying was it to put a bolero jacket over your "cute black dress?" If your entire worth as a human is contingent upon temple-[[Culture#Worthiness|worthiness]], then I guess it's very fulfilling...?
 
 &nbsp;
 
@@ -239,9 +239,9 @@ No, they just had *exposed porn shoulders*.
 
 &nbsp;
 
-I also found a few checklists ([1](https://www.churchofjesuschrist.org/study/friend/2010/05/modesty-checklist?lang=eng), [2](https://www.churchofjesuschrist.org/study/friend/2012/04/remembering-modesty?lang=eng)) to go through, both featured in the *Friend* magazine, targeted towards children under 10 years old. Gotta get 'em early, because if literal children didn't have those, they might not develop an unhealthy sense of [[Scrupulosity|scrupulosity]].
+I also found a few checklists ([1](https://www.churchofjesuschrist.org/study/friend/2010/05/modesty-checklist?lang=eng), [2](https://www.churchofjesuschrist.org/study/friend/2012/04/remembering-modesty?lang=eng)) to go through, both featured in the *Friend* magazine, targeted towards children under 10 years old. Gotta get 'em early, because if literal children didn't have those checklists, they might not develop an unhealthy sense of [[Scrupulosity|scrupulosity]].
 
-Also observe the release month for each of those quotes: June, June, August, June, & June. This doesn't justify breaking out your tinfoil hat, but is modesty only relevant in summer months? Why would people need to be reminded of modesty at this time of year? It's *hot* outside? Well, it's hotter down in hell, so get your heathen shoulders covered with a homely bolero jacket. Find long-sleeved swimwear. That'll help you fit right in with your peers. You won't be the subject of any judgment or scrutiny for dressing like you're scared of bare skin, nope
+Also observe the release month for each of those quotes: June, June, August, June, & June. This doesn't justify breaking out your tinfoil hat, but is modesty only relevant in summer months? Why would people need to be reminded of modesty at this time of year? It's *hot* outside? You'd like to wear less cumbersome clothes in hot weather? Well, it's hotter down in hell, so get your heathen shoulders covered with a homely bolero jacket. Find long-sleeved swimwear. That'll help you fit right in with your peers. You won't be the subject of any judgment or scrutiny for dressing like you're scared of bare skin, nope
 
 &nbsp;
 

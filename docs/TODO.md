@@ -8,80 +8,81 @@ comments: true
 - [ ] Readability
 	- [ ] Ellipses correction
 	- [ ] Indentation
+	- [x] Centering images
 - [x] Static Navigation (w/ emoji)
 
 I'm not entirely certain, but I think I might be using ellipses improperly for a text medium. Ought to check.
 
 Also, indenting paragraphs should make the notes feel a lot less like a wall of text rambles.
 
+&nbsp;
+
 ## Topics
 For many of these topics, I do have some existing notes, but they aren't in a presentable condition. Others, I've yet to write down some thoughts on. I have a day job, is all. I'll get to it.
 
-
-- [ ] Agency (Moral / Free?)
 - [ ] American Frontier Magic
-- [ ] Anachronisms
-- [ ] "Anti"
 - [ ] Anti-LGBT
-- [ ] Apostles
-- [ ] Scripture: Book of Mormon: Literacy in Ancient America
-- [ ] Scripture: Book of Mormon: Plates of GOLD
-- [ ] Scripture: Book of Mormon: Witnesses
-- [ ] Church Internal Audit Department
+- [ ] Before Utah
+	- [ ] Isaac Hale
+	- [ ] Kirtland Safety Society
+	- [ ] Nauvoo Expositor
+	- [ ] Priesthood Restoration
+	- [ ] Succession crisis
+- [x] Book of Mormon
+	- [x] Anachronisms
+	- [ ] Lehi's Dream
+	- [ ] Literacy in Ancient America
+	- [ ] Plates of ✨GOLD✨
+	- [ ] Witnesses
+- [ ] Christianity > Second Coming
 - [ ] Conflation
 - [ ] Cults
-- [ ] Discernment
-- [ ] Doctrine
-- [ ] Doctrine: Priesthood Authority
+- [ ] Culture
+	- [ ] Persecution Complex
+	- [ ] Prosperity Gospel
+	- [ ] Scrupulosity
+- [x] Doctrines
+	- [ ] Agency (Moral / Free?)
+	- [ ] Law of Chastity (self-abuse 😱)
+	- [ ] Polygamy: Temple Lot Case
+	- [ ] Priesthood Authority
+	- [ ] Priesthood & Discernment
+	- [ ] "Revelations" from God
 - [ ] "Doesn't appear in the scriptures"
-- [ ] Don't look elsewhere for info
-- [ ] Family, Proclamation to the World
-- [ ] For-profit
-- [x] [[Helen Kimball|Helen Kimball]]
-- [ ] Isaac Hale
+- [ ] Don't look elsewhere for info / Approved Sources
+	- [ ] Reading Material
+	- [x] Repudiating the Journal of Discourses
 - [ ] James Strang
-- [ ] Kirtland Safety Society
-- [x] Korihor / Antichrist
-- [ ] Law of Chastity (self-abuse 😱)
 - [ ] Massacre: Fort Utah
 - [ ] Massacre: Mountain Meadows
-- [ ] Membership & attendance statistics
-- [ ] MOON MEN
-- [x] Moroni's promise
-- [ ] Nauvoo Expositor
-- [ ] NDA's / Nondisclosure Agreements
-- [ ] Persecution complex
-- [x] Poetry
-- [x] Polygamy: Sealing
-- [ ] Priesthood Restoration
-- [ ] Promptings
-- [ ] Prophets
-- [ ] Prophets: George A Smith
-- [ ] Prophets: Gordon Hinckley
+- [ ] Modern Church
+	- [ ] Church Internal Audit Department
 	- [ ] Ensign Peak
-- [ ] Prophets: Joseph Smith & Legal Trouble
-- [ ] Prophets: Russel M Nelson
-- [ ] Prophets: Thomas S Monson
-- [ ] Prophets: Wilford Woodruff
-- [ ] Prosperity Gospel
+	- [ ] Family, Proclamation to the World
+	- [ ] For-profit ventures / Beneficial Life
+	- [ ] Historians
+	- [ ] Membership & attendance statistics
+	- [ ] NDA's / Nondisclosure Agreements
+	- [ ] November 2015
+	- [ ] Whitewashing History
+- [ ] MOON MEN
+- [ ] Promptings
+- [x] Prophets
+	- [ ] George A Smith
+	- [ ] Gordon Hinckley
+	- [ ] Joseph Smith & Legal Trouble
+	- [ ] Russel M Nelson
+	- [ ] Thomas S Monson
+	- [ ] Wilford Woodruff
 - [ ] Questions to ask
-- [ ] Race: Bob Jones University & BYU
-- [ ] Race: More quotes from prophets
-- [ ] Reading Material
+- [x] Race
+	- [ ] Bob Jones University & BYU
+	- [ ] More quotes from prophets
 - [ ] Reed Smoot Hearings
-- [ ] Repudiating the Journal of Discourses
-- [ ] Revelations from God
-- [ ] Scrupulosity
 - [ ] Statehood of Utah
-- [ ] Succession crisis
-- [ ] Temple
+- [ ] Temples
 - [ ] Temple worthiness
-- [ ] Testimony, faith, bias
-- [ ] The "Temple Lot Case" pertaining to polygamy
-- [ ] Tithing: Beneficial Life
-- [ ] Tithing: For-Profit
-- [ ] Tithing: Lawsuits
-- [x] "Too sacred to share"
-- [ ] Whitewashing History
+- [x] Testimony, faith, bias
+- [ ] Tithing > Lawsuits
 - [ ] Women & Misogyny
 - [ ] Word of Wisdom

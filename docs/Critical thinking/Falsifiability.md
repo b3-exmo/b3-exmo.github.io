@@ -2,9 +2,7 @@
 comments: true
 ---
 # 👎 Falsifiability
-Apologies in advance if these examples sound condescending or reductive. I'm using them for illustrative purposes to make sure we're on the same page, you and I. That said, I'm likely going to make a fool of myself here; I don't count myself well-versed in philosophy, I just have an internet connection.
-
-&nbsp;
+I don't consider myself well-versed in philosophy, but I do have an internet connection. That's practically the same thing, right?
 
 ## What is it?
 > *A [theory](https://en.wikipedia.org/wiki/Scientific_theory "Scientific theory") or [hypothesis](https://en.wikipedia.org/wiki/Hypothesis "Hypothesis") is **falsifiable** (or **refutable**) if it can be logically contradicted by an [empirical test](https://en.wikipedia.org/wiki/Empirical_test "Empirical test").*

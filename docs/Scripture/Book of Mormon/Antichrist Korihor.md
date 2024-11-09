@@ -218,7 +218,7 @@ Though his next idea seems strange to me; having always known (after Korihor's c
 
 I don't know how to interpret an angel of God denying God, unless there's some other subtext here. Is the perception that this otherworldly messenger telling Korihor to leave a false God, and return to a [[True|true]] God? That would make more sense. Korihor's perspective would then be "I have seen (what I believe to be) an angel of God, who has charged me to preach in your land. I opted to do this by observing that you Nephites have conflated belief and knowledge, thereby I intend to inspire critical thinking to change your misplaced beliefs."
 
-Irrespective of my extrapolated assumption, ==an angel appearing is a very compelling defense==. An angel appeared to Alma several chapters back, and Alma took that angel's words at face value. Korihor did the same thing, and gets shit on for believing an angel. ... Who are the good guys in this story?
+Irrespective of my extrapolated assumption, ==an angel appearing is a very compelling defense==. An angel appeared to Alma several chapters back, and Alma took that angel's words at face value. Korihor did the same thing, and gets shit on for believing an angel! Who are the good guys in this story?
 
 In today's LDS church, we have [modern revelation](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng&id=p4-p8#p4) about "the devil [appearing] as an angel of light." If I am to believe that the modern LDS church is a [[Restoration|restoration]] of God's one true church, and that this is the same church that Korihor is criticizing and that Alma is defending, I should expect that same doctrine of an unchanging, eternal God would be present in Alma's time. Alma advises Korihor about the words of prophets written on scriptural records. I should hope that they have the awareness of the same doctrines that Joseph Smith had when [D&C 129](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng) was recorded. The section heading doesn't state that this is revelation from the Lord, but it is in a book of scripture nonetheless.
 
@@ -268,7 +268,7 @@ Shifting our focus away from Alma being a real bitch-and-a-half about all of thi
 
 > ***58** And it came to pass that they were all convinced of the wickedness of Korihor; therefore they were all converted again unto the Lord; and this put an end to the iniquity after the manner of Korihor. ==And Korihor did go about from house to house, begging food for his support==.*
 
-Everyone else who Korihor talked to gets forgiven for believing Kirohor's words. Korihor, on the other hand, believed an angel, gets fucked over sideways, and is not forgiven even after committing to change? Very cool, very Christlike. 👍
+Everyone else who Korihor talked to gets forgiven for believing Korihor's words. Korihor, on the other hand, believed an angel, gets fucked over sideways, and is not forgiven even after committing to change? Very cool, very Christlike. 👍
 
 &nbsp;
 
@@ -281,13 +281,11 @@ What the fuck
 ### The Moral of the Story
 > ***60** And ==thus we see== the end of him who perverteth the ways of the Lord; and thus we see that the ==devil== will not support his children at the last day, but doth speedily drag them down to hell.*
 
-The... The *devil*?? Bitch, how many prophets has God let die? Which party in this dualistic universe refused to save Abinadi from being burned alive? Which side was unwilling to give Korihor shelter and sustenance? The group of unembodied evil spirits, or those with physical forms who could provide food but were told not to because Alma got his feelings hurt?
-
-This verse does not describe the Lord God I had been taught about in my time as a practicing Mormon.
+The... *The devil*?? Bitch, how many prophets has God let die? Which party in this dualistic universe refused to save Abinadi from being burned alive? Which side was unwilling to give Korihor shelter and sustenance? The group of unembodied evil spirits, or those with physical forms who could provide food but were told not to because Alma got his feelings hurt? This verse does not describe the Lord God I had been taught about in my time as a practicing Mormon!
 
 Alma and Amulek were forced to witness the converts from their missionary efforts [get burned alive right before their eyes](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng&id=8-11#p8) back in chapter 14. Were they perverting the ways of the Lord? Doesn't seem like God protected them! Later on in 3 Nephi we've got "many" [unnamed martyrs](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=eng&id=15#p15), killed for testifying of Christ. Don't "thus we see" me about the devil not protecting denizens, God isn't doing a very good job at this either!
 
-What other cases of martyrdom do we see in contrast to this "thus we see" lesson to be learned from believing an angel when it appears to you? Rather than copy a list here, I'll point you to the LDS scriptural [topical guide](https://www.churchofjesuschrist.org/study/scriptures/tg/martyrdom?lang=eng&id=p32-p37#p32) entry, outlining martyrdom in the Book of Mormon, the [index of the triple combination](https://www.churchofjesuschrist.org/study/scriptures/triple-index/martyrdom?lang=eng&id=p1-p8#p1) on martyrdom, and the [guide to the scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/martyr-martyrdom?lang=eng&id=p6-p8#p6) references. The translator of this record, Joseph Smith himself, gets martyred, and... well, whether Joseph was perverting the ways of the Lord is an issue [[Polygamy|too big to tackle here]]. *Thus we see* that Korihor is the exception here. The moral of this story is that you're going to get screwed over by a divine power, irrespective of which one you follow. *Thus we see* Alma being a dickwad and refusing to forgive someone who did exactly what he did years prior. *Thus we see* the prophet denying someone salvation because his feelings got hurt, because he was accused of getting rich, and because Korihor delineated faith vs knowledge.
+There exist other cases of martyrdom in contrast to this "thus we see" lesson to be learned from believing an angel when it appears to you. Rather than copy a list here, I'll point you to the LDS scriptural [topical guide](https://www.churchofjesuschrist.org/study/scriptures/tg/martyrdom?lang=eng&id=p32-p37#p32) entry, outlining martyrdom in the Book of Mormon, the [index of the triple combination](https://www.churchofjesuschrist.org/study/scriptures/triple-index/martyrdom?lang=eng&id=p1-p8#p1) on martyrdom, and the [guide to the scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/martyr-martyrdom?lang=eng&id=p6-p8#p6) references. The translator of this record, Joseph Smith himself, gets martyred, and... well, whether Joseph was perverting the ways of the Lord is an issue [[Polygamy|too big to tackle here]]. *Thus we see* that Korihor is the exception here. The moral of this story is that you're going to get screwed over by a divine power, irrespective of which one you follow. *Thus we see* Alma being a dickwad and refusing to forgive someone who did exactly what he did years prior. *Thus we see* the prophet denying someone salvation because his feelings got hurt, because he was accused of getting rich, and because Korihor delineated faith vs knowledge.
 
 *Thus we see* that you don't dare question authority.
 
@@ -301,14 +299,14 @@ Stay with me, now&mdash; I've got a challenge for you to try on your own time.
 
 Re-read this chapter, but skip verses 6, 12, and 60. Doing that will remove the passages calling Korihor an Antichrist, and doesn't wrap it all up with the moral lesson at the end. Because without those verses, this is a story of a missionary who is teaching in earnest, in response to what he perceives as a divine calling. He gets rejected, persecuted for his beliefs, bound and brought before law enforcement, eventually cursed by the god of these people, and he gets trampled to death for it all. If we don't frame it in the context of "this guy is a [Snidely Whiplash](https://en.wikipedia.org/wiki/Snidely_Whiplash)-style cartoonish villain," this is a tragic story of someone who is just trying their best to follow their religious convictions. Korihor is met with heavy resistance, and Alma the Younger, who I will iterate again is the very antithesis of Christlike compassion, even with empathy for Korihor's experience, curses him and leaves him to die alone and hungry.
 
-Who is the anti-Christ here? Is it Korihor who is just trying his best, or Alma who threw out everything Christ taught in order to make a point? Straight up, I'm siding with Korihor here. If I was part of a church professing of Christ, and saw the leadership do what Alma does in this chapter, I'd be out. *I would leave*.
+Who is the antichrist here? Is it Korihor who is just trying his best with limited information, or is it Alma who threw out everything Christ taught in order to make a point? Straight up, I'm siding with Korihor here. If I was part of a church professing of Christ, and saw the leadership do what Alma does in this chapter, I'd be out. *I would leave*.
 
 &nbsp;
 
 ## In General Conference
 > *As we diligently focus on the Savior and then follow His pattern of focusing on joy, we need to avoid those things that can interrupt our joy. ==Remember Korihor, the anti-Christ?== Spewing falsehoods about the Savior, Korihor went from place to place until he was brought before a high priest...*
 > 
-> *Anything that opposes Christ or His doctrine will interrupt our joy. That includes the philosophies of men, so abundant online and in the blogosphere, which do exactly what ==Korihor== did.*
+> *Anything that opposes Christ or His doctrine will interrupt our joy. That includes the philosophies of men, so abundant online and in the blogosphere, which ==do exactly what Korihor did==.*
 
 &mdash; *[Joy and Spiritual Survival](https://www.churchofjesuschrist.org/study/general-conference/2016/10/joy-and-spiritual-survival?id=p27-p28&lang=eng#p27)*, President Russell M. Nelson, President of the Quorum of the Twelve Apostles, General Conference October 2016
 
@@ -332,7 +330,7 @@ That is a bold claim, that Korihor was unrepentant and wouldn't have changed his
 
 &nbsp;
 
-An excerpt from *[Finding Safety in Counsel](https://www.churchofjesuschrist.org/study/general-conference/1997/04/finding-safety-in-counsel?id=p9-p11&lang=eng#p9)*, Elder Henry B. Eyring of the Quorum of the Twelve Apostles, General Conference April 1997 is too lengthy for me to comfortably place here; across three paragraphs, Eyring demonstrates that a high word count can spin Korihor's demise as faith-promoting. I'd summarize the thesis of this excerpt as "Prophetic counsel makes sense if you have faith. Does not make sense? You don't have enough faith. That's your fault, not a fault of prophets."
+An excerpt from *[Finding Safety in Counsel](https://www.churchofjesuschrist.org/study/general-conference/1997/04/finding-safety-in-counsel?id=p9-p11&lang=eng#p9)*, Elder Henry B. Eyring of the Quorum of the Twelve Apostles, General Conference April 1997 is too lengthy for me to comfortably place here; across three paragraphs, Eyring demonstrates that a high word count can spin Korihor's demise as faith-promoting. I'd summarize the thesis of this excerpt as "Prophetic counsel makes sense if you have faith. Does it not make sense to you? You don't have enough faith. That's your fault, not a fault of prophets."
 
 &nbsp;
 

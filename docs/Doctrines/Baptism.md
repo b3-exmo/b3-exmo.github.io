@@ -47,9 +47,11 @@ I suppose the conclusion to arrive at is that an age of accountability isn’t u
 
 It’s an amazing coincidence how many 8 year olds have chosen to have the same religious beliefs as their parents, don’t you think?
 
-Do 8 year old children really decide on their own to be baptized?
+Do 8 year old children really decide on their own to be baptized? This is not a rhetorical question. Do they? What factors influence that decision, however small?
 
-This is not a rhetorical question. Do they? What factors influence that decision, however small?
+"Little Timmy, would you like to be the center of attention while all your friends and their families praise your actions, then get treats with Grandpa and also make Jesus happy? Then at church we'll say a special prayer just for you! Or would you rather do none of that and feel like a disappointment?"
+
+Then, in order to leave, Timmy would have to be over 18 and get his resignation letter printed, notarized, and mailed. What? No, we're not a cult.
 
 &nbsp;
 

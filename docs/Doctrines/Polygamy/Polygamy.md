@@ -45,11 +45,11 @@ This presents a problem. The Brighamite sect of Mormonism leaned pretty hard int
 Smith had some polygamous escapades, and has had plenty of slander thrown at him— some founded, some unfounded. Brigham Young and subsequent church leaders were much, much worse.
 
 ## Building up population
-Are you sure? I’ve encountered many insistent explanations that when Joseph Smith practiced polygamy, there was no boinking involved.
+Are you sure? I’ve encountered many insistent explanations that when Joseph Smith practiced polygamy, there was no [[Consummation|boinking]] involved.
 
 If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. Plenty of souls had human bodies in 1830, but still, LDS church leaders needed to be blessed with multiple wives. **Don’t tell me it was to build population.**
 
-Brigham Young did teach that Adam had multiple wives, which detail was omitted from Genesis and Pearl of Great Price, and temple ceremonies. Why? That would be a pretty convincing precedent to be restored. Can both be true?
+Brigham Young did teach that Adam had multiple wives, which detail was omitted from Genesis, Pearl of Great Price, and temple ceremonies. Why? That would be a pretty convincing precedent to be restored. Can both be true?
 
 Polygamy being only about population can likely be traced to Jacob 2:30:
 
@@ -92,24 +92,24 @@ US Census Bureau didn’t have granular detail in the 1800’s, but it’s got e
 
 &nbsp;
 
-The 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married. They have two data points that you can try and guess the marriage age. The first is a field for “Married in the last year”. If that is checked, then the person’s age is most likely their age when they were married. The second is a field for “Age of eldest child”.Subtracting that from the parents age gives a really rough estimate of marriage age.
-
-The 1900 census also has the age and marriage status but it also has a field for “Years of marriage”.  Subtracting that from the age should give the marriage age.
-
-Based off that data, here’s the numbers that I got:
-
-- **1850 census:**
-    - Total married women for the USA: 3,156,838.
-    - Total married women under 18: 39,907 (1.3%).
-    - Total married women who gave birth before 18: 269,997 (8.6%)
-- **1880 census**:
-    - Total married women for the USA: 8,433,603.
-    - Total married women under 18: 68,473 (0.8%).
-    - Total married women who gave birth before 18: 649,562 (7.7%)
-- **1900 census** (this is a 5% sampling of the actual census):
-    - Total married women for the USA: 671,976.
-    - Total married women under 18: 5,310 (0.8%).
-    - Total married women who were married before 18: 107, 283 (16%)
+> The 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married. They have two data points that you can try and guess the marriage age. The first is a field for “Married in the last year”. If that is checked, then the person’s age is most likely their age when they were married. The second is a field for “Age of eldest child”. Subtracting that from the parents age gives a really rough estimate of marriage age.
+> 
+> The 1900 census also has the age and marriage status but it also has a field for “Years of marriage”.  Subtracting that from the age should give the marriage age.
+> 
+> Based off that data, here’s the numbers that I got:
+> 
+> - **1850 census:**
+>     - Total married women for the USA: 3,156,838.
+>     - Total married women under 18: 39,907 (1.3%).
+>     - Total married women who gave birth before 18: 269,997 (8.6%)
+> - **1880 census**:
+>     - Total married women for the USA: 8,433,603.
+>     - Total married women under 18: 68,473 (0.8%).
+>     - Total married women who gave birth before 18: 649,562 (7.7%)
+> - **1900 census** (this is a 5% sampling of the actual census):
+>     - Total married women for the USA: 671,976.
+>     - Total married women under 18: 5,310 (0.8%).
+>     - Total married women who were married before 18: 107, 283 (16%)
 
 *From <[https://www.mormondialogue.org/topic/67255-teen-age-marriage-ages-of-the-late-1800s/](https://www.mormondialogue.org/topic/67255-teen-age-marriage-ages-of-the-late-1800s/)>*
 

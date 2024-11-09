@@ -10,7 +10,9 @@ I'll reveal part of my thought process here: flaws give depth to character. The 
 
 Life isn't like that. Slavery abolitionist [John Brown](https://en.wikipedia.org/wiki/John_Brown_(abolitionist)) is a fascinating historical figure to read about because of the opposition he faced and overcame, which was pretty clearly documented. The version of Joseph Smith that I grew up with is that he was always right, inspired of God, got persecuted by ne'er-do-wells, brought about the fullness of Christ's church, and clearly did a great job of it because it's still around today, 200 years later. 
 
-As an adult, I'm finding out about domestic disputes with Emma, evolving theology, and actual reasons for being incarcerated that are more profound than "[[Satan]] make bad thing happen to Jesus-man". To me, these negative aspects make Smith feel more like a real human, rather than an idealized, romanticized image of 19th century frontier living. Reality isn't so polished and presentable, and I'm skeptical of presentations of history that sound too good to be true. If a 19th century figure doesn't have at least one relative that died of tuberculosis or by shitting themselves to death, I am not going to believe the story. Life was rough back then, and I expect presentation to reflect that.
+As an adult, I'm finding out about domestic disputes with Emma, evolving theology, and actual reasons for being incarcerated that are more profound than "[[Satan]] make bad thing happen to Jesus-man". 
+
+To me, these negative aspects make Smith feel more like a real human, rather than an idealized, romanticized image of 19th century frontier living. Reality isn't so polished and presentable, and I'm skeptical of presentations of history that sound too good to be true. If a 19th century figure doesn't have at least one relative that died of tuberculosis or by shitting themselves to death, I am not going to believe the story. Life was rough back then, and I expect presentation to reflect that.
 
 &nbsp;
 
@@ -53,7 +55,7 @@ Deseret News - 23 August 1865, page 4: [https://newspapers.lib.utah.edu/details?
 
 >**_It is transmitting lies to posterity._**_.. The_ **_curse of God_** _will rest upon everyone after he comes to the knowledge of what is here said who keeps these books for his children to learn and believe in lies._ **_We wish those who have these books to either hand them to their Bishops for them to be conveyed to the President's or Historian's Office, or send them themselves, that they may be disposed of._**_"_
 
-Goodness. What kind of lies might be perpetuated in Lucy's account? I hope it isn't the observation that Joseph was imagining the Book of Mormon well before Moroni reveals the plates to him. That could affect the book's divine origins.
+Goodness. What kind of lies might be perpetuated in Lucy's account? I hope it isn't the observation that Joseph was imagining the Book of Mormon well before Moroni reveals the plates to him. That could affect the book's claim to divine origins.
 
 &nbsp;
 
@@ -69,4 +71,4 @@ How many other religious leaders get a lynching mob sent after them while they'r
 
 link below
 
-Joseph Smith's name [shall be had for good and for evil](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33) among all nations? What exactly does that mean? Hasn't Mark Zuckerberg's name also been had for good and evil among all nations? Mussolini? Czar Nicholas III? Michael Jackson? Anyone with a wide reach will have their name for good and evil. Having both fanatic supporters and vitriolic opponents doesn't make Joseph Smith special.
+Joseph Smith's name [shall be had for good and for evil](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33) among all nations? What exactly does that mean? Hasn't Mark Zuckerberg's name also been had for good and evil among all nations? Mussolini? Czar Nicholas III? Michael Jackson? Sam Bankman-Fried? Anyone with a wide reach will have their name for good and evil. Having both fanatic supporters and vitriolic opponents doesn't make Joseph Smith special.

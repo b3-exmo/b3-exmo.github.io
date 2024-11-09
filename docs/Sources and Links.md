@@ -9,9 +9,9 @@ I'll have links here to sites that I'm pretty confident are owned and maintained
 
 ### LDS sites
 - [churchofjesuschrist.org](https://www.churchofjesuschrist.org/?lang=eng): LDS church's official site.
-- [lds-general-conference.org](https://www.lds-general-conference.org/): Does not appear to be *owned* by the church, but is [sanctioned by it](https://www.churchofjesuschrist.org/church/news/quick-tip-finding-older-general-conference-talks?lang=eng).
+- [lds-general-conference.org](https://www.lds-general-conference.org/): A [corpus](https://dictionary.cambridge.org/dictionary/english/corpus) of general conference address texts. Does not appear to be *owned* by the church, but is [sanctioned by it](https://www.churchofjesuschrist.org/church/news/quick-tip-finding-older-general-conference-talks?lang=eng).
 - [churchofjesuschrist.org/media/publications](https://web.archive.org/web/20230207045053/https://www.churchofjesuschrist.org/media/publications?lang=eng): (ARCHIVED) Media publications. PDFs of scripture, proclamations, manuals, president teachings, etc. At some point, this page was removed, and its contents have been moved elsewhere. The provided link is to an archived copy, for posterity.
-- [churchofjesuschrist.org/study/manual/gospel-topics](https://www.churchofjesuschrist.org/study/manual/gospel-topics?lang=eng): They're not called Gospel Topics Essays anymore; those spicy articles are now nestled within a lot of superficial Q&A pages.
+- [churchofjesuschrist.org/study/manual/gospel-topics](https://www.churchofjesuschrist.org/study/manual/gospel-topics?lang=eng): They're not called *Gospel Topics Essays* anymore; those spicy articles are now nestled within a lot of superficial Q&A pages.
 - [catalog.churchofjesuschrist.org](https://catalog.churchofjesuschrist.org/): Appears to be part of official church domain. Contains numerous older records, scans, documents.
 
 When I first load up and select the search bar, this popup appears:
@@ -33,7 +33,7 @@ As its inception, [Official LDS Newsroom](https://newsroom.churchofjesuschrist.o
 
 [https://www.josephsmithpapers.org/](https://www.josephsmithpapers.org/) is part of this domain. Both The Church Historian’s Press and Joseph Smith Papers appear to be legitimate, LDS leadership-owned sources of information.
 
-JSPP has lots of cool documents, including an [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/1#full-transcript) of the Book of Mormon.
+JSPP has lots of cool documents, including an [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/1#full-transcript) of the Book of Mormon, and spicy notes on [[Doctrines/Polygamy/Sealing#Joseph Smith Papers|polygamous sealing]]
 
 &nbsp;
 
@@ -56,14 +56,14 @@ One could argue that "affiliated with" doesn't mean "owned by." Although, in the
 #### Deseret News
 >*The Deseret News is a subsidiary of the [Deseret Management Corporation](http://www.deseretmanagement.com/), which is owned by The Church of Jesus Christ of Latter-day Saints.*
 
-[About Us](https://www.deseret.com/pages/about-us/), Deseret News
+&mdash; [About Us](https://www.deseret.com/pages/about-us/), Deseret News
 
 &nbsp;
 
 #### So what?
 Disregarding all the times I'd been assured that Deseret News / Book was not owned by the church, the idea that a religion has a for-profit branch doesn't sit well with me. I thought religions were meant to operate by donation? I've certainly been told this explicitly about the LDS church. I was told that with such confidence that I perpetuated that explanation while on a mission for the church.
 
-Being owned by the church itself carries some connotations- I'm not going to imply that every KSL article is screened & approved by the 12 apostles, nor that Utah.com's tourist excursions are somehow prophetic, but the connection is close enough for us common folk to read a level of complicity in what Deseret Book publishes. I don't presently know much about their quality control process, but Deseret wouldn't publish things the Church would vehemently disagree with, would it? It's not an independent business, it's owned by the corporate office of the LDS Church. 
+Being owned by the church itself carries some connotations- I'm not going to imply that every KSL article is screened & approved by the 12 apostles, nor that Utah.com's tourist excursions are somehow prophetic, but the connection is close enough for us common folk to read a level of complicity in what Deseret Book publishes. I don't presently know anything about their quality control process, but Deseret wouldn't publish things the Church would vehemently disagree with, would it? It's not an independent business, it's owned by the corporate office of the LDS Church. 
 
 &nbsp;
 
@@ -72,7 +72,7 @@ The [official topic essays](https://www.churchofjesuschrist.org/study/manual/gos
 
 > *“It included some doctrinal instruction but also practical teaching, some of which is speculative in nature and some of which is only of historical interest.”*
 
-Some of it is legitimate, some of it is not; we won’t specify what is reliable, just want plausible deniability when something uncomfortable comes up. It's used as a "primary source" (with air quotes) for Brigham Young's [[Brigham Young#Teachings of the Presidents of the Church|Teachings of the Presidents of the Church]] manual, just with some extra obfuscation steps.
+Some of it is legitimate, some of it is not; we won’t specify what is reliable, just want plausible deniability when something uncomfortable comes up. It's used as a "primary source" (with air quotes) for Brigham Young's [[Brigham Young#Teachings of the Presidents of the Church|Teachings of the Presidents of the Church]] manual, just with some extra steps for obfuscation.
 
 The essay has lots of non-committal language, acknowledging that JoD exists, and you could go find it if you really wanted to. Found three or four sites online that have JoD published, but elected to reference [Byu’s scriptural library](https://scriptures.byu.edu/#::j). BYU is owned and funded by the LDS corporate office, so I feel pretty comfortable calling this a primary source.
 
@@ -82,7 +82,7 @@ The essay has lots of non-committal language, acknowledging that JoD exists, and
 ### Apologetic sites
 [Apologetics](https://en.wikipedia.org/wiki/Apologetics) is a fancy word for "speaking in defense," normally around the context of religious claims. It isn't saying "sorry" for anything, but explaining a belief. These sites seem inclined toward promoting faith and shutting down harmful accusations.
 
-- [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an unofficial apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents. Appears to be one of two de facto standard for defending The Truth ™️ from those evildoers; subjectively, FAIR feels targeted toward career-aged adults, leaving the young whippersnappers with...
+- [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an ~~unofficial~~ apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents. Appears to be one of two de facto standard for defending The Truth ™️ from those evildoers; subjectively, FAIR feels targeted toward career-aged adults, leaving the young whippersnappers with...
 
 - [scripturecentral.org](https://scripturecentral.org/): The other of what I'd call de facto apologetic sites. To me, subjectively, it feels more lively, colorful, interactive, and geared toward a demographic of teenagers or young adults. They've got videos and podcasts, including short-form videos for those with modern attention spans.
 
@@ -106,7 +106,7 @@ I've encountered the claim that both of these sites run independently of the LDS
 - [Thoughts on things and stuff](https://thoughtsonthingsandstuff.com/topics/): Sounds vague, feels like a muse for doctrinal thoughts
 - [Mormonism under the microscope](https://www.mormonismunderthemicroscope.com/): I haven't explored them much, looks like a topical document for various claims / controversies
 - [floodlit.org](https://floodlit.org/): Info on sexual abusers & coverups within LDS church
-- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered offers critical insights of LDS doctrine. As of 2024 March, [appears to be offline]((https://zelphontheshelf.com/))- hoping it comes back in the future.
+- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered offers critical insights of LDS doctrine. As of 2024 March, [appears to be offline]((https://zelphontheshelf.com/))&mdash; I am left hoping that it comes back in the future.
 	- Zelph's *[The Millennials' Brief Guide to the CES Letter](https://web.archive.org/web/20230927020917/https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/)* is one I encountered early on (late 2018) when I was trying to find some "both sides" analyses of the CES Letter.
 	- Zelph is still around, running a [YouTube channel](https://www.youtube.com/channel/UC3Y4j05DDAXv7vCedrOQ9FQ), though!
 
@@ -123,7 +123,7 @@ I've begun listening to their [playlist on the Gospel Topics Essays](https://www
 ### Mormon Stories Podcast
 On [Youtube](https://www.youtube.com/@mormonstories)
 
-I think [[My own experience|in mid-2018]], when my [[Shelf|shelf]] was creaking under the weight of unanswered questions, I saw a billboard in Salt Lake advertising the show. Not knowing much at the time, I found their webpage, and I think I got intimidated by the click-bait style episode titles initially.
+I think [[My own experience|in mid-2018]], when my [[Shelf|shelf]] was creaking under the weight of unanswered questions, I saw a highway billboard in Salt Lake advertising the show. Not knowing much at the time, I found their webpage, and I think I got intimidated by the click-bait style episode titles initially.
 
 My experience with this show has been quite positive- at the time of writing this, they've got just under 1900 episodes. Many of them that I've listened to are exactly what the show's name implies— they're interviews with folks' experience in Mormonsim, both in and out, both for and against. My wife has told me that she finds Mormon Stories to be therapeutic, validating, and cathartic, as she empathizes with the show guests and their stories. I've inclined more toward their doctrinal episodes, particularly the [subseries with LDS Discussions](https://www.youtube.com/playlist?list=PLxq5opj6GqOACG_xU4IZiQxnhcoqlCrdI). Good stuff. Absolutely worth the time to dive in and listen to. There's something for everyone in their vast catalog of episodes, just search for some keywords.
 
