@@ -52,27 +52,6 @@ See also the time Ezra Taft Benson [[14 Fundamentals#4|used this quote]].
 
 &nbsp;
 
-## Policy vs Doctrine
-> *OAKS: I don’t know that it’s possible to distinguish between policy and doctrine in a church that believes in continuing revelation and sustains its leader as a prophet… I’m not sure I could justify the difference in doctrine and policy in the fact that before 1978 a person could not hold the priesthood and after 1978 they could hold the priesthood.*
-
-— Elder Dallin H Oaks in [interview with Associated Press SLC](https://www.newspapers.com/article/the-times-news-partial-transcript-of-ap/21138508/), regarding the 1978 revelation on race
-
-"You don't like that thing we (the church) do? Well, it's actually just a policy, not a doctrine of the church."
-
-Oh? Sounds like we really should delineate what those words mean, and what's the difference between them. Until I find better definitions, I'm going with the following:
-
-- **Doctrine** is what we find in scripture, during conference talks, revelation by the acting prophets. Commonality between those is the words can be traced back to, and ascribed to God.
-
-- **Policy** is more secular. Rules, handbooks, organization of the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose they'd be philosophies of men, mingled with scripture.
-
-Here's where problems arise:
-
-The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are doctrinal.
-
-Behind every policy of the church, there's doctrine. Without doctrine to back policy, it has no justification, no grounds, no purpose. The hierarchical structure of the church (first presidency, quorum of 12, quorum of 70, area authorities, stake presidencies, bishopric) pertains to the workings of the earthly, mortal organization that makes up "the church." 
-
-&nbsp;
-
 ## Divine Witness
 > *I did not live in the days of our Savior; he has not come to me in person. ==I have not beheld him==. His Father and he have not felt it necessary to grant me such a great blessing as this. ==But it is not necessary==. I have felt his presence. I know that the Holy Spirit has ==enlightened my mind and revealed him unto me==, so that I do love my Redeemer, I hope, and feel it is true, better than everything else in this life. I would not have it otherwise.*
 

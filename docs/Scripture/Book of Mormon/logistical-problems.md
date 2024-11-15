@@ -20,7 +20,7 @@ We can take cheap shots at how preposterous this story is, but the point I want 
 
 We reportedly have concrete information that proves critics wrong, thereby demonstrating that the Book of Mormon is of divine origin. This would be enough to draw public attention worldwide! What are the anachronisms, and what are the counterpoints that convince nameless faces at Cornell that this scripture is not a "19th century invention"?
 
-Nothing? We just gotta work it out through faith? *Why did you tell us this story, then?*
+Nothing? Was it [[Too Sacred to Share]]? We just gotta work it out through faith? *Why did you tell us this story, then?*
 
 &nbsp;
 
@@ -67,7 +67,7 @@ I suppose they didn't have the "office" of priesthood to qualify? 🤷 I guess J
 &nbsp;
 
 ### Seeing God
-The brother of Jared is described as having like the most faith ever, and so he was able to [see God’s finger](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p6-p8#p6)… but Joseph Smith literally just prayed once and he got to see both Heavenly Father and Jesus. Their full bodies. Should we believe this means Joseph was super, uber, ultra-special faithful prior to the [[First Vision|first vision(s)]]?
+The brother of Jared is described as having like the most faith ever, and so he was able to [see God’s finger](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p6-p8#p6)… but Joseph Smith literally just prayed once and he got to see both Heavenly Father and Jesus. Their *full bodies*. Should we believe this means Joseph was super, uber, ultra-special faithful prior to the [[First Vision|first vision(s)]]?
 
 &nbsp;
 
@@ -76,11 +76,11 @@ The brother of Jared is described as having like the most faith ever, and so he 
 
 — *[Ether 15:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng&id=p2#p2)*
 
-Perhaps not all two million were married. Perhaps not all men were of age to fight a hand-to-hand war. Assuming we have `2,000,000` mighty men, most but not all would be married. `2,000,000 * (0.75) = 1,500,000 - 2,000,000` range wives of the 2mill soldiers. Next, add an average of `2.5` kids. We're looking at `6,000,000 - 6,500,000` casualties just of the families of the "mighty men" capable of fighting, not counting those too elderly to fight, or the workforce & governance back home to keep the economy from crashing completely. I don't know what life expectancy to anticipate for the days of Jaredites, so maybe I could extrapolate another `1 million` for those not in the fight? Too old? Too young? Children were already counted, so… maybe `7,500,000` people and no signs at all of their existence.
+Perhaps not all two million mighty men were married. Perhaps not all men were of age to fight a hand-to-hand war. Assuming we have `2,000,000` mighty men, most but not all would be married. `2,000,000 * (0.75) = 1,500,000` range wives of the 2mill soldiers. Next, add an average of `2.5` kids. We're looking at `6,000,000` casualties just of the families of the "mighty men" capable of fighting, not counting those too elderly to fight, or the workforce & governance back home to keep the economy from crashing completely. I don't know what life expectancy to anticipate for the days of Jaredites, so maybe I could extrapolate another `1 million` for those not in the fight? Too old? Too young? Children were already counted, so… maybe `7,500,000` people and no signs at all of their existence.
 
 Let’s compare that to battle deaths on the _western front_ in the First World War. Over *4 years*, about [4 million men died on the western front](https://en.m.wikipedia.org/wiki/Western_Front_(World_War_I)#Aftermath). That’s *4 years* of intense artillery fire, machine guns, accurate rifles, poison gas, etc. This passage in Ether doesn't explicitly outline a time frame for the two million deaths. Maybe it was over eight years? I have no way of knowing.
 
-Actually, you know what— six to seven million is a number that has a pretty direct comparison to the [number of Jewish people killed during the holocaust](https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe). To be clear, the only comparison I'm making here is the number of deaths, ==no further implications other than scale==. Imagine numerous deaths on the scale of the 1940's holocaust, possibly greater, just... poofing away. No mass graves to be found.
+Actually, you know what— six to seven million is a number that has a pretty direct comparison to the [number of Jewish people killed during the holocaust](https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe). To be clear, the only comparison I'm making here is the number of deaths, ==no further implications other than scale==. Imagine numerous deaths on the scale of the 1940's holocaust, possibly greater, A) happening around 580 BCE, and B) just... poofing away. No mass graves to be found.
 
 The idea that a bronze age civilizations would be capable of inflicting death on that scale— especially without leaving a trace— is patently absurd. That is such a high number to leave zero evidence whatsoever. The fact that the _entire civilization_ conveniently annihilated itself before the Nephites arrived is even more ridiculous.
 
@@ -91,7 +91,7 @@ As mentioned a moment ago, World War 1 was able to mete out such a grand scale o
 
 Have you ever been to a football stadium? A concert? An international airport? Some kind of convention? Have you stood in a group of humans counting five hundred or more? Imagine being one of *two million* people, ready to engage in hand-to-hand combat. It's unusual for modern people to be in a group greater than ten thousand, as were [the size of Moroni's battalions](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=eng&id=p11-p16#p11). Now imagine walking to the parking lot from the stadium after the ball game ends. It would take you *hours* to walk the distance of a quarter-mile.
 
-Do you see a logistical problem here? If your battalion is greater than, say, three hundred people, the fight is going to be akin to waiting in line for there to be a large enough gap for you to even swing your weapon. After standing in the crowd for four hours dodging enemy arrows raining down on you, you can approach the frontline, and climb over the growing pile of maimed bodies at the single line of conflict. Backing out of this hypothetical, envision these 7 million bodies just vanishing without a trace.
+Do you see a logistical problem here? If your battalion is greater than, say, three hundred people, the fight is going to be akin to waiting in line for there to be a large enough gap for you to even swing your weapon. After standing in the crowd for four hours dodging enemy arrows raining down on you, you can approach the frontline, and climb over the growing pile of maimed bodies at the single line of conflict. Backing out of this hypothetical, now envision these 7 million bodies just vanishing without a trace.
 
 Sounds to me like it *might just be* made up.
 

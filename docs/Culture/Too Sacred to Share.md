@@ -8,14 +8,14 @@ This isn't clearly marked in the notes below, but I have a collection of quotes 
 
 One might argue that this statement is emotional misattribution, where members feel such a strong compulsion to fit in that they'll ascribe profundity or find meaning in everyday experiences.
 
-You felt *[[Emotional Thinking#Elevation Emotion|elevation emotion]]* hearing Great Uncle Pawdabber associate a mundane experience with divinity, and using that as a reference point, you also need to find some association between the two. Did you find your keys when you may have otherwise missed a flight? God did that. No other explanation when you *need to have something to share* in Fast & Testimony meeting. 
+You felt *[[Emotional Thinking#Elevation Emotion|elevation emotion]]* hearing Great Uncle Pawdabber associate a mundane experience with divinity, and using his retelling as a reference point, you also need to find some association between the two. Did you find your keys when you may have otherwise missed a flight? God did that. No other explanation when you *need to have something to share* in Fast & Testimony meeting. 
 
 &nbsp;
 
 ## What is sacred?
-Sacred is analogous / similar to holy, or divine. Not to be mocked or belittled, demanding or deserving of respect and reverence. When I held LDS beliefs to be sacred, I would find myself so emotionally attached to the ideas that I would use this rationale that whatever audience would hear them wouldn't understand or appreciate them. Whenever I hear of an LDS practitioner refuse to elaborate on something because it's "too sacred to share," I am left to assume they use the same rationale that I did while in that same mindset— meaning, "I don't want to talk about it," or more likely, "I don't trust you with that information."
+Sacred is analogous / similar to holy, or divine. Not to be mocked or belittled, demanding or deserving of respect and reverence. When I held LDS beliefs to be sacred, I would find myself so emotionally attached to the ideas that I would use this rationale that whatever audience would hear them simply wouldn't understand or appreciate them. Whenever I hear of an LDS practitioner refuse to elaborate on something because it's "too sacred to share," I am left to assume they use the same rationale that I did while in that same mindset— meaning, "I don't want to talk about it," or more likely, "I don't trust you with that information."
 
-The topic within Mormonism that I find associated with this defense most often is that of temple ceremonies. When met with blank, confused stares, one might elaborate that those ceremonies are "sacred, not secret."
+The topic within Mormonism that I find associated with this defense most often is that of temple ceremonies. When met with blank, confused stares, one might elaborate that those ceremonies are "sacred, not secret." A prime example of this is demonstrated in my notes on [[Garments]].
 
 To me, this raises the question if there is a precedent for this kind of aversion to disclosure. Did Jesus in the New Testament advise people that "there's another aspect to your salvation, but I don't trust you to know what it is"? 
 
@@ -27,6 +27,8 @@ To me, this raises the question if there is a precedent for this kind of aversio
 
 ## What does it imply?
 I suppose this is context-sensitive, but broadly speaking I'd say that a sacred (holy, divine, demanding reverence) experience is meant to confirm truthfulness. A sacred experience would verify or confirm God's presence, love, involvement— or that the restored LDS church is led by God.
+
+If something is too sacred to speak of outside of some context, I am left to assume it's not nearly as grandiose as it is implied to be. If one were to rationalize this by quoting Jesus' advice to not "[cast ye your pearls before swine](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng&id=6#p6)," think of what that implies about the conversation partner. Does that mean that something is "too sacred to share *with you* because I think you're a piece of shit?"
 
 So, then, does that mean that spiritual experiences, below or above the threshold of "too sacred," can only be felt by those of the LDS faith? If yes, that claim is remarkably bold, even arrogant. If no, then what's the point? Human experience is too broad to say that spirituality is owned, copyrighted, monopolized by one organization.
 
@@ -55,8 +57,6 @@ Don't talk about the time God spoke to you, since God only speaks to prophets, a
 Don't talk about the temple ceremonies, or else people will start to realize how cult-like it is, and how it's deliberately plagiarized.
 
 Don't talk about the second anointing, people might question just how holy the recipient must be if they do anything "wrong."
-
-If something is too sacred to speak of outside of some context, I am left to assume it's not nearly as grandiose as it is implied to be. If they rationalize this by quoting Jesus' advice to not "[cast ye your pearls before swine](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng&id=6#p6)," think of what that implies about the conversation partner. Does that mean that "too sacred to share *with you* because I think you're a piece of shit?"
 
 &nbsp;
 

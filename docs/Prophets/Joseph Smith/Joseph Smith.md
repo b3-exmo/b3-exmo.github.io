@@ -72,3 +72,15 @@ How many other religious leaders get a lynching mob sent after them while they'r
 link below
 
 Joseph Smith's name [shall be had for good and for evil](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33) among all nations? What exactly does that mean? Hasn't Mark Zuckerberg's name also been had for good and evil among all nations? Mussolini? Czar Nicholas III? Michael Jackson? Sam Bankman-Fried? Anyone with a wide reach will have their name for good and evil. Having both fanatic supporters and vitriolic opponents doesn't make Joseph Smith special.
+
+## Misinformation
+Lots of information can be found about Joseph Smith. The LDS church's correlated material really likes to focus on the positive, faith-promoting angle, and occasionally criticizes the naysayers for spreading misinformation.
+
+I will concede that some of what I've read about Joseph is not compelling. I've encountered some claims that I, personally, subjectively, don't find to be useful. I'll list some here, and likely add more as I find them.
+
+-  Joined the Methodist church in 1828
+	- Every claim I've encountered cites back to this [UTLM document](http://www.utlm.org/onlineresources/josephsmithmethodist.htm). The article does also back up its claims with sources, but by my subjective estimation, the sources don't seem compelling; 15 years after the fact, recalling someone said something about it. 🤷‍♂️ Big if true, but to me, I wouldn't put a lot of weight on it.
+-  [Psalter Incident](https://en.wikipedia.org/wiki/The_Greek_Psalter_Incident)
+	- The claim here is that Professor Caswall showed Smith some Greek psalms, and Smith concluded that it was reformed Egyptian text. This harms Smith's credibility as identifying ancient text languages. Caswall is quoted, “Whether he spoke as a prophet or as a mere man, he has committed himself, for he has said what is not true. If he spoke as a prophet, therefore, he is a false prophet. If he spoke as a mere man, he cannot be trusted, for he spoke positively and like an oracle respecting that which he knew nothing.”
+	- Again, big if true, I suppose. I have yet to find compelling documentation that Henry Caswell was a respected professor, had linguistic expertise, or could be accurately called a Greek Psalter. Looking for primary sources for these claims have not been fruitful. Maybe Caswall met Smith, presented this challenge, and Smith misidentified the text. The quoted conclusion makes sense, but I'm not entirely sure this encounter is a real breakthrough.
+

@@ -5,7 +5,7 @@ comments: true
 How do we discern between faith and cognitive bias?
 
 ## Overview of Biases
-==Biases are not inherently bad==. They are not a sign of ignorance, bad intention, nor contrarianism. 
+==Biases are not inherently bad==. They are not a sign of ignorance, bad intention, nor contrarianism. They can lead to bad conclusions, however. We all are prone to biases, and its part of being a human.
 
 There is simply too much information in the world for us to ingest and process, in order for us to come to a reliable conclusion. We have no choice but to filter it, or else we’d never come to a conclusion on anything. Cognitive biases are ways out brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so philosophically-minded folks have categorized some of these filtering methods as cognitive biases.
 
@@ -61,6 +61,8 @@ When questioning members are advised to "take your questions to the Lord and to 
 
 All of these outcomes lead to the same conclusion that the LDS church is true. It can't be false, there's [[Falsifiability|no fail state]] in these scenarios.
 
+&nbsp;
+
 ### Moroni's Promise
 Failure to confirm the truth of an impossible counter-claim means that the claim is true.
 
@@ -101,12 +103,22 @@ Don't forget to only study from approved sources. Just listen to things you alre
 &nbsp;
 
 > **3** *Ask God if the things in this record are not true. If ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. 
-> 
+>
+> . . .
+>
 > **6** And whatsoever thing is good is just and true; wherefore, nothing that is good denieth the Christ, but acknowledgeth that he is.*
 
-— *[Moroni 10:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p6#p6)*
+— *[Moroni 10:3, 6](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p6#p6)*
 
-Moroni/JS asks the reader to ask God if the record is _not true_... and if it is true, God will confirm it."
+In verse 3 specifically, the reader is instructed to ask God if the record is *not true*. I’m inclined to believe that this wording is not accidental. Have we considered that this means an affirmative answer to the question "are these things *not true*", and so "these things" are false? The answer you get isn’t exactly clear-cut. It’ll be a single negative or a double negative.
+
+If yes, (these things are *not* true), then these things are false.
+
+If no, (these things *aren’t not* true) then these things are true.
+
+How do we interpret and discern the answer from God, then? Are we interpreting the warm fuzzy feelings as an affirmative answer to asking if it's false? It sounds to me like Moroni is exhorting us improperly, or is exhorting us to do the opposite of what he wants.
+
+Are the warm fuzzy feelings a sign of the holy spirit testifying of the truth, or as an affirmative to the specific question "are these things not true?" If that is the case, I would exhort you to do some introspection to differentiate between your own bias and divine inspiration.
 
 The claim is "this historical record is true and God confirmed it." The counter-claim is "I asked God if it's _not true_ and God responded with an affirmative 'yeah bro, this shit is bogus.'" However, this is an impossible counter-claim because of Moroni's/JS's conditions:
 
@@ -117,9 +129,9 @@ The claim is "this historical record is true and God confirmed it." The counter-
 - Because this record is good, it is therefore true.
 - Thus, God cannot whisper _anything_ to you other than "it's true."
 
-If you got a different answer, it wasn't God, or you weren't sincere enough. Or maybe both.
+If you got a different answer, it wasn't God, or you weren't sincere enough, or you haven't repented of that one time you saw porn... or maybe some combination of the above possibilities.
 
-Does your result agree with theory? No? Something must be wrong with your experiment, then. Do it again.
+Does your result agree with theory? No? Something must be wrong with you or your experiment, then. Do it again.
 
 ![image](/img/moroni-v-science.png){: .center}
 

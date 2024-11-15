@@ -20,7 +20,7 @@ For more information on this, I have a page outlining [[My own experience]].
 &nbsp;
 
 ### Who is this for?
-I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions. Today, they're more of a "letter to my past self." Not a satisfying answer for a target audience.
+Primarily for my own catharsis. I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions. Today, they're more of a "letter to my past self." Not a satisfying answer for a target audience.
 
 So, I suppose this is meant for folks in the Mormonosphere who are "physically in, mentally out," as I had been at one point in time. If you're interested in finding sources for the not-so-wholesome things the LDS church has been a part of, then I expect you'll find some satisfying content here.
 

@@ -20,9 +20,9 @@ Also, indenting paragraphs should make the notes feel a lot less like a wall of 
 ## Topics
 For many of these topics, I do have some existing notes, but they aren't in a presentable condition. Others, I've yet to write down some thoughts on. I have a day job, is all. I'll get to it.
 
-- [ ] American Frontier Magic
 - [ ] Anti-LGBT
 - [ ] Before Utah
+	- [ ] American Frontier Magic
 	- [ ] Isaac Hale
 	- [ ] Kirtland Safety Society
 	- [ ] Nauvoo Expositor
@@ -38,9 +38,11 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] Conflation
 - [ ] Cults
 - [ ] Culture
+	- [x] Don't look elsewhere for info / Approved Sources
+	- [x] Repudiating the Journal of Discourses
 	- [ ] Persecution Complex
 	- [ ] Prosperity Gospel
-	- [ ] Scrupulosity
+	- [x] Scrupulosity
 - [x] Doctrines
 	- [ ] Agency (Moral / Free?)
 	- [ ] Law of Chastity (self-abuse 😱)
@@ -49,9 +51,6 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] Priesthood & Discernment
 	- [ ] "Revelations" from God
 - [ ] "Doesn't appear in the scriptures"
-- [ ] Don't look elsewhere for info / Approved Sources
-	- [ ] Reading Material
-	- [x] Repudiating the Journal of Discourses
 - [ ] James Strang
 - [ ] Massacre: Fort Utah
 - [ ] Massacre: Mountain Meadows
@@ -60,7 +59,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] Ensign Peak
 	- [ ] Family, Proclamation to the World
 	- [ ] For-profit ventures / Beneficial Life
-	- [ ] Historians
+	- [x] Historians
 	- [ ] Membership & attendance statistics
 	- [ ] NDA's / Nondisclosure Agreements
 	- [ ] November 2015
