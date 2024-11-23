@@ -16,7 +16,7 @@ I'll have links here to sites that I'm pretty confident are owned and maintained
 
 When I first load up and select the search bar, this popup appears:
 
-![image](/img/lds-catalog.png){: .center}
+![image](../img/lds-catalog.png){: .center}
 
 > **Collection Policy**
 > 
@@ -37,12 +37,14 @@ JSPP has lots of cool documents, including an [1830 edition](https://www.josephs
 
 &nbsp;
 
-### [Deseret Management Corporation](https://www.deseretmanagement.com/#our-companies)
+### Deseret Management Corporation
 > *Deseret Management Corporation (DMC) is a for-profit company affiliated with The Church of Jesus Christ of Latter-day Saints.*
 
-&mdash; [Deseret Management, _Careers_](https://www.deseretmanagement.com/careers)
+— [Deseret Management, _Careers_](https://www.deseretmanagement.com/careers)
 
 One could argue that "affiliated with" doesn't mean "owned by." Although, in the interest of simplicity, [[#Deseret News|Deseret News]], outright stated that DMC is owned by the church, so... Take that how you choose to?
+
+Go check out their page on "[our companies](https://www.deseretmanagement.com/#our-companies)."
 
 &nbsp;
 
@@ -56,7 +58,7 @@ One could argue that "affiliated with" doesn't mean "owned by." Although, in the
 #### Deseret News
 >*The Deseret News is a subsidiary of the [Deseret Management Corporation](http://www.deseretmanagement.com/), which is owned by The Church of Jesus Christ of Latter-day Saints.*
 
-&mdash; [About Us](https://www.deseret.com/pages/about-us/), Deseret News
+— [About Us](https://www.deseret.com/pages/about-us/), Deseret News
 
 &nbsp;
 
@@ -106,7 +108,7 @@ I've encountered the claim that both of these sites run independently of the LDS
 - [Thoughts on things and stuff](https://thoughtsonthingsandstuff.com/topics/): Sounds vague, feels like a muse for doctrinal thoughts
 - [Mormonism under the microscope](https://www.mormonismunderthemicroscope.com/): I haven't explored them much, looks like a topical document for various claims / controversies
 - [floodlit.org](https://floodlit.org/): Info on sexual abusers & coverups within LDS church
-- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered offers critical insights of LDS doctrine. As of 2024 March, [appears to be offline]((https://zelphontheshelf.com/))&mdash; I am left hoping that it comes back in the future.
+- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered offers critical insights of LDS doctrine. As of 2024 March, [appears to be offline]((https://zelphontheshelf.com/))— I am left hoping that it comes back in the future.
 	- Zelph's *[The Millennials' Brief Guide to the CES Letter](https://web.archive.org/web/20230927020917/https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/)* is one I encountered early on (late 2018) when I was trying to find some "both sides" analyses of the CES Letter.
 	- Zelph is still around, running a [YouTube channel](https://www.youtube.com/channel/UC3Y4j05DDAXv7vCedrOQ9FQ), though!
 
@@ -139,7 +141,7 @@ That is, until he comes back, as if to say "and *one more thing*...!" by appeari
 &nbsp;
 
 ### RFM / Mormon Discussion Inc.
-[Radio Free Mormon](https://www.youtube.com/playlist?list=PLq34QmiHsNjdSYebjG7e6ftoildD1Sp5W) (RFM) is also a regular guest in John Dehlin's show. He's got lots of career experience in law, and offers critical insights into the church's history and current practices. I can only handle so much RFM at a given time, given the cadence and rhythm of his speech&mdash; to me, it's reminiscent of Captain Kirk's dramatic pauses amid sentences, making each statement sound like a sentence fragment. If you can look past that, or set your podcast player to x1.4 speed, he's still a great listen.
+[Radio Free Mormon](https://www.youtube.com/playlist?list=PLq34QmiHsNjdSYebjG7e6ftoildD1Sp5W) (RFM) is also a regular guest in John Dehlin's show. He's got lots of career experience in law, and offers critical insights into the church's history and current practices. I can only handle so much RFM at a given time, given the cadence and rhythm of his speech— to me, it's reminiscent of Captain Kirk's dramatic pauses amid sentences, making each statement sound like a sentence fragment. If you can look past that, or set your podcast player to x1.4 speed, he's still a great listen.
 
 Bill Reel, also part of [Mormonism Live](https://www.youtube.com/playlist?list=PLq34QmiHsNjfs8Nw_mFgMGv_3hrFYNs9f) (a show within Mormon Discussion?) is a former apologist. He'll host some shows with RFM on a given topic, take some callers, and shares insights from his time serving in church leadership.
 
@@ -150,7 +152,7 @@ Bill Reel, also part of [Mormonism Live](https://www.youtube.com/playlist?list=P
 - [Carah Burrell, aka NuanceHoe](https://www.youtube.com/channel/UCAib1bMCLZh9Ln0Uq62xxjw): Spicy takes on Mormonism. Often a co-host with John Dehlin. Also runs her own show.
 - [Data over Dogma](https://www.youtube.com/@dataoverdogma): Two Dan's, two mics, one show. One Dan is a biblical scholar, and the other is a goofball. They examine biblical records from which modern translations are derived. Very insightful. For what it's worth, Dan McClellan is an active Mormon last I checked.
 - [Drunk Mormon Podcast](https://podcasts.apple.com/us/podcast/the-drunk-mormon-podcast/id1364708230): An ex-Mormon shares the religion with a never-Mormon, which underscores just how absurd some of this sounds from the outside.
-- [Great and Spacious Podcast (GASP)](https://greatandspaciouspodcast.com/): The few episodes I've listened to felt like the four post-Mormon hosts were seeking their own catharsis by re-reading some scriptures while enjoying some alcohol. No shade&mdash; that's kind of what I'm doing here on this site, sans the expensive drinks. Search through their episodes for something that tickles your fancy, they've got lots of content.
+- [Great and Spacious Podcast (GASP)](https://greatandspaciouspodcast.com/): The few episodes I've listened to felt like the four post-Mormon hosts were seeking their own catharsis by re-reading some scriptures while enjoying some alcohol. No shade— that's kind of what I'm doing here on this site, sans the expensive drinks. Search through their episodes for something that tickles your fancy, they've got lots of content.
 - [How-to Heretic](https://www.youtube.com/channel/UCBQ-QeACCg76SmmYSNfHKQQ): The first podcast I delved into amid deconstruction. Extraordinarily helpful in softening the blows of existential dread. Former Mormon folks evaluating Christianity at large, sharing some goofiness and laughs along the way.
 - [MEGA](https://www.megathepodcast.com/): Clearly presented as a comedy satire of large churches. *However.* I queued up one of their episodes [satirizing Mormonism](https://www.megathepodcast.com/modest-is-hottest-with-anatasha-blakely/), and forgot about it for weeks. Once my playlist reached it, I had forgotten the pretext that it was satire. It is, and it is very well performed.
 - [Nemo the Mormon](https://www.youtube.com/c/NEMOTHEMORMON/featured): Critical evaluation of the church, from "across the pond." Nemo is somewhere around Oxford England, has a delightful accent, and thoughtful insights. At the time of writing this, he's anticipating a "membership counsel" where the likely outcome is excommunication for speaking up against authority.

@@ -50,7 +50,7 @@ The Old Testament has some passages about those purporting to be prophets:
 > 
 > ***22** When a prophet speaketh in the name of the Lord, if the thing follow not, nor come to pass, that is the thing which the Lord hath not spoken, but the prophet hath spoken it presumptuously: thou shalt not be afraid of him.*
 
-&mdash; [Deuteronomy 18:21-22](https://www.churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=eng&id=p21-p22#p21)
+— [Deuteronomy 18:21-22](https://www.churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=eng&id=p21-p22#p21)
 
 "If they make a prophecy and it [[Falsifiability#Second Coming timeframe|doesn't happen]], that means it wasn't from God, and this prophet is being a jackwagon."
 
@@ -62,7 +62,7 @@ Attend any given General Conference session, and count how many times the speake
 
 &nbsp;
 
-So what do we do when they make mistakes? We're told that [[14 Fundamentals#4|God removes a prophet]] if they are unworthy of the position. If we see a church leader make an egregious mistake, or catch them deliberately lying, what do we do? God hasn't removed Dallin Oaks from his position in church leadership. So who holds church leadership to account? 
+So what do we do when they make mistakes? We're told that [[14 Fundamentals#*4. The prophet will never lead the Church astray.*|God removes a prophet]] if they are unworthy of the position. If we see a church leader make an egregious mistake, or catch them deliberately lying, what do we do? God hasn't removed Dallin Oaks from his position in church leadership. So who holds church leadership to account? 
 
 The saga around one [Nemo the Mormon](https://www.youtube.com/@NEMOTHEMORMON) revolves around this issue. Nemo [documents and outlines](https://drive.google.com/file/d/1JdHLi4JH1SC5dMsaVX60mwvLECox5Qe9/view) apostles doing things unbecoming of a representative of Christ. If a bishop warrants complaint, go one level higher to the stake authority. If a stake authority warrants complaint, escalate to area authority. Area, then to apostle. Apostle, first presidency. But what if the [[SEC|first presidency does something]] egregious? Who holds them to account for their actions?
 

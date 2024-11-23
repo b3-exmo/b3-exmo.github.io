@@ -30,7 +30,7 @@ Here is a complete list of the times God has done this:
 
 — Heber J Grant; quote copied from [Ensign address](https://www.churchofjesuschrist.org/study/ensign/1972/07/the-covenant-of-the-priesthood?lang=eng) by Marion G Romney
 
-See also the time Ezra Taft Benson [[14 Fundamentals#4|used this quote]].
+See also the time Ezra Taft Benson [[14 Fundamentals#*4. The prophet will never lead the Church astray.*|used this quote]].
 
 &nbsp;
 

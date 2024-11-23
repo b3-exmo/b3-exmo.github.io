@@ -11,11 +11,11 @@ comments: true
 
 &nbsp;
 
-I'm not pretentious enough to claim that I know more than a handful of Shakespearean lines, but this one fits pretty well. The modern LDS church so vehemently rejects anything to do with this, leading to what I would call a case of [Streisand Effect](https://www.britannica.com/topic/Streisand-effect). Personally, I would find this ~~doctrine~~ teaching a lot less compelling if I didn't find so many strongly-worded rebuttals and denials that it ever existed.
+I'm not pretentious enough to claim that I know more than a handful of Shakespearean lines, but this one fits pretty well. The modern LDS church so vehemently rejects anything to do with this, leading to what I would call a case of [Streisand Effect](https://www.britannica.com/topic/Streisand-effect). Personally, I would find this ~~teaching~~ doctrine a lot less compelling if I didn't find so many strongly-worded rebuttals and denials that it ever existed.
 
 &nbsp;
 
-### [Encyclopedia of Mormonism](https://lib.byu.edu/collections/encyclopedia-of-mormonism/about/)
+### Encyclopedia of Mormonism
 > *The doctrines of the Church affirm that the Atonement wrought by the shedding of the blood of Jesus Christ, the Son of God, is efficacious for the sins of all who believe, repent, are baptized by one having authority, and receive the Holy Ghost by the laying on of hands. However, if a person thereafter commits a grievous sin such as the shedding of innocent blood, ==the Savior's sacrifice alone will not absolve the person of the consequences of the sin==. Only by voluntarily submitting to whatever penalty the Lord may require can that person benefit from the atonement of Christ.* 
 > 
 > *Several early Church leaders, most notably Brigham Young, taught that in a complete theocracy the Lord could require the voluntary shedding of a murderer's blood— presumably by capital punishment— as part of the process of atonement for such grievous sin. This was referred to as "blood atonement." Since such a theocracy has not been operative in modern times, the practical effect of the idea was ==its use as a rhetorical device== to heighten the awareness of Latter-day Saints of the seriousness of murder and other major sins. ==This view is not a doctrine of the Church and has never been practiced by the Church at any time==.*
@@ -52,7 +52,7 @@ I guess we can take comfort in knowing that we have two pre-conditions before th
 ### Deseret News
 If you are like me and have the attention span of a toddler with an iPad, you'd probably prefer a short-form audio-video medium to summarize the upcoming notes. Good news, I've got just the video for you!
 
-![image](/img/jonathan-frakes-never-happened.gif)(https://youtu.be/GM-e46xdcUo){: .center}
+![image](../../img/jonathan-frakes-never-happened.gif)(https://youtu.be/GM-e46xdcUo){: .center}
 
 [jonathan frakes telling you you're wrong for 47 seconds](https://youtu.be/GM-e46xdcUo)
 
@@ -293,4 +293,4 @@ Not sure what conclusion we’re trying to reach here, honestly. The section app
 
 &nbsp;
 
-![image](/img/princess-bride-zorro.gif){: .center}
+![image](../../img/princess-bride-zorro.gif){: .center}

@@ -15,7 +15,7 @@ We shifted from Christ having established a church (maybe) and the next heading,
 
 > *[Perhaps](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p4#p4) some are hesitant to testify of the truth of the Church because they sense that the Church and its leaders may not be perfect. ==Indeed, neither the Church nor its leaders are perfect, nor have they claimed to be!== It is noteworthy that nowhere in the scriptures or the teachings of Church leaders is it stated that the purpose of the Lord was to perfect the Church.*
 
-![image](/img/jesse.gif){: .center}
+![image](../img/jesse.gif){: .center}
 
 That's a nice [[logical-fallacies#Strawman Fallacy|strawman]] you've got there.
 
@@ -31,7 +31,7 @@ That's a nice [[logical-fallacies#Strawman Fallacy|strawman]] you've got there.
 
 You mean like the time when God "guided" Joseph Smith, prophet of the restoration, by [[Doctrines/Polygamy/Polygamy#Angel with a Sword vs Joseph Smith|sending an angel with a flaming sword to destroy him if he doesn't cheat on his wife]]? *Are you led by God or not*? Because if you have a convenient explanation for why something you did *was not* inspired of God each time it's found to be disagreeable, I might question how divinely inspired your organization is.
 
-Quick side note: Dallin H Oaks is on record conflating [[Authority#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will.
+Quick side note: Dallin H Oaks is on record conflating [[Doctrine#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will.
 
 &nbsp;
 

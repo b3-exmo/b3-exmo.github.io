@@ -6,7 +6,7 @@ To my modern English sensibilities, "[anti](https://dictionary.cambridge.org/dic
 
 > *A word used by John to describe one who would assume the guise of Christ but in reality would be opposed to Christ. In a broader sense it is anyone or anything that counterfeits the true gospel or plan of salvation and that openly or secretly is set up in opposition to Christ. The great antichrist is Lucifer, but he has many assistants both as spirit beings and as mortals.*
 
-&mdash; *[Antichrist](https://www.churchofjesuschrist.org/study/scriptures/bd/antichrist?lang=eng&id=p1#p1)*, Bible Dictionary; see also *[Guide to the Scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/antichrist?lang=eng#title1)*
+— *[Antichrist](https://www.churchofjesuschrist.org/study/scriptures/bd/antichrist?lang=eng&id=p1#p1)*, Bible Dictionary; see also *[Guide to the Scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/antichrist?lang=eng#title1)*
 
 &nbsp;
 
@@ -45,7 +45,7 @@ You can believe whatever you like, as we've already separated church and state. 
 
 &nbsp;
 
-Verse 9 describes belief in God as a privilege. I find that to be a curious choice of words, as a privilege suggests (to me) that it can be revoked. I wonder if other religious teachings are presented as being [[Tithing#It's a privilege!|a privilege]]?
+Verse 9 describes belief in God as a privilege. I find that to be a curious choice of words, as a privilege suggests (to me) that it can be revoked. I wonder if other religious teachings are presented as being [[Tithing#Paying is a privilege!|a privilege]]?
 
 Verses 10 & 11 are a short tangent describing how laws exist, and breaking laws results in punishments in case that wasn't self-evident. Don't forget that this record is an [abridgement](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=eng&id=p2#p2) etched by hand onto metal plates, and only the most critical factors have been distilled into this text we read today. It's vital that you understand that this civilization doesn't like murder or robbery. That's what really sets it apart from contemporary cultures.
 
@@ -75,7 +75,7 @@ Assuming that assessment is correct, tell me what Korihor is saying wrong? Is he
 
 > ***17** And many more such things did he say unto them, telling them that there could be no atonement made for the sins of men, but every man fared in this life according to the management of the creature; therefore every man prospered according to his genius, and that every man conquered according to his strength; and whatsoever a man did was no crime.*
 
-Examining one's worldview from an outside perspective is a good way to evaluate them&mdash; at minimum, it can help you practice how to articulate or defend your beliefs. Ideally, it would grant you some empathy for an outsider and their confusion over your dogma.
+Examining one's worldview from an outside perspective is a good way to evaluate them— at minimum, it can help you practice how to articulate or defend your beliefs. Ideally, it would grant you some empathy for an outsider and their confusion over your dogma.
 
 Think of this theology from the perspective of an outsider like Korihor. "You believe that sins a) exist, b) will cause you to suffer for all eternity after you die, unless c) the sins be atoned for by someone who isn't born yet. Not one of these things can be demonstrably proven. You don't *know* any of this to be true, it sure sounds like a foolish tradition passed down by your ancestors."
 
@@ -104,7 +104,7 @@ right okay
 
 &nbsp;
 
-***[21](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p21#p21)***: Jershon's residents send Korihor away, so he tries again in a place called Gideon. Korihor is met with the same treatment&mdash; rejection, and being arrested and taken to the high priest.
+***[21](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p21#p21)***: Jershon's residents send Korihor away, so he tries again in a place called Gideon. Korihor is met with the same treatment— rejection, and being arrested and taken to the high priest.
 
 Remember when we established that "the law could have [no hold](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p12#p12) on him?" Or that there was "[no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man’s belief"? I honestly don't know how to settle that idea with the fact that the chief judge can banish someone from the land after people tied up Korihor to force him to face judgment. I really don't. Judgment for what? It must not have been for preaching a different belief, we've established twice that this wasn't against [any laws](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7)!
 
@@ -120,7 +120,7 @@ Korihor continues in the next few verses, quoted here:
 > 
 > ***26** And ye also say that Christ shall come. But behold, I say that ==ye do not know that there shall be a Christ==. And ye say also that he shall be slain for the sins of the world[.]*
 
-Text doesn't communicate tone very well. You could read this as a sniveling, sneering villain, accusing God's infallible ideology of being nonsensical, or you could read this as an explanation. Imagine Giddonah asking "Why are you here? What did you do to upset people?" "I'm here because I don't believe the things you do, and I think your following is conflating belief with knowledge." When Korihor makes his case, count how many times "because" appears in his explanation&mdash; for it is exactly that, an explanation. Korihor's words are inflammatory, yes, but I should hope that the chief judge and high priest Giddonah could see it objectively and not take personal offense. "Your people tied me up and brought me to you for judgment when I've not broken any laws. Here's what I told them." He's probably a bit grumpy about it. I would be.
+Text doesn't communicate tone very well. You could read this as a sniveling, sneering villain, accusing God's infallible ideology of being nonsensical, or you could read this as an explanation. Imagine Giddonah asking "Why are you here? What did you do to upset people?" "I'm here because I don't believe the things you do, and I think your following is conflating belief with knowledge." When Korihor makes his case, count how many times "because" appears in his explanation— for it is exactly that, an explanation. Korihor's words are inflammatory, yes, but I should hope that the chief judge and high priest Giddonah could see it objectively and not take personal offense. "Your people tied me up and brought me to you for judgment when I've not broken any laws. Here's what I told them." He's probably a bit grumpy about it. I would be.
 
 Let's not stray too far from verse 25 before emphasizing the central point inside. Korihor is saying that people shouldn't be punished for their parents' transgressions. Where have I heard that idea before? That's one of the [articles of faith](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p2#p2), written by our founding prophet Joseph Smith. Is Korihor wrong to point out accountability as taught by God's true church?
 
@@ -152,7 +152,7 @@ Quick side note: Verse 30 says Korihor is blaspheming.
 > 
 > *The punishment for willful and intentional blasphemy was death by stoning. Blasphemy against the Holy Ghost, which is willfully denying Christ after having received a perfect knowledge of Him from the Holy Ghost, is the unforgivable sin.*
 
-&mdash; *[Blasphemy](https://www.churchofjesuschrist.org/study/scriptures/bd/blasphemy?lang=eng)*, Bible Dictionary; see also *[Guide to the Scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/blaspheme-blasphemy?lang=eng)*
+— *[Blasphemy](https://www.churchofjesuschrist.org/study/scriptures/bd/blasphemy?lang=eng)*, Bible Dictionary; see also *[Guide to the Scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/blaspheme-blasphemy?lang=eng)*
 
 Boy, good thing these Nephites in the 🦅 land of the free 🎆 and 🍔 home of the brave 🇺🇸 don't have these kinds of laws, or Korihor's tale would have ended by now. Instead, he's just saying something [contemptuous](https://www.oxfordlearnersdictionaries.com/us/definition/english/contemptuous) (disrespectful) about a state religion.
 
@@ -167,7 +167,7 @@ Verses 32 - 34 contain Alma's rebuttal, defending himself that Alma doesn't get 
 #### The Debate
 Acknowledging again that this book is an abridgment, I'm going to paraphrase the next several verses (35 - 50). I've put in a link to the verses I'm summarizing, aggregated by speaker if you'd like to compare to the original text and read along.
 
-**[Alma](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p33-p35#p33)**: I'm not getting paid! I mean, I'm wealthy not because I'm the high priest, it's because I'm in the position of most power in a theocratic government&mdash; that's totally different. Why are you accusing me of getting paid and also of lying? Do you think we're deceiving people into being joyous and happy?
+**[Alma](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p33-p35#p33)**: I'm not getting paid! I mean, I'm wealthy not because I'm the high priest, it's because I'm in the position of most power in a theocratic government— that's totally different. Why are you accusing me of getting paid and also of lying? Do you think we're deceiving people into being joyous and happy?
 
 **[Korihor](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p36#p36)**: Yes. Misrepresenting truth doesn't always result in people being sad and miserable, you can lie to keep someone complacent.
 
@@ -177,11 +177,11 @@ Acknowledging again that this book is an abridgment, I'm going to paraphrase the
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p39-p42#p39)**: You're denying God exists? I *know* God exists, and that Christ will come. What evidence do you have that there is no God? [[logical-fallacies#Burden of Proof|You've got nothing but your words]]! I, on the other hand, have *everything* as a testimony that God exists, and I think you *do* believe, but [[logical-fallacies#Ad Hominem|you're just lying]] about it. [[Falsifiability#Teapot|You can't prove there is no God]]. Checkmate, nerd!
 
-**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p43#p43)**: That's my point&mdash; you don't *know*, you believe it. You just told me that I *believe*, in contrast to your *knowing*. Tell you what&mdash; you show me a sign, some demonstration of God's power, and then I'll believe your words. 
+**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p43#p43)**: That's my point— you don't *know*, you believe it. You just told me that I *believe*, in contrast to your *knowing*. Tell you what— you show me a sign, some demonstration of God's power, and then I'll believe your words. 
 
-**[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p44-p45#p44)**: How about this: You have the words of your peers, and also words of prophets in a religion you aren't part of. They've *even written things down* in scripture. And get this&mdash; ✨𝓅𝓁𝒶𝓃𝑒𝓉𝓈✨. Just look around you at things generally, you know, it all clearly shows God is real. Yet here you are, saying that isn't solid proof?
+**[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p44-p45#p44)**: How about this: You have the words of your peers, and also words of prophets in a religion you aren't part of. They've *even written things down* in scripture. And get this— ✨𝓅𝓁𝒶𝓃𝑒𝓉𝓈✨. Just look around you at things generally, you know, it all clearly shows God is real. Yet here you are, saying that isn't solid proof?
 
-**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p45#p45)**: ... Yes. That's a stupid argument. You're right that all I have are words, and your refutation is that you also have words from prophets&mdash; with the observation that we're on a planet. What the fuck are you saying? Do you hear yourself? Yes, I'm sticking with my belief, and I'm denying those "signs" because *they don't prove anything*. I do not bear the [[logical-fallacies#Burden of Proof|burden of proof]], here. I want *you* to back up *your* claims.
+**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p45#p45)**: ... Yes. That's a stupid argument. You're right that all I have are words, and your refutation is that you also have words from prophets— with the observation that we're on a planet. What the fuck are you saying? Do you hear yourself? Yes, I'm sticking with my belief, and I'm denying those "signs" because *they don't prove anything*. I do not bear the [[logical-fallacies#Burden of Proof|burden of proof]], here. I want *you* to back up *your* claims.
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p46#p46)**: YOU'RE MAKING ME SAD WHY ARE YOU BEING SO UNREASONABLE. How about this for an ultimatum: I, being the high priest of a church you aren't a part of, and chief judge in a theocratic government, will invoke the power of my church's God to strike you mute, so you can't lead people away from my beliefs anymore. How about *that*? 😤
 
@@ -189,7 +189,7 @@ Acknowledging again that this book is an abridgment, I'm going to paraphrase the
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p49-p50#p49)**: SHUT THE FUCK UP YOU CAN'T TALK ANYMORE
 
-![image](/img/neo-mouth.gif){: .center}
+![image](../../img/neo-mouth.gif){: .center}
 
 (Brief reminder: there is [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man’s belief)
 
@@ -232,11 +232,11 @@ In today's LDS church, we have [modern revelation](https://www.churchofjesuschri
 > 
 > ***8** If it be ==the devil as an angel of light==, when you ask him to shake hands he will offer you his hand, and you will not feel anything; you may therefore detect him.*
 
-&mdash; *[D&C 129:4-8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng&id=p4-p8#p4)*
+— *[D&C 129:4-8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng&id=p4-p8#p4)*
 
 But for whatever reason, Korihor did not extend his hand to the angel. Because he's not part of the church? Though he did recognize the angel for being a representative of a divine ruler. When Alma presented scriptures as a convincing testimony of God to Korihor, was this the first Korihor had encountered scriptures? If so, Korihor was completely blindsided by this angel, not being aware of God, nor that an angel could be a disguised devil, making Korihor all the more deserving of forgiveness. Could Korihor's experience be compared, even tangentially, to Joseph's [[First Vision]]? He had heavenly messengers appear. That doesn't happen to anyone, and would explain his conviction.
 
-He must have been aware of scriptures. If Korihor saw an angel purporting to represent God, that wouldn't mean much if Korihor wasn't aware of God&mdash; not to mention Korihor later stating that "I always knew."
+He must have been aware of scriptures. If Korihor saw an angel purporting to represent God, that wouldn't mean much if Korihor wasn't aware of God— not to mention Korihor later stating that "I always knew."
 
 &nbsp;
 
@@ -295,7 +295,7 @@ If you'd read this entire page of notes, you might recall way at the beginning o
 
 Since the [brief tangent describing laws and respective punishments](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p9-p11#p9) include "wicked" things like adultery or murder, and Korihor wasn't arrested for breaking laws, is it safe to assume he wasn't doing anything wicked? *Was* he wicked? We can demonstrate that Alma was wicked at one point.
 
-Stay with me, now&mdash; I've got a challenge for you to try on your own time.
+Stay with me, now— I've got a challenge for you to try on your own time.
 
 Re-read this chapter, but skip verses 6, 12, and 60. Doing that will remove the passages calling Korihor an Antichrist, and doesn't wrap it all up with the moral lesson at the end. Because without those verses, this is a story of a missionary who is teaching in earnest, in response to what he perceives as a divine calling. He gets rejected, persecuted for his beliefs, bound and brought before law enforcement, eventually cursed by the god of these people, and he gets trampled to death for it all. If we don't frame it in the context of "this guy is a [Snidely Whiplash](https://en.wikipedia.org/wiki/Snidely_Whiplash)-style cartoonish villain," this is a tragic story of someone who is just trying their best to follow their religious convictions. Korihor is met with heavy resistance, and Alma the Younger, who I will iterate again is the very antithesis of Christlike compassion, even with empathy for Korihor's experience, curses him and leaves him to die alone and hungry.
 
@@ -308,15 +308,15 @@ Who is the antichrist here? Is it Korihor who is just trying his best with limit
 > 
 > *Anything that opposes Christ or His doctrine will interrupt our joy. That includes the philosophies of men, so abundant online and in the blogosphere, which ==do exactly what Korihor did==.*
 
-&mdash; *[Joy and Spiritual Survival](https://www.churchofjesuschrist.org/study/general-conference/2016/10/joy-and-spiritual-survival?id=p27-p28&lang=eng#p27)*, President Russell M. Nelson, President of the Quorum of the Twelve Apostles, General Conference October 2016
+— *[Joy and Spiritual Survival](https://www.churchofjesuschrist.org/study/general-conference/2016/10/joy-and-spiritual-survival?id=p27-p28&lang=eng#p27)*, President Russell M. Nelson, President of the Quorum of the Twelve Apostles, General Conference October 2016
 
 &nbsp;
 
 > *Therefore, let us beware of false prophets and false teachers, both men and women, who are self-appointed declarers of the doctrines of the Church and who seek to spread their false gospel and attract followers by sponsoring ==symposia, books, and journals whose contents challenge fundamental doctrines of the Church==. Beware of those who speak and publish ==in opposition to God’s true prophets== and who actively proselyte others with reckless disregard for the eternal well-being of those whom they seduce. Like Nehor and Korihor in the Book of Mormon, they ==rely on sophistry to deceive and entice others to their views==. They “set themselves up for a light unto the world, that they may get gain and praise of the world; but they seek not the welfare of Zion” ([2 Ne. 26:29](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/26?lang=eng&id=29#p29)).*
 
-&mdash; *[Beware of False Prophets and False Teachers](https://www.churchofjesuschrist.org/study/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng&id=p19#p19)*, Elder M. Russell Ballard of the Quorum of the Twelve Apostles, General Conference October 1999
+— *[Beware of False Prophets and False Teachers](https://www.churchofjesuschrist.org/study/general-conference/1999/10/beware-of-false-prophets-and-false-teachers?lang=eng&id=p19#p19)*, Elder M. Russell Ballard of the Quorum of the Twelve Apostles, General Conference October 1999
 
-Don't worry about folks misrepresenting God, or Christ's teachings&mdash; here we're specifically warned against books that "challenge fundamental doctrines of ==the Church==." Anything in opposition to "God's true ==prophets==." 🤔
+Don't worry about folks misrepresenting God, or Christ's teachings— here we're specifically warned against books that "challenge fundamental doctrines of ==the Church==." Anything in opposition to "God's true ==prophets==." 🤔
 
 I guess that's what Korihor did? Challenged the status quo, as it was manifest in an earthly organization? Fortunately for all of us, acknowledging that [[What Do We Mean When We Say the Church Is True|leaders aren't perfect]] is a counter-argument against any of those accusations.
 
@@ -324,7 +324,7 @@ I guess that's what Korihor did? Challenged the status quo, as it was manifest i
 
 > *In real repentance, there is the actual forsaking of sinning. “Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.” ([Ezek. 18:30](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/18?lang=eng&id=30#p30).) ==A suffering Korihor confessed==, “I always knew that there was a God,” but his turning was still incomplete ([Alma 30:52](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p52#p52)); hence, “Alma said unto him: If this curse should be taken from thee thou wouldst again lead away the hearts of this people.” ([Alma 30:55](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p55#p55).)*
 
-&mdash; *[Repentance](https://www.churchofjesuschrist.org/study/general-conference/1991/10/repentance?id=p17&lang=eng#p17)*, Elder Neal A. Maxwell of the Quorum of the Twelve Apostles, General Conference October 1991
+— *[Repentance](https://www.churchofjesuschrist.org/study/general-conference/1991/10/repentance?id=p17&lang=eng#p17)*, Elder Neal A. Maxwell of the Quorum of the Twelve Apostles, General Conference October 1991
 
 That is a bold claim, that Korihor was unrepentant and wouldn't have changed his ways. I guess we can't question Alma's authoritative assessment, though.
 
@@ -346,6 +346,6 @@ Yes, he taught that under the pretense of a lack of evidence. There is no tangib
 
 > *Eventually Korihor was given a sign. He was struck dumb. “And Korihor put forth his hand and wrote, saying: … I know that nothing save it were the power of God could bring this upon me; yea, and I always knew that there was a God.”*
 
-&mdash; *[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2009/10/seeking-to-know-god-our-heavenly-father-and-his-son-jesus-christ?lang=eng&id=p32-p34#p32)*, Elder Robert D. Hales of the Quorum of the Twelve Apostles, General Conference October 2009
+— *[Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2009/10/seeking-to-know-god-our-heavenly-father-and-his-son-jesus-christ?lang=eng&id=p32-p34#p32)*, Elder Robert D. Hales of the Quorum of the Twelve Apostles, General Conference October 2009
 
 How would *you* respond to getting tied up and taken before high priests of another religion for speaking out, and ultimately cursed to be unable to communicate? Did you expect him to be grateful and happy about it?

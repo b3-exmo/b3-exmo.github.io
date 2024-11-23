@@ -2,6 +2,12 @@
 comments: true
 ---
 # ☝️🤓 Name "Mormon"
+> *Because of the Book of Mormon, ==we are frequently called the Mormon Church, a title we do not resent==, but it is really not accurate.*
+
+— *[Guided by the Holy Spirit](https://www.churchofjesuschrist.org/study/general-conference/2011/04/guided-by-the-holy-spirit?lang=eng&id=p8#p8)*, President Boyd K. Packer, President of the Quorum of the Twelve Apostles, General Conference 2011 April
+
+&nbsp;
+
 At the end of the day, one growing problem that the LDS church is facing is that continuous revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, Ensign. This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9).
 
 &nbsp;
@@ -39,7 +45,24 @@ I'd paraphrase the above quote as “we can’t stop people from calling us Morm
 
 Meaning "more good" is cited as a quote from Joseph Smith himself ([1](https://www.thechurchnews.com/1988/10/22/23263467/name-mormon-literally-means-more-good), [2](https://www.josephsmithpapers.org/paper-summary/letter-to-editor-circa-20-may-1843/1?highlight=more+good), [3](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/198?highlight=more+good)), and oh boy is that a baffling display of etymology.
 
-The matter faded out of official leadership discourse for 28 years, until...
+The matter was put on the back burner for another 20 years or so. We got a few gentle reminders once in a while.
+
+&nbsp;
+
+### M Russell Ballard
+> *While Mormon is not the full and correct name of the Church, and even though it was originally given by our detractors during our early years of persecution, ==it has become an acceptable nickname when applied to members== rather than the institution. ==We do not need to stop using the name Mormon when appropriate==, but we should continue to give emphasis to the full and correct name of the Church itself...*
+
+— *[The Importance of a Name](https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-importance-of-a-name?lang=eng&id=p23#p23)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference 2011 April
+
+&nbsp;
+
+> *The term* Mormon *can be appropriately used in some contexts to refer to members of the Church, such as Mormon pioneers, or to institutions, such as the Mormon Tabernacle Choir. Church members are widely known as Mormons, and in interactions with those not of our faith, ==we may fittingly refer to ourselves as Mormons==, provided we couple this with the full name of the Church.*
+
+— *[Following Up](https://www.churchofjesuschrist.org/study/general-conference/2014/04/following-up?lang=eng&id=p9#p9)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference April 2014
+
+Maybe I'm just a grump, but I think we could have just left it there. This sounds very reasonable. "Mormon" as a shorthand, but don't overlook the full name of the LDS church. If your conversation partner already understands the connection, go nuts.
+
+That is, until President Monson passes away. Conveniently, that's when God decided to shake things up. Not the prophet, he's only the mouthpiece!
 
 &nbsp;
 
@@ -63,7 +86,7 @@ Nelson. My guy. My main man. Calm down.
 
 Thus incites the insufferable corrections from pedantic missionaries the world over.
 
-I am not a mathematician. [Someone who is good with numbers](3600-for-candles.jpg), please help me determine which term's count of syllables is fewer:
+I am not a mathematician. [Someone who is good with numbers](../img/3600-for-candles.jpg), please help me determine which term's count of syllables is fewer:
 
 |   mor-mon   | a mem-ber of the church of je-sus christ of lat-ter day saints |
 | :---------: | :------------------------------------------------------------: |
@@ -73,7 +96,7 @@ If you, dear reader, have had an interaction like the above quote from Nelson co
 
 &nbsp;
 
-Here's a [side-by-side video comparison](https://www.youtube.com/watch?v=2lKQrYUE3yc) of Hinckley vs Nelson's arguments on the matter.
+For kicks, here's a [side-by-side video comparison](https://www.youtube.com/watch?v=2lKQrYUE3yc) of Hinckley vs Nelson's arguments on the matter.
 
 &nbsp;
 
@@ -115,7 +138,7 @@ Ok. Sure thing, buddy.
 ## A name given by enemies
 > *[T]he name Mormon, and Mormonism, was ==given to us by our enemies==, but Latter Day Saints was the real name by which the church was organized.*
 
-— Joseph Smith, Letter to Isaac Galland, 22 March 1839, p. 54, The Joseph Smith Papers, accessed May 26, 2024, https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/4#10621821545696261506
+— Joseph Smith, Letter to Isaac Galland, 22 March 1839, p. 54, The Joseph Smith Papers, accessed May 26, 2024, [https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/4#10621821545696261506](https://www.josephsmithpapers.org/paper-summary/letter-to-isaac-galland-22-march-1839/4#10621821545696261506)
 
 "enemies" has a footnote; let's expand that.
 

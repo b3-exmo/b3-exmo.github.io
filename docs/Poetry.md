@@ -47,7 +47,7 @@ I'll add things here as I encounter them, and find them compelling.
 > 
 > *in the family of things.*
 
-&mdash; *[Mary Oliver](https://www.poetry.com/poet/Mary+Oliver)*
+— *[Mary Oliver](https://www.poetry.com/poet/Mary+Oliver)*
 
 &nbsp;
 
@@ -62,4 +62,4 @@ I'll add things here as I encounter them, and find them compelling.
 > 
 > *I do not have to call you God if you cannot look me in the eye.*
 
-&mdash; Madeline Thatcher @missmadiejean
+— Madeline Thatcher @missmadiejean

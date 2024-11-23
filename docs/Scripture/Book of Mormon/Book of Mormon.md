@@ -21,7 +21,7 @@ What, _specifically_, does the Bible lack that the Book of Mormon clears up? Wha
 - Infant Baptism is wrong
 - ???
 
-People wouldn’t have worried about their baby dying before being baptized if they had ==temples== where the work could later be done by proxy. If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism. If the age of accountability is an eternal principle, then Nephites wouldn’t be bothered at all&mdash; outside of the standard emotional reaction to the loss of a loved one, of course.
+People wouldn’t have worried about their baby dying before being baptized if they had ==temples== where the work could later be done by proxy. If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism. If the age of accountability is an eternal principle, then Nephites wouldn’t be bothered at all— outside of the standard emotional reaction to the loss of a loved one, of course.
 
 &nbsp;
 
@@ -91,7 +91,7 @@ Props to John Larsen for presenting and illustrating this idea in [his podcast](
 >
 > *Imagine a parent in the mall scolding their child, saying "you little shit, you are an enemy to me! You have been since the day you were born, and always will be unless you do what I tell you to do. You have to do everything I say or else you're my enemy." One step further, "you will never* not *be my enemy, unless I punish your brother. You, on your own, will never be good enough."*
 
-I think it's a useful illustration&mdash; if our relationship to God is like that of a father and child, we can imagine literally a father and child having such an interaction as a third party.
+I think it's a useful illustration— if our relationship to God is like that of a father and child, we can imagine literally a father and child having such an interaction as a third party.
 
 How do you react in this imagined scenario? Do you think "wow that father sure loves his kids. Wish my dad was that chill." Or do you call CPS?
 
@@ -100,7 +100,7 @@ How do you react in this imagined scenario? Do you think "wow that father sure l
 ### Perfection
 > *In preparing for this conference address, I had the glorious experience of quietly examining several pages of Joseph’s original manuscript of the Book of Mormon, which is safely protected in the Church archive. I was overwhelmed at the purity of the transcription, which had ==only a very few insignificant corrections==, such as a misspelled word. ==Joseph’s original manuscript is so perfect== it could only have come from one source—divine revelation.*
 
-&mdash; *[The Translation Miracle of the Book of Mormon](https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12)*, Elder Robert K. Dellenbach of the Seventy, General Conference April 1995
+— *[The Translation Miracle of the Book of Mormon](https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12)*, Elder Robert K. Dellenbach of the Seventy, General Conference April 1995
 
 &nbsp;
 
@@ -110,7 +110,7 @@ How do you react in this imagined scenario? Do you think "wow that father sure l
 > 
 > *==Almost 4,000 editing corrections have been made== to the Book of Mormon since the first publication in 1830. For example: the word which has been changed to who 891 times; was has been changed to were 162 times; and the word that has been deleted 188 times. Other examples involve mistakes in the transcription process. While Joseph Smith and a scribe were translating in the book of Alma, for instance, the scribe misheard Joseph and wrote the word whether instead of wither. This mistake, which was included in the first edition, changed the complexion of the sentence and caused confusion among readers. Each correction that has been made has aimed at aligning the text with the original translation.*
 
-&mdash; *[Understanding the Process of Publishing the Book of Mormon](https://newsroom.churchofjesuschrist.org/article/understanding-the-process-of-publishing-the-book-of-mormon)*, Church Newsroom, 1 January 2008
+— *[Understanding the Process of Publishing the Book of Mormon](https://newsroom.churchofjesuschrist.org/article/understanding-the-process-of-publishing-the-book-of-mormon)*, Church Newsroom, 1 January 2008
 
 ... Was it five versions, or seven?
 
@@ -174,7 +174,7 @@ Huh. If I didn't know any better, I might assume that Joseph just plagiarized th
 
 Jesus does, by definition, visit the new world, but not all of it. He goes to one city. Not only that, but Zerahemla's buildings and infrastructure just got completely leveled— there isn't an auditorium or a gathering place. In an enclosed room, one's voice might reverberate from the walls enough to reach folks in the back row. They don't have rooms or buildings, just rubble and debris. Only the first 100 - 150 people to get to Jesus could hear him talk. And what does he talk about? The exact same message, suspiciously in the same 17th century English vernacular and style as the King James Version of the New Testament, repeated. 
 
-Imagine it: you just [lost your family](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p25#p25), your house, your livelihood; [populous cities just got flattened](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p14#p14) by storms and earthquakes, followed by a full [72 hours of people moaning and wailing in despair](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p23#p23) as their sight is blinded by dark mists. All you can feel is rubble and dead bodies around you, all you can hear is other people mourning, or those who were injured or maimed, having not yet died, but scream out in horror at their reality as they bleed out, dying slowly. Maybe you're pinned down under a collapsed wall, unable to free your shattered bones from the weight of the structure. No one can treat your wounds or help you&mdash; no one can *find* each other. You can't find food. Anyone in earshot of you is wallowing in their own excrement. Nothing to suggest that your condition will improve, or that your sight will ever return *for three days straight*. But hey, at least Jesus came here to tell you [the Lord's prayer](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p9-p13#p9). Just what you needed, right?
+Imagine it: you just [lost your family](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p25#p25), your house, your livelihood; [populous cities just got flattened](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p14#p14) by storms and earthquakes, followed by a full [72 hours of people moaning and wailing in despair](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p23#p23) as their sight is blinded by dark mists. All you can feel is rubble and dead bodies around you, all you can hear is other people mourning, or those who were injured or maimed, having not yet died, but scream out in horror at their reality as they bleed out, dying slowly. Maybe you're pinned down under a collapsed wall, unable to free your shattered bones from the weight of the structure. No one can treat your wounds or help you— no one can *find* each other. You can't find food. Anyone in earshot of you is wallowing in their own excrement. Nothing to suggest that your condition will improve, or that your sight will ever return *for three days straight*. But hey, at least Jesus came here to tell you [the Lord's prayer](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p9-p13#p9). Just what you needed, right?
 
 One could argue that this emphasizes how important that message is, that native Americans need it too— but part of what's dramatic about this book is the idea that it survived such great lengths to preserve for us, today, in 2024 to read as convincing evidence that God's one true church has been restored. *Those two ideas don't fit together*. Was it [[#For our day, or for JS’ day?|for us]], who already have the source material? We have the KJV already! Jesus appeared to Nephites after leveling their cities to talk to you and I in the 21st century? Was it for *our day*, more of a temporal matter than demographic— for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
 

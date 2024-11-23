@@ -43,13 +43,13 @@ Moroni took em idk lol
 
 > *Now that the translation was over and he had witnesses to support his miraculous testimony, Joseph no longer needed the plates. After the men left the woods and went back to the house, ==the angel appeared and Joseph returned the sacred record to his care==.*
 
-&mdash; *[Chapter 7, Fellow Servants](https://www.churchofjesuschrist.org/study/history/saints-v1/07-fellow-servants?lang=eng&id=p50#p50)*, Saints, Volume 1
+— *[Chapter 7, Fellow Servants](https://www.churchofjesuschrist.org/study/history/saints-v1/07-fellow-servants?lang=eng&id=p50#p50)*, Saints, Volume 1
 
 &nbsp;
 
 > *After the witnesses returned to the house ==the Angel again made his appearance to Joseph and received the the plates from his hands==.*
 
-&mdash; *Lucy Mack Smith, History, 1844–1845, Page [2], bk. 9, p. [2], bk. 9, The Joseph Smith Papers, accessed July 22, 2024, https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/106*
+— *Lucy Mack Smith, History, 1844–1845, Page [2], bk. 9, p. [2], bk. 9, The Joseph Smith Papers, accessed July 22, 2024, https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/106*
 
 😐 k
 

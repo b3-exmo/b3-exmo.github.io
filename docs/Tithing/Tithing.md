@@ -24,7 +24,7 @@ Please, list the ordinances I qualify for without paying any money. “Tithing i
 ## [[My own experience#Connecting the dots|As I See It]]
 In college, during the same semester that I was taking accounting classes, I encountered a MormonLeaks whistleblower report that the LDS church had an outrageous sum of money, not being disbursed. Trying to apply what I’ve learned from accounting, I resolved that the church surely has balance sheets and reports. They _could_ set the record straight about how much money they have, and where it’s going.
 
-In General Conference, I’d listen to their [[#Internal Audits|financial audit report]]. I was not impressed. “We have examined ourselves, and found us to be following our own rules.” What rules? Why not have an external audit? Can we get more detail than a pass/fail?
+In General Conference, I’d listen to their [[Audits#Internal Audit Reports|financial audit report]]. I was not impressed. “We have examined ourselves, and found us to be following our own rules.” What rules? Why not have an external audit? Can we get more detail than a pass/fail?
 
 If they do have accounts and reports, they are not publicly available. It sounds like a deliberate choice to conceal that information. I’m asked to send money to an organization with absolutely no accountability for how it’s used. I decided to not pay a dime more until I see some satisfying data on how the money gets used. That is tangible, quantitative information that can be reported, no faith needed. The number is there, but it is hidden from me.
 
@@ -76,11 +76,11 @@ I've got a separate page for some [[In General Conference|General Conference]] s
 
 — _[Chapter 12: Tithing, a Law for Our Protection and Advancement](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-lorenzo-snow/chapter-12-tithing-a-law-for-our-protection-and-advancement?lang=eng&id=title4-p12#title4)_, Teachings of Presidents of the Church: Lorenzo Snow
 
-![image](/img/tithing1.png){: .center}
+![image](../img/tithing1.png){: .center}
 
 That ellipsis and that footnote are doing some heavy lifting. What is it omitting? If only the church provided its own manuscript of that conference report. Alas, it does not. 1899 is too far back for its "official" archives to reach.
 
-![image](/img/tithing2.png){: .center}
+![image](../img/tithing2.png){: .center}
 
 >_I plead with you in the name of the Lord, and I pray that every man, woman and child ==who has means== shall pay one tenth of their income as a tithing._
 
@@ -134,7 +134,7 @@ How do we grapple with the cognitive dissonance of paying 10% of your money, but
 ### Tithing Slip
 The bottom of the tithing slip tells you everything you need to know:
 
-![image](/img/tithing3.png){: .center}
+![image](../img/tithing3.png){: .center}
 
 > _“Though reasonable efforts will be made globally to use donations as designated, all donations become the Church’s property and will be used at the Church’s sole discretion to further the Church’s overall mission.”_
 
@@ -245,7 +245,7 @@ Just say what you mean— you're trying to protect the church office building fr
 &nbsp;
 
 #### Opening Day
-![image](/img/City-Creek-opening.jpg){: .center}
+![image](../img/City-Creek-opening.jpg){: .center}
 _President Henry B. Eyring, first counselor in ==the First Presidency of The Church of Jesus Christ of Latter-day Saints== spoke at the City Creek Center opening. ==Church President Thomas S. Monson==, second counselor Dieter F. Uchtdorf and the Presiding Bishopric of the Church also attended the event 22 March 2012._
 
 — _[City Creek Center Opens](https://newsroom.churchofjesuschrist.org/article/city-creek-center-an-economic-revitalization)_, Church Newsroom
@@ -263,7 +263,7 @@ I don't think I need to point out that the City Creek project is not a homeless 
 
 >*It's ==Utah's Rodeo Drive== without the stuffiness. City Creek is home to the ==national, luxury, and local brands== you love in one of the most unique shopping environments in the country.*
 
-— _[City Creek Center – Shopping Elevated](https://www.utah.com/articles/post/city-creek-shopping-dining/#)_, utah.com ([[Sources and Links#[Deseret Management Corporation](https //www.deseretmanagement.com/ our-companies)|owned by the church]])
+— _[City Creek Center – Shopping Elevated](https://www.utah.com/articles/post/city-creek-shopping-dining/#)_, utah.com ([[Sources and Links#Deseret Management Corporation|owned by the church]])
 
 Don't forget to check out their list of [stores](https://shopcitycreekcenter.com/stores/) that are paying the Church to be in their mall. You can't even fucking [park there](https://citycreekparking.com/) without paying.
 

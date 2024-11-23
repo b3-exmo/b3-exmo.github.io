@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🏁 Race
-For 126 years, between [[Brigham Young|Brigham Young]]’s presidency beginning and 1978, imagine thousands of black Mormons praying to God to please lift the temple/priesthood ban… Then imagine David O’McKay praying about it and concluding, “Nah. We’re good for now.”
+For 126 years, between [[Brigham Young|Brigham Young]]’s presidency beginning and 1978, imagine thousands of black Mormons praying to God to please lift the temple/priesthood ban… Then imagine [David O’McKay praying about it](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood?lang=eng&id=p12#p12) and concluding, “Nah. We’re good for now.”
 
 A church that claims to be [[Restoration|restored]] by God should be ahead of the ‘[[Book of Mormon#Natural Man|natural man]]’ in getting things right, not behind. They took away the right of black members to enter the Celestial Kingdom, which is a spiritual issue, not a civil issue. The church likes to simply call it a priesthood ban, but let's not overlook that priesthood is a prerequisite for salvation. Folks were banned from salvation because of their race. I'll expound more on that later.
 
@@ -10,66 +10,7 @@ The LDS church has had some really odd takes on race in the past, and today like
 
 &nbsp;
 
-### [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood) notes
-> *Latter-day Saint scripture and teachings affirm that God loves all of His children and makes salvation available to all. God created the many diverse races and ethnicities and esteems them all equally. As the Book of Mormon puts it, “[all are alike unto God.](ptures/bofm/2-ne/26?lang=eng&id=p33#p33)”*
-
-Well... If we attribute scripture to divine revelation from God, I think [[Race in scripture|I could make an argument]] that perhaps *not* all are alike unto God. At least, not the God of the LDS church, as these problematic scriptures are exclusive to the Book of Mormon and Pearl of Great Price. Moreover, if we're to believe that prophets represent God, obtain and disseminate God's will, and speak in God's behalf such that [their voices are functionally indistinguishable](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38), I take issue when those prophets say and do some offensively racist things. That makes me think that the God of the LDS church esteems one race over another. Either that, or this given prophet was not called of God. Either way, we have a problem.
-
-&nbsp;
-
-> . . . *[F]or much of its history—from the mid-1800s until 1978—the Church did not ordain men of black African descent to its priesthood or allow black men or women to participate in temple endowment or sealing ordinances.*
-
-🤨 Didn't we just establish that "all are alike unto God?" Why would God's official restored church exclude a specific race for 126 years? Does God's official restored church not represent His will?
-
-I'd also like to point out this explicit acknowledgement that simply disallowing black men from holding priesthood authority cascades into other matters— if interracial marriage is also forbidden, that means anyone of African ancestry is simply not allowed to participate in saving ordinances. They can't be endowed nor sealed. Their families will not be [together forever](https://www.churchofjesuschrist.org/media/music/songs/families-can-be-together-forever-1989?lang=eng), explicitly because of Heavenly Father's plan. But don't worry too much, all are alike unto God. ... Maybe.
-
-Let's not overlook the nebulous "mid-1800s" timeframe. We can trace [down to the day](https://catalog.churchofjesuschrist.org/record/5df3b7da-d0a5-437b-8268-7dde8a87c76e/e6a939a0-3402-4771-814d-4eaf2547e613) when this doctrine was established by the prophet of God, to lead His one, true church. It was Thursday, 5 February 1852, and [finally reversed](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=eng) on Thursday, 1 June 1978. We're looking at 126 years, 3 months, and 27 days. 46,137 days of God, eternal and unchanging, being either completely oblivious or complacent before ultimately revealing that "actually, black folks are allowed to be saved now." Just a prank, bro.
-
-&nbsp;
-
-> *From the beginnings of the Church, people of every race and ethnicity could be baptized and received as members. Toward the end of his life, Church founder Joseph Smith openly opposed slavery. There has never been a Churchwide policy of segregated congregations.*
-
-We'll take a win when we can find one, I guess— "We never turned someone away from baptim... *based on their race*."
-
-"Toward the end of [Joseph's] life" seems to be a big qualifier. How did Smith feel about slavery for the other ~35 years before that nonspecific turning point?
-
-"There's never been a *churchwide* policy on segregated congregations" sounds like a hefty qualifier as well. It's even got a [footnote](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood?lang=eng#note3) on that sentence:
-
->*At some periods of time, reflecting local customs and laws, there were instances of segregated congregations in areas such as South Africa and the U.S. South.*
-
-It wasn't churchwide, though, so I guess we can just ignore the admittance of racial segregation in Mormon wards. 🙄
-
-&nbsp;
-
-> *During the first two decades of the Church’s existence, a few black men were ordained to the priesthood. One of these men, Elijah Abel, also participated in temple ceremonies [. . .] and was later baptized as proxy for deceased relatives in Nauvoo, Illinois. ==There is no reliable evidence== that any black men were denied the priesthood during Joseph Smith’s lifetime.*
-
-So... is there *unreliable* evidence of that? For an organization with a vested interest in one angle of a narrative to acknowledge and exclude evidence makes me think that evidence is worth examining. It makes me think that the reader should be the one to determine reliability.
-
-Asserting that there's "no reliable evidence" during Joseph Smith's presidency isn't quite the flex you seem to think it is. If we were to excuse him, we still have 11 other acting presidents of God's true, restored church to examine, not to mention their respective apostles and first presidencies, *all of whom* are called as prophets to bring God's will to us common folk. The easiest example to point to is [[Brigham Young|Brigham Young]]'s presidency, where we find some pretty unambiguous documentation on God's chosen vessel, representative, spokesman, being racist as *fuck*. Joseph's presidency has some conflicting information about racial dispositions— one day he’s for equality, others not so much. How should I feel about the idea that both men were called of God to be a prophet? I don't like the idea of pinning all of this on Joseph Smith. He's got [[Joseph Smith|his own set of issues]] to sort through, but this doctrine on race persisted well beyond Joseph's lifetime, lasting for an uncomfortably long time.
-
-&nbsp;
-
-> *The justifications for this restriction echoed the widespread ideas about racial inferiority that had been used to argue for the legalization of black “servitude” in the Territory of Utah. According to one view, which had been promulgated in the United States from at least the 1730s, blacks descended from the same lineage as the biblical Cain, who slew his brother Abel. Those who accepted this view believed that God’s “curse” on Cain was the mark of a dark skin. Black servitude was sometimes viewed as a second curse placed upon Noah’s grandson Canaan as a result of Ham’s indiscretion toward his father. Although slavery was not a significant factor in Utah’s economy and was soon abolished, the restriction on priesthood ordinations remained.*
-
-&nbsp;
-
-Stop distancing your history from these offensive ideas. *Don't even try that shit*, Brigham Young is on record as [[Brigham Young#Get the priesthood in some future day|teaching this exact idea as LDS doctrine]]. Once again, if God's voice and His prophet's voice are the same, [[Brigham Young#Race|God is the one advocating for slavery in Utah]]. If it's going to be "soon abolished," why did God, eternal and unchanging, allow His representative to enact it in the first place? What was the turnaround time for that change? Any common ground with an LDS ~~policy~~ doctrine from 2015 that got reversed?
-
-&nbsp;
-
-> *As the Church grew worldwide, its overarching mission to “go ye therefore, and teach all nations” seemed increasingly incompatible with the priesthood and temple restrictions. The [Book of Mormon](http://www.comeuntochrist.org/beliefs/book-of-mormon) declared that the gospel message of salvation should go forth to “every nation, kindred, tongue, and people.” While there were no limits on whom the Lord invited to “partake of his goodness” through baptism, the priesthood and temple restrictions created significant barriers, a point made increasingly evident as the Church spread in international locations with diverse and mixed racial heritages.*
->
-> *Brazil in particular presented many challenges. Unlike the United States and South Africa where legal and de facto racism led to deeply segregated societies, Brazil prided itself on its open, integrated, and mixed racial heritage. In 1975, the Church announced that a temple would be built in São Paulo, Brazil. As the temple construction proceeded, Church authorities encountered faithful black and mixed-ancestry Latter-day Saints who had contributed financially and in other ways to the building of the São Paulo temple, a sanctuary they realized they would not be allowed to enter once it was completed. Their sacrifices, as well as the conversions of thousands of Nigerians and Ghanaians in the 1960s and early 1970s, moved Church leaders.*
-
-What? The entire world doesn't see race the way America does? ... And the prophet of God for the entire world didn't anticipate that?
-
-This reminds me of the hand-waving I've encountered for treatment of LGBT folks— "we're not turning them away, they're welcome to attend sacrament meeting!" I mean, yeah, but they still can't participate in all of the requisite saving ordinances. To assert "we never prevented black folks from being baptized" is missing the point. They can't get into the temple, *even if they paid money to construct it*. What this sounds like to me is God wasn't involved in this decision to put a temple in São Paulo. Building a temple shouldn't result in a logistical problem for allowing demographics of members to even make use of it. Did God get blindsided by this discrepancy, too?
-
-&nbsp;
-
-> *Today, the Church disavows the ==theories== advanced in the past that black skin is a sign of divine disfavor or curse, or that it reflects unrighteous actions in a premortal life; that mixed-race marriages are a sin; or that blacks or people of any other race or ethnicity are inferior in any way to anyone else. Church leaders today unequivocally condemn all racism, past and present, in any form.*
-
-Yeah? That's what the church does? It "disavows theories advanced in the past?" [[Race in scripture#Book of Mormon|Scriptures contain]] incorrect theories? *Why are you calling doctrine theories?*
+Lots of my commentary revolves around the [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood?lang=eng) on Race. Those notes became long enough to warrant being put in [[Essay Race Priesthood|their own dedicated page]].
 
 &nbsp;
 
@@ -94,16 +35,23 @@ Secondary sources
 
 &nbsp;
 
-Sounds to me like the statement is "this is doctrine, not policy," and "they deserve it anyway."
+Sounds to me like the statement is "this is doctrine, not policy," and "they deserve it anyway." For it to be "unavailable for research" sounds to me like it implies "it exists; we know the document you're talking about, but we won't give it to you."
 
 &nbsp;
 
 ### Mark E Petersen
-This guy has numerous things to say about race. I'll put just one quote here, but I assure you that plenty more exist. I've got some additional excerpts [[Various Quotes#Mark E. Peterson|on another page]].
+This guy has numerous things to say about race. I'll put just one quote here, but I assure you that plenty more exist. I've got some additional excerpts [[Various Quotes#Mark E. Petersen|on another page]].
 
 > *I would be willing that they have all the advantages they can get out of life in the world. but let them enjoy these things among themselves. I ==think the Lord segregated the Negro and who is man to change that segregation==? It reminds me of the scripture on marriage, “what God hath joined together, let not man put asunder.” Only here we have the reverse of the thing—what God hath separated, let not man bring together again.*
 
 — *[Race Problems - As They Affect the Church](https://www.fairlatterdaysaints.org/answers/Primary_sources/Mark_E._Petersen/Race_Problems_-_As_They_Affect_the_Church)*, Mark E. Petersen, August 27, 1954 at the BYU Convention of Teachers of Religion on the College Level
+
+&nbsp;
+
+### Spencer W Kimball
+> *I am not sure that there will be a change, although there could be. We are under the dictates of our Heavenly Father, and ==this is not my policy or the Church’s policy. It is the policy of the Lord who has established it==, and I know of no change, although we are subject to revelations of the Lord in case he should ever wish to make a change.*
+
+— *[President Spencer W. Kimball Ordained Twelfth President of the Church: February 1974](https://www.churchofjesuschrist.org/study/ensign/1974/02/president-spencer-w-kimball-ordained-twelfth-president-of-the-church?lang=eng&id=p31#p31)*
 
 &nbsp;
 
@@ -200,11 +148,25 @@ So... if the prophet of God in 2006 can make this declaration, can it be retrofi
 
 &nbsp;
 
+### Leadership Charts
+Take a brief once-over of this chart depicting *General Authorities of the Church of Jesus Christ of Latter-Day Saints* in the mid-2010's:
 
+- 2013
+	- [LDS365](https://lds365.com/2013/10/29/general-authorities-chart-october-2013/) ([Archive](https://web.archive.org/web/20240722011555/https://lds365.com/2013/10/29/general-authorities-chart-october-2013/))
+	- [Ensign](https://www.churchofjesuschrist.org/study/ensign/2013/11/general-authorities-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng)
+	- [Church Newsroom](https://www.churchofjesuschrist.org/church/news/chart-of-general-authorities-available-for-download?lang=eng)
+- 2014
+	- [LDS365](https://lds365.com/2014/05/01/general-authority-chart-april-2014/)   ([Archive](https://web.archive.org/web/20240722022251/https://lds365.com/2014/05/01/general-authority-chart-april-2014/))
+	- [Ensign](https://www.churchofjesuschrist.org/study/ensign/2014/11/general-authorities-and-general-officers-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng)
+	- [LDS CDN](https://media.ldscdn.org/pdf/magazines/ensign-may-2014/2014-05-42-general-authorities-of-the-church-of-jesus-christ-of-latter-day-saints-eng.pdf) ([Archive](https://web.archive.org/web/20240805202602/https://media.ldscdn.org/pdf/magazines/ensign-may-2014/2014-05-42-general-authorities-of-the-church-of-jesus-christ-of-latter-day-saints-eng.pdf))
+
+The linked years don't have symmetrical content to compare. Maybe you can find the Newsroom & CDN links? I couldn't.
+
+These visualizations of the church's top leadership are noteworthy in this context of race because... glancing over all those faces, and count how many non-white leaders there are? I saw one black fellow in 2013, and two in 2014. This, to me, is an effect of the priesthood ban being in effect 35 years prior. Yes, black folks can now hold leadership roles, but has it really taken 35+ years for them to rank high enough to be counted among those in the church's top leadership? Don't worry though, they solved racism already. It's just that God still happens to favor successful white lawyers from Salt Lake county.
+
+&nbsp;
 
 # Reading Material
-https://www.churchofjesuschrist.org/study/history/topics/jane-elizabeth-manning-james?lang=eng
-
 ## Sources that I like
 
 - [https://www.ldsdiscussions.com/blog-come-follow-me](https://www.ldsdiscussions.com/blog-come-follow-me)
@@ -212,12 +174,10 @@ https://www.churchofjesuschrist.org/study/history/topics/jane-elizabeth-manning-
 - [https://www.ldsdiscussions.com/priesthood-ban-essay](https://www.ldsdiscussions.com/priesthood-ban-essay)
 
 ## Dubious sources
-
 - [http://www.utlm.org/onlinebooks/curseofcain_contents.htm](http://www.utlm.org/onlinebooks/curseofcain_contents.htm)
 - [http://signaturebookslibrary.org/neither-white-nor-black/](http://signaturebookslibrary.org/neither-white-nor-black/)
 - [http://static1.1.sqspcdn.com/static/f/773614/11417517/1301195240263/Mark_E_Petersen-Race_Problems_as_They_Affect_the_Church.pdf](http://static1.1.sqspcdn.com/static/f/773614/11417517/1301195240263/Mark_E_Petersen-Race_Problems_as_They_Affect_the_Church.pdf)
 
 ## Ambivalent sources
-
 - [https://wasmormon.org/authoritative-statement-by-the-lds-church-on-the-status-of-blacks-from-1949/](https://wasmormon.org/authoritative-statement-by-the-lds-church-on-the-status-of-blacks-from-1949/)
 - [https://wasmormon.org/mormon-leadership-dismisses-racist-doctrines-as-folklore/](https://wasmormon.org/mormon-leadership-dismisses-racist-doctrines-as-folklore/)

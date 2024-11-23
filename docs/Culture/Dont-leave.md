@@ -37,7 +37,7 @@ I'll still include some of the shorter passages for relevancy, but first, a glan
 > 
 > I have discovered in my ministry that those who have become lost [and] confused are typically those who have most often … forgotten that ==when the First Presidency and the Quorum of the Twelve speak with a united voice, it is the voice of the Lord for that time==. The Lord reminds us, ‘Whether by mine own voice or by the voice of my servants, it is the same’ [D&C 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1.38?lang=eng#p38).”
 
-&mdash; *[Stay in the Boat and Hold On!](https://www.churchofjesuschrist.org/study/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng&id=p17-p19#p17)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference 2014 April
+— *[Stay in the Boat and Hold On!](https://www.churchofjesuschrist.org/study/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng&id=p17-p19#p17)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference 2014 April
 
 Am I hearing right that when the upper 15 leaders of the church "speak with a unified voice," that means it's divine communication? So... what does that mean? If I heard them all chanting in unison, that would be creepy and weird. They speak in sequence, and broadly the only overlap in their respective messages is what you hear in Primary. I haven't heard Elder Kearon also insist that saying "Mormon" is a victory for Satan. Does that mean it wasn't "the voice of the Lord?"
 
@@ -48,7 +48,7 @@ Am I hearing right that when the upper 15 leaders of the church "speak with a un
 > 
 > *Never abandon the ==great truths revealed through the Prophet Joseph Smith==. Never stop reading, pondering, and applying the doctrine of Christ contained in the ==Book of Mormon==.*
 
-&mdash; *[To Whom Shall We Go?](https://www.churchofjesuschrist.org/study/general-conference/2016/10/to-whom-shall-we-go?lang=eng&id=p18-p19#p18)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference 2016 October
+— *[To Whom Shall We Go?](https://www.churchofjesuschrist.org/study/general-conference/2016/10/to-whom-shall-we-go?lang=eng&id=p18-p19#p18)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference 2016 October
 
 &nbsp;
 

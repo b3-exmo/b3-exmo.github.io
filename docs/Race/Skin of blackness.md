@@ -15,6 +15,20 @@ Believe it or not, this passage has stirred disagreements among those who've pra
 
 — [*2 Nephi 5 Chapter Header*](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p14#p14)
 
+&nbsp;
+
+Skipping ahead a few hundred years in the scriptural record, we get another mention of a "curse" that seems to revolve around skin color...
+
+> ***14** And it came to pass that those Lamanites who had united with the Nephites were numbered among the Nephites;*
+> 
+> ***15** And ==their curse was taken from them, and their skin became white== like unto the Nephites;*
+> 
+> ***16** And their young men and their daughters became exceedingly fair, and they were numbered among the Nephites, and were called Nephites. And thus ended the thirteenth year.*
+
+&nbsp;
+
+Huh. Must be some other kind of curse.
+
 And so, in an effort to drive critics away from the conclusion that this could be a 19th-century creation by one Joseph Smith, apologists will come up with numerous reasons for why "skin of blackness" *does not mean* "skin of blackness," because that would sound racist if we were to interpret the text at face value. After all, the Book of Mormon is [the most correct of any book](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19) on earth, and it contains [[Bible#Plain and Precious things|plain and precious things]] that are meant to clear up any ambiguity in the Bible, so this ought to be pretty clear, a real cut & dry case to get sorted out.
 
 &nbsp;
@@ -41,7 +55,7 @@ It sounds to me like Nephi's description of a “skin of blackness” must refer
 
 *Clothing*. We'll defend the idea that God cursed people who were white and delightsome "that they might not be enticing unto my people" by... giving them ugly clothes.
 
-![image](/img/bert-staredown.gif){: .center .size40}
+![image](../img/bert-staredown.gif){: .center .size40}
 
 For what it's worth, a poor fashion taste could be off-putting. I don't think the scriptural record describes much about the dating scene in ancient America. How did God cause, or force, the Lamanites to wear clothing that was dark? An affiliate deal with Hot Topic? How did God keep the Nephites' clothing white to distinguish from the Lamanites? What would prevent the Lamanites from wearing white clothing? How did this curse of clothing [extend to their descendants](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23)? Scripture Central, do you hear yourselves as you make this statement?
 
@@ -63,7 +77,7 @@ god dammit
 
 > *Others have suggested that the mark could have been an ancient tattoo. Tattooing was known in the ancient Near East and in the Americas among various Indigenous tribes in both North and South America. In Mesoamerica, it can be documented from as early as 1400 BC among the Olmec and, later, the Maya, as the practice was continued up through the Spanish Conquest. Most tattooing in ancient America was black, but some evidence exists for red tattoos at Chichen Itza, thus accounting for both the black or dark skin of the Lamanites and the red mark of the Amlicites ([Alma 3:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=eng&id=p4#p4)).*
 
-![image](/img/sigh-in-hebrew.gif){: .center}
+![image](../img/sigh-in-hebrew.gif){: .center}
 
 Look, I don't even know what to say at this point. Yeah, tattooing is also a practice among humans, irrespective of God's sore cursings. Are we implying that God tattooed the Lamanites in order to make them loathsome? Don't forget that "the Lord God did cause a skin of blackness to come upon them." They aren't cursed because they got tattoos, the curse *is* tattoos... According to this, one of three possible theories. Also isn't this curse is contingent that "[they shall repent of their iniquities](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p22#p22)?" And also [is hereditary](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23)?
 

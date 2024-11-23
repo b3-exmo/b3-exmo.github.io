@@ -10,7 +10,7 @@ I don't really know what to title this page. The intent is "don't look outside o
 > 
 > *Members of the Church should seek out and share only credible, reliable, and factual sources of information. They should avoid sources that are speculative or founded on rumor. The guidance of the Holy Ghost, along with careful study, can help members discern between truth and error (see [Doctrine and Covenants 11:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=eng&id=p12#p12); [45:57](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p57#p57)). In matters of doctrine and Church policy, the ==authoritative sources are the scriptures, the teachings of the living prophets, and the General Handbook==.*
 
-&mdash; *[Seeking Information from Reliable Sources](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number226-p2391#title_number226)*, Section 38.8.41, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
+— *[Seeking Information from Reliable Sources](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number226-p2391#title_number226)*, Section 38.8.41, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
 
 Yeah. Many sources of information are unreliable. I don't want anyone to consider that the LDS church has always been a reliable source, though. It's been known to obscure information. 
 
@@ -19,7 +19,7 @@ Yeah. Many sources of information are unreliable. I don't want anyone to conside
 ## Truly educated
 > *With the abundance of books available today, ==it is a mark of a truly educated man to know what not to read==.*
 
-&mdash; *[In His Steps](https://www.churchofjesuschrist.org/study/ensign/1988/09/in-his-steps?lang=eng&id=p20#p20)*, President Ezra Taft Benson, First Presidency Message, Ensign 1988 September
+— *[In His Steps](https://www.churchofjesuschrist.org/study/ensign/1988/09/in-his-steps?lang=eng&id=p20#p20)*, President Ezra Taft Benson, First Presidency Message, Ensign 1988 September
 
 There's a link to the source. Hop in and tell me if there's some context I'm missing, because it sure looks to me like he's redefining "education," conflating it to mean  "obedient to church leadership."
 
@@ -29,7 +29,7 @@ Truth be told, I encountered this not because I was flipping through a printed E
 
 > *As we humbly search the scriptures, we will come to know both Jesus Christ and his servant, Joseph Smith. In this connection, may I offer a suggestion to all of us? If we truly desire to know the Prophet, we must go to the right source—and that is not a Google search. As President Ezra Taft Benson taught, “Today, with the abundance of books available, it is the mark of a truly educated man to ==know what not to read==.” The Lord gave us the key to knowing Joseph Smith when he said, “seek ye out of the best books words of wisdom.” ==And what are the best books? They are the scriptures==. The Savior taught that we “shall know them by their fruits.” We will come to know the Prophet by daily partaking of his fruit—the scriptures—more than any other writings.*
 
-&mdash; *[Millions Shall Know Brother Joseph Again](https://www.byui.edu/speeches/jayson-kunzler/millions-shall-know-brother-joseph-again)*, Jayson Kunzler, BYU Devotionals, 20 October 2015
+— *[Millions Shall Know Brother Joseph Again](https://www.byui.edu/speeches/jayson-kunzler/millions-shall-know-brother-joseph-again)*, Jayson Kunzler, BYU Devotionals, 20 October 2015
 
 Hey, uh... Mr Kunzler? I... I can't think of a more polite way to remind you of this, but you're speaking at an accredited university, telling people that education means just reading scriptures, not researching independently. If I had heard this being proliferated at Virginia Tech, UCLA, or Berkley, I would lose respect for those institutions. BYU is a university, and students are being told to not read.
 
@@ -60,7 +60,7 @@ I'm willing to concede that I'm just some grump, but Alma's [war chapters](https
 > 
 > *“==I never ask myself, ‘When does the prophet speak as a prophet and when does he not?==’ My interest has been, ‘How can I be more like him?”*
 
-&mdash; *[Russell M. Nelson: A Study in Obedience](https://www.churchofjesuschrist.org/study/liahona/1983/01/russell-m-nelson-a-study-in-obedience?lang=eng&id=p40-p42#p40)*, Lane Johnson, Liahona 1983 January
+— *[Russell M. Nelson: A Study in Obedience](https://www.churchofjesuschrist.org/study/liahona/1983/01/russell-m-nelson-a-study-in-obedience?lang=eng&id=p40-p42#p40)*, Lane Johnson, Liahona 1983 January
 
 A more recent iteration of this was quoted in *[The Prophet of God](https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=eng&id=p30#p30)*, Elder Neil L. Andersen, Quorum of the Twelve Apostles, General Conference 2018 April; having that passage here was redundant, as it's practically a direct quote of the above.
 
@@ -104,4 +104,4 @@ You guys say you represent Jesus, right? Right.
 
 — *[Dieter F. Uchtdorf, “Come, Join with Us,” Ensign or Liahona, Nov. 2013](https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-morning-session/come-join-with-us?lang=eng&id=p48#p48)*
 
-I've mentioned this [[Doubts and Truth#Doubt Your Doubts|on another page]], but what I find disagreeable here is it actively encourages [[Cognitive Bias]]&mdash; if you heard something good about LDS teachings before you heard something bad, just disregard the bad information. You already know the "correct" answer. This means that if you were raised in the church like I was, just doubt anything negative you encounter. It'll be fine.
+I've mentioned this [[Doubts and Truth#Doubt Your Doubts|on another page]], but what I find disagreeable here is it actively encourages [[Cognitive Bias]]— if you heard something good about LDS teachings before you heard something bad, just disregard the bad information. You already know the "correct" answer. This means that if you were raised in the church like I was, just doubt anything negative you encounter. It'll be fine.

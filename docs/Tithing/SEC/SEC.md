@@ -36,7 +36,7 @@ Which of these options is more likely? Are there middle ground scenarios to cons
 
 (To be clear, I can get behind the idea of the US Govt as a whole being villainous. Please don't think I'd defend them, particularly within proximity to tax season.)
 
-I'll introduce the debacle with the church's take on things. They employ lots of "weasel words" to obfuscate what happened, minimize its impact, and present it in an innocuous way. When reading it, keep count of how many "non-specific" things they say. We'll later [[#Phrasing comparison|compare]] that to what the SEC says about the fine.
+I'll introduce the debacle with the church's take on things. They employ lots of "weasel words" to obfuscate what happened, minimize its impact, and present it in an innocuous way. When reading it, keep count of how many "non-specific" things they say.
 
 &nbsp;
 
@@ -65,7 +65,7 @@ The [SEC's page describing the form](https://www.sec.gov/divisions/investment/13
 
 > *Institutional investment managers [who,] in the course of their business and that exercise ==investment discretion over $100 million or more== in Section 13(f) securities must file Form 13F. See [Section 13(f)(1) of the Securities Exchange Act](https://www.sec.gov/about/laws/sea34.pdf).*
 
-![image](/img/joey-omg.gif){: .center}
+![image](../../img/joey-omg.gif){: .center}
 
 Sweet Jesus.
 

@@ -4,7 +4,7 @@ comments: true
 # 😏 Sealing
 What does *sealing* actually mean? 
 
-![image](/img/seals-seal.gif){: .center}
+![image](../../img/seals-seal.gif){: .center}
 
 Probably not that. But, irrespective of the religious connotation, I'll be including some GIFs of seals periodically, because seals are the best animal. Fight me.
 
@@ -13,7 +13,7 @@ Probably not that. But, irrespective of the religious connotation, I'll be inclu
 ## Eternal Marriage
 > *Sealing is "[an] ordinance performed in the temple eternally uniting a husband and wife, or children and their parents."*
 
-&mdash; *[Sealing](https://www.churchofjesuschrist.org/study/manual/gospel-topics/sealing?lang=eng&id=p1#p1)*, Topics & Questions, churchofjesuschrist.org
+— *[Sealing](https://www.churchofjesuschrist.org/study/manual/gospel-topics/sealing?lang=eng&id=p1#p1)*, Topics & Questions, churchofjesuschrist.org
 
 🤔 My understanding of the English language is such that we have a subject and a qualifying adjective. *Marriage* and *Eternal Marriage* seems like a good example of this. *Life* and *Eternal Life* also fits. To me, I find it odd that a religious institution thinks we need a new word or phrase when English does that work for us. We already have an effective way to communicate that "eternal marriage" is different from plain ol' regular marriage, and we know this by sticking the qualifier "eternal" before it. But within Mormonism, we have a completely different word to communicate the same thing... maybe. It makes me think that maybe this is meant to [[DC 132#4|obfuscate something]] that isn't socially acceptable.
 
@@ -25,11 +25,11 @@ Probably not that. But, irrespective of the religious connotation, I'll be inclu
 > 
 > *A husband and wife who are sealed in the temple make sacred covenants with the Lord and with each other. These covenants assure them that their  relationship will continue after this life if they are true to their commitments. They know that ==nothing, not even death, can separate them==.*
 
-&mdash; *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
+— *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
 
 Follow that link to Matt 16:19, and tell me how the idea of a marriage being made eternal relates to the verse of Jesus telling 1 (one) apostle about binding on earth. Also, please *only* read verses 7 and 15-19 of [[DC 132|D&C 132]], and not the rest of it, pls thx
 
-The idea of marriage persisting after death sounds romantic and appealing. No sarcasm here; I love my wife, and like the idea of staying with her after our mortality expires. The above statements&mdash; promising that marriage can persist after death&mdash; suggests that there is some kind of annulment if the marriage isn't done properly. Who does that? The only being I could anticipate having that influence would be God. What the hell, God? Why would you split up marriages if your entire intention is for us to [have joy](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&id=p24-p25#p24)? The null case compared to being sealed by the right authority assumes that God is going to forcibly divorce you from your spouse if you didn't get married *by the right subgroup of people* between 1830 and \[current year\], or hope that same subgroup does it for you [[#Posthumous Sealing|after you die]].
+The idea of marriage persisting after death sounds romantic and appealing. No sarcasm here; I love my wife, and like the idea of staying with her after our mortality expires. The above statements— promising that marriage can persist after death— suggests that there is some kind of annulment if the marriage isn't done properly. Who does that? The only being I could anticipate having that influence would be God. What the hell, God? Why would you split up marriages if your entire intention is for us to [have joy](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&id=p24-p25#p24)? The null case compared to being sealed by the right authority assumes that God is going to forcibly divorce you from your spouse if you didn't get married *by the right subgroup of people* between 1830 and \[current year\], or hope that same subgroup does it for you [[#Posthumous Sealing|after you die]].
 
 &nbsp;
 
@@ -38,7 +38,7 @@ The idea of marriage persisting after death sounds romantic and appealing. No sa
 > 
 > *Exaltation is the greatest gift that God can give His children ([Doctrine and Covenants 14:7](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/14.7#p6)). It is the reward for all those who prove faithful to the Lord. Those who receive and keep essential covenants with God will forever live in the highest degree of the celestial kingdom.*
 
-&mdash; *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
+— *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
 
 So... does this mean there's a difference between *sealing* and *eternal marriage*? We established that "sealing" *means* "eternal marriage," and now we're just calling it eternal marriage. In the same page, we've changed terms back, away from Mormon dogma. If we're setting the expectation that the two mean the same thing, I would anticipate sticking with the newer term to demonstrate its usage in conversation. This isn't a contradiction necessarily, but feels out of place to me.
 
@@ -58,7 +58,7 @@ Remember the scriptural quote a moment ago, saying that exaltation / eternal lif
 > 
 > *“How shall God come to the rescue of this generation? He will send Elijah the prophet. … Elijah shall reveal the covenants to ==seal== the hearts of the fathers to the children, and the children to the fathers.”*
 
-&mdash; *[Chapter 26: Elijah and the Restoration of the Sealing Keys](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-26?lang=eng&id=title8-p30#title8)*, Teachings of Presidents of the Church: Joseph Smith
+— *[Chapter 26: Elijah and the Restoration of the Sealing Keys](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-26?lang=eng&id=title8-p30#title8)*, Teachings of Presidents of the Church: Joseph Smith
 
 That is a direct quote from the teaching manual.
 
@@ -73,9 +73,9 @@ These are the scriptural passages used to justify sealing as a religious ordinan
 > 
 > *==The sealing ordinance is a gift from God== to His children. It enables us to return to live with Him and all of our loved ones forever. It offers ==marvelous blessings== for this life and the next. It is a constant reminder that families are central to God’s plan and to our happiness here and in eternity. It provides peace, hope, and joy for all who faithfully receive it.*
 
-&mdash; *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
+— *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
 
-I don't understand how sealing brings more meaning to life. This, like numerous other claims that the church makes, could only be demonstrated after you're dead. There is no benefit to sealing while you're alive&mdash; it takes effect after you die. It encourages us to be loyal and faithful? As opposed to all those filthy heathens who have no loyalty to their spouses, the whole world over? Don't you think that's insulting to the deep affections felt in other humans?
+I don't understand how sealing brings more meaning to life. This, like numerous other claims that the church makes, could only be demonstrated after you're dead. There is no benefit to sealing while you're alive— it takes effect after you die. It encourages us to be loyal and faithful? As opposed to all those filthy heathens who have no loyalty to their spouses, the whole world over? Don't you think that's insulting to the deep affections felt in other humans?
 
 Deceased people can't come back to church leadership to say "hey, you lied! This ordinance didn't actually help anything, God divorced us anyway!" Nor could they verify the claims by saying "Yeah, it's legit, and we're still married.. and dead." It's [[Falsifiability|non-falsifiable]]. There's no way for us to prove it, and there's no repudiation, recompense, or accountability if the verbal assurance doesn't pan out. "Just trust me, bro, doing what I say here will pay off after you're dead and can't talk back to me."
 
@@ -84,7 +84,7 @@ Deceased people can't come back to church leadership to say "hey, you lied! This
 ### Posthumous Sealing
 > *The Lord knows that not all of His children will have the opportunity to be married in this life. ==He has promised== that all who accept the gospel and strive to keep their covenants will have the opportunity to be married and have children ==either in this life or the next==.*
 
-&mdash; *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
+— *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
 
 🤦‍♂️ Herein lies my biggest hang-up with the Plan of Salvation. If eternal marriage is a saving ordinance that must be done here in mortality, but there's a literal promise that you can do it in the next life, then it isn't a saving ordinance. If we have a finite amount of time to spend here in mortality, but we have all of eternity after we die, then why do we have to do *any* ordinance here on earth? We're taught we'll be resurrected, Satan will be bound, and literally have infinite time to do everything. ==If there's an out, then it isn't a requirement== for our mortal life.
 
@@ -94,14 +94,14 @@ Ostensibly, we could have one person iterate through baptisms in behalf of every
 
 &nbsp;
 
-![image](/img/seal-silly.gif){: .center}
+![image](../../img/seal-silly.gif){: .center}
 
 &nbsp;
 
 ## Other Definitions
 > *To ==confirm or solemnize==. In the early 1830s, revelations often adopted biblical usage of the term seal; for example, “sealed up the testimony” referred to proselytizing and ==testifying of the gospel== as a warning of the approaching end time. JS explained in October of that year that high priests had power to “seal up the Saints unto ==eternal life==.” Similarly, a November 1831 revelation indicated that those being sent forth to preach at that time had the power “to ==seal both on earth & in heaven==, the unbelieving and rebellious.” JS and other church members also used the word seal to indicate that religious proceedings, prayers, blessings, anointings, or marriages solemnized by the proper authority would be ==recognized and efficacious in heaven==. Such sealings were performed in many ways: by the laying of hands on the person’s head, with uplifted hands, by prayer, by announcement, with hosannas or amens, or by combinations of these. ==Martyrs== were also described as sealing “their testimony with their blood.”*
 
-&mdash; *[Sealing](https://www.josephsmithpapers.org/topic/seal)*, Glossary, Joseph Smith Papers Project
+— *[Sealing](https://www.josephsmithpapers.org/topic/seal)*, Glossary, Joseph Smith Papers Project
 
 Right, so I count six different usages of the term in this glossary entry:
 
@@ -121,7 +121,7 @@ This doesn't match closely to the definition [[#Eternal Marriage|I showed earlie
 ### Sealed Records
 > *Early Latter-day Saints ==used the word seal in several different but related ways==. Seals were used to make contracts or agreements official. Seals of ink, wax, or embossed stamps validated the signatures on a contract. Many Bible readers interpreted passages mentioning the term seal as meaning something was ==rendered official in the eyes of God==.*
 
-&mdash; *[Sealing](https://www.churchofjesuschrist.org/study/history/topics/sealing?lang=eng&id=p1#p1)*, Church History Topics, churchofjesuschrist.org
+— *[Sealing](https://www.churchofjesuschrist.org/study/history/topics/sealing?lang=eng&id=p1#p1)*, Church History Topics, churchofjesuschrist.org
 
 &nbsp;
 
@@ -136,7 +136,7 @@ What's that? You tried to reproduce Jesus' communion as you read it in the New T
 ### Cross-generational sealing
 > *When Joseph Smith began to introduce temple ordinances in Nauvoo, he spoke of their power to ==bind, or seal, together people across generations==. In letters to the Church containing inspired teachings on baptisms for the dead, Joseph spoke of proxy baptisms as an ordinance that forged a “welding link” between the generations by extending salvation to the dead. He further noted that, ==in one sense, the ordinance had a “sealing and binding power==.” As the Saints entered the waters of baptism for their deceased family members, they bound together generations within an extended covenant family.*
 
-&mdash; *[Sealing](https://www.churchofjesuschrist.org/study/history/topics/sealing?lang=eng&id=p4#p4)*, *Baptism for the Dead and Eternal Families*, Church History Topics, churchofjesuschrist.org
+— *[Sealing](https://www.churchofjesuschrist.org/study/history/topics/sealing?lang=eng&id=p4#p4)*, *Baptism for the Dead and Eternal Families*, Church History Topics, churchofjesuschrist.org
 
 ... So I'm going to get eternally married to my great-great-aunt? Again, the null case here is that God is going to nullify the very structure of your family unless you get baptized properly. "Families *can be* together forever" is a refrain of the church on the surface, but the further I look into it, it seems that "families *will not be* together forever, unless you do what we say." What the hell, God?
 
@@ -161,7 +161,7 @@ Clear as day, I tell you. Sealing is so special that it means eternal marriage, 
 >
 > *==This practice continued until 1894==, when President Wilford Woodruff received a revelation that limited adoptive sealings and instead focused on sealing marriages and parent-child relationships.*
 
-&mdash; *[Sealing](https://www.churchofjesuschrist.org/study/history/topics/sealing?lang=eng&id=p7-p8#p7)*, *Adoption Sealings*, Church History Topics, churchofjesuschrist.org
+— *[Sealing](https://www.churchofjesuschrist.org/study/history/topics/sealing?lang=eng&id=p7-p8#p7)*, *Adoption Sealings*, Church History Topics, churchofjesuschrist.org
 
 Oh. It was doctrine until it wasn't anymore? Good thing we have a living prophet who obtains, understands, and disseminates God's will to us so that we don't have to change or revert years down the road.
 
@@ -169,7 +169,7 @@ Oh. It was doctrine until it wasn't anymore? Good thing we have a living prophet
 
 &nbsp;
 
-![image](/img/seal-come.gif){: .center}
+![image](../../img/seal-come.gif){: .center}
 
 &nbsp;
 
@@ -196,7 +196,7 @@ If you're up for it, you could open each year and respective month, and search t
 
 &nbsp;
 
-![image](/img/seal-sleepy.gif){: .center}
+![image](../../img/seal-sleepy.gif){: .center}
 
 &nbsp;
 
@@ -210,7 +210,7 @@ I see dates for baptism & confirmation, both in 1829. Initiatory & endowments in
 &nbsp;
 
 #### Joseph's Children
-Joseph & Emma had many of their children pass away before reaching adulthood. I'll acknowledge how somber that reality is, but it isn't the focus of today's exploration. [Alvin Smith](https://ancestors.familysearch.org/tree/person/KWVG-G7N), Joseph's firstborn, died in infancy&mdash; listed as having been born and deceased the same day of 15 June 1828. Alvin was sealed to Joseph & Emma on... 26 January 1978? That's... 150 years later? 
+Joseph & Emma had many of their children pass away before reaching adulthood. I'll acknowledge how somber that reality is, but it isn't the focus of today's exploration. [Alvin Smith](https://ancestors.familysearch.org/tree/person/KWVG-G7N), Joseph's firstborn, died in infancy— listed as having been born and deceased the same day of 15 June 1828. Alvin was sealed to Joseph & Emma on... 26 January 1978? That's... 150 years later? 
 
 I hope the temples aren't just recycling names to go through. The whole reason the site has the seven-character ID string is to differentiate between the [1,479,050](https://www.familysearch.org/search/discovery/results?page=1&results=12&q.birthLikeDate.from=1828&q.surname=smith&q.givenName=alvin) hits I found for "alvin smith" born in 1828. I have encountered anecdotal claims that the temples do recycle names, but don't find them reliable enough to point to. [Third normal form relational databases](https://en.m.wikipedia.org/wiki/Third_normal_form) should have a distinctive primary key, as is demonstrated in each record here. If the names are being recycled, and Alvin has been sealed more than once, maybe 1978 is the most recent iteration? I don't think that makes the possibility more palatable.
 
@@ -224,7 +224,7 @@ Joseph Smith Jr was so emotionally shaken by [his brother's passing](https://anc
 
 > *Again: The doctrine or sealing power of Elijah is as follows:—If you have power to seal on earth and in heaven, then we should be wise. ==The first thing you do, go and seal on earth your sons and daughters unto yourself==, and yourself unto your fathers in eternal glory.”*
 
-&mdash; *[Chapter 26, Elijah and the Restoration of the Sealing Keys](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-26?lang=eng&id=p26#p26)*, Teachings of Presidents of the Church: ==Joseph Smith==
+— *[Chapter 26, Elijah and the Restoration of the Sealing Keys](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-26?lang=eng&id=p26#p26)*, Teachings of Presidents of the Church: ==Joseph Smith==
 
 ... Well, he didn't seem to be in a hurry to do it for his own family. Who did he get sealed to, while living?
 
@@ -235,7 +235,7 @@ Are you ready for this situation to get worse? I hope you are, because it's abou
 &nbsp;
 
 #### Joseph's Wives
-In the interest of brevity, I won't copy over the names and dates&mdash; I think we've already established that he was married & sealed to numerous women. But I will tell you that Joseph's FamilySearch page, searching "sealing to spouse completed" yields 30 results. (Searching "sealed to spouse" shows redundant hits from the mouseover tooltip; don't use that number.)
+In the interest of brevity, I won't copy over the names and dates— I think we've already established that he was married & sealed to numerous women. But I will tell you that Joseph's FamilySearch page, searching "sealing to spouse completed" yields 30 results. (Searching "sealed to spouse" shows redundant hits from the mouseover tooltip; don't use that number.)
 
 I'm not clear how Joseph's "sealing to spouse" rows are sorted; it doesn't appear chronological, alphabetical, or by DoB. Once again, I'm uneasy with copying all of my findings to demonstrate here, but if you were to put those names & dates into a spreadsheet application, you could sort them yourself. When I do this, I find that Joseph was first sealed to Fanny Alger, not long after the infamous "dirty, nasty, filthy affair" that he was accused of being part of. Then is [Louisa Beaman](https://www.familysearch.org/tree/person/ordinances/KWVC-BP5), who... hey wait a minute, she was sealed in 1841, but wasn't baptized until 1843? Being a baptized member wasn't required in order to be sealed in the temple??
 
@@ -245,7 +245,7 @@ Yeah, Emma is in there, but... if you're going to tell me that this sealing powe
 
 &nbsp;
 
-![image](/img/seal-excited.gif){: .center}
+![image](../../img/seal-excited.gif){: .center}
 
 &nbsp;
 
@@ -297,9 +297,9 @@ Under the heading "*The practice of plural marriage was a test of faith*..."
 > 
 > *You may want to remind students that as they study about plural marriage, they should remember the pattern that the Prophet Joseph Smith followed in his gospel learning. He studied, pondered, and prayed to gain knowledge. They should also remember that ==much unreliable information about plural marriage exists on the Internet== and in many print sources. Some authors who write about the Church and its history present information ==out of context==, or they include ==partial truths== that can be misleading. The intent of some of these writings is to destroy faith.*
 
-![image](/img/talkin-bout-me.gif){: .center}
+![image](../../img/talkin-bout-me.gif){: .center}
 
-"Look, we're totally in the dark here. The prophet of the Restoration taught that this is required of us for salvation, but was *super* vague about it, and there aren't any reliable documents or teachings. This is such a non-issue that we have an entire lesson in this teacher's manual dedicated to how little information we have. Don't look online, though, that's where bad people are." Gotta get ahead of those rumors&mdash; we're the only trustworthy source of information, and we assert that *it's fine*. Don't ask anyone else.
+"Look, we're totally in the dark here. The prophet of the Restoration taught that this is required of us for salvation, but was *super* vague about it, and there aren't any reliable documents or teachings. This is such a non-issue that we have an entire lesson in this teacher's manual dedicated to how little information we have. Don't look online, though, that's where bad people are." Gotta get ahead of those rumors— we're the only trustworthy source of information, and we assert that *it's fine*. Don't ask anyone else.
 
 "marriage[...], meaning to live together as husband and wife" is such a strange choice of words. That's what marriage means? That's all that married heterosexual couples do, now that they have a certificate? Is this lesson meant for seven-year-old children?
 

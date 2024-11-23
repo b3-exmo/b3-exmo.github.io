@@ -4,14 +4,14 @@ comments: true
 # 👴 Book of Abraham
 The church does have a [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&old=true) about this.
 
-No part of it holds water.
+No part of it holds water. I'll comment on only a few parts&mdash; delving into the whole thing would be redundant, these quoted excerpts are enough to make my point.
 
 &nbsp;
 
 ## Written by whom?
 > _“A Translation of some ancient Records that have fallen into our hands from the catacombs of Egypt. ==The writings of Abraham== while he was in Egypt, called the Book of Abraham, ==written by his own hand==, upon papyrus.”_
 
-&mdash; *[Heading of the Book of Abraham](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=eng&id=study_intro1#study_intro1)*
+— *[Heading of the Book of Abraham](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=eng&id=study_intro1#study_intro1)*
 
 *Writings of Abraham. Written by his own hand on papyrus.*
 

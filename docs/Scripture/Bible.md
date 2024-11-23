@@ -29,7 +29,7 @@ But what I *have* found is what the church General Handbook has to say:
 
 > *The Church identifies editions of the Bible that ==align well with the Lord’s doctrine in the Book of Mormon== and modern revelation (see [Articles of Faith 1:8](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p8#p8)). A preferred edition of the Bible is then chosen for many languages spoken by Church members.*
 
-&mdash; *[Editions of the Holy Bible](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title257-p2708#title257)*, Section 38.8.40.1, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
+— *[Editions of the Holy Bible](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title257-p2708#title257)*, Section 38.8.40.1, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
 
 Read the rest of that section if you'd like. It sure sounds to me that the church is starting with the Book of Mormon as the baseline, and choosing a Bible edition that matches that. This handbook section isn't explicitly prioritizing the BoM *over* the Bible in terms of preference; that would be directly counter to what I was told to say while a missionary. Still, this feels gross and weird to read about.
 
@@ -85,7 +85,7 @@ No.
 
 > *The Council of the First Presidency and Quorum of the Twelve Apostles has not authorized efforts to translate or rewrite scripture text into modern or informal language. This counsel does not apply to Church publications for children.*
 
-&mdash; *[Scripture Translation](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*, *[Modern-Language Scriptures](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*,  Sections 38.8.40.2 & 38.8.40.3, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
+— *[Scripture Translation](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*, *[Modern-Language Scriptures](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*,  Sections 38.8.40.2 & 38.8.40.3, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
 
 &nbsp;
 
@@ -112,7 +112,7 @@ The only other name that comes to mind for biblical scholars is one [Dan McClell
 &nbsp;
 
 ## Who can translate?
-> *Now Ammon said unto him: I can assuredly tell thee, O king, of a man ==that can translate the records==; for he has wherewith that he can look, and translate all records that are of ancient date; and ==it is a gift from God==. And the things are called interpreters . . . [a]nd whosoever is commanded to look in them, the same is called ==seer==.*
+> *Now Ammon said unto him: I can assuredly tell thee, O king, of a man ==that can translate the records==; for he has wherewith that he can look, and translate all records that are of ancient date; and ==it is a gift from God==. And the things are called interpreters . . . [a]nd whosoever is commanded to look in them, ==the same is called seer==.*
 
 — *[Mosiah 8:13](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?lang=eng&id=p13#p13)*
 
@@ -174,7 +174,7 @@ Oh. It’s not… It’s not even a translation? It’s a revelation accompanime
 > 
 > *As [expressed](https://www.churchofjesuschrist.org/study/scriptures/bd/joseph-smith-translation?lang=eng) in the Bible Dictionary on churchofjesuschrist.org "The JST ==to some extent== assists in restoring the plain and precious things that have been lost from the Bible."*
 
-&mdash; *[What is the nature of the Joseph Smith Translation (JST)?](https://www.fairlatterdaysaints.org/answers/The_Joseph_Smith_Translation_of_the_Bible)*, FAIR
+— *[What is the nature of the Joseph Smith Translation (JST)?](https://www.fairlatterdaysaints.org/answers/The_Joseph_Smith_Translation_of_the_Bible)*, FAIR
 
 🙄 "To some extent" is the qualifier that lets us pick and choose when this [book of scripture](https://www.churchofjesuschrist.org/study/scriptures/jst?lang=eng) is actually scripture. Was Joseph just "acting as a man" while using his theological position of authority to correct existing records of other prophets? If this is no big deal, then it should be handled with equal credence to any other biblical commentary, and not be presented as "our founding prophet added corrections to an ancient document; we trust him to do this because he's super good at translating ancient documents."
 
@@ -187,7 +187,7 @@ Joseph Smith plagiarized his translation of the New Testament from Adam Clarke�
 >
 >> *Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply ==too numerous and explicit to posit happenstance or coincidental overlap==. The ==parallels between the two texts number into the hundreds==, a number that is well beyond the limits of this paper to discuss. A few of them, however, demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance. In presenting the evidence, we have attempted to both establish that Smith drew upon Clarke, likely at the urging of Rigdon, and we present here a broad categorization of the types of changes that Smith made when he used Clarke as a source.
 
-&mdash; *[Did Adam Clarke's Bible Commentary significantly influence the JST?](https://www.fairlatterdaysaints.org/answers/The_Joseph_Smith_Translation_of_the_Bible#Did_Adam_Clarke.27s_Bible_Commentary_significanly_influence_the_JST.3F)*; see also a short summary at BYU, [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](http://jur.byu.edu/?p=21296)
+— *[Did Adam Clarke's Bible Commentary significantly influence the JST?](https://www.fairlatterdaysaints.org/answers/The_Joseph_Smith_Translation_of_the_Bible#Did_Adam_Clarke.27s_Bible_Commentary_significanly_influence_the_JST.3F)*; see also a short summary at BYU, [A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation](http://jur.byu.edu/?p=21296)
 
 &nbsp;
 
@@ -195,7 +195,7 @@ FAIR then quotes the following from a faith-positive podcast called LDS Perspect
 
 >> *What we found, a student assistant (Hailey Wilson Lamone) and I, we discovered that in about 200 to 300 — depending on how much change is being involved — parallels where Joseph Smith has the ==exact same change to a verse that Adam Clarke does==. They’re verbatim. Some of them are 5 to 6 words; some of them are 2 words; some of them are a single word. But in cases where that single word is fairly unique or different, ==it seemed pretty obvious that he’s getting this from Adam Clarke==. What really changed my worldview here is now I’m looking at what appears obvious as a text person, that the prophet has used Adam Clarke. That in the process of doing the translation, he’s either read it, has it in front of him, or he reads it at night. We started to look back through the Joseph Smith History. There’s a story of his brother-in-law presenting Joseph Smith with a copy of Adam Clarke. We do not know whose copy of Adam Clarke it is, but we do know that Nathaniel Lewis gives it to the prophet and says, "I want to use the Urim and Thummim. I want to translate some of the strange characters out of Adam Clarke’s commentary." Joseph will clearly not give him the Urim and Thummim to do that, but we know he had it in his hands. Now looking at the text, we can say that a lot of the material that happens after Genesis 24. There are no parallels to Clarke between Genesis 1–Genesis 24. But when we start to get to Matthew, ==it’s very clear that Adam Clarke has influenced the way he changes the Bible==. It was a big moment. That article comes out in the next year. We provide appendi [sic] and documentation for some of the major changes, and we try to grapple with what this might mean.*
 
-&mdash; [Episode 55: Joseph Smith’s Use of Bible Commentaries in His Translations – Thomas A. Wayment](https://ldsperspectives.com/2017/09/26/jst-adam-clarke-commentary)  Latter-day Saint Perspectives
+— [Episode 55: Joseph Smith’s Use of Bible Commentaries in His Translations – Thomas A. Wayment](https://ldsperspectives.com/2017/09/26/jst-adam-clarke-commentary)  Latter-day Saint Perspectives
 
 I'll point out that this certainly appears to be the same Thomas Wayment who published a more [[#Could we get a re-translation?|modern translation]] of the New Testament. I'll again iterate that his education and credentials qualify him to be a reliable source, at least by my standards.
 
@@ -212,7 +212,7 @@ I imagine I could list other examples, but one that I've stumbled upon demonstra
 > 
 > *[Moses 1:23](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.23?lang=eng#p23) explains why the account of Moses overcoming Satan is not in our current Bible. It is interesting to note that the words Satan and devil do not appear in [Genesis 1–6](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng) in the Bible. ==Satan and devil appear over twenty times in the [Joseph Smith Translation](https://www.churchofjesuschrist.org/study/scriptures/jst/introduction?lang=eng) of these same chapters== ([Moses 1–8](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng)). One of the ways Satan tries to deceive people is to get them to believe he does not exist (see [2 Nephi 28:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28.22?lang=eng#p22)).*
 
-&mdash; *[Understanding the Scriptures](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-study-guide-obs/the-books-of-genesis-moses-and-abraham/moses-1-this-is-my-work-and-my-glory?lang=eng&id=aside1_title4-aside1_p50#aside1_title4)*, Moses 1: “This Is My Work and My Glory”, Old Testament Seminary Student Study Guide
+— *[Understanding the Scriptures](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-study-guide-obs/the-books-of-genesis-moses-and-abraham/moses-1-this-is-my-work-and-my-glory?lang=eng&id=aside1_title4-aside1_p50#aside1_title4)*, Moses 1: “This Is My Work and My Glory”, Old Testament Seminary Student Study Guide
 
 I may add others as I encounter them, but I'd argue that this excerpt does indicate that trying to downplay the JST's role is dishonest.
 

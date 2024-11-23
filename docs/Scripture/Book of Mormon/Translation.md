@@ -2,9 +2,8 @@
 comments: true
 ---
 # 👅 Book of Mormon Translation
-## [Gospel Topic Essay on BoM translation](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation)
-
-The following quotes are all taken from this essay; source links (should) take you to the paragraph in question.
+## Gospel Topic Essay on BoM translation
+The following quotes are all taken from [this essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation); source links (should) take you to the paragraph in question.
 
 > *Joseph’s wife Emma insisted that, at the time of translation, Joseph “could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon.”*
 
@@ -67,7 +66,7 @@ The PDF of [the 2004 print edition](https://www.churchofjesuschrist.org/bc/conte
 I found my wife's printed copy of PMG, and sure enough, there's the same illustration.
 Meanwhile, [the web edition](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p29#p29) accessible online, as well as the mobile Gospel Library app, have both omitted that illustration. 🤔
 
-![image](/img/pmg-plates.jpeg){: .center}
+![image](../../img/pmg-plates.jpeg){: .center}
 (_Photo taken from https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/_)
 
 Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-Mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
@@ -78,7 +77,7 @@ What’s worse, is that digging into these claims, I’ve felt the rhetoric that
 
 Oh, shut the fuck up.
 
-![image](/img/reading-plates.png){: .center}
+![image](../../img/reading-plates.png){: .center}
 
 ### Claims against using the plates
 > *When Cowdery returned to Church membership in 1848 he spoke to an Iowa conference. His words there were recorded by Reuben Miller: “I wrote with my own pen the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet as he translated it by the gift and power of God by means of the Urim and Thummim, or as it is called by that book, holy interpreters. I beheld with my eyes and handled with my hands the gold plates from which it was translated. I also beheld the Interpreters. That book is true. … I wrote it myself as it fell from the lips of the Prophet.”*
@@ -93,7 +92,7 @@ Oh, shut the fuck up.
 
 (Note: the above two sources have the same name, same year, different month, different content. Threw me off real good)
 
-See the below heading, [[A Treasured Testament - Elder Nelson, 1993]] as well.
+Then-Elder Nelson [[#"A Treasured Testament"|wrote about this]] in the Ensign in 1993.
 
 &nbsp;
 
@@ -200,10 +199,10 @@ Well. Alright. Granted, this account is published in 1874, and it doesn't explic
 
 &nbsp;
 
-## [A Treasured Testament](https://www.churchofjesuschrist.org/study/ensign/1993/07/a-treasured-testament?lang=eng) - Elder Nelson, 1993
+## "A Treasured Testament"
 > _“==Joseph Smith would put the seer stone into a hat==, and put his face in the hat, drawing it closely around his face to exclude the light; and in the darkness the spiritual light would shine. A piece of something resembling parchment would appear, and on that appeared the writing. One character at a time would appear, and under it was the interpretation in English. Brother Joseph would read off the English to Oliver Cowdery, who was his principal scribe, and when it was written down and repeated to Brother Joseph to see if it was correct, then it would disappear, and another character with the interpretation would appear. Thus the Book of Mormon was translated by the gift and power of God, and not by any power of man.”_
 
-_(David Whitmer, An Address to All Believers in Christ, Richmond, Mo.: n.p., 1887, p. 12.) Quote copied [from Nelson's address](https://www.churchofjesuschrist.org/study/ensign/1993/07/a-treasured-testament?lang=eng&id=p13#p13)._
+*(David Whitmer, An Address to All Believers in Christ, Richmond, Mo.: n.p., 1887, p. 12.) Quote copied [from Nelson's address](https://www.churchofjesuschrist.org/study/ensign/1993/07/a-treasured-testament?lang=eng&id=p13#p13).*
 
 So... no plates?
 

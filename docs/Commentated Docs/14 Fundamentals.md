@@ -130,7 +130,7 @@ Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, the
 > 
 > *“You may not like what comes from the authority of the Church. It may conflict with your political views. It may contradict your social views. It may interfere with some of your social life … Your safety and ours depends upon whether or not we follow … Let’s keep our eye on the President of the Church.” (Conference Report, October 1970, p. 152–153.)*
 
-![image](/img/robdown-facepalm.gif){: .center}
+![image](../img/robdown-facepalm.gif){: .center}
 
 "Your safety depends on your ability to abandon critical evaluation and do whatever I say."
 
@@ -144,7 +144,7 @@ Definitely not a cult lmao
 > 
 > *“Whatever God requires is right, no matter what it is, although we may not see the reason thereof until long after the events transpire.” (Scrapbook of Mormon Literature, vol. 2, p. 173).*
 
-What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "We can't trust anything D Michael Quinn says [[logical-fallacies#Ad Hominem|because he got excommunicated]]! Meanwhile let me quote from a dead prophet in an apocryphal scrapbook, and relate those words in in a university, and then redistribute it in the church's official magazine." [[#3|You just said to disregard past prophets]] what are you trying to tell us
+What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "We can't trust anything D Michael Quinn says [[logical-fallacies#Ad Hominem|because he got excommunicated]]! Meanwhile let me quote from a dead prophet in an apocryphal scrapbook, and relate those words in in a university, and then redistribute it in the church's official magazine." [[#*3. The living prophet is more important to us than a dead prophet.*|You just said to disregard past prophets]] what are you trying to tell us
 
 > *“For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.” ([Isa. 55:8–9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.8-9?lang=eng#p8).)*
 

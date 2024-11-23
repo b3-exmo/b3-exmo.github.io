@@ -8,7 +8,7 @@ comments: true
 > 
 > *In our day the garment ==encourages modesty==, but its significance is much deeper. For Church members who have received the endowment, the garment reminds them of their connection to God, their commitment to follow His will, and the blessings and protection God has promised the faithful. The First Presidency of the Church has stated that how the garment is worn “==is an outward expression of an inward commitment== to follow the Savior.”*
 
-&mdash; *[Garments](https://www.churchofjesuschrist.org/study/manual/gospel-topics/garments?lang=eng&id=p1#p1)*, Topics and Questions
+— *[Garments](https://www.churchofjesuschrist.org/study/manual/gospel-topics/garments?lang=eng&id=p1#p1)*, Topics and Questions
 
 The advice from the First Presidency is cited to a "First Presidency letter, Oct 10, 1988." I cannot find this letter documented anywhere, but it sure does get [referenced frequently](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&page=1&query=%22First+Presidency+letter%2C+Oct+10%2C+1988%22).
 
@@ -24,7 +24,7 @@ I do know that poor diet choices that result in some juicy flatulence means that
 > 
 > *Explain that those who have participated in the temple ceremony are ==privileged== to wear the garment of the holy priesthood. In a statement to the Church, the First Presidency said [... it] is an ==outward expression of an inward commitment== to follow the Savior.*
 
-&mdash; *[Lesson 6: Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/lesson-6?lang=eng&id=p20-p21#p20)*, Temple Preparation class manual
+— *[Lesson 6: Preparing to Enter the Holy Temple](https://www.churchofjesuschrist.org/study/manual/endowed-from-on-high/lesson-6?lang=eng&id=p20-p21#p20)*, Temple Preparation class manual
 
 "This is important. You should understand how important it is. *It's a privilege.*" Yeah okay so what does it mean, though?
 
@@ -39,15 +39,15 @@ I do know that poor diet choices that result in some juicy flatulence means that
 > 
 > *"... How it is worn is an ==outward expression of an inward commitment== to follow the Savior."*
 
-&mdash; *[Prepare for the Blessings of the Temple](https://www.churchofjesuschrist.org/study/ensign/2010/10/prepare-for-the-blessings-of-the-temple?lang=eng&id=title7-p21#title7)*, Elder Russell M. Nelson, Quorum of the Twelve Apostles, Ensign October 2010
+— *[Prepare for the Blessings of the Temple](https://www.churchofjesuschrist.org/study/ensign/2010/10/prepare-for-the-blessings-of-the-temple?lang=eng&id=title7-p21#title7)*, Elder Russell M. Nelson, Quorum of the Twelve Apostles, Ensign October 2010
 
 &nbsp;
 
 > *The First Presidency has stated, “==It is a sacred privilege to wear the garment== and doing so is an ==outward expression of an inner commitment== to follow the Savior Jesus Christ.” Every time we participate in a priesthood ordinance, serve others, engage in prayer, or study the gospel, for example, we are showing an “outward expression” of our own individual commitment to follow the Savior. While the temple garment is not visible to the world, wearing it faithfully can provide a ==constant reminder to the wearer of sacred temple covenants made with God==—a symbol of our desire to become what God knows we can be.*
 
-&mdash; *[The Temple Garment: A Sacred Reminder of the Lord Jesus Christ](https://www.churchofjesuschrist.org/study/liahona/2022/06/digital-only-young-adults/the-temple-garment-a-sacred-reminder-of-the-lord-jesus-christ?lang=eng&id=p9#p9),* Temple Department staff
+— *[The Temple Garment: A Sacred Reminder of the Lord Jesus Christ](https://www.churchofjesuschrist.org/study/liahona/2022/06/digital-only-young-adults/the-temple-garment-a-sacred-reminder-of-the-lord-jesus-christ?lang=eng&id=p9#p9),* Temple Department staff
 
-This First Presidency quote is more recent, and I can find a [primary source](https://newsroom.churchofjesuschrist.org/multimedia/file/first-presidency-temple-recommend-letter.pdf) for it. Isn't it funny how LDS religious practices that go against our better judgment are called "[[Tithing#It's a privilege!|a privilege]]" by leadership?
+This First Presidency quote is more recent, and I can find a [primary source](https://newsroom.churchofjesuschrist.org/multimedia/file/first-presidency-temple-recommend-letter.pdf) for it. Isn't it funny how LDS religious practices that go against our better judgment are called "[[Tithing#Paying is a privilege!|a privilege]]" by leadership?
 
 Another excerpt from the same page quoted above:
 
@@ -67,7 +67,7 @@ I have yet to find [[What are blessings|what blessings]] to expect from wearing 
 >
 > *As I keep my covenants and obligations with God, including wearing the garment of the holy priesthood, ==my very life can become a personal symbol== of my love and deep gratitude for my Savior, Jesus Christ, and my desire to have Him with me always.*
 
-&mdash; *[Put Ye On the Lord Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2024/04/14dennis?lang=eng&id=p15,p18#p15)*, Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency, General Conference 2024 April
+— *[Put Ye On the Lord Jesus Christ](https://www.churchofjesuschrist.org/study/general-conference/2024/04/14dennis?lang=eng&id=p15,p18#p15)*, Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency, General Conference 2024 April
 
 I will applaud Sister Dennis here for not citing that 1988 letter's "outward expression" explanation. Her remarks (by my estimation) don't quite satisfy the questions of what their purpose is or why we do them. It's symbolic, and they're related to Jesus in some way.
 
@@ -88,13 +88,13 @@ Is this one of those topics that is [[Too Sacred to Share|too sacred to share]]?
 > 
 > *In 1926, LDS Church apostle David O. McKay offered an updated description that was later incorporated into the church's endowment ceremony. According to McKay's explanation, the "mark of the Compass" represents "an undeviating course leading to eternal life; a constant reminder that desires, appetites, and passions are to be kept within the bounds the Lord has set; and that all truth may be circumscribed into one great whole"; the "mark of the Square" represents "exactness and honor" in keeping the commandments and covenants of God; the navel mark represents "the need of constant nourishment to body and spirit"; and the "knee mark" represents "that every knee shall bow and every tongue shall confess that Jesus is the Christ".*
 
-&mdash; *[Temple Garment](https://en.wikipedia.org/wiki/Temple_garment#Garment_markings)*, Wikipedia
+— *[Temple Garment](https://en.wikipedia.org/wiki/Temple_garment#Garment_markings)*, Wikipedia
 
 &nbsp;
 
 ... Was that so hard? In three paragraphs, Wikipedia just ran circles around the dozen or so LDS materials I had read that skirted the issue, insisting that it has "deep symbolic significance" and contrasting outward and inward. Those descriptions from McKay are the ones that I remember hearing as a practicing Mormon. I will also concede that those explanations I had heard were vague recollections at best, when every day I put them on. I was much more worried about how often they shrank in the laundry, resulting in a poor fit. I was also anxious about the possibility of them becoming visible to a passerby, and how would I explain wearing two layers of clothes in the summer months while living in Florida.
 
-Also, hold the phone, now&mdash; a collar? Double-knotted strings? I have some follow-up questions here. Those things with divinely appointed symbolism were removed some time between 1883 and 1926, likely because of the industrial revolution making textile manufacturing more streamlined. Making the two-piece garment into a t-shirt and shorts style is presumably more accessible, easier to make, easier to don, and presumably cheaper. Who knew that God's eternal covenants would be so heavily influenced by capitalism? Moreover, in the linked Wikipedia article is an image of the classic garment, a one-piece, long-sleeved, full-length article of clothing, featuring a collar and strings to tie together. Go check it out if you'd like to. 
+Also, hold the phone, now— a collar? Double-knotted strings? I have some follow-up questions here. Those things with divinely appointed symbolism were removed some time between 1883 and 1926, likely because of the industrial revolution making textile manufacturing more streamlined. Making the two-piece garment into a t-shirt and shorts style is presumably more accessible, easier to make, easier to don, and presumably cheaper. Who knew that God's eternal covenants would be so heavily influenced by capitalism? Moreover, in the linked Wikipedia article is an image of the classic garment, a one-piece, long-sleeved, full-length article of clothing, featuring a collar and strings to tie together. Go check it out if you'd like to. 
 
 For President John Taylor to share this insight in 1883 makes me wonder if the symbolism had explanations during Smith or Young's respective presidencies. I know that there exists lots of reading material about the intersection of Free Masonry and Mormon temples, including those symbols. Did folks during Smith's presidency have an outlined symbolism explanation?
 
@@ -107,14 +107,14 @@ Presumably garments are "blessed" in some way, or else the church could provide 
 
 Or, since garments aren't meant to be visible to an observer, do the signs need to be physically perceptible to anyone? I'm aware of a Catholic tradition of "the Sign of the Cross," being made up of a short ritualistic set of gestures and a verbal recitation, "In the name of the Father, and of the Son, and of the Holy Spirit. Amen."  ([1](https://www.catholic.org/news/hf/faith/story.php?id=87283), [2](https://www.catholic.com/tract/sign-of-the-cross), [3](https://catholic-link.org/correct-sign-of-the-cross-catholic/), [4](https://en.wikipedia.org/wiki/Sign_of_the_cross), [5](https://catholicsbible.com/why-do-catholics-cross-themselves/)) Quick and easy. Imagine if LDS temple garments were replaced by something similar: gesture over the location of your body where the symbol would physically be, reciting the description from Elder McKay. Would that be more meaningful than knee-length underdrawers?
 
-I suppose that the LDS church likes to avoid "rote prayer" to avoid vain repetition&mdash; something loses its meaning if it's mundane and routine. In my own experience, temple garments become just regular ol' underpants after a few weeks. Maybe *once a month* I would examine the symbols and consider that they have any significance at all. The rest of the time, my thoughts were "these are uncomfortable, they are cumbersome, and I don't like them." They're unflattering. No, I am not suggesting they should be provocative and alluring; I'm suggesting that a single solution for large demographics is arrogant and misguided. 
+I suppose that the LDS church likes to avoid "rote prayer" to avoid vain repetition— something loses its meaning if it's mundane and routine. In my own experience, temple garments become just regular ol' underpants after a few weeks. Maybe *once a month* I would examine the symbols and consider that they have any significance at all. The rest of the time, my thoughts were "these are uncomfortable, they are cumbersome, and I don't like them." They're unflattering. No, I am not suggesting they should be provocative and alluring; I'm suggesting that a single solution for large demographics is arrogant and misguided. 
 
 &nbsp;
 
 ## Worthiness
 > *A few years ago, in a seminar for new temple presidents and matrons, Elder James E. Faust, then of the Quorum of the Twelve Apostles, told about his being called to serve as a General Authority. He was asked only one question by President Harold B. Lee: “Do you wear the garments properly?” to which he answered in the affirmative. ==He then asked if President Lee wasn’t going to ask him about his worthiness. President Lee replied that he didn’t need to==, for he had learned from experience that how one wears the garment is the expression of how the individual feels about the Church and everything that relates to it. ==It is a measure of one’s worthiness and devotion to the gospel==.*
 
-&mdash; *[The Temple Garment: “An Outward Expression of an Inward Commitment”](https://www.churchofjesuschrist.org/study/manual/eternal-marriage-student-manual/temple-preparation/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=figure1_p4#figure1_p4)*, *Eternal Marriage Student Manual*, Elder Carlos E. Asay, Emeritus Member of the First Quorum of the Seventy; also in [Ensign, 1997 August](https://www.churchofjesuschrist.org/study/ensign/1997/08/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=p3#p3)
+— *[The Temple Garment: “An Outward Expression of an Inward Commitment”](https://www.churchofjesuschrist.org/study/manual/eternal-marriage-student-manual/temple-preparation/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=figure1_p4#figure1_p4)*, *Eternal Marriage Student Manual*, Elder Carlos E. Asay, Emeritus Member of the First Quorum of the Seventy; also in [Ensign, 1997 August](https://www.churchofjesuschrist.org/study/ensign/1997/08/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=p3#p3)
 
 Name-dropping anecdotes for a rhetorical ethos isn't what I would call doctrine, personally. This quote does make it sound like we could do away with [temple recommend interviews](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29) and just ask about your garments. Works for apostles, why not us?
 
@@ -129,7 +129,7 @@ Let's not overlook that this does set a precedent for garment-checking our peers
 > 
 > *Members should not inappropriately display the garment to those who do not understand its significance.*
 
-&mdash; *[Section 38.5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number234-title241#title_number234)*
+— *[Section 38.5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number234-title241#title_number234)*
 
 Wouldn't you know it, this section also shares the following insight: *"When you put on your garment, you put on a sacred symbol of Jesus Christ. Wearing it is an ==outward expression of your inner commitment== to follow Him."* Fantastic, thanks for that guidance.
 
@@ -139,7 +139,7 @@ Wouldn't you know it, this section also shares the following insight: *"When you
 > 
 > *The garment is a sacred symbol of Jesus Christ. The way we care for our garments should reflect that sacred symbolism.*
 
-&mdash; *[Section 38.5.6](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p_wvuEo-p_wNONh#p_wvuEo)*
+— *[Section 38.5.6](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p_wvuEo-p_wNONh#p_wvuEo)*
 
 &nbsp;
 
@@ -147,7 +147,7 @@ Wouldn't you know it, this section also shares the following insight: *"When you
 > 
 > *To dispose of worn-out temple garments, members should cut out and destroy the marks. Members then cut up the remaining fabric so it cannot be identified as a garment. The remaining cloth can be discarded.*
 
-&mdash; [Section 38.5.9](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number236-p2452#title_number236)
+— [Section 38.5.9](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number236-p2452#title_number236)
 
 &nbsp;
 
@@ -160,7 +160,7 @@ If you want to be extra spicy, you could [search the Old Testament](https://www.
 ## Modesty
 > *“The principles of ==modesty== and ==keeping the body appropriately covered== are implicit in the covenant and should govern the nature of all clothing worn. Endowed members of the Church wear the garment as a reminder of the sacred covenants they have made with the Lord and also as a protection against temptation and evil. How it is worn is an ==outward expression of an inward commitment== to follow the Savior.”*
 
-&mdash; First Presidency Letter, 10 Oct. 1988; Copied from the Institute *[Eternal Marriage Student Manual](https://www.churchofjesuschrist.org/study/manual/eternal-marriage-student-manual/temple-preparation/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=figure1_p31#figure1_p31)* mentioned above
+— First Presidency Letter, 10 Oct. 1988; Copied from the Institute *[Eternal Marriage Student Manual](https://www.churchofjesuschrist.org/study/manual/eternal-marriage-student-manual/temple-preparation/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=figure1_p31#figure1_p31)* mentioned above
 
 Sure wish I could find that letter to link to. Also that this "outward expression" refrain would actually convey some kind of meaning. I'm not sure that modesty is a relevant factor. Keeping your body appropriately covered by a subjective measure is hardly a new idea in Mormonism.
 
@@ -168,9 +168,9 @@ Sure wish I could find that letter to link to. Also that this "outward expressio
 
 > *And young women, please understand that if you dress immodestly, ==you are magnifying this problem by becoming pornography== to some of the men who see you.*
 
-&mdash; *[Pornography](https://www.churchofjesuschrist.org/study/general-conference/2005/04/pornography?lang=eng&id=p47#p47)*, Elder Dallin H. Oaks, Quorum of the Twelve Apostles, General Conference 2005 April
+— *[Pornography](https://www.churchofjesuschrist.org/study/general-conference/2005/04/pornography?lang=eng&id=p47#p47)*, Elder Dallin H. Oaks, Quorum of the Twelve Apostles, General Conference 2005 April
 
-![image](/img/kabangu-eyeroll.gif){: .center .size40}
+![image](../img/kabangu-eyeroll.gif){: .center .size40}
 
 "I, in a position of authority, have difficulty not sexualizing 'young women,' and it is *their fault*. They're becoming porn. This is an outward expression of my inward repression, and definitely not at all related to my 1946 high school experience."
 
@@ -183,7 +183,7 @@ Alright, tell me if this is too much of a stretch: this apostolic advice is dire
 > 
 > *“Immodest clothing includes short shorts and skirts, tight clothing, shirts that do not cover the stomach, and other revealing attire. ==Young women should wear clothing that covers the shoulder== and avoid clothing that is low-cut in the front or the back or revealing in any other manner. Young men should also maintain modesty in their appearance. ..."*
 
-&mdash; *[Modesty Matters](https://www.churchofjesuschrist.org/study/ensign/2006/06/modesty-matters?lang=eng&id=p43#p43)*, Ensign June 2006; quoting from *For the Strength of Youth* pamphlet, 2001
+— *[Modesty Matters](https://www.churchofjesuschrist.org/study/ensign/2006/06/modesty-matters?lang=eng&id=p43#p43)*, Ensign June 2006; quoting from *For the Strength of Youth* pamphlet, 2001
 
 It always bugged me when girls had these explicit parameters specified, and boys had "uh, you be modest too, I guess."
 
@@ -201,7 +201,7 @@ It always bugged me when girls had these explicit parameters specified, and boys
 > 
 > *I have found this to be a good exercise for checking my modesty and hope that it can be helpful to others as well.*
 
-&mdash; *[Questions & Answers](https://www.churchofjesuschrist.org/study/ensign/2011/06/questions-and-answers?lang=eng&id=p4-p9#p4)*, Ensign June 2011
+— *[Questions & Answers](https://www.churchofjesuschrist.org/study/ensign/2011/06/questions-and-answers?lang=eng&id=p4-p9#p4)*, Ensign June 2011
 
 What? No, we're not a cult.
 
@@ -209,7 +209,7 @@ What? No, we're not a cult.
 
 > *In everyday living, immodest clothing such as short shorts, miniskirts, tight clothing, shirts that do not cover the stomach, and other revealing attire are not appropriate. Men and women—including young men and young women—should wear clothing that ==covers the shoulder== and avoid clothing that is low cut in the front or back or revealing in any other manner. Tight pants, tight shirts, excessively baggy clothing, wrinkled apparel, and unkempt hair are not appropriate.*
 
-&mdash; *[Modesty: Reverence for the Lord](https://www.churchofjesuschrist.org/study/ensign/2008/08/modesty-reverence-for-the-lord?lang=eng&id=p11#p11)*, Elder Robert D. Hales, Quorum of the Twelve Apostles, Ensign August 2008
+— *[Modesty: Reverence for the Lord](https://www.churchofjesuschrist.org/study/ensign/2008/08/modesty-reverence-for-the-lord?lang=eng&id=p11#p11)*, Elder Robert D. Hales, Quorum of the Twelve Apostles, Ensign August 2008
 
 "Those aren't poodle skirts from 1951! Blasphemy! Since [I represent God](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=38#p38), and I don't like it, that means God doesn't like it either. Get off my lawn."
 
@@ -223,7 +223,7 @@ What? No, we're not a cult.
 > 
 > *For Elise, the alterations were a little more extensive, but the result was just as rewarding. With the help and expertise of her grandmother, Elise ==constructed sleeves for her dress==. “When you’re modest,” she said, “you can focus on what matters: how you act. I want to enter the temple one day, so I need to prepare now for that day. One of the ways I do that is by ==dressing modestly==.”*
 
-&mdash; *[Modest by Design](https://www.churchofjesuschrist.org/study/new-era/2010/06/modest-by-design?lang=eng&id=p5-p7#p5)*, Julia Woodbury, New Era June 2010
+— *[Modest by Design](https://www.churchofjesuschrist.org/study/new-era/2010/06/modest-by-design?lang=eng&id=p5-p7#p5)*, Julia Woodbury, New Era June 2010
 
 I am not female, so this is an experience I cannot empathize with... but really, was this "rewarding?" There could be some social value in bonding with Grandma over a craft. I have little experience with sewing to create my own Halloween costumes, and must admit that it was kind of fun. How intrinsically satisfying was it to put a bolero jacket over your "cute black dress?" If your entire worth as a human is contingent upon temple-[[Culture#Worthiness|worthiness]], then I guess it's very fulfilling...?
 
@@ -231,7 +231,7 @@ I am not female, so this is an experience I cannot empathize with... but really,
 
 > *My mom sewed for me, helped me choose modest clothing, and told me of her decision years before. When I was in high school looking for a formal gown to wear to the prom, she took me shopping. We searched and searched for something appropriate, and finding nothing in our area, we drove three hours to Salt Lake City. There we found a beautiful and perfectly modest pink gown. Her sacrifice of time showed me that dressing modestly was important to her. And it was at that dance I realized how important it had become to me as well. I felt like a princess in my dress. ==I noticed how uncomfortable some of the other girls seemed to be in their dresses. Many of them spent the evening keeping tiny straps on their shoulders or tugging at the bodices of strapless gowns. They did not look like they were having much fun.==*
 
-&mdash; *[Mom’s Commitment to Modesty](https://www.churchofjesuschrist.org/study/ensign/2011/06/moms-commitment-to-modesty?lang=eng&id=p7#p7)*, Kelly Ann Peterson, Ensign June 2011
+— *[Mom’s Commitment to Modesty](https://www.churchofjesuschrist.org/study/ensign/2011/06/moms-commitment-to-modesty?lang=eng&id=p7#p7)*, Kelly Ann Peterson, Ensign June 2011
 
 Yeah, or they could also just be awkward, self-conscious teenagers. There are a variety of factors that could contribute to enjoying a prom experience. Again acknowledging that I am not female, I would imagine that having a bad date to accompany you could be a big factor. Maybe they don't normally wear bodices every day, so it's unfamiliar, making them conscientious of the fit?
 
@@ -250,7 +250,7 @@ So... I guess we can demonstrate that the church has a very strange fascination 
 
 ... What's that? They made a sleeveless garment top design?
 
-![image](/img/garment-top.png){: .center}
+![image](../img/garment-top.png){: .center}
 
 If I was a woman, having grown up in the LDS church's youth program, I imagine that I would be *livid* by this development. The [Salt Lake Tribune](https://web.archive.org/web/20241106161048/https://www.sltrib.com/religion/2024/10/16/lds-temple-garments-women-rejoice/) describes this new variety targeted toward LDS members "in hot climates such as Uganda, Kenya, South Africa, the Philippines and some southern U.S. locations." 
 

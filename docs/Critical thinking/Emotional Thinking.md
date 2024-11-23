@@ -4,7 +4,7 @@ comments: true
 # 🥺 Emotional Thinking
 > **Emotional reasoning** is a [cognitive](https://en.wikipedia.org/wiki/Cognitive "Cognitive") process by which an individual concludes that their [emotional](https://en.wikipedia.org/wiki/Emotion "Emotion") reaction proves something is true, despite contrary [empirical evidence](https://en.wikipedia.org/wiki/Empirical_evidence "Empirical evidence").
 
-&mdash; *[Emotional reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning)*, Wikipedia
+— *[Emotional reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning)*, Wikipedia
 
 &nbsp;
 
@@ -77,7 +77,7 @@ I don't know that I should call this uniquely human, but I can emphasize that th
 
 > *Elevation is an emotion elicited by witnessing ==actual or imagined== virtuous acts of remarkable moral goodness. It is experienced as a distinct feeling of warmth and expansion that is accompanied by appreciation and affection for the individual whose exceptional conduct is being observed. Elevation motivates those who experience it to open up to, affiliate with, and assist others. Elevation makes an individual feel lifted up and optimistic about humanity.*
 
-&mdash; *[Elevation_(emotion)](https://en.wikipedia.org/wiki/Elevation_(emotion))*, Wikipedia
+— *[Elevation_(emotion)](https://en.wikipedia.org/wiki/Elevation_(emotion))*, Wikipedia
 
 &nbsp;
 
@@ -96,13 +96,13 @@ I don't know that I should call this uniquely human, but I can emphasize that th
 > 
 > So, elevation gives you an injection of the feel-good cuddle hormone, helps you be more open, feel connected to others and hopeful about humanity, care less about stuff and more about meaning, reduces bias (racism, homophobia) and makes you more likely to help people.
 
-&mdash; *[Elevation: What is it and why do we need it?](https://www.thepositivepsychologypeople.com/elevation-what-is-it-and-why-do-we-need-it/)*, Sarah Monk, The Positive Psychology People, January, 2021
+— *[Elevation: What is it and why do we need it?](https://www.thepositivepsychologypeople.com/elevation-what-is-it-and-why-do-we-need-it/)*, Sarah Monk, The Positive Psychology People, January, 2021
 
 &nbsp;
 
 > *I believe we cannot have a full under­standing of human morality until we can explain why and how human beings are so powerfully affected by the sight of a stranger helping another stranger. For the past several years I have studied this feeling, which I call “elevation.” I have deﬁned elevation as a warm, uplifting feeling that people experience when they see unexpected acts of human good­ness, kindness, courage, or compassion. It makes a person want to help others and to become a better person himself or herself.*
 
-&mdash; *[Wired to be Inspired](https://greatergood.berkeley.edu/article/item/wired_to_be_inspired)*, Greater Good Magazine, berkeley.edu
+— *[Wired to be Inspired](https://greatergood.berkeley.edu/article/item/wired_to_be_inspired)*, Greater Good Magazine, berkeley.edu
 
 &nbsp;
 
@@ -115,7 +115,7 @@ The article quoted above, from Greater Good Magazine, isn't some theological aut
 ### The Spirit™
 > *But, behold, I say unto you, that you must study it out in your mind; then you must ask me if it be right, and ==if it is right I will cause that your bosom shall burn within you; therefore, you shall feel that it is right==.*
 
-&mdash; [D&C 9:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=eng&id=p8#p8)
+— [D&C 9:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=eng&id=p8#p8)
 
 &nbsp;
 
@@ -129,7 +129,7 @@ The article quoted above, from Greater Good Magazine, isn't some theological aut
 > 
 > *We all feel the Holy Spirit in our own way. Sometimes it’s described in the Bible as a “still small voice” ([1 Kings 19:12](https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/19?lang=eng&id=p12#p12)) that almost seems to whisper to your mind.*
 
-&mdash; *[The Holy Spirit](https://www.churchofjesuschrist.org/comeuntochrist/uk/beliefs/coming-closer-to-god/holy-spirit)*, Come unto Christ, churchofjesuschrist.org (UK)
+— *[The Holy Spirit](https://www.churchofjesuschrist.org/comeuntochrist/uk/beliefs/coming-closer-to-god/holy-spirit)*, Come unto Christ, churchofjesuschrist.org (UK)
 
 &nbsp;
 
@@ -141,7 +141,7 @@ The article quoted above, from Greater Good Magazine, isn't some theological aut
 > 
 > *The Holy Ghost causes our feelings to be more tender. We feel more charitable and compassionate with each other. We are ==more calm== in our relationships. We have a ==greater capacity to love== each other. People want to be around us because our very countenances radiate the influence of the Spirit. We are more godly in our character. As a result, we become increasingly more sensitive to the promptings of the Holy Ghost and thus able to comprehend spiritual things more clearly.*
 
-&mdash; *[Chapter 12, Seek the Spirit in All You Do](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-12-seek-the-spirit-in-all-you-do?lang=eng&id=p19-p23#p19)*, Teachings of Presidents of the Church: Ezra Taft Benson
+— *[Chapter 12, Seek the Spirit in All You Do](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-12-seek-the-spirit-in-all-you-do?lang=eng&id=p19-p23#p19)*, Teachings of Presidents of the Church: Ezra Taft Benson
 
 &nbsp;
 
@@ -151,7 +151,7 @@ The article quoted above, from Greater Good Magazine, isn't some theological aut
 > 
 > *As soon as Howard left President McKay’s office, he went to his hotel room and called Claire, who was in Provo visiting their son John and his wife and their baby. At first Howard could hardly speak. When he finally told Claire of the calling, they were both overcome with emotion.*
 
-&mdash; *[The Life and Ministry of Howard W. Hunter](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-howard-w-hunter/the-life-and-ministry-of-howard-w-hunter?lang=eng&id=p61-p63#p61)*
+— *[The Life and Ministry of Howard W. Hunter](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-howard-w-hunter/the-life-and-ministry-of-howard-w-hunter?lang=eng&id=p61-p63#p61)*
 
 &nbsp;
 
