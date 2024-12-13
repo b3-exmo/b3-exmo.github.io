@@ -69,9 +69,13 @@ How many other religious leaders get a lynching mob sent after them while they'r
 ## As was foretold...
 > ***33** He called me by name, and said unto me that he was a messenger sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that ==my name should be had for good and evil among all nations==, kindreds, and tongues, or that it should be both good and evil spoken of among all people.*
 
-link below
+&mdash; [Joseph Smith - History 1:33](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33)
 
-Joseph Smith's name [shall be had for good and for evil](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33) among all nations? What exactly does that mean? Hasn't Mark Zuckerberg's name also been had for good and evil among all nations? Mussolini? Czar Nicholas III? Michael Jackson? Sam Bankman-Fried? Anyone with a wide reach will have their name for good and evil. Having both fanatic supporters and vitriolic opponents doesn't make Joseph Smith special.
+Joseph Smith's name "shall be had for good and for evil among all nations"? What exactly does that mean? Hasn't Mark Zuckerberg's name also been had for good and evil among all nations? Mussolini? Czar Nicholas III? Michael Jackson? Sam Bankman-Fried? Anyone with a wide reach will have their name for good and evil. Having both fanatic supporters and vitriolic opponents doesn't make Joseph Smith special.
+
+I could also say something pretty similar about myself. I bet someone will like what I wrote and have positive things to say. I also imagine someone will find it egregiously offensive and voice that opinion. (on the *internet* of all places 🫢) Observing this won't make me special, either. Go check YouTube's front page for whichever high-profile content creator is prevalent this month. If they anticipated both fame and infamy, would that make them a prophet?
+
+&nbsp;
 
 ## Misinformation
 Lots of information can be found about Joseph Smith. The LDS church's correlated material really likes to focus on the positive, faith-promoting angle, and occasionally criticizes the naysayers for spreading misinformation.

@@ -82,6 +82,7 @@ Is this one of those topics that is [[Too Sacred to Share|too sacred to share]]?
 
 &nbsp;
 
+#### Outside source
 > *The marks in the garments are sacred symbols. The V-shaped symbol on the left breast was referred to as "The Compasses", while the reverse-L-shaped symbol on the right breast was referred to by early church leaders as "The Square".*
 > 
 > *According to a description by church president John Taylor in 1883, the "Square" represents "the justice and fairness of our Heavenly Father, that we will receive all the good that is coming to us or all that we earn, on a square deal", and the "Compasses" represents "the North Star". ... [T]he collar represented the idea that the Lord's "yoke is easy and burden is light", or the "Crown of the Priesthood"; the double-knotted strings represented "the Trinity" and "the marriage covenant"; the navel mark represents "strength in the navel and marrow in the bones"; and the knee mark represents "that every knee shall bow and every tongue confess that Jesus is the Christ".*
@@ -101,11 +102,11 @@ For President John Taylor to share this insight in 1883 makes me wonder if the s
 &nbsp;
 
 ### Embroidery
-I've read the symbolism of being covered by the garment is symbolic of being covered by the atonement, and in the above section we read an explanation for the literal symbols on the garments themselves. In early days of the church, the symbols (sometimes called 'signs') were *cut* into the fabric ([1](https://www.britannica.com/topic/temple-garment), [2](https://en.wikipedia.org/wiki/Temple_garment#Garment_markings)) before later iterations embroidered or screen-printed on. So... Is it those signs that make the garment special? 
+I've read the symbolism of being covered by the garment is symbolic of being covered by the atonement, and in the above section we read an explanation for the literal symbols on the garments themselves. In early days of the church, the symbols (sometimes called 'signs') were *cut* into the fabric ([1](https://www.britannica.com/topic/temple-garment), [2](https://en.wikipedia.org/wiki/Temple_garment#Garment_markings)) before later iterations embroidered or screen-printed on. I really do find it bizarre that the symbols are positioned right at the wearer's areola. Whether cut out of the fabric or embroidered on, both are weird. When cut out, was this a way to garment-check your peers in winter time?
 
-Presumably garments are "blessed" in some way, or else the church could provide some kind of kit or guideline for how to put those markings on your own clothing. Imagine how much simpler things would be if you could just use a marker or whatever, sketch an L and a V on the inner fabric of your bra, and call it a day. Or, if you'd prefer to not modify your clothing, what if you were to place those markings directly on your body? It could be something washable like mascara. Tattooing anything on ones areola sounds unpleasant. Could we make our own garments? The church general handbook says "[no.](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p2444#p2444) You have to *buy* them from *us*."
+Is it those signs that make the garment special? Presumably garments are "blessed" in some way, or else the church could provide some kind of kit or guideline for how to put those markings on your own clothing. Imagine how much simpler things would be if you could just use a marker or whatever, sketch an L and a V on the inner fabric of your bra, and call it a day. Or, if you'd prefer to not modify your clothing, what if you were to place those markings directly on your body? It could be something washable like mascara. Tattooing anything on ones areola sounds unpleasant. Could we make our own garments? The church general handbook says "[no.](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p2444#p2444) You have to *buy* them from *us*."
 
-Or, since garments aren't meant to be visible to an observer, do the signs need to be physically perceptible to anyone? I'm aware of a Catholic tradition of "the Sign of the Cross," being made up of a short ritualistic set of gestures and a verbal recitation, "In the name of the Father, and of the Son, and of the Holy Spirit. Amen."  ([1](https://www.catholic.org/news/hf/faith/story.php?id=87283), [2](https://www.catholic.com/tract/sign-of-the-cross), [3](https://catholic-link.org/correct-sign-of-the-cross-catholic/), [4](https://en.wikipedia.org/wiki/Sign_of_the_cross), [5](https://catholicsbible.com/why-do-catholics-cross-themselves/)) Quick and easy. Imagine if LDS temple garments were replaced by something similar: gesture over the location of your body where the symbol would physically be, reciting the description from Elder McKay. Would that be more meaningful than knee-length underdrawers?
+Or, since garments aren't meant to be visible to an observer, do the signs need to be physically perceptible to anyone? I'm aware of a Catholic tradition of "the Sign of the Cross," being made up of a short ritualistic gesture and a verbal recitation "in the name of the Father, and of the Son, and of the Holy Spirit. Amen." ([1](https://www.catholic.org/news/hf/faith/story.php?id=87283), [2](https://www.catholic.com/tract/sign-of-the-cross), [3](https://catholic-link.org/correct-sign-of-the-cross-catholic/), [4](https://en.wikipedia.org/wiki/Sign_of_the_cross), [5](https://catholicsbible.com/why-do-catholics-cross-themselves/)) Quick and easy. Imagine if LDS temple garments were replaced by something similar: gesture over the location of your body where the symbol would physically be, reciting the description from Elder McKay. Would that be more meaningful than knee-length underdrawers?
 
 I suppose that the LDS church likes to avoid "rote prayer" to avoid vain repetition— something loses its meaning if it's mundane and routine. In my own experience, temple garments become just regular ol' underpants after a few weeks. Maybe *once a month* I would examine the symbols and consider that they have any significance at all. The rest of the time, my thoughts were "these are uncomfortable, they are cumbersome, and I don't like them." They're unflattering. No, I am not suggesting they should be provocative and alluring; I'm suggesting that a single solution for large demographics is arrogant and misguided. 
 
@@ -116,7 +117,7 @@ I suppose that the LDS church likes to avoid "rote prayer" to avoid vain repetit
 
 — *[The Temple Garment: “An Outward Expression of an Inward Commitment”](https://www.churchofjesuschrist.org/study/manual/eternal-marriage-student-manual/temple-preparation/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=figure1_p4#figure1_p4)*, *Eternal Marriage Student Manual*, Elder Carlos E. Asay, Emeritus Member of the First Quorum of the Seventy; also in [Ensign, 1997 August](https://www.churchofjesuschrist.org/study/ensign/1997/08/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=p3#p3)
 
-Name-dropping anecdotes for a rhetorical ethos isn't what I would call doctrine, personally. This quote does make it sound like we could do away with [temple recommend interviews](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29) and just ask about your garments. Works for apostles, why not us?
+Name-dropping anecdotes for a rhetorical ethos isn't what I would call doctrine, personally. This quote does make it sound like we could do away with [temple recommend interviews](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number29-p115#title_number29) and just ask about your garments. Works for calling apostles, why not for us attending the temple?
 
 Let's not overlook that this does set a precedent for garment-checking our peers. Says right here that it's a measure of worthiness and devotion, so... if you see someone who should have garments on but doesn't, something is up. You saw Becky out with some guy named Brad last week, and now she doesn't have her garments on? Now we know why! She isn't outwardly expressing *inner commitment*!
 
@@ -162,7 +163,7 @@ If you want to be extra spicy, you could [search the Old Testament](https://www.
 
 — First Presidency Letter, 10 Oct. 1988; Copied from the Institute *[Eternal Marriage Student Manual](https://www.churchofjesuschrist.org/study/manual/eternal-marriage-student-manual/temple-preparation/the-temple-garment-an-outward-expression-of-an-inward-commitment?lang=eng&id=figure1_p31#figure1_p31)* mentioned above
 
-Sure wish I could find that letter to link to. Also that this "outward expression" refrain would actually convey some kind of meaning. I'm not sure that modesty is a relevant factor. Keeping your body appropriately covered by a subjective measure is hardly a new idea in Mormonism.
+Sure wish I could find that letter to link to, so that this "outward expression" refrain would actually convey some kind of meaning. I'm not sure that modesty is a relevant factor. Keeping your body appropriately covered by a subjective measure is hardly a new idea in Mormonism.
 
 &nbsp;
 
@@ -172,7 +173,7 @@ Sure wish I could find that letter to link to. Also that this "outward expressio
 
 ![image](../img/kabangu-eyeroll.gif){: .center .size40}
 
-"I, in a position of authority, have difficulty not sexualizing 'young women,' and it is *their fault*. They're becoming porn. This is an outward expression of my inward repression, and definitely not at all related to my 1946 high school experience."
+"I, in a position of authority, have difficulty *not* sexualizing 'young women,' and it is *their fault*. They're becoming porn. This is an outward expression of my inward repression, and definitely not at all related to my 1946 high school experience."
 
 Alright, tell me if this is too much of a stretch: this apostolic advice is directed toward "young women," the term used to describe girls between 12 - 17 in the church's youth program, or at least this was the case when I attended. Once women are preparing to go to the temple to either A) get married, or B) serve a mission, they are no longer in that youth program so this apostolic guidance doesn't apply. Is that fair? How else would you justify women's garment tops having the *shoulders* covered for the sake of "modesty," but still feature a plunging neckline? Am *I* projecting too much here, by implying that bared shoulders are less enticing than visible cleavage?
 
@@ -225,7 +226,7 @@ What? No, we're not a cult.
 
 — *[Modest by Design](https://www.churchofjesuschrist.org/study/new-era/2010/06/modest-by-design?lang=eng&id=p5-p7#p5)*, Julia Woodbury, New Era June 2010
 
-I am not female, so this is an experience I cannot empathize with... but really, was this "rewarding?" There could be some social value in bonding with Grandma over a craft. I have little experience with sewing to create my own Halloween costumes, and must admit that it was kind of fun. How intrinsically satisfying was it to put a bolero jacket over your "cute black dress?" If your entire worth as a human is contingent upon temple-[[Culture#Worthiness|worthiness]], then I guess it's very fulfilling...?
+I am not female, so these are experiences that I cannot empathize with... but really, was this "rewarding?" There could be some social value in bonding with Grandma over a craft. I have little experience with sewing to create my own Halloween costumes, and must admit that it was kind of fun. How intrinsically satisfying was it to put a bolero jacket over your cute black dress? If your entire worth as a human is contingent upon temple-[[Culture#Worthiness|worthiness]], then I guess it's very fulfilling...?
 
 &nbsp;
 
@@ -233,7 +234,7 @@ I am not female, so this is an experience I cannot empathize with... but really,
 
 — *[Mom’s Commitment to Modesty](https://www.churchofjesuschrist.org/study/ensign/2011/06/moms-commitment-to-modesty?lang=eng&id=p7#p7)*, Kelly Ann Peterson, Ensign June 2011
 
-Yeah, or they could also just be awkward, self-conscious teenagers. There are a variety of factors that could contribute to enjoying a prom experience. Again acknowledging that I am not female, I would imagine that having a bad date to accompany you could be a big factor. Maybe they don't normally wear bodices every day, so it's unfamiliar, making them conscientious of the fit?
+Yeah, or they could also just be awkward, self-conscious teenagers. There are a variety of factors that could contribute to enjoying a prom experience. Again acknowledging that I am not female, I would imagine that having a bad date to accompany you could be a big factor. Maybe these peers don't normally wear bodices every day, so it's unfamiliar, making them conscientious of the fit?
 
 No, they just had *exposed porn shoulders*.
 

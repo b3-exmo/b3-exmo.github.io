@@ -75,7 +75,7 @@ These are the scriptural passages used to justify sealing as a religious ordinan
 
 — *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
 
-I don't understand how sealing brings more meaning to life. This, like numerous other claims that the church makes, could only be demonstrated after you're dead. There is no benefit to sealing while you're alive— it takes effect after you die. It encourages us to be loyal and faithful? As opposed to all those filthy heathens who have no loyalty to their spouses, the whole world over? Don't you think that's insulting to the deep affections felt in other humans?
+I don't understand how sealing brings more meaning to life. This, like numerous other claims that the church makes, could only be demonstrated after you're dead. There is no benefit to sealing while you're alive— it takes effect after you die. It encourages us to be loyal and faithful? As opposed to all those filthy heathens who have no loyalty to their spouses, the whole world over? Don't you think that's insulting to the deep affections felt in other humans? Why would non-Mormons get married at all, if faithfulness and loyalty mean nothing?
 
 Deceased people can't come back to church leadership to say "hey, you lied! This ordinance didn't actually help anything, God divorced us anyway!" Nor could they verify the claims by saying "Yeah, it's legit, and we're still married.. and dead." It's [[Falsifiability|non-falsifiable]]. There's no way for us to prove it, and there's no repudiation, recompense, or accountability if the verbal assurance doesn't pan out. "Just trust me, bro, doing what I say here will pay off after you're dead and can't talk back to me."
 
@@ -112,7 +112,7 @@ Right, so I count six different usages of the term in this glossary entry:
 5. Authenticate something in the eyes of God
 6. Martyrdom
 
-This doesn't match closely to the definition [[#Eternal Marriage|I showed earlier]] that "An eternal marriage is therefore called a sealing." I suppose one could argue that since the phrasing is not "a sealing is therefore eternal marriage," the argument still stands?
+This doesn't match closely to the definition [[#Eternal Marriage|I showed earlier]] that "An eternal marriage is therefore called a sealing." Why did we choose a word that already has definition, including religious connotations? I suppose one could argue that since the phrasing is not "a sealing is therefore eternal marriage," the argument still stands?
 
 ... Are there other usages of this term?
 
@@ -163,7 +163,7 @@ Clear as day, I tell you. Sealing is so special that it means eternal marriage, 
 
 — *[Sealing](https://www.churchofjesuschrist.org/study/history/topics/sealing?lang=eng&id=p7-p8#p7)*, *Adoption Sealings*, Church History Topics, churchofjesuschrist.org
 
-Oh. It was doctrine until it wasn't anymore? Good thing we have a living prophet who obtains, understands, and disseminates God's will to us so that we don't have to change or revert years down the road.
+Oh. It was [[Doctrine]] until it wasn't anymore? Good thing we have a living prophet who obtains, understands, and disseminates God's will to us so that we don't have to change or revert years down the road.
 
 ... If this practice started under Brigham Young, explicitly stated "after Joseph Smith's death," uh... does... does that mean that Joseph didn't get sealed to his parents or children? This whole idea stemmed from Joseph's revelation, right? So... Who did he get sealed to?
 
@@ -201,7 +201,7 @@ If you're up for it, you could open each year and respective month, and search t
 &nbsp;
 
 ### FamilySearch
-Genealogy is important in Mormonism. ([[1](https://newsroom.churchofjesuschrist.org/topic/genealogy)], [[2](https://www.churchofjesuschrist.org/study/history/topics/family-history-and-genealogy?lang=eng)], [[3](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history?lang=eng)], [[4](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history-study-guide?lang=eng)]) I don't really see the same value in it that the church leadership does, perhaps it's because I'm some uncultured young whippersnapper. The church likes it so much that they [launched a website](https://www.churchofjesuschrist.org/study/history/topics/family-history-and-genealogy?lang=eng&id=p6#p6) dedicated for just that purpose. As one might expect, they do have a page for the prophet of the restoration, [Joseph Smith Junior](https://ancestors.familysearch.org/en/KWJY-BPD/joseph-smith-jr-1805-1844). Since this site is owned and operated by the church, they're well within their rights to divulge as much or as little information they choose to. Imagining myself in the position of a common layperson who casually stumbled upon Joseph's page here, I think I wouldn't find anything out of place.
+Genealogy is important in Mormonism. ([[1](https://newsroom.churchofjesuschrist.org/topic/genealogy)], [[2](https://www.churchofjesuschrist.org/study/history/topics/family-history-and-genealogy?lang=eng)], [[3](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history?lang=eng)], [[4](https://www.churchofjesuschrist.org/study/manual/gospel-topics/family-history-study-guide?lang=eng)]) I don't really see the same value in it that the church leadership does, perhaps it's because I'm some uncultured young whippersnapper. The church likes genealogy so much that they [launched a website](https://www.churchofjesuschrist.org/study/history/topics/family-history-and-genealogy?lang=eng&id=p6#p6) dedicated for just that purpose. As one might expect, they do have a page for the prophet of the restoration, [Joseph Smith Junior](https://ancestors.familysearch.org/en/KWJY-BPD/joseph-smith-jr-1805-1844). Since this site is owned and operated by the church, they're well within their rights to divulge as much or as little information they choose to. Imagining myself in the position of a common layperson who casually stumbled upon Joseph's page here, I think I wouldn't find anything out of place.
 
 Based on my exploration of Joseph's FamilySearch page, it appears that his records of temple ordinances (including sealing) require a login to obtain. At the time of writing these notes, I'm still a member with valid records. (I don't know if that will [[Strengthening Church Members Committee|change in the future]] 🤞) I don't know for certain if the site's privacy policy and terms of use would forbid me from copying the data and providing it here. I intuit that it sounds like something I would forbid, if I were in charge of writing terms of use. What I will do is describe the information I have access to, and urge you to independently reproduce the same results.
 
@@ -270,7 +270,7 @@ Mm? What's that? It "ran counter to existing laws"? Are you insinuating that may
 
 &nbsp;
 
-Here's the long, spicy bit. I've added some line breaks for readability, but this is copied directly from the above link:
+Here's the long, spicy bit. I've added line breaks for readability, but this is copied directly from the above link:
 
 > *Emma Smith struggled with JS’s new marriages in the months leading up to July 1843. Since the beginning of 1843, ==JS was sealed to at least thirteen additional wives, most of whom were married to him without Emma’s knowledge==.*
 > 

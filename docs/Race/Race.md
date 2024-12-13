@@ -122,6 +122,10 @@ Sounds to me like this "revelation" is in response to a business problem. They b
 
 Alright, sure, cool, you can disavow theories, but *[[Race in scripture|scripture]] is not theory.* Until you disavow that *doctrine*, your words mean shit to me.
 
+"We're sad that we published something offensive and inaccurate."
+"Did you retract those erroneous statements?"
+"What statements?"
+
 &nbsp;
 
 ### Ensign

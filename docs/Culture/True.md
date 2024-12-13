@@ -59,8 +59,8 @@ This dualistic all-or-nothing approach seems to oversimplify what humans find va
 
 &nbsp;
 
-## ["What Do We Mean When We Say the Church Is True?"](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng)
-What fortuitous timing this is! I'm writing these notes in May of 2024, and the upcoming edition of the LDS church's magazine Liahona (formally Ensign) has an address specifically about this very topic. I wrote up some notes on it, but found my comments to be much more numerous than I expected. They're kept in a separate note, you can [[What Do We Mean When We Say the Church Is True|find it here]].
+## "What Do We Mean When We Say the Church Is True?"
+What fortuitous timing this is! I'm writing these notes in May of 2024, and the upcoming edition of the LDS church's magazine Liahona (formally Ensign) has an address specifically about [this very topic](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng). I wrote up some notes on it, but found my comments to be much more numerous than I expected. They're kept in a separate note, you can [[What Do We Mean When We Say the Church Is True|find it here]].
 
 &nbsp;
 
@@ -73,6 +73,8 @@ What fortuitous timing this is! I'm writing these notes in May of 2024, and the 
 
 A fellow named Tom Scott has a YouTube channel where he [presents this in an approachable way](https://youtu.be/IJEaMtNN_dM?si=xqRLRGm3UY_cEgd5&t=87), with the example that we don't need to specify that tomatoes are vegan. Giving too much information (these tomatoes do not contain meat nor dairy) is a breach of this maxim of quantity, and so it feels strange and out of place in conversation. Another example is [asbestos-free cereal](https://xkcd.com/641/). You sure hope it has no asbestos, and now you wonder why the manufacturer felt the need to clarify that. The qualification brings more questions than answers; is this an improvement over past shipments that *did* have asbestos?
 
+Now imagine two young fellows at your doorstep extending an invitation to you to attend their church. "By the way," one might say, "this church isn't wrong, in case you were wondering about that." "Nope," his companion interjects, "it is, in fact, *true*." You should hope that is the case. They wouldn't be proselytizing if they didn't believe it was true. But in this imagined scenario, they still felt the need to tell you that it is true.
+
 &nbsp;
 
 ### Why testify?
@@ -80,7 +82,7 @@ The only reason one would testify "knowing that the church is true" is to negate
 
 The implication of verbalizing that "I know [this church] is true" inherently suggests that there are reasons to believe it is not, and you want to remind someone that those reasons are illegitimate. It makes me wonder more about what the disagreement points *are*. As part of the testimony I'm hearing in this hypothetical scenario, I have one side of the argument, but I've also been indirectly advised of the other side. In a way, such a testimony asserts that "it is true, despite the things you or I have heard to say that it is not true."
 
-Per the above outlined maxim of quantity, I am left wondering why did you feel the need to tell me that? Why would Nephi feel the need to tell us that "[the record which [he makes] is true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng)"? Is he trying to get that idea in edgewise before someone else pops up and says he's lying? Has he been accused of being untruthful in the past? Or, a more cynical explanation is that this statement is in some way a reaction to Lucy Harris' possession of 116 pages of manuscript containing the Book of Lehi's?
+Per the above outlined maxim of quantity, I am left wondering why did you feel the need to tell me that? Why would Nephi feel the need to tell us that "[the record which [he makes] is true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng)"? Is he trying to get that idea in edgewise before someone else pops up and says he's lying? Has he been accused of being untruthful in the past? Or, a more cynical explanation is that this statement is in some way a reaction to Lucy Harris' possession of 116 pages of manuscript containing the Book of Lehi?
 
 This is a childish illustration, but I could tell you that Baskin Robbins ice cream is true. You might ask what in the hell that means, and I could defend my claim by saying that Häagen-Dazs is [the whore of all the earth](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p10#p10), and they're [trying to convince you](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng&id=p26-p27#p26) that Baskin Robbins is led by [[Satan]], and also I promise that I am not trying to deceive you.
 
@@ -96,3 +98,10 @@ Imagine hearing a description of a friend's church, and they attest to how meani
 Are Buddha Siddhartha Gautama's teaching "true"? If you were to find a Buddhist adherent, would they describe the philosophy as valuable, useful, meaningful? Or would they assert that "it's true, and that's why I follow it"?
 
 Is truthfulness a precondition for value?
+
+### Mythology
+This may warrant its own separate page of notes, but consider what value mythology has. Broadly speaking, myths aren't presented as true, but they're present in a culture for illustrative purposes. Zombies aren't real, but can be used to describe a mindless, violent horde. Cryptids like chupacabra or skinwalkers are described in folk stories, but aren't demonstrably proven to exist. One could argue that their value is to scare children away from sneaking out at night. On the flip side, mythologies like Santa Claus are a positive reinforcement, to incentivize good behavior. These figures don't have to be real to have value. The stories don't have to be true to be useful. Stories about vampires are not true, but can still be useful for telling a story for a reader or viewer to insert themselves into.
+
+So, no, I dare say that truthfulness is not a precondition for value. If you find value in attending a church, that's enough of a reason to attend. If you find value, meaning, and comfort in religious routines and rituals, they don't have to be "true." Truth and utility are not mutually exclusive, nor are they inseparable. 
+
+In a romanticized reality, taking your kids to see Santa Claus in the mall is a cathartic and endearing experience. In more practical terms, verbally confessing 'sins' to your religious leaders can also be cathartic. Neither has to be "true." Both have value and utility. I'm not trying to equate the two. I'm saying that if someone sees value in reading the Book of Mormon every day, that intrinsic value is enough of a reason to keep doing it. Where problems arise is insisting that the Book of Mormon is a literal historical record, and anyone who rejects it is throwing away their chance at salvation.

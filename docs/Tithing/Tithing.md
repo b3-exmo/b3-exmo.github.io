@@ -106,7 +106,7 @@ I could imagine someone defending this quote by pointing to the qualifier "*exce
 ## Paying is a privilege!
 > *One of the blessings of membership in The Church of Jesus Christ of Latter-day Saints is ==the privilege of paying tithing==. This privilege is a double blessing. By paying tithing, Church members show their gratitude to God for their blessings and their resolve to trust in the Lord rather than in material things. They also help further the work of the Lord in the earth, blessing others of God’s children with the opportunity to learn of Him and grow in the gospel.*
 >
-> *==[[#City Creek Mall|Tithing funds are always used for the Lord’s purposes]]==—to build and maintain temples and meetinghouses, to sustain missionary work, to educate Church members, and to carry on the work of the Lord throughout the world.*
+> *==Tithing funds are always used for the Lord’s purposes==—to build and maintain temples and meetinghouses, to sustain missionary work, to educate Church members, and to carry on the work of the Lord throughout the world.*
 
 — _[Topics and Questions: Tithing](https://www.churchofjesuschrist.org/study/manual/gospel-topics/tithing?lang=eng&id=p2#p2)_, Overview
 
@@ -123,7 +123,7 @@ To me, this is such a fascinating word choice. Can that privilege be revoked? Is
 &nbsp;
 
 ## Where does the money go?
-Good question. We don’t have access to their financial documents, but we can point to public records of what the church owns.
+Good question. We don’t have access to the church's financial documents, but we can point to public records of what they own.
 
 Do we have access to the church’s 990 non-profit forms? Do we have access to complete independently audited financial documents? ... Why not? Moreover, why are they requesting that I give them money?
 
@@ -197,7 +197,7 @@ God bless America, if I keep reading into this, my notes will devolve further in
 ### City Creek Mall
 Chronologically, the earliest time I recall hearing about this was in General Conference, from Gordon Hinckley himself:
 
->*We feel we have a compelling responsibility to protect the environment of the Salt Lake Temple. . . . We have felt it imperative to do something to revitalize this area. But I wish to give the entire Church the assurance that ==tithing funds have not and will not be used to acquire this property. Nor will they be used in developing it for commercial purposes.==*
+>*We feel we have a compelling responsibility to ==protect the environment== of the Salt Lake Temple. . . . We have felt it imperative to do something to revitalize this area. But I wish to give the entire Church the assurance that ==tithing funds have not and will not be used to acquire this property. Nor will they be used in developing it for commercial purposes.==*
 >
 >*Funds for this have come and will come from those ==commercial entities owned by the Church==. These resources, together with the ==earnings of invested reserve funds==, will accommodate this program.*
 
@@ -212,7 +212,7 @@ Better get ahead of those rumors and defend our decisions *immediately*. Nothing
 
 — _[Forbes Covers City Creek Project](https://newsroom.churchofjesuschrist.org/article/forbes-covers-city-creek-project)_, Church Newsroom
 
-Protect the environment? Protect from what? This sounds like [gentrification with extra steps](https://www.youtube.com/watch?v=yxUfe3g7klk). No, really, that just sounds like gentrification, full stop.
+Protect the environment? Protect it from what? This sounds like [gentrification with extra steps](https://www.youtube.com/watch?v=yxUfe3g7klk). No, really, that just sounds like gentrification, full stop.
 
 Next up: that Forbes article that the LDS Newsroom got excited about.
 
@@ -280,6 +280,8 @@ Is _this_ what Jesus taught? Do you want to donate to a charitable organization 
 
 Beneficial ~~Life~~ Financial Group [is still around](https://www.beneficialfinancialgroup.com/public/Default.aspx), still [owned by Deseret Management Corporation](https://en.wikipedia.org/wiki/Beneficial_Financial_Group). Moving the business from life insurance to "finance" also seems shady to me, being owned by a church accused of holding a lot more money than they have any business with.
 
+&nbsp;
+
 ### What's wrong with this? 
 Take a step back and think rationally, maybe without cursing.
 
@@ -325,22 +327,3 @@ Idk, seems important. Are we going to interpret this as doing baptisms for the d
 — _[Acts 7:47-50](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/7?lang=eng&id=p47-p50#p47)_
 
 Somehow, we can read this and call LDS temples “house of the lord.”
-
-&nbsp;
-
-## Charitable efforts
-> *In [a lecture given](http://www.deseretnews.com/article/865655946/At-Oxford-Elder-Oaks-says-religions-value-evident-in-refugee-crisis.html?pg=all) last month at the University of Oxford, Elder Dallin H. Oaks of the Quorum of the Twelve Apostles said that each year The Church of Jesus Christ of Latter-day Saints spends about ==$40 million on welfare, humanitarian and other LDS Church-sponsored projects== around the world and has done so for more than 30 years.*
->
-> *That would account for approximately ==$1.2 billion on welfare and humanitarian efforts over the past 30 years==. Elder Oaks also said that in the last year alone, Mormon volunteers have devoted 25 million hours of labor.*
->
-> *“In the year 2015 we had 177 emergency response projects in 56 countries,” Elder Oaks said. “In addition, we had hundreds of projects that impacted more than 1 million people in seven other categories of assistance, such as clean water, immunization and vision care.”*
-
-— _[LDS Church welfare, humanitarian efforts average $40 million per year, apostle says](https://www.deseret.com/2016/7/12/20591934/lds-church-welfare-humanitarian-efforts-average-40-million-per-year-apostle-says)_, Deseret News, 12 July 2016
-
-&nbsp;
-
-$1.2 billion is a big number. It’s a much smaller number when we realize it’s spread across thirty years. I will concede that $40 million is also a big number. That third paragraph is worth acknowledging- providing clean water & immunization is a real solid. Unironically, good job. Those are important things that real humans in the world struggle to secure for themselves.
-
-Also, don't overlook the utterance of the forbidden word "[[Name Mormon|Mormon]]."
-
-I wonder if $40,000,000 per year places the LDS church among the [[Charitable Giving#Charity lists|top charitable donors]]?

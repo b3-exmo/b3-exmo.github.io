@@ -14,7 +14,25 @@ comments: true
 
 &nbsp;
 
-Most of these notes rely on context from the page on [[Tithing|tithing]], so give that a read if you haven't already. This was a subsection, but became long enough that I think it warrants a page of its own.
+Most of these notes rely on context from the page on [[Tithing|tithing]], so give that a read if you haven't already. This was a subsection of that page, but became long enough that it warrants a page of its own.
+
+&nbsp;
+
+> *In [a lecture given](http://www.deseretnews.com/article/865655946/At-Oxford-Elder-Oaks-says-religions-value-evident-in-refugee-crisis.html?pg=all) last month at the University of Oxford, Elder Dallin H. Oaks of the Quorum of the Twelve Apostles said that each year The Church of Jesus Christ of Latter-day Saints spends about ==$40 million on welfare, humanitarian and other LDS Church-sponsored projects== around the world and has done so for more than 30 years.*
+>
+> *That would account for approximately ==$1.2 billion on welfare and humanitarian efforts over the past 30 years==. Elder Oaks also said that in the last year alone, Mormon volunteers have devoted 25 million hours of labor.*
+>
+> *“In the year 2015 we had 177 emergency response projects in 56 countries,” Elder Oaks said. “In addition, we had hundreds of projects that impacted more than 1 million people in seven other categories of assistance, such as clean water, immunization and vision care.”*
+
+— _[LDS Church welfare, humanitarian efforts average $40 million per year, apostle says](https://www.deseret.com/2016/7/12/20591934/lds-church-welfare-humanitarian-efforts-average-40-million-per-year-apostle-says)_, Deseret News, 12 July 2016
+
+&nbsp;
+
+$1.2 billion is a big number. It’s a much smaller number when we realize it’s spread across thirty years. I will concede that $40 million is also a big number. That third paragraph is worth acknowledging- providing clean water & immunization is a real solid. Unironically, good job. Those are important things that real humans in the world struggle to secure for themselves.
+
+Also, don't overlook the utterance of the forbidden word "[[Name Mormon|Mormon]]."
+
+I wonder if $40,000,000 per year places the LDS church among the top charitable donors? Let's find out!
 
 &nbsp;
 

@@ -49,7 +49,7 @@ Asserting that there's "no reliable evidence" during Joseph Smith's presidency i
 
 I recognize the sensitivity of this topic, and hope I can present it diplomatically— we can point to Elijah Abel as being among the first black men to receive priesthood ordination, but...
 
-> [*Little is known](https://www.churchofjesuschrist.org/study/history/topics/elijah-able?lang=eng&id=p2#p2) about Able’s early life. He was born in Maryland sometime between 1808 and 1812 to Andrew and Delilah William Able. ==Able had one black great-grandparent==, apparently on his father’s side.*
+> *[Little is known](https://www.churchofjesuschrist.org/study/history/topics/elijah-able?lang=eng&id=p2#p2) about Able’s early life. He was born in Maryland sometime between 1808 and 1812 to Andrew and Delilah William Able. ==Able had one black great-grandparent==, apparently on his father’s side.*
 
 Huh. I wonder what the footnote in that paragraph says.
 
@@ -97,7 +97,7 @@ Reminding us that "slavery was soon abolished" makes me want to see a timeline f
 
 🙌 𝓗𝓪𝓵𝓵𝓮𝓵𝓾𝓳𝓪𝓱 racism is solved; "at least two" black Mormons kept the priesthood.
 
-> ... *When one of these men, Elijah Abel, petitioned to receive his temple endowment in 1879, ==his request was denied==. Jane Manning James, a faithful black member who crossed the plains and lived in Salt Lake City until her death in 1908, similarly asked to enter the temple; she was allowed to perform baptisms for the dead for her ancestors but was not allowed to participate in other ordinances. The curse of Cain was often put forward as justification for the priesthood and temple restrictions. ...
+> ... *When one of these men, Elijah Abel, petitioned to receive his temple endowment in 1879, ==his request was denied==. Jane Manning James, a faithful black member who crossed the plains and lived in Salt Lake City until her death in 1908, similarly asked to enter the temple; she was allowed to perform baptisms for the dead for her ancestors but was not allowed to participate in other ordinances. The curse of Cain was often put forward as justification for the priesthood and temple restrictions.* ...
 
 You know what Jane Manning James *did* get permission to do in the temple? Get [sealed to Joseph Smith *as a servant*](https://www.churchofjesuschrist.org/study/history/topics/jane-elizabeth-manning-james?lang=eng&id=p7#p7). Wait, let me re-read that... No, Jane didn't even get to do that herself&mdash; she was fucking sealed for eternity as a "servant" *by proxy* to Joseph Smith after he dies. She didn't even get to be *present* for this ordinance. 
 

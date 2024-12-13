@@ -8,16 +8,16 @@ comments: true
 
 — *[8th Article of Faith](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p8#p8)*
 
-What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#Joseph Smith Translation|JST]] address all of them, and the LDS Standard Works OT & NT are now “translated correctly”? I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in. I should also think that the church led by God's chosen prophets wouldn't perpetuate and republish mistranslated directives from God.
+What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#Joseph Smith Translation|JST]] address all of them, and the LDS Standard Works OT & NT are now "translated correctly"? I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in. I should also think that the church led by God's chosen prophets wouldn't perpetuate and republish mistranslated directives from God.
 
-Without any clarification, it sounds like this gives the church permission to repudiate specific parts, as if “that’s one of the mistranslated parts” but what supports our existing doctrine is translated fine.
+Without any clarification, it sounds like this gives the church permission to repudiate specific parts, as if "that’s one of the mistranslated parts" but what supports our existing doctrine is translated fine.
 
 The passage specifying that [women aren't allowed to speak](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=eng&id=p34#p34) in meetings? Nah, that's a mis-translation. To our modern sensibilities, it's both unambiguous and discriminatory. That whole symbolic [Stick of Judah](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng&id=p16#p16) thing, though, they nailed that one. Inspired writing, it is! Just the right level of vague.
 
 &nbsp;
 
 ## King James Version
-Honest question- on what grounds is KJV the “most accurate” translation? Have we (in the LDS faith) examined the other translations? If so, when was that examination? What were the conclusions? How are we quantifying accuracy? KJV is certainly what Joseph Smith grew up with. Is that all the grounds we need?
+Honest question: on what grounds is KJV the “most accurate” translation? Have we (in the LDS faith) examined the other translations? If so, when was that examination? What were the conclusions? How are we quantifying accuracy? KJV is certainly what Joseph Smith grew up with. Is that all the grounds we need?
 
 > *Today, English-speaking Church members use the Latter-day Saint edition of the King James Version of the Bible. ==Based on the doctrinal clarity of latter-day revelation== given to the Prophet Joseph Smith, ==the Church has held to the King James Version as being doctrinally more accurate== than recent versions.*
 
@@ -39,7 +39,7 @@ Read the rest of that section if you'd like. It sure sounds to me that the churc
 
 — *[The Miracle of the Holy Bible](https://www.churchofjesuschrist.org/study/general-conference/2007/04/the-miracle-of-the-holy-bible?lang=eng&id=p8#p8)*, M Russel Ballard, General Conference April 2007
 
-I'm interested to find more about what opposition Tyndale, Wycliffe, and Gutenberg faced. Truth be told, I know very little about those people. I have the idea in my head that the Catholic church had taken advantage of illiterate adherents prior to the invention of the printing press. Keeping scripture in Latin meant that lay folk couldn't corroborate or very any teachings. That understanding may be an oversimplification of matters. I'll add some notes here once I dig into it. I find it noteworthy simply because an LDS official is making this statement. Persecution complex seems prevalent in Christianity. Some of it is justified, but much of it is not.
+I'm interested to find more about what opposition Tyndale, Wycliffe, and Gutenberg faced. Truth be told, I know very little about those people. I have the idea in my head that the Catholic church had taken advantage of illiterate adherents prior to the invention of the printing press. Keeping scripture in Latin meant that lay folk couldn't corroborate or verify any teachings. That understanding may be an oversimplification of matters. I'll add some notes here once I dig into it. I find it noteworthy simply because an LDS official is making this statement. Persecution complex seems prevalent in Christianity. Some of it is justified, but much of it is not.
 
 &nbsp;
 
@@ -101,9 +101,9 @@ No.
 
 &nbsp;
 
-Thomas Wayment has a PhD in New Testament studies (see his [bio page](https://rsc.byu.edu/author/wayment-thomas) in BYU's *Religious Studies Center*), which means he knows a lot more about scripture than I do. Seeing how he was employed by BYU, the LDS church's private university, I assume he has good intentions and good qualifications to try and do this. So why, then, did I find out about this modern translation five years after it was published? Did *you* know about the BYU professor who published a new translation of the New Testament?
+Thomas Wayment has a PhD in New Testament studies (see his [bio page](https://rsc.byu.edu/author/wayment-thomas) in BYU's *Religious Studies Center*), which means he knows a lot more about scripture than I do. Seeing how he was employed by BYU, the LDS church's private university, I assume he has good intentions and good qualifications to try and do this. So why, then, did I find out about this modern translation five years after it was published? Did *you* know about the BYU professor who published a more modern translation of the New Testament?
 
-I can observe two things: his bio page, linked above, does state he publications director of BYU's Religious Studies Center until 2018. His book was published in early 2019. He is now a professor of Classical Studies. At the time of writing, his Humanities [bio page](https://hum.byu.edu/directory/thomas-wayment) verifies that title.
+I can observe two things: his bio page, linked above, does state he was the publications director of BYU's Religious Studies Center until 2018. His book was published in early 2019. He is now a professor of Classical Studies. At the time of writing, his Humanities [bio page](https://hum.byu.edu/directory/thomas-wayment) verifies that title.
 
 I can only offer conjecture, but I suspect his change from departments had to do with his insubordination to [[#Who can translate?|do what a prophet, seer, revelator, and translator]] does. Terminating employment would be a bad look. Let's send him to another department, even though he demonstrated that New Testament seems to be his wheelhouse (you know, having a PhD and all that.)
 
@@ -140,15 +140,11 @@ The only other name that comes to mind for biblical scholars is one [Dan McClell
 
 > *Behold, there shall be a record kept among you; and in it thou shalt be called a seer, ==a translator==, a prophet, an apostle of Jesus Christ, an elder of the church through the will of God the Father, and the grace of your Lord Jesus Christ[.]*
 
-— *[D&C:21:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=eng&id=p1#p1)*
-
-Bonus link: Original manuscript of that passage in JS Papers Project. Doesn't really lend more credence, but [here it is](https://www.josephsmithpapers.org/paper-summary/revelation-6-april-1830-dc-21/1).
+— *[D&C:21:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=eng&id=p1#p1)* ([JSPP](https://www.josephsmithpapers.org/paper-summary/revelation-6-april-1830-dc-21/1))
 
 &nbsp;
 
-I think its safe to assume that, if Joseph Smith was a prophet, that he is also a "translator." It'd be a pretty bad look if he were to be shown to mistranslate something, but we'll get to that later.
-If JS was a prophet, seer, revelator, and translator, and that same priesthood authority got passed down to Young, Taylor, Woodruff, and so on down to Monson & Nelson, I should think that they could also act as a translator.
-So... If, according to the article of faith, the bible can be used only "as far as it is translated correctly", I am left to wonder if Joseph Smith's own translation of the bible addressed those issues?
+I think its safe to assume that, if Joseph Smith was a prophet, that he is also a "translator." It'd be a pretty bad look if he were to be shown to [[Book of Abraham|mistranslate something]], but we'll get to that later. If JS was a prophet, seer, revelator, *and translator*, and that same priesthood authority got passed down to Young, Taylor, Woodruff, and so on down to Monson & Nelson, I should think that they could also act as a translator. So... If, according to the article of faith, the bible can be used only "as far as it is translated correctly", I am left to wonder if Joseph Smith's own translation of the bible addressed those issues?
 
 If so, why would the modern LDS faith not use the JST exclusively?
 If not, why do we cite that article of faith? Moreover, could we ask Nelson, or any other modern LDS church leader to clarify or rectify translation issues?
@@ -183,7 +179,7 @@ Oh. It’s not… It’s not even a translation? It’s a revelation accompanime
 ### Adam Clarke
 Joseph Smith plagiarized his translation of the New Testament from Adam Clarke’s Bible Commentary, published 1810-1826. FAIR also has some comments about this, that I don't understand why they'd willingly publish:
 
-> *In March 2017, Thomas Wayment, professor of Classics at Brigham Young University, published a paper in BYU’s* Journal of Undergraduate Research *titled "A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation". In a summary of their research, Wayment and his research assistant wrote:*
+> *In March 2017, ==Thomas Wayment==, professor of Classics at Brigham Young University, published a paper in BYU’s* Journal of Undergraduate Research *titled "A Recently Recovered Source: Rethinking Joseph Smith’s Bible Translation". In a summary of their research, Wayment and his research assistant wrote:*
 >
 >> *Our research has revealed that the number of direct parallels between Smith’s translation and Adam Clarke’s biblical commentary are simply ==too numerous and explicit to posit happenstance or coincidental overlap==. The ==parallels between the two texts number into the hundreds==, a number that is well beyond the limits of this paper to discuss. A few of them, however, demonstrate Smith’s open reliance upon Clarke and establish that he was inclined to lean on Clarke’s commentary for matters of history, textual questions, clarification of wording, and theological nuance. In presenting the evidence, we have attempted to both establish that Smith drew upon Clarke, likely at the urging of Rigdon, and we present here a broad categorization of the types of changes that Smith made when he used Clarke as a source.
 

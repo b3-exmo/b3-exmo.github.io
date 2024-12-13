@@ -65,6 +65,12 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] November 2015
 	- [ ] Whitewashing History
 - [ ] MOON MEN
+- [ ] *Preach My Gospel* (1st edition)
+	- [ ] 1 - Restoration
+	- [ ] 2- Plan of Salvation
+	- [ ] 3 - Gospel of Christ
+	- [ ] 4 - Commandments
+	- [ ] 5 - Laws & Ordinances
 - [ ] Promptings
 - [x] Prophets
 	- [ ] George A Smith

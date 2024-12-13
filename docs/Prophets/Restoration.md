@@ -25,6 +25,11 @@ There are other NT scriptures quoting Christ on this matter (read [Matthew 13](
 
 &nbsp;
 
+## The Great Apostasy
+
+
+&nbsp;
+
 ## Ongoing Restoration
 Fun fact: the phrase “ongoing restoration” was never uttered in any general conference talk until 2019 when they made a bunch of changes like 2 hour church and the youth programs and such. For simplicity's sake, here are some [search results](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=ongoing+restoration&genConfDateRange=any-date) for the church's library of the term "ongoing restoration." It was a hot topic in 2019 and 2020.
 
@@ -53,15 +58,44 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 
 &nbsp;
 
-> *When the circumstances were right, Heavenly Father once again reached out to His children in love. He called a young man named Joseph Smith as a prophet. ==Through him the fulness of the gospel of Jesus Christ was restored== to the earth.*
+> *The faith that motivated the pioneers of 1847 as well as pioneers in other lands was a simple faith centered in the basic doctrines of the restored gospel, which they knew to be true. That’s all that mattered to them, and I believe that is all that should matter to us. ... We need to know that \[God & Jesus\] ==restored the Church to the earth in its fulness== through the Prophet Joseph Smith.*
 
-— *[Lesson 1: The Message of the Restoration of the Gospel of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p20#p20)*, Preach My Gospel, 2004 
+&mdash; *[“You Have Nothing to Fear from the Journey”](https://www.churchofjesuschrist.org/study/general-conference/1997/04/you-have-nothing-to-fear-from-the-journey?lang=eng&id=p12-p13#p12)*, Elder M. Russell Ballard, General Conference April 1997
+
+&nbsp;
+
+> *As members of His Church, we witness He lives and ==His Church has been restored in its fulness== in these latter days.*
+
+&mdash; *[Come and See](https://www.churchofjesuschrist.org/study/general-conference/2014/10/come-and-see?lang=eng&id=p40#p40)*, Elder David A. Bednar, General Conference October 2014
+
+&nbsp;
+
+> *When the circumstances were right, Heavenly Father once again reached out to His children in love. He called a young man named Joseph Smith as a prophet. ==Through him the fulness of the gospel of Jesus Christ was restored== to the earth.*
+> 
+>  . . .
+> 
+> *Reading, pondering, and praying about the Book of Mormon are critical for an enduring conversion. Those who begin reading the Book of Mormon for the first time take important steps toward coming to know that Joseph Smith is a prophet of God and ==that the true Church has been restored to the earth==.*
+
+— *Lesson 1: The Message of the Restoration of the Gospel of Jesus Christ* ([1](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p20#p20), [2](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p31#p31)), Preach My Gospel, 2004
 
 &nbsp;
 
 > *The Great Apostasy was a time of spiritual darkness, but we now live in a time when we can partake of “the light of the glorious gospel of Christ”. ==The fulness of the gospel has been restored==, and the true Church of Jesus Christ is on the earth again. No other organization can compare to it. It is not the result of a reformation, with well-meaning men and women doing all in their power to bring about change. It is a restoration of the Church established by Jesus Christ. It is the work of Heavenly Father and His Beloved Son.*
 
 — [Restoration of the Gospel](https://www.churchofjesuschrist.org/study/manual/true-to-the-faith/restoration-of-the-gospel?lang=eng), True to the Faith (2004)
+
+
+&nbsp;
+
+See also:
+- Primary lesson: [Jesus Christ’s Church Has Been Restored](https://web.archive.org/web/20181005041227/https://www.lds.org/manual/primary-3/lesson-6-jesus-christs-church-has-been-restored?lang=eng)
+- Primary song: [Jesus’ Church Has Been Restored](https://www.churchofjesuschrist.org/study/friend/2017/05/jesus-church-has-been-restored?lang=eng)
+- *Friend* magazine (targeted to Primary children): [The Church of Jesus Christ Has Been Restored](https://www.churchofjesuschrist.org/study/friend/2011/05/the-church-of-jesus-christ-has-been-restored?lang=eng)
+- *[Hour of Conversion](https://www.churchofjesuschrist.org/study/new-era/2002/06/hour-of-conversion?lang=eng&id=p3#p3)*, article in Ensign June 2002
+- *[The Restoration of the Church of Christ](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-instructors-guide-religion-324-325/the-restoration-of-the-church-of-christ-lesson-9-section-20?lang=eng&id=p1#p1)*, Doctrine and Covenants Instructor’s Guide: Religion 324–325, Lesson 9, Section 20
+
+Or just use search operators on [the whole site](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&query=%22church+has+been+restored%22&page=1). Or look for permutations of "restored" alongside "[fulness](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=restored+%22fulness%22)."
+
 
 &nbsp;
 

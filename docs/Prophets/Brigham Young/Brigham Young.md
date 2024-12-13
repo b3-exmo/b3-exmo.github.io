@@ -105,6 +105,12 @@ Boy, this guy sure sounds like he was called of God to speak in His behalf.
 
 &nbsp;
 
+> *In the preisthood I will tell you what it will do. Where the children of God to mingle there seed with the seed of Cain it would not only bring the curse of being deprived of the power of the preisthood upon themselves but the entail it upon their children after them, and ==they cannot get rid of it==. If a man in an ungaurded moment should commit such a transgression, if he would walk up and say cut off my head, and kill man woman and child it would do a great deal towards atoneing for the sin. Would this be to curse them? no it would be a blessing to them. -it would do them good that they might be saved with their Bren. A man would shuder should they here us take about killing folk, but it is one of the greatest blessings to some to kill them, allthough the true principles of it are not understood.*
+
+&mdash; *[Historian's Office Reports of speeches: Brigham Young, 1852 February 5. Church History Library, The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah](https://catalog.churchofjesuschrist.org/assets/c87f81ec-019c-4962-b395-d7c1c925fa61/0/3)*
+
+&nbsp;
+
 #### Get the priesthood in some future day
 > *Now I tell you what I know; when the mark was put upon Cain, Abels children was in all probability young; the Lord told Cain that he should not receive the blessings of the preisthood nor his seed, until the last of the posterity of Able had received the preisthood, until the redemtion of the earth.*
 
