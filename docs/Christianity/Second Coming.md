@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 🥈 Second Coming
 The apostle Paul was pretty sure that Jesus was coming back any minute now... back in 50 - 60 CE. Much of Christianity has behaved as if the second coming were imminent. And yet, at the time of writing this note, we're at the end of 2024. I think Christ was crucified in or around 34 CE, so we're approaching 2,000 years of "any minute now, keeeeeep watching!" I'm not qualified to draw the line for all of humanity, but I will ask at what point do we stop living in fear?
 
@@ -16,7 +19,7 @@ God seems to be revealing ambiguous information to His chosen prophets, and then
 
 Really, though&mdash; if God wanted Old Testament prophets to hype up Jesus' *Second Coming*, don't you think God would be more proactive in [[Bible#Imperfect translation|preserving those documented prophecies]] for our modern day? No? The Bible is sometimes mistranslated, due to wicked mens' agency? Isn't a central tenant of Mormonism that people [won't be punished](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p2#p2) for their ancestors' sins?
 
-I recall reading about contemporaries in ancient Jerusalem refusing to believe that Jesus was the Messiah during His ministry, because His humble origins didn't line up with the Old Testament prophecies. I don't recall if it was Sadducees or Pharisees, but... maybe that misunderstanding could have been avoided altogether if prophets of old hadn't skipped ahead 3,000 years? If those prophets were simply to be a mouthpiece for God, relaying divine information, then I would attribute that to God telling us feeble-minded mortals the wrong thing at the wrong time. What the hell, God?
+I recall reading about contemporaries in ancient Jerusalem refusing to believe that Jesus was the Messiah during His ministry, because His humble origins didn't line up with the Old Testament prophecies about the *second* coming. I don't recall if it was Sadducees or Pharisees, but... perhaps that misunderstanding could have been avoided altogether if prophets of old hadn't skipped ahead 3,000 years? If those prophets were simply to be a mouthpiece for God, relaying divine information, then I would attribute that to God telling us feeble-minded mortals the wrong thing at the wrong time. What the hell, God?
 
 &nbsp;
 
@@ -104,6 +107,7 @@ One of my go-to responses for the "signs of the times" to validate prophetic wor
 &nbsp;
 
 > ***Wickedness, War, and Turmoil***
+> 
 > *Many of the signs are terrifying and dreadful. The prophets have warned that ==the earth will experience great turmoil, wickedness, war, and suffering==. The prophet Daniel said that the time before the Second Coming would be ==a time of trouble such as the earth has never known== (see [Daniel 12:1](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/12.1?lang=eng#p1)). The Lord said, “The love of men shall wax cold, and iniquity shall abound” ([D&C 45:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.27?lang=eng#p27)). “And ==all things shall be in commotion==; and … fear shall come upon all people” ([D&C 88:91](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.91?lang=eng#p91)). We can expect ==earthquakes, disease, famines, great storms, lightnings, and thunder== (see [Matthew 24:7](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.7?lang=eng#p7); [D&C 88:90](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.90?lang=eng#p90)). Hailstorms will destroy the crops of the earth (see [D&C 29:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29.16?lang=eng#p16)).*
 
 > . . .
@@ -139,6 +143,7 @@ Being "certain that these calamities will become more severe before the Lord com
 &nbsp;
 
 I don't want to be needlessly cynical and snarky, but I'll make up some nonsensical examples that, to me, fit this same energy:
+
 - "People will ingest food, and lo, they shall also defecate, even in the same day." &mdash; prophecy fulfilled hourly by Taco Bell
 - "And the sun, yea even the very light of our heavens, will rise up from the east, and it shall thence set in the west. Even so, amen." Framing it in 16th century English makes it sound profound, so it must be special *this time* around.
 - "One land shall experience both a drought and abundance, a dearth and a flood, even amid the same hour." California shares borders with both Oregon and Arizona. It has rainy forests and deserts, and both climates exist "in the same land."
@@ -185,7 +190,7 @@ I recall hearing as a seminary student that at Christ's second coming, it will b
 
 &nbsp;
 
-I also recall hearing a fellow named Paul describing that "[the day of the Lord](https://www.churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=eng&id=p2#p2) so cometh as a thief in the night." Metaphors don't translate very well across languages, so we're left with multiple possible interpretations of what this means. If it means that Jesus will sneak in unbeknownst to the masses, then Paul's statement is at odds with Joseph Smith. Maybe this is one of those convenient times where the Bible isn't [[Bible#Article of Faith|translated correctly]]. 
+I also recall hearing a fellow named Paul describing that "[the day of the Lord](https://www.churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=eng&id=p2#p2) so cometh as a thief in the night." Metaphors don't translate very well across languages, so we're left with multiple possible interpretations of what this means. If it means that Jesus will sneak in unbeknownst to the masses, then Paul's statement is at odds with Joseph Smith. Maybe this is one of those convenient times where the Bible [[Bible#Article of Faith|isn't translated correctly]]. 
 
 > *The Lord’s coming will be as a thief in the night ==to those who are in spiritual darkness==. Paul described the Saints as “the children of light, and the children of the day.” Paul gave them guidelines for living as Saints. Through God’s help, the Saints will be found blameless at the Second Coming.*
 
@@ -229,6 +234,8 @@ pay us money lmao
 > - *Why should we be concerned about our preparedness rather than the exact timing of the Second Coming?*
 
 &mdash; *[Chapter 44: The Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-44-the-second-coming-of-jesus-christ?lang=eng&id=title5-p26#title5)*, Gospel Principles
+
+Don't worry about the timing, just... *always be ready*. Wait, why is everyone getting diagnosed with [[Anxiety|anxiety disorders]] and [[Scrupulosity|religious scrupulosity]]?
 
 "You'll know it's coming soon when the world is exactly as it always has been, and you can prepare by following the exact same advice we give for every scenario."
 
