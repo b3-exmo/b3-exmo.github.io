@@ -81,31 +81,4 @@ Do you see the problem here? Nothing can prove these claims as false. It tautolo
 &nbsp;
 
 ## Claims by LDS leadership
-Have LDS church leaders made falsifiable claims that turned out false? I'll add more as I find them, but the first that comes to mind...
-
-### Second Coming timeframe
-> *I was once praying very earnestly to know the time of the coming of the Son of Man, when I heard a voice repeat the following:*
-
-> *Joseph, my son, if thou livest until thou art ==eighty-five years old==, thou shalt see the face of the Son of Man; therefore let this suffice, and trouble me no more on this matter.*
-
-> *I was left thus, without being able to decide whether this coming referred to the beginning of the millennium or to some previous appearing, or whether I should die and thus see his face.*
-
-> *I believe the coming of the Son of Man will not be any sooner than that time.*
-
-— *[D&C 130:14-17](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng&id=p14-p17#p14)*, 2 April 1843
-
-He was born in 1805, so `1805 + 85 = 1890`.
-
-Once could argue that there's enough of a caveat in there; since Joseph did not live to be 85, the prophecy is still valid. [D&C 3:1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/3?lang=eng&id=p1#p1) is at odds with that claim: "*The works, and the designs, and the purposes of God cannot be frustrated, neither can they come to naught.*" Who would have guessed that the mob that killed Joseph could overrule God's intentions! 
-
-Both of these passages can't be true. If one or the other is false, we might begin to question whether or not Smith was a prophet.
-
-&nbsp;
-
-In a meeting on Feb 14, 1835, [[Joseph Smith|Joseph Smith]] definitively stated:
-
-> *. . . and those who went to Zion, with a determination to lay down their lives, if necessary, it was the will of God that they should be ordained, to the ministry, and go forth to prune the vineyard for the last time, or the ==Coming of the Lord which was nigh even fifty six years== should wind up the scene.*
-
-— *[History, 1838–1856, volume B-1](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/18)*, [1 September 1834–2 November 1838], p. 564
-
-Well... `1835 + 56 = 1891`.  One could argue that 14 Feb & 2 April allows for some displacement of months, so it could be 1890 as the previous prophecy describes. Either way, that year has come and gone. It'd be odd if any [church leader after 1891](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=second+coming&page=1) were to [hype up how we need to prepare for it](https://www.churchofjesuschrist.org/study/general-conference/topics/second-coming?lang=eng) in the non-specific future. After all, [no one knows](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng&id=p7#p7) when it will be!
+Have LDS church leaders made falsifiable claims that turned out false? I'll add more as I find them, but the first that comes to mind is Joseph Smith making ~~prophecies~~ mortal, imperfect speculations about [[Second Coming|Jesus Christ's second coming]].

@@ -84,6 +84,13 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 
 — [Restoration of the Gospel](https://www.churchofjesuschrist.org/study/manual/true-to-the-faith/restoration-of-the-gospel?lang=eng), True to the Faith (2004)
 
+&nbsp;
+
+> *And when the times of the Gentiles is come in, a light shall break forth among them that sit in darkness, and it shall be ==the fulness of my gospel==;*
+
+&mdash; *[D&C 45:28](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=28#p28)*, amid other signs of the [[Second Coming]]
+
+If this sign has been fulfilled, we have the fulness of the gospel already. If it has not been fulfilled, we're not in the latter days.
 
 &nbsp;
 
@@ -95,7 +102,6 @@ See also:
 - *[The Restoration of the Church of Christ](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-instructors-guide-religion-324-325/the-restoration-of-the-church-of-christ-lesson-9-section-20?lang=eng&id=p1#p1)*, Doctrine and Covenants Instructor’s Guide: Religion 324–325, Lesson 9, Section 20
 
 Or just use search operators on [the whole site](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&query=%22church+has+been+restored%22&page=1). Or look for permutations of "restored" alongside "[fulness](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=restored+%22fulness%22)."
-
 
 &nbsp;
 
@@ -111,7 +117,7 @@ Or did he just tell twelve followers to go out and teach people how to be good? 
 
 Perhaps what I, today, would call “a church” doesn’t fit all the criteria of what Christ set up in his time. So… can we examine what he did? He got baptized, and told people to respect God.
 
-How's this for a hot take: **Christ did not teach Christianity**. Christianity teaches about Christ.
+How's this for a hot take: *Christ did not teach Christianity*. Christianity teaches about Christ.
 
 Christ’s entire worldview is that of apocalyptic Judaism. His entire goal was to prepare His followers for The Lord and the end times. Christ himself did not set up a church, and he did not call for the creation of a new canon of scripture. He did start a movement, though. Everything Jesus needed to argue for His worldview was found within interpretations of existing Judaism and the Old Testament writings as recognized by the Jewish community.
 
@@ -120,6 +126,20 @@ There was no New Testament church established by Christ. Some of Paul’s epistl
 What would become the Orthodox Church was more or less forced to create an authoritative canon of the New Testament by the proliferation of other interpretations and books of scripture. Hence the council of Nicaea where these divisions and understandings were later canonized into the Scripture we have now
 
 Christ never set up his church. The apostles never set up an authoritative religious structure, what we know as Christianity was developed over a millennia of faith and doctrinal interpretations.
+
+&nbsp;
+
+Assuming there *was* a church during Jesus' ministry, is that what's being restored today?
+
+> *These are a few of the infallible signs of the true Church. But there are others. ==The Church of today must be of modern origin==. Does that surprise you? ==Not an ancient church, but of modern origin==. That is a vital sign of identification of the true church.*
+
+&mdash; *[Signs of the True Church](https://www.churchofjesuschrist.org/study/general-conference/1979/04/signs-of-the-true-church?lang=eng&id=p46#p46)*, Elder Mark E. Petersen, Council of the Twelve, General Conference 1979 April
+
+Hold on now, what? You follow that link and tell me if I missed some crucial piece of context.
+
+Elder Petersen has lots of other hot takes for your reading pleasure. He liked talking about [[Various Quotes#Mark E. Petersen|race in particular]].
+
+&nbsp;
 
 ### Parallels
 If we can't define what part of Christ's gospel is being restored, then what are we doing?
