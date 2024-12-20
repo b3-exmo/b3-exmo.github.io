@@ -42,9 +42,6 @@ markdown_extensions:
   - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
@@ -52,7 +49,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.tilde
+  - pymdownx.tilde:
+      subscript: true
 
   - toc:
       permalink: true
@@ -60,6 +58,10 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - open-in-new-tab:
+      add_icon: true
+  - timetoread:
+      wpm: 190
 
 extra_css:
   - stylesheets/extra.css
@@ -81,7 +83,7 @@ nav:
     - 🤔 Doubts and Truth: Commentated Docs/Doubts and Truth.md
     - 🏎 Essay - Race & Priesthood: Commentated Docs/Essay Race Priesthood.md
     - 🤡 Fourteen Fundamentals in Following the Prophet: Commentated Docs/14 Fundamentals.md
-    - 😵 It's too sacred!: Commentated Docs/Too Sacred.md
+    - 😵 It's too sacred!: Commentated Docs/Quotes Too Sacred.md
     - 💭 What Do We Mean When We Say the Church Is True?: Commentated Docs/What Do We Mean When We Say the Church Is True.md
   - 🤨 Critical Thinking:
     - Critical thinking/Critical Thinking.md

@@ -2,7 +2,6 @@
 comments: true
 ---
 # ❓ Logistical Problems
-This page was originally labeled *Anachronisms,* but the contents didn't really reflect that title. A few mentions of anachronisms will be here, but until I gather enough primary sources to make a case, I'll leave them out for now.
 
 &nbsp;
 ## Anachronisms

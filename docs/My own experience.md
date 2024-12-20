@@ -24,7 +24,7 @@ The night before going to the temple for my own endowment ceremony, my dad tried
 
 I guess that’s the part that my temple prep class kept skirting around.
 
-Once I get into the endowment ceremony, I remember my heart racing, as the whole group wordlessly mimics the officiator in swearing away their time, possessions and money. I remember feeling very anxious and uncomfortable, as I had _zero_ knowledge of what was coming, and this was absolutely nothing like any other LDS ceremony I had known of. This felt like a damned cult. I remember the moment where the group is prompted that “if any of you wish to withdraw from making these eternally binding consequences, before God, angels, and these witnesses, make it known now by raising your hand!” The entire congregation turned and stared at me. Was I going to flake out now? Now that I already have a date to enter the MTC? No, I have faith, and I’ll make this work! Somehow…
+Once I get into the endowment ceremony for my first time in late 2012, I remember my heart racing, as the whole group wordlessly mimics the officiator in swearing away their time, possessions and money. I remember feeling very anxious and uncomfortable, as I had _zero_ knowledge of what was coming, and this was absolutely nothing like any other LDS ceremony I had known of. This felt like a damned cult. I remember the moment where the group is prompted that “if any of you wish to withdraw from making these eternally binding consequences, before God, angels, and these witnesses, make it known now by raising your hand!” The entire congregation turned and stared at me. Was I going to flake out now? Now that I already have a date to enter the MTC? No, I have faith, and I’ll make this work! Somehow…
 
 &nbsp;
 

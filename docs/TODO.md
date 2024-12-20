@@ -10,6 +10,9 @@ comments: true
 	- [ ] Indentation
 	- [x] Centering images
 - [x] Static Navigation (w/ emoji)
+- [x] Estimated time to read
+	- [ ] Follow text color theming
+- [x] Icon indicating outgoing links
 
 I'm not entirely certain, but I think I might be using ellipses improperly for a text medium. Ought to check.
 
@@ -34,7 +37,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] Literacy in Ancient America
 	- [ ] Plates of ✨GOLD✨
 	- [ ] Witnesses
-- [ ] Christianity > Second Coming
+- [x] Christianity > Second Coming
 - [ ] Conflation
 - [ ] Cults
 - [ ] Culture

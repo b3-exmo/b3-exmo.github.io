@@ -137,5 +137,3 @@ If they were sailing across the Atlantic, they will have run into the [gulf stre
 &nbsp;
 
 I guess God is all powerful and can do what He wants, so none of this actually has to make sense in the end.
-
-![image](../../img/idk-lol.gif){: .center}

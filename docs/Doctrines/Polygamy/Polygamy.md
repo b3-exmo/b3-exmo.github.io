@@ -44,6 +44,8 @@ This presents a problem. The Brighamite sect of Mormonism leaned pretty hard int
 
 Smith had some polygamous escapades, and has had plenty of slander thrown at him— some founded, some unfounded. Brigham Young and subsequent church leaders were much, much worse.
 
+&nbsp;
+
 ## Building up population
 Are you sure? I’ve encountered many insistent explanations that when Joseph Smith practiced polygamy, there was no [[Consummation|boinking]] involved.
 
@@ -78,7 +80,7 @@ Marrying fourteen-year-olds is not normal today. Don’t tell me It was normal i
 
 **However...** 
 
-Fourteen-year-olds did not get married to men in their mid-thirties, nor did they get married to religious clergy with such a power dynamic and imbalance. Teenagers got married to other teenagers, not to the lord’s mouthpiece at threat of death and destruction, and the promise of exaltation for complying.
+Fourteen-year-olds did not get married to men in their mid-thirties, nor did they get married to religious clergy with such a power dynamic and imbalance. Teenagers got married to other teenagers, not to the lord’s mouthpiece at threat of death and destruction, and the [[Helen Kimball#Appendix One|promise of exaltation for complying]].
 
 &nbsp;
 

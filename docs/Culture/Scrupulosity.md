@@ -29,7 +29,7 @@ Having lost faith about five years before the time of writing this, I’m still 
 
 — *[Why and What Do I Need to Confess to My Bishop?](https://www.churchofjesuschrist.org/study/new-era/2013/10/why-and-what-do-i-need-to-confess-to-my-bishop?lang=eng&id=p7-p8#p7)*, Elder C. Scott Grow, New Era 2013 October
 
-C. Scott Grow? ... Grow, Scott, Grow!
+C. Scott Grow? ... ~Grow,\ Scott,\ Grow!~
 
 Sorry, I shouldn't have.
 

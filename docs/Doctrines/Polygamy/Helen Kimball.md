@@ -9,7 +9,7 @@ I don't expect I'll delve into the details of each of Joseph's plural wives. I'v
 ## Mawwiage
 ![image](../../img/mawwiage.gif){: .center}
 
-Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this sealing was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations.
+Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[Sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations.
 
 &nbsp;
 
@@ -61,7 +61,7 @@ We could spend a lot of time bantering about whether a man had a boner 200 years
 &nbsp;
 
 ## Social consequence
-Helen was a teenager, and had aspects of teenaged life taken away, now that she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things— simply socializing with friends is now completely different. In what ways does a 14-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What if a teenager just gets pushed straight into the "age 35" category?
+Helen was a teenager, and had aspects of teenaged life taken away after she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things— simply socializing with friends is now completely different. In what ways does a 14-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What if a teenager just gets pushed straight into the "age 35" category?
 
 If Helen is "married" to Joseph, is she allowed do date or court other boys / men, or is Helen expected to behave socially like a married woman? Was her life changed by this social contract?
 
@@ -101,7 +101,7 @@ In [Appendix One](https://rsc.byu.edu/womans-view/appendix-one), we find the fol
 
 I'll be real, I had to refrain from highlighting a lot more in that passage. Hooo boy. There's a lot to unpack here. I understand that 19th century views on women's rights are not the same as they are today, but god damn does this sound bleak.
 
-This appendix leads me to believe that this reminiscence was written on 30 March 1881. The quote at the beginning of this section says the interaction took place in 1843, meaning this would be around 38 years after, making Helen around 53 years old. I suppose she's had lots of time to think about it all, but the vivid detail that seems to stick out the most in Helen's memory is the anguish of her mother at this exchange. Think of that. 38 years later, and she can still recollect such emotional pain seen in Vilate's eyes. Heber offered Helen to Joseph, having "but one Ewe lamb", and under the pretense that marrying Joseph will "ensure your eternal salvation and exaltation" for Helen and her family.
+This appendix leads me to believe that this reminiscence was written on 30 March 1881. The quote at the beginning of this section says the interaction took place in 1843, meaning this would be around 38 years after, making Helen around 53 years old. I suppose she's had lots of time to think about it all, and the vivid detail that seems to stick out the most in Helen's memory is the anguish of her mother at this exchange. Think of that. 38 years later, and she can still recollect such emotional pain seen in Vilate's eyes. Heber offered Helen to Joseph, having "but one Ewe lamb", and under the pretense that marrying Joseph will "ensure your eternal salvation and exaltation" for Helen and her family.
 
 &nbsp;
 
