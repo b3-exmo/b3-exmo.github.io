@@ -43,8 +43,6 @@
   .size40 {
     width: 40%;
   }
-
-  .tooltip_templates { display: none; }
 }
 
 [data-md-color-scheme="slate"] {
@@ -111,6 +109,4 @@
   .size40 {
     width: 40%;
   }
-
-  .tooltip_templates { display: none; }
 }
