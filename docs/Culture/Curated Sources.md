@@ -16,7 +16,25 @@ Yeah. Many sources of information are unreliable. I don't want anyone to conside
 
 &nbsp;
 
-## Truly educated
+## Outside Sources
+I feel that it's reasonable for the LDS church to want to maintain some control over its narrative. Deferring to any outsiders' opinion as valid would undermine their claim to authority. I don't find that disagreeable. Its own documents should be treated as the officially sanctioned answers for the church claiming to represent God.
+
+So, in the infrequent case where the church *does* point readers to an outside source, what does it have to say about them?
+
+&nbsp;
+
+> *Recognizing that today so much information about The Church of Jesus Christ of Latter-day Saints can be obtained from questionable and often inaccurate sources, officials of the Church began in 2013 to publish straightforward, in-depth essays on a number of topics. The purpose of these essays, which have been ==approved by the First Presidency and the Quorum of the Twelve Apostles,== has been to gather ==accurate information from many different sources and publications== and place it in the Gospel Topics section of ChurchofJesusChrist.org, where the ==material can more easily be accessed and studied== by Church members and other interested parties.*
+
+&mdash; [Gospel Topics Essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/essays?id=p4&lang=eng#p4)
+
+Not sure how much more clear we can be. 
+
+Check the footnotes in any entry found in under the Gospel Topics Essays. It sure sounds to me like the sources used for what we read in these essays are "accurate information" signed off by the top leadership of the LDS church.
+
+&nbsp;
+
+## Remarks
+### Truly educated
 > *With the abundance of books available today, ==it is a mark of a truly educated man to know what not to read==.*
 
 — *[In His Steps](https://www.churchofjesuschrist.org/study/ensign/1988/09/in-his-steps?lang=eng&id=p20#p20)*, President Ezra Taft Benson, First Presidency Message, Ensign 1988 September
@@ -53,7 +71,7 @@ I'm willing to concede that I'm just some grump, but Alma's [war chapters](https
 
 &nbsp;
 
-## Be like the prophet
+### Be like the prophet
 > *Russell M. Nelson is obedient to the president of the Church, and he is ==baffled when he hears people ask questions like, “Is it really the will of the Lord that we do everything that President Kimball says?”==*
 > 
 > *“The Lord said, ‘Whether by mine own voice or by the voice of my servants, it is the same,’” Dr. Nelson reminds us. “My experience is that once you stop putting question marks behind the prophet’s statements and put exclamation points instead, and do it, the blessings just pour.*
@@ -74,7 +92,7 @@ If you blindly obey what the acting president of the church says, "blessings jus
 
 &nbsp;
 
-## OBEY ME
+### OBEY ME
 > *Declared President Joseph F. Smith in October 1873, “Obedience is the first law of heaven.”*
 
 ... It is also the first law of North Korea. I don't think that's a selling point. In fact, in the Mormon belief of the pre-mortal war in heaven, Satan got kicked out for his plan where obedience was the first law. But when a prophet declares that here on earth, it's fine.
@@ -99,7 +117,7 @@ You guys say you represent Jesus, right? Right.
 
 &nbsp;
 
-## doubt ur doubts
+### doubt ur doubts
 > *My dear friends—please, first ==doubt your doubts before you doubt your faith==. We must never allow doubt to hold us prisoner and keep us from the divine love, peace, and gifts that come through faith in the Lord Jesus Christ.*
 
 — *[Dieter F. Uchtdorf, “Come, Join with Us,” Ensign or Liahona, Nov. 2013](https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-morning-session/come-join-with-us?lang=eng&id=p48#p48)*

@@ -58,8 +58,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - open-in-new-tab:
-      add_icon: true
+  - open-in-new-tab
   - timetoread:
       wpm: 225
 

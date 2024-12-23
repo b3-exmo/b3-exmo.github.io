@@ -47,6 +47,12 @@ Imagine if the Book of Mormon, Another testament of Jesus Christ, took this appr
 
 &nbsp;
 
+Maybe I'm just a miserable grump, too far displaced from the Light of Christ™️ to appreciate sanctity. If that is the case, then I will make an earnest effort to find an explanation when withholding a testimony is appropriate.
+
+An emotionally sensitive topic does require a certain "vibe" for lack of a better word. If the context of a hypothetical conversation is that of derision, then no, testifying of Christ may not be suitable. If someone sustained as an Apostle of Christ addresses a congregation who gathered to hear someone with that title, then yes, sharing a sacred experience is appropriate.
+
+&nbsp;
+
 ## Extrapolating
 Leading up to [[My own experience#Temple Prep|my experience entering the temple]], I had been advised that the ceremonies are too sacred to talk about outside of the temple. This was used to hype up how great and awe-inspiring it was (or would be.) I can look back on how disappointing and bewildering the experience was, and I can see a pattern.
 
