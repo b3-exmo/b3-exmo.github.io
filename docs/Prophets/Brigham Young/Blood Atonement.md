@@ -50,9 +50,9 @@ I guess we can take comfort in knowing that we have two pre-conditions before th
 &nbsp;
 
 ### Deseret News
-If you are like me and have the attention span of a toddler with an iPad, you'd probably prefer a short-form audio-video medium to summarize the upcoming notes. Good news, I've got just the video for you!
+If you are like me and have the attention span of a toddler with an iPad, you'd probably prefer a short-form audio-video medium to summarize the upcoming notes... Good news, I've got just the video for you!
 
-![image](../../img/jonathan-frakes-never-happened.gif)(https://youtu.be/GM-e46xdcUo){: .center}
+![image](../../img/jonathan-frakes-never-happened.gif){: .center}
 
 [jonathan frakes telling you you're wrong for 47 seconds](https://youtu.be/GM-e46xdcUo)
 
@@ -70,7 +70,7 @@ If you are like me and have the attention span of a toddler with an iPad, you'd 
 
 "Look, people got emotional when using rhetorical devices for dramatic effect. It's not like we'd ever formally teach that or anything... Anyway, there isn't an author to attribute this statement to. Get back to cleaning our toilets on your Saturday morning pls k thnx"
 
-If you're ready for some excitement, follow the links to the comment section for this statement. Among my favorites: "*Can someone direct me to the official statement on a Church website? Where did the Deseret News get this information? I have not been able to find it.*"
+If you're ready for some excitement, follow the links to the comment section if that Deseret article. Among my favorites: "*Can someone direct me to the official statement on a Church website? Where did the Deseret News get this information? I have not been able to find it.*"
 
 And once again, lest we overlook it, we've again encountered the "this was common and normal at the time" explanation.
 
@@ -87,7 +87,7 @@ And let's not miss it for a third time, "19th century Americans were used to thi
 
 Within the above quote is footnote \#36:
 
-> *See, for example, Brigham Young, in Journal of Discourses, 4:53–54; and Heber C. Kimball, in Journal of Discourses, 7:16–21. This concept, which came to be known as blood atonement, was a stock component of anti-Mormon rhetoric in the 19th century. While many of the ==exaggerated claims== that appeared in the popular press and anti-Mormon literature are ==easily disproven==, it is ==likely== that ==in at least one instance==, a ==few Latter-day Saints acted== on this rhetoric. Nevertheless, most Latter-day Saints seem to have recognized that the blood atonement sermons were, in the words of historian Paul Peterson, “==hyperbole== or incendiary talk” that were “likely designed to frighten church members into conforming with Latter-day Saint principles. To Saints with good intentions, they were calculated to cause alarm, introspection, and ultimately repentance. For those who refused to comply with Mormon standards, it was hoped such ominous threats would hasten their departure from the Territory.”*
+> *See, for example, Brigham Young, in Journal of Discourses, 4:53–54; and Heber C. Kimball, in Journal of Discourses, 7:16–21. This concept, which came to be known as blood atonement, was a stock component of anti-Mormon rhetoric in the 19th century. While many of the ==exaggerated claims== that appeared in the popular press and anti-Mormon literature are ==easily disproven==, it is ==likely== that ==in at least one instance==, a ==few Latter-day Saints acted== on this ==rhetoric==. Nevertheless, most Latter-day Saints seem to have recognized that the blood atonement sermons were, in the words of historian Paul Peterson, “==hyperbole== or incendiary talk” that were “likely designed to frighten church members into conforming with Latter-day Saint principles. To Saints with good intentions, they were calculated to cause alarm, introspection, and ultimately repentance. For those who refused to comply with Mormon standards, it was hoped such ominous threats would hasten their departure from the Territory.”*
 
 &nbsp;
 
@@ -103,6 +103,7 @@ To be fair, that quote from the essay does also have a footnote on this kind of 
 If you're reading this in a place where playing music won't draw unwanted attention, play this in the background while reading these notes: 
 
 [![Corb Lund: Brother Brigham, Brother Young](http://img.youtube.com/vi/cnbu9KWgfYU/1.jpg)](https://youtu.be/cnbu9KWgfYU?t=59s)
+
 [Corb Lund: Brother Brigham, Brother Young](https://youtu.be/cnbu9KWgfYU?t=59s)
 
 Or, if you prefer to read without distracting music, consider how convincing is the rationale we've covered about this [[#[Encyclopedia of Mormonism](https //lib.byu.edu/collections/encyclopedia-of-mormonism/about/)|just being rhetoric]].
