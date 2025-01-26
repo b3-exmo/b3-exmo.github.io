@@ -55,7 +55,7 @@ There are numerous others in the JoD, but I can only handle so much racist nonse
 
 > *Why is it in this Church we do not grant the priesthood to the Negroes? It is alleged that the Prophet Joseph said—and I have no reason to dispute it—that it is because of some act committed by them before they came into this life. It is alleged that they were neutral, standing neither for Christ nor the devil. But, I am convinced it is because of some things they did before they came into this life that they have been denied the privilege. The races of today are very largely reaping the consequences of a previous life*
 
-— _Sermons and Missionary Service of Melvin J. Ballard ([[1](https://archive.org/details/sermonsmissionar0000brya)], [[2](https://www.familysearch.org/library/books/viewer/20024/?offset=0#page=251)]) , p. 248_
+— _Sermons and Missionary Service of Melvin J. Ballard ([1](https://archive.org/details/sermonsmissionar0000brya), [2](https://www.familysearch.org/library/books/viewer/20024/?offset=0#page=251)) , p. 248_
 
 &nbsp;
 
@@ -63,7 +63,7 @@ There are numerous others in the JoD, but I can only handle so much racist nonse
 
 — _Franklin D. Richards, October 5, 1896, Collected Discourses 5:220_
 
-To date, I haven't found a primary source for "collected discourses", but I have found other official LDS speeches cite this collection ([[1](https://www.churchofjesuschrist.org/study/ensign/2002/09/hope-for-parents-of-wayward-children?lang=eng&id=p3#p3)], [[2](https://speeches.byuh.edu/joseph-smith-lecture/joseph-smith-through-the-eyes-of-those-who-knew-him-best)])
+To date, I haven't found a primary source for "collected discourses", but I have found other official LDS speeches cite this collection ([1](https://www.churchofjesuschrist.org/study/ensign/2002/09/hope-for-parents-of-wayward-children?lang=eng&id=p3#p3), [2](https://speeches.byuh.edu/joseph-smith-lecture/joseph-smith-through-the-eyes-of-those-who-knew-him-best))
 
 &nbsp;
 

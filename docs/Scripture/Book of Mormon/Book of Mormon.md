@@ -80,7 +80,7 @@ If one were to studiously read through the BoM multiple times in a year, as is a
 
 One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father— the whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god— we're growing up, we're godlings, we're little wimpy baby gods. Right?
 
-But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and he made us that way. [[Theology#Oversimplification|Why does god hate His creations]]? By our very nature, by God's design, we His enemies. What the hell, God?
+But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and he made us that way. [[Theology#The plan|Why does god hate His creations]]? By our very nature, by God's design, we His enemies. What the hell, God?
 
 &nbsp;
 
@@ -164,7 +164,7 @@ Thanks, buddy. That clears it right up.
 ### Another Testament of Christ
 Christ's presence gets hyped up *a lot* in this book.
 
-They count down for 600 years, leading up to Christ's return. The entire book is about this event, leading up to this singular event— the event of a god walking among us, to deliver a message. Fast forward to after Christ's ministry, we have Mormon and Moroni hauling around ~450 lbs of metal plates in a desperate effort to preserve the records for future generations. After all, it was written for our day, right?
+They count down for 600 years, leading up to Christ's return. The entire book is about *this event*, leading up to *this singular event*— the event of a god walking among us, to deliver a message. Fast forward to after Christ's ministry, we have Mormon and Moroni hauling around ~450 lbs of metal plates in a desperate effort to preserve the records for future generations. After all, it was written for our day, right?
 
 The Bible teaches that Jesus was crucified, rose again, but in that interim when he is sealed away in that tomb, he appears in the New World to preach. (That's what I recall hearing in seminary— Jesus' visit to America was during those 2 - 3 days immediately following his mortal death) This necessarily must be *the most important thing* to have ever been told to all of humanity, you build up to Third Nephi with this hushed awe and wonderment, ready for divine insights and guidance— everything that has happened in the world is leading up to this one great moment to change all of humanity, God himself is descending, appearing in a physical manifestation to prove his identity and authority. God is appearing to the other side of the world, because he loves and cares for those people enough to appear and minister to them. The record of those teachings will be preserved, *must be* preserved, unaltered by priests or clergymen— the message is pure, given straight from God's mouth to us. The entire point of the Book of Mormon is to deliver *this one message*.
 
@@ -176,7 +176,7 @@ Jesus does, by definition, visit the new world, but not all of it. He goes to on
 
 Imagine it: you just [lost your family](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p25#p25), your house, your livelihood; [populous cities just got flattened](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p14#p14) by storms and earthquakes, followed by a full [72 hours of people moaning and wailing in despair](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p23#p23) as their sight is blinded by dark mists. All you can feel is rubble and dead bodies around you, all you can hear is other people mourning, or those who were injured or maimed, having not yet died, but scream out in horror at their reality as they bleed out, dying slowly. Maybe you're pinned down under a collapsed wall, unable to free your shattered bones from the weight of the structure. No one can treat your wounds or help you— no one can *find* each other. You can't find food. Anyone in earshot of you is wallowing in their own excrement. Nothing to suggest that your condition will improve, or that your sight will ever return *for three days straight*. But hey, at least Jesus came here to tell you [the Lord's prayer](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p9-p13#p9). Just what you needed, right?
 
-One could argue that this emphasizes how important that message is, that native Americans need it too— but part of what's dramatic about this book is the idea that it survived such great lengths to preserve for us, today, in 2024 to read as convincing evidence that God's one true church has been restored. *Those two ideas don't fit together*. Was it [[#For our day, or for JS’ day?|for us]], who already have the source material? We have the KJV already! Jesus appeared to Nephites after leveling their cities to talk to you and I in the 21st century? Was it for *our day*, more of a temporal matter than demographic— for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
+One could argue that this emphasizes how important that message is, that native Americans need it too— but part of what's dramatic about this book is the idea that it survived such great lengths to preserve for us, today, in 2024 to read as convincing evidence that God's one true church has been restored. *Those two ideas don't fit together*. Was it [[#Written for our day|for us]], who already have the source material? We have the KJV already! Jesus appeared to Nephites after leveling their cities to talk to you and I in the 21st century? Was it for *our day*, more of a temporal matter than demographic— for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
 
 If Jesus himself orchestrated that 4D-chess maneuver just to make a point 2,000 years later, then... I guess it is a testament of Jesus Christ. The only reverent respect I'd have for a deity that pulls a stunt like that would be out of terrified self-preservation, not familial affection. What's he going to do to me to give teenagers anxiety disorders in year 4,100 AD?
 
@@ -199,7 +199,7 @@ I initially had these following passages quoted inline, but I think you can foll
 
 Really, now. During the physical ministry of Jesus Christ, savior of all mankind, in the resurrected flesh, the scribes just wrote 'yeah he said some other stuff too. It was cool, you should have been there.'
 
-Out of all the myriad things they didn't write down, the [[#Anglicization|few concepts]] they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[BoM Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 600+ years separated from Lehi or any contemporaries from Jerusalem.
+Out of all the myriad things they didn't write down, the [[#Anglicization|few concepts]] they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[BoM Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 630+ years separated from Lehi or any contemporaries departing Jerusalem.
 
 &nbsp;
 
@@ -257,7 +257,8 @@ When the author of the _Book of Mormon_ lifted these words from the book of Re
 — _From [http://www.utlm.org/onlinebooks/changech5b.htm](http://www.utlm.org/onlinebooks/changech5b.htm)_
 
 &nbsp;
-## Probability / [Occam’s Razor](https://www.britannica.com/topic/Occams-razor)
+## Probability / Occam’s Razor
+[Occam’s Razor](https://www.britannica.com/topic/Occams-razor)
 The official story is that Joseph was visited by a Native American ghost who led him to a buried golden book in the style of 19th century New England folk magic. The book was written in a language and script found nowhere else in history, though the characters look amazingly similar to modern English letters with extra lines or turned upside down. Joseph translated it using a magic rock he found in a well and previously used to search for buried Native American treasure. The original book has since disappeared, but we can confirm without a doubt that Joseph’s later translation activities were fabricated based on existing source documents.
 
 The book is a story about a massive, thousand-year civilization for which there is no supporting linguistic, archaeological, or genetic evidence. It copies large excerpts from the King James Bible edition to which Joseph had access, including translation errors and writings that didn’t exist when the Book of Mormon peoples were supposed to have left Jerusalem. Joseph claimed it to be a legitimate translation.

@@ -52,7 +52,7 @@ The Old Testament has some passages about those purporting to be prophets:
 
 — [Deuteronomy 18:21-22](https://www.churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=eng&id=p21-p22#p21)
 
-"If they make a prophecy and it [[Falsifiability#Second Coming timeframe|doesn't happen]], that means it wasn't from God, and this prophet is being a jackwagon."
+"If they make a prophecy and it [[Second Coming#When will it be?|doesn't happen]], that means it wasn't from God, and this prophet is being a jackwagon."
 
 &nbsp;
 

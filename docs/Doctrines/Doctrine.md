@@ -18,7 +18,7 @@ In order to have a sensible discourse, we really should delineate what is doctri
 
 - **Policy** is more secular. Rules, handbooks, organization of the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose they'd be philosophies of men, mingled with scripture.
 
-Here's where problems arise. The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are *doctrinal*. Things like [the stocks for people to buy and fund Joseph Smith’s mansion](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?id=p71-p72&lang=eng#p71), virginity being a [[DC 132#61 - 63|circumvention against adultery]], God [abandoning you if you're disobedient](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12), and clearly outlining [[Falsifiability#Second Coming timeframe|the year of Christ's return]]. Doctrinal. Unchanging.
+Here's where problems arise. The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are *doctrinal*. Things like [the stocks for people to buy and fund Joseph Smith’s mansion](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?id=p71-p72&lang=eng#p71), virginity being a [[DC 132#61 - 63|circumvention against adultery]], God [abandoning you if you're disobedient](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12), and clearly outlining [[Second Coming#When will it be?|the year of Christ's return]]. Doctrinal. Unchanging.
 
 If simple "policy" can keep somebody from participating in saving ordinances, then policy carries the same weight as doctrine.
 
@@ -27,9 +27,11 @@ Behind every policy of the church, there's doctrine. Without doctrine to back po
 &nbsp;
 
 ## Policy vs Doctrine
-> *OAKS: I don’t know that it’s possible to distinguish between policy and doctrine in a church that believes in continuing revelation and sustains its leader as a prophet… I’m not sure I could justify the difference in doctrine and policy in the fact that before 1978 a person could not hold the priesthood and after 1978 they could hold the priesthood.*
+> *OAKS: ==I don’t know that it’s possible to distinguish between policy and doctrine== in a church that believes in continuing revelation and sustains its leader as a prophet… ==I’m not sure I could justify the difference in doctrine and policy== in the fact that before 1978 a person could not hold the priesthood and after 1978 they could hold the priesthood.*
 
 — Elder Dallin H Oaks in [interview with Associated Press SLC](https://www.newspapers.com/article/the-times-news-partial-transcript-of-ap/21138508/), regarding the 1978 revelation on race
+
+Bravo, good sir. [[Too Sacred to Share#Apostles|Bold and declarative]], spoken just like a lawyer 👏
 
 &nbsp;
 

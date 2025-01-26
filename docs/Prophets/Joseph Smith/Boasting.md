@@ -72,7 +72,7 @@ So... Maybe this is one of those times when the Bible is [[Bible#Article of Fait
 
 Those darn critics, always forgetting who quotes are attributed to. What antics will they get up to next?
 
-I don't think these semantics need to be this [[Book of Mormon#Probability / [Occam’s Razor](https //www.britannica.com/topic/Occams-razor)|complicated]]. KJV Bible is only as good of a translation as could be produced in 1611. Today, we need to do some additional "translation" from 1611 English to something that we can make sense of in the 21st century. Maybe the only [[#Institute Student Manual|proper interpretation]] of 2 Corinthians is the one that makes Joseph Smith a humble prophet. Maybe I'm still not clear on what "boasting" means. I have read chapters 10 through 12, as that span seems to be what inspired Joseph's choice of words. How much further do I need to read before I can land on a conclusion for what Joseph Smith meant?
+I don't think these semantics need to be this [[Book of Mormon#Probability / Occam’s Razor|complicated]]. KJV Bible is only as good of a translation as could be produced in 1611. Today, we need to do some additional "translation" from 1611 English to something that we can make sense of in the 21st century. Maybe the only [[#Institute Student Manual|proper interpretation]] of 2 Corinthians is the one that makes Joseph Smith a humble prophet. Maybe I'm still not clear on what "boasting" means. I have read chapters 10 through 12, as that span seems to be what inspired Joseph's choice of words. How much further do I need to read before I can land on a conclusion for what Joseph Smith meant?
 
 &nbsp;
 

@@ -5,6 +5,9 @@ comments: true
 *Is God's love conditional?*
 
 Well, yes, but actually no.
+
+&nbsp;
+
 ## Yes, it's conditional!
 > *While divine love can be called perfect, infinite, enduring, and universal, it cannot correctly be characterized as unconditional. The word does not appear in the scriptures. On the other hand, many verses affirm that the higher levels of ==love the Father and the Son feel for each of us==—and certain divine blessings stemming from that love— ==are conditional==.*
 
@@ -14,14 +17,14 @@ Well, yes, but actually no.
 
 I can't explain why, but when LDS leaders use alliteration like that, it just gives me Facebook Boomer minion-meme vibes.
 
-To be clear, Nelson in the quoted section seems to be focusing on the conditionality of *love*. I'm not making the argument that all blessings, salvation, prosperity etc should all be unconditional. While [searching for material related to this topic](https://www.churchofjesuschrist.org/search?lang=eng&query=unconditional&page=1&facet=all), I encountered many passages describing God's blessings, or the effects of Christ's Atonement as being conditional. I don't see those notions as problematic as love being conditional.
+To be clear, Nelson in the quoted section seems to be focusing on the conditionality of *love*. I'm not making the argument that all blessings, salvation, prosperity etc should all be unconditional. While [searching for material related to this topic](https://www.churchofjesuschrist.org/search?lang=eng&query=unconditional&page=1&facet=all), I encountered many passages describing God's blessings, or the effects of Christ's *Atonement* as being conditional. I don't see those notions as problematic as love being conditional.
 
 &nbsp;
 
 ### Is that a problem?
 Yes, that's a problem.
 
-> *Conditional love teaches children that they are only worthy and deserving of love if they behave in ways that please the parents, not just for being themselves. They learn that their true self is wrong, bad, and undeserving of love. This affects their self-worth, their self-esteem, and their ability to create and maintain social connections.*
+> *Conditional love teaches children that they are ==only worthy and deserving of love if they behave in ways that please the parents==, not just for being themselves. They learn that their ==true self is wrong, bad, and undeserving of love==. This affects their self-worth, their self-esteem, and their ability to create and maintain social connections.*
 >
 > *. . .*
 >
@@ -29,7 +32,7 @@ Yes, that's a problem.
 >
 >*. . .*
 >
-> *Similarly, they may be desperate for relationships to “prove” to themselves that they are wanted and loved, at least by someone. Desperate for belonging, love, and connection, they may use romantic relationships as stand-ins for the foundational love and support they never received as a child. Both of these are normal reactions to their experiences.*
+> *Similarly, they may be ==desperate for relationships to “prove” to themselves that they are wanted and loved, at least by someone==. Desperate for belonging, love, and connection, they may use romantic relationships as stand-ins for the foundational love and support they never received as a child. Both of these are normal reactions to their experiences.*
 
 Kaytee Gillis, LCSW-BACS, *[The Lasting Harm of Conditional Parental Love](https://www.psychologytoday.com/us/blog/invisible-bruises/202310/the-negative-effects-of-conditional-love)*, Psychology Today
 
@@ -39,7 +42,7 @@ Kaytee Gillis, LCSW-BACS, *[The Lasting Harm of Conditional Parental Love](https
 
 > *Conditional love is that which is provided only when the child complies with the rules imposed by the parents; That is, it is an affection subject to good behavior. When the child ignores these rules, the parents withdraw their affection from him.*
 > 
-> *In fact, it is a fairly widespread psychological control tactic that leverages shame and guilt by withdrawing attention and affection to manipulate the behavior of children. Conditional love translates into: “I love you, but only if you are good and do what I say.”*
+> *In fact, it is a fairly widespread psychological control tactic that leverages shame and guilt by withdrawing attention and affection to manipulate the behavior of children. ==Conditional love translates into: “I love you, but only if you are good and do what I say.”==*
 > 
 > *Conditional love conveys to children the idea that they are only worthy and deserving of affection and attention when they behave as others want. It teaches them that something is wrong with their true self. Therefore, they learn that they cannot be themselves, which ends up affecting their self-esteem and their ability to create and maintain healthy social relationships.*
 > 

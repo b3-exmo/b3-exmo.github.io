@@ -14,7 +14,7 @@ Moreover, *how do we delineate “philosophies of men mingled with scripture?”
 ### Priestcraft
 Repackaging the gospel and selling for profit books under their own names on top of a handsome benefits package
 
-LDS church [[Sources and Links#Deseret Management Corporation]] Deseret Book. How many books are published by Eyring, or any other apostle?
+LDS church [[Sources and Links#Deseret Management Corporation|owns Deseret Book]]. How many books are published by Eyring, or any other apostle?
 
 Church leaders have a captive audience, who reveres their words. So… how many book deals does Dallin H Oaks have? Pick an apostle. How many books can you buy with money written by a church leader? Doesn’t this sound like an abuse of position? Doesn’t it feel dishonest?
 

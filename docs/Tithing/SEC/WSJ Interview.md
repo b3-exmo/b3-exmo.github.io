@@ -4,7 +4,7 @@ comments: true
 # 🗣 WSJ Interview
 I've got some comments on a Wall Street Journal article, which provides some insights to the LDS Church's tithing, spending on temples, charitable giving, among other things. It's got some excerpts from interviews with presiding bishopric members. Props to the journalist Jonathan Weil who put this together. 
 
-The direct source for the 2023 article [can be found here](https://www.wsj.com/articles/mormon-church-temple-spending-spree-utah-e167977f). If you're an absolute madman, you can pay money for something to read on the internet, or you could check some archived versions ([[1](https://archive.ph/eXtuj)], [[2](https://archive.is/20230724125802/https://www.wsj.com/articles/mormon-church-temple-spending-spree-utah-e167977f)])
+The direct source for the 2023 article [can be found here](https://www.wsj.com/articles/mormon-church-temple-spending-spree-utah-e167977f). If you're an absolute madman, you can pay money for something to read on the internet, or you could check some archived versions ([1](https://archive.ph/eXtuj), [2](https://archive.is/20230724125802/https://www.wsj.com/articles/mormon-church-temple-spending-spree-utah-e167977f))
 
 I'll include here some excerpts from the article that I found particularly noteworthy.
 

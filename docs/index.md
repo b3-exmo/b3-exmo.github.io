@@ -22,7 +22,7 @@ For more information on this, I have a page outlining [[My own experience]].
 ### Who is this for?
 Primarily for my own catharsis. I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions. Today, they're more of a "letter to my past self." Not a satisfying answer for a target audience.
 
-So, I suppose this is meant for folks in the Mormonosphere who are "physically in, mentally out," as I had been at one point in time. If you're interested in finding sources for the not-so-wholesome things the LDS church has been a part of, then I expect you'll find some satisfying content here.
+So, I suppose this is meant for folks in the *Mormonosphere* who are "physically in, mentally out," as I had been at one point in time. If you're interested in finding sources for the not-so-wholesome things the LDS church has been a part of, then I expect you'll find some satisfying content here.
 
 &nbsp;
 
@@ -46,15 +46,10 @@ Some key historical claims made by the LDS church rarely meet these criteria. Th
 
 &nbsp;
 
-### Modern leadership
-Please understand, it’s not only problematic history.
-
-It’s also how the top 15 in the church behave. It’s social issues. More specifically, it's how the Church that claims to be led by Christ doesn't fit His behavior very well. Jesus had some choice words for those who would exclude those who were already outcasts. Jesus didn't turn folks away for being part of a different demographic. Jesus didn't leverage legal power to buy silence or force non-disclosure agreements.
-
-&nbsp;
-
 ## Your response
-If your answer to these notes is to tell me to read more scriptures and pray about it, then we having nothing to discuss on this matter. Please, please don’t assume that I haven’t done that. I have read and prayed. The last 3 times I went to the temple, I went with these concerns in mind, imploring God for any explanation or answer. I’ve read the Book of Mormon upwards of 6 times amid the deconstruction. I've put in enough effort to have received a spiritual witness.
+If your answer to these notes is to tell me to read more scriptures and pray about it, then we having nothing to discuss on this matter. Please, *please* don’t assume that I haven’t done that. I have read and prayed. The last 3 times I went to the temple, I went with these concerns in mind, imploring God for any explanation or answer. I’ve read the Book of Mormon upwards of 6 times amid the deconstruction. I've put in enough effort to have received a spiritual witness.
+
+If you feel attacked or offended, please believe that isn't my intention. If you adhere to the LDS Church's teachings, and those practices bring you happiness, then the most unethical thing I could do with that knowledge is try to take away your happiness by tearing down your faith. But also understand that this self-proclaimed compendium of notes is [[#Who is this for?|not targeting you]], or anyone specific for that matter.
 
 If I've configured things properly, there's a comment section on each page. If you feel the need to point out information that I've overlooked or omitted, leave a comment. But please know that I had spent just under thirty years in the faith-promoting side of things. I feel satisfied that I've read enough from the faith-promoting side to understand it well, and I've encountered this trove of other documents that have challenged my worldview. Rather than ignore it, I'm giving it critical evaluation.
 

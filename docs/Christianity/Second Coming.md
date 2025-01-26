@@ -216,6 +216,29 @@ Well... Maybe Jesus will arrive for the ~~seventh~~ second time and it actually 
 
 "Anyone who disagrees with us or our specific variation of Christianity is going to die. [Sign up here](https://www.churchofjesuschrist.org/comeuntochrist/lp/basic-beliefs/meet-with-missionaries?lang=eng) xoxo"
 
+### Death Follows Jesus
+#### Birth
+There seems to be many prophecies and signs surrounding Jesus' arrival, whether for the first, "second," or Nth time.
+
+At Jesus' birth, one King Herod may or may not have [massacred](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p16-p18#p16) "all the children that were in Bethlehem... from two years old and under." From what I understand, there isn't [any historic, contemporary evidence](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents#History_and_theology) of this happening, but Matthew chapter 2 sure seems insistent that it happened. Seems like a good way to kneecap your own kingdom's economy. If everyone&mdash; soldier, peasant, noble&mdash; all had their children 2 & under murdered, how long do you think that king would remain in power? That would fuck up an entire generation. It would have resounding effects that would have been recorded by many more sources than just this one.
+
+I'm getting off track. [Matthew 2:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p17-p18#p17) says that this was a fulfilment of a prophecy. I'd also like to point out [verses 12 & 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p12-p13#p12) describing God arranging for this to happen. Rather than defuse the tension, God has Joseph leave, which pisses off Herod, and leads to *all children getting murdered*. Was this an oversight? Surely God wasn't blindsided by this development. I bring it up to iterate that when Jesus was born, some untold number of children got killed.
+
+Now, let's celebrate the birth of the Prince of Peace!
+
+#### 3 Nephi
+Even though having Jesus die on the cross was part of [[Theology#The plan|God's Plan]]™ all along, He still got real pissed that it happened.
+
+To signify that Jesus had been born and was crucified, shit was *going down* in America.
+
+- [Entire cities leveled](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p5-p15#p5)
+- [Earth becoming deformed under intense storms](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p17-p19#p17)
+- [Mists of darkness blind *everyone* who survived](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p20-p23#p20)
+- An [omnipresent voice announces each destroyed city](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p1-p12#p1), rationalizing that "they were wicked."
+- This same voice says, in so many words, "[do I have your attention now?](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p13-p15#p13) You gonna shape up and repent? I'm Jesus Christ, by the way. *I killed everyone you've ever known or loved.* Now, who wants some 𝑒𝓉𝑒𝓇𝓃𝒶𝓁 𝓁𝒾𝒻𝑒? 😄"
+
+Yeah, man. You've got my attention. Don't think for a minute that I'm going to forget what you did, or that I'm doing what you say for [[Theology#Worthy of Respect|any purpose other than self-preservation]].
+
 &nbsp;
 
 ## What do we do to prepare?
@@ -250,7 +273,7 @@ This parable has been revisited and expounded [numerous times](https://www.churc
 
 I'm certain that the [parable](https://www.wordnik.com/words/parable) was more meaningful to Jesus' contemporaries than it is to us today. Folks excitedly gathering to meet "the bridegroom" surely had more cultural relevance back then. I also understand that one word can have different meanings depending on context, but something occurs to me now as I revisit this biblical passage: that is, the bridegroom [saying](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=p12#p12) "I know you not."
 
-Again, the cultural significance here must have been more meaningful 2,000 years ago, but... we do have precedent of "Joseph ==knew== [Mary] not," where "know" is definitively interpreted as a euphemism for "sexual relations." ([[1](https://www.churchofjesuschrist.org/study/manual/new-testament-student-study-guide/the-gospel-according-to-saint-matthew/matthew-1?lang=eng&id=aside1_p12-aside1_p11#aside1_p12)], [[2](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/matthew-1-18-25-luke-1-26-35?lang=eng&id=title9-p35#title9)]) Must have been a wild party those virgins were missing out on. What does that imply for the parable? We're meant to watch for the bridegroom's arrival, so he can "know" us? 😏
+Again, the cultural significance here must have been more meaningful 2,000 years ago, but... we do have precedent of "Joseph ==knew== [Mary] not," where "know" is definitively interpreted as a euphemism for "sexual relations." ([1](https://www.churchofjesuschrist.org/study/manual/new-testament-student-study-guide/the-gospel-according-to-saint-matthew/matthew-1?lang=eng&id=aside1_p12-aside1_p11#aside1_p12), [2](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/matthew-1-18-25-luke-1-26-35?lang=eng&id=title9-p35#title9)) Must have been a wild party those virgins were missing out on. What does that imply for the parable? We're meant to watch for the bridegroom's arrival, so he can "know" us? 😏
 
 &nbsp;
 

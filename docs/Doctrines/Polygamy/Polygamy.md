@@ -1,6 +1,7 @@
 ---
 comments: true
 ---
+
 # 👩‍🤝‍👩 Polygamy
 ## Required for exaltation!
 > *It is the word of the Lord, and I wish to say to you, and all the world, that if you desire with all your hearts to obtain the blessings which Abraham obtained, ==you will be polygamists at least in your faith, or you will come short of enjoying the salvation and the glory which Abraham has obtained. This is as true as that God lives.==*
@@ -47,13 +48,39 @@ Smith had some polygamous escapades, and has had plenty of slander thrown at him
 &nbsp;
 
 ## Building up population
-Are you sure? I’ve encountered many insistent explanations that when Joseph Smith practiced polygamy, there was no [[Consummation|boinking]] involved.
+In addition to the retorts I've encountered that Joseph never practiced polygamy, I've  encountered many insistent explanations that *even if he had* practiced polygamy, there was no [[Consummation|boinking]] involved. So don't worry about it.
 
-If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. Plenty of souls had human bodies in 1830, but still, LDS church leaders needed to be blessed with multiple wives. **Don’t tell me it was to build population.**
+Since I find this argument to be nonsense, I do have a separate page of notes on whether or not these relations were [[Consummation|consummated]], including some explanations for why it really just doesn't matter that much. Having established that, I will continue writing about it anyway.
 
-Brigham Young did teach that Adam had multiple wives, which detail was omitted from Genesis, Pearl of Great Price, and temple ceremonies. Why? That would be a pretty convincing precedent to be restored. Can both be true?
+&nbsp;
 
-Polygamy being only about population can likely be traced to Jacob 2:30:
+> *Latter-day Saints do not understand all of God’s purposes in instituting, through His prophets, the practice of plural marriage. ==The Book of Mormon identifies one reason for God to command it: to increase the number of children born in the gospel covenant in order to “raise up seed unto [the Lord].”==*
+
+&mdash; *[Plural Marriage in The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-the-church-of-jesus-christ-of-latter-day-saints?id=p2&lang=eng#p2)*
+
+Not sure how much more clear we can be. 
+
+I'll then present that as a challenge to folks who would insist polygamy never involved sex: how are adherents going to "increase the number of children born" or "raise up seen unto the Lord" without doin' the dirty deed?
+
+&nbsp;
+
+### Prolonging existing life
+This would all be an entirely moot point if God had revealed information like how to sanitize and purify water, how to treat diseases like tuberculosis, or had people better prepared before crossing the plains to Utah. We wouldn't need to replenish lost life if God taught people how to survive more effectively.
+
+I guess hot water is bad, though, because you might get tempted to roast and grind some coffee beans, and it might *fall into* the boiled water on accident, and risk your eternal salvation. Better just avoid boiling your water altogether.
+
+&nbsp;
+
+### Adam's time
+If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. As described above, Brigham Young did teach this. To date, I haven't encountered anyone else make this claim&mdash; I would think that if it were plain and obvious, biblical scholars would agree that Adam was polygamous. That detail was omitted from Genesis, Pearl of Great Price, and from temple ceremonies. It would be a pretty convincing precedent to be [[Restoration|restored]].
+
+It's enough to make me think that maybe an adulterous, extramarital affair being called a "[[Sealing|sealing]]" to divert scrutiny was just that&mdash; adultery and diversion.
+
+&nbsp;
+
+There are numerous other circumstances and conditions where "building up population" would be a valid rationalization for throwing out social norms. I could argue that the settling of Salt Lake is one such circumstance, being so isolated from the rest of humanity. Within Kirtland and Nauvoo... not so much. Plenty of souls had human bodies in 1830, but still, LDS church leaders needed to be blessed with multiple wives.
+
+Polygamy being only about population can be traced to *[Jacob 2:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/2?lang=eng&id=p30#p30)*:
 
 > *For if I will, saith the Lord of Hosts, raise up seed unto me, I will command my people; otherwise they shall hearken unto these things.*
 
@@ -63,6 +90,9 @@ Don’t exclude verse 27, though:
 
 &nbsp;
 
+### Time and eternity
+One last tangent on this topic:
+
 > *During the era in which plural marriage was practiced, Latter-day Saints distinguished between sealings for time and eternity and sealings for eternity only. ==Sealings for time and eternity included== commitments and relationships during this life, generally including the possibility of ==sexual relations==. Eternity-only sealings indicated relationships in the next life alone.* 
 > 
 > *==Evidence indicates that Joseph Smith participated in both types of sealings==. sealings. The exact number of women to whom he was sealed in his lifetime is unknown because the evidence is fragmentary. Some of the women who were sealed to Joseph Smith later testified that their marriages were for time and eternity, while others indicated that their relationships were for eternity alone.*
@@ -71,7 +101,9 @@ Don’t exclude verse 27, though:
 
 I remain baffled by the differentiation between *time and eternity* and just regular ol' *eternity*. Why. Are the two mutually exclusive? Does eternity, the notion of endless time, exist without time? How in the hell does that conundrum then translate to "commitments and relationships during this life"? Does this life not qualify as part of infinite time? I guess not, because somehow Joseph Smith will use that as an explanation for why plural marriage definitely doesn't imply anything else that marriage implies.
 
-[Footnote 25](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng#note25) at the end of the above excerpt reads "it is possible he fathered two or three children with plural wives." 
+[Footnote 25](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng#note25) at the end of the above excerpt reads "it is possible he fathered two or three children with plural wives."
+
+But... nah, Smith never did anything untoward. Please don't look at subsequent church prophets, though.
 
 &nbsp;
 
@@ -90,7 +122,7 @@ Fourteen-year-olds did not get married to men in their mid-thirties, nor did the
 
 US Census Bureau didn’t have granular detail in the 1800’s, but it’s got enough aggregate data for us to determine if something fits a pattern. The granularity did get better with subsequent decades, but it was a bit vague early on.
 
-[Integrated Public Use Microdata Series]([https://usa.ipums.org/usa/](https://usa.ipums.org/usa/)) has census records you can download and analyze for yourself.
+[Integrated Public Use Microdata Series](https://usa.ipums.org/usa/) has census records you can download and analyze for yourself.
 
 &nbsp;
 

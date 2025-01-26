@@ -25,11 +25,6 @@ There are other NT scriptures quoting Christ on this matter (read [Matthew 13](
 
 &nbsp;
 
-## The Great Apostasy
-
-
-&nbsp;
-
 ## Ongoing Restoration
 Fun fact: the phrase “ongoing restoration” was never uttered in any general conference talk until 2019 when they made a bunch of changes like 2 hour church and the youth programs and such. For simplicity's sake, here are some [search results](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=ongoing+restoration&genConfDateRange=any-date) for the church's library of the term "ongoing restoration." It was a hot topic in 2019 and 2020.
 

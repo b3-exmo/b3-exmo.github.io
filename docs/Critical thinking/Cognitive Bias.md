@@ -74,6 +74,18 @@ Failure to confirm the truth of an impossible counter-claim means that the claim
 
 &nbsp;
 
+Before we get much further, let’s also double check [verse 1](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p1#p1):
+
+> *Now I, Moroni, write somewhat as seemeth me good; and ==I write unto my brethren, the Lamanites==;*
+
+You, dear reader, in the current year&mdash; do you think you qualify as Moroni’s “brethren, the Lamanites”? Or would you fit better in the category shown in [verse 24](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p24#p24)
+
+> *And now I speak unto all the ends of the earth…*
+
+At face value, I might conclude that verses 1 - 23 are not addressed to you and me in \[current year\]. Does the scripture really tell *you* to ask God if these things are true? Moroni does not make the promise to those that read the Book of Mormon, he invites the Lamanites to ask God.
+
+&nbsp;
+
 ![image](../img/moroni-flowchart.jpg){: .center}
 
 &nbsp;
@@ -90,7 +102,7 @@ Seek belief through prayer. What will the answer be? idk lol, but if praying doe
 
 You will receive a confirmation in a nonspecific way. Is it a warm fuzzy feeling? There's your answer. That verifies what you expected to find an answer to. It's true now!
 
-Calling any desirable outcome a "confirmation" may even be too strong of a word. "Did praying about this make you feel really good? No? Did you feel good *at all*? No? Well did you at least feel *not bad*? That's God."
+Calling any desirable outcome a "confirmation" may even be too strong of a word. "Did praying about this make you feel really good? No? Did you feel good *at all*? No? Well did you at least feel *not bad*? That's God confirming that the book’s contents are true!"
 
 Next, make sure you bear testimony. Put your reputation into it. Verbalize your beliefs repeatedly. Insist that [[True|it's true]]. After enough iterations of this, you'll think “I heard myself say that it was true when I bore my testimony so it must be true.”
 

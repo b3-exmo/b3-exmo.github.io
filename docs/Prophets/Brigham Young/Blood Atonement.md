@@ -106,7 +106,7 @@ If you're reading this in a place where playing music won't draw unwanted attent
 
 [Corb Lund: Brother Brigham, Brother Young](https://youtu.be/cnbu9KWgfYU?t=59s)
 
-Or, if you prefer to read without distracting music, consider how convincing is the rationale we've covered about this [[#[Encyclopedia of Mormonism](https //lib.byu.edu/collections/encyclopedia-of-mormonism/about/)|just being rhetoric]].
+Or, if you prefer to read without distracting music, consider how convincing is the rationale we've covered about this [[#Encyclopedia of Mormonism|just being rhetoric]].
 
 Also: general conference would be a lot more interesting to watch if they had some talks like the following quotes.
 
@@ -251,7 +251,7 @@ I'm not about to advocate that any of these are good or harmless, but... Decidin
 > 
 > *Brigham Young: ==I do==, and I believe that Lee has not half atoned for his great crime. The savior died for all the sins of the world by shedding his blood, and then I believe that he who sheds the blood of man willfully, by man shall his blood be shed.*
 
-— *[Interview with Brigham Young](https://newspapers.lib.utah.edu/details?id=2626783)*, Deseret News, 23 May 1877 ([[1](https://newspapers.lib.utah.edu/ark:/87278/s6n30rfc)], [[2](https://web.archive.org/web/20131104211931/http:/udn.lib.utah.edu/utils/getfile/collection/deseretnews3/id/150800/filename/150801.pdf)])
+— *[Interview with Brigham Young](https://newspapers.lib.utah.edu/details?id=2626783)*, Deseret News, 23 May 1877 ([1](https://newspapers.lib.utah.edu/ark:/87278/s6n30rfc), [2](https://web.archive.org/web/20131104211931/http:/udn.lib.utah.edu/utils/getfile/collection/deseretnews3/id/150800/filename/150801.pdf))
 
 &nbsp;
 
@@ -284,7 +284,7 @@ Keep your torch and pitchfork at arm's length; I acknowledge that this is not a 
 >
 > *==Never in the history of this people can the time be pointed to== when the Church ever attempted to pass judgment on, or execute an apostate as per your statement. There are men living in Utah today who left the Church in the earliest history of our State who feel as secure, and are just as secure and free from molestation from their former associates as you or any other man could be.*
 
-— *THE DOCTRINE OF BLOOD ATONEMENT*, Doctrines Of Salvation, Volume 1 ([[1](https://archive.org/details/doctrinesofsalva01smit/page/134/mode/2up?q=%22atonement+and+sins+unto+death%22)], [[2](https://archive.org/details/JFSDoctrinesOfSalvation/page/n83/mode/2up?q=%22atonement+and+sins+unto+death%22)])
+— *THE DOCTRINE OF BLOOD ATONEMENT*, Doctrines Of Salvation, Volume 1 ([1](https://archive.org/details/doctrinesofsalva01smit/page/134/mode/2up?q=%22atonement+and+sins+unto+death%22), [2](https://archive.org/details/JFSDoctrinesOfSalvation/page/n83/mode/2up?q=%22atonement+and+sins+unto+death%22))
 
 &nbsp;
 

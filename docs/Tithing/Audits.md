@@ -35,31 +35,31 @@ I have never known of the LDS Church to have an external audit report, for whate
 I intend to do a deeper dive into the church's auditing department one day. Below are a bunch of links, many are redundant, but they're church auditing department reports from general conference. ==I don't expect any readers to follow each link and compare them==— I haven't done that myself, but I have them here mostly to show some highlights in their contents.
 
 - [1984](https://www.churchofjesuschrist.org/study/general-conference/1984/04/the-church-audit-committee-report?lang=eng): literally 1984
-- [1985](https://www.churchofjesuschrist.org/study/general-conference/1986/04/the-church-audit-committee-report?lang=eng)
 - [1988](https://www.churchofjesuschrist.org/study/general-conference/1989/04/the-church-audit-committee-report?lang=eng&id=p6#p6): "*Incorporated businesses owned or controlled by the Church for which accounts are not maintained in the Finance and Records Department are audited by the Church’s internal auditors, independent professional auditing firms, or government regulatory agencies*."
-- [1992](https://www.churchofjesuschrist.org/study/general-conference/1993/04/the-church-audit-committee-report?lang=eng)
 - [1995](https://www.churchofjesuschrist.org/study/general-conference/1996/04/the-church-audit-committee-report?lang=eng): No mention of Deseret Management Corp, which is explicitly stated in later years '95 mentioned non-specific "incorporated businesses owned or controlled by the Church."
 - [1996](https://www.churchofjesuschrist.org/study/general-conference/1997/04/the-church-audit-committee-report?lang=eng&id=p6#p6): "*==Church-owned businesses== are managed by professionals who report to independent boards of directors that do not include General Authorities as members. These companies maintain ==their own accounting and reporting systems== in compliance with accepted business practices and are audited by the Church Auditing Department and/or independent public accounting firms. The board of directors of ==Deseret Management Corporation== consists of General Authorities, who monitor most ==Church-owned businesses==.*"
 - [2002](https://www.churchofjesuschrist.org/study/general-conference/2003/04/church-auditing-department-report?lang=eng&id=p7#p7): "*The financial activities of Church-affiliated organizations, which are operated separately from the Church, were not audited by the Church Auditing Department in 2002. These organizations include, among others, ==Deseret Management Corporation== and its subsidiaries and the Church’s institutions of higher education, including Brigham Young University.*"
 - [2003](https://www.churchofjesuschrist.org/study/general-conference/2004/04/church-auditing-department-report-2003?lang=eng): Same mention of DMC
 - [2004](https://www.churchofjesuschrist.org/study/general-conference/2005/04/church-auditing-department-report-2004?lang=eng): "hmm, maybe we shouldn't draw attention to DMC." Note that from this year forward, the reports are (nearly) identical.
-- [2005](https://www.churchofjesuschrist.org/study/general-conference/2006/04/church-auditing-department-report-2005?lang=eng)
-- [2006](https://www.churchofjesuschrist.org/study/general-conference/2007/04/church-auditing-department-report-2006?lang=eng)
-- [2007](https://www.churchofjesuschrist.org/study/general-conference/2008/04/church-auditing-department-report-2007?lang=eng)
-- [2008](https://www.churchofjesuschrist.org/study/general-conference/2009/04/church-auditing-department-report-2008?lang=eng)
-- [2009](https://www.churchofjesuschrist.org/study/general-conference/2010/04/church-auditing-department-report-2009?lang=eng)
-- [2010](https://www.churchofjesuschrist.org/study/general-conference/2011/04/church-auditing-department-report-2010?lang=eng)
-- [2011](https://www.churchofjesuschrist.org/study/general-conference/2012/04/church-auditing-department-report-2011?lang=eng)
-- [2012](https://www.churchofjesuschrist.org/study/general-conference/2013/04/church-auditing-department-report-2012?lang=eng)
-- [2013](https://www.churchofjesuschrist.org/study/general-conference/2014/04/church-auditing-department-report-2013?lang=eng)
-- [2014](https://www.churchofjesuschrist.org/study/general-conference/2015/04/church-auditing-department-report-2014?lang=eng)
-- [2016](https://www.churchofjesuschrist.org/study/general-conference/2017/04/church-auditing-department-report-2016?lang=eng)
-- [2017](https://www.churchofjesuschrist.org/study/general-conference/2018/04/church-auditing-department-report-2017?lang=eng)
-- [2018](https://www.churchofjesuschrist.org/study/general-conference/2019/04/22jergensen?lang=eng)
-- [2019](https://www.churchofjesuschrist.org/study/general-conference/2020/04/22jergensen?lang=eng)
-- [2020](https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng)
-- [2021](https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng)
-- [2022](https://www.churchofjesuschrist.org/study/general-conference/2023/04/22larson?lang=eng)
+
+??? "More links"
+	- [2005](https://www.churchofjesuschrist.org/study/general-conference/2006/04/church-auditing-department-report-2005?lang=eng)
+	- [2006](https://www.churchofjesuschrist.org/study/general-conference/2007/04/church-auditing-department-report-2006?lang=eng)
+	- [2007](https://www.churchofjesuschrist.org/study/general-conference/2008/04/church-auditing-department-report-2007?lang=eng)
+	- [2008](https://www.churchofjesuschrist.org/study/general-conference/2009/04/church-auditing-department-report-2008?lang=eng)
+	- [2009](https://www.churchofjesuschrist.org/study/general-conference/2010/04/church-auditing-department-report-2009?lang=eng)
+	- [2010](https://www.churchofjesuschrist.org/study/general-conference/2011/04/church-auditing-department-report-2010?lang=eng)
+	- [2011](https://www.churchofjesuschrist.org/study/general-conference/2012/04/church-auditing-department-report-2011?lang=eng)
+	- [2012](https://www.churchofjesuschrist.org/study/general-conference/2013/04/church-auditing-department-report-2012?lang=eng)
+	- [2013](https://www.churchofjesuschrist.org/study/general-conference/2014/04/church-auditing-department-report-2013?lang=eng)
+	- [2014](https://www.churchofjesuschrist.org/study/general-conference/2015/04/church-auditing-department-report-2014?lang=eng)
+	- [2016](https://www.churchofjesuschrist.org/study/general-conference/2017/04/church-auditing-department-report-2016?lang=eng)
+	- [2017](https://www.churchofjesuschrist.org/study/general-conference/2018/04/church-auditing-department-report-2017?lang=eng)
+	- [2018](https://www.churchofjesuschrist.org/study/general-conference/2019/04/22jergensen?lang=eng)
+	- [2019](https://www.churchofjesuschrist.org/study/general-conference/2020/04/22jergensen?lang=eng)
+	- [2020](https://www.churchofjesuschrist.org/study/general-conference/2021/04/22larson?lang=eng)
+	- [2021](https://www.churchofjesuschrist.org/study/general-conference/2022/04/22larson?lang=eng)
+	- [2022](https://www.churchofjesuschrist.org/study/general-conference/2023/04/22larson?lang=eng)
 
 Again, this list is here to demonstrate how the financial audit reports are vague and self-congratulatory. Yes, there are a few gaps. No, I didn't track them down. No, I don't expect a meaningful insight from finding them.
 

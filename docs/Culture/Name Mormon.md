@@ -8,7 +8,7 @@ comments: true
 
 &nbsp;
 
-At the end of the day, one growing problem that the LDS church is facing is that continuous revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, Ensign. This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9).
+At the end of the day, one growing problem that the LDS church is facing is that continuous revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, ~~Ensign~~ Liahona. This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9). *They have to do this*. They have no choice. If they do not, they cease to prove their value. If they don't present anything new, why are we listening to them under the pretense of continuing revelation?
 
 &nbsp;
 
@@ -62,6 +62,8 @@ The matter was put on the back burner for another 20 years or so. We got a few g
 
 Maybe I'm just a grump, but I think we could have just left it there. This sounds very reasonable. "Mormon" as a shorthand, but don't overlook the full name of the LDS church. If your conversation partner already understands the connection, go nuts.
 
+&nbsp;
+
 That is, until President Monson passes away. Conveniently, that's when God decided to shake things up. Not the prophet, he's only the mouthpiece!
 
 &nbsp;
@@ -96,7 +98,11 @@ If you, dear reader, have had an interaction like the above quote from Nelson co
 
 &nbsp;
 
-For kicks, here's a [side-by-side video comparison](https://www.youtube.com/watch?v=2lKQrYUE3yc) of Hinckley vs Nelson's arguments on the matter.
+For kicks, here's a side-by-side video comparison of Hinckley vs Nelson's arguments on the matter:
+
+[![A Mormon by any other name...](http://img.youtube.com/vi/2lKQrYUE3yc/0.jpg)](https://youtu.be/2lKQrYUE3yc)
+
+[A Mormon by any other name...](https://www.youtube.com/watch?v=2lKQrYUE3yc)
 
 &nbsp;
 
@@ -121,7 +127,7 @@ Oh, were they speaking as a man? My bad.
 
 &nbsp;
 
-God wasn’t offended when Brigham Young had [[Brigham Young#Race|slavery legalized]] in Utah, or when he said Christ’s atonement wasn’t good enough and people needed to have their throats slit to [[Blood Atonement|cover the more egregious sins]]. God doesn’t seem offended by those who kill in his name. He isn’t offended by [church leaders sexually abusing children](https://floodlit.org/failure-to-report/), [[SEC|SEC]], short-selling stocks, misrepresenting His teachings, but *don’t you dare say “Mormon”*!
+God wasn’t offended when Brigham Young had [[Brigham Young#Race|slavery legalized]] in Utah, or when he said Christ’s atonement wasn’t good enough and people needed to have their throats slit to [[Blood Atonement|cover the more egregious sins]]. God doesn’t seem offended by those who kill in his name. He isn’t offended by [church leaders sexually abusing children](https://floodlit.org/failure-to-report/), [[SEC|SEC]] fraud, short-selling stocks, or misrepresenting His teachings... but *don’t you dare say “Mormon”*!
 
 We have a living prophet today, who speaks in behalf of God. Turns out, when we have a land war in Europe, racial injustice and political upheaval, uncertainty pertaining to a viral disease, the only thing God really wants is for us to not call church members Mormons anymore.
 
@@ -148,29 +154,29 @@ Ok. Sure thing, buddy.
 
 🤔 Would I be wrong to conclude that this comment of the prophet Joseph Smith's words equates 'outside observers' and journalists as *enemies*? Historically, those who think of journalists as enemies have been trying to conceal something nefarious.
 
-We can't really read tone through text. Is Smith's comment resentful of the name Mormon to refer to religious adherents? Or is he indifferent and willing to just roll with it? For what it's worth, the footnote does have numerous citations and sources for the claim; at the time of writing this document, I haven't examined the sources.
+We can't really read tone through text. Is Smith's comment resentful of the name Mormon to refer to religious adherents? Or is he indifferent and willing to just roll with it? For what it's worth, the footnote does have numerous citations and sources for the claim; at the time of writing this document, I haven't examined those sources.
 
 &nbsp;
 
-Moreover, you might recall near the beginning of this page Joseph's 1843 etymology analysis concluding that ". . . The word Mormon means literally, more good." ([1](https://www.thechurchnews.com/1988/10/22/23263467/name-mormon-literally-means-more-good), [2](https://www.josephsmithpapers.org/paper-summary/letter-to-editor-circa-20-may-1843/1?highlight=more+good), [3](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/198?highlight=more+good)) It seems that between the 1839 quote above ("name given to us by our enemies") and publishing etymological findings in 1843, it's no longer offensive or upsetting... at least to us lay common folk. So how then should we interpret the idea that it's a pejorative "name given to us by our enemies?" Our enemies are, knowingly or unknowingly, calling us "more good." Calling people "more good" offends God, clearly. Is it because of grammar? "More good missionaries," "more good neighbors," "more good temples, "more good apologetics..."
+Moreover, you might recall near the beginning of this page Joseph's 1843 etymology analysis concluding that ". . . The word Mormon means literally, more good." ([1](https://www.thechurchnews.com/1988/10/22/23263467/name-mormon-literally-means-more-good), [2](https://www.josephsmithpapers.org/paper-summary/letter-to-editor-circa-20-may-1843/1?highlight=more+good), [3](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/198?highlight=more+good)) It seems that between the 1839 quote above ("name given to us by our enemies") and publishing etymological findings in 1843, it's no longer offensive or upsetting... at least to us lay common folk. So how then should we interpret the idea that it's a pejorative "name given to us by our enemies?" Our enemies are, knowingly or unknowingly, calling us "more good." Calling people "more good" offends God, clearly. Is it because of atrocious grammar? "More good missionaries," "more good neighbors," "more good temples," "more good apologetics..."
 
 &nbsp;
 
 ## “I’m a Mormon” campaign
 Honestly. Unironically. Demonstrate to me that calling someone “Mormon” was offensive between the Brighamite sect break-off and 2018. Did any of the "Mormon pioneers" get in a huff and correct Omaha residents by asserting "we're actually 'a member of the church of Jesus Christ of latter-day saints' pioneers"?
 
-If you can demonstrate that "Mormon" was a mean-spirited derogatory slur at some point in time, I will direct your attention to a [multi-million dollar marketing campaign](https://www.theatlantic.com/national/archive/2011/11/mormon-churchs-6-million-ad-campaign-also-welcomes-trolls/335197/) going in the [opposite direction](https://en.m.wikipedia.org/wiki/I%27m_a_Mormon), leaning into the nickname and actively promoting that [LDS members should be called Mormons](https://news-uk.churchofjesuschrist.org/article/im-a-mormon). This campaign included [ads on those huge screens in Times Square](https://newsroom.churchofjesuschrist.org/article/mormon-ads-new-york-city).
+If you can demonstrate that the word "Mormon" was a mean-spirited derogatory slur at some point in time, I will direct your attention to a [multi-million dollar marketing campaign](https://www.theatlantic.com/national/archive/2011/11/mormon-churchs-6-million-ad-campaign-also-welcomes-trolls/335197/) going in the [opposite direction](https://en.m.wikipedia.org/wiki/I%27m_a_Mormon), leaning into the nickname and actively promoting that [LDS members should be called Mormons](https://news-uk.churchofjesuschrist.org/article/im-a-mormon). This campaign included [ads on those huge screens in Times Square](https://newsroom.churchofjesuschrist.org/article/mormon-ads-new-york-city).
 
-The [*I’m a Mormon* campaign](https://newsroom.churchofjesuschrist.org/article/mormon-media-campaign-expands-across-us-australia) was really the centerpiece of my mission. Those were THE pass-along cards I was given to distribute. I had [DVDs](https://meetthemormons.com/) to hand out of that [feature-length documentary](https://www.churchofjesuschrist.org/media/video/2015-01-1000-meet-the-mormons?lang=eng). You can still [watch it online](https://www.youtube.com/watch?v=MmJaruLErcI) if you want. I would bring investigators to the visitor’s center with the explicit intent and purpose of showing them the cool rooms fashioned around the campaign, to show them [videos](https://en.m.wikipedia.org/wiki/Meet_the_Mormons) of that campaign. *It worked*.
+The [*I’m a Mormon* campaign](https://newsroom.churchofjesuschrist.org/article/mormon-media-campaign-expands-across-us-australia) was really the centerpiece of my mission. Those were THE pass-along cards I was given to distribute. I had [DVDs](https://meetthemormons.com/) to hand out of that [feature-length documentary](https://www.churchofjesuschrist.org/media/video/2015-01-1000-meet-the-mormons?lang=eng). You can still [watch it online](https://www.youtube.com/watch?v=MmJaruLErcI) if you want. I would bring investigators to the visitor’s center with the explicit intent and purpose of showing them the cool rooms fashioned around the campaign, to show them [videos](https://en.m.wikipedia.org/wiki/Meet_the_Mormons) of that campaign. And you know what? *It worked*. And so imagine my surprise when, under President Nelson, this entire successful campaign was "a major victory for Satan." Under Monson, it was divinely inspired.
 
-Under Monson, it was divinely inspired. Under Nelson, it is "a major victory for Satan."
-
-🙄
+🙄 Not anymore, I guess.
 
 &nbsp;
 
 ## Name changes
-The name of the modern LDS Church has undergone [numerous name changes](https://www.josephsmithpapers.org/topic/church-of-christ). Most notably is the second name.
+The name of the modern LDS Church has undergone [numerous name changes](https://www.josephsmithpapers.org/topic/church-of-christ). Most notably is the second iteration.
+
+&nbsp;
 
 **1830: [Church of Christ](https://www.josephsmithpapers.org/paper-summary/revelation-6-april-1830-dc-21/1) is founded**
 Reading through that recorded revelation has "church of Christ" appear once mid-sentence. 19th century grammar may just be throwing me off.
@@ -198,13 +204,13 @@ If God is offended when Christ’s name ~~gets taken out of the church~~ is omit
 >
 > *... for thus shall my Church be called in the Last days even ==the Church of Jesus Christ of Latter Day Saints==.*
 
-Eight years after being established, its proper name is revealed. Now it has the name we’re familiar with. I'll reiterate for emphasis that the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) / 75 = 38.9~` 39 times longer than a foundational book. Make it make sense.
+Eight years after being established, its proper name is revealed. Now it has the name we’re familiar with. I'll reiterate for emphasis that the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) / 75 = 38.9~` times longer than a foundational book. Make it make sense.
 
 "church in Zion" also sounds like it's being presented (by revelation, no less) as the name of the religious organization headed by Joseph Smith, but I guess that's not the point we should focus on. Iterating this formally in [D&C 115](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=eng&id=4#p4) ought to settle it.
 
 &nbsp;
 
-I could imagine someone arguing that the 1830 & 1838 names were by revelation, and the 1834 (no Christ version) name was by counsel with feeble, imperfect, mortal humans prone to errors. Disregarding that each of them are called and ordained of God, and I suppose not one of them thought to pray about it ahead of time? Was the 1834 gathering not led by God? Did the opening prayer focus on blessing the donuts rather than being led by thy spirit?
+I could imagine someone arguing that the 1830 & 1838 names were by revelation, and the 1834 (no Christ version) name was by counsel with feeble, imperfect, mortal humans prone to errors. Disregarding that each of them are called and ordained of God, and I suppose not one of them thought to pray about it ahead of time? Was the 1834 gathering not led by God? Did the opening prayer focus on blessing the donuts rather than being *led by thy spirit*?
 
 &nbsp;
 
@@ -217,9 +223,12 @@ Although, one thing I stumbled upon seems to have aged poorly:
 >  
 > *- The term "Mormonism" is acceptable in describing the combination of doctrine, culture and lifestyle unique to The Church of Jesus Christ of Latter-day Saints.*
 
-— *[Style Guide — The Name of the Church](https://newsroom.churchofjesuschrist.org/style-guide2)*, Church Newsroom (9 April 2010)
+— *[Style Guide — The Name of the Church](https://newsroom.churchofjesuschrist.org/style-guide2)*, ([archive link](https://web.archive.org/web/20220421143829/https://newsroom.churchofjesuschrist.org/style-guide2)) Church Newsroom, 9 April 2010
 
 lol. lmao.
+
+Edit:
+Hold on, now. The Church Newsroom seems to have edited that page since I had copied that info. I've added a link to an archived version. The page's contents nor [source](view-source:https://newsroom.churchofjesuschrist.org/style-guide2) have any indication that it has been modified since its publishing date in 2010. Very un-suspicious.
 
 &nbsp;
 

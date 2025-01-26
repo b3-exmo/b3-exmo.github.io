@@ -70,7 +70,7 @@ Ooh boy. I have a lot to say about this paragraph.
 
 Not sure if the $906 million is counted in that sum. But it does sound like $200 million is included, and is an outlier, so I might adjust that math to get a better average: `(($2,500,000,000 - $200,000,000) ÷ (35 - 1)) = $67,647,059`
 
-That means we're averaging $67.6 million per year over 35 years. As I'd [[Tithing#Charitable efforts|observed in another page]], 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
+That means we're averaging $67.6 million per year over 35 years. Let's be real&mdash; 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
 
 `(67,647,059 ÷ 46,200,000,000) = 0.001464`, or 0.15% of *the subset* of Ensign Peak's US stockholdings. That is just over *a tenth of 1%* that they'll proudly tout as being the charitable endeavors from the official church™ restored by Jesus Christ himself.
 
@@ -126,7 +126,7 @@ Searching the word "bias" in the paper doesn't turn up any results, but I want t
 ## Widow's Mite
 If you're not familiar with the [Widow's Mite Report](https://widowsmitereport.wordpress.com/), now's a good time to check in on their findings. It's a group of, reportedly, "current and former Church members, whose professional and educational backgrounds include business, finance, law, investment management, economics, journalism and history." They do a better job than I do of tracking down [sources and documents](https://widowsmitereport.wordpress.com/sources/) pertaining to the LDS Church's finances, statistics, spending, etc. They present their findings in an easily-digestible slideshow.
 
-Looking through their 2023 report ([[1](https://widowsmitereport.wordpress.com/2023update)], [[2](https://www.canva.com/design/DAFDocnELmA/view)], they mention some "fuzzy metrics" starting around [page 15](https://www.canva.com/design/DAFDocnELmA/view#15). Given the church's opacity in how they determine these numbers to report, all I have to work with is circumstantial evidence, and it doesn't look good.
+Looking through their 2023 report ([1](https://widowsmitereport.wordpress.com/2023update), [2](https://www.canva.com/design/DAFDocnELmA/view), they mention some "fuzzy metrics" starting around [page 15](https://www.canva.com/design/DAFDocnELmA/view#15). Given the church's opacity in how they determine these numbers to report, all I have to work with is circumstantial evidence, and it doesn't look good.
 
 &nbsp;
 
@@ -153,4 +153,4 @@ That's enough decimal places to render as 1.418E - 5. That's `1 ÷ 67,500`.
 
 &nbsp;
 
-Maybe I shouldn't be so upset with the church— after all, maybe they [[SEC#LDS Church [PR statement](https //newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3
+Maybe I shouldn't be so upset with the church— after all, maybe they [[SEC#LDS Church PR Statement|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3

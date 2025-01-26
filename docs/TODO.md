@@ -7,21 +7,21 @@ comments: true
 - [ ] [[BoM Changes#Enumeration of Changes|Book of Mormon Edition Changes]]
 - [ ] Readability
 	- [ ] Ellipses correction
-	- [ ] Indentation
+	- [x] Indentation
 	- [x] Centering images
+	- [ ] CSS for quote citations
 - [x] Static Navigation (w/ emoji)
 - [x] Estimated time to read
 	- [ ] Follow text color theming
 - [x] Icon indicating outgoing links
+	- [x] JQuery to fetch destination `favicon`
 
 I'm not entirely certain, but I think I might be using ellipses improperly for a text medium. Ought to check.
-
-Also, indenting paragraphs should make the notes feel a lot less like a wall of text rambles.
 
 &nbsp;
 
 ## Topics
-For many of these topics, I do have some existing notes, but they aren't in a presentable condition. Others, I've yet to write down some thoughts on. I have a day job, is all. I'll get to it.
+For many of these topics, I do have some existing notes, but they aren't in a presentable condition. Others, I've yet to write down some thoughts on. No, I’m not differentiating them here in this list. I have a day job, is all. I'll get to it.
 
 - [ ] Anti-LGBT
 - [ ] Before Utah
@@ -57,7 +57,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] James Strang
 - [ ] Massacre: Fort Utah
 - [ ] Massacre: Mountain Meadows
-- [ ] Modern Church
+- [x] Modern Church
 	- [ ] Church Internal Audit Department
 	- [ ] Ensign Peak
 	- [ ] Family, Proclamation to the World
@@ -66,11 +66,11 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] Membership & attendance statistics
 	- [ ] NDA's / Nondisclosure Agreements
 	- [ ] November 2015
-	- [ ] Whitewashing History
+	- [x] Whitewashing History
 - [ ] MOON MEN
 - [ ] *Preach My Gospel* (1st edition)
 	- [ ] 1 - Restoration
-	- [ ] 2- Plan of Salvation
+	- [ ] 2 - Plan of Salvation
 	- [ ] 3 - Gospel of Christ
 	- [ ] 4 - Commandments
 	- [ ] 5 - Laws & Ordinances
@@ -94,3 +94,9 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] Tithing > Lawsuits
 - [ ] Women & Misogyny
 - [ ] Word of Wisdom
+
+&nbsp;
+
+## Other
+- [ ] Consolidate notes on *Moroni’s Promise*
+	- They’re kind of interspersed through different pages, I ought to put them together for cohesion

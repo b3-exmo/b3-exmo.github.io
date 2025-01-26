@@ -238,7 +238,7 @@ Protect from what?
 
 — [*1 John 3:17-18*](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17)
 
-Or, in layman's terms, if you have spare resources ($2 billion for a shopping center) and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty ([[1](https://www.slc.gov/homelessness/)], [[2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/)], [[3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)]) around you!
+Or, in layman's terms, if you have spare resources ($2 billion for a shopping center) and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty ([1](https://www.slc.gov/homelessness/), [2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/), [3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)) around you!
 
 Just say what you mean— you're trying to protect the church office building from poor people.
 

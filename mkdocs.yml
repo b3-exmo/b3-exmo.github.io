@@ -49,6 +49,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
+  - pymdownx.details
   - pymdownx.tilde:
       subscript: true
 
@@ -64,6 +65,10 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - js/jquery-3.7.1.min.js
+  - js/favicon.js
 
 nav:
   - ⛪ Home: index.md
@@ -115,6 +120,11 @@ nav:
       - 👧 Helen Mar Kimball: Doctrines/Polygamy/Helen Kimball.md
       - 🥩💱 Meat Commerce: Doctrines/Polygamy/Meat commerce.md
       - 😏 Sealing: Doctrines/Polygamy/Sealing.md
+  - 🔮 Modern Church:
+    - 🧔 Jesus and The Church: Modern Church\Jesus-and-The-Church.md
+    - 📜 LDS Historians: Modern Church\Historians.md
+    - 🧍‍♂️ No Official Stance: Modern Church\No-official-stance.md
+    - 🧼 Whitewashing History: Modern Church\Whitewashing.md
   - 👨‍💼 Prophets:
     - Prophets/Prophets.md
     - 🌱 Restoration: Prophets/Restoration.md
@@ -158,7 +168,6 @@ nav:
       - Tithing/SEC/SEC.md
       - 📃 SEC Order: Tithing/SEC/SEC Order.md
       - 🗣 WSJ Interview: Tithing/SEC/WSJ Interview.md
-  - 📜 LDS Historians: Historians.md
   - 📝 Poetry: Poetry.md
   - 🔗 Sources & More Material: Sources and Links.md
   - 🗒️ TODO: TODO.md

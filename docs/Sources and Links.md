@@ -16,7 +16,7 @@ I'll have links here to sites that I'm pretty confident are owned and maintained
 
 When I first load up and select the search bar, this popup appears:
 
-![image](../img/lds-catalog.png){: .center}
+![image](img/lds-catalog.png){: .center}
 
 > **Collection Policy**
 > 
@@ -97,7 +97,7 @@ I've encountered the claim that both of these sites run independently of the LDS
 
 - [LDS Discussions](https://www.ldsdiscussions.com/): Fantastic, well-researched dives into a variety of topics. Those pages are awfully long, so get comfy before reading.
 
-- [CES Letter](https://read.cesletter.org/): An approachable list of concerns with LDS teachings, history, practices, etc. Sent to a Church Education System (CES) ([[1](https://www.churchofjesuschrist.org/church-education?lang=eng)], [[2](https://en.wikipedia.org/wiki/Church_Educational_System)]) director seeking answers, thus the name. There's also plenty of material that claims to [debunk the CES Letter](https://debunking-cesletter.com/).
+- [CES Letter](https://read.cesletter.org/): An approachable list of concerns with LDS teachings, history, practices, etc. Sent to a Church Education System (CES) ([1](https://www.churchofjesuschrist.org/church-education?lang=eng), [2](https://en.wikipedia.org/wiki/Church_Educational_System)) director seeking answers, thus the name. There's also plenty of material that claims to [debunk the CES Letter](https://debunking-cesletter.com/).
 
 - [Letter for my Wife](https://www.letterformywife.com/): Feels very reminiscent of CES letter, but directed to a more familial audience. To me, it feels more approachable with the attitude of "I don't want these findings to harm our relationship." The site has a [PDF](https://www.letterformywife.com/_files/ugd/7d420e_0bc538269e1546a4b3eeaff385b02643.pdf), which I find easier to navigate than the site's pages.
 
@@ -108,7 +108,7 @@ I've encountered the claim that both of these sites run independently of the LDS
 - [Thoughts on things and stuff](https://thoughtsonthingsandstuff.com/topics/): Sounds vague, feels like a muse for doctrinal thoughts
 - [Mormonism under the microscope](https://www.mormonismunderthemicroscope.com/): I haven't explored them much, looks like a topical document for various claims / controversies
 - [floodlit.org](https://floodlit.org/): Info on sexual abusers & coverups within LDS church
-- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered offers critical insights of LDS doctrine. As of 2024 March, [appears to be offline]((https://zelphontheshelf.com/))— I am left hoping that it comes back in the future.
+- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered offers critical insights of LDS doctrine. (As of 2024 March, [appears to be offline](https://zelphontheshelf.com/))— I am left hoping that it comes back in the future.
 	- Zelph's *[The Millennials' Brief Guide to the CES Letter](https://web.archive.org/web/20230927020917/https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/)* is one I encountered early on (late 2018) when I was trying to find some "both sides" analyses of the CES Letter.
 	- Zelph is still around, running a [YouTube channel](https://www.youtube.com/channel/UC3Y4j05DDAXv7vCedrOQ9FQ), though!
 

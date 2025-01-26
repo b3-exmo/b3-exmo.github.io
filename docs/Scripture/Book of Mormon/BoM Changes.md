@@ -113,13 +113,13 @@ For the LDS church to tout is non-trinitarian view of the godhead, there sure se
 
 &nbsp;
 
-> _And now Abinadi said unto them: I would that ye should understand that God himself shall come down among the children of men, and shall redeem his people.
+> *And now Abinadi said unto them: I would that ye should understand that God himself shall come down among the children of men, and shall redeem his people.*
 >
-> And because he dwelleth in flesh he shall be called the Son of God, and having subjected the flesh to the will of the Father, being the Father and the Son –
+> *And because he dwelleth in flesh he shall be called the Son of God, and having subjected the flesh to the will of the Father, being the Father and the Son –*
 >
-> The Father, because he was conceived by the power of God; and the Son, because of the flesh; ==thus becoming the Father and Son== –
+> *The Father, because he was conceived by the power of God; and the Son, because of the flesh; ==thus becoming the Father and Son== –*
 >
-> ==And they are one God, yea, the very Eternal Father of heaven and of earth.==_
+> *==And they are one God, yea, the very Eternal Father of heaven and of earth.*==
 
 — _[Mosiah 15:1-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p1#p1)_
 
@@ -140,6 +140,8 @@ For the LDS church to tout is non-trinitarian view of the godhead, there sure se
 &nbsp;
 
 If I am to believe that Joseph saw God the Father & Jesus, physically, separate, distinct entities, side by side, in the year 1820 (according to the 1838 account), why would Joseph propagate the idea that they're one being? Isn't this meant to be what convinced people that the LDS faith is true & legit? Meaning, the idea of the Book of Mormon's truth necessarily leads us to conclude that Joseph was a prophet, and that lineage is traced all the way to Russel M Nelson in 2023? And we can't identify God?
+
+&nbsp;
 
 ## Enumeration of Changes
 After some internet scrounging, I've encountered a useful comparison of Book of Mormon editions, found [here in Dropbox](https://www.dropbox.com/sh/qf2k47w5oicbdrd/AAAeB9BzoFLd4UV-CUN0RObha?e=2&dl=0). I've saved a local copy, in case this link does dark for whatever reason.
@@ -164,4 +166,4 @@ The Dropbox folder has some docx, pdf, featuring the highlighted changes, and tx
 
 I popped those raw texts into [Beyond Compare](https://www.scootersoftware.com/download), since it allowed for more flexible comparisons, such as ignoring case, e.g. "And it came to pass" vs "and it came to pass" syntactically does count as a change, but practically I find those inconsequential.
 
-Once I spend more time on the comparison, I'll look for a way to [[TODO#Functional|share my findings here]]. Meanwhile, you now have the same links I do.
+Once I spend more time on the comparison, I'll look for a way to [[TODO#Functional|share my findings here]]. I intend to describe the enumeration of changes that I see, and actually parse out which of the 16k changes that I would subjectively call meaningful. Meanwhile, you now have the same links I do.

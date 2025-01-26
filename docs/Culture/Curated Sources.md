@@ -123,3 +123,46 @@ You guys say you represent Jesus, right? Right.
 — *[Dieter F. Uchtdorf, “Come, Join with Us,” Ensign or Liahona, Nov. 2013](https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-morning-session/come-join-with-us?lang=eng&id=p48#p48)*
 
 I've mentioned this [[Doubts and Truth#Doubt Your Doubts|on another page]], but what I find disagreeable here is it actively encourages [[Cognitive Bias]]— if you heard something good about LDS teachings before you heard something bad, just disregard the new (bad) information. You already know the "correct" answer. This means that if you were raised in the church like I was, you should just doubt anything negative you encounter. It'll be fine.
+
+&nbsp;
+
+## Manuals
+### "Avoid Speculation"
+Enter that search term into the church site's [search form](https://www.churchofjesuschrist.org/search?facet=manuals&lang=eng&query=%22avoid+speculation%22) to find what topics are vague enough to warrant speculation, and a stern warning against talking about anything that leadership hasn't explicitly approved of.
+
+&nbsp;
+
+> **Avoid speculation** 
+> *Do not speculate about whether plural marriage is a requirement for the celestial kingdom. ==We have no knowledge that plural marriage will be a requirement for exaltation==.*
+
+&mdash; [Lesson 140: Doctrine and Covenants 132:1–2, 34–66](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-6/lesson-140-doctrine-and-covenants-132-1-2-34-66?lang=eng&id=aside2_title1-aside2_p1#aside2_title1),Doctrine and Covenants and Church History Seminary Teacher Manual 
+
+I'm not [[Polygamy#Required for exaltation!|sure I believe that]], ngl
+
+I will also observe that the manual specifically highlights verses 1 & 2, then 34 - 66. I wonder why they'd leave out such a big gap in [[DC 132|D&C 132]]?
+
+&nbsp;
+
+> *Caution: Exercise caution while discussing the doctrine of ==having our calling and election made sure==. Avoid speculation. ==Use only the sources given here== and in the student manual. Do* not *attempt in any way to discuss or answer questions about the ==second anointing==.*
+
+&mdash; [Chapter 19: Eternal Life](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel/chapter-19?lang=eng&id=p1#p1), Doctrines of the Gospel Teacher Manual
+
+Much like the church's responses to [[Blood Atonement]], this sounds like a case of [Streisand Effect](https://www.britannica.com/topic/Streisand-effect). There must be some spicy sources to warrant such a stern warning against them.
+
+&nbsp;
+
+> **Avoid speculation**
+> *There are many things the Lord has not yet revealed. For example, He has not yet revealed all of the details of the Creation. Teach students to trust the Lord and His prophets. If the Lord has not provided a reason for His revelation, do not speculate about why the revelation was given.*
+
+&mdash; [Lesson 37: The Plan of Salvation (Part 4)](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-material-2018/abraham/lesson-37?lang=eng&id=aside1_title1-aside1_p1#aside1_title1), Old Testament Seminary Teacher Material
+
+&nbsp;
+
+> **Avoid speculation.** 
+> *Refrain from discussing with students doctrinal topics that the prophets and apostles have not chosen to teach or about which they have not made an official statement. For example, Church leaders have cautioned against speculating about how the Savior was conceived.*
+
+&mdash; [Lesson 9 Teacher Material: Rejoicing in the Divine Birth of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-teacher-material-2023/unit-3/lesson-09-teacher-material?lang=eng&id=figure1_title1-figure1_p1#figure1_title1), Jesus Christ and His Everlasting Gospel Teacher Material (Religion 250)
+
+&nbsp;
+
+[There's more](https://www.churchofjesuschrist.org/search?facet=manuals&lang=eng&query=%22avoid+speculation%22) to be found, and I might copy more here in the future.

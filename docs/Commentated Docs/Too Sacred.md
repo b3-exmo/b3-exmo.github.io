@@ -53,7 +53,7 @@ This experience is recounted again in Packer's book, [Teach Ye Diligently](https
 
 > *At times I have stumbled and been less than I should have been. All of us experience those wrenching, defining, difficult decisions that move us to a higher level of spirituality. They are the Gethsemanes of our lives that bring with them great pain and anguish. ==Sometimes they are too sacred to be shared publicly==. They are the watershed experiences that help purge us of our unrighteous desires for the things of the world. As the scales of worldliness are taken from our eyes, we see more clearly who we are and what our responsibilities are concerning our divine destiny.*
 
-— A Growing Testimony ([[1](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p5#p5)], [[2](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p13#p13)]), President James E. Faust, Second Counselor in the First Presidency, General Conference October 2000
+— A Growing Testimony ([1](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p5#p5), [2](https://www.churchofjesuschrist.org/study/general-conference/2000/10/a-growing-testimony?lang=eng&id=p13#p13)), President James E. Faust, Second Counselor in the First Presidency, General Conference October 2000
 
 &nbsp;
 

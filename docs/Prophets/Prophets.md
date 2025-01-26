@@ -36,19 +36,13 @@ See also the time Ezra Taft Benson [[14 Fundamentals#*4. The prophet will never 
 
 > *“This morning, I . . . visited with a brother and sister from Michigan, who thought that “a prophet is always a prophet;” but I told them that a prophet was a prophet only when he was acting as such."*
 
-— Joseph Smith ([1](https://www.churchofjesuschrist.org/study/new-era/2007/09/ordinary-men-extraordinary-callings?lang=eng&id=p11#p11), [History of the Church 5:265](https://archive.org/details/history-of-the-church-volume-5/page/258/mode/2up?view=theater&q=%22a+prophet+is+always+a+prophet%22))
+— Joseph Smith ([New Era, September 2007](https://www.churchofjesuschrist.org/study/new-era/2007/09/ordinary-men-extraordinary-callings?lang=eng&id=p11#p11), [History of the Church 5:265](https://archive.org/details/history-of-the-church-volume-5/page/258/mode/2up?view=theater&q=%22a+prophet+is+always+a+prophet%22))
 
 &nbsp;
 
 > _Said Brigham Young, “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture.”_
 
 — [Latter-day Saint Families, Etc.](https://scriptures.byu.edu/#0651617b8:t1fbdd:j13); Brigham Young, [Journal of Discourses 13](https://scriptures.byu.edu/jod/pdf/JoD13/JoD13.pdf):95
-
-&nbsp;
-
-> *A few question their faith when they find a statement made by a Church leader decades ago that seems incongruent with our doctrine. There is an important principle that governs the doctrine of the Church. The doctrine is taught by all 15 members of the First Presidency and Quorum of the Twelve. It is not hidden in an obscure paragraph of one talk. True principles are taught frequently and by many. Our doctrine is not difficult to find.*
-
-— *[Trial of Your Faith](https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=eng)*, Elder Neil L. Andersen, of the Quorum of the Twelve Apostles; General Conference October 2012
 
 &nbsp;
 
@@ -72,15 +66,13 @@ I thought the whole idea of being a prophet/apostle was having seen Jesus Christ
 
 > _CONDUCTED UNDER THE SUPERVISION OF THE PRESIDING BISHOPRIC. EDITED BY LEE A. PALMER._
 
-— The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) (accessed: June 28, 2023)
-
-https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theater
+— The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [LDS Catalog](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) ([Archive link](https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theater)) (accessed: June 28, 2023)
 
 &nbsp;
 
 ## Is "prophet" even a priesthood office?
 No! Not according to one George Q Cannon in 1869, at least:
 
-> *... we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost; and, in fact, he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination. But when the time came for him to be baptized, then a man who held the keys of that Priesthood came to him and laid his hands upon Joseph’s head, and upon Oliver Cowdery, and set them apart, and gave them authority to officiate in the Aaronic Priesthood, which Priesthood held the keys of baptism and so forth.*
+> *... we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost==; and, in fact, ==he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination. But when the time came for him to be baptized, then a man who held the keys of that Priesthood came to him and laid his hands upon Joseph’s head, and upon Oliver Cowdery, and set them apart, and gave them authority to officiate in the Aaronic Priesthood, which Priesthood held the keys of baptism and so forth.*
 
 — *[Right and Authority of President Brigham Young.](https://scriptures.byu.edu/#0651617b8:t1fbd8:j13)*; George Q. Cannon, [Journal of Discourses 13](https://scriptures.byu.edu/jod/pdf/JoD13/JoD13.pdf):47

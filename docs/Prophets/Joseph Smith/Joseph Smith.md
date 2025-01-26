@@ -60,7 +60,7 @@ Goodness. What kind of lies might be perpetuated in Lucy's account? I hope it is
 &nbsp;
 
 ## How do we define “martyr”?
-Joseph had a gun and fought back ([[1](https://books.google.ca/books?id=EXjTCwAAQBAJ&pg=PA59#v=onepage&q&f=false)], [[2](https://fairlatterdaysaints.org/answers/Joseph_Smith_fired_a_gun_at_Carthage_Jail)], [[3](https://en.wikipedia.org/wiki/Killing_of_Joseph_Smith#Incarceration_at_Carthage_Jail)], [[4](https://www.deseret.com/faith/2021/4/1/22358412/11-fascinating-images-of-latter-day-saint-artifacts/)]). How does this fit with “[praise to the man](https://www.churchofjesuschrist.org/media/music/songs/praise-to-the-man?lang=eng)”? Was his blood shed by assassins? Or was it a mob, sick of his bullshit?
+Joseph had a gun and fought back ([1](https://books.google.ca/books?id=EXjTCwAAQBAJ&pg=PA59#v=onepage&q&f=false), [2](https://fairlatterdaysaints.org/answers/Joseph_Smith_fired_a_gun_at_Carthage_Jail), [3](https://en.wikipedia.org/wiki/Killing_of_Joseph_Smith#Incarceration_at_Carthage_Jail), [4](https://www.deseret.com/faith/2021/4/1/22358412/11-fascinating-images-of-latter-day-saint-artifacts/)). How does this fit with “[praise to the man](https://www.churchofjesuschrist.org/media/music/songs/praise-to-the-man?lang=eng)”? Was his blood shed by assassins? Or was it a mob, sick of his bullshit?
 
 How many other religious leaders get a lynching mob sent after them while they're Imprisoned? He fought back, emptying a six-shooter into a crowd. I can concede that this was in a panic since his life was in immediate danger; not saying he shouldn’t have, nor that I would have reacted differently. I’m saying he did, and I was raised to believe he did not.
 

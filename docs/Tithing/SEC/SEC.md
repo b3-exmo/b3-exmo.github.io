@@ -40,7 +40,9 @@ I'll introduce the debacle with the church's take on things. They employ lots of
 
 &nbsp;
 
-## LDS Church [PR statement](https://newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)
+## LDS Church PR Statement
+[Link here](https://newsroom.churchofjesuschrist.org/article/church-issues-statement-on-sec-settlement)
+
 I'll first reiterate that I have no legal authority or training, I'm a dork with an internet connection.
 
 > *The Church of Jesus Christ of Latter-day Saints and its ==affiliated investment manager==, Ensign Peak Advisors, Inc., have ==settled a matter== with the Securities and Exchange Commission (SEC).*
@@ -107,7 +109,9 @@ I surmise (and I cannot emphasize the word "surmise" enough here) that the churc
 
 ---
 
-## SEC [PR statement](https://www.sec.gov/news/press-release/2023-35)
+## SEC PR statement
+[Link here](https://www.sec.gov/news/press-release/2023-35)
+
 > *The Securities and Exchange Commission today announced charges against Ensign Peak Advisers Inc., a non-profit entity ==operated by== The Church of Jesus Christ of Latter-day Saints to manage the Church’s investments, for failing to file forms that would have disclosed the Church’s equity investments, and for instead filing forms for shell companies ==that obscured the Church’s portfolio== and ==misstated Ensign Peak’s control over the Church’s investment decisions==. The SEC also announced charges against ==the Church for causing these violations==. To settle the charges, Ensign Peak agreed to pay a $4 million penalty and the Church agreed to pay a $1 million penalty.*
 
 Wow, this is a lot less rosy than what the church had to say about itself.

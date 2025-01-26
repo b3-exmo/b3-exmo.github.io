@@ -3,9 +3,7 @@ comments: true
 ---
 # 😈 Satan
 ## Has power
-(Notes under construction; Satan is not powerless... according to LDS theology)
-
-I've got some unorganized notes and excerpts on this; once it's cleaned up, I'll post them here.
+I've got some unorganized notes and excerpts on this idea that Satan has supernatural power to influence mortality; once those notes get cleaned up, I'll post them here. Check back later!
 
 ### Controls water (I guess)
 > *This revelation was received by the Prophet Joseph Smith on the bank of the Missouri River, McIlwaine’s Bend, on 12 August 1831. The Prophet wrote:*
