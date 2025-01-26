@@ -10,7 +10,7 @@ function getDomain(url) {
 $("article.md-typeset a[href^='http']")
 .not(
   "article.md-typeset a[href^='http://localhost']",
-  "article.md-typeset a[href^='https://b3-exmo.github.io']"
+  "article.md-typeset a[href^='https://b3-exmo']"
 ).each(function () {
   $(this).css({
     background:
