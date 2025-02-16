@@ -66,8 +66,10 @@ So... Maybe this is one of those times when the Bible is [[Bible#Article of Fait
 &nbsp;
 
 ### Deseret News
-**[Joseph Smith wasn't arrogant or boastful](https://www.deseret.com/2014/9/4/20547771/joseph-smith-wasn-t-arrogant-or-boastful/)** By Daniel Peterson, Sept 4, 2014
 
+Quotes from **[Joseph Smith wasn't arrogant or boastful](https://www.deseret.com/2014/9/4/20547771/joseph-smith-wasn-t-arrogant-or-boastful/)** By Daniel Peterson, Sept 4, 2014
+
+#### First
 > *First, the context: Joseph was applying a passage from the apostle Paul ([2 Corinthians 11-12](https://www.lds.org/scriptures/nt/2-cor/11?lang=eng)) to his own perilous situation. The idea of “boasting” wasn't Joseph’s; it was Paul’s. The critics typically forget that.*
 
 Those darn critics, always forgetting who quotes are attributed to. What antics will they get up to next?
@@ -76,6 +78,7 @@ I don't think these semantics need to be this [[Book of Mormon#Probability / Occ
 
 &nbsp;
 
+#### Second
 > *Second, Joseph seems actually to be praising his followers’ faithfulness, not himself.*
 
 "I am the only man that ever has been able to keep a whole church together since the days of Adam." "[N]o man ever did such a work as me— the followers of Jesus ran away from him, the Latter Day Saints never ran away from me yet."
@@ -84,6 +87,7 @@ I don't think these semantics need to be this [[Book of Mormon#Probability / Occ
 
 &nbsp;
 
+#### Third
 > *Third, Joseph didn’t write the quotation; it was reconstructed after his death. Thus, it almost certainly doesn’t represent his precise words. Even “History of the Church” (often called the “Documentary History”) says that it rests upon a "synopsis" by Thomas Bullock.*
 > 
 > *Joseph delivered the sermon on May 26, 1844. A month later, he was dead. So did he supervise or approve this entry? No. Entries in the “History of the Church” for at least his last five years were actually made by others, after his assassination. Like other chroniclers of the period, they reconstructed his speeches from the notes and memories of those who’d heard them. (There were no recordings.) His well-intentioned scribes admired and missed him enormously, and they worked as accurately as they could, but it’s unreasonable to expect verbal exactness from their method.*
@@ -96,6 +100,7 @@ Can we point to specific things that Jesus Christ wrote Himself? No? We only hav
 
 &nbsp;
 
+#### Fourth
 > *Fourth, Joseph’s authenticated personal statements plainly reveal him to have been a humble and sincere man, struggling to do the will of God as he understood it — and this particular statement should be placed in the context of his overall life and behavior.*
 
 "Things that make Joseph look good are legitimate. Anything that suggests he's anything short of being Jesus' special boy is *wrong*."

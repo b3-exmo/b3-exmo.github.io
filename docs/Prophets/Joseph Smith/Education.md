@@ -4,7 +4,7 @@ comments: true
 # 🎓 Education
 > For centuries, the strategy of ==downplaying a person’s education in order to accentuate the miraculous nature== of his or her accomplishments was a common hagiographical trope in religious discourse.
 
-— Davis, W. (2016). Performing Revelation: Joseph Smith and the Creation of The Book of Mormon. _UCLA_. ProQuest ID: Davis_ucla_0031D_15088. Merritt ID: ark:/13030/m5pp3tph. Retrieved from https://escholarship.org/uc/item/86h814zv. Accessed 06 June 2024.
+— Davis, W. (2016). Performing Revelation: Joseph Smith and the Creation of The Book of Mormon. _UCLA_. ProQuest ID: Davis_ucla_0031D_15088. Merritt ID: ark:/13030/m5pp3tph. Retrieved from [https://escholarship.org/uc/item/86h814zv](https://escholarship.org/uc/item/86h814zv). Accessed 06 June 2024.
 
 &nbsp;
 

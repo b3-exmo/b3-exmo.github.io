@@ -1,12 +1,9 @@
 .vscode/settings.json
-docs/.obsidian/
-docs/javascripts/mathjax.js
-docs/.stfolder/
-docs/.trash/
-docs/backup/
-docs/0WIP/
-docs/0PDF/
-docs/0Needs more info/
-docs/1Transcripts/
+.obsidian/
+.stfolder/
+wip/
+supplemental/
 venv/
+site/
 pyvenv.cfg
+dev/

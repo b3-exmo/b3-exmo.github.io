@@ -75,6 +75,8 @@ A fellow named Tom Scott has a YouTube channel where he [presents this in an app
 
 Now imagine two young fellows at your doorstep extending an invitation to you to attend their church. "By the way," one might say, "this church isn't wrong, in case you were wondering about that." "Nope," his companion interjects, "it is, in fact, *true*." You should hope that is the case. They wouldn't be proselytizing if they didn't believe it was true. But in this imagined scenario, they still felt the need to tell you that it is true.
 
+If it *was* true, *you wouldn't have to tell me* that it's true.
+
 &nbsp;
 
 ### Why testify?
@@ -99,9 +101,13 @@ Are Buddha Siddhartha Gautama's teaching "true"? If you were to find a Buddhist 
 
 Is truthfulness a precondition for value?
 
+&nbsp;
+
 ### Mythology
-This may warrant its own separate page of notes, but consider what value mythology has. Broadly speaking, myths aren't presented as true, but they're present in a culture for illustrative purposes. Zombies aren't real, but can be used to describe a mindless, violent horde. Cryptids like chupacabra or skinwalkers are described in folk stories, but aren't demonstrably proven to exist. One could argue that their value is to scare children away from sneaking out at night. On the flip side, mythologies like Santa Claus are a positive reinforcement, to incentivize good behavior. These figures don't have to be real to have value. The stories don't have to be true to be useful. Stories about vampires are not true, but can still be useful for telling a story for a reader or viewer to insert themselves into.
+This may warrant its own separate page of notes, but consider what value mythology has. Broadly speaking, myths aren't presented as true, but they're present in a culture for illustrative purposes. Zombies aren't real, but can be used to describe a mindless, violent horde. Cryptids like chupacabra or skinwalkers are described in folk stories, but aren't demonstrably proven to exist. One could argue that their value is to scare children away from sneaking out at night. On the flip side, mythologies like Santa Claus are a positive reinforcement, to incentivize good behavior. These figures don't have to be real to have value. The stories don't have to be true to be useful. 
 
-So, no, I dare say that truthfulness is not a precondition for value. If you find value in attending a church, that's enough of a reason to attend. If you find value, meaning, and comfort in religious routines and rituals, they don't have to be "true." Truth and utility are not mutually exclusive, nor are they inseparable. 
+Stories about vampires are not true, but can still be useful for telling a story for a reader or viewer to insert themselves into. Fictional stories have value. With some imagination, a reader can insert themselves into the scenario as a thought exercise, whether for entertainment or as a safe (imagined) environment to face moral dilemmas.
 
-In a romanticized reality, taking your kids to see Santa Claus in the mall is a cathartic and endearing experience. In more practical terms, verbally confessing 'sins' to your religious leaders can also be cathartic. Neither has to be "true." Both have value and utility. I'm not trying to equate the two. I'm saying that if someone sees value in reading the Book of Mormon every day, that intrinsic value is enough of a reason to keep doing it. Where problems arise is insisting that the Book of Mormon is a literal historical record, and anyone who rejects it is throwing away their chance at salvation.
+So, no, I dare say that truthfulness is not a precondition for value. If you find value in attending a church, that's enough of a reason to attend. If you find value, meaning, and comfort in religious routines and rituals, they don't have to be "true." Truth and utility are not mutually exclusive, nor are they inseparable.
+
+In a romanticized reality, taking your kids to see Santa Claus in the mall is a cathartic and endearing experience. In more practical terms, verbally confessing 'sins' to your religious leaders can also be cathartic. Neither has to be "true." Both have value and utility. ==I'm not trying to equate the two==. I am not saying that belief in Jesus is comparable to a childish belief in Santa. I'm saying that if someone sees value in reading the Book of Mormon every day, that intrinsic value is enough of a reason to keep doing it. Where problems arise is insisting that the Book of Mormon is a literal historical record, and insisting that anyone who rejects it is throwing away their chance at salvation.

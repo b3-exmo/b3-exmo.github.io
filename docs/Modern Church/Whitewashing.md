@@ -1,7 +1,5 @@
 ---
-Owner: BBen
-Last edited time: 2023-09-01T22:02
-Created time: 2023-07-15T10:14
+comments: true
 ---
 # 🧼 Whitewashing History
 > *There has been no attempt on the part, in any way, of the church leaders trying to hide anything from anybody.*
@@ -30,6 +28,7 @@ As church historian, Joseph F Smith tore out pages and destroyed/hid papers that
 If we've accurately identified (or estimated) when pages were cut out from Joseph Smith's own hand-written journal, we can then compare to who was serving as the [Church Historian and Recorder between years 1921 and 1970](https://www.churchofjesuschrist.org/study/history/topics/joseph-fielding-smith?lang=eng&id=p4#p4). To me, this would indicate gross negligence *at best*, or deliberate disregard for historical documents by the one man appointed to be responsible for preserving historical documents.
 
 The cellophane tape is visible in the Joseph Smith Papers Project scans of these documents:
+
 - [Letterbook 1](https://www.josephsmithpapers.org/paper-summary/letterbook-1/9#source-note)
 - [JS' History, circa Summer 1832](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/1#source-note)
 - [JS' History, circa Summer 1832, Page 5](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/5)
@@ -109,7 +108,7 @@ Then compare to FAIR.
 ## Council of Fifty meeting minutes
 ![[council-fifty-1984.png]]
 
-&mdash; Joseph F. Smith papers, 1854-1918; Autobiographical writings, 1856-1909; Journals and diaries; 1880 October 6-1880 October 12; Church History Library, https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse (accessed: August 2, 2024)
+&mdash; Joseph F. Smith papers, 1854-1918; Autobiographical writings, 1856-1909; Journals and diaries; 1880 October 6-1880 October 12; Church History Library, [https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse](https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse) (accessed: August 2, 2024)
 
 See it for yourself:
 - [Page 10](https://catalog.churchofjesuschrist.org/assets/339275a3-89b3-4f2e-bb01-03dd52e9cdd1/0/9)
@@ -139,6 +138,7 @@ He's either lying through his teeth or is really far gone with dementia. He's be
 [Old Missionary Lessons, **Discussion 2**](https://archive.org/details/Discussion2TheGospelOfJesusChrist/page/n11/mode/2up): "**We will be holding a baptismal service on (date). Will you prepare yourself to be baptized on that date?**" 
 
 [Missionary Training Manual](https://www.churchofjesuschrist.org/study/manual/a-missionarys-mtc-experience-language-2015/fundamentals/check-your-progress?lang=eng), "Check Your Progress": 
+
 - 5. **I invite my investigators to be baptized in the first lesson**. 
 - 6. I invite my investigators to be baptized with a specific date no later than the second lesson.
 

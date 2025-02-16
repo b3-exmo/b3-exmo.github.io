@@ -2,6 +2,7 @@
 comments: true
 ---
 # 🎣 Kinderhook Plates
+## Gospel Topics Essay
 The church does have a [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/history/topics/kinderhook-plates?lang=eng) about this. Contemporary records are pretty sparse, and I assume it's because it doesn't end well.
 
 > *In 1843, a group of men unearthed six bell-shaped brass plates about three inches in height from an American Indian burial mound near Kinderhook, Illinois. The plates contained symbols resembling an ancient script, and one member of the group thought the artifacts appeared well suited for Joseph Smith to translate. Accounts suggest the discovery intrigued Joseph Smith and other Latter-day Saints in Illinois, but ==no translated text resulted== from this short-lived excitement.*
@@ -51,6 +52,7 @@ Has the church tried to distance themselves from this? ... Would it surprise you
 
 &nbsp;
 
+## Ensign
 Here are some excerpts from [Kinderhook Plates Brought to Joseph Smith Appear to Be a Nineteenth-Century Hoax](https://www.churchofjesuschrist.org/study/ensign/1981/08/kinderhook-plates-brought-to-joseph-smith-appear-to-be-a-nineteenth-century-hoax?lang=eng), Stanley B. Kimball, Ensign, August 1981.
 
 > *. . . a nineteenth-century attempt to lure Joseph Smith into making a translation of ancient-looking characters that had been etched into the plates.*
@@ -73,9 +75,10 @@ Oh. How convenient. Joseph's mention of starting to translate the prank-plates w
 
 &nbsp;
 
+## History of the Church
 > *In the last number I gave a brief history of the rise and progress of the Church, I now enter more particularly into that history, and ==extract from my journal==.* - Joseph Smith
 
-— “==History of Joseph Smith==”, p. 726, The Joseph Smith Papers, accessed June 10, 2024, https://www.josephsmithpapers.org/paper-summary/history-of-joseph-smith/1
+— “==History of Joseph Smith==”, p. 726, The Joseph Smith Papers, accessed June 10, 2024, [https://www.josephsmithpapers.org/paper-summary/history-of-joseph-smith/1](https://www.josephsmithpapers.org/paper-summary/history-of-joseph-smith/1)
 
 Are we thinking of a different "history of Joseph Smith"?
 

@@ -24,6 +24,7 @@ We're a worldwide organization, but don't forget that not only is '*merica* the 
 &nbsp;
 
 ### 1. The prophet is the only man who speaks for the Lord in everything.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p7#p7)
 
 Idk man that sounds like you really want to be able to *dictate* “everything”.
 
@@ -36,6 +37,7 @@ Wait, so... do we sustain the quorum of 12 as "prophets, seers, and revelators"?
 &nbsp;
 
 ### 2. The living prophet is more vital to us than the Standard Works.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p14#p14)
 
 So… Existing, established records of Jesus’ teachings are less important than you. I suppose that would make sense *if* you really spoke to Jesus. From anyone left of skepticism, that sounds very authoritarian and cult-like.
 
@@ -48,6 +50,7 @@ Brigham thought Joseph was a cool guy, therefore, disregard all scriptures. Jose
 &nbsp;
 
 ### 3. The living prophet is more important to us than a dead prophet.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p18#p18)
 
 Does this invalidate the rest of his points, since Benson is no longer living?
 
@@ -68,6 +71,7 @@ I can be satisfied to call this a product of the 80's. Truthfully, I wasn't arou
 &nbsp;
 
 ### 4. The prophet will never lead the Church astray.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p21#p21)
 
 I do take issue with this declaration. “Trust everything I say. If it were wrong, God wouldn’t let me say it. Since I said it, that means I have God’s approval backing what I say. It’s practically God saying it!”
 
@@ -84,6 +88,7 @@ Cool faith promoting story about blind obedience even if the prophet deliberatel
 &nbsp;
 
 ### 5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p26#p26)
 
 Not only is the prophet NEVER wrong, ALWAYS speaks for the Lord, but is always fully qualified to authoritatively speak about anything. 🤔
 
@@ -104,6 +109,7 @@ oh for the love of
 &nbsp;
 
 ### 6. The prophet does not have to say “Thus saith the Lord” to give us scripture.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p28#p28)
 
 Oh good.
 
@@ -115,6 +121,7 @@ Therefore, *all* words of *all* subsequent prophets are scriptural. To me, this 
 
 &nbsp;
 ### 7. The prophet tells us what we need to know, not always what we want to know.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p33#p33)
 
 No room for abuse here, nope
 
@@ -124,7 +131,7 @@ Again, imagine anyone else saying this. The combination of point 5 and 7 sounds 
 
 >  *“Thou has declared unto us hard things, more than we are able to bear,” complained Nephi’s brethren. But Nephi answered by saying, “The guilty taketh the truth to be hard, for it cutteth them to the very center.” ([1 Ne. 16:1–2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/16.1-2?lang=eng#p1).)*
 
-Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, they haven't even [[Seafaring|built their ship]] to leave for the promised land yet. You know, the one Lehi was told by God to go to?
+Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, they haven't even [[Seafaring|built their ship]] to leave for the promised land yet. You know, the one Lehi was told by God to go to? 
 
 > *Said President Harold B. Lee:*
 > 
@@ -137,6 +144,7 @@ Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, the
 &nbsp;
 
 ### 8. The Prophet is not limited by men’s reasoning.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p44#p44)
 
 Definitely not a cult lmao
 
@@ -153,6 +161,7 @@ Ok thanks that helps clarify things
 &nbsp;
 
 ### 9. The prophet can receive revelation on any matter—temporal or spiritual.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p49#p49)
 
 Yikes 😬
 
@@ -169,6 +178,7 @@ And here I am scrutinizing this Brigham Young quote while Benson just asserted t
 &nbsp;
 
 ### 10. The prophet may well advise on civic matters.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p54#p54)
 
 Bigger yikes
 
@@ -177,6 +187,7 @@ The notes to [rationalize this claim](https://www.churchofjesuschrist.org/study/
 &nbsp;
 
 ### 11. The two groups who have the greatest difficulty in following the prophet are the proud who are learned and the proud who are rich.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p55#p55)
 
 "People who are *wrong* are those who are smarter than me, and those who are wealthier than me. They’re wrong. I am the smartest and richest person who matters, who you should be listening to. The others ‘have the greatest difficulty’ following me.”
 
@@ -185,7 +196,9 @@ On the flip side, this implies pretty strongly that church leadership loves the 
 Yes, there's something to be said about the psychological effects that affluence has on a human mind. Associating prosperity with morality compounds this effect. Is it surprising to anyone that a wealthy person who has their needs met doesn't see the need to upend their lifestyle? Certainly not at the behest of someone who wants 10% of their income perpetually?
 
 &nbsp;
+
 ### 12. The prophet will not necessarily be popular with the world or the worldly.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p61#p61)
 
 Come on, now. "If I say something that mainstream disagrees with, that means I’m right." Isn't it convenient how the chosen spokesperson for God, loving creator of mankind, always says something upsetting to all of mankind? This gives the prophet a pass to *say anything*, and he can point to the opposition and nay-sayers as proof that he's right, and reflecting God's will. Following this logic, he could make some preposterous statement about zoophilia, and since lay people disagree, that means he must be right!
 
@@ -203,12 +216,14 @@ What? Isn't the prophet meant to be unifying people under one banner? Gathering 
 &nbsp; 
 
 ### 13. The prophet and his counselors make up the First Presidency—The highest quorum in the Church.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p63#p63)
 
 "I *rule* the organization made by God. I do. *Me*."
 
 &nbsp; 
 
 ### 14. The prophet and the presidency—the living prophet and the First Presidency—follow them and be blessed—reject them and suffer.
+[Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p65#p65)
 
 "Do what I say, or *suffer*." 🤡
 

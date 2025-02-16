@@ -16,22 +16,20 @@ Doing baptisms for the dead as a teenager was always hyped up as a life-changing
 &nbsp;
 
 ## Temple Prep
-It comes to a head when I’m preparing to serve a mission. Taking part in the Temple Prep class was a big red flag. Something like six weeks during the third hour, and each lesson was “well, it’s very symbolic, and is very sacred.” Each week the instructor would say, in so many words, that this is very sacred and we can’t talk about it outside the temple. One needs to be in tune with the spirit to receive this information properly.
+It comes to a head when I’m preparing to serve a mission. Taking part in the Temple Prep class was a big red flag. For around six weeks during the third hour, and each lesson was “well, it’s very symbolic, and is very sacred.” Each week the instructor would say, in so many words, that this is very sacred and we can’t talk about it outside the temple. One needs to be in tune with the spirit to receive this information properly.
 
-I’d come “prepared” by meditating, pondering, and praying. Same message every week.
+I’d come “prepared” by meditating, pondering, and praying. Same message every week. It's [[Too Sacred to Share|too sacred to talk about]] here. My skepticism grew each successive week&mdash; why am I going to this class if it's just a nothing-burger?
 
-The night before going to the temple for my own endowment ceremony, my dad tried to soften the upcoming blow by describing the ceremony: _Anti-Mormons will say that the ceremony consisting of a lot of passwords and secret handshakes. In reality… it consists of a lot of passwords and secret handshakes. But it’s not weird, there are attendants who will help you through them!_
-
-I guess that’s the part that my temple prep class kept skirting around.
+The night before going to the temple for my own endowment ceremony, my dad tried to soften the upcoming blow by describing the ceremony: *Anti-Mormons will say that the ceremony consisting of a lot of passwords and secret handshakes. In reality… it consists of a lot of passwords and secret handshakes. But it’s not weird, there are attendants who will help you through them!* I guess that’s the part that my temple prep class kept skirting around.
 
 Once I get into the endowment ceremony for my first time in late 2012, I remember my heart racing, as the whole group wordlessly mimics the officiator in swearing away their time, possessions and money. I remember feeling very anxious and uncomfortable, as I had _zero_ knowledge of what was coming, and this was absolutely nothing like any other LDS ceremony I had known of. This felt like a damned cult. I remember the moment where the group is prompted that “if any of you wish to withdraw from making these eternally binding consequences, before God, angels, and these witnesses, make it known now by raising your hand!” The entire congregation turned and stared at me. Was I going to flake out now? Now that I already have a date to enter the MTC? No, I have faith, and I’ll make this work! Somehow…
 
 &nbsp;
 
 ## Mission
-I grew up insulated from much of the world, in various parts of the midwest, and northern Texas. My mission call sent me to Los Angeles. I distinctly remember descending through the clouds to the LAX airport, and feeling a moderate panic attack at how urbanized and dense the view was, seeing scarce green space, and reminding myself that I, an anxious dork from Kansas, will be held accountable for spreading Jesus' gospel to all eight million of these people. Being immersed in the massive city of LA where seeing green grass was a rarity kept my stress levels above healthy intervals, to put it lightly. My response to the ordeal was to double down, insist that I represent Jesus Christ and that I cannot be wrong— I cannot and will not falter and give up now. This work is important.
+I grew up insulated from much of the world, in various parts of the midwest, and northern Texas. My mission call sent me to Los Angeles. I distinctly remember descending through the clouds to the LAX airport, and feeling a moderate panic attack at how urbanized and dense the view was. Seeing scarce green space, and reminding myself that I, an anxious dork from Kansas, will be held accountable for spreading Jesus' gospel to all eight million of these people. Being immersed in the massive city of LA where seeing green grass was a rarity kept my stress levels above healthy intervals, to put it lightly. My response to the ordeal was to double down, insist that I represent Jesus Christ and that I cannot be wrong— I cannot and will not falter and give up now. This work is important.
 
-As a district leader, I had another companionship call to vent that they “had their testimonies attacked” by some embittered ex-members. Claims about tithing, financial transparency, polygamy, hidden information, etc.. I assured them that, if they felt shaken, they can take the evening off to regain composure in their apartment, study and pray. I’d check in with them the next day. They shrugged it off and we never spoke of it again.
+As a district leader, I had another companionship call to vent that they “had their testimonies attacked” by some embittered ex-members. Claims about tithing, financial transparency, polygamy, hidden information, etc.. I assured them that, if they felt shaken, they can take the evening off to regain composure in their apartment, study and pray. I’d check in with them the next day. They shrugged it off and we never spoke of it again. Today, I think back on those days surrounding that event, and wonder what could have happened if I pushed a bit harder.
 
 &nbsp;
 
@@ -70,7 +68,7 @@ Later chapters described Joseph Smith, particularly the First Vision, where he i
 
 Oh shit. The anti-Mormons are right about this.
 
-I flipped back to the earlier claims about the Book of Mormon anachronisms, checking each cited source for a claim. Shit. The LDS church has this in writing. Shit. Oh fuck.
+I flipped back to the earlier claims about the Book of Mormon anachronisms, checking each cited source for a claim. Shit. The LDS church has this in writing. *Shit*. Oh *fuck*.
 
 What if the evil people are right? The perfect church, led by men inspired of & led by God himself… what if it was wrong? What if God wasn’t leading it? Is this all a scam?
 
@@ -81,7 +79,11 @@ I had to put my tablet down and stare off into the distance for some unknown amo
 ## Deconstruction begins
 I’d try to get through more of the CES letter, but could only bear the emotional stress of short exposures to the document. I couldn’t stop, but I couldn’t continue. Each claim had sources to back them up. Some sources more satisfying than others— I can say that, at the time, I didn’t feel like the CES letter was bulletproof or undeniable. But it had enough compelling information that my “[[shelf]]” that had since collapsed was further crushed under the weight of more questions and discrepancies. The salamander letters. [[Doctrines/Polygamy/Polygamy|Polygamy]] being so much worse and pervasive than I had been led to believe. [[Brigham Young|Brigham Young]]’s theocratic dictatorship. [[Book of Abraham]].
 
-I’d occasionally be pressured to attend church with my in-laws, and would oblige most mornings. I don’t remember feeling anything from the speakers or lessons, only bewilderment that the congregation appeared to be either A) buying into it, or B) so enraptured by their iPad, but still felt subject to presenteeism.
+Conventional wisdom within Mormonism is to, when confronted by some non-specific challenge, attend the temple, listen to the prophets, read scriptures, etc. I wouldn't be able to answer the [temple recommend questions](https://www.churchofjesuschrist.org/study/ensign/2020/01/aus-eng-local-pages/local-news-002?lang=eng&id=p9-p24#p9) pertaining to faith, belief, or sustaining church leaders, but figured that God knew my dilemma&mdash; I've got to get in there to rebuild my testimony. The most recent two or three times attending an endowment ceremony were sobering, reminiscent of the ominous silence I felt when praying. I couldn't get over how bizarre the ritual was, and how what I read in the Old Testament as doctrinal backing for it all felt tenuous at best. Not knowing much about Masonic ceremonies, I could buy into the idea that this was plagiarized. This didn't feel like it was from God.
+
+Maybe the most recent General Conference carried some messages of hope? October 2018 was when the president of the church, Russell M Nelson, felt that the most important thing for God's mouthpiece to relay to us was that [[Name Mormon#2018|"Mormon" is a bad word now]]. I remember feeling incredulous and dumbstruck&mdash; *this* is what God is worried about?
+
+I’d occasionally be pressured to attend church with my in-laws, and would oblige most mornings. I don’t remember feeling anything from the speakers or lessons, only bewilderment that the congregation appeared to be either A) buying into it, or B) enraptured by their iPad, but giving in to presenteeism.
 
 I couldn’t sustain this belief in good conscience anymore.
 

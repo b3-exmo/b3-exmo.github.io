@@ -195,6 +195,7 @@ God bless America, if I keep reading into this, my notes will devolve further in
 &nbsp;
 
 ### City Creek Mall
+#### Funding
 Chronologically, the earliest time I recall hearing about this was in General Conference, from Gordon Hinckley himself:
 
 >*We feel we have a compelling responsibility to ==protect the environment== of the Salt Lake Temple. . . . We have felt it imperative to do something to revitalize this area. But I wish to give the entire Church the assurance that ==tithing funds have not and will not be used to acquire this property. Nor will they be used in developing it for commercial purposes.==*
@@ -204,6 +205,20 @@ Chronologically, the earliest time I recall hearing about this was in General Co
 — _[The Condition of the Church](https://www.churchofjesuschrist.org/study/general-conference/2003/04/the-condition-of-the-church?lang=eng&id=p11-p12#p11)_, Gordon B Hinckley, General Conference April 2003
 
 Better get ahead of those rumors and defend our decisions *immediately*. Nothing to see here, just business as usual. Note the explicit delineation of tithing money versus "earnings of invested reserve funds." That might [[SEC Order|become relevant later]].
+
+&nbsp;
+
+> *An appeals court has thrown out Utahn James Huntsman’s ==fraud lawsuit== against The Church of Jesus Christ of Latter-day Saints over millions of dollars in tithing.*
+> 
+> *In a unanimous ruling, the 9th U.S. Circuit Court of Appeals found “no reasonable juror” could have concluded that the Utah-based faith misrepresented the source of funds it used to spend $1.4 billion on the building and development of City Creek Center, a church-owned mall and residential towers in downtown Salt Lake City.*
+> 
+> *“==The church had long explained that the sources of the reserve funds included tithing funds==,” according to an opinion summary issued Friday by the 9th Circuit, “and Huntsman had not presented evidence that the church did anything other than what it said it would do.”*
+
+&mdash; [LDS Church prevails as federal appeals court tosses out James Huntsman’s tithing lawsuit](https://web.archive.org/web/20250201170901/https://www.sltrib.com/religion/2025/01/31/alert-lds-church-prevails-federal/), Salt Lake Tribune, 2025 January 31
+
+&nbsp;
+
+Isn't it amazing how a well-funded legal team can change the past?
 
 &nbsp;
 

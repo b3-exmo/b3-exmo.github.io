@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # 🧍‍♂️ No Official Stance
 The LDS church claims authority to definitively speak for and in behalf of God Himself.
 
@@ -101,13 +104,14 @@ Cowards. Do they speak for God or not?
 
 &nbsp;
 
+##### Oaks
 > *A loving Heavenly Father has a better plan for His children. The revealed doctrine of the restored Church of Jesus Christ teaches that* all the children of God *—with exceptions too limited to consider here—will finally wind up in a kingdom of* glory. *In “In my Father’s house are many mansions,” Jesus taught. ==From modern revelation we know that those mansions are in three different kingdoms of glory==. In the Final Judgment each of us will be judged according to our deeds and the desires of our hearts. Before that, we will need to suffer for our unrepented sins. ==The scriptures are clear on that==. Then our righteous Judge will grant us residence in one of those kingdoms of glory. ==Thus, as we know from modern revelation==, all “shall be judged … , and every man shall receive according to his own works, his own dominion, in the mansions which are prepared.”*
 
 &mdash; [Divine Love in the Father’s Plan](https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=ase&id=p4#p4),  President Dallin H. Oaks, First Counselor in the First Presidency, General Conference 2022 April
 
 🤔
 
-See also: [Wilford Woodruff expressing frustration](https://www.josephsmithpapers.org/paper-summary/discourse-21-january-1844-as-reported-by-wilford-woodruff/3) as his "great difficulty in getting anything into the heads of this generation" after explaining what "many mansions" means.
+See also: [Wilford Woodruff expressing frustration](https://www.josephsmithpapers.org/paper-summary/discourse-21-january-1844-as-reported-by-wilford-woodruff/3) at his "great difficulty in getting anything into the heads of this generation" after explaining what "many mansions" means.
 
 &nbsp;
 
@@ -143,7 +147,7 @@ I, uh... I'm not [[Polygamy#Required for exaltation!|sure that is true]].
 &nbsp;
 
 ## FAIR
-One could argue that *Faithful Answers & Informed Responses* (FAIR) isn't *officially* part of the LDS church. On paper, they would be correct. Maybe you can help me under
+One could argue that *Faithful Answers & Informed Responses* (FAIR) isn't *officially* part of the LDS church. On paper, they would be correct.
 
 &nbsp;
 
