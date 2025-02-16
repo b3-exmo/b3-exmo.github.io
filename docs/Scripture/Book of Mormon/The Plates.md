@@ -49,7 +49,7 @@ Moroni took em idk lol
 
 > *After the witnesses returned to the house ==the Angel again made his appearance to Joseph and received the the plates from his hands==.*
 
-— *Lucy Mack Smith, History, 1844–1845, Page [2], bk. 9, p. [2], bk. 9, The Joseph Smith Papers, accessed July 22, 2024, https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/106*
+— *Lucy Mack Smith, History, 1844–1845, Page [2], bk. 9, p. [2], bk. 9, The Joseph Smith Papers, accessed July 22, 2024, [https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/106](https://www.josephsmithpapers.org/paper-summary/lucy-mack-smith-history-1844-1845/106)*
 
 😐 k
 

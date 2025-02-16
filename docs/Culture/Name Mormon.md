@@ -141,6 +141,14 @@ Ok. Sure thing, buddy.
 
 &nbsp;
 
+Imagine the creator and governor of the entire known universe, whose creations extend well beyond our mortal comprehension&mdash; "[worlds without number](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?id=p33-p38&lang=eng#p33) have I created," as revealed to a prophet.
+
+Now imagine that same God just getting *so upset and angry* because you called yourself a Mormon.
+
+How petty would He have to be? Doesn't He have bigger things to worry about?
+
+&nbsp;
+
 ## A name given by enemies
 > *[T]he name Mormon, and Mormonism, was ==given to us by our enemies==, but Latter Day Saints was the real name by which the church was organized.*
 
@@ -214,14 +222,34 @@ I could imagine someone arguing that the 1830 & 1838 names were by revelation, a
 
 &nbsp;
 
+I found a 1979 Ensign article about this: 
+
+> ... *This alteration was not seen as a de-emphasis of Christ; on the contrary, it was done in hopes that the name of the Church would more clearly reflect the fact that Christ was at its head.*
+> 
+> ... *Since Paul and Peter used the Greek word* saint *(“a holy person”) to refer to believers in Christ, the term Latter-day Saints implied that Church members were modern followers of Christ. Thus it also asserted the claim of restoration.*
+
+&mdash; [What changes have been made in the name of the Church?](https://www.churchofjesuschrist.org/study/ensign/1979/01/i-have-a-question/what-changes-have-been-made-in-the-name-of-the-church-its-full-designation-does-not-appear-in-the-revelations-until-1838-d-and-c-115-4?id=p3&lang=eng#p3)
+
+Oh.
+
+&nbsp;
+
+Let's not lose sight of the whole reason we're even talking about this: 
+
+"*To ==remove the Lord’s name from the Lord’s Church== is a major victory for Satan.*" "*When we ==omit His name from His Church==, we are inadvertently removing Him as the central focus of our lives.*"
+
+Just... Don't lose sight of that, is all I'm saying. 🤷
+
+&nbsp;
+
 ### Style Guide
-I did some sleuthing to locate if the modern LDS church is fussy about the hyphen between the words *latter* and *day*, but didn't find anything strongly worded about it. Some style guides ([1](https://newsroom.churchofjesuschrist.org/style-guide), [2](https://uc.byuh.edu/church-style-guide-6th-edition-2020)) do specify that the term should be hyphenated, but don't put a lot of weight on the idea. Closest I found was a guide for [use within Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Latter_Day_Saints#Basic_gloss), but I don't think I'd call that definitive.
+I did some sleuthing to locate if the modern LDS church is fussy about the hyphen between the words *latter* and *day*, but I didn't find anything strongly worded about it. Some style guides ([1](https://newsroom.churchofjesuschrist.org/style-guide), [2](https://uc.byuh.edu/church-style-guide-6th-edition-2020)) do specify that the term should be hyphenated, but don't put a lot of weight on the idea. Closest I found was a guide for [use within Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Latter_Day_Saints#Basic_gloss), but I don't think I'd call that definitive for general use.
 
 Although, one thing I stumbled upon seems to have aged poorly:
 
-> *- When referring to Church members, the term "Latter-day Saints" is preferred, though "Mormons" is acceptable.*
+> - *When referring to Church members, the term "Latter-day Saints" is preferred, though "Mormons" is acceptable.*
 >  
-> *- The term "Mormonism" is acceptable in describing the combination of doctrine, culture and lifestyle unique to The Church of Jesus Christ of Latter-day Saints.*
+> - *The term "Mormonism" is acceptable in describing the combination of doctrine, culture and lifestyle unique to The Church of Jesus Christ of Latter-day Saints.*
 
 — *[Style Guide — The Name of the Church](https://newsroom.churchofjesuschrist.org/style-guide2)*, ([archive link](https://web.archive.org/web/20220421143829/https://newsroom.churchofjesuschrist.org/style-guide2)) Church Newsroom, 9 April 2010
 

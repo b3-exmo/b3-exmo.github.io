@@ -2,6 +2,7 @@
 comments: true
 ---
 # 👨‍💼 Prophets
+## Speaking as such
 Asking “is he speaking as a prophet or a man?” assumes that there are moments when a prophet ceases to be a mortal man with flaws and agency, and the ability to be wrong. There never is such a moment, so we are never absolved of our responsibility to confirm truth for ourselves.
 
 No, I don't think it's reasonable to demand that every word to come out of their mouth to be [[Infallibility#Thought exercise|profound or publicly scrutinized]]. I do, however, think it's reasonable to expect dignity and credence whenever a prophet has an audience with the intention of listening. If Gordon Hinckley is standing behind a pulpit before a gathered audience, his words in that moment carry more weight than if he's chilling at home in his PJ's. I understand that there is a difference here. I also understand that when Brigham Young is speaking to a congregation who reveres him as a divinely appointed leader, that carries more weight theologically than when he's berating wife #23 for whatever domestic matter.

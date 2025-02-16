@@ -114,6 +114,7 @@ Don't forget to only study from approved sources. Just listen to things you alre
 
 &nbsp;
 
+### Moroni Logic
 > **3** *Ask God if the things in this record are not true. If ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. 
 >
 > . . .

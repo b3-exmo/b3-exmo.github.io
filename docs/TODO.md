@@ -51,7 +51,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] Law of Chastity (self-abuse 😱)
 	- [ ] Polygamy: Temple Lot Case
 	- [ ] Priesthood Authority
-	- [ ] Priesthood & Discernment
+	- [ ] Priesthood & Discernment (Mark Hoffman)
 	- [ ] "Revelations" from God
 - [ ] "Doesn't appear in the scriptures"
 - [ ] James Strang

@@ -50,7 +50,7 @@ Culturally:
 - The Savior continually says he'll be back soon—just to keep me on my toes.
 - Jesus Christ _really_ doesn't want two loving adults to be allowed to be married if they both have the same kind of genitalia.
 - The Lord [[SEC#SEC PR statement|lied to the US government for over 20 years]] so that no one would know how much money he had.
-- The Savior of mankind demands money from impoverished people. Sometimes he called it 'fire insurance.'
+- The Savior of mankind demands money from impoverished people. Sometimes he called it 'fire insurance.' [1](https://scriptures.byu.edu/#:t6e7), [2](https://speeches.byu.edu/talks/gordon-b-hinckley/need-not-fear-coming/), [3](https://archive.org/details/improvementera1204unse/page/251/mode/1up?q=insurance))
 - Jesus Christ has a multi-billion dollar stock portfolio.
 
 ---

@@ -9,9 +9,9 @@ Fallacies are problems with how an argument is constructed. They say nothing abo
 This is a high-level overview with some short examples I've found. A more comprehensive document would delineate these into formal vs informal fallacies. I'm not doing that here. It's a topic with plenty of material to consume!
 
 ---
+
 ## Fallacies
 In the event that you don't find a great, big, wall of text appealing, consider [Your logical fallacy is...](https://yourlogicalfallacyis.com/), a site that presents these ideas in a simpler, approachable way. If you hate brevity and color, stick around!
-
 
 **"Absence of evidence**" = There is no evidence present. No evidence has been found. For example: There is no evidence that pink unicorns exist." This does not strictly mean that the argument is impossible, simply that there is no evidence.
 
@@ -64,7 +64,7 @@ Asserting that Mormonism has more truth (or at least many unique truths) than ot
 
 If truth claims are of eternal importance, one would think that LDS theologists would enumerate and refute other religions' truth claims. Barring the possibility that I simply haven't encountered these arguments, I might conclude that either these arguments won't withstand scrutiny, or eternal salvation isn't really that important.
 
-https://rationalwiki.org/wiki/Argument_by_assertion
+[https://rationalwiki.org/wiki/Argument_by_assertion](https://rationalwiki.org/wiki/Argument_by_assertion)
 
 &nbsp;
 
@@ -195,7 +195,7 @@ Joseph Smith didn't offer up his life for the church. He went to jail for a vari
 
 Moreover, Smith had used a smuggled firearm to shoot at the mob to defend himself, blocking their entrance, trying to escape through a window in a bid for survival. Does this sound like a martyr? Did he "die for the church"?
 
-https://yourlogicalfallacyis.com/false-cause
+[https://yourlogicalfallacyis.com/false-cause](https://yourlogicalfallacyis.com/false-cause)
 
 &nbsp;
 

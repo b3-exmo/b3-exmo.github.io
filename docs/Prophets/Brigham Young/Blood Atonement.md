@@ -115,7 +115,7 @@ Also: general conference would be a lot more interesting to watch if they had so
 ### Heber C Kimball
 > *If men turn traitors to God and His servants, ==their blood will surely be shed==, or else they will be damned, and that too according to their covenants.*
  
-— [Apostates, etc](https://scriptures.byu.edu/#:t9c86:j04); Heber C. Kimball, [Journal of Discourses 4](https://scriptures.byu.edu/jod/pdf/JoD04/JoD04.pdf):375). 
+— [Apostates, etc](https://scriptures.byu.edu/#:t9c86:j04); Heber C. Kimball, [Journal of Discourses 4](https://scriptures.byu.edu/jod/pdf/JoD04/JoD04.pdf):375.
 
 We'll start short. Heber had more to say on this matter in later JoD volumes. Heber's phrase “according to their covenants” sounds to me like the promises Mormons make in their sacred temple ritual.
 

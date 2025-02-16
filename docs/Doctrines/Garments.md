@@ -16,7 +16,7 @@ The advice from the First Presidency is cited to a "First Presidency letter, Oct
 
 Maybe I'm just a whiny little bitch, but I had always felt like garments were hot and uncomfortable. I am not a woman so I haven't had to deal with adverse effects on female anatomy. One refrain I've heard from women is the inclination toward infections & poor breathability. That is not my experience, so I can't make meaningful commentary on it outside of observing that this doesn't appear to be a divine design. Didn't God create our bodies, and also design these garments? Wouldn't He know how to make clothing that is not actively causing harm? Are modern church leaders consulting God in this design process? Is it safe to conclude that these are the products of men with fifty-year-long careers in law?
 
-I do know that poor diet choices that result in some juicy flatulence means that laundering the garments was a real pain. The fabric is dyed white, meaning that bleach only makes stains worse. Truth be told, dealing with laundry was a better incentive for me to eat right than the Word of Wisdom ever had been.
+I do know that poor diet choices that result in some juicy flatulence means that laundering the garments was a real pain. The fabric is dyed white, meaning that bleach only makes stains worse. Truth be told, dealing with laundry was a better incentive for me to eat right than the [[Word-of-Wisdom|Word of Wisdom]] ever had been.
 
 &nbsp;
 
@@ -129,6 +129,8 @@ Let's not overlook that this does set a precedent for garment-checking our peers
 > *Members should not modify or alter the garment to accommodate different styles of clothing.*
 > 
 > *Members should not inappropriately display the garment to those who do not understand its significance.*
+
+&sect;
 
 — *[Section 38.5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number234-title241#title_number234)*
 

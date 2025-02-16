@@ -121,7 +121,7 @@ Boy, this guy sure sounds like he was called of God to speak in His behalf.
 ## Can speak cow 🐄
 > *The 160-mile leg across Illinois was a grueling forty-eight hours as their coach stopped only for food, fresh teams, and to pry themselves and other wagons from the mud. At one point, a heavily loaded wagon belonging to Norwegian immigrants was bogged in the mire, and the Norwegians were whipping and bawling at their oxen. ==According to one account, Young looked over the situation, stepped from the coach, and coaxed the animals in a language unknown to either the Norwegians or the Americans==. Then a light touch of the whip got the calmed animals to lift the wagon, and the Norwegians went ahead with their journey—to “the surprise and amusement of the passengers” in the coach.*
 
-_From <_[_https://rsc.byu.edu/firm-foundation/six-days-august-brigham-young-succession-crisis-1844#_edn33_](https://rsc.byu.edu/firm-foundation/six-days-august-brigham-young-succession-crisis-1844#_edn33)_>_
+&mdash; [https://rsc.byu.edu/firm-foundation/six-days-august-brigham-young-succession-crisis-1844#_edn33](https://rsc.byu.edu/firm-foundation/six-days-august-brigham-young-succession-crisis-1844#_edn33)
 
 🎼 *We thank thee, o God, for a prophet...* 🎵
 

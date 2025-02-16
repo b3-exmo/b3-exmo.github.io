@@ -67,7 +67,7 @@ I found my wife's printed copy of PMG, and sure enough, there's the same illustr
 Meanwhile, [the web edition](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=p29#p29) accessible online, as well as the mobile Gospel Library app, have both omitted that illustration. 🤔
 
 ![image](../../img/pmg-plates.jpeg){: .center}
-(_Photo taken from https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/_)
+(Photo taken from [https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/](https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/))
 
 Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-Mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
 
@@ -228,11 +228,11 @@ Were Smith to have written it, what elements of his life would be reflected in i
 The BoM is exactly what you would expect from someone like Joseph Smith. It is totally superficial story mixed with protestant sermons.
 
 - Hardly any [[Representation of Women|women]].
+- One dimensional characters.
+- Very little about government or laws.
 - Nothing about the culture.
 - Nothing about their cities.
-- Very little about government or laws.
 - No weather.
-- One dimensional characters.
 - Nothing about commerce.
 - No specific geography.
 - No science.

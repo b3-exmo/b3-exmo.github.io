@@ -5,6 +5,8 @@ comments: true
 ## Has power
 I've got some unorganized notes and excerpts on this idea that Satan has supernatural power to influence mortality; once those notes get cleaned up, I'll post them here. Check back later!
 
+&nbsp;
+
 ### Controls water (I guess)
 > *This revelation was received by the Prophet Joseph Smith on the bank of the Missouri River, McIlwaine’s Bend, on 12 August 1831. The Prophet wrote:*
 >
@@ -52,11 +54,11 @@ Why then, do we:
 > 
 > *The word does not occur in the [Book of Genesis](https://en.wikipedia.org/wiki/Book_of_Genesis), which mentions only a [talking serpent](https://en.wikipedia.org/wiki/Serpents_in_the_Bible) and does not identify the serpent with any supernatural entity. The first occurrence of the word “satan” in the Hebrew Bible in reference to a supernatural figure comes from [Numbers 22:22](https://mechon-mamre.org/p/pt/pt0422.htm#22), which describes the [Angel of Yahweh](https://en.wikipedia.org/wiki/Angel_of_the_Lord) confronting [Balaam](https://en.wikipedia.org/wiki/Balaam) on his donkey: “Balaam’s departure aroused the wrath of [Elohim](https://en.wikipedia.org/wiki/Elohim), and the Angel of Yahweh stood in the road as a satan against him.” In [2 Samuel 24](https://mechon-mamre.org/p/pt/pt08b24.htm#1), Yahweh sends the “Angel of Yahweh” to inflict a plague against Israel for three days, [killing 70,000 people](https://en.wikipedia.org/wiki/Destroying_angel_(Bible)) as punishment for [David](https://en.wikipedia.org/wiki/David) having taken a census without his approval. [1 Chronicles 21:1](https://mechon-mamre.org/p/pt/pt25a21.htm#1) repeats this story, but replaces the “Angel of Yahweh” with an entity referred to as “a satan”.*
 
-_From <_ [_https://en.wikipedia.org/wiki/Satan#Hebrew_Bible_](https://en.wikipedia.org/wiki/Satan#Hebrew_Bible)_>_
+&mdash; *[Satan](https://en.wikipedia.org/wiki/Satan#Hebrew_Bible)*, Hebrew Bible
 
 &nbsp;
 
 ### Serpents in the Bible: Eden
 > *There is a debate about whether the serpent in Eden should be viewed figuratively or as a literal animal. According to one [midrashic interpretation](https://en.wikipedia.org/wiki/Midrash) in [Rabbinic literature](https://en.wikipedia.org/wiki/Rabbinic_literature), the serpent represents [sexual desire](https://en.wikipedia.org/wiki/Sexual_desire); another interpretation is that the snake is the [yetzer hara](https://en.wikipedia.org/wiki/Yetzer_hara). Modern Rabbinic ideas include interpreting the story as a psychological allegory where Adam represents reasoning faculties, Eve the emotional faculties, and the serpent the hedonic sexual/physical faculties. [Voltaire](https://en.wikipedia.org/wiki/Voltaire), drawing on [Socinian](https://en.wikipedia.org/wiki/Socinian) influences, wrote: “It was so decidedly a real serpent, that all its species, which had before walked on their feet, were condemned to crawl on their bellies. No serpent, no animal of any kind, is called [Satan](https://en.wikipedia.org/wiki/Satan#Judaism), or [Belzebub](https://en.wikipedia.org/wiki/Belzebub), or [Devil](https://en.wikipedia.org/wiki/Devil#Christianity), in the [Pentateuch](https://en.wikipedia.org/wiki/Torah).”*
 
-_From <_[_https://en.wikipedia.org/wiki/Serpents_in_the_Bible#Eden_](https://en.wikipedia.org/wiki/Serpents_in_the_Bible#Eden)_>_
+— [Serpents in the Bible](https://en.wikipedia.org/wiki/Serpents_in_the_Bible#Eden), Eden
