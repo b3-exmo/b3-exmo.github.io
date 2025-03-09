@@ -190,6 +190,8 @@ Alright, tell me if this is too much of a stretch: this apostolic advice is dire
 
 It always bugged me when girls had these explicit parameters specified, and boys had "uh, you be modest too, I guess."
 
+Also, "young women should ... avoid clothing that is low-cut in the front[,]" like, I don't know, temple garments? I guess modesty is malleable, if we don't clarify how low of a cut is low-cut? To be fair, I'm not sure how I'd quantify that, given his humans come in a wide range of shapes, sizes, and proportions. If we'll insist that we don't call garments underwear, then they shouldn't have the same loose coverage of underwear?
+
 &nbsp;
 
 > *My sister served as a Young Women president in Alaska for several years. I have loved and followed her advice for modesty for girls and women. She used the “Head Shoulders, Knees, and Toes” method. We all know the song, but it works very well for modesty as well.*

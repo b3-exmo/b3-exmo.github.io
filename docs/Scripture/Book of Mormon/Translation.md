@@ -57,8 +57,12 @@ Were there plates? Was there a breastplate to which two stones were affixed? Was
 
 Not concealed, except it was covered up.
 
+&nbsp;
+
 ## Well, what's the problem?
 **This would not be upsetting to me** if I was told sooner, or if I was raised to believe that the BoM was given by revelation via a seer stone. This is upsetting because of all the lessons in Primary and YM and Seminary etc, that Joseph used physical, tangible plates— the same ones that Mormon engraved and Moroni buried in New York (maybe)— and translated them. In fact, I'm pretty sure that the Preach My Gospel manual I used on the mission had this exact depiction.
+
+&nbsp;
 
 ### Preach My Gospel
 Ooh, it's even better than that!
@@ -69,15 +73,15 @@ Meanwhile, [the web edition](https://www.churchofjesuschrist.org/study/manual/pr
 ![image](../../img/pmg-plates.jpeg){: .center}
 (Photo taken from [https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/](https://www.reddit.com/r/exmormon/comments/1bc3w9c/i_feel_like_something_is_missing/))
 
-Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-Mormon claims were true. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
+Whenever I encountered the “rock-in-a-hat” claim, I always dismissed it as misguided anti-Mormon rhetoric. Imagine my dismay to find out that the “baseless” Anti-Mormon claims were true. Imagine my surprise to find that *South Park* was more honest than my seminary & institute teachers&mdash; even in the MTC. The church published this essay while I was on a mission, perpetuating the idea that JS used plates.
 
-The issue is not the seer stone. The issue is that I didn’t find out until my late 20’s that it was a seer stone.
+The issue is not the seer stone. The issue is that I was raised to believe that this "seer stone" is an outright fabrication meant to defame our beloved prophet, who definitely just translated by personally examining physical plates. The issue is that I didn’t find out until well after having served a mission that it was a seer stone. What’s worse, is that digging into these claims, I’ve felt the rhetoric that “The information was there all along,” and “you should’ve known this,” “we never hid that detail.”
 
-What’s worse, is that digging into these claims, I’ve felt the rhetoric that “The information was there all along,” and “you should’ve known this,” “we never hid that detail.”
-
-Oh, shut the fuck up.
+Oh, *shut the fuck up*.
 
 ![image](../../img/reading-plates.png){: .center}
+
+&nbsp;
 
 ### Claims against using the plates
 > *When Cowdery returned to Church membership in 1848 he spoke to an Iowa conference. His words there were recorded by Reuben Miller: “I wrote with my own pen the entire Book of Mormon (save a few pages) as it fell from the lips of the Prophet as he translated it by the gift and power of God by means of the Urim and Thummim, or as it is called by that book, holy interpreters. I beheld with my eyes and handled with my hands the gold plates from which it was translated. I also beheld the Interpreters. That book is true. … I wrote it myself as it fell from the lips of the Prophet.”*
@@ -100,17 +104,19 @@ Then-Elder Nelson [[#"A Treasured Testament"|wrote about this]] in the Ensign in
 
 — _[The Wentworth Letter](https://www.churchofjesuschrist.org/study/ensign/2002/07/the-wentworth-letter?lang=eng&id=p8#p8)_, Ensign July 2002
 
-This doesn't fit quite as neatly- this is reportedly in Joseph's own voice, claiming he uses the Urim & Thummim to translate the plates directly.
+This doesn't fit quite as neatly&mdash; this is reportedly in Joseph's own voice, claiming he uses the Urim & Thummim to translate the plates directly.
 
-How should I feel to discover that South Park had a more accurate rendition of early church history than what I was taught at the MTC?
+&nbsp;
 
 In 2000, two BYU religion professors, Joseph Fielding McConkie (son of Elder Bruce R. McConkie) and Craig J. Ostler, wrote an essay titled, “[_The Process of Translating the Book of Mormon_](https://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf).” (Check the URL: this is BYU-I’s online library.) They wrote:
 
-> *Thus, everything we have in the Book of Mormon, according to Mr. Whitmer, was translated by placing the chocolate-==colored stone in a hat== into which Joseph would bury his head so as to close out the light. While doing so he could see ‘an oblong piece of parchment, on which the hieroglyphics would appear,’ and below the ancient writing, the translation would be given in English. Joseph would then read this to Oliver Cowdery, who in turn would write it. ==If he did so correctly, the characters and the interpretation would disappear== and be replaced by other characters with their interpretation.*
+> *Thus, everything we have in the Book of Mormon, according to Mr. Whitmer, was translated by placing the chocolate-colored ==stone in a hat== into which Joseph would bury his head so as to close out the light. While doing so he could see ‘an oblong piece of parchment, on which the hieroglyphics would appear,’ and below the ancient writing, the translation would be given in English. Joseph would then read this to Oliver Cowdery, who in turn would write it. ==If he did so correctly, the characters and the interpretation would disappear== and be replaced by other characters with their interpretation.*
 
-Alright, I guess if we go with divine intervention, we can accept this unprecedented method.
-This recounting could be what contributes to Joseph asserting that this is ["the most correct of any book"](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19) on Earth.
+Alright, I guess if we go with divine intervention, we can accept this unprecedented method. This recounting could be what contributes to Joseph asserting that this is ["the most correct of any book"](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19) on Earth.
+
 That does bring into question why there were later [[BoM Changes#Enumeration of Changes|revisions or edits]], though.
+
+&nbsp;
 
 After laying the groundwork, the professors continue:
 
@@ -195,7 +201,7 @@ Well. Alright. Granted, this account is published in 1874, and it doesn't explic
 > 
 > **RICHARDS:** *No. I’ve never seen it. And I don’t think there is any living man who has seen it.*
 
-— 
+— *[Correspondence With Le Grand Richards Regarding 1978 Interview](https://archive.org/details/CorrespondenceWithLeGrandRichardsRegarding1978Interview)*; see also these [[Race#LeGrand Richards|interview excerpts]] concerning race
 
 &nbsp;
 
@@ -239,9 +245,7 @@ The BoM is exactly what you would expect from someone like Joseph Smith. It is t
 
 Yet it has detailed statistics of casualties in battle.
 
-As a piece of literature, this is utter crap.
-
-And doubly awful of a read when consumed in its original form: no verses, 1000’s of grammar errors, no punctuation, no chapter headings.
+As a piece of literature, this is utter crap. It is doubly awful of a read when consumed in its original form: no verses, 1000’s of grammar errors, no punctuation, no chapter headings&mdash; just one giant wall of text, page after page.
 
 How would anyone have thought this to be divinely inspired, in its original edition? I suppose 19th century readers would be accustomed to that kind of formatting...?
 

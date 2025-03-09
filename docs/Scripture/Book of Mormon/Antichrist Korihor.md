@@ -77,7 +77,7 @@ Assuming that assessment is correct, tell me what Korihor is saying wrong? Is he
 
 Examining one's worldview from an outside perspective is a good way to evaluate them— at minimum, it can help you practice how to articulate or defend your beliefs. Ideally, it would grant you some empathy for an outsider and their confusion over your dogma.
 
-Think of this theology from the perspective of an outsider like Korihor. "You believe that sins a) exist, b) will cause you to suffer for all eternity after you die, unless c) the sins be atoned for by someone who isn't born yet. Not one of these things can be demonstrably proven. You don't *know* any of this to be true, it sure sounds like a foolish tradition passed down by your ancestors."
+Think of this theology from the perspective of an outsider like Korihor. "You believe that sins a) exist, b) will cause you to suffer for all eternity after you die, unless c) must be atoned for by someone who isn't born yet. Not one of these things can be demonstrably proven. You don't *know* any of this to be true, it sure sounds like a foolish tradition passed down by your ancestors."
 
 Faring by consequence of self-management & prospering according to ones genius seems reasonable. Those things are more tangible. Life isn't always so simple, but we could forgive an entry-level philosophy student for landing on that conclusion.
 
@@ -183,7 +183,7 @@ Acknowledging again that this book is an abridgment, I'm going to paraphrase the
 
 **[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p43#p43)**: That's my point— you don't *know*, you believe it. You just told me that I *believe*, in contrast to your *knowing*. Tell you what— you show me a sign, some demonstration of God's power, and then I'll believe your words. 
 
-**[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p44-p45#p44)**: How about this: You have the words of your peers, and also words of prophets in a religion you aren't part of. They've *even written things down* in scripture. And get this— ✨𝓅𝓁𝒶𝓃𝑒𝓉𝓈✨. Just look around you at things generally, you know, it all clearly shows God is real. Yet here you are, saying that isn't solid proof?
+**[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p44-p45#p44)**: How about this: You have the words of your peers, and also words of prophets in a religion you aren't part of. They've *even written things down* in scripture. And get this— ✨𝓹𝓵𝓪𝓷𝓮𝓽𝓼✨. Just look around you at things generally, you know, it all clearly shows God is real. Yet here you are, saying that isn't solid proof?
 
 **[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p45#p45)**: ... Yes. That's a stupid argument. You're right that all I have are words, and your refutation is that you also have words from prophets— with the observation that we're on a planet. What the fuck are you saying? Do you hear yourself? Yes, I'm sticking with my belief, and I'm denying those "signs" because *they don't prove anything*. I do not bear the [[logical-fallacies#Burden of Proof|burden of proof]], here. I want *you* to back up *your* claims.
 
@@ -206,11 +206,11 @@ Now wait just a goddamned minute, Korihor can still *hear* can't he? Korihor is 
 
 "You got anything smart to say now? Huh? I'll do it again, you want me to do it again? I'll curse your whole family next, and that guy over there, too, and it'll all be your fault! You like your sign, you bitch? You want more? Still think god isn't real? *Do you?*"
 
-bro relax, sounding like a junior high bully
+alma relax, you're sounding like a junior high bully
 
 &nbsp;
 
-> ***52** And Korihor put forth his hand and wrote, saying: I know that I am dumb, for I cannot speak; and I know that nothing save it were the power of God could bring this upon me; yea, and I always knew that there was a God.*
+> ***52** And Korihor put forth his hand and wrote, saying: I know that I am dumb, for I cannot speak; and I know that nothing save it were the power of God could bring this upon me; yea, and ==I always knew that there was a God==.*
 
 "Right, okay. What you've done, Alma, is beyond my ability to explain or rationalize, so I guess I'll take this as a sign that God is real and has power."
 
@@ -287,7 +287,7 @@ What the fuck
 
 The... *The devil*?? Bitch, how many prophets has God let die? Which party in this dualistic universe refused to save Abinadi from being burned alive? Which side was unwilling to give Korihor shelter and sustenance? The group of unembodied evil spirits, or those with physical forms who could provide food but were told not to because Alma got his feelings hurt? This verse does not describe the Lord God I had been taught about in my time as a practicing Mormon!
 
-Alma and Amulek were forced to witness the converts from their missionary efforts [get burned alive right before their eyes](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng&id=8-11#p8) back in chapter 14. Were they perverting the ways of the Lord? Doesn't seem like God protected them! Later on in 3 Nephi we've got "many" [unnamed martyrs](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=eng&id=15#p15), killed for testifying of Christ. Don't "thus we see" me about the devil not protecting denizens, God isn't doing a very good job at this either!
+Alma and Amulek were forced to witness the converts from their missionary efforts [get burned alive right before their eyes](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/14?lang=eng&id=8-11#p8) back in chapter 14. Were *they* perverting the ways of the Lord? Doesn't seem like God protected them! Later on in 3 Nephi we've got "many" [unnamed martyrs](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/10?lang=eng&id=15#p15), killed for testifying of Christ. Don't "thus we see" me about the devil not protecting denizens, God isn't doing a very good job at this either!
 
 There exist other cases of martyrdom in contrast to this "thus we see" lesson to be learned from believing an angel when it appears to you. Rather than copy a list here, I'll point you to the LDS scriptural [topical guide](https://www.churchofjesuschrist.org/study/scriptures/tg/martyrdom?lang=eng&id=p32-p37#p32) entry, outlining martyrdom in the Book of Mormon, the [index of the triple combination](https://www.churchofjesuschrist.org/study/scriptures/triple-index/martyrdom?lang=eng&id=p1-p8#p1) on martyrdom, and the [guide to the scriptures](https://www.churchofjesuschrist.org/study/scriptures/gs/martyr-martyrdom?lang=eng&id=p6-p8#p6) references. The translator of this record, Joseph Smith himself, gets martyred, and... well, whether Joseph was perverting the ways of the Lord is an issue [[Polygamy|too big to tackle here]]. *Thus we see* that Korihor is the exception here. The moral of this story is that you're going to get screwed over by a divine power, irrespective of which one you follow. *Thus we see* Alma being a dickwad and refusing to forgive someone who did exactly what he did years prior. *Thus we see* the prophet denying someone salvation because his feelings got hurt, because he was accused of getting rich, and because Korihor delineated faith vs knowledge.
 
@@ -346,7 +346,7 @@ Yes, he taught that under the pretense of a lack of evidence. There is no tangib
 
 > *==Korihor was not content merely to reject God and quietly go his own way==. He mocked the believers and ==demanded== that the prophet Alma convince him with a sign of God’s existence and power. Alma’s response is as ==meaningful today as it was then==: “Thou hast had signs enough; will ye tempt your God? Will ye say, Show unto me a sign, when ye have the testimony of all these thy brethren, and also all the holy prophets? The scriptures are laid before thee, yea, and all things denote there is a God; yea, even the earth, and all things that are upon the face of it, yea, and its motion, yea, and also all the planets which move in their regular form do witness that there is a Supreme Creator.”*
 
-🧐 Meaningful now as it was then? The same argument could be made for some other deific manifestation to happen in year 2100, citing existing records and culture that it's totally going to happen. Did we mention ✨𝓅𝓁𝒶𝓃𝑒𝓉𝓈✨ as proof that something will happen in 75 years? What does any of that prove?
+🧐 Meaningful now as it was then? The same argument could be made for some other deific manifestation to happen in year 2100, citing existing records and culture that it's totally going to happen. Did we mention ✨𝓹𝓵𝓪𝓷𝓮𝓽𝓼✨ as proof that something will happen in 75 years? What does any of that prove?
 
 > *Eventually Korihor was given a sign. He was struck dumb. “And Korihor put forth his hand and wrote, saying: … I know that nothing save it were the power of God could bring this upon me; yea, and I always knew that there was a God.”*
 

@@ -21,6 +21,15 @@ Please, list the ordinances I qualify for without paying any money. “Tithing i
 
 &nbsp;
 
+## Voluntary
+> *Tithing is not a free-will offering; it is a debt, payment of which brings great blessings.*
+
+&mdash; *[Concerning Tithing](https://www.churchofjesuschrist.org/study/ensign/1980/06/concerning-tithing?id=p4&lang=eng#p4)*
+
+Oh. Cool, thanks. Always thrilled to find that our loving Heavenly Father's Plan of Eternal Happiness™ involves me being indebted from birth.
+
+&nbsp;
+
 ## [[My own experience#Connecting the dots|As I See It]]
 In college, during the same semester that I was taking accounting classes, I encountered a MormonLeaks whistleblower report that the LDS church had an outrageous sum of money, not being disbursed. Trying to apply what I’ve learned from accounting, I resolved that the church surely has balance sheets and reports. They _could_ set the record straight about how much money they have, and where it’s going.
 

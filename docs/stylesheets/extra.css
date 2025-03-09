@@ -46,10 +46,15 @@
   .center {
     display: block;
     margin: 0 auto;
+    text-indent: 0;
   }
 
   .size40 {
     width: 40%;
+  }
+
+  ul li {
+    margin-bottom: 0;
   }
 }
 
@@ -120,9 +125,14 @@
   .center {
     display: block;
     margin: 0 auto;
+    text-indent: 0;
   }
 
   .size40 {
     width: 40%;
+  }
+
+  ul li {
+    margin-bottom: 0;
   }
 }

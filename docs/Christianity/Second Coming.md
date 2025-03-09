@@ -186,7 +186,7 @@ What, you mean living in your parents' basement after the avocado market crash? 
 
 &mdash; Gospel Study Guide: Topics & Questions, [Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-topics/second-coming-of-jesus-christ-study-guide?lang=eng); see original for scriptural citations
 
-I recall hearing as a seminary student that at Christ's second coming, it will be so undeniably obvious to every human on earth ([1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=eng&id=p7-p8#p7), [2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/133?lang=eng&id=p2-p3#p2), [3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=eng&id=p10-p13#p10)). We've got a flowery statement [along the lines of ](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p104#p104)"every knee will bow, every tongue confess that Jesus is the Christ," even those dirty, unwashed heathens who aren't [[Skin of blackness#2 Nephi 5 21|white and delightsome]].
+I recall hearing as a seminary student that at Christ's second coming, it will be so undeniably obvious to every human on earth ([1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=eng&id=p7-p8#p7), [2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/133?lang=eng&id=p2-p3#p2), [3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=eng&id=p10-p13#p10)). We've got a flowery statement [along the lines of](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p104#p104) "every knee will bow, every tongue confess that Jesus is the Christ," even those dirty, unwashed heathens who aren't [[Skin of blackness#2 Nephi 5 21|white and delightsome]].
 
 &nbsp;
 
@@ -224,9 +224,11 @@ There seems to be many prophecies and signs surrounding Jesus' arrival, whether 
 #### Birth
 At Jesus' birth, one King Herod may or may not have [massacred](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p16-p18#p16) "all the children that were in Bethlehem... from two years old and under." From what I understand, there isn't [any historic, contemporary evidence](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents#History_and_theology) of this happening, but Matthew chapter 2 sure seems insistent that it happened. Seems like a good way to kneecap your own kingdom's economy. If everyone&mdash; soldier, peasant, noble&mdash; all had their children 2 & under murdered, how long do you think that king would remain in power? That would fuck up an entire generation. It would have resounding effects that would have been recorded by many more sources than just this one.
 
-I'm getting off track. [Matthew 2:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p17-p18#p17) says that this was a fulfilment of a prophecy. I'd also like to point out [verses 12 & 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p12-p13#p12) describing God arranging for this to happen. Rather than defuse the tension, God has Joseph leave, which pisses off Herod, and leads to *all children getting murdered*. Was this an oversight? Surely God wasn't blindsided by this development. I bring it up to iterate that when Jesus was born, some untold number of children got killed.
+I'm getting off track. [Matthew 2:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p17-p18#p17) says that this was a fulfilment of a prophecy. I'd also like to point out [verses 12 & 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p12-p13#p12) describing God arranging for this to happen. Rather than defuse the tension, God has Joseph leave, which pisses off Herod, and leads to *all children getting murdered*. Was this an oversight? Surely God wasn't blindsided by this development. Surely God *knew* how Herod would react. I bring it up to iterate that when Jesus was born, some untold number of children got killed.
 
 Now, let's celebrate the birth of the Prince of Peace!
+
+&nbsp;
 
 #### 3 Nephi
 Even though having Jesus die on the cross was part of [[Theology#The plan|God's Plan]]™ all along, He still got real pissed that it happened.
@@ -237,9 +239,23 @@ To signify that Jesus had been born and was crucified, shit was *going down* in 
 - [Earth becoming deformed under intense storms](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p17-p19#p17)
 - [Mists of darkness blind *everyone* who survived](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p20-p23#p20)
 - An [omnipresent voice announces each destroyed city](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p1-p12#p1), rationalizing that "they were wicked."
-- This same voice says, in so many words, "[do I have your attention now?](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p13-p15#p13) You gonna shape up and repent? I'm Jesus Christ, by the way. *I killed everyone you've ever known or loved.* Now, who wants some 𝑒𝓉𝑒𝓇𝓃𝒶𝓁 𝓁𝒾𝒻𝑒? 😄"
+- This same voice says, in so many words, "[do I have your attention now?](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p13-p15#p13) You gonna shape up and repent? I'm Jesus Christ, by the way. *I killed everyone you've ever known or loved.* Now, who wants some 𝓮𝓽𝓮𝓻𝓷𝓪𝓵 𝓵𝓲𝓯𝓮? 😄"
 
 Yeah, man. You've got my attention. Don't think for a minute that I'm going to forget what you did, or that I'm doing what you say for [[Theology#Worthy of Respect|any purpose other than self-preservation]].
+
+&nbsp;
+
+Think back for a moment for what was happening to Jesus three days prior over in Jerusalem:
+
+> *Then said Jesus, Father, forgive them; for they know not what they do.*
+
+&mdash; *[Luke 23:34](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23?id=p34&lang=eng#p34)*
+
+Jesus had a reputation for being benevolent and forgiving, even as he is actively being tortured to death. He seemed like a "big picture" kind of guy, recognizing that these Roman soldiers are still spirit sons of God, and are short-sighted enough to not understand the eternal implications of what's happening...even though this was *literally* what God had planned to happen all along.
+
+Contrast this observation with "fuck you, Nephites! I'm going to raze your cities because there were wicked people in them!" and ask yourself if that seems characteristic of who we read about in the New Testament.
+
+What if those Roman soldiers hadn't been conditioned to [just follow orders](https://en.wikipedia.org/wiki/Superior_orders#Nuremberg_Trials_after_World_War_II), though? Wasn't Jesus' conviction and crucifixion necessary (for one reason or another)? Did those soldiers need forgiving if they were an integral part of the Plan of Salvation, fulfilling prophecies from the Old Testament? Would they otherwise be condemned for *not* killing Jesus?
 
 &nbsp;
 
