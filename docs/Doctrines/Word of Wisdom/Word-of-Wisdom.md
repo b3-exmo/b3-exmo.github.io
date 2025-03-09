@@ -2,6 +2,14 @@
 comments: true
 ---
 # 🍻 Word of Wisdom
+The Word of Wisdom is an odd bit of [[Name Mormon|Mormon]] culture, doctrine, and lore. It's among the more visible demarcations of who is a practicing member of the LDS church, which is both an advantage and disadvantage&mdash; in my days of practicing Mormonism, the vitriolic repulsion by coffee was something to start conversations, which are a missionary opportunity to evangelize. The social dynamics of such a conversation never really panned out the way we had been hyped for on Sundays, at least in my own experience.
+
+Imagine this: a peer or coworker expresses strong distaste for any food item that qualifies as a *sandwich*, and expects you to rationalize why you would willingly, knowingly eat such a garbage consumable. When you ask why he or she reacts so strongly to something so mundane, they might reply that they know *the truth*™️ as revealed by their religious leaders 200 years prior. Knowing that, would you like to join?
+
+And you begin to understand why Mormons insisting that coffee is evil just looks fucking weird to the rest of the world. Any further interaction with this hypothetical peer concerning their belief will be sullied by your recollection of their acrimonious response to a prosaic, otherwise uninteresting food item. No, you're not interested in joining&mdash; that venomous response to a goddamned sandwich is well beyond parameters of personal preference. *It's weird*.
+
+&nbsp;
+
 ## Overview
 > *The Lord revealed in the Word of Wisdom that the following substances are harmful:*
 > 
@@ -15,9 +23,11 @@ comments: true
 
 &mdash; [Word of Wisdom](https://www.churchofjesuschrist.org/study/manual/gospel-topics/word-of-wisdom?lang=eng&id=p7-p12#p7), Topics & Questions
 
+&nbsp;
+
 For transparency, this source does also describe that "the Lord declared that the following foods are good," and lists fruits, vegetables, grains, and meat (sparingly.) See, it's not all that restrictive! 
 
-We've got some common sense advice here&mdash; I don't know of anyone who would insist that a diet consisting primarily of vegetables and grain as being a bad idea. ... Honestly, though, as I think about it... I don't know that we needed God to reveal that to us through a prophet. 
+We've got some common sense advice here&mdash; I don't know of anyone who would insist that a diet consisting primarily of vegetables and grain as being a bad idea. ... Honestly, though, as I think about it... I don't know that we needed God to reveal that to us through a prophet. All of this is well before the Industrial Revolution extended to [intensive animal farming](https://en.wikipedia.org/wiki/Intensive_animal_farming#History). In 1833, what choice did people have, outside of fruits, vegetables, grains, and sometimes meat? What other option was there, eating sand or tree bark?
 
 "Regular exercise, proper hygiene, and sufficient rest? Wow, thanks God! All these years I'd been chain-smoking while sitting on my ass with three hours of sleep a night, but now that I've heard this godly wisdom, I see the error of my ways." &mdash; *A made up response to being told that mundane advice is of divine origin*
 
@@ -83,22 +93,18 @@ You know what would have been a *golden* opportunity to show the world that the 
 
 &mdash; Hyrum Smith (probably), [Times and Seasons, 1 June 1842](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-june-1842/2), p.800-801
 
-"Are you telling me that I *shouldn't* pour a kettle of tea all over my abdomen?" 
-
-To distinguish between "[body & belly](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p9&lang=eng#p9)" probably does not mean that one's belly is not part of their body. That would be absurd. So what does it mean instead? Is this insinuating that people used to brew up a hot drink and not drink it? Use it to wash themselves off instead of ingesting it? I'm not sure that is any less absurd. What is this divine inspiration telling me?
+To distinguish between "[body & belly](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p9&lang=eng#p9)" probably does not mean that one's belly is not part of their body. That would be absurd. So what does it mean instead? Is this insinuating that people used to brew up a hot drink and not drink it? Use it to wash themselves off instead of ingesting it? I'm not sure that is any less absurd. What is this divine inspiration telling me? "Hot drinks are not for the body, or belly..." Oh, so I'm *not* supposed pour a kettle of tea all over my abdomen? Thanks, God&mdash; you really are watching out for our best interests!
 
 &nbsp;
 
 If we can call that publication authoritative, then there we go; as early as 1842, we've got a clear delineation that yes, "it does refer to tea, and coffee." Followed up by "why are you all being such dumbasses? You're all probably getting sick because you're heating up your water and removing the microbes. *Pshaw*, amateurs&mdash; God put those parasites in the water for a reason, who are you to overrule His wisdom and use hot water for tea?"
 
-&nbsp;
-
-I really do wonder why would God feel so strongly about water that's above room temperature. Doesn't that *sanitize* it? Wouldn't that be conducive to health?
+I really do wonder why would God feel so strongly about water that's above room temperature. Doesn't that *sanitize* it? Wouldn't that be conducive to health? Wouldn't tea be safer to drink than creek water, with all the bacteria from bear poop?
 
 &nbsp;
 
 #### ETERNITY IS RUINED
-[![Julie Beck's General Conference address, getting emotional over coffee](http://img.youtube.com/vi/xTYcXzvaM2Y/0.jpg)](https://youtu.be/xTYcXzvaM2Y?t185s){: .center}
+[![Julie Beck's General Conference address, getting emotional over coffee](http://img.youtube.com/vi/xTYcXzvaM2Y/0.jpg)](https://youtu.be/xTYcXzvaM2Y?t=185s){: .center}
 
 > *Though she knew it was contrary to the Word of Wisdom, she developed the habit of drinking coffee and kept a coffee pot on the back of her stove. She claimed that “the Lord will not keep me out of heaven for a little cup of coffee.” But, because of that little cup of coffee, ==she could not qualify for a temple recommend, and neither could those of her children who drank coffee with her==. Though she lived to a good old age and did eventually qualify to reenter and serve in the temple, only one of her 10 children had a worthy temple marriage, and ==a great number of her posterity, which is now in its fifth generation, live outside of the blessings of the restored gospel== she believed in and her forefathers sacrificed so much for.*
 
@@ -112,25 +118,25 @@ The text transcript doesn't do it justice. The video clip shows such *emotional 
 
 ## Diet
 ### Meat
-To me, in 2025, this sounds more like an ethical decision. I've had some phases of vegetarianism, even did several months of veganism. There isn't a good rationalization for mankind to be exploiting animals for food. If we as humans see ourselves as God's chosen dominant species on the planet, then yes, I could agree to only consuming animals in famine or winter is what I would call "wise."
+To me, in 2025, this sounds more like an ethical decision. I've had some phases of vegetarianism, at times extending into veganism. I don't believe there is a good rationalization for mankind to be exploiting animals for food at the scale that we are. If we as humans see ourselves as God's chosen dominant species on the planet, then yes, I could agree that only consuming animals in famine or winter is what I would call "wise."
 
-... But, once more, I'd ask if we needed God to tell us this. I have never personally killed an animal to use for food&mdash; my suburban upbringing sheltered me from that experience. Do we need divine intervention to tell us that seeing the light go out in a creature's eyes, ending its consciousness is unwise? Why are Mormons so comfortable today with meat in every meal at any time of year?
+... But, once more, I'd ask if we needed God to tell us this. I have never personally killed an animal to use for food&mdash; my suburban upbringing sheltered me from that experience. Do we need divine intervention to tell us that seeing the light go out in a creature's eyes, ending its consciousness, is unwise? Why are Mormons so comfortable today with meat in every meal at any time of year?
 
-If you're in a position to be interviewed for temple worthiness, consider answering the question of following the Word of Wisdom by confessing how much meat you consume, assuming your consumption isn't what you'd call "sparingly." I'm not suggesting this to shame you, but to gauge how your Bishop reacts. Would it jeapordize your temple recommend? If not, why is that part of the Word of Wisdom? It's worded much more explicitly than "hot drinks," which Mormonism has very strong feelings about, even when the source text is so vague and indirect.
+If you're in a position to be interviewed for temple worthiness, consider answering the question of following the Word of Wisdom by confessing how much meat you consume, assuming your consumption isn't what you'd call "sparingly." I'm not suggesting this to shame you, but to gauge how your Bishop reacts. Would it jeopardize your temple recommend? If not, why is that part of the Word of Wisdom? It's worded much more explicitly than "hot drinks," which Mormonism has very strong feelings about, even when the source text is so vague and indirect.
 
 &nbsp;
 
 ## Smoking
 Growing up, I had always been told that the revelation of "tobacco bad" is a prime example of divine inspiration. The rest of humanity thought smoking was *rad as hell*, even doctors prescribed it sometimes!
 
-My loose understanding is that Frontier America did think smoking was beneficial, and  used to beloved this up until the 1950's or so. Moreover, my understanding is that this perception is heavily influenced by cigarette manufacturers getting into legal shenanigans and *very aggressive* marketing.
+My loose understanding is that Frontier America did think smoking was beneficial, and used to believe this well into the 1950's or so. Moreover, my understanding is that this perception is heavily influenced by cigarette manufacturers getting into legal shenanigans and *very aggressive* marketing.
 
 I guess we could call this a win for Joseph Smith? I can't help but wonder if in the School of the Prophets did the cloud of tobacco smoke that obscured everyone's sight just... feel natural to everyone? No one saw any ill effects? 
 
 &nbsp;
 
 ## What could have been
-Imagine, though, a parallel universe where the Word of Wisdom is not explicitly forbidding things, but giving it the same advice as meat&mdash; that is, to be used sparingly. My naïve outlook is that alcohol isn't objectively bad, but it can be a real detriment to one's judgment, and can lead to a substance dependency. Such an approach to drinking would lesd to remarkably lower risk *if simply used sparingly*. Take the edge off of a stressful week with some Mary Jane. Not every day, mind you&mdash; but to be used *sparingly*. If you rely so heavily on coffee in order to function as a human before 10 AM, you shouldn't need God to tell you to consider cutting back.
+Imagine, though, a parallel universe where the Word of Wisdom is not explicitly forbidding things, but giving it the same advice as meat&mdash; that is, to be used sparingly. My naïve outlook is that alcohol isn't objectively bad, but it can be a real detriment to one's judgment, and can lead to a substance dependency. Such an approach to drinking would lead to remarkably lower risk *if simply used sparingly*. Take the edge off of a stressful week with some Mary Jane. Not every day, mind you&mdash; but to be used *sparingly*. If you rely so heavily on coffee in order to function as a human before 10 AM, you shouldn't need God to tell you to consider cutting back.
 
 What if God had instead advised Joseph Smith that [refined sugar is addictive](https://en.wikipedia.org/wiki/Diet_and_obesity#Sugar_consumption) and can do some [real harm](https://en.wikipedia.org/wiki/Sugar#Genera) to your body? Smith might think "that's bonkers, I don't think we have such a thing in *year of our Lord* 1833. Since God sees a bigger picture than I do, I ought to write it down anyway, and maybe folks will benefit from that advice 127 years from now."
 
@@ -180,7 +186,7 @@ Not only is this describing that the revelation is reactive to what mortal, impe
 
 I'm not sure what to make of the description that this revelation was given "in response to a problem." I think I can safely conclude that it means God didn't reveal this information because He loves us, or is looking out for our best interests. It also certainly appears that God didn't take initiative and tell Joseph "hey, buddy boy&mdash; listen up, I've got something important to tell you, and you've got to spread the word. This is going to impact peoples' salvation, so they need to know before their mortal bodies pass away. Ready? 𝔦 𝔣𝔲𝔠𝔨𝔢𝔫 𝔥𝔞𝔱𝔢 𝔠𝔬𝔣𝔣𝔢𝔢. Sucks. If *anyone* shows up with coffee-breath, they go straight to the Telestial Kingdom, no questions asked. You, in the role of prophet, must now tell the world."
 
-Instead, it seems that God does not feels like something is important until it becomes a personal or domestic matter of concern for the acting president of the church. We're told that prophets "[see around corners](https://speeches.byuh.edu/devotionals/prophets-can-see-around-corners)" which makes me think that revelation ought to be given proactively, rather than reactively. It makes me think that a prophet should not be surprised when general conference is held in an empty auditorium. It sounds even worse when that same prophet says "[I had no idea](https://www.churchofjesuschrist.org/study/general-conference/2020/04/11nelson?lang=eng&id=p2#p2) this was going to happen lol"
+Instead, it seems that God does not feels like something is important until it becomes a [[Russel-M-Nelson#UNLEASHED|personal]] or domestic matter of concern for the acting president of the church.
 
 &nbsp;
 
@@ -197,9 +203,9 @@ So... Somehow, we've interpreted a scriptural verse in the standard works, expli
 
 > *The reason undoubtedly why the Word of Wisdom was given as not by "commandment or restraint" was that at that time, at least, ==if it had been given as a commandment it would have brought every man, addicted to the use of these noxious things, under condemnation==; so the Lord was merciful and gave them a chance to overcome, before He brought them under the law. Later on, it was announced from this stand, by President Brigham Young, that the Word of Wisdom was a revelation and a command of the Lord.*
 
-&mdash; [General Conference, 1913 October](https://catalog.churchofjesuschrist.org/assets/6bc155bb-2b01-4e8b-b580-0ab24d4404af/0/15?lang=eng,), President Joseph F. Smith (remember the F)
+&mdash; [General Conference, 1913 October](https://catalog.churchofjesuschrist.org/assets/6bc155bb-2b01-4e8b-b580-0ab24d4404af/0/15?lang=eng), President Joseph F. Smith (remember the F)
 
-So was the revelation not a revelation before Brigham called it that? Can we get a citation for when Brigham made this into doctrine?
+So was the revelation not a revelation before Brigham called it a revelation? Can we get a citation for when Brigham made this into doctrine?
 
 You can follow that link and see the [preceding address](https://catalog.churchofjesuschrist.org/assets/6bc155bb-2b01-4e8b-b580-0ab24d4404af/0/14?lang=eng) given by President Anthon H Lund, who says, in so many words, "yeah, it *says* it isn't a commandment, but that explicit wording doesn't mean it's optional!" It appears that President Smith wanted to interject, and so he delivers the above quote to expound on what Lund had said.
 

@@ -61,7 +61,7 @@ God rewards your obedience and righteousness with a reward that ultimately corru
 
 Who breaks the cycle? Is it us? Are we meant to **not** be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle— God is the one who keeps blessing us. I won't be prideful anymore if God stops *making* me prideful. 
 
-God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually— you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much. That's why the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever God blesses me? [[What are blessings|What is a blessing]], anyway? It seems that God wants me to be humble and obedient, but as soon as I become humble and obedient, God "blesses" me with pride. What the hell, God?
+God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually— you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much... and so the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever God blesses me? [[What are blessings|What is a blessing]], anyway? It seems that God wants me to be humble and obedient, but as soon as I become humble and obedient, God "blesses" me with pride. What the hell, God?
 
 &nbsp;
 
@@ -80,7 +80,7 @@ If one were to studiously read through the BoM multiple times in a year, as is a
 
 One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father— the whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god— we're growing up, we're godlings, we're little wimpy baby gods. Right?
 
-But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and he made us that way. [[Theology#The plan|Why does god hate His creations]]? By our very nature, by God's design, we His enemies. What the hell, God?
+But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and He made us that way. [[Theology#The plan|Why does god hate His creations]]? By our very nature, by God's design, we His enemies. What the hell, God?
 
 &nbsp;
 
@@ -233,22 +233,30 @@ I have more [[Bible#Joseph Smith Translation|notes on JST]], if you're intereste
 
 — _[3 Nephi 12:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=p22#p22)_
 
-This verse references a KJV “Anglicization” of the Greek text in which Raca has been ported from Aramaic ‘Reka’. The Nephites didn’t speak Greek. The Nephites didn’t speak Aramaic.
+&nbsp;
 
-It is NOT a Hebrew word. It is NOT an Egyptian word.
+> *Raca is an Aramaic and Greek word that suggests contempt. It can also mean “imbecile, fool, or empty-headed person.”*
 
-That verse is COPIED from the KJV of the New Testament. It was not written as such on any Hebrew or Reformed Egyptian plates.
+&mdash; *[New Testament Seminary Student Manual, Matthew 5:17-47](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/matthew-5-17-47?lang=eng&id=title9-p58#title9)*
 
-Worse yet is the reference to ‘council’. All biblical scholars recognize this is in reference to the Jewish Councils governing offenses in Jerusalem. Specifically the Sanhedrin. There was NO Sanhedrin among the Nephites or in the New World; if Sanhedrin was relevant in 600 BC, BoM outlines overhauls to governance and justiciary a few times. Sanhedrin may be an old oral legend, being 600 years displaced. There’s no way a Nephite in the New World would call their brother “Raca” and after having done so, be subject to the punishment of the Sanhedrin.
+&nbsp;
 
-**This passage would have been meaningless to the Nephites.** Being meaningless, they probably wouldn’t have written it down.
+*Raca* is a KJV anglicization of the Greek text in which Raca has been ported from Aramaic ‘Reka’. The Nephites didn’t speak Greek. The Nephites didn’t speak Aramaic. *Raca* is not a Hebrew word. It is not an Egyptian word. [Mormon 9:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?id=p33&lang=eng#p33) implies pretty heavily that Nephites were literate in both Reformed Egyptian and Hebrew, albeit with alterations; which makes me wonder if Mormon knew how original Hebrew compared. Neither Hebrew, Altered Hebrew, nor Reformed Egyptian are found *anywhere* in the pre-Columbian American continent.
+
+That verse in 3 Nephi is *copied* from the KJV of the New Testament. It was not written as such on any Hebrew or Reformed Egyptian plates.
+
+Worse yet is the reference to ‘council,’ a reference to the Jewish Councils governing offenses in Jerusalem&mdash; specifically the Sanhedrin. *There was no Sanhedrin* among the Nephites or in the New World&mdash; if anything, Sanhedrin would be an old oral legend, being 600 years displaced from when Lehi left Jerusalem where Sanhedrin held any relevance. The BoM outlines multiple overhauls to governance and justiciary. There’s no way a Nephite in the New World would call their brother “Raca” and after having done so, be subject to the punishment of the Sanhedrin.
+
+**This passage would be absolutely meaningless to the Nephites.** Being meaningless, they probably wouldn’t have written it down. ... But they did, so goes the lore behind the scripture. They didn't write down information relevant to their contemporaries, nor to us, but they wrote down a direct copy of what the KJV New Testament reads.
 
 &nbsp;
 
 ### Greek
 The Greek language was used throughout the Roman Empire at the time of Christ; therefore, the New Testament was written in Greek and the words _Alpha and Omega_ were well understood. The Nephites, however, were supposed to have left Jerusalem 600 years before the time of Christ, before the Roman empire was present to introduce Greek, and therefore the Nephites would not have been familiar with these words.
 
-If Jesus had told the Nephites that He was “[Alpha and Omega](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p18#p18),” it would have had absolutely no meaning to them. Yet that passage is still included, when Jesus’ visit in 3rd Nephi is so heavily abbreviated (he did many other things that cannot be written)
+If Jesus had told the Nephites that He was “[Alpha and Omega](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p18#p18),” it would have absolutely no meaning to them. Yet that passage is still included in Jesus’ *heavily abbreviated* visit to the Nephites, who remind us that "he did say many other things that cannot be written." Either they weren't listening to the god who just flattened Zerahemla and killed their families, were not literate, or maybe Joseph Smith made it up.
+
+&nbsp;
 
 When the author of the _Book of Mormon_ lifted these words from the book of Revelation he evidently did not realize that they were from the Greek language.
 
@@ -259,11 +267,12 @@ When the author of the _Book of Mormon_ lifted these words from the book of Re
 &nbsp;
 ## Probability / Occam’s Razor
 [Occam’s Razor](https://www.britannica.com/topic/Occams-razor)
+
 The official story is that Joseph was visited by a Native American ghost who led him to a buried golden book in the style of 19th century New England folk magic. The book was written in a language and script found nowhere else in history, though the characters look amazingly similar to modern English letters with extra lines or turned upside down. Joseph translated it using a magic rock he found in a well and previously used to search for buried Native American treasure. The original book has since [[The Plates#What happened to the plates?|disappeared]], but we can confirm without a doubt that Joseph’s later translation activities were fabricated based on existing source documents.
 
-The book is a story about a massive, thousand-year civilization for which there is no supporting linguistic, archaeological, or genetic evidence. It copies large excerpts from the King James Bible edition to which Joseph had access, including translation errors and writings that didn’t exist when the Book of Mormon peoples were supposed to have left Jerusalem. Joseph claimed it to be a legitimate translation.
+That book is a story about a massive, thousand-year civilization for which there is no supporting linguistic, archaeological, or genetic evidence. It copies large excerpts from the King James Bible edition to which Joseph had access, including translation errors and writings that didn’t exist when the Book of Mormon peoples were supposed to have left Jerusalem. Joseph claimed it to be a legitimate translation.
 
-You can either believe that ridiculous story, or you can believe that a guy wrote a book quickly. This is a very easy one; if you find “a guy wrote a book quickly” to be less plausible than the story above, then you have a terrible grasp of probability.
+You can either believe that ridiculous story, or you can believe that a guy wrote a book quickly. If you find "a guy wrote a book quickly" to be less plausible than the story above, then you have a terrible grasp of probability.
 
 &nbsp;
 
@@ -277,4 +286,4 @@ Lehi and his family being fresh out of Jerusalem didn’t have much mention of J
 There are simple references to Clean and Unclean meats, but nothing beyond that show a Jewish origin.
 
 ## Extant artifacts
-Funny how we have numerous [Cuneiform tablets](https://www.loc.gov/collections/cuneiform-tablets/about-this-collection/) from ancient Sumeria (around 2100 BC; 4100 years ago), a civilization smaller than the Nephites, outlining even mundane things as school assignments & receipts. But... for a civilization as vast, populous and robust as Zerahemla, we've got... nothing.
+Funny how we have numerous [Cuneiform tablets](https://www.loc.gov/collections/cuneiform-tablets/about-this-collection/) from ancient Sumeria (around 2100 BC; 4100 years ago), a civilization smaller than the Nephites, outlining even mundane things as school assignments & receipts. But... for a civilization as vast, populous and robust as Zerahemla, we've got... *nothing*.

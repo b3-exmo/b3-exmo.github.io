@@ -87,6 +87,16 @@ Cool faith promoting story about blind obedience even if the prophet deliberatel
 
 &nbsp;
 
+President Woodruff's quote has an omitted clause, which I think is relevant enough to include. We can even read it in *[Official Declaration 1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?id=p12&lang=eng#p12)* in our scriptural canon:
+
+> ... *It is not in the mind of God. ==If I were to attempt that, the Lord would remove me out of my place==, and so He will any other man who attempts to lead the children of men astray from the oracles of God and from their duty.*
+
+And so when people try to differentiate between a prophet "speaking as a man" versus speaking authoritatively as a representative of God, we can point to Woodruff assuring us that the prophet *can't* say anything that isn't the will of God. If Woodruff or "any other man" say something that is not approved by God, "the Lord would remove [him.]"
+
+Was the prophet speaking as a man? He couldn't be, or else God wouldn't let him say anything. And so the fact that the prophet said something and wasn't immediately struck by lightning proves that he was speaking as a prophet. Anything that the prophet says is what God says.
+
+&nbsp;
+
 ### 5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.
 [Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p26#p26)
 

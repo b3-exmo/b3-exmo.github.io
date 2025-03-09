@@ -11,7 +11,7 @@ I don't think of this as a journal or blog. I'll interject a time or two, or sha
 ## Why, though?
 I didn’t wake up one day, and decide to tear down my worldview.
 
-I want this to be true. I never missed a day of seminary, I went on a mission, I got married in the temple, I got recommended to be a temple worker in Provo. I did **not** resolve to upend my eternal perspective, and throw away a core part of my identity. *I want the LDS teachings to be true.*
+I want this to be true. I never missed a day of seminary, I went on a mission, I got married in the temple, I got recommended to be a temple worker in Provo. I did **not** resolve to upend my eternal perspective, and throw away a core part of my identity. *I want the LDS teachings to be true.* Finding untruths in those teachings is very upsetting to me.
 
 Many of these issues have conflicting amounts of weight behind them. I don’t have concrete evidence against all LDS teaching, nor is there solid, undeniable evidence in favor of it. The church could disambiguate and clear up all confusion, but it does not. Presumably, because you and I are meant to rely on faith. By every Mormon's [favorite scriptural passage](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p21#p21), “faith is . . . hope for things which are not seen, **which are true**.” Faith is not stubborn insistence despite evidence to the contrary.
 

@@ -1,9 +1,9 @@
 .vscode/settings.json
+.stignore
 .obsidian/
 .stfolder/
-wip/
-supplemental/
+.trash/
 venv/
 site/
 pyvenv.cfg
-dev/
+0dev/

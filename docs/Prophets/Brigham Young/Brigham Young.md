@@ -118,6 +118,15 @@ Boy, this guy sure sounds like he was called of God to speak in His behalf.
 
 &nbsp;
 
+## Misogyny
+> *Sisters, do not ask whether you can make yourselves happy, but whether you can do your husband's will, if he is a good man. Teach your children; for you are their guardians, to act as father and mother to them until they are out of your care. ... Do not call it “mine.” Let your maxim be, “This is not mine,” whether you have one child or a dozen. “It is not mine, but the Lord has seen fit to let me bear the souls of the children of men. ([D&C 132:63](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p63#p63)) It is from my Father and God, and I will do my duty and hand it over to him,” and have that faith that the child can never wring itself out of the hands of a good father and mother—can never stray away—no, never.*
+
+&mdash; *[Brigham Young, The Gifts of God, Etc.](https://scriptures.byu.edu/#12e8463:t15f98:j09)* Journal of Discourses 9:38
+
+Read the rest of that paragraph, if you dare. 
+
+&nbsp;
+
 ## Can speak cow 🐄
 > *The 160-mile leg across Illinois was a grueling forty-eight hours as their coach stopped only for food, fresh teams, and to pry themselves and other wagons from the mud. At one point, a heavily loaded wagon belonging to Norwegian immigrants was bogged in the mire, and the Norwegians were whipping and bawling at their oxen. ==According to one account, Young looked over the situation, stepped from the coach, and coaxed the animals in a language unknown to either the Norwegians or the Americans==. Then a light touch of the whip got the calmed animals to lift the wagon, and the Norwegians went ahead with their journey—to “the surprise and amusement of the passengers” in the coach.*
 
