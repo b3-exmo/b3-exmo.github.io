@@ -75,7 +75,7 @@ nav:
   - ✍️ My own experience: My own experience.md
   - ✝️ Christianity:
     - Christianity/Christianity.md
-    - 🪦 Exaltation & Afterlife: Christianity/Exaltation.md
+    - 🪦 Afterlife: Christianity/Afterlife.md
     - 🌄 Historicity: Christianity/Historicity.md
     - 👻 Holy Spirit's Promptings: Christianity/Holy Spirit Promptings.md
     - 😈 Satan: Christianity/Satan.md
@@ -140,7 +140,9 @@ nav:
       - 🩸 Blood Atonement: Prophets/Brigham Young/Blood Atonement.md
       - 🥊 Vs. Emma Smith: Prophets/Brigham Young/Vs Emma Smith.md
     - 🇺🇸 Ezra Taft Benson: Prophets/Ezra Taft Benson/Ezra Taft Benson.md
-    - 👴 Russel M Nelson: Prophets/Russel-M-Nelson.md
+    - 👴 Russel M Nelson:
+      - Prophets/Russel-Nelson/Russel-M-Nelson.md
+      - Prophets/Russel-Nelson/Nelsons-Plane.md
   - 🏁 Race: 
     - Race/Race.md
     - 🤼 Race in Scripture: Race/Race in scripture.md

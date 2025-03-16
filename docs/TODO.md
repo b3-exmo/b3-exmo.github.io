@@ -26,17 +26,17 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] Anti-LGBT
 - [ ] Before Utah
 	- [ ] American Frontier Magic
-	- [ ] Isaac Hale
 	- [ ] Kirtland Safety Society
 	- [ ] Nauvoo Expositor
 	- [ ] Priesthood Restoration
 	- [ ] Succession crisis
 - [x] Book of Mormon
 	- [x] Anachronisms
-	- [ ] Lehi's Dream
+	- [x] Lehi's Dream
 	- [ ] Literacy in Ancient America
 	- [ ] Plates of ✨GOLD✨
 	- [ ] Witnesses
+- [ ] Bullet List for quick reference
 - [x] Christianity > Second Coming
 - [ ] Conflation
 - [ ] Cults
@@ -58,6 +58,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] Massacre: Fort Utah
 - [ ] Massacre: Mountain Meadows
 - [x] Modern Church
+	- [ ] Auxiliary branches
 	- [ ] Church Internal Audit Department
 	- [ ] Ensign Peak
 	- [ ] Family, Proclamation to the World
@@ -79,7 +80,8 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] George A Smith
 	- [ ] Gordon Hinckley
 	- [ ] Joseph Smith & Legal Trouble
-	- [ ] Russel M Nelson
+	- [x] Russel M Nelson
+		- [x] Airplanes
 	- [ ] Thomas S Monson
 	- [ ] Wilford Woodruff
 - [ ] Questions to ask
@@ -93,7 +95,9 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [x] Testimony, faith, bias
 - [ ] Tithing > Lawsuits
 - [ ] Women & Misogyny
-- [ ] Word of Wisdom
+- [x] Word of Wisdom
+	- [ ] Origins
+	- [ ] Changes over time
 
 &nbsp;
 

@@ -116,12 +116,35 @@ Nephi & friends were able to invoke divine intervention so they wouldn’t have 
 &nbsp;
 
 ## Animals
-Horses indigenous to America had been made extinct by the ice age, and were absent from America before Christopher Columbus. How, then, do we handle Nephi's account that [there are horses standing around in plain sight](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=eng&id=p25#p25), alive and well, as soon as they land in America?  [Or were they tapirs](https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Anachronisms/Animals/Horses/Loanshifting:_deer_and_tapirs)?
+What does the Church's website say about animals in the Book of Mormon? [Not much](https://www.churchofjesuschrist.org/study/friend/2008/08/for-little-friends/book-of-mormon-animals?lang=eng).
 
 | Animals indigenous to the Americas                                                                                                                                                                                                                   | Animals *not* indigenous to Americas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | - Black bears<br>- Brown bears<br>- Jaguar<br>- Bald Eagle<br>- Llamas<br>- Cougars<br>- Coyotes<br>- Bison<br>- Anaconda<br>- Alligator<br>- [Tapir](https://byustudies.byu.edu/article/animals-in-the-book-of-mormon-challenges-and-perspectives/) | - Horses ([1](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/4?lang=eng&id=p4#p4), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=eng&id=p9-p10#p9), [3](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/6?lang=eng&id=p1#p1), [4](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=eng), [5](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/20?lang=eng&id=p6#p6), [6](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=eng&id=p25#p25))<br>- Lions ([1](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=eng&id=p10#p10), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21?lang=eng&id=p12#p12))<br>- Dragons ([1](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=eng&id=p44#p44), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/20?lang=eng&id=p11#p11)) |
 
+&nbsp;
+
 Take a guess which lists’ animals appear in the Book of Mormon, of ancient Americas?
 
-What does the Church's website say about animals in the Book of Mormon? [Not much](https://www.churchofjesuschrist.org/study/friend/2008/08/for-little-friends/book-of-mormon-animals?lang=eng).
+
+### Goats
+> *25 And it came to pass that we did find upon the land of promise, as we journeyed in the wilderness, that there were beasts in the forests of every kind, both the cow and the ox, and the ass and the horse, and ==the goat and the wild goat==, and all manner of wild animals, which were for the use of men. And we did find all manner of ore, both of gold, and of silver, and of copper.*
+
+&mdash; [1 Nephi 18:25](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?id=p25&lang=eng#p25)
+
+&nbsp;
+
+To differentiate between goats and wild goats carries some implications. 
+
+What makes the wild ones different? Are the non-wild ones *domesticated*? By whom? Are domesticated goats standing around, waiting for humanity to drop by?
+
+Nephi is very specific about these creatures, identifying and distinguishing between these two varieties. That isn't problematic&mdash; it's noteworthy when compared to another of the animals listed: *the horse*.
+
+&nbsp;
+
+### Tapir
+Horses indigenous to America had been made extinct by the ice age, and were absent from America before Christopher Columbus. 
+
+How, then, do we handle Nephi's account that [there are horses standing around in plain sight](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=eng&id=p25#p25), alive and well, as soon as they land in America? Well, it *just so happens* that when we run into an anachronism when it comes to identifying animals, Nephi didn't actually mean *horse* when he said *horse*. Why would you think that? We never claimed it was *actually* a horse. Yes, this is the same verse where Nephi is very specific to differentiate goats versus wild goats, but if horses weren't around in 590 BCE, then the word horse doesn't mean horse.
+
+[Or were they tapirs](https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Anachronisms/Animals/Horses/Loanshifting:_deer_and_tapirs)?
