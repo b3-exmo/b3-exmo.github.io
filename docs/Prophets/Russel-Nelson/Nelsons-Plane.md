@@ -38,9 +38,13 @@ This story has been shared to an audience in a number of places:
 
 - [Doors of Death](https://www.churchofjesuschrist.org/study/ensign/1992/05/doors-of-death?lang=eng), 1992 April ([Archive](https://web.archive.org/web/20241208150952/https://www.churchofjesuschrist.org/study/ensign/1992/05/doors-of-death?lang=eng))
 
+&nbsp;
+
 **Friend Magazine**
 
 - [Most Important](https://www.churchofjesuschrist.org/study/friend/1994/06/most-important?lang=eng), June 1994 ([Archive](https://web.archive.org/web/20240512015445/https://www.churchofjesuschrist.org/study/friend/1994/06/most-important?lang=eng))
+
+&nbsp;
 
 **Church Newsroom**
 
@@ -50,15 +54,21 @@ This story has been shared to an audience in a number of places:
 - [‘Live, love and choose’: President Nelson looks ahead to the future of the Church in Uruguay](https://www.thechurchnews.com/leaders-and-ministry/2018-10-26/president-nelson-finds-church-thriving-in-uruguay-thanks-to-multiple-generations-of-members-missionaries-156122), 26 Oct 2018 ([Archive](https://web.archive.org/web/20250224014822/https://www.thechurchnews.com/2018/10/26/23215279/president-nelson-finds-church-thriving-in-uruguay-thanks-to-multiple-generations-of-members-missiona/))
 - [Now Is the Time to Choose Christ, Prophet Tells Argentinian Saints](https://newsroom.churchofjesuschrist.org/article/president-nelson-argentina-2019), 28 August 2019 ([Archive](https://web.archive.org/web/20241114111852/https://newsroom.churchofjesuschrist.org/article/president-nelson-argentina-2019))
 
+&nbsp;
+
 **Deseret**
 
 - [Death is part of life, ex-surgeon says](https://www.deseret.com/2006/4/15/19948411/death-is-part-of-life-ex-surgeon-says), April 15, 2006 ([Archive](https://web.archive.org/web/20240509201534/https://www.deseret.com/2006/4/15/19948411/death-is-part-of-life-ex-surgeon-says/))
 - [President Nelson invites all to feel ‘the peace and hope of Easter’ by focusing on the Savior](https://www.deseret.com/faith/2021/3/28/22355277/president-nelson-invites-all-to-feel-the-peace-and-hope-of-easter-by-focusing-on-the-savior), March 28, 2021 ([Archive](https://web.archive.org/web/20240509201536/https://www.deseret.com/faith/2021/3/28/22355277/president-nelson-invites-all-to-feel-the-peace-and-hope-of-easter-by-focusing-on-the-savior/))
 
+&nbsp;
+
 **YouTube**
 
 - [Men's Hearts shall Fail Them](https://youtu.be/EMwKxmTLaCs), Nov 18, 2011
 - [The Peace and Hope of Easter](https://youtu.be/bACX8BXHuEs?si=jVm11d-SMFa1r3ng&t=28), Mar 28, 2021
+
+&nbsp;
 
 **Published Books**
 
