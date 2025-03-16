@@ -29,7 +29,7 @@ Nelson has drawn on experience as a heart surgeon to authoritatively talk about 
 > 
 > ***\[Ruby\]:*** *Why is that?*
 > 
-> ***Nelson:*** *Man has always been man. ==Dogs have always been dogs==. Monkeys have always been monkeys. ==It’s just the way genetics works==.*
+> ***Nelson:*** *Man has always been man. Dogs have always been dogs. Monkeys have always been monkeys. ==It’s just the way genetics works==.*
 
 &mdash; [In Focus: Mormonism in Modern America](https://web.archive.org/web/20241202040817/https://www.pewresearch.org/religion/2007/05/16/in-focus-mormonism-in-modern-america/), Pew Research Center, 16 May 2007
 
@@ -163,7 +163,7 @@ Outside of nitpicking the vernacular, why was this proclamation necessary? The i
 
 If you'd like to postulate that this proclamation is meant for non-members, that's fine, but please&mdash; imagine this kind of proclamation from some other faith. If you were handed a printed proclamation by [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) asserting that the publication of [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)'s *Dianetics* is a key historical event for the world, would you think "*by my troth*, this is all the definitive proof I needed! Sign me up for exorbitantly priced books, *post-haste*!" Or some similar publication from Bob Ciranko of JW's *Watchtower* reminding you that 144,000 individuals will be [[Sealing|sealed]] and "[are chosen](https://web.archive.org/web/20240503230238/https://wol.jw.org/en/wol/d/r1/lp-e/2004647#h=3) from among mankind to rule with Christ in heaven over the coming Paradise earth". 
 
-In either of these hypothetical scenarios, I might imagine why are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that isn't new information. Most anyone familiar with Mormonism would know superficial details of Joseph Smith claiming to have seen God and producing a text after. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet&mdash; find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to baptism, then what was the point of the proclamation?
+In either of these hypothetical scenarios, I might imagine why are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that isn't new information. Most anyone familiar with Mormonism would know superficially about Joseph Smith claiming to have seen God and producing a text after. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet&mdash; find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to baptism, then what was the point of the proclamation?
 
 &nbsp;
 
@@ -183,23 +183,21 @@ What's that? He wasn't speaking as a prophet in those contexts? Boy, that'd be a
 &nbsp;
 
 ### Come Follow Me
-Alright, look... We got our church services 33% shorter to emphasize a more home-focused gospel study program. Is that a sign that God is involved in our lives, by preparing us via prophetic guidance?
+Alright, look... We got our church services 33% shorter to emphasize a more home-focused gospel study program. Is that a sign that God is involved in our lives, by preparing us for a pandemic via prophetic guidance?
 
 I... *I guess*?
 
-Put on your time-travel hat and think back to June 2018 when this program was announced. You'll have to imagine *real hard* because the church's website [now just redirects](https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) the announcement to their Newsroom page, so we'll look at [the archived version](https://web.archive.org/web/20201203231204/https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) instead.
+Put on your time-travel hat and think back to June 2018 when this program was announced. You'll have to imagine *real hard* because the church's website [now just redirects](https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) from the announcement to their Newsroom page, so we'll look at [the archived version](https://web.archive.org/web/20201203231204/https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) instead.
 
 The newsroom article describes that this *Come, Follow Me* program is meant to "help Church members and their families study the scriptures at home." Starting in 2019, we'll have a unified schedule for lessons. Neat.
 
 So... Read through as much of this article as you have patience for. While you're there, tell me what part you saw as related to a global pandemic upending the world's economy. Maybe I'm just a miserable grump, but I don't see *jack shit* in here about an upcoming pandemic.
 
-If you'd like to draw the connection that at-home scripture study is indicative that people will be heavily encouraged to stay in their homes as prophetic foresight, then... I don't know, man, if that's where you're going, I just don't know what to tell you. Pause and think if that leap of logic would stand under scrutiny of any of your non-religious peers or friends. Find a neutral third-party, and ask "hey, imagine a hypothetical organization's leader cutting a physical gathering's duration by one hour and providing a structured at-home study program beginning in 2019. Do you think that's divine insight? Is that indicative that this leader is led by God?"
+If you'd like to draw the connection that at-home scripture study is indicative that people will be heavily encouraged to stay in their homes as prophetic foresight, then... I don't know, man, if that's where you're going, I just don't know what to tell you. Pause and think if that leap of logic would stand under scrutiny of any of your non-religious peers or friends. Find a neutral third-party, and ask "hey, imagine a hypothetical organization's leader cutting a physical gathering's duration by one hour and providing a structured at-home study program beginning in 2019. Do you think that's divine insight? Would you understand that to be a forewarning of COVID-19? Is that indicative that this leader is led by God?"
 
 &nbsp;
 
 #### Children and Youth
-https://www.deseret.com/2019/7/17/8936741/church-announces-replacement-for-boy-scouts-personal-progress-children-and-youth/
-
 > *The Church will discontinue its participation in Scouting on December 31, 2019, and the Personal Progress, Duty to God, and Faith in God programs will be discontinued on that date.*
 
 &mdash; *[Children and Youth Update](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*, 15 July 2019 (*[Archive](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*)
@@ -214,23 +212,15 @@ https://www.deseret.com/2019/7/17/8936741/church-announces-replacement-for-boy-s
 > 
 > *“This effort has been designed especially for you and your generation,” President Nelson tells youth in the video’s introduction. ... "Now the time has come for a new approach, designed to help today’s children and youth throughout the world."*
 
-&mdash; [*Latter-day Saints Worldwide Introduced to New Program for Children and Youth](https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*, LDS Church Newsroom, 29 September 2019 (*[Archive](https://web.archive.org/web/20191010205738/https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*)
+&mdash; *[Latter-day Saints Worldwide Introduced to New Program for Children and Youth](https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*, LDS Church Newsroom, 29 September 2019 (*[Archive](https://web.archive.org/web/20191010205738/https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*)
 
 &nbsp;
 
-Yeah, man. "Designed especially for you and your generation[.]" To be launched weeks before the world shuts down, and our kids & teenagers did absolutely fuck-all with it because they couldn't meet in-person for months.
+Yeah, man. "Designed especially for you and your generation[.]" To be launched weeks before the world shuts down, and our kids & teenagers will do absolutely fuck-all with it because they won't meet in-person for months.
 
 Was *Come, Follow Me* inspired and timely in anticipation of at-home study due and pandemic lockdowns? Then tell me how this other program, explicitly described as being designed for *these kids at this time*, was... maybe *not* divinely inspired?
 
 *You can't have it both ways.*
-
-&nbsp;
-
-![[conspiracy.png]] {: .center}
-
-&mdash; *What I imagine staunch defenders of the faith to read from these announcements*
-
-(in case it isn't obvious, I'm being hyperbolic and cheeky)
 
 &nbsp;
 

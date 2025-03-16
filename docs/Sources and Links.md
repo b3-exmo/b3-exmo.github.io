@@ -42,7 +42,7 @@ JSPP has lots of cool documents, including an [1830 edition](https://www.josephs
 
 — [Deseret Management, _Careers_](https://www.deseretmanagement.com/careers)
 
-One could argue that "affiliated with" doesn't mean "owned by." Although, in the interest of simplicity, [[#Deseret News|Deseret News]], outright stated that DMC is owned by the church, so... Take that how you choose to?
+One could argue that "affiliated with" doesn't mean "owned by." Although, in the interest of simplicity, [[#Deseret News|Deseret News]] outright stated that DMC is owned by the church, so... Take that how you choose to?
 
 Go check out their page on "[our companies](https://www.deseretmanagement.com/#our-companies)."
 

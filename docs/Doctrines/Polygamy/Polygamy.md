@@ -1,7 +1,6 @@
 ---
 comments: true
 ---
-
 # 👩‍🤝‍👩 Polygamy
 ## Required for exaltation!
 > *It is the word of the Lord, and I wish to say to you, and all the world, that if you desire with all your hearts to obtain the blessings which Abraham obtained, ==you will be polygamists at least in your faith, or you will come short of enjoying the salvation and the glory which Abraham has obtained. This is as true as that God lives.==*

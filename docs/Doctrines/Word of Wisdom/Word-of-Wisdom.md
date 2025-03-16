@@ -356,7 +356,7 @@ Not only are the blessings vague, but we've added a qualifier that they might no
 > 
 > *You may think I am speaking extravagantly, but I remember a tea drinking match once in which fourteen cups apiece were drank, so you see it can be done. But to drink half a dozen or even three or four cups of strong tea is hurtful. It injures and impairs the system, benumbs the faculties of the stomach, and affects the blood, and is deleterious in its nature. If a person is weary, worn out, cast down, fainting, or dying, a brandy sling, a little wine, or a cup of tea is good to revive them. ==Do not throw these things away, and say they must never be used; they are good to be used with judgment, prudence, and discretion==.*
 
-Brigham Young, Word of Wisdom, JoD 12 [https://scriptures.byu.edu/#:t1d4c9:j12](https://scriptures.byu.edu/#:t1d4c9:j12)
+&mdash; Brigham Young, Word of Wisdom, JoD 12 [https://scriptures.byu.edu/#:t1d4c9:j12](https://scriptures.byu.edu/#:t1d4c9:j12)
 
 That guy sounds like a real douche, ngl
 
@@ -365,6 +365,8 @@ While I haven't found a quote to back up the claim that it was the Lion of the L
 &nbsp;
 
 Actually, you know what? After writing all of this... just to spite Elder Oaks, I'm gonna go drive down to the cannabis dispensary. Then we'll see who's *high on a mountain top*. 😏
+
+&nbsp;
 
 ## Reading Material
 [https://www.letterformywife.com/part-one-the-early-church#viewer-8nn2j52947](https://www.letterformywife.com/part-one-the-early-church#viewer-8nn2j52947)

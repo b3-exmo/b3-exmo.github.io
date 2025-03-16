@@ -328,6 +328,16 @@ A shopping center that the church itself describes as luxurious? Extravagant tem
 
 But of course, that one story about him approving of the woman anointing his feet with oil totally translates to aggrandizing affluence.
 
+> *The young man saith unto him, All these things have I kept from my youth up: what lack I yet?*
+> 
+> *Jesus said unto him, If thou wilt be perfect, ==go and sell that thou hast, and give to the poor==, and thou shalt have treasure in heaven: and come and follow me.*
+> 
+> *But when the young man heard that saying, he went away sorrowful: for ==he had great possessions==.*
+
+&mdash; *[Matthew 19:20-22](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=eng&id=p20-p22#p20)*
+
+&nbsp;
+
 > *So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. ==He saith unto him, Feed my lambs==.*
 >
 > *He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. ==He saith unto him, Feed my sheep==.*
