@@ -179,7 +179,7 @@ Ready for more sad reading? Good, cause we got more to get through.
 
 &nbsp;
 
-Other pages within this book describe her affinity for dancing and socializing. She's a teenager in the 18th century, not like there was much else to look forward to, but that makes this that much worse&mdash; her one escape, one joy in life is taken away.
+Other pages within this book describe her affinity for dancing and socializing. She's a teenager in the 18th century, not like there was much else to look forward to, but that makes this that much worse— her one escape, one joy in life is taken away.
 
 &nbsp;
 

@@ -45,11 +45,11 @@ I've read that paper itself is an [old technology](https://en.wikipedia.org/wiki
 
 > *Papermaking can be traced to about ==\[105 CE\]==, when Ts’ai Lun, an official attached to the Imperial court of China, created a sheet of paper using mulberry and other bast fibres along with fishnets, old rags, and hemp waste. In its slow travel westward, the art of papermaking reached Samarkand, in Central Asia, in 751; and in ==793 the first paper was made in Baghdad== during the time of Hārūn ar-Rashīd, with the golden age of Islāmic culture that brought papermaking to the frontiers of Europe.*
 
-&mdash; [Papermaking](https://www.britannica.com/technology/papermaking), Britannica
+— [Papermaking](https://www.britannica.com/technology/papermaking), Britannica
 
 Well... does this verify that paper was *also* a well-established industry to provide multiple copies of printed scriptures to burn by the year 82 BCE in ancient America, as described in Alma 14? Because identifying the origin of the technology to approximately 105 CE lands us in a tough spot to explain this.
 
-Literacy in ancient America is a separate issue entirely. Text recorded on paper isn't useful if lay people are illiterate. In order for this story in Alma 14 to make sense (to me) we need enough lay people to be literate in order warrant enough economical demand for paper copies of scripture in the first place. Not only will these people need to be able to read and understand the text, but they need to see enough value in it that they will want their own personal copy&mdash; another logistical problem without a printing press.
+Literacy in ancient America is a separate issue entirely. Text recorded on paper isn't useful if lay people are illiterate. In order for this story in Alma 14 to make sense (to me) we need enough lay people to be literate in order warrant enough economical demand for paper copies of scripture in the first place. Not only will these people need to be able to read and understand the text, but they need to see enough value in it that they will want their own personal copy— another logistical problem without a printing press.
 
 Maybe I'm looking too deep into one interpretation. "\[T\]heir records which contained the holy scriptures" isn't strictly required to be paper. If they were *not* recorded on paper, then they must have been etched onto metal plates, much like our pals Mormon & Moroni gained a reputation for doing. Putting etched metal sheets into a fire might char them, but much like a contentious discourse about the temperature of jet fuel being enough to melt certain structural materials, I question if "their records which contained the holy scriptures" were thrown into a crucible to be molten back into a raw material?
 

@@ -5,18 +5,18 @@ comments: true
 ## UNLEASHED
 > *“I have seen him changing in the last ten months,” said Sister Nelson. “It is as though he’s been unleashed. He’s free to finally do what he came to earth to do. … ==And also, he’s free to follow through with things he’s been concerned about but could never do==. Now that he’s president of [the Church], he can do those things.”*
 
-&mdash; *[Latter-day Saint Prophet, Wife and Apostle Share Insights of Global Ministry](https://web.archive.org/web/20250101170109/https://newsroom.churchofjesuschrist.org/article/latter-day-saint-prophet-wife-apostle-share-insights-global-ministry)*, 30 October 2018 ([1](https://www.sltrib.com/religion/2018/10/31/this-week-mormon-land/), [2](https://www.fox13now.com/2018/11/02/hes-been-unleashed-says-wendy-nelson-wife-of-russell-m-nelson-president-of-the-church-of-jesus-christ-of-latter-day-saints))
+— *[Latter-day Saint Prophet, Wife and Apostle Share Insights of Global Ministry](https://web.archive.org/web/20250101170109/https://newsroom.churchofjesuschrist.org/article/latter-day-saint-prophet-wife-apostle-share-insights-global-ministry)*, 30 October 2018 ([1](https://www.sltrib.com/religion/2018/10/31/this-week-mormon-land/), [2](https://www.fox13now.com/2018/11/02/hes-been-unleashed-says-wendy-nelson-wife-of-russell-m-nelson-president-of-the-church-of-jesus-christ-of-latter-day-saints))
 
 Damn, crazy how God’s ideals are aligned with those ideals of whoever the current prophet is
 
 No joke, this was a really big [[Shelf|shelf item]] for me. This interview was given right when I hit my faith crisis. What I read from this quote is that the president of the LDS church is not acting in God's behalf. Things that President Nelson was quick to enact sound like things he'd been cooking up for years, *decades* possibly. We already have a precedent of Elder Russell Nelson suggesting [[Name Mormon#1990|we shouldn't call ourselves Mormons back in 1990]]. Isn't it just *wild* how God finally agreed with Nelson immediately after he was called to be the church president? God clearly [[Name Mormon#“I’m a Mormon” campaign|wasn't offended]] by the word "Mormon" during any prior church presidency.
 
-To me, this calls into question how divinely inspired this man is&mdash; did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
+To me, this calls into question how divinely inspired this man is— did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
 
 &nbsp;
 
 ## Education
-I intend to tread carefully here&mdash; not out of fear of reprisal from church members, but out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon.
+I intend to tread carefully here— not out of fear of reprisal from church members, but out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon.
 
 What I mean to suggest instead is that Nelson seems to have internalized one of President Benson's *[[14 Fundamentals#5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.|Fourteen Fundamentals in Following the Prophet]]*, where the acting president of the church doesn't need "any particular earthly training or diplomas to speak on any subject or act on any matter at any time." Nelson was, by my understanding, a successful *heart surgeon*. I believe that he can authoritatively talk to anyone *about heart surgery*.
 
@@ -31,7 +31,7 @@ Nelson has drawn on experience as a heart surgeon to authoritatively talk about 
 > 
 > ***Nelson:*** *Man has always been man. Dogs have always been dogs. Monkeys have always been monkeys. ==It’s just the way genetics works==.*
 
-&mdash; [In Focus: Mormonism in Modern America](https://web.archive.org/web/20241202040817/https://www.pewresearch.org/religion/2007/05/16/in-focus-mormonism-in-modern-america/), Pew Research Center, 16 May 2007
+— [In Focus: Mormonism in Modern America](https://web.archive.org/web/20241202040817/https://www.pewresearch.org/religion/2007/05/16/in-focus-mormonism-in-modern-america/), Pew Research Center, 16 May 2007
 
 I see a few issues here.
 
@@ -45,9 +45,9 @@ Three, "lower animals/species" sounds like a very cavalier way of looking at God
 
 > *==Evolution by natural selection is the most important scientific discovery of modern times== (I am stoically unapologetic about the lack of equivocation in that statement). The evidences for it are ==staggeringly abundant, detailed, and scientifically undeniable==. Our perspective of an open canon allows us to accept this new revelation from the book of nature without getting stuck in past pre-Darwinian quagmires. ==Mormons are all about continuing revelation. It’s what we do best.==*
 
-&mdash; [Why Mormons Should Embrace Evolution: BYU Biology Professor Steven Peck](https://www.beliefnet.com/columnists/flunkingsainthood/2010/09/why-mormons-should-embrace-evolution-byu-biology-professor-steven-peck.html), Associate Professor of Biology at Brigham Young University, 20 September 2010
+— [Why Mormons Should Embrace Evolution: BYU Biology Professor Steven Peck](https://www.beliefnet.com/columnists/flunkingsainthood/2010/09/why-mormons-should-embrace-evolution-byu-biology-professor-steven-peck.html), Associate Professor of Biology at Brigham Young University, 20 September 2010
 
-We could make the argument that a lowly associate professor's disposition holds less weight than a decorated doctor of heart surgery, who outlived contemporaries and became president of a church. We could also highlight that disparity in the opposite direction&mdash; an associate professor has a more grounded understanding of evolution than Nelson after a 40-year career.
+We could make the argument that a lowly associate professor's disposition holds less weight than a decorated doctor of heart surgery, who outlived contemporaries and became president of a church. We could also highlight that disparity in the opposite direction— an associate professor has a more grounded understanding of evolution than Nelson after a 40-year career.
 
 &nbsp;
 
@@ -65,19 +65,19 @@ Talk to someone who has worked as a CNA about how employable their medical work 
 ## Who do we listen to?
 > *Learn to listen, and listen to learn from neighbors. Repeatedly the Lord has said, “Thou shalt love thy neighbour.” ==Opportunities to listen to those of diverse religious or political persuasion can promote tolerance and learning==. And a good listener will listen to a person’s sentiments as well.*
 
-&mdash; *[Listen to Learn](https://www.churchofjesuschrist.org/study/general-conference/1991/04/listen-to-learn?lang=eng&id=p25#p25)*, Elder Russell M. Nelson, Quorum of the Twelve Apostles, General Conference 1991 April
+— *[Listen to Learn](https://www.churchofjesuschrist.org/study/general-conference/1991/04/listen-to-learn?lang=eng&id=p25#p25)*, Elder Russell M. Nelson, Quorum of the Twelve Apostles, General Conference 1991 April
 
 &nbsp;
 
 > *There is no end to the adversary’s deceptions. Please be prepared. ==Never take counsel from those who do not believe==. Seek guidance from voices you can trust﻿—from prophets, seers, and revelators and from the whisperings of the Holy Ghost, who “will show unto you all things what ye should do.” Please do the spiritual work to increase your capacity to receive personal revelation.*
 
-&mdash; *[Think Celestial!](https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=eng&id=p23#p23)*, President Russell M. Nelson, General Conference 2023 October
+— *[Think Celestial!](https://www.churchofjesuschrist.org/study/general-conference/2023/10/51nelson?lang=eng&id=p23#p23)*, President Russell M. Nelson, General Conference 2023 October
 
 &nbsp;
 
 > *Stop increasing your doubts by rehearsing them with other doubters.*
 
-&mdash; *[Christ Is Risen; Faith in Him Will Move Mountains](https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=eng&id=p22#p22)*, President Russell M. Nelson, General Conference 2021 April
+— *[Christ Is Risen; Faith in Him Will Move Mountains](https://www.churchofjesuschrist.org/study/general-conference/2021/04/49nelson?lang=eng&id=p22#p22)*, President Russell M. Nelson, General Conference 2021 April
 
 &nbsp;
 
@@ -103,11 +103,11 @@ What do we get instead?
 > 
 > *Now in closing, I leave with you my love and my blessing that each of you may become happier and holier with each passing day. Meanwhile, ==please be assured that revelation continues in the Church== and will continue under the Lord’s direction until “the purposes of God shall be accomplished, and the Great Jehovah shall say the work is done.”*
 
-&mdash; *[Closing Remarks](https://www.churchofjesuschrist.org/study/general-conference/2019/10/57nelson?lang=eng&id=p34,p38,p40-p41#p40)*, President Russell M. Nelson, General Conference 2019 October
+— *[Closing Remarks](https://www.churchofjesuschrist.org/study/general-conference/2019/10/57nelson?lang=eng&id=p34,p38,p40-p41#p40)*, President Russell M. Nelson, General Conference 2019 October
 
 &nbsp;
 
-Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when that sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of sanitized version of Joseph Smith's [[First Vision]]. Nelson could not have been more clear on what he meant.
+Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of sanitized version of Joseph Smith's [[First Vision]]. Nelson could not have been more clear on what he meant.
 
 &nbsp;
 
@@ -124,15 +124,13 @@ So what *did* happen in 2020?
 > 
 > *==Little did I know==, when I promised you at the October 2019 general conference that this April conference would be “memorable” and “unforgettable,” that speaking to a visible congregation of fewer than 10 people would make this conference so memorable and unforgettable for me! Yet the knowledge that you are participating by electronic transmission, and the choir’s beautiful rendition of “It Is Well with My Soul,” bring great comfort to my soul.*
 
-&mdash; *[Opening Message](https://www.churchofjesuschrist.org/study/general-conference/2020/04/11nelson?lang=eng&id=p1-p3#p1)*, President Russell M. Nelson, General Conference April 2020
+— *[Opening Message](https://www.churchofjesuschrist.org/study/general-conference/2020/04/11nelson?lang=eng&id=p1-p3#p1)*, President Russell M. Nelson, General Conference April 2020
 
 &nbsp;
 
 We're told that prophets "[see around corners](https://speeches.byuh.edu/devotionals/prophets-can-see-around-corners)" which makes me think that revelation ought to be given proactively, rather than reactively. It makes me think that a prophet should not be surprised when general conference is held in an empty auditorium. It sounds even worse when that same prophet says "I had no idea this was going to happen lol"
 
-*Read the rest of the paragraph*. "Little did I know, when I promised you at the October 2019 general conference that this April conference would be 'memorable' and 'unforgettable,' that speaking to a visible congregation of fewer than 10 people would make this conference so memorable and unforgettable for me!"
-
-Is there any modicum of an implication that Nelson is saying "this was in response to revelatory foreknowledge of COVID?" He's acknowledging in *explicit terms* that the promise of being memorable and unforgettable is in relation to the bicentennial anniversary of (the official, approved version of) the First Vision. No other year *can* be the 200th anniversary. It will be memorable because we're about to hear our fearless leaders *boldly proclaim* that it totally happened this way.
+*Read the rest of the paragraph*. Is there any modicum of an implication that Nelson is saying "this was in response to revelatory foreknowledge of COVID?" He's acknowledging in *explicit terms* that the promise of being memorable and unforgettable is in relation to the bicentennial anniversary of (the official, approved version of) the First Vision. No other year *can* be the 200th anniversary. It will be memorable because we're about to hear our fearless leaders *boldly proclaim* that it totally happened this way.
 
 &nbsp;
 
@@ -143,7 +141,7 @@ Is there any modicum of an implication that Nelson is saying "this was in respon
 > 
 > *==Two hundred years have now elapsed== since this Restoration was initiated by God the Father and His Beloved Son, Jesus Christ. Millions throughout the world have embraced a knowledge of these prophesied events.*
 
-&mdash; *[Proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&id=p2,p4,p7#p2) that "was read by President Russell M. Nelson as part of his message at the 190th Annual General Conference, April 5, 2020, in Salt Lake City, Utah."*
+— *[Proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&id=p2,p4,p7#p2) that "was read by President Russell M. Nelson as part of his message at the 190th Annual General Conference, April 5, 2020, in Salt Lake City, Utah."*
 
 &nbsp;
 
@@ -153,17 +151,17 @@ Nelson wanted to make another formal *proclamation*, because he won't rest until
 
 &nbsp;
 
-What a curious choice of words these selected paragraphs have. They didn't seem to mention that Joseph made absolutely no record of this world-changing event [[First Vision#Timeline of Accounts|for ten years]]&mdash; incidentally the same year that the LDS Church was [[Name Mormon#Name changes|founded]].
+What a curious choice of words these selected paragraphs have. They didn't seem to mention that Joseph made absolutely no record of this world-changing event [[First Vision#Timeline of Accounts|for ten years]]— incidentally the same year that the LDS Church was [[Name Mormon#Name changes|founded]].
 
 They did say in explicit terms that "God the Father and His Son, Jesus Christ, ==appeared== to Joseph[.]" The next sentence expounds on what happened "[i]n this ==vision==[.]" Makes me think that they're trying to equivocate around saying that Elohim and Jehovah both physically were present in New York, seeing how they "appeared" "in this vision." Not quite as bold and declarative as I'd have expected. I mean, that would imply that the [[Second Coming]] already happened, or else that the Second one [[Second Coming#How many times?|isn't actually the second]] appearance.
 
 &nbsp;
 
-Outside of nitpicking the vernacular, why was this proclamation necessary? The illustration "preaching to the choir" comes to mind&mdash; who is for? A grand majority of folks tuning in to listen to this conference do so because they believe that the speakers are divinely inspired and authorized by God&mdash; because of the First Vision. Nelson is assuring believers in the First Vision that the First Vision happened, which means that Nelson is authorized to speak for God. 
+Outside of nitpicking the vernacular, why was this proclamation necessary? The illustration "preaching to the choir" comes to mind. Who is for? A grand majority of folks tuning in to listen to this conference do so because they believe that the speakers are divinely inspired and authorized by God—because of the First Vision. Nelson is assuring believers in the First Vision that the First Vision happened, which means that Nelson is authorized to speak for God. 
 
-If you'd like to postulate that this proclamation is meant for non-members, that's fine, but please&mdash; imagine this kind of proclamation from some other faith. If you were handed a printed proclamation by [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) asserting that the publication of [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)'s *Dianetics* is a key historical event for the world, would you think "*by my troth*, this is all the definitive proof I needed! Sign me up for exorbitantly priced books, *post-haste*!" Or some similar publication from Bob Ciranko of JW's *Watchtower* reminding you that 144,000 individuals will be [[Sealing|sealed]] and "[are chosen](https://web.archive.org/web/20240503230238/https://wol.jw.org/en/wol/d/r1/lp-e/2004647#h=3) from among mankind to rule with Christ in heaven over the coming Paradise earth". 
+If you'd like to postulate that this proclamation is meant for non-members, that's fine, but please— imagine this kind of proclamation from some other faith. If you were handed a printed proclamation by [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) asserting that the publication of [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)'s *Dianetics* is a key historical event for the world, would you think "*by my troth*, this is all the definitive proof I needed! Sign me up for exorbitantly priced books, *post-haste*!" Or some similar publication from Bob Ciranko of JW's *Watchtower* reminding you that 144,000 individuals will be [[Sealing|sealed]] and "[are chosen](https://web.archive.org/web/20240503230238/https://wol.jw.org/en/wol/d/r1/lp-e/2004647#h=3) from among mankind to rule with Christ in heaven over the coming Paradise earth". Having read that in a formal proclamation issued by the upper echelons, would *that* sway your opinion of either group?
 
-In either of these hypothetical scenarios, I might imagine why are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that isn't new information. Most anyone familiar with Mormonism would know superficially about Joseph Smith claiming to have seen God and producing a text after. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet&mdash; find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to baptism, then what was the point of the proclamation?
+In either of these hypothetical scenarios, I might imagine why are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that isn't new information. Most anyone familiar with Mormonism would know superficially about Joseph Smith claiming to have seen God and producing a text afterward. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet— find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to baptism, then what was the point of the proclamation?
 
 &nbsp;
 
@@ -176,9 +174,11 @@ Well, surely if Nelson hadn't used his prophetic mantle to warn us of COVID in 2
 
 Really, though, examine as many of those linked citations as you'd like. Read them and re-read them. Was there any hint, implication, or the mildest suggestion that there's an upcoming public health crisis?
 
+Before you accuse me of being unfair by selecting a quote that wasn't presented over the pulpit, I will direct your attention to [Quentin Cook quoting Nelson's admonition](https://www.churchofjesuschrist.org/study/general-conference/2019/10/25cook?lang=eng&id=p2#p2) to take vitamins.
+
 Former heart surgeon Russel Nelson was clearly called of God amid a pandemic, something that would require education in virology, microbiology, or [public health management](https://www.cdc.gov/public-health-gateway/php/index.html). I guess cardiac surgery is close enough. A non-specific vitamin will safeguard you. No, he won't tell you which one. This prophetic wisdom from November 2018 was all the counsel we needed.
 
-What's that? He wasn't speaking as a prophet in those contexts? Boy, that'd be a real conundrum to find ourselves in&mdash; normally, whenever a prophet says something uncomfortable, we can rationalize that he was *speaking as a man* at that time. But a cardiac surgeon 34 years outside of practice talking about nutritional supplements? That was prophetic, no doubt. You need to stop looking at porn.
+What's that? He wasn't speaking as a prophet in those contexts? Boy, that'd be a real conundrum to find ourselves in— normally, whenever a prophet says something uncomfortable, we can rationalize that he was *speaking as a man* at that time. But a cardiac surgeon 34 years outside of practice talking about nutritional supplements? That was prophetic, no doubt. You need to stop looking at porn.
 
 &nbsp;
 
@@ -200,7 +200,7 @@ If you'd like to draw the connection that at-home scripture study is indicative 
 #### Children and Youth
 > *The Church will discontinue its participation in Scouting on December 31, 2019, and the Personal Progress, Duty to God, and Faith in God programs will be discontinued on that date.*
 
-&mdash; *[Children and Youth Update](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*, 15 July 2019 (*[Archive](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*)
+— *[Children and Youth Update](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*, 15 July 2019 (*[Archive](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*)
 
 &nbsp;
 
@@ -210,9 +210,9 @@ If you'd like to draw the connection that at-home scripture study is indicative 
 > 
 > *...*
 > 
-> *“This effort has been designed especially for you and your generation,” President Nelson tells youth in the video’s introduction. ... "Now the time has come for a new approach, designed to help today’s children and youth throughout the world."*
+> *“This effort has been designed ==especially for you and your generation==,” President Nelson tells youth in the video’s introduction. ... "Now the time has come for a new approach, designed to help today’s children and youth throughout the world."*
 
-&mdash; *[Latter-day Saints Worldwide Introduced to New Program for Children and Youth](https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*, LDS Church Newsroom, 29 September 2019 (*[Archive](https://web.archive.org/web/20191010205738/https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*)
+— *[Latter-day Saints Worldwide Introduced to New Program for Children and Youth](https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*, LDS Church Newsroom, 29 September 2019 (*[Archive](https://web.archive.org/web/20191010205738/https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*)
 
 &nbsp;
 
@@ -224,7 +224,7 @@ Was *Come, Follow Me* inspired and timely in anticipation of at-home study due a
 
 &nbsp;
 
-## Meaningful hypothetical
+### Meaningful hypothetical
 So what would have been a useful message to receive in 2018 or 2019?
 
 &nbsp;
@@ -243,7 +243,7 @@ Would you decide that the only necessary prep work in anticipation of people des
 
 Consider these options:
 
-- Make a strong reminder about the de-emphasized practice of food storage, supplies, emergency preparedness
+- Make a strong reminder about the practice of food storage, supplies, emergency preparedness; de-emphasized in recent years
 - Tell adherents (or the whole world) to get debts and finances in order in anticipation of financial hardship and uncertainty
 - Donate some funds from your $150 billion stock portfolio to provide hospitals with PPE
 - Switch the temple garment manufacturing to produce PPE well in advance

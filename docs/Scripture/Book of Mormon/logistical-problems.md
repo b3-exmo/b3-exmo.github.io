@@ -130,7 +130,7 @@ Take a guess which lists’ animals appear in the Book of Mormon, of ancient Ame
 ### Goats
 > *25 And it came to pass that we did find upon the land of promise, as we journeyed in the wilderness, that there were beasts in the forests of every kind, both the cow and the ox, and the ass and the horse, and ==the goat and the wild goat==, and all manner of wild animals, which were for the use of men. And we did find all manner of ore, both of gold, and of silver, and of copper.*
 
-&mdash; [1 Nephi 18:25](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?id=p25&lang=eng#p25)
+— [1 Nephi 18:25](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?id=p25&lang=eng#p25)
 
 &nbsp;
 
@@ -138,7 +138,7 @@ To differentiate between goats and wild goats carries some implications.
 
 What makes the wild ones different? Are the non-wild ones *domesticated*? By whom? Are domesticated goats standing around, waiting for humanity to drop by?
 
-Nephi is very specific about these creatures, identifying and distinguishing between these two varieties. That isn't problematic&mdash; it's noteworthy when compared to another of the animals listed: *the horse*.
+Nephi is very specific about these creatures, identifying and distinguishing between these two varieties. That isn't problematic— it's noteworthy when compared to another of the animals listed: *the horse*.
 
 &nbsp;
 

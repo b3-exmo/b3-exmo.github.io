@@ -54,7 +54,7 @@ Why then, do we:
 > 
 > *The word does not occur in the [Book of Genesis](https://en.wikipedia.org/wiki/Book_of_Genesis), which mentions only a [talking serpent](https://en.wikipedia.org/wiki/Serpents_in_the_Bible) and does not identify the serpent with any supernatural entity. The first occurrence of the word “satan” in the Hebrew Bible in reference to a supernatural figure comes from [Numbers 22:22](https://mechon-mamre.org/p/pt/pt0422.htm#22), which describes the [Angel of Yahweh](https://en.wikipedia.org/wiki/Angel_of_the_Lord) confronting [Balaam](https://en.wikipedia.org/wiki/Balaam) on his donkey: “Balaam’s departure aroused the wrath of [Elohim](https://en.wikipedia.org/wiki/Elohim), and the Angel of Yahweh stood in the road as a satan against him.” In [2 Samuel 24](https://mechon-mamre.org/p/pt/pt08b24.htm#1), Yahweh sends the “Angel of Yahweh” to inflict a plague against Israel for three days, [killing 70,000 people](https://en.wikipedia.org/wiki/Destroying_angel_(Bible)) as punishment for [David](https://en.wikipedia.org/wiki/David) having taken a census without his approval. [1 Chronicles 21:1](https://mechon-mamre.org/p/pt/pt25a21.htm#1) repeats this story, but replaces the “Angel of Yahweh” with an entity referred to as “a satan”.*
 
-&mdash; *[Satan](https://en.wikipedia.org/wiki/Satan#Hebrew_Bible)*, Hebrew Bible
+— *[Satan](https://en.wikipedia.org/wiki/Satan#Hebrew_Bible)*, Hebrew Bible
 
 &nbsp;
 

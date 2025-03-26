@@ -78,7 +78,7 @@ Before we get much further, let’s also double check [verse 1](https://www.chur
 
 > *Now I, Moroni, write somewhat as seemeth me good; and ==I write unto my brethren, the Lamanites==;*
 
-You, dear reader, in the current year&mdash; do you think you qualify as Moroni’s “brethren, the Lamanites”? Or would you fit better in the category shown in [verse 24](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p24#p24)
+You, dear reader, in the current year— do you think you qualify as Moroni’s “brethren, the Lamanites”? Or would you fit better in the category shown in [verse 24](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p24#p24)
 
 > *And now I speak unto all the ends of the earth…*
 

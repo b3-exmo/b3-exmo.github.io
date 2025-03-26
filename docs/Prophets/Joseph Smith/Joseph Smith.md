@@ -69,7 +69,7 @@ How many other religious leaders get a lynching mob sent after them while they'r
 ## As was foretold...
 > ***33** He called me by name, and said unto me that he was a messenger sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that ==my name should be had for good and evil among all nations==, kindreds, and tongues, or that it should be both good and evil spoken of among all people.*
 
-&mdash; [Joseph Smith - History 1:33](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33)
+— [Joseph Smith - History 1:33](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33)
 
 Joseph Smith's name "shall be had for good and for evil among all nations"? What exactly does that mean? Hasn't Mark Zuckerberg's name also been had for good and evil among all nations? Mussolini? Czar Nicholas III? Michael Jackson? Sam Bankman-Fried? Anyone with a wide reach will have their name for good and evil. Having both fanatic supporters and vitriolic opponents doesn't make Joseph Smith special.
 

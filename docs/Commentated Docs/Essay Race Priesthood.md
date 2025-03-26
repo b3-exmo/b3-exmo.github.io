@@ -88,7 +88,7 @@ As I recall, a big part of why Young led the LDS church all the way to Utah was 
 
 In the [source document](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood?lang=eng&id=p9#p9) for this paragraph, you'll find footnotes 10, 11, and 12. Each of those are citations for contemporary writings, to rationalize this awful idea of religious justification for servitude in the 18th & 19th centuries. What this paragraph does not mention, though, are the scriptural Standard Works accounts that also promulgate this idea. To me, this further weakens the explanation that "Early Utah Mormonism was just as racist as the rest of America in those decades!" *Why are 18th & 19th century views in scriptures, translated from ancient writings?*
 
-Reminding us that "slavery was soon abolished" makes me want to see a timeline for when it was instated, and then abolished. How soon is "soon?" The "restriction on priesthood ordinations remained," so I'm not sure if we should really count this one as a win. *That's the whole premise of this essay*&mdash; justifying why this happened in the first place. 
+Reminding us that "slavery was soon abolished" makes me want to see a timeline for when it was instated, and then abolished. How soon is "soon?" The "restriction on priesthood ordinations remained," so I'm not sure if we should really count this one as a win. *That's the whole premise of this essay*— justifying why this happened in the first place. 
 
 &nbsp;
 
@@ -99,7 +99,7 @@ Reminding us that "slavery was soon abolished" makes me want to see a timeline f
 
 > ... *When one of these men, Elijah Abel, petitioned to receive his temple endowment in 1879, ==his request was denied==. Jane Manning James, a faithful black member who crossed the plains and lived in Salt Lake City until her death in 1908, similarly asked to enter the temple; she was allowed to perform baptisms for the dead for her ancestors but was not allowed to participate in other ordinances. The curse of Cain was often put forward as justification for the priesthood and temple restrictions.* ...
 
-You know what Jane Manning James *did* get permission to do in the temple? Get [sealed to Joseph Smith *as a servant*](https://www.churchofjesuschrist.org/study/history/topics/jane-elizabeth-manning-james?lang=eng&id=p7#p7). Wait, let me re-read that... No, Jane didn't even get to do that herself&mdash; she was fucking sealed for eternity as a "servant" *by proxy* to Joseph Smith after he dies. She didn't even get to be *present* for this ordinance. 
+You know what Jane Manning James *did* get permission to do in the temple? Get [sealed to Joseph Smith *as a servant*](https://www.churchofjesuschrist.org/study/history/topics/jane-elizabeth-manning-james?lang=eng&id=p7#p7). Wait, let me re-read that... No, Jane didn't even get to do that herself— she was fucking sealed for eternity as a "servant" *by proxy* to Joseph Smith after he dies. She didn't even get to be *present* for this ordinance. 
 
 I guess they didn't want to mention that in this essay, but focused on how Jane did get to do baptisms for her ancestors, because, you know, who wouldn't want their ancestors in on this action? "You're going to deny me salvific ordinances because of my race? Hot damn, let me get my grandparents in here, I bet they'd love this sort of thing!"
 

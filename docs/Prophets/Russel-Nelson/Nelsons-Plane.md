@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🛩 Nelson's Plane
-Acknowledgement: Like a few other pages in my notes, this is a re-telling of someone else's research. Most of the information came from [[Sources and Links#RFM / Mormon Discussion Inc.|RFM]], as presented in *[Mormonism Live: Episode 033](https://www.youtube.com/live/fz4iQk1M9l4)* and in Bill Reel's post in the *[/r/exmormon](https://web.archive.org/web/20241127105542/https://www.reddit.com/r/exmormon/comments/opf8cw/breaking_president_nelsons_flight_story_proven_to/)* subreddit. Credit where it's due, though&mdash; part of how I process information is to reframe it in my own words.
+Acknowledgement: Like a few other pages in my notes, this is a re-telling of someone else's research. Most of the information came from [[Sources and Links#RFM / Mormon Discussion Inc.|RFM]], as presented in *[Mormonism Live: Episode 033](https://www.youtube.com/live/fz4iQk1M9l4)* and in Bill Reel's post in the *[/r/exmormon](https://web.archive.org/web/20241127105542/https://www.reddit.com/r/exmormon/comments/opf8cw/breaking_president_nelsons_flight_story_proven_to/)* subreddit. Credit where it's due, though— part of how I process information is to reframe it in my own words.
 
 &nbsp;
 
@@ -27,7 +27,9 @@ There's some variation in details between those accounts, but there are enough c
 
 &nbsp;
 
-Problems arise when this story's details are examined across the above sources, as well as compared to... you know, *reality*. 
+Problems arise when this story's details are examined across the above sources, as well as compared to... you know, *reality*.
+
+By my timeline estimation, this event took place in 1976. At the time, he was filling [the calling of Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15). He shares a dramatic experience of an airplane crash, an ordeal with a remarkably low survival rate, but he survives! Against all odds, God protected this one plane on this one instance to preserve Nelson's life, so that Nelson can later [[Russel-M-Nelson#Vitamins|tell us to take vitamins]]. Fatalities from other airplane crashes just weren't meant to speak in General Conference.
 
 &nbsp;
 
@@ -78,7 +80,7 @@ This story has been shared to an audience in a number of places:
 
 &nbsp;
 
-I count 14 sources here for this story, acknowledging some overlap&mdash; each source is well within the influence of the Church's correlation committee. Some of the video re-tellings are referencing the General Conference talk, as is the Friend Magazine as a more kid-friendly adaptation of this near-death experience (since, you know, children need to hear that kind of thing.)
+I count 14 sources here for this story, acknowledging some overlap— each source is well within the influence of the Church's correlation committee. Some of the video re-tellings are referencing the General Conference talk, as is the Friend Magazine as a more kid-friendly adaptation of this near-death experience (since, you know, children need to hear that kind of thing.)
 
 &nbsp;
 
@@ -124,22 +126,22 @@ In more recent iterations of General Conference, these kinds of anecdotal storie
 > > 
 > > ***(4)*** *==In-flight fire==;*
 > > 
-> > ***(6)*** *Damage to property, other than the aircraft, estimated to exceed $25,000 for repair (including materials and labor) or fair market value in the event of total loss, whichever is less.
-> > *
+> > ***(6)*** *Damage to property, other than the aircraft, estimated to exceed $25,000 for repair (including materials and labor) or fair market value in the event of total loss, whichever is less.*
+> > 
 > > ***(12)*** *Any event in which an operator, when operating an airplane as an air carrier at a public-use airport on land:*
 > > 
 > > > ***(i)*** *Lands or departs on a taxiway, incorrect runway, or ==other area not designed as a runway==*
 
-&mdash; [The Electronic Code of Federal Regulations (eCFR) § 830.5](https://www.ecfr.gov/current/title-49/section-830.5); See also: *[Aeronautical Information Manual, §7-7-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html)*, Federal Aviation Administration; See also: [Cornell Law School, Legal Information Institute](https://www.law.cornell.edu/cfr/text/49/830.5); See also: [Experimental Aircraft Association: Aircraft Accident and Incident Reporting](https://www.eaa.org/eaa/aircraft-building/builderresources/next-steps-after-your-airplane-is-built/operating-articles/incidents-accidents-emergencies/aircraft-accident-and-incident-reporting); See also: [Report an Aircraft Accident to the NTSB](https://www.ntsb.gov/Pages/aviationreport.aspx)
+— *[The Electronic Code of Federal Regulations (eCFR) § 830.5](https://www.ecfr.gov/current/title-49/section-830.5)*; See also: *[Aeronautical Information Manual, §7-7-2](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_7.html)*, Federal Aviation Administration; See also: *[Cornell Law School, Legal Information Institute](https://www.law.cornell.edu/cfr/text/49/830.5)*; See also: *[Experimental Aircraft Association: Aircraft Accident and Incident Reporting](https://www.eaa.org/eaa/aircraft-building/builderresources/next-steps-after-your-airplane-is-built/operating-articles/incidents-accidents-emergencies/aircraft-accident-and-incident-reporting)*; See also: *[Report an Aircraft Accident to the NTSB](https://www.ntsb.gov/Pages/aviationreport.aspx)*
 
-I've ommitted some of the sub-points within these criteria of what necessitates reporting, since they're outside the scope of what I'm examining. If you really want to read more legal docs, there's four source links for your convenience.
+I've ommitted some of the sub-points within these criteria of what necessitates reporting, since they're outside the scope of what I'm examining. If you really want to read more legal docs, there's five source links for your convenience.
 
-My understanding is that American Federal agencies don't have a good sense of humor about this kind of thing. If an aircraft's engine exploded, spreading flaming oil & fuel all over the fuselage, sending the plane into a tailspin, resulting in an emergency crash-landing in a field, *the FAA wants to know about it*. Even if it's a small six-passenger propeller aircraft.
+My understanding is that American federal agencies don't have a good sense of humor about this kind of thing. If an aircraft's engine exploded, spreading flaming oil & fuel all over the fuselage, sending the plane into a tailspin, resulting in an emergency crash-landing in a field, *the FAA wants to know about it*. Even if it's a small six-passenger propeller aircraft.
 
 &nbsp;
 
 ## Published FAA Report
-And so, as it happens, the *Civil Aeronautics Board* has published records of reports. Volume 73 of these published reports describe an incident *very* similar to the broad description provided by Nelson's accounts of his near-death experience.
+And so, as it happens, the *Civil Aeronautics Board* has published records of reports. Volume 73 of these published reports describe an incident *suspiciously similar* to the broad description provided by Nelson's accounts of his near-death experience.
 
 &nbsp;
 
@@ -153,13 +155,13 @@ And so, as it happens, the *Civil Aeronautics Board* has published records of re
 > 
 > *Second incident occurred ==Nov. 11, 1976== involving Piper PA 31 N74985. Pilot experienced rough engine on scheduled flight between Salt Lake City and St. George. 3 passengers on board. Engine was feathered and ==precautionary landing== made at Delta, Utah, per instructions in company manual. ... ==No damage to aircraft==. No injuries to crew or passengers.*
 
-&mdash; *[Civil Aeronautics Board Reports, Volume 73](https://www.google.com/books/edition/_/wNa3AAAAIAAJ?hl=en&gbpv=1&pg=PA1090)*, United States. Civil Aeronautics Board · 1977
+— *[Civil Aeronautics Board Reports, Volume 73](https://www.google.com/books/edition/_/wNa3AAAAIAAJ?hl=en&gbpv=1&pg=PA1090)*, United States. Civil Aeronautics Board · 1977
 
 &nbsp;
 
-I would describe engine feathering as twisting the propeller blades on their respective axes. If one engine is inoperable, doing this reduces drag so that the plane doesn't yaw, dragging it off course. Here's a link to a [description and illustration](https://aeropeep.com/what-is-the-difference-between-feathering-and-not-feathering-a-propeller-on-an-airplane/).
+I would describe engine feathering as twisting the propeller blades on their respective axes. Feathering an inoperable engine reduces drag so that the plane doesn't yaw, dragging it off course, as well as reducing unnecessary stress on the blades. Here's a link to a [description and illustration](https://aeropeep.com/what-is-the-difference-between-feathering-and-not-feathering-a-propeller-on-an-airplane/).
 
-A *precautionary landing* happens when "further flight is possible but inadvisable," and "are often made at an aerodrome although this is not always the case. Sometimes landing in a field (and accepting there will be damage to the aircraft) is preferable to trying to reach an aerodrome (and risk to be forced to land on worse terrain)." 
+A *precautionary landing* happens when "further flight is ==possible but inadvisable==," and "are often made at an aerodrome although this is not always the case. Sometimes landing in a field (and accepting there will be damage to the aircraft) is preferable to trying to reach an aerodrome (and risk to be forced to land on worse terrain)." 
 
 This is in contrast to a *forced landing*, "where an aircraft unavoidably needs to land, usually regardless of terrain. A typical example of this is an airplane forced down by fuel exhaustion or failure of all engines." ([1](https://en.wikipedia.org/wiki/Emergency_landing), [2](https://www.aopa.org/training-and-safety/students/flighttestprep/skills/emergency-landings), [3](https://simpleflying.com/emergency-landings-differences-guide/), [4](https://skybrary.aero/articles/emergency-landing-guidance-controllers)) 
 
@@ -170,17 +172,17 @@ What I read Nelson describe is a *forced landing* "in a farmer's field" after an
 &nbsp;
 
 ## Discrepancies
-Other discrepancies I would call auxiliary to the core of this story. Nelson said November 12, the report said November 11; I think that's close enough. 
+Other discrepancies I would call auxiliary to the core of this story. Nelson said November 12, the report said November 11; I think that's close enough.
 
 Some of Nelson's accounts have variation on how many passengers were in the plane, and the report said 3. The number of passengers isn't really the point, so I don't think that is really worth emphasizing.
 
 In most accounts, the pilot "turns on the other engine." I don't know enough about propeller airplanes to know why was the functional engine turned off. Maybe it was deactivated during their spiraling descent?
 
-Nelson describes this event happening at approximately half way between SLC and St. George. Delta, UT is kinda-sorta in between them&mdash; by my estimation using online mapping tools, Delta is 134 miles from SLC and 167 miles from SGU. This straight-line path is more direct than [traveling by highway](https://www.google.com/maps/dir/Salt+Lake+City,+UT,+USA/Delta,+UT,+USA/St.+George,+UT,+USA). If traveling south, I could imagine an engine failure at the half-way point causing a pilot to estimate that Delta is the closest aerodrome, even if it means turning around.
+Nelson describes this event happening at approximately half way between SLC and St. George. Delta, UT is kinda-sorta in between them— by my estimation using online mapping tools, Delta is 134 miles from SLC and 167 miles from SGU. This straight-line path is more direct than [traveling by highway](https://www.google.com/maps/dir/Salt+Lake+City,+UT,+USA/Delta,+UT,+USA/St.+George,+UT,+USA). If traveling south, I could imagine an engine failure at the half-way point causing a pilot to estimate that Delta is the closest aerodrome, even if it means turning around.
 
 &nbsp;
 
-I feel satisfied that I've demonstrated that incidents mid-flight must be reported to the FAA. I feel satisfied that I've found a report that closely matches some of the key details of Nelson's story: the date & location, and some mechanical failure. We're left with the discrepancy between a fiery explosion leading to an emergency landing in a field, and a mechanical hiccup that led to a safe precautionary landing in Delta, UT. Given the plane's lack of damage, I feel that it's safe to assume that the plane landed on a proper airstrip.
+I feel satisfied that I've demonstrated that incidents mid-flight must be reported to the FAA. I feel satisfied that I've found a report that closely matches some of the key details of Nelson's story: the date & location, and some mechanical failure. We're left with the discrepancy between a fiery explosion leading to an emergency landing in a field, and a mechanical hiccup that led to a safe precautionary landing somewhere (presumably safe) in Delta, UT. Given the plane's lack of reported damage, I feel that it's safe to assume that the plane landed on a proper airstrip.
 
 So... it appears to me that we have a *lot* of dramatic flair added to this story:
 
@@ -188,16 +190,16 @@ So... it appears to me that we have a *lot* of dramatic flair added to this stor
 - The fuselage was not covered in flaming oil nor fuel
 - The plane did not crash-land in a field
 
-*Each of those factors individually* would necessitate an FAA / NTSB report. A combination of those factors would certainly draw public attention&mdash; what about the farmer whose field was ruined by a burnt plane's impact zone? Did this farmer receive up to $25,000 as outlined in the FAA's guidelines for a forced landing in an "other area not designed as a runway?" 
+*Each of those factors individually* would necessitate an FAA / NTSB report. A combination of those factors would certainly draw public attention— what about the farmer whose field was ruined by a burnt plane's impact zone? Did this farmer receive up to $25,000 as outlined in the FAA's guidelines for a forced landing in an "other area not designed as a runway?" 
 
 &nbsp;
 
 ## Local Impact
-Delta, UT's population rose from 1,610 to 1,930 between 1970 and 1980 census. I guess I could assume that the town's population of `1610+((1930-1610)*.6) = 1802` found this incident uninteresting? I've lived in small towns before. Even if an airplane crashed into a farmer's field from the next town over, that would be the only thing the town would be known for during the next ten years.
+Delta, UT's population rose from 1,610 to 1,930 between 1970 and 1980 census. I guess I could assume that the town's population in 1976 of `1610+(1930-1610)*.6 = 1802` found this incident to be uninteresting? I've lived in small towns before. Even if an airplane crashed into a farmer's field from the *next town over*, that would be the only thing the town would be known for during the next ten years.
 
 I guess the only way for me, today in 2025, to know if any of those ~1800 people thought that a burning plane crashing into their neighbor's field is newsworthy is to check their newspaper. What I've found is Millard County's paper, *Fillmore Progress*, which county includes the town of Delta.
 
-So, unless [Utah's Digital Newspapers](https://digitalnewspapers.org/) archive is being controlled by Satan himself to make sure nobody finds information that contradicts what Russell tells us, I should expect to see *anything other than* high school football teams and insurance advertisements. You know, maybe a headline like "*flaming airplane destroys this guy's farm&mdash; Mormon Sunday School President onboard, no injuries reported*."
+So, unless [Utah's Digital Newspapers](https://digitalnewspapers.org/) archive is being controlled by [[Satan|Satan himself]] to make sure nobody finds information that contradicts what Russell tells us, I should expect to see *anything other than* high school football teams and insurance advertisements. You know, maybe a headline like "*flaming airplane destroys Leroy's farm— Mormon Sunday School President onboard, no injuries reported*."
 
 What do we find instead? [Funeral services for the former mayor](https://newspapers.lib.utah.edu/details?id=27931194). This guy can [help you reupholster your couch](https://newspapers.lib.utah.edu/details?id=27931196). [Mrs. Stella Day had knee surgery](https://newspapers.lib.utah.edu/details?id=27931202). holy shit you guys [Santa's coming to the mall next week](https://newspapers.lib.utah.edu/details?id=27931212)! On the same page as the mayor's passing is "*Millard Eagles defeated the Delta Rabbits and earned a spot in the State Finals*"! ... What's that? An airplane crashing in Craig's farm? I mean, we *could* talk about that, or we could talk about [teachers getting a 9% pay raise](https://newspapers.lib.utah.edu/details?id=27931213).
 
@@ -206,11 +208,13 @@ Huh. Maybe they just made a precautionary landing in [Delta Municipal Airport](h
 &nbsp;
 
 ## What actually happened, then?
-I wasn't ~~alive~~ there for it.
+I mean, it wasn't *all* a lie&mdash; there was an airplane, after all.
 
-Were I to offer conjecture, I would say that Nelson was one of a small number of passengers flying from SLC to SGU, and an engine failed resulting in some startling turbulence. The pilot took the appropriate steps to minimize risks and made a precautionary landing in Delta well before the plane was in critical danger.
+&nbsp;
 
-An engine failing probably shook the small plane, which would be upsetting and frightening to a passenger. Nelson likely saw another passenger panicking, and ruminated on the experience after the fact&mdash; considering that "if we really were all spiraling toward death, I'd feel alright with my conscience and moral standing." And since no one else present would corroborate what happened... that engine just fucken *blew up* and there was flaming oil and smoke everywhere and we were definitely in a tailspin, it really donked up this farmer's field after we crash-landed. That lady over there was freaking out, but I was really chill and definitely not at all worried or scared.
+Really, though, I wasn't ~~alive~~ present. Were I to speculate, I would say that Nelson was one of a small number of passengers flying from SLC to SGU, and an engine failed resulting in some startling turbulence. The pilot took the appropriate steps to minimize risks and made a precautionary landing in Delta well before the plane was in critical danger.
+
+An engine failing probably shook the small plane, which would be upsetting and frightening to any passenger. Nelson likely saw another passenger panicking, and ruminated on the experience after the fact— considering that "if we really were all spiraling toward death, I'd feel alright with my conscience and moral standing." And since no one else present would corroborate what happened... that engine just fucken *blew up* and there was flaming oil and smoke everywhere and we were definitely in a tailspin, it really donked up this farmer's field after we crash-landed. That lady over there was freaking out, but I was really chill and definitely not at all worried or scared.
 
 &nbsp;
 
@@ -218,6 +222,19 @@ If you want to make the argument that Nelson's crashing plane was actually just 
 
 &nbsp;
 
+### Mythology
+Assuming this story is heavily embellished&mdash;and all I can really offer is speculation&mdash;I'd call our attention back to an earlier section in these notes: *what was the point of this story*, assuming it was all true? Are we meant to keep our composure in the face of certain death, as Nelson had, because we understand Christ's atonement? Are we meant to always be conscientious of our worthiness and moral standing before God's judgment? Was the story meant to underscore how the "real" achievements in life are contingent upon temple ordinances, therefore we should set our sights there? ... All of the above?
+
+&nbsp;
+
+Under close examination, this story seems to have been reduced from "inevitable chaotic death" to "oh whoops, one of my engines stopped, we better land in that airport behind us in case things get out of hand." Is that bad? If the pretense of the story is impending doom, and that pretense does not hold up under scrutiny, is the message diminished? If our narrator was not in danger, was danger the catalyst for his introspection?
+
+I'll approach this question from another angle: I could describe to you a near-death experience where I was an accosted by a [laser-shooting dinosaur](https://youtu.be/CRIwJRutl4Q?si=mDi5UWqY3GAVk9YN&t=20), narrowly escaping with my life, but it really made me think about how important identity theft protection is. The "moral" of this hypothetical, fabricated story is good advice, even if the context is nonsense.
+
+Therein lies the value that I see in [[True#Mythology|mythology]]. I've got some notes on it in that link, but the take-home message is that fiction can still have value— truthfulness is not a precondition for value. Was this story of Nelson surviving a flame-engulfed plane crashing into a field all a myth? If it was intended to be presented as myth, it could still hold value. But instead it is presented as objective truth that falls apart under scrutiny, and so I will argue that its value is tarnished.
+
+&nbsp;
+
 ## Extra reading:
-- [Piper PA-31 Navajo](https://en.wikipedia.org/wiki/Piper_PA-31_Navajo), Wikipedia &mdash; The plane in question
-- [Investigating Old "Incident"](https://www.pilotsofamerica.com/community/threads/investigating-old-incident.133551/), Pilots of America forum &mdash; looks to be a forum where aeronautics enthusiasts & hobbyists connect over their shared interest. In 2021, a new user comes in to present Nelson's story for a smell-check from folks with more experience and knowledge, to see if it sticks out as suspicious to them. Verdict seems to be "yeah, it's plausible, but probably embellished."
+- [Piper PA-31 Navajo](https://en.wikipedia.org/wiki/Piper_PA-31_Navajo), Wikipedia — The plane in question
+- [Investigating Old "Incident"](https://www.pilotsofamerica.com/community/threads/investigating-old-incident.133551/), Pilots of America forum — looks to be a forum where aeronautics enthusiasts & hobbyists connect over their shared interest. In 2021, a new user comes in to present Nelson's story for a smell-check from folks with more experience and knowledge, to see if it sticks out as suspicious to them. Verdict seems to be "yeah, it's plausible, but probably embellished."

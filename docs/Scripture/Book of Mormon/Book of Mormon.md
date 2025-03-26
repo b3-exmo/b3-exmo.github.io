@@ -237,7 +237,7 @@ I have more [[Bible#Joseph Smith Translation|notes on JST]], if you're intereste
 
 > *Raca is an Aramaic and Greek word that suggests contempt. It can also mean “imbecile, fool, or empty-headed person.”*
 
-&mdash; *[New Testament Seminary Student Manual, Matthew 5:17-47](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/matthew-5-17-47?lang=eng&id=title9-p58#title9)*
+— *[New Testament Seminary Student Manual, Matthew 5:17-47](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-student-manual-2023/matthew-5-17-47?lang=eng&id=title9-p58#title9)*
 
 &nbsp;
 
@@ -245,7 +245,7 @@ I have more [[Bible#Joseph Smith Translation|notes on JST]], if you're intereste
 
 That verse in 3 Nephi is *copied* from the KJV of the New Testament. It was not written as such on any Hebrew or Reformed Egyptian plates.
 
-Worse yet is the reference to ‘council,’ a reference to the Jewish Councils governing offenses in Jerusalem&mdash; specifically the Sanhedrin. *There was no Sanhedrin* among the Nephites or in the New World&mdash; if anything, Sanhedrin would be an old oral legend, being 600 years displaced from when Lehi left Jerusalem where Sanhedrin held any relevance. The BoM outlines multiple overhauls to governance and justiciary. There’s no way a Nephite in the New World would call their brother “Raca” and after having done so, be subject to the punishment of the Sanhedrin.
+Worse yet is the reference to ‘council,’ a reference to the Jewish Councils governing offenses in Jerusalem— specifically the Sanhedrin. *There was no Sanhedrin* among the Nephites or in the New World— if anything, Sanhedrin would be an old oral legend, being 600 years displaced from when Lehi left Jerusalem where Sanhedrin held any relevance. The BoM outlines multiple overhauls to governance and justiciary. There’s no way a Nephite in the New World would call their brother “Raca” and after having done so, be subject to the punishment of the Sanhedrin.
 
 **This passage would be absolutely meaningless to the Nephites.** Being meaningless, they probably wouldn’t have written it down. ... But they did, so goes the lore behind the scripture. They didn't write down information relevant to their contemporaries, nor to us, but they wrote down a direct copy of what the KJV New Testament reads.
 
