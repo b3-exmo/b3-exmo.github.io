@@ -55,13 +55,13 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 
 > *The faith that motivated the pioneers of 1847 as well as pioneers in other lands was a simple faith centered in the basic doctrines of the restored gospel, which they knew to be true. That’s all that mattered to them, and I believe that is all that should matter to us. ... We need to know that \[God & Jesus\] ==restored the Church to the earth in its fulness== through the Prophet Joseph Smith.*
 
-&mdash; *[“You Have Nothing to Fear from the Journey”](https://www.churchofjesuschrist.org/study/general-conference/1997/04/you-have-nothing-to-fear-from-the-journey?lang=eng&id=p12-p13#p12)*, Elder M. Russell Ballard, General Conference April 1997
+— *[“You Have Nothing to Fear from the Journey”](https://www.churchofjesuschrist.org/study/general-conference/1997/04/you-have-nothing-to-fear-from-the-journey?lang=eng&id=p12-p13#p12)*, Elder M. Russell Ballard, General Conference April 1997
 
 &nbsp;
 
 > *As members of His Church, we witness He lives and ==His Church has been restored in its fulness== in these latter days.*
 
-&mdash; *[Come and See](https://www.churchofjesuschrist.org/study/general-conference/2014/10/come-and-see?lang=eng&id=p40#p40)*, Elder David A. Bednar, General Conference October 2014
+— *[Come and See](https://www.churchofjesuschrist.org/study/general-conference/2014/10/come-and-see?lang=eng&id=p40#p40)*, Elder David A. Bednar, General Conference October 2014
 
 &nbsp;
 
@@ -83,7 +83,7 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 
 > *And when the times of the Gentiles is come in, a light shall break forth among them that sit in darkness, and it shall be ==the fulness of my gospel==;*
 
-&mdash; *[D&C 45:28](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=28#p28)*, amid other signs of the [[Second Coming]]
+— *[D&C 45:28](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=28#p28)*, amid other signs of the [[Second Coming]]
 
 If this sign has been fulfilled, we have the fulness of the gospel already. If it has not been fulfilled, we're not in the latter days.
 
@@ -128,7 +128,7 @@ Assuming there *was* a church during Jesus' ministry, is that what's being resto
 
 > *These are a few of the infallible signs of the true Church. But there are others. ==The Church of today must be of modern origin==. Does that surprise you? ==Not an ancient church, but of modern origin==. That is a vital sign of identification of the true church.*
 
-&mdash; *[Signs of the True Church](https://www.churchofjesuschrist.org/study/general-conference/1979/04/signs-of-the-true-church?lang=eng&id=p46#p46)*, Elder Mark E. Petersen, Council of the Twelve, General Conference 1979 April
+— *[Signs of the True Church](https://www.churchofjesuschrist.org/study/general-conference/1979/04/signs-of-the-true-church?lang=eng&id=p46#p46)*, Elder Mark E. Petersen, Council of the Twelve, General Conference 1979 April
 
 Hold on now, what? You follow that link and tell me if I missed some crucial piece of context.
 

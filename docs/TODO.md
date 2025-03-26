@@ -42,6 +42,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 - [ ] Cults
 - [ ] Culture
 	- [x] Don't look elsewhere for info / Approved Sources
+	- [ ] Minimizing / "So-Called"
 	- [x] Repudiating the Journal of Discourses
 	- [ ] Persecution Complex
 	- [ ] Prosperity Gospel

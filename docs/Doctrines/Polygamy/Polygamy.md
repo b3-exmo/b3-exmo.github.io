@@ -55,7 +55,7 @@ Since I find this argument to be nonsense, I do have a separate page of notes on
 
 > *Latter-day Saints do not understand all of God’s purposes in instituting, through His prophets, the practice of plural marriage. ==The Book of Mormon identifies one reason for God to command it: to increase the number of children born in the gospel covenant in order to “raise up seed unto [the Lord].”==*
 
-&mdash; *[Plural Marriage in The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-the-church-of-jesus-christ-of-latter-day-saints?id=p2&lang=eng#p2)*
+— *[Plural Marriage in The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-the-church-of-jesus-christ-of-latter-day-saints?id=p2&lang=eng#p2)*
 
 Not sure how much more clear we can be. 
 
@@ -71,9 +71,9 @@ I guess hot water is bad, though, because you might get tempted to roast and gri
 &nbsp;
 
 ### Adam's time
-If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. As described above, Brigham Young did teach this. To date, I haven't encountered anyone else make this claim&mdash; I would think that if it were plain and obvious, biblical scholars would agree that Adam was polygamous. That detail was omitted from Genesis, Pearl of Great Price, and from temple ceremonies. It would be a pretty convincing precedent to be [[Restoration|restored]].
+If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. As described above, Brigham Young did teach this. To date, I haven't encountered anyone else make this claim— I would think that if it were plain and obvious, biblical scholars would agree that Adam was polygamous. That detail was omitted from Genesis, Pearl of Great Price, and from temple ceremonies. It would be a pretty convincing precedent to be [[Restoration|restored]].
 
-It's enough to make me think that maybe an adulterous, extramarital affair being called a "[[Sealing|sealing]]" to divert scrutiny was just that&mdash; adultery and diversion.
+It's enough to make me think that maybe an adulterous, extramarital affair being called a "[[Sealing|sealing]]" to divert scrutiny was just that— adultery and diversion.
 
 &nbsp;
 

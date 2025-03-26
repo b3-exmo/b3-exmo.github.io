@@ -2,7 +2,7 @@
 comments: true
 ---
 # 📜 Book of Abraham
-The church does have a [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&old=true) about this. My notes here are fairly short, because... that essay makes this book of scripture lose all credibility after only a few paragraphs. No part of it holds water. I'll comment on only a few parts&mdash; delving into the whole thing would be redundant, these quoted excerpts are enough to make my point.
+The church does have a [Gospel Topics Essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&old=true) about this. My notes here are fairly short, because... that essay makes this book of scripture lose all credibility after only a few paragraphs. No part of it holds water. I'll comment on only a few parts— delving into the whole thing would be redundant, these quoted excerpts are enough to make my point.
 
 &nbsp;
 

@@ -141,7 +141,7 @@ Ok. Sure thing, buddy.
 
 &nbsp;
 
-Imagine the creator and governor of the entire known universe, whose creations extend well beyond our mortal comprehension&mdash; "[worlds without number](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?id=p33-p38&lang=eng#p33) have I created," as revealed to a prophet.
+Imagine the creator and governor of the entire known universe, whose creations extend well beyond our mortal comprehension— "[worlds without number](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?id=p33-p38&lang=eng#p33) have I created," as revealed to a prophet.
 
 Now imagine that same God just getting *so upset and angry* because you called yourself a Mormon.
 
@@ -228,7 +228,7 @@ I found a 1979 Ensign article about this:
 > 
 > ... *Since Paul and Peter used the Greek word* saint *(“a holy person”) to refer to believers in Christ, the term Latter-day Saints implied that Church members were modern followers of Christ. Thus it also asserted the claim of restoration.*
 
-&mdash; [What changes have been made in the name of the Church?](https://www.churchofjesuschrist.org/study/ensign/1979/01/i-have-a-question/what-changes-have-been-made-in-the-name-of-the-church-its-full-designation-does-not-appear-in-the-revelations-until-1838-d-and-c-115-4?id=p3&lang=eng#p3)
+— [What changes have been made in the name of the Church?](https://www.churchofjesuschrist.org/study/ensign/1979/01/i-have-a-question/what-changes-have-been-made-in-the-name-of-the-church-its-full-designation-does-not-appear-in-the-revelations-until-1838-d-and-c-115-4?id=p3&lang=eng#p3)
 
 Oh.
 

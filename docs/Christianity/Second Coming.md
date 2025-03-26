@@ -9,7 +9,7 @@ The apostle Paul was pretty sure that Jesus was coming back any minute now... ba
 ## Old Testament
 > ... *The new birth is mentioned in the Bible nine times; baptism is mentioned 52 times, repentance is mentioned 89, but ==the second coming of Christ is mentioned over 1,500 times in the Old Testament== and 300 times in the New Testament. If God thought this subject that important, he must have wanted us to do something about it[.]”*
 
-&mdash; Quote attributed to *Sterling W. Sill, in Conference Report, Apr. 1966, 19*; copied from *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p22#p22), Doctrines of the Gospel Student Manual*
+— Quote attributed to *Sterling W. Sill, in Conference Report, Apr. 1966, 19*; copied from *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p22#p22), Doctrines of the Gospel Student Manual*
 
 I am so baffled as to why Old Testament prophets were advised at all of Jesus' second coming, when at that age, Jesus hadn't arrived for the first time yet. Jesus' prophesied birth would be well outside the lifespan of anyone to hear an Old Testament prophet talk about it. So, let's tell God's followers about the *second* time He'll come by, at a minimum of 2,024 years after the event you won't live to see! How is that relevant to *anyone* in those times? Isn't a prophet meant to communicate God's will to living contemporaries? If the value proposition of a prophet is timely guidance, we shouldn't have any Old Testament prophets talking about you and me today. If we do, that makes modern prophets irrelevant.
 
@@ -17,7 +17,7 @@ God seems to be revealing ambiguous information to His chosen prophets, and then
 
 &nbsp;
 
-Really, though&mdash; if God wanted Old Testament prophets to hype up Jesus' *Second Coming*, don't you think God would be more proactive in [[Bible#Imperfect translation|preserving those documented prophecies]] for our modern day? No? The Bible is sometimes mistranslated, due to wicked mens' agency? Isn't a central tenant of Mormonism that people [won't be punished](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p2#p2) for their ancestors' misdoings?
+Really, though— if God wanted Old Testament prophets to hype up Jesus' *Second Coming*, don't you think God would be more proactive in [[Bible#Imperfect translation|preserving those documented prophecies]] for our modern day? No? The Bible is sometimes mistranslated, due to wicked mens' agency? Isn't a central tenant of Mormonism that people [won't be punished](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p2#p2) for their ancestors' misdoings?
 
 I recall reading about contemporaries in ancient Jerusalem refusing to believe that Jesus was the Messiah during His ministry, because His humble origins didn't line up with the Old Testament prophecies about the *second* coming. I don't recall if it was Sadducees or Pharisees, but... perhaps that misunderstanding could have been avoided altogether if prophets of old hadn't skipped ahead 3,000 years? If those prophets were simply to be a mouthpiece for God, relaying divine information, then I would attribute that misunderstanding to God telling us feeble-minded mortals the wrong thing at the wrong time. What the hell, God?
 
@@ -65,29 +65,29 @@ Nevermind, we won't settle on a date, but it's *really* going to happen, and it'
 
 > *Jesus Christ’s ascension into heaven before the eyes of his disciples was accompanied by the promise that in like manner he would come again. ==The second coming of Jesus Christ is nigh at hand==, as the signs of the Second Coming are being fulfilled this very day.*
 
-&mdash; *[“What Think Ye of Christ?” “Whom Say Ye That I Am?”](https://www.churchofjesuschrist.org/study/general-conference/1979/04/what-think-ye-of-christ-whom-say-ye-that-i-am?lang=eng&id=p40#p40)*, Elder Robert D. Hales, First Quorum of the Seventy, General Conference 1979 April; see also Hales use this exact verbiage [again in 1994](https://www.churchofjesuschrist.org/study/general-conference/1994/04/the-unique-message-of-jesus-christ?lang=eng&id=p25#p25) as an Apostle
+— *[“What Think Ye of Christ?” “Whom Say Ye That I Am?”](https://www.churchofjesuschrist.org/study/general-conference/1979/04/what-think-ye-of-christ-whom-say-ye-that-i-am?lang=eng&id=p40#p40)*, Elder Robert D. Hales, First Quorum of the Seventy, General Conference 1979 April; see also Hales use this exact verbiage [again in 1994](https://www.churchofjesuschrist.org/study/general-conference/1994/04/the-unique-message-of-jesus-christ?lang=eng&id=p25#p25) as an Apostle
 
 &nbsp;
 
 > *Our message to the world, which we have been proclaiming for more than 140 years, is that God lives and that Jesus was and is the living Christ; that the heavens have been opened to man; that the Father and the Son have appeared in this dispensation; that the plan of life and salvation has been restored; that ==the time of the Savior’s second coming is near at hand==; that the Lord, through his church, is preparing the way for that appearance; and that the only way in which peace can come to the earth is through obedience to the restored teachings of Jesus Christ.*
 
-&mdash; [The Living Christ](https://www.churchofjesuschrist.org/study/general-conference/1971/10/the-living-christ?lang=eng&id=p43#p43), Elder Joseph Anderson, Assistant to the Council of the Twelve, General Conference 1971 October
+— [The Living Christ](https://www.churchofjesuschrist.org/study/general-conference/1971/10/the-living-christ?lang=eng&id=p43#p43), Elder Joseph Anderson, Assistant to the Council of the Twelve, General Conference 1971 October
 
 &nbsp;
 
 > *My dear brothers and sisters, ==in a coming day, Jesus Christ will return to the earth as the millennial Messiah==. So today I call upon you to rededicate your lives to Jesus Christ. I call upon you to help gather scattered Israel and to prepare the world for the Second Coming of the Lord. I call upon you to talk of Christ, testify of Christ, have faith in Christ, and rejoice in Christ!*
 
-&mdash; *[The Lord Jesus Christ Will Come Again](https://www.churchofjesuschrist.org/study/general-conference/2024/10/57nelson?lang=eng&id=p_paXFQ#p_paXFQ)*, President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints, General Conference 2024 October
+— *[The Lord Jesus Christ Will Come Again](https://www.churchofjesuschrist.org/study/general-conference/2024/10/57nelson?lang=eng&id=p_paXFQ#p_paXFQ)*, President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints, General Conference 2024 October
 
 &nbsp;
 
 > ... *the Spirit made clear to me that The Church of Jesus Christ of Latter-day Saints is uniquely empowered and commissioned to accomplish the necessary ==preparations for the Lord’s Second Coming==; indeed, ==it was restored for that purpose==.*
 
-&mdash; *[Preparing for the Lord's Return](https://www.churchofjesuschrist.org/study/general-conference/2019/04/44christofferson?lang=eng&id=p15#p15)*, Elder D. Todd Christofferson of the Quorum of the Twelve Apostles, General Conference 2019 April
+— *[Preparing for the Lord's Return](https://www.churchofjesuschrist.org/study/general-conference/2019/04/44christofferson?lang=eng&id=p15#p15)*, Elder D. Todd Christofferson of the Quorum of the Twelve Apostles, General Conference 2019 April
 
 &nbsp;
 
-There are way too many examples to draw from without bloating this page of notes. Here's an [internal search](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=second+coming) and an [external search](https://duckduckgo.com/?q=site%3Achurchofjesuschrist.org%2Fstudy%2Fgeneral-conference+%22second+coming%22). Church leadership has demonstrated that they believe this is a topic worth discussing, even when there has been no new information for 190 years. It'll be *any minute* now. See, look, there are wars and rumors of wars. There was an earthquake. We're in the *latter days*&mdash; it's in our name, after all. President Nelson uttered the words "in a coming day," which phrasing is just the right level of vague. Could be tomorrow, could be in the year 4096. Both outcomes are "in a coming day." No other church leader has uttered [that combination of words](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22in+a+coming+day%22) before, so it must be prophetic! Now *get your ass to the temple*!
+There are way too many examples to draw from without bloating this page of notes. Here's an [internal search](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=second+coming) and an [external search](https://duckduckgo.com/?q=site%3Achurchofjesuschrist.org%2Fstudy%2Fgeneral-conference+%22second+coming%22). Church leadership has demonstrated that they believe this is a topic worth discussing, even when there has been no new information for 190 years. It'll be *any minute* now. See, look, there are wars and rumors of wars. There was an earthquake. We're in the *latter days*— it's in our name, after all. President Nelson uttered the words "in a coming day," which phrasing is just the right level of vague. Could be tomorrow, could be in the year 4096. Both outcomes are "in a coming day." No other church leader has uttered [that combination of words](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22in+a+coming+day%22) before, so it must be prophetic! Now *get your ass to the temple*!
 
 &nbsp;
 
@@ -96,7 +96,7 @@ There are way too many examples to draw from without bloating this page of notes
 > 
 > *For many shall come in my name, saying—I am Christ—and shall deceive many;*
 
-&mdash; *[Joseph Smith — Matthew 1:5-6](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-m/1?lang=eng&id=p5-p6#p5)*
+— *[Joseph Smith — Matthew 1:5-6](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-m/1?lang=eng&id=p5-p6#p5)*
 
 Bold of you, the church claiming to represent Christ, to accuse others of saying they misrepresent Christ.
 
@@ -114,7 +114,7 @@ One of my go-to responses for the "signs of the times" to validate prophetic wor
 
 > *Many of these signs are being fulfilled. Wickedness is everywhere. ==Nations are constantly at war==. Earthquakes and other calamities are occurring. Many people now suffer from devastating ==storms, drought, hunger, and diseases==. We can be certain that these calamities will become more severe before the Lord comes.*
 
-&mdash; *[Chapter 43: Signs of the Second Coming](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-43-signs-of-the-second-coming?id=p5,p7&lang=eng#p5)*
+— *[Chapter 43: Signs of the Second Coming](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-43-signs-of-the-second-coming?id=p5,p7&lang=eng#p5)*
 
 There will be earthquakes and thunder? *Holy shit*, what a novel development. There had never been earthquakes nor thunderstorms prior to this prophecy's delivery, and each subsequent lightning strike or influenza outbreak surely must have a deeper meaning now. Truly prophetic.
 
@@ -124,13 +124,13 @@ There will be wars and rumors of wars? Please, tell me of a time in recorded his
 
 > *==We live, brothers and sisters, in the days preceding the Lord’s Second Coming==, a time long anticipated by believers through the ages. ==We live in days of wars and rumors of wars==, days of natural disasters, days when the world is pulled by confusion and commotion.*
 
-&mdash; *[Thy Kingdom Come](https://www.churchofjesuschrist.org/study/general-conference/2015/04/thy-kingdom-come?lang=eng&id=p10#p10)*, Elder Neil L. Andersen, Quorum of the Twelve Apostles, General Conference 2015 April
+— *[Thy Kingdom Come](https://www.churchofjesuschrist.org/study/general-conference/2015/04/thy-kingdom-come?lang=eng&id=p10#p10)*, Elder Neil L. Andersen, Quorum of the Twelve Apostles, General Conference 2015 April
 
 &nbsp;
 
 > *Remember that the fulness of Christ’s ministry lies in the future. ==The prophecies of His Second Coming have yet to be fulfilled==. We are just building up to the climax of this last dispensation—when the Savior’s Second Coming becomes a reality.*
 
-&mdash; *[The Future of the Church: Preparing the World for the Savior’s Second Coming](https://www.churchofjesuschrist.org/study/ensign/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&id=p6#p6)*, President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints, General Conference April 2020
+— *[The Future of the Church: Preparing the World for the Savior’s Second Coming](https://www.churchofjesuschrist.org/study/ensign/2020/04/the-future-of-the-church-preparing-the-world-for-the-saviors-second-coming?lang=eng&id=p6#p6)*, President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints, General Conference April 2020
 
 Is there a difference between *signs* of the second coming, and *prophecies* of the second coming? 
 
@@ -138,13 +138,13 @@ Is there a difference between *signs* of the second coming, and *prophecies* of 
 
 If [these signs](https://www.churchofjesuschrist.org/study/general-conference/2004/04/preparation-for-the-second-coming?lang=eng&id=p8-p18#p8) are critical to God's purposes, God's grand scheme and plan, would it be too bold of me to say that He did kind of a shit job of selecting what signs for us to watch for? "You'll know Jesus is coming soon when things are *exactly as they have been* for centuries."
 
-Being "certain that these calamities will become more severe before the Lord comes" sounds like it could be interpreted as a reinforcement that climate change isn't real, but Jesus' promise of "any minute now" is a more reliable explanation. "There will be wars. People will be *mean to each other.* All things shall be in commotion." I'm not being snarky, this is not rhetorical: what am I supposed to do with this information? When have these things *not* been true? Buy that huge SUV, subsist on beef&mdash; you deserve it because Jesus is coming to fix the world, absolving us of any and all responsibility for His creations.
+Being "certain that these calamities will become more severe before the Lord comes" sounds like it could be interpreted as a reinforcement that climate change isn't real, but Jesus' promise of "any minute now" is a more reliable explanation. "There will be wars. People will be *mean to each other.* All things shall be in commotion." I'm not being snarky, this is not rhetorical: what am I supposed to do with this information? When have these things *not* been true? Buy that huge SUV, subsist on beef— you deserve it because Jesus is coming to fix the world, absolving us of any and all responsibility for His creations.
 
 &nbsp;
 
 I don't want to be needlessly cynical and snarky, but I'll make up some nonsensical examples that, to me, fit this same energy:
 
-- "People will ingest food, and lo, they shall also defecate, even in the same day." &mdash; prophecy fulfilled hourly by Taco Bell
+- "People will ingest food, and lo, they shall also defecate, even in the same day." — prophecy fulfilled hourly by Taco Bell
 - "And the sun, yea even the very light of our heavens, will rise up from the east, and it shall thence set in the west. Even so, amen." Framing it in 16th century English makes it sound profound, so it must be special *this time* around.
 - "One land shall experience both a drought and abundance, a dearth and a flood, even amid the same hour." California shares borders with both Oregon and Arizona. It has rainy forests and deserts, and both climates exist "in the same land."
 
@@ -165,13 +165,13 @@ I mean, Jesus did (reportedly) [appear physically on Earth](https://www.churchof
 > 
 > *4. The Lord will appear in glory to all mankind (see [D&C 45:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.44?lang=eng#p44); [101:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101.23?lang=eng#p23); [Matthew 24:30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.30?lang=eng#p30); [Isaiah 40:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40.5?lang=eng#p5); [JST, Revelation 1:7](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-rev/1.7?lang=eng#p7)).*
 
-&mdash; *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p4-p8#p4)*, Doctrines of the Gospel Student Manual
+— *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p4-p8#p4)*, Doctrines of the Gospel Student Manual
 
 I, uh... don't...
 
 I don't think that's how [cardinality](https://dictionary.cambridge.org/dictionary/english/cardinality) works.
 
-Jesus appeared once by being born of Mary, specifically outlined what will happen leading up to His next appearance, and then sneaks in up to four interim appearances. Meaning His Second Coming will actually be maybe His sixth or seventh visitation. I'm not clear if item #4 in that list&mdash; appearing in glory to all mankind&mdash; counts as an appearance before the Second Coming.
+Jesus appeared once by being born of Mary, specifically outlined what will happen leading up to His next appearance, and then sneaks in up to four interim appearances. Meaning His Second Coming will actually be maybe His sixth or seventh visitation. I'm not clear if item #4 in that list— appearing in glory to all mankind— counts as an appearance before the Second Coming.
 
 &nbsp;
 
@@ -184,7 +184,7 @@ What, you mean living in your parents' basement after the avocado market crash? 
 
 > *When Christ returns, ==all people will know it==. The prophet Isaiah declared, “And the glory of the Lord shall be revealed, and all flesh shall see it together”. This monumental event will mark the beginning of a glorious 1,000-year period, known as the Millennium, when Jesus will reign personally on the earth, Satan will have no power, and all people will live in peace and joy.*
 
-&mdash; Gospel Study Guide: Topics & Questions, [Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-topics/second-coming-of-jesus-christ-study-guide?lang=eng); see original for scriptural citations
+— Gospel Study Guide: Topics & Questions, [Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-topics/second-coming-of-jesus-christ-study-guide?lang=eng); see original for scriptural citations
 
 I recall hearing as a seminary student that at Christ's second coming, it will be so undeniably obvious to every human on earth ([1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/34?lang=eng&id=p7-p8#p7), [2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/133?lang=eng&id=p2-p3#p2), [3](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=eng&id=p10-p13#p10)). We've got a flowery statement [along the lines of](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88?lang=eng&id=p104#p104) "every knee will bow, every tongue confess that Jesus is the Christ," even those dirty, unwashed heathens who aren't [[Skin of blackness#2 Nephi 5 21|white and delightsome]].
 
@@ -194,7 +194,7 @@ I also recall hearing a fellow named Paul describing that "[the day of the Lord]
 
 > *The Lord’s coming will be as a thief in the night ==to those who are in spiritual darkness==. Paul described the Saints as “the children of light, and the children of the day.” Paul gave them guidelines for living as Saints. Through God’s help, the Saints will be found blameless at the Second Coming.*
 
-&mdash; [Lesson 46: 1 Thessalonians and 2 Thessalonians](https://www.churchofjesuschrist.org/study/manual/new-testament-teacher-manual/the-epistles-of-paul-the-apostle-to-the-thessalonians/lesson-46-1-thessalonians-and-2-thessalonians?lang=eng&id=figure2_p5#figure2_p5), New Testament Teacher Manual
+— [Lesson 46: 1 Thessalonians and 2 Thessalonians](https://www.churchofjesuschrist.org/study/manual/new-testament-teacher-manual/the-epistles-of-paul-the-apostle-to-the-thessalonians/lesson-46-1-thessalonians-and-2-thessalonians?lang=eng&id=figure2_p5#figure2_p5), New Testament Teacher Manual
 
 Oh. It'll only be "as a thief in the night" to those in spiritual darkness, then? Thanks, that clears things right up. What the hell is spiritual darkness? I've seen *light* symbolized as illumination, clarity and knowledge, and while my [searches](https://www.churchofjesuschrist.org/search?lang=eng&query=%22spiritual+darkness%22) didn't land on what I'd call a definition, I guess it's synonymous with apostasy. ([1.1](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-21?lang=eng&id=p18#p18), [1.2](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-21?lang=eng&id=p28#p28), [2](https://www.churchofjesuschrist.org/study/scriptures/gs/darkness-spiritual?lang=eng))
 
@@ -204,7 +204,7 @@ Oh. It'll only be "as a thief in the night" to those in spiritual darkness, then
 > 
 > *Therefore, gird up your loins, that you may be the children of light, and that day shall not overtake you as a thief.*
 
-&mdash; [D&C 106:4-5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/106?lang=eng&id=p4-p5#p4)
+— [D&C 106:4-5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/106?lang=eng&id=p4-p5#p4)
 
 Well... Maybe Jesus will arrive for the ~~seventh~~ second time and it actually *will* be discreet?
 
@@ -212,7 +212,7 @@ Well... Maybe Jesus will arrive for the ~~seventh~~ second time and it actually 
 
 > *The wicked who are living at the time of the Second Coming of the Lord ==will be destroyed in the flesh==. They, along with the wicked who are already dead, will have to wait until the last resurrection. All of the remaining dead will rise to meet God. They will either inherit the telestial kingdom or ==be cast into outer darkness with Satan== (see [D&C 76:32–33, 81–112](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=eng&id=p32-p33,81-p112#p32)).*
 
-&mdash; *[Chapter 44: The Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-44-the-second-coming-of-jesus-christ?lang=eng&id=p13#p13)*, Gospel Principles
+— *[Chapter 44: The Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-44-the-second-coming-of-jesus-christ?lang=eng&id=p13#p13)*, Gospel Principles
 
 "Anyone who disagrees with us or our specific variation of Christianity is going to die. [Sign up here](https://www.churchofjesuschrist.org/comeuntochrist/lp/basic-beliefs/meet-with-missionaries?lang=eng) xoxo"
 
@@ -222,7 +222,7 @@ Well... Maybe Jesus will arrive for the ~~seventh~~ second time and it actually 
 There seems to be many prophecies and signs surrounding Jesus' arrival, whether for the first, "second," or Nth time.
 
 #### Birth
-At Jesus' birth, one King Herod may or may not have [massacred](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p16-p18#p16) "all the children that were in Bethlehem... from two years old and under." From what I understand, there isn't [any historic, contemporary evidence](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents#History_and_theology) of this happening, but Matthew chapter 2 sure seems insistent that it happened. Seems like a good way to kneecap your own kingdom's economy. If everyone&mdash; soldier, peasant, noble&mdash; all had their children 2 & under murdered, how long do you think that king would remain in power? That would fuck up an entire generation. It would have resounding effects that would have been recorded by many more sources than just this one.
+At Jesus' birth, one King Herod may or may not have [massacred](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p16-p18#p16) "all the children that were in Bethlehem... from two years old and under." From what I understand, there isn't [any historic, contemporary evidence](https://en.wikipedia.org/wiki/Massacre_of_the_Innocents#History_and_theology) of this happening, but Matthew chapter 2 sure seems insistent that it happened. Seems like a good way to kneecap your own kingdom's economy. If everyone— soldier, peasant, noble— all had their children 2 & under murdered, how long do you think that king would remain in power? That would fuck up an entire generation. It would have resounding effects that would have been recorded by many more sources than just this one.
 
 I'm getting off track. [Matthew 2:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p17-p18#p17) says that this was a fulfilment of a prophecy. I'd also like to point out [verses 12 & 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/2?lang=eng&id=p12-p13#p12) describing God arranging for this to happen. Rather than defuse the tension, God has Joseph leave, which pisses off Herod, and leads to *all children getting murdered*. Was this an oversight? Surely God wasn't blindsided by this development. Surely God *knew* how Herod would react. I bring it up to iterate that when Jesus was born, some untold number of children got killed.
 
@@ -249,7 +249,7 @@ Think back for a moment for what was happening to Jesus three days prior over in
 
 > *Then said Jesus, Father, forgive them; for they know not what they do.*
 
-&mdash; *[Luke 23:34](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23?id=p34&lang=eng#p34)*
+— *[Luke 23:34](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23?id=p34&lang=eng#p34)*
 
 Jesus had a reputation for being benevolent and forgiving, even as he is actively being tortured to death. He seemed like a "big picture" kind of guy, recognizing that these Roman soldiers are still spirit sons of God, and are short-sighted enough to not understand the eternal implications of what's happening...even though this was *literally* what God had planned to happen all along.
 
@@ -264,7 +264,7 @@ pay us money lmao
 
 > *==A further reward for paying tithing is a guarantee against being consumed== in the burning which is to accompany the second coming of the Savior.*
 
-&mdash; *[Trust in the Lord](https://www.churchofjesuschrist.org/study/general-conference/1979/04/trust-in-the-lord?lang=eng&id=p25#p25)*, President Marion G. Romney, Second Counselor in the First Presidency, General Conference 1974 April
+— *[Trust in the Lord](https://www.churchofjesuschrist.org/study/general-conference/1979/04/trust-in-the-lord?lang=eng&id=p25#p25)*, President Marion G. Romney, Second Counselor in the First Presidency, General Conference 1974 April
 
 &nbsp;
 
@@ -274,7 +274,7 @@ pay us money lmao
 > 
 > - *Why should we be concerned about our preparedness rather than the exact timing of the Second Coming?*
 
-&mdash; *[Chapter 44: The Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-44-the-second-coming-of-jesus-christ?lang=eng&id=title5-p26#title5)*, Gospel Principles
+— *[Chapter 44: The Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-44-the-second-coming-of-jesus-christ?lang=eng&id=title5-p26#title5)*, Gospel Principles
 
 Don't worry about the timing, just... *always be ready*. Wait, why is everyone getting diagnosed with [[Anxiety|anxiety disorders]] and [[Scrupulosity|religious scrupulosity]]?
 

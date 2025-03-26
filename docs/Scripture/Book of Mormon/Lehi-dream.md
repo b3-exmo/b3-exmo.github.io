@@ -97,11 +97,11 @@ Go on and scroll back up to the list of explanations. "This is the stance adopte
 ### Saints Unscripted
 > *Technically, ==it wasn’t even Lucy who physically wrote the book== — it was her scribes, Martha and Howard Coray. So, based on the available evidence, we’re not reading what Joseph Sr. said about his dream, we’re reading what Lucy’s scribes wrote that Lucy said about her husband’s dream — at a time when Joseph Sr. wasn’t around to verify it’s accuracy. Joseph Sr. died in 1840, while Lucy’s book wasn’t written until between 1844 and 1845 when Lucy would have been about 70 years old. We also don’t know when Joseph Sr. told Lucy about this dream. It could have been the morning after it happened more than 30 years prior in 1811, or he could have read 1 Nephi 8 years later and said, “Hey Lucy, this sort of reminds me of a dream I once had.” We don’t know how accurate Lucy’s recollection was, how accurate Joseph Sr.’s recollection was, or how true the Coray’s final product was to Lucy’s original recollection.*
 
-&mdash; *[Did Joseph Smith, Sr. and Lehi Have the Same Dream?](https://saintsunscripted.com/faith-and-beliefs/the-restoration-of-christs-church/did-joseph-smith-sr-lehi-have-same-dream/)*, Saints Unscripted
+— *[Did Joseph Smith, Sr. and Lehi Have the Same Dream?](https://saintsunscripted.com/faith-and-beliefs/the-restoration-of-christs-church/did-joseph-smith-sr-lehi-have-same-dream/)*, Saints Unscripted
 
 Where have I heard [[Kinderhook Plates#History of the Church|this explanation]] before?
 
-Whenever Joseph Smith Jr said anything inconvenient or hard to explain, we can find out the name of a scribe associated with the document and [[Boasting#Third|just blame the scribe]]. The prophet *never* says anything conflicting or unclear&mdash; not when we have scribes! The scribes, of course, nail it every time whenever the prophet says something orthodox or predictable, or that hasn't had to be explained away later. That's when scribes are worth keeping around.
+Whenever Joseph Smith Jr said anything inconvenient or hard to explain, we can find out the name of a scribe associated with the document and [[Boasting#Third|just blame the scribe]]. The prophet *never* says anything conflicting or unclear— not when we have scribes! The scribes, of course, nail it every time whenever the prophet says something orthodox or predictable, or that hasn't had to be explained away later. That's when scribes are worth keeping around.
 
 &nbsp;
 

@@ -21,7 +21,7 @@ Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. On
 ## Authority
 One way you know the LDS church is true is that God will [[Doctrines/Polygamy/Polygamy#Angel with a Sword vs Joseph Smith|literally send an angel with a sword to threaten to kill the prophet]] if he’s going astray.
 
-Here is a complete list of the times God has done this:
+Here is a comprehensive list of the times God has done this:
 
 1. [[Doctrines/Polygamy/Polygamy|To get Joseph Smith to marry other men's wives]]
 2. &nbsp;
@@ -47,6 +47,9 @@ See also the time Ezra Taft Benson [[14 Fundamentals#*4. The prophet will never 
 > _Said Brigham Young, “I have never yet preached a sermon and sent it out to the children of men, that they may not call scripture.”_
 
 — [Latter-day Saint Families, Etc.](https://scriptures.byu.edu/#0651617b8:t1fbdd:j13); Brigham Young, [Journal of Discourses 13](https://scriptures.byu.edu/jod/pdf/JoD13/JoD13.pdf):95
+
+### Representing God
+
 
 &nbsp;
 

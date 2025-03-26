@@ -6,7 +6,7 @@ comments: true
 
 > *We're as transparent as we know how to be.*
 
-&mdash; [Face to Face with Elder Oaks and Elder Ballard](https://www.youtube.com/watch?v=Uj2VWhuW50w&t=2797s), 46:37 timestamp ([Archive link](https://web.archive.org/web/20241206132407/https://www.youtube.com/watch?v=Uj2VWhuW50w))
+— [Face to Face with Elder Oaks and Elder Ballard](https://www.youtube.com/watch?v=Uj2VWhuW50w&t=2797s), 46:37 timestamp ([Archive link](https://web.archive.org/web/20241206132407/https://www.youtube.com/watch?v=Uj2VWhuW50w))
 
 Fun fact: if you look closely, this video is [unlisted](https://support.google.com/youtube/answer/157177#zippy=%2Cunlisted-videos), meaning it "won’t appear in the Videos tab of your channel homepage. They won't show up in YouTube's search results unless someone adds your unlisted video to a public playlist."
 
@@ -21,7 +21,7 @@ As church historian, Joseph F Smith tore out pages and destroyed/hid papers that
 
 > *This six-page history was at some point excised from the letterbook. Fortuitously, one can actually date the time period when these leaves were removed, because the tearing of the last of the three leaves was done with such little care that a small triangular fragment (containing four words of the text) was initially left in the gutter of the letterbook and then removed and taped back onto the last leaf. The clear cellophane tape that was used for this repair was not invented until 1930... Furthermore, “the cut and tear marks, as well as the inscriptions in the gutters of the three excised leaves, match those of the remaining leaf stubs, confirming their original location” in the Joseph Smith letterbook. By 1965 these three leaves of the 1832 account were again “archived together with the letterbook.” Thus, the period when these three leaves were separated was approximately 1930 to 1965—or allowing a five-year period for the cellophane tape to come into common usage in America, the three decades from 1935 to 1965.*
 
-&mdash; [Another Look at Joseph Smith’s First Vision](https://www.dialoguejournal.com/articles/another-look-at-joseph-smiths-first-vision/#pdf-wrap), Stan Larson, Dialogue Journal
+— [Another Look at Joseph Smith’s First Vision](https://www.dialoguejournal.com/articles/another-look-at-joseph-smiths-first-vision/#pdf-wrap), Stan Larson, Dialogue Journal
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Go look at the earliest listed entry:
 >
 > *We welcome you, and all those who hear and see on radio and television. We welcome you to the sessions of the 141st Annual General Conference of The Church of Jesus Christ of Latter-day Saints.*
 
-&mdash; [Out of the Darkness](https://www.churchofjesuschrist.org/study/general-conference/1971/04/out-of-the-darkness?lang=eng&id=p2-p3#p2), Joseph Fielding Smith, President of the Church, General Conference 1971 April
+— [Out of the Darkness](https://www.churchofjesuschrist.org/study/general-conference/1971/04/out-of-the-darkness?lang=eng&id=p2-p3#p2), Joseph Fielding Smith, President of the Church, General Conference 1971 April
 
 141st? Where are the other 140?
 
@@ -76,7 +76,7 @@ Straight up, they removed an entire paragraph from the searchable text, and I'll
 > 
 > _Also, I seriously doubt that you will ever turn your own heart more to your own fathers than by writing your family history. . . ._
 
-&mdash; [Turning the Hearts](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng&id=p19-p20#p19), Elder Hartman Rector, Jr. First Quorum of the Seventy, General Conference 1981 April
+— [Turning the Hearts](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng&id=p19-p20#p19), Elder Hartman Rector, Jr. First Quorum of the Seventy, General Conference 1981 April
 
 Now why would they want to remove that?
 
@@ -95,20 +95,20 @@ Compare this to 2007...
 > 
 > *The doctrinal tenets of any religion are best understood within a broad context, and thoughtful analysis is required to understand them. News reporters pressed by daily deadlines often find that problematic.*
 
-&mdash; [Approaching Mormon Doctrine](https://web.archive.org/web/20180213184855/https://www.mormonnewsroom.org/ldsnewsroom/eng/commentary/approaching-mormon-doctrine), Mormon News Room, 4 May 2007
+— [Approaching Mormon Doctrine](https://web.archive.org/web/20180213184855/https://www.mormonnewsroom.org/ldsnewsroom/eng/commentary/approaching-mormon-doctrine), Mormon News Room, 4 May 2007
 
 Then compare to FAIR.
 
 > *==Official doctrine is usually easy to determine==. When FAIR is aware of an official doctrine or position statement, we attempt to provide it, with references so interested readers can check the sources for themselves. In all other cases, we try to describe the spectrum of LDS thought on a given issue, while noting that more than one point of view is held by faithful members of the Church.*
 
-&mdash; [Introduction to apologetics](https://www.fairlatterdaysaints.org/answers/Introduction_to_apologetics#But_if_I_want_an_official_answer.2C_how_do_I_get_it.3F), FAIR, 
+— [Introduction to apologetics](https://www.fairlatterdaysaints.org/answers/Introduction_to_apologetics#But_if_I_want_an_official_answer.2C_how_do_I_get_it.3F), FAIR, 
 
 &nbsp;
 
 ## Council of Fifty meeting minutes
 ![[council-fifty-1984.png]]
 
-&mdash; Joseph F. Smith papers, 1854-1918; Autobiographical writings, 1856-1909; Journals and diaries; 1880 October 6-1880 October 12; Church History Library, [https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse](https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse) (accessed: August 2, 2024)
+— Joseph F. Smith papers, 1854-1918; Autobiographical writings, 1856-1909; Journals and diaries; 1880 October 6-1880 October 12; Church History Library, [https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse](https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse) (accessed: August 2, 2024)
 
 See it for yourself:
 - [Page 10](https://catalog.churchofjesuschrist.org/assets/339275a3-89b3-4f2e-bb01-03dd52e9cdd1/0/9)
@@ -123,7 +123,7 @@ Bro they literally 1984'd this record. Just as Jesus would have wanted 😇
 >
 > *==Church leaders don’t know where these practices began==, but “it was never our intention to invite people to be baptized before they had learned something about the gospel, felt the Holy Ghost, and had been properly prepared to accept a lifelong commitment to follow Jesus Christ,” said President Ballard. “Our retention rates will dramatically increase when people desire to be baptized because of the spiritual experiences they are having rather than feeling pressured into being baptized by our missionaries.”*
 
-&mdash; [President Ballard said missionaries shouldn't invite people to be baptized without feeling the Spirit. Here's why](https://www.thechurchnews.com/2019/6/26/23221037/president-ballard-said-missionaries-shouldnt-invite-people-to-be-baptized-without-feeling-the-spirit/), Church News
+— [President Ballard said missionaries shouldn't invite people to be baptized without feeling the Spirit. Here's why](https://www.thechurchnews.com/2019/6/26/23221037/president-ballard-said-missionaries-shouldnt-invite-people-to-be-baptized-without-feeling-the-spirit/), Church News
 
 I truly find this upsetting. Using the baptism invitation early on to "separate the wheat from the tares" *is literally what they told me to do while I was in the MTC.* I am not exaggerating or embellishing this. They told me that. I remember that lesson so distinctly because the instructors used an analogy of triage to prioritize who to focus on. ... More specifically, I remember that lesson because I made a fool of myself by answering that I knew what triage was, when in reality, I did not. That lesson stuck with me for the wrong reason, but I remember *very clearly* that I was *explicitly* told to do *exactly this* for that *exact reason*.
 

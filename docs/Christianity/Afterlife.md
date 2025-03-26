@@ -7,13 +7,13 @@ comments: true
 > 
 > *There is a hell for the evil and wicked. What that means would take too long to explain, but I do not see it as the paintings of Dante’s Inferno. Rather, it is a place where one comes to understand the terribleness of his actions, and guilt and remorse bring extreme sadness and sorrow. I do not believe it lasts forever except for a very, very few.*
 
-&mdash; [Reflections on Life after Death](https://www.churchofjesuschrist.org/study/liahona/2020/10/reflections-on-life-after-death?lang=eng&id=p11-p12#p11), Elder Neil L. Andersen, Quorum of the Twelve Apostles, Liahona 2020 October
+— [Reflections on Life after Death](https://www.churchofjesuschrist.org/study/liahona/2020/10/reflections-on-life-after-death?lang=eng&id=p11-p12#p11), Elder Neil L. Andersen, Quorum of the Twelve Apostles, Liahona 2020 October
 
 &nbsp;
 
 > *For behold, this life is the time for men to prepare to meet God; yea, behold the day of this life is the day for men to perform their labors.*
 
-&mdash; [Alma 34:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng&id=p32#p32)
+— [Alma 34:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34?lang=eng&id=p32#p32)
 
 &nbsp;
 
@@ -31,13 +31,13 @@ Trouble is, as with many promises that religions make, none of this gets realize
 &nbsp;
 
 ### Consciousness
-Consider for a moment the possibility of immortality. If you were impervious to harm, you could do some fun stunts, chasing new sources of dopamine for a good, long while. In science fiction and fantasy, this condition leads to "everyone you've ever known or loved dies, leaving you alone." If you had unending life, remaining conscious and aware indefinitely, the novelty would at some point wear out. In this hypothetical scenario, you eventually outlive the planet you were on, drifting aimlessly in outer space, unable to suffocate or freeze&mdash; it honestly just sounds like a bad time.
+Consider for a moment the possibility of immortality. If you were impervious to harm, you could do some fun stunts, chasing new sources of dopamine for a good, long while. In science fiction and fantasy, this condition leads to "everyone you've ever known or loved dies, leaving you alone." If you had unending life, remaining conscious and aware indefinitely, the novelty would at some point wear out. In this hypothetical scenario, you eventually outlive the planet you were on, drifting aimlessly in outer space, unable to suffocate or freeze— it honestly just sounds like a bad time.
 
 Now, for another example to illustrate my point: solitary confinement is considered inhumane, cruel punishment ([1](https://en.m.wikipedia.org/wiki/Solitary_confinement#Effects), [2](https://www.aclu.org/news/prisoners-rights/use-solitary-confinement-virginia-inhumane-and-unlawful), [3](https://www.britannica.com/topic/solitary-confinement), [4](https://www.psychologytoday.com/us/blog/almost-addicted/201801/solitary-confinement-torture-pure-and-simple)). Why? You're left conscious and aware with no stimulation. Humans like novelty. Keeping someone confined and alone is widely considered *torturous*. Prisoners lose their sense of time passing, distorting their estimation of how long they've been confined. Three weeks can feel like ten years in a windowless, featureless room. You have absolutely no way to measure it, and it is maddening.
 
 These would be fair comparisons *if* the scenario of Christianity's afterlife was simply continuing consciousness. The prospect of eternal life as described in Mormonism isn't so grim and ominous. Instead, it's... [vague](https://www.churchofjesuschrist.org/study/liahona/2016/06/what-do-we-know-about-life-after-death?lang=eng&id=p26#p26). You'll just live forever, and your family will be there, having "[eternal joy](https://newsroom.churchofjesuschrist.org/article/heaven)." What does not seem to be taken into consideration is that an eternity of *anything* would be torturous. Our consciousness is not able to fully comprehend eternity. If you [[#Families|take issue with your family]] for whatever reason, tough luck. At least you get to hang out with God and Jesus. Doing what for eternity? 🤷‍♂️ Playing Mario Kart, I guess. 
 
-I realize that I likely sound insensitive or crass. For folks who do genuinely have a strong affinity for their family, this afterlife arrangement is a solid deal. True, humans don't always get along&mdash; inevitably upsetting each other for reasons ranging from egregious to annoying. Losing a close loved one is emotionally painful. The idea that they will again be alive and well truly is encouraging. If that hope is what helps you get through a depressive episode, or helps to bring closure to grieving, or simply prevent existential dread, then... it makes sense to want to believe that. I think the purpose of this religious teaching is to do exactly that&mdash; the "gospel," or [good news](https://www.churchofjesuschrist.org/study/scriptures/bd/gospels?lang=eng&id=p1#p1), is to inspire hope and optimism. It's very appealing to the human ego.
+I realize that I likely sound insensitive or crass. For folks who do genuinely have a strong affinity for their family, this afterlife arrangement is a solid deal. True, humans don't always get along— inevitably upsetting each other for reasons ranging from egregious to annoying. Losing a close loved one is emotionally painful. The idea that they will again be alive and well truly is encouraging. If that hope is what helps you get through a depressive episode, or helps to bring closure to grieving, or simply prevent existential dread, then... it makes sense to want to believe that. I think the purpose of this religious teaching is to do exactly that— the "gospel," or [good news](https://www.churchofjesuschrist.org/study/scriptures/bd/gospels?lang=eng&id=p1#p1), is to inspire hope and optimism. It's very appealing to the human ego.
 
 &nbsp;
 
@@ -52,7 +52,7 @@ I think the [Abrahamic Covenant](https://www.churchofjesuschrist.org/study/scrip
 
 > *And it was in the night time when the Lord spake these words unto me: I will multiply thee, and thy seed after thee, like unto these; and if thou canst count the number of sands, so shall be the number of thy seeds.*
 
-&mdash; [Abraham 3:14](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p14#p14)
+— [Abraham 3:14](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p14#p14)
 
 A person can receive all the blessings of the Abrahamic covenant—even if he or she is not a literal descendant of Abraham—by obeying the laws and ordinances of the gospel.
 
@@ -81,3 +81,77 @@ When he teaches that [[Theology|Elohim]] and Jesus are both polygamists, should 
 &nbsp;
 
 Brigham Young has a fair amount of other statements on the godhead being polygamist, but those quotes fit better [[Doctrines/Polygamy/Polygamy#God is polygamist, too|in that section]].
+
+---
+
+## Damnation
+The *Plan of Salvation* is another differentiating factor between the LDS faith and other varieties of Christianity. An oversimplification of this teaching is that our afterlife has more nuance than "playing a harp on a cloud" versus "burning for eternity." The Mormon afterlife has more middle ground. The categorization ranges from "living with God" as described above, to "not much better than the earthly mortality you just got out of." Unless the LDS church's leadership *really* doesn't like you— you can get banished to *outer darkness* to be sad and lonely for eternity.
+
+One line that I remember repeating while serving an LDS mission was "a water dam does not *obliterate* or *destroy* the water— it stops it. Beavers don't halt the flow of water out of spite. Damnation means becoming stagnant, no longer progressing. The ideal outcome in the afterlife is eternal progression, and damnation simply means 'being stopped.'" I perpetuated this idea because while *dam* and *damn* are homophones ([1](https://www.merriam-webster.com/dictionary/homophone), [2](https://en.wikipedia.org/wiki/Homophone), [3](https://www.wordscoach.com/blog/180-examples-of-homophones/)) with separate definitions ([1](https://en.wiktionary.org/wiki/damn), [2](https://en.wiktionary.org/wiki/dam#English), [3](https://grammarist.com/spelling/dam-damn/), [4](https://www.grammargiant.com/confused-words/Dam-or-Damn), [5](https://speakfluently.co/en/english/confusing-words/dam-damn)), but I didn't have any access to the internet or any book or text that could clarify my misunderstanding, and I had been raised to believe that having a dong meant that I could receive revelation so whatever I said was magically true somehow. This combination of factors made me a fantastic missionary, at least by someone's standards. (If it wasn't obvious, my above description of damnation was misguided and is incorrect.)
+
+I use this anecdote to introduce the teaching of Exaltation's opposite. What exactly does the LDS church teach about folks who do not get exalted in the celestial kingdom?
+
+&nbsp;
+
+### Judgment Day
+At Judgment day, God will sort everyone into three categories. ... Four, actually. Well, more like six. 🤷‍♂️ I don't make the rules.
+
+- Folks who are indisputably on the naughty list are, for some reason, called *sons of perdition* and get sent to *Outer Darkness*. 
+- Folks who were mostly good, but *not good enough*, go to either the Terrestrial or Telestial kingdoms. Yes, one of those words is made up.
+- The Celestial kingdom is special enough to have [multiple subcategories](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=eng&id=p1-p2#p1). You obtain the highest degree within the highest glory if you get enough wives.
+
+But before we get into that, you heathens have to do your time in *spirit prison*, because you were naughty. Unless you weren't.
+
+&nbsp;
+
+### Spirit Prison
+> *In the spirit prison are the spirits of those who have not yet received the gospel of Jesus Christ. These spirits have agency and may be enticed by both good and evil. The spirits may progress as they learn gospel principles and live in accordance with them. The spirits in paradise can teach the spirits in prison (see [Doctrine and Covenants 138](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng)). If they accept the gospel and the ordinances performed for them in the temples, they may leave the spirit prison and dwell in paradise.*
+
+&mdash; [Spirit World](https://www.churchofjesuschrist.org/study/manual/gospel-topics/spirit-world?lang=eng&id=p8#p8), Topics and Questions
+
+&nbsp;
+
+This choice of words is something I've often found troublesome.
+
+As I understand it, a *prison* is meant to isolate criminals from society to prevent them from causing harm. If a prison awakens to the realization that criminals are, in fact, human beings, they might offer some rehabilitation programs to minimize re-offense rates. A *penitentiary* places more emphasis on rehabilitating inmates, rather than reducing a human to the embodiment of crime, deserving to be treated with harsh contempt. Either of these locations are meant to be used as consequence for disregarding law. I'm not aware of any worldly nation where ignorance of law is an adequate defense against prosecution. I suppose the same could be said of this *spirit prison*&mdash; we were commanded to be baptized, and you (hypothetical conversation partner) were not, thereby defying a commandment irrespective of accountability.
+
+What also strikes me in the above quote is that folks in *spirit paradise* get to do missionary work to a captive audience in *spirit prison*. That's notorious for a variety of reasons&mdash; one, why would we bother spending two years of our mortal life doing something we're going to have all of eternity to catch up on; two, depending on your conviction, being trapped and forced to listen to missionaries until you agree with them sounds... manipulative. They're not being forcibly converted, but... what options do they have, really?
+
+"Hi! You died, but you are still conscious in a spirit world. You're also a sinner and will be eternally punished if you don't join us." well shit man I guess when you put it that way while I'm in some kind of spirit prison...
+
+&nbsp;
+
+### Lower Kingdoms
+By the pamphlets I used to hand out & read from as a full-time missionary:
+
+> ***Terrestrial kingdom.*** *People who refuse to accept the gospel of Jesus Christ but who live honorable lives will receive a place in the terrestrial kingdom.*
+> 
+> ***Telestial kingdom.*** *Those who continue in their sins and do not repent will receive a place in the telestial kingdom.*
+
+&mdash; [The Plan of Salvation](https://www.churchofjesuschrist.org/study/manual/the-plan-of-salvation/where-will-i-go-after-this-life?lang=eng&id=p8-p9#p8), Teaching Pamphlets
+
+&nbsp;
+
+Some more verbose descriptions of these kingdoms and their respective glories are found in a book called *[The Articles of Faith](https://archive.org/details/articlesfaithas00talmgoog/page/94/mode/2up)* by a fellow named James E. Talmadge. [Those descriptions](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p42-p45#p42) are quoted in an Institute manual, which... makes them [[Doctrine|doctrinal]], question mark?
+
+&nbsp;
+
+### Perdition
+That same institute manual has some [ominous descriptions](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p71-p74#p71) of what will happen to those who qualify for extra-special eternal torment from our loving Heavenly Father. I had been raised to believe that the reason for this teaching to be sparse is that it's largely irrelevant to us lay folk&mdash;the only people who *qualify* for Outer Darkness are apostles or prophets, as one requirement is to have clearly seen Jesus. As in, not acting by faith or belief, but by a proper knowledge and certainty. As such, Jesus doesn't want to show Himself as his very presence can condemn someone to eternal punishment. ... What the hell, God?
+
+I remember reading in the Book of Mormon about Jesus appearing in 🫡🍔[[Book of Mormon#Another Testament of Christ|America]]🇺🇸 🎆to multitudes of gathered people. The whole [unnumbered multitude](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p12-p15#p12) "did know of a surety and did bear record, that it was he, of whom it was written by the prophets, that should come." However many thousand people who were present are now on the line for eternal damnation and suffering. The record doesn't say nor imply that they strayed by [[Word-of-Wisdom|drinking coffee]] or any other damnable sin. In fact, the scriptural account [fast-forwards 320 years](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?lang=eng&id=p48#p48) before anything of interest happens.
+
+&nbsp;
+
+So... what is it? Modern scriptural resources seem to shy away from *actually describing* Outer Darkness. ([1](https://www.churchofjesuschrist.org/study/manual/gospel-topics/outer-darkness?lang=eng), [2](https://www.churchofjesuschrist.org/study/scriptures/gs/outer-darkness?lang=eng), [3](https://www.churchofjesuschrist.org/study/scriptures/gs/darkness-outer?lang=eng)) In fact, among the few passages I find where this term actually [appears in the Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=eng&id=p13#p13) is immediately downplayed [in the Seminary teachers' manual](https://www.churchofjesuschrist.org/study/manual/book-of-mormon-seminary-teacher-manual-2013-obs/alma/lesson-97?lang=eng&id=p18#p18). "Naw, man, I mean yeah it *says* Outer Darkness, but Alma wasn't actually talking about outer darkness! He was talking about Spirit Prison."
+
+We have a description from the *[Gospel Topics](https://www.churchofjesuschrist.org/study/manual/gospel-topics/kingdoms-of-glory?lang=eng&id=title5-p13#title5)* to turn to, though. ... It pretty much says "only bad people who reject Jesus go here, so don't worry about it. You're not going to reject Jesus, *are you*?"
+
+In the above section on the "lower kingdoms" we got a description from James Talmadge's *Articles of Faith*. Fortunately for us (maybe?) he also [describes perdition](https://archive.org/details/articlesfaithas00talmgoog/page/62/mode/2up). It's about as vague as the positive incentive to go to Mormon Heaven. What makes it awful and unbearable? What will you be doing in either destination? Playing *Superman 64*, I guess. The [D&C does say in no uncertain terms](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=eng&id=p32#p32) that "it had been better for them to never have been born[.]"
+
+&nbsp;
+
+#### Modern Teachings
+Amid my [searches for quotes in General Conference](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22outer+darkness%22), the two excerpts I found were both in 1981. One description says that *outer darkness* only sucks because you have [all the rest of eternity to ruminate](https://www.churchofjesuschrist.org/study/general-conference/1981/10/the-perfect-law-of-liberty?lang=eng&id=p36#p36) over your poor life choices. The other equivocates&mdash;but does not explicitly say&mdash;that it's [cold and dark](https://www.churchofjesuschrist.org/study/general-conference/1981/04/light-and-truth?lang=eng&id=p5#p5), possibly at [absolute zero](https://en.wikipedia.org/wiki/Absolute_zero).
+
+I'll again iterate what you can do to warrant being banished here: [you make Jesus sad](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-study-guide-for-home-study-seminary-students-2014/section-03/unit-16-day-3-doctrine-and-covenants-76-1-49?lang=eng&id=p36#p36). "Love me and obey me, or else suffer for eternity." 😕 Is complying with this directive actually "love"? If anyone else posed an ultimatum like that, we'd call it emotional abuse. How did we get into this abusive relationship, anyway? We agreed to it before we were born? Well golly gee whiz what could go wrong

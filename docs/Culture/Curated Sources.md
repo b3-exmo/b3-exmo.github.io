@@ -25,7 +25,7 @@ So, in the infrequent case where the church *does* point readers to an outside s
 
 > *Recognizing that today so much information about The Church of Jesus Christ of Latter-day Saints can be obtained from questionable and often inaccurate sources, officials of the Church began in 2013 to publish straightforward, in-depth essays on a number of topics. The purpose of these essays, which have been ==approved by the First Presidency and the Quorum of the Twelve Apostles,== has been to gather ==accurate information from many different sources and publications== and place it in the Gospel Topics section of ChurchofJesusChrist.org, where the ==material can more easily be accessed and studied== by Church members and other interested parties.*
 
-&mdash; [Gospel Topics Essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/essays?id=p4&lang=eng#p4)
+— [Gospel Topics Essays](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/essays?id=p4&lang=eng#p4)
 
 Not sure how much more clear we can be. 
 
@@ -135,7 +135,7 @@ Enter that search term into the church site's [search form](https://www.churchof
 > **Avoid speculation** 
 > *Do not speculate about whether plural marriage is a requirement for the celestial kingdom. ==We have no knowledge that plural marriage will be a requirement for exaltation==.*
 
-&mdash; [Lesson 140: Doctrine and Covenants 132:1–2, 34–66](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-6/lesson-140-doctrine-and-covenants-132-1-2-34-66?lang=eng&id=aside2_title1-aside2_p1#aside2_title1),Doctrine and Covenants and Church History Seminary Teacher Manual 
+— [Lesson 140: Doctrine and Covenants 132:1–2, 34–66](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-6/lesson-140-doctrine-and-covenants-132-1-2-34-66?lang=eng&id=aside2_title1-aside2_p1#aside2_title1),Doctrine and Covenants and Church History Seminary Teacher Manual 
 
 I'm not [[Polygamy#Required for exaltation!|sure I believe that]], ngl
 
@@ -145,23 +145,29 @@ I will also observe that the manual specifically highlights verses 1 & 2, then 3
 
 > *Caution: Exercise caution while discussing the doctrine of ==having our calling and election made sure==. Avoid speculation. ==Use only the sources given here== and in the student manual. Do* not *attempt in any way to discuss or answer questions about the ==second anointing==.*
 
-&mdash; [Chapter 19: Eternal Life](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel/chapter-19?lang=eng&id=p1#p1), Doctrines of the Gospel Teacher Manual
+— [Chapter 19: Eternal Life](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel/chapter-19?lang=eng&id=p1#p1), Doctrines of the Gospel Teacher Manual
 
 Much like the church's responses to [[Blood Atonement]], this sounds like a case of [Streisand Effect](https://www.britannica.com/topic/Streisand-effect). There must be some spicy sources to warrant such a stern warning against them.
+
+&nbsp;
+
+> *Use [Doctrinal Outline H](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p35#p35) and [Supporting Statements H](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p74#p74), on pages 91 and 93 of the student manual, to help explain what we know about the sons of perdition. ==Since little is said or known about the fate of the sons of perdition, stay with what is suggested in the student manual==. Remember that the emphasis in this chapter is on the celestial kingdom.*
+
+— [Chapter 33: Kingdoms of Glory and Perdition](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel/chapter-33?lang=eng&id=p37#p37), Doctrines of the Gospel Teacher Manual
 
 &nbsp;
 
 > **Avoid speculation**
 > *There are many things the Lord has not yet revealed. For example, He has not yet revealed all of the details of the Creation. Teach students to trust the Lord and His prophets. If the Lord has not provided a reason for His revelation, do not speculate about why the revelation was given.*
 
-&mdash; [Lesson 37: The Plan of Salvation (Part 4)](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-material-2018/abraham/lesson-37?lang=eng&id=aside1_title1-aside1_p1#aside1_title1), Old Testament Seminary Teacher Material
+— [Lesson 37: The Plan of Salvation (Part 4)](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-material-2018/abraham/lesson-37?lang=eng&id=aside1_title1-aside1_p1#aside1_title1), Old Testament Seminary Teacher Material
 
 &nbsp;
 
 > **Avoid speculation.** 
 > *Refrain from discussing with students doctrinal topics that the prophets and apostles have not chosen to teach or about which they have not made an official statement. For example, Church leaders have cautioned against speculating about how the Savior was conceived.*
 
-&mdash; [Lesson 9 Teacher Material: Rejoicing in the Divine Birth of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-teacher-material-2023/unit-3/lesson-09-teacher-material?lang=eng&id=figure1_title1-figure1_p1#figure1_title1), Jesus Christ and His Everlasting Gospel Teacher Material (Religion 250)
+— [Lesson 9 Teacher Material: Rejoicing in the Divine Birth of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-teacher-material-2023/unit-3/lesson-09-teacher-material?lang=eng&id=figure1_title1-figure1_p1#figure1_title1), Jesus Christ and His Everlasting Gospel Teacher Material (Religion 250)
 
 &nbsp;
 

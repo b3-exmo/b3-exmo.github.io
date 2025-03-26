@@ -8,7 +8,7 @@ comments: true
 > 
 > *For me personally, that seems to put a very different perspective on things.*
 
-&mdash; [Why a Church?](https://speeches.byu.edu/talks/kevin-s-hamilton/why-a-church/), Elder Kevin Hamilton, General Authority Seventy, BYU Speech January 24, 2023
+— [Why a Church?](https://speeches.byu.edu/talks/kevin-s-hamilton/why-a-church/), Elder Kevin Hamilton, General Authority Seventy, BYU Speech January 24, 2023
 
 &nbsp;
 
@@ -16,7 +16,7 @@ Because The Savior is not disseminating His policies or dispositions to us commo
 
 This sounds like a [[Culture#Thought Stoppers|thought-stopping]] technique. "You don’t like what I said over the pulpit? Well, I represent Jesus, so that means you don’t like what Jesus said." Ostensibly, yes, but that extension of logic relies on the belief that this guy actually does represent Jesus. 
 
-So how do we know? Well, first we need to interpolate a variety of factors&mdash; you must read the Book of Mormon up to and including [[Cognitive Bias#Moroni's Promise|Moroni 10]]. If you extrapolate that to address you, today in \[current year\], next you pray and watch for *anything that isn’t bad* as a sign of divine favor. Since that non-specific response is indisputable proof, you extend that to mean that Joseph Smith was called of God. Disregard any confusion between Smith’s passing and Brigham Young’s presidency; Nelson is now the prophet of God, which means Hamilton is a “General Authority Seventy,” and since he’s standing at a pulpit at his own church’s university, what he says is true and divinely inspired. Unless he says something that might make the church look bad, then he’s just a regular guy [[Prophets|speaking as a man]] and shouldn’t be taken seriously. 
+So how do we know? Well, first we need to interpolate a variety of factors— you must read the Book of Mormon up to and including [[Cognitive Bias#Moroni's Promise|Moroni 10]]. If you extrapolate that to address you, today in \[current year\], next you pray and watch for *anything that isn’t bad* as a sign of divine favor. Since that non-specific response is indisputable proof, you extend that to mean that Joseph Smith was called of God. Disregard any confusion between Smith’s passing and Brigham Young’s presidency; Nelson is now the prophet of God, which means Hamilton is a “General Authority Seventy,” and since he’s standing at a pulpit at his own church’s university, what he says is true and divinely inspired. Unless he says something that might make the church look bad, then he’s just a regular guy [[Prophets|speaking as a man]] and shouldn’t be taken seriously. 
 
 &nbsp;
 

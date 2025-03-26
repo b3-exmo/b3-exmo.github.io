@@ -21,15 +21,6 @@ Please, list the ordinances I qualify for without paying any money. “Tithing i
 
 &nbsp;
 
-## Voluntary
-> *Tithing is not a free-will offering; it is a debt, payment of which brings great blessings.*
-
-&mdash; *[Concerning Tithing](https://www.churchofjesuschrist.org/study/ensign/1980/06/concerning-tithing?id=p4&lang=eng#p4)*
-
-Oh. Cool, thanks. Always thrilled to find that our loving Heavenly Father's Plan of Eternal Happiness™ involves me being indebted from birth.
-
-&nbsp;
-
 ## [[My own experience#Connecting the dots|As I See It]]
 In college, during the same semester that I was taking accounting classes, I encountered a MormonLeaks whistleblower report that the LDS church had an outrageous sum of money, not being disbursed. Trying to apply what I’ve learned from accounting, I resolved that the church surely has balance sheets and reports. They _could_ set the record straight about how much money they have, and where it’s going.
 
@@ -109,6 +100,15 @@ Lorenzo's “I plead” does not really sound like it should be equated to “th
 This quote from the prophet in 1907 says we won’t need to ask you to pay tithing once we have enough to be self-sufficient. $100 billion evidently isn’t enough to be self-sufficient. “Everything that is needful” seems to have developed a lot since 1907. Everything that is needful seems to include stock holdings and real estate.
 
 I could imagine someone defending this quote by pointing to the qualifier "*except that which you volunteer to give of your own accord*," and that it is what's happening today. I don't buy it— if salvation is gatekept behind tithing, then tithing is not voluntary.
+
+&nbsp;
+
+### We owe God
+> *Tithing is not a free-will offering; it is a debt, payment of which brings great blessings.*
+
+— *[Concerning Tithing](https://www.churchofjesuschrist.org/study/ensign/1980/06/concerning-tithing?id=p4&lang=eng#p4)*, First Presidency Message, President Marion G. Romney, Second Counselor in the First Presidency; Ensign, June 1980
+
+Oh. Cool, thanks. Always thrilled to find that our loving Heavenly Father's Plan of Eternal Happiness™ involves me being indebted from birth.
 
 &nbsp;
 
@@ -223,7 +223,7 @@ Better get ahead of those rumors and defend our decisions *immediately*. Nothing
 > 
 > *“==The church had long explained that the sources of the reserve funds included tithing funds==,” according to an opinion summary issued Friday by the 9th Circuit, “and Huntsman had not presented evidence that the church did anything other than what it said it would do.”*
 
-&mdash; [LDS Church prevails as federal appeals court tosses out James Huntsman’s tithing lawsuit](https://web.archive.org/web/20250201170901/https://www.sltrib.com/religion/2025/01/31/alert-lds-church-prevails-federal/), Salt Lake Tribune, 2025 January 31
+— *[LDS Church prevails as federal appeals court tosses out James Huntsman’s tithing lawsuit](https://web.archive.org/web/20250201170901/https://www.sltrib.com/religion/2025/01/31/alert-lds-church-prevails-federal/)*, Salt Lake Tribune, 2025 January 31
 
 &nbsp;
 
@@ -334,7 +334,7 @@ But of course, that one story about him approving of the woman anointing his fee
 > 
 > *But when the young man heard that saying, he went away sorrowful: for ==he had great possessions==.*
 
-&mdash; *[Matthew 19:20-22](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=eng&id=p20-p22#p20)*
+— *[Matthew 19:20-22](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=eng&id=p20-p22#p20)*
 
 &nbsp;
 
