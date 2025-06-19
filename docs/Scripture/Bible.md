@@ -164,7 +164,7 @@ Oh. It’s not… It’s not even a translation? It’s a revelation accompanime
 
 &nbsp;
 
-[[Sources and Links#Apologetic sites|FAIR]] has some comments that I don't understand why they'd willingly publish:
+[[Sources and Links#Favorable sites|FAIR]] has some comments that I don't understand why they'd willingly publish:
 
 > *The JST is not intended primarily or solely as a restoration of lost Bible text.*
 > 
@@ -173,6 +173,15 @@ Oh. It’s not… It’s not even a translation? It’s a revelation accompanime
 — *[What is the nature of the Joseph Smith Translation (JST)?](https://www.fairlatterdaysaints.org/answers/The_Joseph_Smith_Translation_of_the_Bible)*, FAIR
 
 🙄 "To some extent" is the qualifier that lets us pick and choose when this [book of scripture](https://www.churchofjesuschrist.org/study/scriptures/jst?lang=eng) is actually scripture. Was Joseph just "acting as a man" while using his theological position of authority to correct existing records of other prophets? If this is no big deal, then it should be handled with equal credence to any other biblical commentary, and not be presented as "our founding prophet added corrections to an ancient document; we trust him to do this because he's super good at translating ancient documents."
+
+### Alternatives
+The LDS church certainly has demonstrated its propensity for the KJV. Are there exceptions to this?
+
+The only exception I've found to date (I imagine I'll find more in the future, but who knows) is from 2016 October General Conference&mdash;a fellow named Dieter Uchtdorf, a proper crowd-pleaser, that one is.
+
+Uchtdorf gave a talk called [Fourth Floor, Last Door](https://www.churchofjesuschrist.org/study/general-conference/2016/10/fourth-floor-last-door?lang=eng), which I remember listening to as a heartwarming tale about perseverance, and caring for those outside of convenient reach. If you were to open up the "related content" on the page, either on mobile or on a browser, you see the footnotes referenced. This talk has an unusual number of cirations of the *New International Version*. Check for yourself.
+
+This isn't some groundbreaking discovery hidden from the unwitting masses, of course&mdash;I simply find it noteworthy that so much of church leadership demands KJV exclusivity, and this is an exception.
 
 &nbsp;
 
@@ -194,6 +203,19 @@ FAIR then quotes the following from a faith-positive podcast called LDS Perspect
 — [Episode 55: Joseph Smith’s Use of Bible Commentaries in His Translations – Thomas A. Wayment](https://ldsperspectives.com/2017/09/26/jst-adam-clarke-commentary)  Latter-day Saint Perspectives
 
 I'll point out that this certainly appears to be the same Thomas Wayment who published a more [[#Could we get a re-translation?|modern translation]] of the New Testament. I'll again iterate that his education and credentials qualify him to be a reliable source, at least by my standards.
+
+&nbsp;
+
+### Why not publish JST more clearly?
+There exists an Ensign article about this exact matter: *[Why does the LDS edition of the Bible not contain all of the corrections and additions made by Joseph Smith?](https://www.churchofjesuschrist.org/study/ensign/1992/06/i-have-a-question/why-does-the-lds-edition-of-the-bible-not-contain-all-of-the-corrections-and-additions-made-by-joseph-smith?lang=eng)*
+
+I had always assumed that it's because Mormons didn't want to "weird out" the rest of Christianity by sharing the same traditional printed copy, thereby avoiding the awkward encounter of a practicing LDS member "misunderstanding" a verse the way mainstream Christians do. I don't know that this was ever explicitly told to me.
+
+I've run this Ensign article through a word counter tool, and deemed that it uses *636 words* in *12 paragraphs* to tell you amid many non-sequiturs that all of ~~Adam Clarke~~ Joseph Smith's corrections would just take up too much space to print.
+
+![[thumbs-up-pc.gif]]{: .center .size40}
+
+"You have to read the 'mistranslated' document first and then go search for the corrections. We've just got *so much truth and revelation* that we can't possibly share *all of it* with you even if we wanted to!"
 
 &nbsp;
 
@@ -223,7 +245,9 @@ I may add others as I encounter them, but I'd argue that this excerpt does indic
 
 This BoM passage is cited as evidence that the Bible is incomplete, and BoM fills in the gaps.
 
-Legitimate question: what gaps? The Book of Mormon doesn't have hardly any Mormon [[Book of Mormon#Fullness of the Gospel|doctrines or practices]] in it. If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps- modern prophets are.
+Legitimate question: what gaps? The Book of Mormon doesn't have hardly any Mormon [[Book of Mormon#Fullness of the Gospel|doctrines or practices]] in it. If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps&mdash; modern prophets are.
+
+What *specific* things are missing from the Bible that are found in the Book of Mormon? We've had nearly 200 years of people reading these scriptures daily, surely we can find an exhaustive enumeration somewhere? Maybe a prophet of God could tell us?
 
 &nbsp;
 

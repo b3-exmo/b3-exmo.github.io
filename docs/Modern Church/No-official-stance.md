@@ -4,9 +4,9 @@ comments: true
 # 🧍‍♂️ No Official Stance
 The LDS church claims authority to definitively speak for and in behalf of God Himself.
 
-The LDS church has also been very specific and particular about things like [[Word-of-Wisdom|coffee]] and [[Garments|underpants]], but there are some topics that they simply take no position on. I find that fascinating. Many of these things are contentious, and humanity might benefit from an authoritative voice from God, our heavenly father, to tell us what He intends for us.
+The LDS church has also been very specific and particular about things like [[Word-of-Wisdom|coffee]] and [[Garments|underpants]], but there are some topics that they simply take no position on. I find that fascinating. Many of these things are contentious, and humanity might benefit from an authoritative voice from God&mdash;our heavenly father&mdash;to tell us what He intends for us.
 
-And so, here are some things that I've encountered that the Church of Jesus Christ of Latter-day Saints sees as too much of a legal risk to comment on.
+And so, here are some things that I've encountered that the Church of Jesus Christ of Latter-day Saints sees as too great of a legal risk to comment on.
 
 Cowards. Do they speak for God or not?
 
@@ -75,7 +75,7 @@ Cowards. Do they speak for God or not?
 
 &nbsp;
 
-#### Word of Wisdom
+#### Word of Wisdom miscellany
 > *There are other harmful substances and practices that are ==not specified in the Word of Wisdom or by Church leaders==. Members should use wisdom and prayerful judgment in making choices to promote their physical, spiritual, and emotional health.*
 
 — [Word of Wisdom and Healthy Practices](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p2380#p2380), General Handbook &sect; 38.7.14
@@ -95,6 +95,8 @@ Cowards. Do they speak for God or not?
 
 — [Book of Mormon geography](https://www.churchofjesuschrist.org/study/manual/gospel-topics/book-of-mormon-geography?lang=eng), Topics and Questions
 
+"This is our foundational book of scripture that we interpret as a literal history! We also refuse to talk about where it took place. Somewhere on this continent. Hope that helps."
+
 &nbsp;
 
 #### What "many mansions" means
@@ -107,7 +109,7 @@ Cowards. Do they speak for God or not?
 ##### Oaks
 > *A loving Heavenly Father has a better plan for His children. The revealed doctrine of the restored Church of Jesus Christ teaches that* all the children of God *—with exceptions too limited to consider here—will finally wind up in a kingdom of* glory. *In “In my Father’s house are many mansions,” Jesus taught. ==From modern revelation we know that those mansions are in three different kingdoms of glory==. In the Final Judgment each of us will be judged according to our deeds and the desires of our hearts. Before that, we will need to suffer for our unrepented sins. ==The scriptures are clear on that==. Then our righteous Judge will grant us residence in one of those kingdoms of glory. ==Thus, as we know from modern revelation==, all “shall be judged … , and every man shall receive according to his own works, his own dominion, in the mansions which are prepared.”*
 
-— [Divine Love in the Father’s Plan](https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=ase&id=p4#p4),  President Dallin H. Oaks, First Counselor in the First Presidency, General Conference 2022 April
+— [Divine Love in the Father’s Plan](https://www.churchofjesuschrist.org/study/general-conference/2022/04/51oaks?lang=ase&id=p4#p4), President Dallin H. Oaks, First Counselor in the First Presidency, General Conference 2022 April
 
 🤔
 
@@ -118,7 +120,7 @@ See also: [Wilford Woodruff expressing frustration](https://www.josephsmithpaper
 ### Polygamy in Heaven
 **Is marriage in heaven polygamous?**
 
-> *Moreover, members are permitted to perform ordinances on behalf of deceased men and women who married more than once on earth, sealing them to all of the spouses to whom they were legally married. The precise nature of these relationships in the next life is not known, and many family relationships will be sorted out in the life to come. Latter-day Saints are encouraged to trust in our wise Heavenly Father, who loves His children and does all things for their growth and salvation.*
+> *Moreover, members are permitted to perform ordinances on behalf of deceased men and women who married more than once on earth, sealing them to all of the spouses to whom they were legally married. ==The precise nature of these relationships in the next life is not known==, and many family relationships will be sorted out in the life to come. Latter-day Saints are encouraged to trust in our wise Heavenly Father, who loves His children and does all things for their growth and salvation.*
 
 — [Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng&id=p35#p35), Gospel Topics Essay
 
@@ -128,7 +130,7 @@ See also: [Wilford Woodruff expressing frustration](https://www.josephsmithpaper
 
 —  [Seminary & Institute manual](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-6/lesson-140-doctrine-and-covenants-132-1-2-34-66?lang=eng&id=aside2_title1-aside2_p1#aside2_title1) on [[DC 132|D&C 132]]
 
-I, uh... I'm not [[Polygamy#Required for exaltation!|sure that is true]].
+I, uh... I'm not [[Polygamy#Required for exaltation!|sure that is true]]. 
 
 &nbsp;
 
@@ -152,9 +154,9 @@ One could argue that *Faithful Answers & Informed Responses* (FAIR) isn't *offic
 &nbsp;
 
 ### Hill Cumorah
-> *Despite the claims of some, it is not the case that the Church authoritatively identifies the drumlin in western New York as the same Hill Cumorah mentioned in the text of the Book of Mormon. The Church has made it abundantly clear that it does not endorse any particular view of Book of Mormon geography.*
+> *Despite the claims of some, it is not the case that the Church authoritatively identifies the drumlin in western New York as the same Hill Cumorah mentioned in the text of the Book of Mormon. The Church has made it abundantly clear that it ==does not endorse any particular view of Book of Mormon geography==.*
 > 
-> *The Church has no official position on any New World location described in the Book of Mormon. There is no official revelation in the Church establishing the drumlin in New York as the Hill Cumorah of the Book of Mormon where two nations were destroyed.*
+> *==The Church has no official position on any New World location described in the Book of Mormon==. There is no official revelation in the Church establishing the drumlin in New York as the Hill Cumorah of the Book of Mormon where two nations were destroyed.*
 
 — [Does the Church authoritatively identify the location of the Hill Cumorah?](https://www.fairlatterdaysaints.org/answers/The_Hill_Cumorah#The_Church_has_no_official_position_on_any_New_World_location_described_in_the_Book_of_Mormon), The Hill Cumorah, FAIR
 
@@ -210,14 +212,14 @@ I genuinely do not understand how they can quote *six church leaders* and *three
 
 &nbsp; [Mormons don't officially believe that Jesus was married](https://www.fairlatterdaysaints.org/answers/Facts_Mormons_Won%27t_Tell_You_When_They_Call_at_Your_Door#Mormons_don.27t_officially_believe_that_Jesus_was_married), FAIR
 
-"Hah, that's an easy one— *no*. Also there's no definitive answer, so some folks think that the answer is 'yes.'"
+"Hah, that's an easy one—*no*. Also there's no definitive answer, so some folks think that the answer is 'yes.'"
 
 &nbsp;
 
 ### Adam & the Garden of Eden
 **If the Garden of Eden was in Missouri, how did Abraham, Moses and other prophets end up in the Old World?**
 
-> *The solution chosen by an individual member will probably depend mostly on their attitudes to other issues about which there is no official Church position and a variety of positions espoused by members.*
+> *The solution chosen by an individual member will probably depend mostly on their attitudes to other issues about which there is ==no official Church position== and a variety of positions espoused by members.*
 
 — [Mormonism and doctrine/Adam](https://www.fairlatterdaysaints.org/answers/Mormonism_and_doctrine/Adam#Question:_If_the_Garden_of_Eden_was_in_Missouri.2C_how_did_Abraham.2C_Moses_and_other_prophets_end_up_in_the_Old_World.3F), FAIR
 

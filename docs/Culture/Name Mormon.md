@@ -8,7 +8,7 @@ comments: true
 
 &nbsp;
 
-At the end of the day, one growing problem that the LDS church is facing is that continuous revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, ~~Ensign~~ Liahona. This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9). *They have to do this*. They have no choice. If they do not, they cease to prove their value. If they don't present anything new, why are we listening to them under the pretense of continuing revelation?
+At the end of the day, one growing problem that the LDS church is facing is that continuing revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, ~~Ensign~~ Liahona. This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9). *They have to do this*. They have no choice. If they do not, they cease to prove their value. If they don't present anything new, why are we listening to them under the pretense of continuing revelation?
 
 &nbsp;
 
@@ -39,7 +39,7 @@ I'll also observe that the document cited by Nelson describing "too frequent use
 > 
 > *“Look,” he went on to say, “if there is any name that is totally honorable in its derivation, it is the name Mormon. And so, when someone asks me about it and what it means, I quietly say— ==‘Mormon means more good.’==”*
 
-— [_Mormon_ Should Mean “More Good”](https://www.churchofjesuschrist.org/study/general-conference/1990/10/mormon-should-mean-more-good?lang=eng&id=p15-p18#p15), Gordon B Hinckley, General Conference October 1990
+— *[Mormon Should Mean “More Good”](https://www.churchofjesuschrist.org/study/general-conference/1990/10/mormon-should-mean-more-good?lang=eng&id=p15-p18#p15)*, Gordon B Hinckley, General Conference October 1990
 
 I'd paraphrase the above quote as “we can’t stop people from calling us Mormons. Might as well lean into it… besides, they could be calling us worse things!”
 

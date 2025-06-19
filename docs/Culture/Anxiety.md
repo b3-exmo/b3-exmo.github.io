@@ -47,6 +47,6 @@ I'd be pretty dismayed to hear God respond to his chosen prophet by saying "stop
 
 I'd also feel tense about talking to God if he gave the stipulation that "you figure it out on your own first, *then* ask me." The only thing that could make that idea worse is if God's response was intangible and vague. ([D&C 9:8-9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=eng&id=p8-p9#p8))
 
-It'd also be pretty upsetting to hear God tell Joseph that "I don't want to have to tell you every little thing to do! If you do that, you're lazy and stupid." ([D&C 58:26](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p26#p26))
+It'd also be pretty upsetting to hear God tell Joseph to "slow down and wait for me to tell you what to do&mdash; I need a minute to make some preparations before you can continue to do what I say." ([D&C 5:35](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?id=p34&lang=eng#p34)), when this same God then tells Joseph that "I don't want to have to tell you every little thing to do! If you do that, you're lazy and stupid." ([D&C 58:26](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p26#p26))
 
 Oh. Okay, maybe I'll... I'll just keep my concerns to myself, then.

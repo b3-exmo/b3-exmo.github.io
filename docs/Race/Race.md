@@ -4,9 +4,11 @@ comments: true
 # 🏁 Race
 For 126 years, between [[Brigham Young|Brigham Young]]’s presidency beginning and 1978, imagine thousands of black Mormons praying to God to please lift the temple/priesthood ban… Then imagine [David O’McKay praying about it](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood?lang=eng&id=p12#p12) and concluding, “Nah. We’re good for now.”
 
-A church that claims to be [[Restoration|restored]] by God should be ahead of the ‘[[Book of Mormon#Natural Man|natural man]]’ in getting things right, not behind. They took away the right of black members to enter the Celestial Kingdom, which is a spiritual issue, not a civil issue. The church likes to simply call it a priesthood ban, but let's not overlook that priesthood is a prerequisite for salvation. Folks were banned from salvation because of their race. I'll expound more on that later.
+The LDS church has had some really odd takes on race in the past, and today likes to pretend that none of it ever happened. I'll be aggregating some quotes, teachings, and adding my own comments and thoughts to them. I will note that I am a white American, arguably the least qualified demographic to offer meaningful commentary on racial prejudice as none of this has ever [impacted me directly](https://youtu.be/RovF1zsDoeM&t=54). Also, ==please note that I'll be using direct quotes== from LDS church figureheads in the 19th and 20th centuries who use terms that we today consider to be offensive slurs. You know, figureheads like prophets and apostles who represent an eternally loving, unchanging father figure to all of mankind.
 
-The LDS church has had some really odd takes on race in the past, and today likes to pretend that none of it ever happened. I'll be aggregating some quotes, teachings, and adding my own comments and thoughts to them. I will note that I am a white American, arguably the least qualified demographic to offer meaningful commentary on racial prejudice as none of this has ever [impacted me directly](https://youtu.be/RovF1zsDoeM&t=54). Also, please note that I'll be using direct quotes from LDS church figureheads in the 19th century who use terms that we today consider to be offensive slurs.
+&nbsp;
+
+A church that claims to be [[Restoration|restored]] by God should be ahead of the ‘[[Book of Mormon#Natural Man|natural man]]’ in getting things right, not behind. They took away the right of black members to enter the Celestial Kingdom, which is a spiritual issue, not a civil issue. The church likes to simply call it a priesthood ban, but let's not overlook that priesthood is a prerequisite for salvation. Folks were banned from salvation because of their race. I'll expound more on that later.
 
 &nbsp;
 
@@ -35,7 +37,7 @@ Secondary sources
 
 &nbsp;
 
-Sounds to me like the statement is "this is doctrine, not policy," and "they deserve it anyway." For it to be "unavailable for research" sounds to me like it implies "it exists; we know the document you're talking about, but we won't give it to you."
+For this document to marked as "unavailable for research" sounds to me like it implies "it exists; we know the document you're talking about, but we won't give it to you." Sounds to me like the statement is "this is doctrine, not policy," and "they deserve it anyway."
 
 &nbsp;
 
@@ -57,7 +59,7 @@ This guy has numerous things to say about race. I'll put just one quote here, bu
 
 ## 1978 - 1999
 ### Bruce R. McConkie
-My boy Bruce has plenty to say on plenty of topics. He has some quotes on race both before and after the revelation, which I have copied [[Various Quotes#McConkie|on another page]] for the sake of organizing by speaker rather than by time. I'd summarize the two statements as: "we are justified in these awful, racist teachings given to us from prophets of old," and "never mind, we're not racist anymore, but you're the one who needs to repent now."
+My boy Bruce has plenty to say on plenty of topics. He has some quotes on race both before and after the revelation, which I have copied [[Various Quotes#McConkie|on another page]] for the sake of organizing by speaker rather than by time. I'd summarize the two statements as: "we are justified in these awful, racist teachings given to us from prophets of old," and "never mind, God is not racist anymore, and so we aren't either&mdash;but *you're* the one who needs to repent now."
 
 &nbsp;
 
@@ -122,8 +124,12 @@ Sounds to me like this "revelation" is in response to a business problem. They b
 
 Alright, sure, cool, you can disavow theories, but *[[Race in scripture|scripture]] is not theory.* Until you disavow that *doctrine*, your words mean shit to me.
 
+&nbsp;
+
 "We're sad that we published something offensive and inaccurate."
+
 "Did you retract those erroneous statements?"
+
 "What statements?"
 
 &nbsp;

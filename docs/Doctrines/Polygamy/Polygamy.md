@@ -73,7 +73,7 @@ I guess hot water is bad, though, because you might get tempted to roast and gri
 ### Adam's time
 If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. As described above, Brigham Young did teach this. To date, I haven't encountered anyone else make this claim— I would think that if it were plain and obvious, biblical scholars would agree that Adam was polygamous. That detail was omitted from Genesis, Pearl of Great Price, and from temple ceremonies. It would be a pretty convincing precedent to be [[Restoration|restored]].
 
-It's enough to make me think that maybe an adulterous, extramarital affair being called a "[[Sealing|sealing]]" to divert scrutiny was just that— adultery and diversion.
+It's enough to make me think that maybe an adulterous, extramarital affair being called a "[[Sealing]]" to divert scrutiny was just that— adultery and diversion.
 
 &nbsp;
 

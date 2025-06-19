@@ -18,9 +18,9 @@ We can read the [1830 edition](https://www.josephsmithpapers.org/paper-summary/b
 
 — [Understanding the Process of Publishing the Book of Mormon](https://newsroom.churchofjesuschrist.org/article/understanding-the-process-of-publishing-the-book-of-mormon#), Church Newsroom, January 2008
 
-A Scripture Committee? That's something I'd like to read more about. The Church itself to describing "almost 4,000 editing corrections" makes me think we have an officially sanctioned count and enumeration of those changes. That's also something I'd like to read more about.
+A Scripture Committee? That's something I'd like to read more about. The Church itself is describing "almost 4,000 editing corrections," which makes me think we have an officially sanctioned count and enumeration of those changes. That's also something I'd like to read more about.
 
-What's this? Five *major* editions? Reader, if you were to grab your printed copy of the Book of Mormon, look through the cover & title pages, and let me know if you can find which edition it is. Seems to me that if there were multiple editions, the least the church could do is tell you that upfront.
+What's this? Five *major* editions? Reader, if you were to grab your printed copy of the Book of Mormon, look through the cover & title pages and let me know if you can find which edition it is. Seems to me that if there were multiple editions, the least the church could do is tell you that upfront.
 
 &nbsp;
 
@@ -87,7 +87,7 @@ Moreover, in the chapters surrounding these excerpts of visions shown to Nephi, 
 
 Same chapter, same page.
 
-Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. Examining the 1837 edition uses titles for God that we, today, use for Jesus. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
+Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. The 1837 edition uses titles for God that we, today, use for Jesus. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
 
 &nbsp;
 
@@ -103,7 +103,7 @@ That discrepancy aside, calling the original manuscripts perfect makes me think 
 &nbsp;
 
 ## Godhead
-For the LDS church to tout is non-trinitarian view of the godhead, there sure seems to be some trinitarian views in our flagship scripture.
+For the LDS church to tout its non-trinitarian view of the godhead, there sure seems to be some trinitarian views in our flagship scripture.
 
 >_Now Zeezrom saith again unto him: Is the Son of God the very Eternal Father?_
 >

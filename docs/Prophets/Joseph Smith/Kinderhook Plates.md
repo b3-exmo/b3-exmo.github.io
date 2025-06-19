@@ -82,7 +82,7 @@ Oh. How convenient. Joseph's mention of starting to translate the prank-plates w
 
 Are we thinking of a different "history of Joseph Smith"?
 
-> ***History of the Church** (cited as **HC**) (==originally entitled *History of Joseph Smith==*; first published under the title **History of the Church of Jesus Christ of Latter-day Saints**; nicknamed **Documentary History of the Church** or *DHC*) is a semi-official history of the early [Latter Day Saint movement](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement "Latter Day Saint movement") during the lifetime of founder [Joseph Smith](https://en.wikipedia.org/wiki/Joseph_Smith "Joseph Smith").*
+> ***History of the Church** (cited as **HC**) (==originally entitled History of Joseph Smith==; first published under the title* **History of the Church of Jesus Christ of Latter-day Saints**; *nicknamed* **Documentary History of the Church** *or* DHC) *is a semi-official history of the early [Latter Day Saint movement](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement "Latter Day Saint movement") during the lifetime of founder [Joseph Smith](https://en.wikipedia.org/wiki/Joseph_Smith "Joseph Smith").*
 >
 > *. . .*
 >

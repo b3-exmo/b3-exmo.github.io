@@ -21,6 +21,8 @@ Remember that, now. It's about to be very important.
 
 Does no one think this is a problem?
 
+&nbsp;
+
 > *Scholars have identified the papyrus fragments as parts of ==standard funerary texts== that were deposited with mummified bodies. These fragments date to between the third century B.C.E. and the first century C.E., ==long after Abraham lived==.*
 > 
 > *Of course, ==the fragments do not have to be as old as Abraham== for the book of Abraham and its illustrations to be authentic.*
@@ -34,9 +36,13 @@ Excuse me? For the record to say it was literally written by the hand of Abraham
 
 Alternatively? If this was by revelation, what does that say about this being a translation?
 
+&nbsp;
+
 > *This view assumes a ==broader definition of the words translator and translation==. According to this view, Joseph’s translation was not a literal rendering of the papyri as a conventional translation would be. Rather, the physical artifacts provided an occasion for meditation, reflection, and revelation. They catalyzed a process whereby God gave to Joseph Smith a revelation about the life of Abraham, even if that revelation did not directly correlate to the characters on the papyri.*
 
 Oh. Good. Cool. Fine, nothing here seems suspicious. If we just redefine what “translation” _means_ then yeah he totally translated it. What if this assumes a broader definition of the word “charlatan”?
+
+&nbsp;
 
 > *The veracity and value of the book of Abraham cannot be settled by scholarly debate concerning the book’s translation and historicity.*
 

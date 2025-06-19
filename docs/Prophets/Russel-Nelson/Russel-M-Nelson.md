@@ -7,16 +7,20 @@ comments: true
 
 — *[Latter-day Saint Prophet, Wife and Apostle Share Insights of Global Ministry](https://web.archive.org/web/20250101170109/https://newsroom.churchofjesuschrist.org/article/latter-day-saint-prophet-wife-apostle-share-insights-global-ministry)*, 30 October 2018 ([1](https://www.sltrib.com/religion/2018/10/31/this-week-mormon-land/), [2](https://www.fox13now.com/2018/11/02/hes-been-unleashed-says-wendy-nelson-wife-of-russell-m-nelson-president-of-the-church-of-jesus-christ-of-latter-day-saints))
 
-Damn, crazy how God’s ideals are aligned with those ideals of whoever the current prophet is
+Damn, crazy how God’s ideals are always perfectly aligned with those ideals of whoever the current prophet is
 
-No joke, this was a really big [[Shelf|shelf item]] for me. This interview was given right when I hit my faith crisis. What I read from this quote is that the president of the LDS church is not acting in God's behalf. Things that President Nelson was quick to enact sound like things he'd been cooking up for years, *decades* possibly. We already have a precedent of Elder Russell Nelson suggesting [[Name Mormon#1990|we shouldn't call ourselves Mormons back in 1990]]. Isn't it just *wild* how God finally agreed with Nelson immediately after he was called to be the church president? God clearly [[Name Mormon#“I’m a Mormon” campaign|wasn't offended]] by the word "Mormon" during any prior church presidency.
+&nbsp;
 
-To me, this calls into question how divinely inspired this man is— did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
+No joke, this was a really big [[Shelf|shelf item]] for me. This interview was given right when I hit my faith crisis. What I read from this quote is that the president of the LDS church is not acting in God's behalf. Things that President Nelson was quick to enact sound like things he'd been cooking up for years, *decades* possibly. We already have a precedent of Elder Russell Nelson suggesting [[Name Mormon#1990|we shouldn't call ourselves Mormons back in 1990]]. Isn't it just *wild* how God finally agreed with Nelson immediately after he was called to be the church president? God clearly [[Name Mormon#“I’m a Mormon” campaign|wasn't offended]] by the word "Mormon" during *any* prior church presidency.
+
+To me, this calls into question how divinely inspired this man is—did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
+
+And, just to make sure that you and I are on the same page&mdash;I am not interested in *ad hominem* smack-talk "this guy sucks and also is old" as an attitude here. At the time of writing, he's still alive at 100 years old. Irrespective of religious affiliation, respect where it's due for someone three times my age. I intend to criticize specific claims or qualities. No, I don't *like* Nelson, but I'm not here to make libelous allegations or defame him. 
 
 &nbsp;
 
 ## Education
-I intend to tread carefully here— not out of fear of reprisal from church members, but out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon.
+I intend to tread carefully here—not out of fear of reprisal from church members, but out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon.
 
 What I mean to suggest instead is that Nelson seems to have internalized one of President Benson's *[[14 Fundamentals#5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.|Fourteen Fundamentals in Following the Prophet]]*, where the acting president of the church doesn't need "any particular earthly training or diplomas to speak on any subject or act on any matter at any time." Nelson was, by my understanding, a successful *heart surgeon*. I believe that he can authoritatively talk to anyone *about heart surgery*.
 
@@ -39,7 +43,7 @@ One, I don't think that actually *is* "the way genetics works."
 
 Two, someone with *40 years experience* as a medical doctor should have a better understanding of "the way genetics works," and maybe shouldn't use the word "incomprehensible" to describe the generally accepted understanding of evolution.
 
-Three, "lower animals/species" sounds like a very cavalier way of looking at God's creations. 
+Three, "lower animals/species" sounds like a very cavalier way of looking at God's creations. Didn't God charge mankind with stewardship over the Earth? The temple endowment ceremony says, by my recollection, "take good care of it." Nelson doesn't say that this surgical practice was a [vivisection](https://en.wikipedia.org/wiki/Vivisection), but I have a hard time imagining what else it could be.
 
 &nbsp;
 
@@ -85,6 +89,25 @@ Talk to someone who has worked as a CNA about how employable their medical work 
 
 &nbsp;
 
+## What has he done?
+What good has Russel Nelson done for the world?
+
+From the perspective of one outside the LDS church, what accomplishment or contribution from Nelson would you point to as an example of his prophetic authority?
+
+From the perspective of an active, temple-recommend-holding LDS member, what makes Nelson meaningfully different from Monson, Hinckley, or Hunter?
+
+From the perspective of a life-long traditional Catholic, what would draw your attention from the centralized theological authority in the Vatican to the one Salt Lake City?
+
+&nbsp;
+
+Nelson has announced numerous temples? Cool. Tell me more about that. I'm not trying to suggest that temples are a nonsensical waste of time&mdash;I am challenging the idea that we needed Russel Nelson to announce them.
+
+If the "selling point" of having a living prophet, a spokesman for God, alive today in this dispensation, is that he leads and guides *us*, who are alive, here, today, living in 2025, then what in the jolly-good fuck is he doing announcing temples? Shouldn't he be, I don't know, *prophesying*? Telling us something meaningful from God? Temples primarily benefit those who have died. What about us who are still alive?
+
+Anyone could announce temples. A delegated apostle or seventy could have done that. President Hinckley announced lots of temples. Did temple announcements somehow become *more important* since 2008, or 2018?
+
+&nbsp;
+
 ## Pandemic Foresight
 ### 2019
 If ever there was an opportunity for God to show *the entire world* that He has a living spokesperson on Earth, a prophet, seer, revelator, one who can see around corners, help guide the faithful, etc. *this was it*. We've got more practicing LDS faithful tuning in live to hear the prophet's divine wisdom than at any prior time, expecting leaders to share some insights, words of warning, assurance if it were nothing to fear, advice to prepare, *anything* would be a great chance to show that this church is led by God Himself.
@@ -107,7 +130,7 @@ What do we get instead?
 
 &nbsp;
 
-Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of sanitized version of Joseph Smith's [[First Vision]]. Nelson could not have been more clear on what he meant.
+Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of the sanitized version of Joseph Smith's [[First Vision]]. Nelson could not have been more clear on what he meant.
 
 &nbsp;
 
@@ -145,21 +168,21 @@ We're told that prophets "[see around corners](https://speeches.byuh.edu/devotio
 
 &nbsp;
 
-I don't know how else to interpret Nelson's claim that this conference would be unlike any other. It's the 200th anniversary of something that *definitely happened in 1820* don't look into that claim please
+I don't know how else to interpret Nelson's claim that this conference would be unlike any other. It's the 200th anniversary of something that *[[First Vision|definitely happened in 1820]]* don't look into that claim please
 
 Nelson wanted to make another formal *proclamation*, because he won't rest until he can one-up Hinckley at every opportunity. This is what Nelson was excited about, to make it memorable and unforgettable. It's 200 years after the canonized record of the First Vision.
 
 &nbsp;
 
-What a curious choice of words these selected paragraphs have. They didn't seem to mention that Joseph made absolutely no record of this world-changing event [[First Vision#Timeline of Accounts|for ten years]]— incidentally the same year that the LDS Church was [[Name Mormon#Name changes|founded]].
+What a curious choice of words these selected paragraphs have. They didn't seem to mention that Joseph made absolutely no record of this world-changing event [[First Vision#Timeline of Accounts|for ten years]]—incidentally the same year that the LDS Church was [[Name Mormon#Name changes|founded]].
 
-They did say in explicit terms that "God the Father and His Son, Jesus Christ, ==appeared== to Joseph[.]" The next sentence expounds on what happened "[i]n this ==vision==[.]" Makes me think that they're trying to equivocate around saying that Elohim and Jehovah both physically were present in New York, seeing how they "appeared" "in this vision." Not quite as bold and declarative as I'd have expected. I mean, that would imply that the [[Second Coming]] already happened, or else that the Second one [[Second Coming#How many times?|isn't actually the second]] appearance.
+They did say in explicit terms that "God the Father and His Son, Jesus Christ, ==appeared== to Joseph[.]" The next sentence expounds on what happened "[i]n this ==vision==[.]" Makes me think that they're trying to equivocate around saying that Elohim and Jehovah both physically were present in Palmyra, New York, seeing how they are described as having "appeared" "in this vision." Not quite as bold and declarative as I'd have expected. I mean, that would imply that the [[Second Coming]] already happened, or else that the Second one [[Second Coming#How many times?|isn't actually the second]] appearance.
 
 &nbsp;
 
-Outside of nitpicking the vernacular, why was this proclamation necessary? The illustration "preaching to the choir" comes to mind. Who is for? A grand majority of folks tuning in to listen to this conference do so because they believe that the speakers are divinely inspired and authorized by God—because of the First Vision. Nelson is assuring believers in the First Vision that the First Vision happened, which means that Nelson is authorized to speak for God. 
+Outside of nitpicking the vernacular, why was this proclamation necessary? The illustration "preaching to the choir" comes to mind. Who is for? A grand majority of folks tuning in to listen to this conference do so because they believe that the speakers are divinely inspired and authorized by God *because of the First Vision*. Nelson is assuring believers in the First Vision that the First Vision happened, which means that Nelson is authorized to speak for God.
 
-If you'd like to postulate that this proclamation is meant for non-members, that's fine, but please— imagine this kind of proclamation from some other faith. If you were handed a printed proclamation by [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) asserting that the publication of [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)'s *Dianetics* is a key historical event for the world, would you think "*by my troth*, this is all the definitive proof I needed! Sign me up for exorbitantly priced books, *post-haste*!" Or some similar publication from Bob Ciranko of JW's *Watchtower* reminding you that 144,000 individuals will be [[Sealing|sealed]] and "[are chosen](https://web.archive.org/web/20240503230238/https://wol.jw.org/en/wol/d/r1/lp-e/2004647#h=3) from among mankind to rule with Christ in heaven over the coming Paradise earth". Having read that in a formal proclamation issued by the upper echelons, would *that* sway your opinion of either group?
+If you'd like to postulate that this proclamation is meant for non-members, that's fine, but please—imagine this kind of proclamation from some other faith. If you were handed a printed proclamation by [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) asserting that the publication of [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)'s *Dianetics* is a key historical event for the world, would you think "*by my troth*, this is all the definitive proof I needed! Sign me up for exorbitantly priced books, *post-haste*!" Or some similar publication from Bob Ciranko of JW's *Watchtower* reminding you that 144,000 individuals will be [[Sealing|sealed]] and "[are chosen](https://web.archive.org/web/20240503230238/https://wol.jw.org/en/wol/d/r1/lp-e/2004647#h=3) from among mankind to rule with Christ in heaven over the coming Paradise earth". Having read that in a formal proclamation issued by the upper echelons, would *that* sway your opinion of either group?
 
 In either of these hypothetical scenarios, I might imagine why are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that isn't new information. Most anyone familiar with Mormonism would know superficially about Joseph Smith claiming to have seen God and producing a text afterward. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet— find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to baptism, then what was the point of the proclamation?
 
@@ -172,7 +195,7 @@ Well, surely if Nelson hadn't used his prophetic mantle to warn us of COVID in 2
 ### Vitamins
 *Eat your vitamin pills!* ([1](https://www.youtube.com/watch?v=0ClAOEkuYiM), [2](https://www.thechurchnews.com/2018/11/28/23264563/video-eat-your-vitamin-pills-get-your-rest-says-president-nelson-on-the-future-of-the-church/), [3](https://www.thechurchnews.com/living-faith/2023/9/22/23883693/sarah-jane-weaver-president-russell-nelson-invitation-eat-vitamin-get-some-rest-needed-now/), [4](https://www.deseret.com/2018/11/28/20659988/church-news-eat-your-vitamin-pills-get-your-rest-says-president-nelson-on-the-future-of-the-church/), [5](https://latterdaysaintmag.com/president-nelson-on-the-future-of-the-church-eat-your-vitamin-pills-get-your-rest-its-going-to-be-exciting/)) 
 
-Really, though, examine as many of those linked citations as you'd like. Read them and re-read them. Was there any hint, implication, or the mildest suggestion that there's an upcoming public health crisis?
+Really, though... Examine as many of those linked citations as you'd like. Read them and re-read them. Was there any hint, implication, or the mildest suggestion that there's an upcoming public health crisis?
 
 Before you accuse me of being unfair by selecting a quote that wasn't presented over the pulpit, I will direct your attention to [Quentin Cook quoting Nelson's admonition](https://www.churchofjesuschrist.org/study/general-conference/2019/10/25cook?lang=eng&id=p2#p2) to take vitamins.
 
@@ -193,7 +216,7 @@ The newsroom article describes that this *Come, Follow Me* program is meant to "
 
 So... Read through as much of this article as you have patience for. While you're there, tell me what part you saw as related to a global pandemic upending the world's economy. Maybe I'm just a miserable grump, but I don't see *jack shit* in here about an upcoming pandemic.
 
-If you'd like to draw the connection that at-home scripture study is indicative that people will be heavily encouraged to stay in their homes as prophetic foresight, then... I don't know, man, if that's where you're going, I just don't know what to tell you. Pause and think if that leap of logic would stand under scrutiny of any of your non-religious peers or friends. Find a neutral third-party, and ask "hey, imagine a hypothetical organization's leader cutting a physical gathering's duration by one hour and providing a structured at-home study program beginning in 2019. Do you think that's divine insight? Would you understand that to be a forewarning of COVID-19? Is that indicative that this leader is led by God?"
+If you'd like to draw the connection that at-home scripture study is indicative that people will be heavily encouraged to stay in their homes as prophetic foresight, then... I don't know, man, if that's where you're going, I just don't know what to tell you. Pause and think if that leap of logic would stand under scrutiny of any of your non-religious peers or friends. Find a neutral third-party, and ask "hey, imagine a hypothetical organization's leader cutting a physical gathering's duration by one hour and providing a structured at-home study program beginning in 2019. Do you think that's divine insight? Would you understand that to be a forewarning of COVID-19? Is that indicative that this leader is led by God?" Straight up, ask someone this, and tell me what their response is.
 
 &nbsp;
 
@@ -216,7 +239,7 @@ If you'd like to draw the connection that at-home scripture study is indicative 
 
 &nbsp;
 
-Yeah, man. "Designed especially for you and your generation[.]" To be launched weeks before the world shuts down, and our kids & teenagers will do absolutely fuck-all with it because they won't meet in-person for months.
+Yeah, man. "Designed especially for you and your generation[.]" To be launched weeks before the world shuts down, and our kids & teenagers will do absolutely fuck-all with it because they won't meet in-person for months, or even years.
 
 Was *Come, Follow Me* inspired and timely in anticipation of at-home study due and pandemic lockdowns? Then tell me how this other program, explicitly described as being designed for *these kids at this time*, was... maybe *not* divinely inspired?
 
@@ -241,18 +264,19 @@ Would you decide that the only necessary prep work in anticipation of people des
 
 &nbsp;
 
-Consider these options:
+Consider these options, in response to this hypothetical scenario:
 
 - Make a strong reminder about the practice of food storage, supplies, emergency preparedness; de-emphasized in recent years
 - Tell adherents (or the whole world) to get debts and finances in order in anticipation of financial hardship and uncertainty
 - Donate some funds from your $150 billion stock portfolio to provide hospitals with PPE
+- Use funds from that investment portfolio to stockpile PPE in anticipation of supply shortages 
 - Switch the temple garment manufacturing to produce PPE well in advance
 - Leverage medical credentials and connections to virologists to begin developing a vaccine years in advance
 - Advise leadership of any scale (church congregations, states, nations) how to contain the spread, if only just to reduce panic
 - Announce in 2019 that 2020's general conference session will be entirely online, as to dissuade people from wasting time and money on flights and travel arrangements
 - Call all full-time missionaries home by the end of 2019, and stop sending out new ones
 
-"oh, but President Nelson didn't want to scare everyone" shut the fuck up What was scary was society collapsing, having no idea who to trust, hearing about hundreds of thousands of deaths while you're trapped in your home, and hearing a quorum of fifteen prophets of God saying "idk lol" because if there was ever a time for *one human* to authoritatively speak in behalf of God, it would have been *very timely* for him to talk in April 2020 about something other than Joseph Smith's First Vision.
+"oh, but President Nelson didn't want to scare everyone" *shut the fuck up* What was scary was society collapsing, having no idea who to trust, hearing about hundreds of thousands of deaths while you're trapped in your home, and hearing a quorum of fifteen prophets of God saying "idk lol" because if there was ever a time for *one human* to authoritatively speak in behalf of God, it would have been *very timely* for him to talk in April 2020 about something other than Joseph Smith's First Vision.
 
 "Corrupt government officials wouldn't listen anyway" yeah? Is it because the church hasn't had anything meaningful to say outside of "Jesus good, porn bad?" Even if government officials didn't listen at the outset, they could have had a clear record that "those oddballs in Utah had a lot of this figured out months in advance, maybe we should listen to them in the future."
 

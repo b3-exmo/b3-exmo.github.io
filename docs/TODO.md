@@ -4,7 +4,7 @@ comments: true
 # 🗒️ TODO
 ## Functional
 
-- [ ] [[BoM Changes#Enumeration of Changes|Book of Mormon Edition Changes]]
+- [ ] [[Changes#Enumeration of Changes|Book of Mormon Edition Changes]]
 - [ ] Readability
 	- [ ] Ellipses correction
 	- [x] Indentation
@@ -23,7 +23,7 @@ I'm not entirely certain, but I think I might be using ellipses improperly for a
 ## Topics
 For many of these topics, I do have some existing notes, but they aren't in a presentable condition. Others, I've yet to write down some thoughts on. No, I’m not differentiating them here in this list. I have a day job, is all. I'll get to it.
 
-- [ ] Anti-LGBT
+- [x] Anti-LGBT
 - [ ] Before Utah
 	- [ ] American Frontier Magic
 	- [ ] Kirtland Safety Society
@@ -45,6 +45,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 	- [ ] Minimizing / "So-Called"
 	- [x] Repudiating the Journal of Discourses
 	- [ ] Persecution Complex
+	- [x] Privilege
 	- [ ] Prosperity Gospel
 	- [x] Scrupulosity
 - [x] Doctrines
