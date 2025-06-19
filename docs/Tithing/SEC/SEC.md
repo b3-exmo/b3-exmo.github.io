@@ -99,7 +99,7 @@ Over a period of time? Did they stop cooperating?
 
 > _We affirm our commitment to comply with the law, ==regret mistakes made==, and now ==consider this matter closed==._
 
-Slow down. You could call this a regrettable mistake, but don't forget whose money is being used fraudulently. I paid into this fund. Ostensibly, readers of these notes likely paid into it as well. I don't think the church should be the ones to "consider this matter closed" because *it was our fucking money* that we donated with the expectation that it's feeding impoverished humans, not feeding a stock portfolio.
+Slow down. You could call this a regrettable mistake, but don't forget whose money is being used fraudulently. I paid into this fund. Ostensibly, readers of these notes have likely also paid into it as well. I don't think the church should be the ones to "consider this matter closed" because *it was our fucking money* that we donated with the expectation that it's feeding impoverished humans, not feeding a stock portfolio.
 
 &nbsp;
 
@@ -122,7 +122,7 @@ According to the SEC, the US governmental authority on... securities exchanges, 
 
 > *The SEC’s order finds that, from ==1997 through 2019==, Ensign Peak failed to file Forms 13F, the forms on which investment managers are required to disclose the value of ==certain securities they manage==. According to the order, the Church was concerned that disclosure of its portfolio, which by 2018 grew to approximately $32 billion, would ==lead to negative consequences==. To obscure the amount of the Church’s portfolio, and ==with the Church’s knowledge and approval==, Ensign Peak created ==thirteen shell LLCs==, ostensibly with locations throughout the U.S., and filed Forms 13F in the names of these LLCs rather than in Ensign Peak’s name. The order finds that ==Ensign Peak maintained investment discretion== over all relevant securities, that it ==controlled the shell companies==, and that it directed nominee “business managers,” most of whom were employed by the Church, to sign the Commission filings. The shell LLCs’ Forms 13F misstated, among other things, that the LLCs had sole investment and voting discretion over the securities. In reality, the SEC’s order finds, ==Ensign Peak retained control over all investment and voting decisions==.*
 
-Over 22 years. Each quarter over the span of 22 years. The church had up to *88* opportunities to correct what they're calling a regrettable mistake. Legal scrutiny found that this regrettable mistake was to avoid negative consequences, "with the Church's knowledge and approval[.]" You don't accidentally make thirteen shell LLC's to obscure your profile. They knew what they were doing, and did it deliberately. Did they weigh what the negative consequences were versus the public relations damage for committing fraud? I can only assume so.
+Over 22 years. Each quarter over the span of 22 years. The church had up to *88* quarterly opportunities to correct what they're calling a regrettable mistake. Legal scrutiny found that this regrettable mistake was to avoid negative consequences, "with the Church's knowledge and approval[.]" You don't accidentally make thirteen shell LLC's to obscure your profile. They knew what they were doing, and did it deliberately. Did they weigh what the negative consequences were versus the public relations damage for committing fraud? I can only assume so.
 
 Refer again to the opening statement in this page of notes: is the SEC just a bunch of miserable paper-pushers looking to bully the church? Or did the church commit fraud and now has to face consequences? 
 
@@ -142,7 +142,7 @@ I am not a lawyer, but my loose understanding of having "agreed to settle" can i
 
 &nbsp;
 
-At the bottom of the SEC's PR statement is a link to the cease-and-desist order. I'll examine that in [[SEC Order|another page]], this one is meant to just be an overview and compare the two PR statements.
+At the bottom of the SEC's PR statement is a link to the cease-and-desist order. I'll examine that in [[SEC Order|another page]], this one is meant to just be an overview and comparison of the two PR statements.
 
 &nbsp;
 

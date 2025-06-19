@@ -111,7 +111,7 @@ Well golly gee if only we had a spokesperson for God who could obtain and interp
 
 &nbsp;
 
-Let's not overlook that the premise of this "curse" is to [[Skin of blackness#2 Nephi 5 21|not be enticing]] to God's white & delightsome people. I guess folks were worried about those with darker complexions getting us all hot and bothered when they put on temple robes?
+Let's not overlook that the premise of this "curse" is to [[Skin of blackness#2 Nephi 5|not be enticing]] to God's white & delightsome people. I guess folks were worried about those with darker complexions getting us all hot and bothered when they put on temple robes?
 
 &nbsp;
 

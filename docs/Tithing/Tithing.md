@@ -154,7 +154,7 @@ So, in essence, it doesn’t matter where the money is paid _from_… it all get
 ### Public Information
 > *The Mormon Church's real-estate empire ==easily exceeds $1 billion==, including ==farms and ranches== in the West and Midwest, buildings and apartments on the West Coast and a huge chunk of land in central Florida, The Arizona Republic reported Tuesday.*
 > 
->  *Given its enormous ==**income from tithing and business operations**==, it appears the church is ==investing several hundred million dollars a year== in ==securities and real estate==, the newspaper said in the third installment of a four-part series on the holdings of the Utah-based church. "I would say they're probably ==one of the largest private owners of farmland in the United States==," said John Scott, professor of land economics and farm management at the University of Illinois, although he hasn't compiled records to prove that.*
+>  *Given its ==**enormous income from tithing and business operations**==, it appears the church is ==investing several hundred million dollars a year== in ==securities and real estate==, the newspaper said in the third installment of a four-part series on the holdings of the Utah-based church. "I would say they're probably ==one of the largest private owners of farmland in the United States==," said John Scott, professor of land economics and farm management at the University of Illinois, although he hasn't compiled records to prove that.*
 > 
 >  *Officials of The Church of Jesus Christ of Latter-day Saints ==refuse to disclose information about real-estate holdings, even to members==, saying such information would distract from the church's ecclesiastical mission.*
 

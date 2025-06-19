@@ -18,7 +18,7 @@ Doing baptisms for the dead as a teenager was always hyped up as a life-changing
 ## Temple Prep
 It comes to a head when I’m preparing to serve a mission. Taking part in the Temple Prep class was a big red flag. For around six weeks during the third hour, and each lesson was “well, it’s very symbolic, and is very sacred.” Each week the instructor would say, in so many words, that this is very sacred and we can’t talk about it outside the temple. One needs to be in tune with the spirit to receive this information properly.
 
-I’d come “prepared” by meditating, pondering, and praying. Same message every week. It's [[Too Sacred to Share|too sacred to talk about]] here. My skepticism grew each successive week— why am I going to this class if it's just a nothing-burger?
+I’d come “prepared” by meditating, pondering, and praying. Same message every week. It's [[Too Sacred to Share|too sacred to talk about]] here. My skepticism grew each successive week—why am I going to this class if it's just a nothing-burger?
 
 The night before going to the temple for my own endowment ceremony, my dad tried to soften the upcoming blow by describing the ceremony: *Anti-Mormons will say that the ceremony consisting of a lot of passwords and secret handshakes. In reality… it consists of a lot of passwords and secret handshakes. But it’s not weird, there are attendants who will help you through them!* I guess that’s the part that my temple prep class kept skirting around.
 
@@ -42,18 +42,24 @@ Another key component was statistics. Specifically, how critical thinking applie
 
 The approximately 40-minute drive between my home and my university was a nice opportunity to listen to podcasts or music. Other days, it's a nice time for quiet reflection, as the drive had very few turns once I reached the thoroughfare. I do recall one day pondering how [[What are blessings|blessed]] I felt to be in this position. I was in my late 20's, with my own private car, enjoying some air conditioning, driving independently to a post-secondary education. By the media console in the car was a smartphone, able to stream media remotely, then use Bluetooth to play the content over the stereo in my car. In my last few semesters, I needed to decide between a course in digital forensics or web application security. That decision is what weighed most heavily on my mind.
 
-At once, the thought occurs to me, "there are impoverished humans, children of God, who don't even have clean water." And here I was, with a steel double-insulated tumbler, keeping refreshing, icy water at a frigid temperature even in late July. What makes me so special, so fortunate? Why is there such an awful disparity between me, a middle-class white American man, and Syrian children who truly believed they wouldn't survive to next week? There are humans with more money than they could hope to spend in their lifetime, and there are humans whose lives would be forever changed by a single cash injection of $50 USD, or even a durable pair of shoes.
+At once, the thought occurs to me, "there are impoverished humans, children of God, who don't even have clean water." And here I was, with a steel double-insulated tumbler, keeping refreshing, icy water at a frigid temperature even in late July. What makes me so special, so fortunate? Why is there such an awful disparity between me, a middle-class white American man, and Syrian children who truly believed they would die of thirst before next week? There are humans with more money than they could hope to spend in their lifetime, and there are humans whose lives would be forever changed by a single cash injection of $50 USD, or even a durable pair of shoes.
 
 My local Sacrament Meetings had flowery messages about how God loves *all* of His children. The idea doesn't sit well with me. Does God just show that love in different ways based on what side of an imaginary border you're on? Does God bless those with prosperity only to the remarkably small proportion of humans who attend LDS meetings weekly? Does God not care about these disparities? Does he watch with indifference as humans suffer? Is God even there?
+
+My cognitive dissonance further compounded when I finally had a chance to meet other humans, outside the context of the LDS faith, outside of a mission call. Folks with _dyed hair_ were living happy, fulfilled lives. Humans engaging in extramarital intercourse were not visibly doomed to a life of treating STI’s and mononucleosis. Students were performing well without saying a prayer before an exam. Instructors taught without verbally qualifying their statements as being led by the spirit.
+
+So, then, what if some of those crazy anti-Mormons have a point? What if this faith isn’t the only way to happiness? What kind of claims are they making?
 
 &nbsp;
 
 ## Connecting the dots
 Summer of 2018 is when the MormonLeaks website made a whistleblower report that the Church of Jesus Christ of Latter-day Saints had some outrageous sum of money that is not being actively disbursed. My time spent in accounting classes gave me the expectation that the church is _surely_ keeping track of all this. Why would they not set the record straight? If they did not have the data, that would be a problem. If they did have the data but refuse to share, that would also be a problem. I'm no Certified Practicing Accountant (CPA), but I've read enough ledgers and balance sheets to navigate my way around them.
 
-My cognitive dissonance further compounded when I finally had a chance to meet other humans, outside the context of the LDS faith, outside of a mission call. Folks with _dyed hair_ were living happy, fulfilled lives. Humans engaging in extramarital intercourse were not visibly doomed to a life of treating STI’s and mononucleosis. Students were performing well without saying a prayer before an exam. Instructors taught without verbally qualifying their statements as being led by the spirit.
+One long weekend, I resolved that I'd see this problem through to completion. I was going to *find those financial records* and demonstrate my entry-level comprehension of ledgers to settle the issue myself, and so I began searching through online resources&mdash;armed with tech literacy, boolean operators, and a drive to defend God's true church from those loons who would dare to misinterpret financial documents.
 
-So, then, what if some of those crazy anti-Mormons have a point? What if this faith isn’t the only way to happiness? What kind of claims are they making?
+What I ended up discovering was that I'm hardly the first to seek out the church's documents. What I read instead were frustrated comments of "these documents are nowhere to be found!" Various bloggers and podcast hosts would either dismiss the opacity as a non-issue, or observe that the church is hiding something. No, they're not *legally obligated* to, and so they don't.
+
+Huh. That doesn't sit well with what I'd been taught about accountability and responsibility. I ultimately gave up on that pursuit, having frequently seen mention of something called  *the CES Letter*, a hiss and a byword among Mormons. I figured that was outside the scope of my pursuit, but after enough dead ends of finding nothing but rumors concerning the church's amassed wealth, I was running out of alternatives.
 
 Drawing from experience in analyzing statistics, if the church stands to benefit from one angle of its history, it will push that angle. It will insist that the faith-promoting story is the only story. The promotion of faith will lead members to pay tithes. On the flip side, who gets a financial interest in a version that does not promote faith? The anti-Mormons don’t have a centralized agency that needs funding. Should I look at their side of the story?
 
@@ -62,7 +68,7 @@ Drawing from experience in analyzing statistics, if the church stands to benefit
 ## Getting "Anti'd"
 For most of 2018, I’d shied away from reading evil literature, inspired by the Devil, and had identified some the names of documents to avoid. How bad could they be, though? I’m smart enough, and faithful enough to discern truth irrespective of the source.
 
-I've seen the [CES letter](https://cesletter.org/) presented as either a pathetic attempt to tear down God’s unstoppable work, or a logically infallible refutation of the LDS church’s claims. Maybe there’s some middle ground. When I delved in, the early chapters of the CES letter described the Book of Mormon, and some problematic parallels in its contents. I remember thinking up some explanations for these problems, most revolving around the idea that solid information doesn’t exist to settle these questions. Moving on, they’re non-issues.
+Searching for info on the church's benevolent, altruistic use of their tithing funds led me to discourse about the [CES letter](https://cesletter.org/)&mdash;presented as either a pathetic attempt to tear down God’s unstoppable work, or a logically infallible refutation of the LDS church’s claims. Maybe there’s some middle ground. What ultimately led me here was the pursuit of information concerning the LDS church's use of tithing money. When I delved in, the early chapters of the CES letter described the Book of Mormon, and some problematic parallels in its contents. I remember thinking up some explanations for these problems, most revolving around the idea that solid information doesn’t exist to settle these questions. Whether or not [[logistical-problems#Specifics|a horse was a horse]] ([of course](https://youtu.be/6GAbc5uQXJo?si=guCwOI_76bwquT6D&t=14)) was inconsequential to *Another Testament of Jesus Christ*. Moving on, they’re non-issues.
 
 Later chapters described Joseph Smith, particularly the First Vision, where he is called as a prophet by Jesus himself, accompanied by Elohim. This is where I first hear the idea that multiple accounts of the First Vision exist. “Surely not, this isn’t the kind of thing Joseph would be ambiguous about,” I retorted to myself. “They’re misinformed! What source are they using to back up this claim?” The link sent me to LDS.org, the church’s official website, which corroborated the claim that the described First Vision that was compulsory to repeat verbatim in each mission Zone Conference, was not the first, but was in [direct conflict with other accounts](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/first-vision-accounts) written by Joseph.
 
@@ -70,7 +76,7 @@ Oh shit. The anti-Mormons are right about this.
 
 I flipped back to the earlier claims about the Book of Mormon anachronisms, checking each cited source for a claim. Shit. The LDS church has this in writing. *Shit*. Oh *fuck*.
 
-What if the evil people are right? The perfect church, led by men inspired of & led by God himself… what if it was wrong? What if God wasn’t leading it? Is this all a scam?
+What if the evil people are right? The perfect church, led by men inspired of God himself… what if it was *wrong*? What if God wasn’t leading it? Is this all a scam?
 
 I had to put my tablet down and stare off into the distance for some unknown amount of time. I distinctly remember the landscape in mid-October, just as autumn foliage was becoming colorful. I don’t know how much time passed. Today, I’d estimate it to be twenty minutes, before reacting instinctively by clasping my hands together, kneeling, to supplicate some deity. I felt nothing. Silence. It was the most gut-wrenching silence I ever felt. I still get shivers when I think about that moment.
 
@@ -90,14 +96,8 @@ I couldn’t sustain this belief in good conscience anymore.
 &nbsp;
 
 ## Today
-Here's a high-level summary of where I've landed, as of early 2024:
+So... what do I do about this newfound information?
 
-Joseph Smith is a flawed, mortal human. ​He has demonstrably done bad things. He has arguably done some good things as well. Had his followers respected Smith's wishes for a successor, the world would be very different today. 
-
-Instead, we got Brigham Young.
-
-Brigham Young is indisputably a villain. If Young was called by God to be the prophet, then I have a real problem with God. If Young was *not* called of God to be a prophet, then the LDS church today has a real problem.
-
-So... what do I do about it?
 Good question.
+
 I'll start by writing these notes to try and make sense of it all. If you'd like to read what I've written down, you're in the right place!

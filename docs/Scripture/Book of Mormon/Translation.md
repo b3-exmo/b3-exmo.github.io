@@ -114,7 +114,7 @@ In 2000, two BYU religion professors, Joseph Fielding McConkie (son of Elder Bru
 
 Alright, I guess if we go with divine intervention, we can accept this unprecedented method. This recounting could be what contributes to Joseph asserting that this is ["the most correct of any book"](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19) on Earth.
 
-That does bring into question why there were later [[BoM Changes#Enumeration of Changes|revisions or edits]], though.
+That does bring into question why there were later [[Changes#Enumeration of Changes|revisions or edits]], though.
 
 &nbsp;
 

@@ -80,7 +80,7 @@ If one were to studiously read through the BoM multiple times in a year, as is a
 
 One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father— the whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god— we're growing up, we're godlings, we're little wimpy baby gods. Right?
 
-But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and He made us that way. [[Theology#The plan|Why does god hate His creations]]? By our very nature, by God's design, we His enemies. What the hell, God?
+But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and He made us that way. [[Theology#The plan|Why does God hate His creations]]? By our very nature, by God's design, we His enemies. We're not God's enemies because of anything *we did*. What the hell, God?
 
 &nbsp;
 
@@ -199,7 +199,7 @@ I initially had these following passages quoted inline, but I think you can foll
 
 Really, now. During the physical ministry of Jesus Christ, savior of all mankind, in the resurrected flesh, the scribes just wrote 'yeah he said some other stuff too. It was cool, you should have been there.'
 
-Out of all the myriad things they didn't write down, the [[#Anglicization|few concepts]] they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[BoM Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 630+ years separated from Lehi or any contemporaries departing Jerusalem.
+Out of all the myriad things they didn't write down, the [[#Anglicization|few concepts]] they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 630+ years separated from Lehi or any contemporaries departing Jerusalem.
 
 &nbsp;
 
@@ -215,11 +215,13 @@ No? Why not, did you have a problem with porn or something?
 ## JST vs BoM
 Shouldn’t Joseph Smith's Translation (JST) and the Book of Mormon be the most accurate translations of Christ’s everlasting message?
 
-Sermon on the Mount appears in 3 Nephi 13, Matt 6 KJV, and Matt 6 JST. There’s enough discrepancy for not all claims to be true; either BoM is not “the most correct of any book on earth” or JST is bunk. Why wouldn’t the BoM version include the JST edits?
+Sermon on the Mount appears in 3 Nephi 14, Matt 7 KJV, and Matt 7 JST. There’s enough discrepancy for not all claims to be true; either BoM is not “the most correct of any book on earth” or JST is bunk. Why wouldn’t the BoM version include the JST edits?
 
 | _[KJV: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng&id=p1-p2#p1)_                                                         | _[JST: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-matt/7?lang=eng&id=p1-p2#p1)_                                                                        | _[3 Nephi 14:1-2](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=eng&id=p1-p2#p1)_                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Judge not, that ye be not judged.*<br><br>*For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.* | *Now these are the words which Jesus taught his disciples that they should say unto the people.*<br><br>*Judge not unrighteously, that ye be not judged; but judge righteous judgment.* | *And now it came to pass that when Jesus had spoken these words he turned again to the multitude, and did open his mouth unto them again, saying: Verily, verily, I say unto you, Judge not, that ye be not judged.*<br><br>*For with what judgment ye judge, ye shall be judged; and with what measure ye mete, it shall be measured to you again.* |
+|                                                                                                                                                                     |                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                      |
+
 
 Why would Joseph Smith's "translation" of the KJV vary so differently from Jesus teaching the exact same thing to the Nephites? “The most correct book” on the planet, something to that affect.
 

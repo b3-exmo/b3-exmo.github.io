@@ -8,17 +8,17 @@ comments: true
 
 &nbsp;
 
-I suppose if we're going to approach the idea of doctrine, a helpful delineation is what Doctrine is *not*. The LDS church claims to be led by God, who has authorized its prophetic leadership to act in His name. To me, it isn't really a stretch of logic to assume that the LDS church's actions are of divine appointment and inspiration. Is that unreasonable? 
+The LDS church claims to be led by God, who has authorized its prophetic leadership to act in His name. To me, it isn't really a stretch of logic to assume that the LDS church's actions are of divine appointment and inspiration. Is that unreasonable? 
 
-Maybe some things are doctrinal, meaning immutable and eternal, but other things from God are a bit more malleable. I sure hope that the church doesn't try to rationalize something like banning children of gay couples from being baptized as being just a plain ol' policy. That'd be a bad look. Or if they gatekept salvation from an entire race of humankind, and then downplay it as a "[[Essay Race Priesthood|disavowed theory]]." That would also be a bad look.
+Maybe some things are doctrinal, meaning they are immutable and eternal, while other things from God are a bit more malleable. I sure hope that the church doesn't try to rationalize something like banning children of gay couples from being baptized as being just a plain ol' policy. That'd be a bad look. Or if they gatekept salvation from an entire race of humankind, and then downplay it as a "[[Essay Race Priesthood|disavowed theory]]." That would also be a bad look.
 
 In order to have a sensible discourse, we really should delineate what is doctrine and what is not. Until I find better definitions, I'm going with the following:
 
-- **Doctrine** is what we find in scripture, during conference talks, revelation by the acting prophets. Commonality between those is the words can be traced back to, and ascribed to God.
+- **Doctrine** is what we find in scripture, during conference talks, revelation by the acting prophets. Commonality between these is that the words can be traced back to, and ascribed to God.
 
-- **Policy** is more secular. Rules, handbooks, organization of the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose they'd be philosophies of men, mingled with scripture.
+- **Policy** is more secular. Rules, handbooks, organization of the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose these would be philosophies of men, mingled with scripture.
 
-Here's where problems arise. The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are *doctrinal*. Things like [the stocks for people to buy and fund Joseph Smith’s mansion](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?id=p71-p72&lang=eng#p71), virginity being a [[DC 132#61 - 63|circumvention against adultery]], God [abandoning you if you're disobedient](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12), and clearly outlining [[Second Coming#When will it be?|the year of Christ's return]]. Doctrinal. Unchanging.
+Here's where problems arise. The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are *doctrinal*. Things like [the stocks for people to buy and fund Joseph Smith’s mansion](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?id=p71-p72&lang=eng#p71), virginity being a [[DC 132#61 to 63|circumvention against adultery]], God [abandoning you if you're disobedient](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12), and clearly outlining [[Second Coming#When will it be?|the year of Christ's return]]. Doctrinal. Unchanging.
 
 If simple "policy" can keep somebody from participating in saving ordinances, then policy carries the same weight as doctrine.
 
@@ -42,7 +42,7 @@ We could certainly take time to argue if it was a real doctrine from God, or a w
 
 What is and is not considered "doctrine" by the LDS church is the LDS church's problem, and it is *their responsibility* to clearly delineate what does and does not qualify as doctrine. Is Bruce McConkie's book *[Mormon Doctrine](https://archive.org/details/MormonDoctrine1966/mode/1up)* a record of Mormon Doctrine, or was that book "philosophies of men mingled with scripture?" Would that book have gained traction if it wasn't written by [a member of the First Council of the Seventy of the LDS Church](https://en.wikipedia.org/wiki/Mormon_Doctrine_(book)#History)? Compare that idea to me, a dumbass with a computer, publishing these very notes on print and calling it *Mormon Doctrine*?
 
-Insisting that "that was never doctrinal" puts the onus on us regular, lay common folk to read the minds of church leaders, and to discern what words to listen to and how to interpret them. Brigham Young taught some [[Blood Atonement#Brigham Young|batshit ideas]] under his time as "the Prophet?" Well, fortunately for us in the 21st century, that wasn't actually doctrine! We know this because it would cause a lot of cognitive dissonance if it were not the case. 
+Insisting that "that was never doctrinal" puts the onus on us regular, lay common folk to read the minds of church leaders, and to discern what words to listen to and how to interpret them. Brigham Young taught some [[Blood Atonement#Brigham Young|batshit ideas]] under his time as "the Prophet?" Well, fortunately for us in the 21st century, that wasn't actually doctrine! We know this because it would cause a lot of cognitive dissonance if it actually was doctrinal. 
 
 When church leaders don their professional business attire and stand behind a pulpit as their words are broadcast all across the world, is it safe to assume that what they say should be taken at face value? Even if they [set a precedent](https://www.churchofjesuschrist.org/study/general-conference/2024/10/18oaks?lang=eng&id=p_xfPgG#p_xfPgG) that doctrines may change in the future? Is it too much to ask for them to clearly delineate and specify when their statements are immutable doctrines, or simply a policy to manage an earthly organization?
 
@@ -52,7 +52,7 @@ I could imagine being accused of misunderstanding leaders' teachings, and being 
 
 Among the distinguishing features of the LDS church is the claim of being actively led by God, and the church's leadership actively receives guidance directly from that god. God is taught to us as omnipotent and omniscient— He has to be, or else He wouldn't be deserving of worship, attention, or even consideration. LDS church leadership claims to have divine appointment to that office, and are authorized to act in His name. Is it unreasonable for church members to have high expectations for the conduct of leaders who are authorized to speak and act in behalf of God? If they fail to meet those expectations, and their words are just as definitive as yours or mine in terms of declaring doctrine, then why do we see them as leaders?
 
-If we have the doctrinal precedent of "whether by mine own voice or by the voice of my servants, [it is the same](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38)," then it doesn't matter if the teaching came from a mortal man or from God. What matters is the impact this teaching had. Does the church's hardline stance on LGBTQ+ people result in disproportionately high suicide rates? ([1](https://en.wikipedia.org/wiki/LGBT_Mormon_suicides), [2](https://www.teenvogue.com/story/32-lgbt-youth-suicide-mormon-church), [3](https://mormonstudies.as.virginia.edu/gay-rights-and-mormonism/39-suicides/), [4](https://www.kuer.org/religion/2018-07-25/can-the-lds-church-be-blamed-for-utahs-lgbt-suicides), [5](https://www.advocate.com/religion/2016/1/31/suicide-epidemic-ravaging-gay-mormon-youth)) The teaching is harmful, irrespective of calling it doctrine or policy. Defending those harms as being caused by mortal, fallible leaders of an imperfect organization isn't quite as effective as one might think— to a gay teenager, that means that this harmful teaching does not come from nonogenerians, but it comes from the highest authority possible— God Himself. How would you expect an impressionable youth to internalize "you are inherently broken, sinful by nature, and will be left alone for eternity because of who you are?" Is that just a policy, or is it doctrine from the highest authority possible?
+If we have the doctrinal precedent of "whether by mine own voice or by the voice of my servants, [it is the same](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38)," then it doesn't matter if the teaching came from a mortal man or from God. What matters is the impact this teaching had. Does the church's hardline stance on LGBTQ+ people result in disproportionately high suicide rates? ([1](https://en.wikipedia.org/wiki/LGBT_Mormon_suicides), [2](https://www.teenvogue.com/story/32-lgbt-youth-suicide-mormon-church), [3](https://mormonstudies.as.virginia.edu/gay-rights-and-mormonism/39-suicides/), [4](https://www.kuer.org/religion/2018-07-25/can-the-lds-church-be-blamed-for-utahs-lgbt-suicides), [5](https://www.advocate.com/religion/2016/1/31/suicide-epidemic-ravaging-gay-mormon-youth)) The teaching is harmful, irrespective of calling it doctrine or policy. Defending those harms as being caused by mortal, fallible leaders of an imperfect organization isn't quite as effective as one might think—to a gay teenager, that means that this harmful teaching does not come from nonogenerians, but it comes from the highest authority possible—God Himself. How would you expect an impressionable youth to internalize "you are inherently broken, sinful by nature, and will be left alone for eternity because of who you are?" Is that just a policy, or is it doctrine from the highest authority possible? Does the distinction matter at that point?
 
 &nbsp;
 
@@ -76,13 +76,13 @@ Qualifying that "not every statement made by a church leader" is doctrinal also 
 > - *Persisting in teaching as Church doctrine what is not Church doctrine after being corrected by the bishop or stake president*
 > - ...
 
-— [General Handbook section 32.6.3.2: Apostasy](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p131-p132#p131)
+— [General Handbook &sect; 32.6.3.2: Apostasy](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p131-p132#p131)
 
 &nbsp;
 
 Sounds to me like acting in opposition to the church's ==doctrine or policies== results in the same conclusion: *you're an apostate*! Why differentiate the two, then? The very next bullet point is that disagreeing about what is doctrine is grounds for excommunication, too.
 
-If you can get excommunicated for breach of policy as well as doctrine, then there is no meaningful difference.
+If you can get excommunicated for breach of policy as well as doctrine, then *there is no meaningful difference*.
 
 &nbsp;
 
@@ -91,7 +91,7 @@ If you can get excommunicated for breach of policy as well as doctrine, then the
 
 — [Enrichment F: ‘As If from Mine Own Mouth’: The Role of Prophets in the Church](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-student-manual/enrichment-f-as-if-from-mine-own-mouth-the-role-of-prophets-in-the-church?lang=eng&id=p27#p27), Doctrine and Covenants Student Manual, Institute
 
-... So why do we have counselors then? It's an autocracy, one man's words are all we need to change doctrine. I am legitimately asking, if this is the case, why does the president of the church need counselors? Does he counsel with them? Sure sounds like he doesn't need to.
+... So why do we have counselors then? It's an autocracy, one man's words are all we need to change doctrine. I am legitimately asking: if this is the case, why does the president of the church need counselors? Does he counsel with them? Sure sounds like he doesn't need to.
 
 &nbsp;
 

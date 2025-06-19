@@ -1,7 +1,8 @@
 ---
 comments: true
 ---
-# 🙅‍♂️ Antichrist
+# 🙅‍♂️ Korihor
+## Antichrist
 To my modern English sensibilities, "[anti](https://dictionary.cambridge.org/dictionary/english/anti)" seems to mean "in opposition to." Folks who understand other languages better than I do have made a [compelling argument](https://en.wikipedia.org/wiki/Antichrist#Etymology) that the ancient Greek root "Ἀντί" means not only anti in the sense of "against" and "opposite of", but also "in place of". I suppose a simpler compound word for that sentiment would be "false Christ." J-town himself warned specifically against this scenario in [Matthew 24](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=eng&id=p4-p5#p4) and in [Mark 13](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=eng&id=p21-p22#p21). In LDS scriptural canon, we've got a Bible Dictionary definition:
 
 > *A word used by John to describe one who would assume the guise of Christ but in reality would be opposed to Christ. In a broader sense it is anyone or anything that counterfeits the true gospel or plan of salvation and that openly or secretly is set up in opposition to Christ. The great antichrist is Lucifer, but he has many assistants both as spirit beings and as mortals.*
@@ -44,7 +45,7 @@ You can believe whatever you like, as we've already separated church and state. 
 
 &nbsp;
 
-Verse 9 describes belief in God as a privilege. I find that to be a curious choice of words, as a privilege suggests (to me) that it can be revoked. I wonder if other religious teachings are presented as being [[Tithing#Paying is a privilege!|a privilege]]?
+Verse 9 describes belief in God as a privilege. I find that to be a curious choice of words, as a privilege suggests (to me) that it can be revoked. I wonder if other religious teachings are presented as being [[Privilege|a privilege]]?
 
 Verses 10 & 11 are a short tangent describing how laws exist, and breaking laws results in punishments in case that wasn't self-evident. Don't forget that this record is an [abridgement](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=eng&id=p2#p2) etched by hand onto metal plates, and only the most critical factors have been distilled into this text we read today. It's vital that you understand that this civilization doesn't like murder or robbery. That's what really sets it apart from contemporary cultures.
 

@@ -101,7 +101,7 @@ Yes, I recall hearing this criticism of other varieties of Christianity when I w
 
 "As opposed to those silly guys playing church, we actually have clearly delineated steps. Don't ask what they are, please."
 
-We're better than Catholics with their definitive [canon](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html), [catechism](https://www.vatican.va/archive/ENG0015/_INDEX.HTM), [Rite of Christian Initiation for Adults](https://hcpsb.org/how-to-become-catholic/) and its [catechumenate](https://www.britannica.com/topic/catechumen) stage of progression, [ritualistic rosary prayers](https://www.vatican.va/special/rosary/documents/misteri_en.html) that all purports to say what they believe. We promise you will *receive ordinances*. And tell you to keep *the associated covenants*. Makes you feel morally obligated to do volunteer work for the LDS church and pay for the privilege of doing so, doesn't it?
+We're better than Catholics with their definitive [canon](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html), [catechism](https://www.vatican.va/archive/ENG0015/_INDEX.HTM), [Rite of Christian Initiation for Adults](https://hcpsb.org/how-to-become-catholic/) and its [catechumenate](https://www.britannica.com/topic/catechumen) stage of progression, [ritualistic rosary prayers](https://www.vatican.va/special/rosary/documents/misteri_en.html) that all purports to say what they believe. We promise you will *receive ordinances*. And tell you to keep *the associated covenants*. Makes you feel morally obligated to do volunteer work for the LDS church and [[Privilege#Tithing|pay for the privilege]] of doing so, doesn't it?
 
 &nbsp;
 

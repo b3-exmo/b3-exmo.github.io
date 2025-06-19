@@ -75,7 +75,6 @@ nav:
   - ✍️ My own experience: My own experience.md
   - ✝️ Christianity:
     - Christianity/Christianity.md
-    - 🪦 Afterlife: Christianity/Afterlife.md
     - 🌄 Historicity: Christianity/Historicity.md
     - 👻 Holy Spirit's Promptings: Christianity/Holy Spirit Promptings.md
     - 😈 Satan: Christianity/Satan.md
@@ -105,6 +104,7 @@ nav:
     - 💔 God's Conditional Love: Culture/Gods Conditional Love.md
     - 😇 Infallibility: Culture/Infallibility.md
     - ☝️🤓 Name "Mormon": Culture/Name Mormon.md
+    - 👑 Privilege: Culture/Privilege.md
     - ✔️ Scrupulosity: Culture/Scrupulosity.md
     - ⚧️ Sexuality & Repression: Culture/Sexuality Repression.md
     - 💪 Strengthening Church Members Committee: Culture/Strengthening Church Members Committee.md
@@ -112,6 +112,7 @@ nav:
     - ✅ True: Culture/True.md
   - 📐 Doctrine:
     - Doctrines/Doctrine.md
+    - 🪦 Afterlife: Doctrines/Afterlife.md
     - 🌊 Baptism: Doctrines/Baptism.md
     - 🪄 Becoming Gods: Doctrines/Becoming Gods.md
     - 🩲 Garments: Doctrines/Garments.md
@@ -122,6 +123,7 @@ nav:
       - 🥩💱 Meat Commerce: Doctrines/Polygamy/Meat commerce.md
       - 😏 Sealing: Doctrines/Polygamy/Sealing.md
     - 🍻 Word of Wisdom: Doctrines/Word of Wisdom/Word-of-Wisdom.md
+  - 🏳‍🌈 LGBTQ+: LGBT/LGBTQ.md
   - 🔮 Modern Church:
     - 🧔 Jesus and The Church: Modern Church/Jesus-and-The-Church.md
     - 📜 LDS Historians: Modern Church/Historians.md
@@ -153,15 +155,17 @@ nav:
     - 📑 Bible: Scripture/Bible.md
     - 📘 Book of Mormon:
       - Scripture/Book of Mormon/Book of Mormon.md
-      - 🙅‍♂️ Antichrist: Scripture/Book of Mormon/Antichrist Korihor.md
-      - 🔃 BoM Changes: Scripture/Book of Mormon/BoM Changes.md
+      - 😔 After all we can do: Scripture/Book of Mormon/After all we can do.md
+      - 🔃 Changes: Scripture/Book of Mormon/Changes.md
       - 🤷 Isaiah: Scripture/Book of Mormon/Isaiah.md
+      - ⚔️ Jaredites: Scripture/Book of Mormon/Jaredites.md
+      - 🙅‍♂️ Korihor: Scripture/Book of Mormon/Korihor.md
       - 😴 Lehi's Dream: Scripture/Book of Mormon/Lehi-dream.md
+      - 📚 Literary Value: Scripture/Book of Mormon/Literary Value.md
       - ❓ Logistial Problems: Scripture/Book of Mormon/logistical-problems.md
       - 🤥 Plagiarism: Scripture/Book of Mormon/Plagiarism.md
       - ♀️ Representation of Women: Scripture/Book of Mormon/Representation of Women.md
       - ⚓ Seafaring: Scripture/Book of Mormon/Seafaring.md
-      - 🤖 Technology: Scripture/Book of Mormon/Technology.md
       - 🍽 The Plates: Scripture/Book of Mormon/The Plates.md
       - 👅 Book of Mormon Translation: Scripture/Book of Mormon/Translation.md
     - 📜 Book of Abraham: Scripture/Book of Abraham.md

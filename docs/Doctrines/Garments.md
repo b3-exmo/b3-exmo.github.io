@@ -47,7 +47,7 @@ I do know that poor diet choices that result in some juicy flatulence means that
 
 — *[The Temple Garment: A Sacred Reminder of the Lord Jesus Christ](https://www.churchofjesuschrist.org/study/liahona/2022/06/digital-only-young-adults/the-temple-garment-a-sacred-reminder-of-the-lord-jesus-christ?lang=eng&id=p9#p9),* Temple Department staff
 
-This First Presidency quote is more recent, and I can find a [primary source](https://newsroom.churchofjesuschrist.org/multimedia/file/first-presidency-temple-recommend-letter.pdf) for it. Isn't it funny how LDS religious practices that go against our better judgment are called "[[Tithing#Paying is a privilege!|a privilege]]" by leadership?
+This First Presidency quote is more recent, and I can find a [primary source](https://newsroom.churchofjesuschrist.org/multimedia/file/first-presidency-temple-recommend-letter.pdf) for it. Isn't it funny how LDS religious practices that go against our better judgment are called "[[Privilege|a privilege]]" by leadership?
 
 Another excerpt from the same page quoted above:
 
@@ -130,9 +130,7 @@ Let's not overlook that this does set a precedent for garment-checking our peers
 > 
 > *Members should not inappropriately display the garment to those who do not understand its significance.*
 
-&sect;
-
-— *[Section 38.5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number234-title241#title_number234)*
+— *[&sect; 38.5.5](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number234-title241#title_number234)*
 
 Wouldn't you know it, this section also shares the following insight: *"When you put on your garment, you put on a sacred symbol of Jesus Christ. Wearing it is an ==outward expression of your inner commitment== to follow Him."* Fantastic, thanks for that guidance.
 
@@ -142,7 +140,7 @@ Wouldn't you know it, this section also shares the following insight: *"When you
 > 
 > *The garment is a sacred symbol of Jesus Christ. The way we care for our garments should reflect that sacred symbolism.*
 
-— *[Section 38.5.6](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p_wvuEo-p_wNONh#p_wvuEo)*
+— *[&sect; 38.5.6](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p_wvuEo-p_wNONh#p_wvuEo)*
 
 &nbsp;
 
@@ -150,7 +148,7 @@ Wouldn't you know it, this section also shares the following insight: *"When you
 > 
 > *To dispose of worn-out temple garments, members should cut out and destroy the marks. Members then cut up the remaining fabric so it cannot be identified as a garment. The remaining cloth can be discarded.*
 
-— [Section 38.5.9](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number236-p2452#title_number236)
+— [&sect; 38.5.9](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number236-p2452#title_number236)
 
 &nbsp;
 
@@ -177,7 +175,7 @@ Sure wish I could find that letter to link to, so that this "outward expression"
 
 "I, in a position of authority, have difficulty *not* sexualizing 'young women,' and it is *their fault*. They're becoming porn. This is an outward expression of my inward repression, and definitely not at all related to my 1946 high school experience."
 
-Alright, tell me if this is too much of a stretch: this apostolic advice is directed toward "young women," the term used to describe girls between 12 - 17 in the church's youth program, or at least this was the case when I attended. Once women are preparing to go to the temple to either A) get married, or B) serve a mission, they are no longer in that youth program so this apostolic guidance doesn't apply. Is that fair? How else would you justify women's garment tops having the *shoulders* covered for the sake of "modesty," but still feature a plunging neckline? Am *I* projecting too much here, by implying that bared shoulders are less enticing than visible cleavage?
+Alright, tell me if this is too much of a stretch: this apostolic advice is directed toward "young women," the term used to describe girls between 12 - 17 in the church's youth program&mdash;or at least this was the case when I attended. Once women are preparing to go to the temple to either A) get married, or B) serve a mission, they are no longer in that youth program so this apostolic guidance doesn't apply. Is that fair? How else would you justify women's garment tops having the *shoulders* covered for the sake of "modesty," but still feature a plunging neckline? Am *I* projecting too much here, by implying that bared shoulders are less enticing than visible cleavage?
 
 &nbsp;
 
@@ -190,7 +188,7 @@ Alright, tell me if this is too much of a stretch: this apostolic advice is dire
 
 It always bugged me when girls had these explicit parameters specified, and boys had "uh, you be modest too, I guess."
 
-Also, "young women should ... avoid clothing that is low-cut in the front[,]" like, I don't know, temple garments? I guess modesty is malleable, if we don't clarify how low of a cut is low-cut? To be fair, I'm not sure how I'd quantify that, given his humans come in a wide range of shapes, sizes, and proportions. If we'll insist that we don't call garments underwear, then they shouldn't have the same loose coverage of underwear?
+Also, "young women should ... avoid clothing that is low-cut in the front[,]" like, I don't know, temple garments? I guess modesty is malleable, if we don't clarify how low of a cut is low-cut? To be fair, I'm not sure how I'd quantify that, given how humans come in a wide range of shapes, sizes, and proportions. If we'll insist that we don't call garments underwear, then they shouldn't have the same loose coverage of underwear?
 
 &nbsp;
 
