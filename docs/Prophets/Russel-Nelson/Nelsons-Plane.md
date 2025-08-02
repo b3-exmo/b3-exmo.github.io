@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🛩 Nelson's Plane
-Acknowledgement: Like a few other pages in my notes, this is a re-telling of someone else's research. Most of the information came from [[Sources and Links#RFM / Mormon Discussion Inc.|RFM]], as presented in *[Mormonism Live: Episode 033](https://www.youtube.com/live/fz4iQk1M9l4)* and in Bill Reel's post in the *[/r/exmormon](https://web.archive.org/web/20241127105542/https://www.reddit.com/r/exmormon/comments/opf8cw/breaking_president_nelsons_flight_story_proven_to/)* subreddit. Credit where it's due, though— part of how I process information is to reframe it in my own words.
+Acknowledgement: Like a few other pages in my notes, this is a re-telling of someone else's research. Most of the information came from [[Sources and Links#RFM / Mormon Discussion Inc.|RFM]], as presented in *[Mormonism Live: Episode 033](https://www.youtube.com/live/fz4iQk1M9l4)* and in Bill Reel's post in the *[/r/exmormon](https://web.archive.org/web/20241127105542/https://www.reddit.com/r/exmormon/comments/opf8cw/breaking_president_nelsons_flight_story_proven_to/)* subreddit. Credit where it's due, though—part of how I process information is to reframe it in my own words.
 
 &nbsp;
 
@@ -17,17 +17,18 @@ A fellow named Russell Marion Nelson tells us of a near-death experience as an a
 
 To emphasize this point, Nelson contrasts his zen-like state to the woman across the aisle, completely *flipping her shit* because she's right next to an exploded plane engine, and the craft is diving much too fast for anyone present to feel comfortable with.
 
-There's some variation in details between those accounts, but there are enough common points that we can summarize the experience into these key events:
+There's some variation in details between the multiple times he's told us this story, but there are enough common points that we can summarize the experience into these key events:
 
 1. One of two engines on a small two-engine plane *exploded* and caught on fire
 2. The explosion spread flammable material onto the fuselage
 3. The plane descends at an unsafe speed, sometimes described as a "death spiral"; this causes the fire to extinguish
-4. The pilot "turned on the other engine"
-5. The plane makes an unplanned landing
+4. The pilot manages to regain control at the last moment, and makes an unplanned landing
 
 &nbsp;
 
-Problems arise when this story's details are examined across the above sources, as well as compared to... you know, *reality*.
+Problems arise when this story's details are examined across the aforementioned retellings, as well as compared to... you know, *reality*.
+
+#TODO condense
 
 By my timeline estimation, this event took place in 1976. At the time, he was filling [the calling of Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15). He shares a dramatic experience of an airplane crash, an ordeal with a remarkably low survival rate, but he survives! Against all odds, God protected this one plane on this one instance to preserve Nelson's life, so that Nelson can later [[Russel-M-Nelson#Vitamins|tell us to take vitamins]]. Fatalities from other airplane crashes just weren't meant to speak in General Conference.
 
@@ -84,7 +85,7 @@ I count 14 sources here for this story, acknowledging some overlap— each sourc
 
 &nbsp;
 
-For the audience, this story highlights that this Apostle was unbothered by the prospect of his mortal demise, having a grander, eternal perspective, and had no regrets before facing God's judgement. As for what exactly the audience should *do* with that information... well... see him as a role model, I guess?
+For the audience, this story highlights that this soon-to-be Apostle was unbothered by the prospect of his mortal demise, having a grander, eternal perspective, and had no regrets before facing God's judgement. As for what exactly the audience should *do* with that information... well... see him as a role model, I guess?
 
 &nbsp;
 
@@ -195,7 +196,7 @@ So... it appears to me that we have a *lot* of dramatic flair added to this stor
 &nbsp;
 
 ## Local Impact
-Delta, UT's population rose from 1,610 to 1,930 between 1970 and 1980 census. I guess I could assume that the town's population in 1976 of `1610+(1930-1610)*.6 = 1802` found this incident to be uninteresting? I've lived in small towns before. Even if an airplane crashed into a farmer's field from the *next town over*, that would be the only thing the town would be known for during the next ten years.
+Delta, UT's population rose from 1,610 to 1,930 between 1970 and 1980 census. The growth might not have been linear, but I could assume that the town's population in 1976 of `1610+(1930-1610)*.6 = 1802` found this incident to be uninteresting? I've lived in small towns before. Even if an airplane crashed into a farmer's field from the *next town over*, that would be the only thing the town would be known for during the next ten years.
 
 I guess the only way for me, today in 2025, to know if any of those ~1800 people thought that a burning plane crashing into their neighbor's field is newsworthy is to check their newspaper. What I've found is Millard County's paper, *Fillmore Progress*, which county includes the town of Delta.
 

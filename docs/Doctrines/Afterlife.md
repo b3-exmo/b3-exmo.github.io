@@ -4,14 +4,14 @@ comments: true
 # 🪦 Afterlife
 When I served as a missionary for the LDS church, we were told to raise awareness that the [[Book of Mormon]] contains answers to the [questions of the soul](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/13-chapter-5?lang=eng&id=title12-p53#title12), including "what happens after I die?" You might find that the [quoted scriptural passages](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/13-chapter-5?lang=eng&id=p62#p62) to answer that question are, at best, vague.
 
-But before we get into the long-foretold Judgment Day, a staple tenant of Christianity, you heathens have to do your time in *spirit prison*, because you were naughty. Unless you weren't.
+But before we get into the long-foretold Judgment Day, a staple tenant of Christianity, you heathens have to do your time in *spirit prison* because you were naughty. Unless you weren't.
 
 &nbsp;
 
 ## Spirit World
-This is an intermediary step between mortal death and Jesus' judgment day.
+By the name alone, this sounds like it could either be the most unengaging theme park, or a penultimate stage in some Japanese RPG. It is neither of those things. Rather, it is an intermediary step between mortal death and Jesus' judgment day.
 
-As soon as our mortal bodies pass away, according to LDS doctrine, our spirit and body separates. Our spirit goes to a "spirit world," which, conveniently, happens to be [right here on Earth](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-41-the-postmortal-spirit-world?id=p5&lang=eng#p5). Why make the distinction? ... Shut up, that's why. While you're ~~here~~ there, you'll get to either do missionary work for Jesus, or be the recipient of that missionary work.
+As soon as our mortal bodies pass away, according to LDS doctrine, our spirit and body separates. Our spirit goes to a "spirit world," which, conveniently, happens to be [right here on Earth](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-41-the-postmortal-spirit-world?id=p5&lang=eng#p5). Why make the distinction? ... Shut up, that's why. While you're ~~here~~ there, you'll get to either do missionary work for Jesus, or be the recipient of that missionary work for Jesus.
 
 &nbsp;
 
@@ -21,7 +21,7 @@ As soon as our mortal bodies pass away, according to LDS doctrine, our spirit an
 
 &nbsp;
 
-You know it's true & doctrinal because both words start with the letter "p," are diametrically opposed, and both appear in scripture. What if you were somewhere in the middle of that spectrum? ... Shut up, that's where. Off to prison with you, just to be on the safe side. This all takes place before the dreaded Judgment Day™, which makes me wonder who sorts people into these two opposing binary categories? Does this mean there are *two* judgments to get through?
+You know it's true & doctrinal because both words start with the letter "p," are diametrically opposed, and both appear in scripture. What if you were somewhere in the middle of that spectrum? ... Shut up, that's what. Off to prison with you, just to be on the safe side. This all takes place *before* the dreaded Judgment Day™, which makes me wonder who sorts people into these two opposing binary Spirit World™ categories? Does this mean there are *two* judgments to get through?
 
 &nbsp;
 
@@ -34,9 +34,9 @@ You know it's true & doctrinal because both words start with the letter "p," are
 
 This choice of words is something I've often found troublesome.
 
-As I understand it, a *prison* is meant to isolate criminals from society to prevent them from causing harm. If a prison awakens to the realization that criminals are, in fact, human beings, they might offer some rehabilitation programs to minimize re-offense rates. A *penitentiary* places more emphasis on rehabilitating inmates, rather than reducing a human to the embodiment of crime, deserving to be treated with harsh contempt. Either of these locations are meant to be used as consequence for disregarding law. I'm not aware of any worldly nation where ignorance of law is an adequate defense against prosecution. I suppose the same could be said of this *spirit prison*&mdash; we were commanded to be baptized, and you (hypothetical conversation partner) were not, thereby defying a commandment irrespective of accountability. Very cool&mdash;thanks, God.
+As I understand it, a *prison* is meant to isolate criminals from society to prevent them from causing harm. If a prison awakens to the realization that criminals are, in fact, human beings, they might offer some rehabilitation programs to minimize re-offense rates. A *penitentiary* places more emphasis on rehabilitating inmates, rather than reducing a human to the embodiment of crime, deserving to be treated with harsh contempt. Either of these locations are meant to be used as consequence for disregarding law. I'm not aware of any worldly nation where ignorance of law is an adequate defense against prosecution. I suppose the same could be said of this *spirit prison*&mdash;we were commanded to be baptized, and you (hypothetical conversation partner) were not, thereby defying a commandment irrespective of accountability. Very cool&mdash;thanks, God 👍
 
-As mentioned previously, and in the above quote, folks in *spirit paradise* get to do missionary work to a captive audience in *spirit prison*. That's notorious for a variety of reasons&mdashone, why would we bother spending two years of our mortal life doing something we're going to have all of eternity to catch up on; two, depending on your conviction, being trapped and forced to listen to missionaries until you agree with them sounds... manipulative. No, they're not being *forcibly converted*, but... what options do they have, really?
+As mentioned previously, and in the above quote, folks in *spirit paradise* get to do missionary work to a captive audience in *spirit prison*. That's notorious for a variety of reasons&mdash;one, why would we bother spending two years of our mortal life doing something we're going to have all of eternity to catch up on; two, depending on your conviction, being trapped and forced to listen to missionaries until you agree with them sounds... manipulative. No, they're not being *forcibly converted*, but... what options do they have, really?
 
 "Hi! You died, but you remain conscious in a spirit world. You're also a sinner and will be eternally punished if you don't join us." well shit, I guess when you put it that way...
 
@@ -55,11 +55,11 @@ At Judgment day, God (or maybe Jesus) will sort everyone into *three categories*
 
 - Folks who are indisputably on the naughty list are, for some reason, called *sons of perdition* and get sent to *Outer Darkness*.
 - Folks who were mostly good, but *not good enough*, go to either the Terrestrial or Telestial kingdoms. Yes, one of those words is made up.
-- The Celestial kingdom is special enough to have [multiple subcategories](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=eng&id=p1-p2#p1). You can only obtain the highest degree within the highest glory if you get married to multiple wives. I am not making this up.
+- The Celestial kingdom is special enough to have [multiple subcategories](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=eng&id=p1-p2#p1). You can only obtain the highest degree within the highest glory if you get married to multiple wives. While this is an oversimplification, it is the doctrinal teaching.
 
 I don't know that one can be relegated to the Celestial kingdom outside of those three tiers within the highest of three tiers, so I count six possible outcomes at Judgment Day.
 
-What happens in the lesser tiers within the top-tier afterlife? ... You need to stop looking at porn, that's what. 
+What happens in the lesser tiers within the top-tier afterlife? ... You need to stop looking at porn, that's what.
 
 &nbsp;
 
@@ -77,13 +77,13 @@ The thesis of that speech is "life after death" what the *fuck* are you doing by
 &nbsp;
 
 ### Ego
-I find the idea of life after death to be fascinating. Or, extending beyond "life," the idea of consciousness after death. I think that the idea of unending consciousness sounds awful.
+I find the idea of *life after death* to be fascinating. Or, extending beyond "life," the idea of consciousness after death. I think that the idea of unending consciousness sounds awful.
 
 My experience with world religions is very narrow. I grew up in the United States, born and raised as a [[Name Mormon|Mormon]], a subcategory of Christianity. I can only offer conjecture at this point&mdash;but I'm curious about non-Christian faiths' teachings about what happens after death. I'll likely add more notes here once I take time to read about this topic. From my perspective as of early 2025, the Christian afterlife really seems to be appealing to human ego. 
 
 Some strawman examples would be "I can't simply *cease to exist*. I'm too important to just *end*." "Some aspect of who I am must persist even after my mortal body expires." "Not only will I will continue to exist after death, but I will exist alongside the God whom I grew up revering. ... Also, people who disagree with me will *also* continue to exist, but they'll get the sad version."
 
-A very cynical outlook on this teaching is that it's a tool for a ruler to control subjects. It's a carrot-and-stick approach of promising reward and punishment. A constable officer can levy punishment for crimes visibly committed. But what does an illiterate peasant do when no one is around to witness some misdoing? The ruling class can't have him or her getting too bold, so... Now Christianity teaches that there is an invisible, omniscient force, always present to witness your actions, and *even your thoughts.* You won't know it until after you die, but this divine presence is keeping track, and if you mess up badly enough, you'll *burn and suffer forever.* Conversely, you get to live a carefree existence, luxuriating forever if you're obedient to what your pastor says.
+A very cynical outlook on this teaching is that it's a tool for a ruler to control subjects. It's a carrot-and-stick approach of promising reward and punishment. A constable officer can levy punishment for crimes visibly committed. But what does an illiterate peasant do when, in twelfth-century England, no one is around to witness some misdoing such as petty theft? The ruling class can't have him or her getting too bold, so... Now Christianity teaches that there is an invisible, omniscient force, always present to witness your actions, and *even your thoughts.* You won't know it until after you die, but this divine presence is keeping track, and if you mess up badly enough, you'll *burn and suffer forever.* Conversely, you get to live a carefree existence, luxuriating forever if you're obedient to what your pastor says.
 
 Trouble is, as with many promises that religions make, none of this gets realized until you're dead. And, once you're dead, there's no risk of you coming back to your religious clergy to say "hey, you lied to me!"
 
@@ -92,17 +92,21 @@ Trouble is, as with many promises that religions make, none of this gets realize
 ### Consciousness
 Consider for a moment the possibility of immortality. If you were impervious to harm, you could do some fun stunts, chasing new sources of dopamine for a good, long while. In science fiction and fantasy, this condition leads to "everyone you've ever known or loved dies, leaving you alone." If you had unending life, remaining conscious and aware indefinitely, the novelty would at some point wear out. In this hypothetical scenario, after thousands of years, you would eventually outlive the planet you were on, drifting aimlessly in outer space, unable to suffocate or freeze—it honestly just sounds like a bad time.
 
+![[meeseeks-exist.png]]{: .center}
+
 Now, for another example to illustrate my point: solitary confinement is considered inhumane, cruel punishment ([1](https://en.m.wikipedia.org/wiki/Solitary_confinement#Effects), [2](https://www.aclu.org/news/prisoners-rights/use-solitary-confinement-virginia-inhumane-and-unlawful), [3](https://www.britannica.com/topic/solitary-confinement), [4](https://www.psychologytoday.com/us/blog/almost-addicted/201801/solitary-confinement-torture-pure-and-simple)). Why? You're left conscious and aware with no stimulation. Humans like novelty. Keeping someone confined and alone is widely considered *torturous*. Prisoners lose their sense of time passing, distorting their estimation of how long they've been confined. Three weeks can feel like ten years in a windowless, featureless room. You have absolutely no way to measure it, and it is maddening.
 
 These would be fair comparisons *if* the scenario of Christianity's afterlife was simply continuing consciousness. The prospect of eternal life as described in Mormonism isn't so grim and ominous. Instead, it's... [vague](https://www.churchofjesuschrist.org/study/liahona/2016/06/what-do-we-know-about-life-after-death?lang=eng&id=p26#p26). You'll just live forever, and your family will be there, having "[eternal joy](https://newsroom.churchofjesuschrist.org/article/heaven)." What does not seem to be taken into consideration is that an eternity of *anything* would be torturous. Our consciousness is not able to fully comprehend eternity. If you [[#Families|take issue with your family]] for whatever reason, tough luck&mdash;you have the [[Privilege|privilege]] of staying with them for an incomprehensible amount of time. At least you get to hang out with God and Jesus. Doing what for eternity? 🤷‍♂️ Playing Mario Kart, I guess. 
 
-I realize that I likely sound insensitive or crass. For folks who do genuinely have a strong affinity for their family, this afterlife arrangement is a solid deal. True, humans don't always get along—inevitably upsetting each other for reasons ranging from egregious to annoying. Losing a close loved one is emotionally painful. The idea that they will again be alive and well truly is encouraging. If that hope is what helps you get through a depressive episode, or helps to bring closure to grieving, or simply prevent existential dread, then... it makes sense to want to believe that. I think the purpose of this religious teaching is to do exactly that—the "gospel," or [good news](https://www.churchofjesuschrist.org/study/scriptures/bd/gospels?lang=eng&id=p1#p1), is to inspire hope and optimism. It's very appealing to the human ego.
+&nbsp;
 
-The idea of being reunited with loved ones post-mortem is not only appealing, but useful. As a motivating force, it has tangible impact on our mortal lives. I am inclined to believe that death is death, and we shouldn't rely on the promise of being reunited. My disposition toward this belief may change in future years, once more of my peers, family, or friends pass away due to tragedy or simply old age.
+The idea of being reunited with loved ones post-mortem is not only appealing, but useful. As a motivating force, it has tangible impact on our mortal lives. If that hope is what helps you get through a depressive episode, or helps to bring closure to grieving, or simply prevent existential dread, then... it makes sense to want to believe that. I think the purpose of this religious teaching is to do exactly that—the "gospel," or [good news](https://www.churchofjesuschrist.org/study/scriptures/bd/gospels?lang=eng&id=p1#p1), is to inspire hope and optimism. It's very appealing to the human ego.
 
 &nbsp;
 
 ### Families
+I realize that I likely sound insensitive or crass. For folks who do genuinely have a strong affinity for their family, this afterlife arrangement is a solid deal. True, humans don't always get along—inevitably upsetting each other for reasons ranging from egregious to annoying. Losing a close loved one is emotionally painful. The idea that they will again be alive and well truly is encouraging. 
+
 What about folks who don’t want to stay with their family forever? What about people who grow up in an abusive household? Someone who gets beaten and raped by their father probably won’t see that promised *Eternal Family*™️ as a selling point. What if one's mother grapples with depression, and doesn't regulate her emotions well? [C-PTSD](https://en.wikipedia.org/wiki/Complex_post-traumatic_stress_disorder?wprov=sfla1) can stem from both prolonged verbal abuse and neglect. If you were raised to believe that you were a worthless piece of shit, would you want to spend eternity with the people who raised you that way? What if your hypothetical spouse or partner, over years and decades, becomes manipulative or aggressive behind closed doors? What if your local priesthood leaders tell you to forgive & forget, deal with it, endure to the end, etc&mdash;would you want to spend eternity with him or her?
 
 &nbsp;
@@ -111,6 +115,40 @@ If we’re all descendants of a common ancestor, Adam, then… where do we delin
 
 I would hypothetically be with my siblings, parents, and grandparents. What about *their* family? Are my grandparents' grandparents going to be counted as part of "my" family? Where would it end? Would my seventh cousin, Nth removed be part of the group I'm in? We'd share a common ancestor at some point, which ancestor would want to be with his or her family forever, including their descendants, and their descendants' respective descendants. How many generations back would it go? Wouldn’t that mean that everyone you see in Celestial Kingdom is family, and therefore being with family is a moot point?
 
+&nbsp;
+
+#### Marriage complications
+> *My dear brothers and sisters, a letter I received some time ago introduces the subject of my talk. The writer was contemplating a temple marriage to a man whose eternal companion had died. She would be a second wife. She asked this question: would she be able to have her own house in the next life, or would she have to live with her husband and his first wife? ==I just told her to trust the Lord==.*
+
+&mdash; *[Trust in the Lord](https://www.churchofjesuschrist.org/study/general-conference/2019/10/17oaks?lang=eng&id=p1#p1)*, President Dallin H. Oaks, First Counselor in the First Presidency, General Conference 2019 October
+
+&nbsp;
+
+The value proposition for the Mormon afterlife is being with my family forever, but if a family structure deviates from a 1950's American nuclear family, things get messy and complicated.
+
+&nbsp;
+
+Consider successive marriages, whether due to divorce or death. If one or both of my parents remarry, I could have two sets of step-siblings which exponentially raises the number of individuals to be counted among my eternal family, and I theirs. Which of my mothers would be "mine"? If my parents re-marry while I am an adult, the image of "family" that I had been promised to be eternal and unchanging has (hypothetically) changed before the Spirit World was even a relevant factor. If the selling point was to live with the configuration I grew up with, I am then left to reevaluate and reconsider if this afterlife is worth it.
+
+&nbsp;
+
+Or, rather than approach it from a child's perspective, if (hypothetically) I get remarried due to death or divorce, I (being male in the Mormon hierarchy) can be [[Sealing|sealed]] to a second spouse. ***Why?*** The point of being eternally sealed was to be with my wife after we die. That is literally the reason why I did it that way. This scenario doesn't nullify the first sealing. If I get remarried, thereby being sealed twice, what does that say about the emotional connection with my first wife? If the idea of remarrying after an untimely death is to stave off loneliness, then why even consider an eternal sealing? And, don't forget, women can only be sealed to one man at a time, and need permission from the First Presidency to arrange that. Very cool&mdash;thanks, God 👍
+
+Say my second wife already has kids. Those kids now have a new family configuration due to circumstances well outside their control, influence, or agency.
+
+&nbsp;
+
+Doesn't having an eternally binding agreement suggest monogamous exclusivity? ... Unless someone dies, then your eternal marriage extending beyond death is no longer monogamous nor exclusive? What if I died holding the belief that I would be reunited with my wife in the afterlife... only to find out that there's another man involved in our monogamous, exclusive relationship? Not only that, but it's theologically sound, sanctioned by God's prophets? This exact scenario is outlined in [the church's General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=p2950#p2950). If I die, I can do absolutely nothing about someone else getting eternally sealed to my wife. 
+
+Why would the church treat the marriage ceremony as immutable and eternal if it can change as soon as death or divorce is a relevant factor? I got married in an LDS temple with the expectation that my wife and I would be together *for eternity* and nothing would change that. I guess it's my fault for assuming that the word eternal meant *eternal*, having not read the Handbook's sections 38.4 through 38.4.2.8 for all the stipulations, clauses and exceptions.
+
+&nbsp;
+
+Damn, kinda... kinda feels like the church is just run by lawyers, doesn't it?
+
+&nbsp;
+
+#### Descendants
 I think the [Abrahamic Covenant](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p14#p14) is [promised to anyone](https://www.churchofjesuschrist.org/study/manual/gospel-topics/abrahamic-covenant?lang=eng&id=p5#p5) "\[obedient to\] the laws and ordinances of the gospel," which I have been *assured* by my bishop that is what the "[[DC 132#4|new and everlasting covenant]]" means.
 
 > *And it was in the night time when the Lord spake these words unto me: I will multiply thee, and thy seed after thee, like unto these; and if thou canst count the number of sands, so shall be the number of thy seeds.*
@@ -121,13 +159,11 @@ A person can receive all the blessings of the Abrahamic covenant—even if he or
 
 The idea of one's "seed" being as numerous as sand sounds like it's being presented as an inventive. "You'll have *so many descendants* and they will all think that you're cool. That is what awaits you in heaven." I guess??? This would only be a valid or useful "reward" if you were going to be able to spend time with this innumerable posterity. I could imagine an elderly patriarch gleefully grinning as he's introduced to his fifth-generation grandchild, and I suppose that's the intrinsic reward promised to those who are obedient to God's commandments. Is this hypothetical recipient spending eternity with this posterity? I assume so. Is that heaven for everyone else, though?
 
-Put yourself in the position of this posterity. Five generations (an arbitrary number I'm using for this example) back, you have ancestors. Imagine they have their temple work done, and... what do you know about these people? What do they know about you? Look further back to eight generations. Culture will be so drastically different that far back that you might think that set of grandparents are insufferable assholes. Do they share the same values that you do? You're part of *their reward* per the Abrahamic covenant.
+Put yourself in the position of this posterity. Five generations (an arbitrary number for this example) back, you have ancestors. Imagine they have their temple work done, and... what do you know about these people? What do they know about you? Look further back to eight generations. Culture will be so drastically different that far back that you might think that set of grandparents are insufferable assholes. Do they share the same values that you do? You're part of *their reward* per the Abrahamic covenant.
 
 &nbsp;
 
 Do we draw a line somewhere between Homo Sapiens and other humankind precursors? Do Neanderthals and Homo Erectus count as family, if we can trace our lineage to them? ... What's that? [[Historicity|They don't exist]]? *How convenient*.
-
-If Polygamy is an eternal law, and [[Becoming Gods|we are to become like God]], then… that means that exaltation for women is to be a spiritual breeder, who shall not be named or known, and her children cannot commune with her. Does that sound like heaven? Watching your own children suffer through arduous trials on earth, and being able to offer no comfort, knowing they’re forbidden from even talking to you, or even knowing about you? Does that sound like heaven?
 
 &nbsp;
 
@@ -154,11 +190,9 @@ If Polygamy is an eternal law, and [[Becoming Gods|we are to become like God]], 
 ---
 
 ## Damnation
-The *Plan of Salvation* is another differentiating factor between the LDS faith and other varieties of Christianity. An oversimplification of this teaching is that our afterlife has more nuance than "playing a harp on a cloud" versus "burning for eternity." The Mormon afterlife has more middle ground. The categorization ranges from "living with God" as described above, to "not much better than the earthly mortality you just got out of." Unless the LDS church's leadership *really* doesn't like you— you can get banished to *outer darkness* to be sad and lonely for eternity.
+The *Plan of Salvation* is another differentiating factor between the LDS faith and other varieties of Christianity. An oversimplification of this teaching is that our afterlife has more nuance than "playing a harp on a cloud" versus "burning for eternity." The Mormon afterlife has more middle ground. The categorization ranges from "living with God" as described above, to "not much better than the earthly mortality you just got out of." Unless the LDS church's leadership *really* doesn't like you, in which case you get banished to *outer darkness* to be sad and lonely for eternity. That'll teach 'em.
 
-One line that I remember repeating while serving an LDS mission was "a water dam does not *obliterate* or *destroy* the water—it stops the water. Beavers don't halt the flow of water out of spite. Damnation means becoming stagnant, no longer progressing. The ideal outcome in the afterlife is eternal progression, and damnation simply means 'being stopped.'" I perpetuated this idea because while *dam* and *damn* are homophones ([1](https://www.merriam-webster.com/dictionary/homophone), [2](https://en.wikipedia.org/wiki/Homophone), [3](https://www.wordscoach.com/blog/180-examples-of-homophones/)) with separate definitions ([1](https://en.wiktionary.org/wiki/damn), [2](https://en.wiktionary.org/wiki/dam#English), [3](https://grammarist.com/spelling/dam-damn/), [4](https://www.grammargiant.com/confused-words/Dam-or-Damn), [5](https://speakfluently.co/en/english/confusing-words/dam-damn)), but I didn't have any access to the internet or any book of text that could clarify my misunderstanding, and I had been raised to believe that having a dong meant that I could receive revelation so whatever I said was magically true somehow. This combination of factors made me a fantastic missionary, at least by someone's standards. (If it wasn't obvious, my above description of damnation was misguided and is incorrect.)
-
-I use this anecdote to introduce the teaching of Exaltation's opposite. What exactly does the LDS church teach about folks who do not get exalted in the celestial kingdom?
+So what exactly does the LDS church teach about folks who do not get exalted in the celestial kingdom?
 
 &nbsp;
 
@@ -188,7 +222,7 @@ So... what is it? Modern scriptural resources seem to shy away from *actually de
 
 We have a description from the *[Gospel Topics](https://www.churchofjesuschrist.org/study/manual/gospel-topics/kingdoms-of-glory?lang=eng&id=title5-p13#title5)* to turn to, though. ... It pretty much says "only bad people who reject Jesus go here, so don't worry about it. You're not going to reject Jesus, *are you*?"
 
-In the above section on the "lower kingdoms" we got a description from James Talmadge's *Articles of Faith*. Fortunately for us (maybe?) he also [describes perdition](https://archive.org/details/articlesfaithas00talmgoog/page/62/mode/2up). It's about as vague as the positive incentive to go to Mormon Heaven. What makes it awful and unbearable? What will you be doing in either destination? Playing *[Superman 64](https://screenrant.com/worst-video-game-superman-nintendo-64-bad-why/)*, I guess. The [D&C does say in no uncertain terms](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=eng&id=p32#p32) that "it had been better for them to never have been born[.]" That tracks.
+In the above section on the "lower kingdoms" we got a description from James Talmadge's *Articles of Faith*. Fortunately for us (maybe?) he also [describes perdition](https://archive.org/details/articlesfaithas00talmgoog/page/62/mode/2up). It's about as vague as the positive incentive to go to Mormon Heaven. What makes it awful and unbearable? What will you be doing in either destination? 🤷‍♂️ Playing *[Superman 64](https://screenrant.com/worst-video-game-superman-nintendo-64-bad-why/)*, I guess. The [D&C does say in no uncertain terms](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=eng&id=p32#p32) that "it had been better for them to never have been born[.]" That tracks.
 
 &nbsp;
 

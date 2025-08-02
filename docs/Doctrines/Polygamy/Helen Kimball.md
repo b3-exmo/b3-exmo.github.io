@@ -9,14 +9,14 @@ I don't expect I'll delve into the details of each of Joseph's plural wives. I'v
 ## Mawwiage
 ![image](../../img/mawwiage.gif){: .center}
 
-Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[Sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations.
+Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[Sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations. Assuming that's all that it was, then... what was the point?
 
 &nbsp;
 
 ## Age gap
 Age of consent is broadly accepted as 18 in modern cultures of western nations, although laws explicitly state "a minor." In the 19th century, [that law was a lot less clear](https://en.wikipedia.org/wiki/Ages_of_consent_in_the_United_States#History), and not always enforced. What Joseph did here does not appear to be illegal by the metric of [contemporary judisprudence](https://en.m.wikipedia.org/wiki/Natural_law#Contemporary_judisprudence) and natural law; cultural norms shape laws where there isn't an explicitly stated case.
 
-Before you accuse me of delving too deep into libertarian ideology, please keep your pitchforks where they belong; I'm making the case that despite law not preventing this, ethics should have. Someone speaking for and representing God must be held to a high standard. Joseph was already married. The Kimball family wouldn't have taken Joseph's word pertaining to salvation and exaltation if Joseph wasn't a prophet. This sounds to me like an abuse of power. Marrying someone 22 years younger than you is [[Polygamy#Census analysis|not commonplace]], and I think the only reason Joseph got away with it is because he's in a position of power and influence.
+Before you accuse me of delving too deep into libertarian ideology, please keep your pitchforks where they belong; I'm making the case that while law did not prevent this, ethics should have. Laws are not a moral benchmark. Someone speaking for and representing God must be held to a high standard. Joseph was already married. The Kimball family wouldn't have taken Joseph's word pertaining to salvation and exaltation if Joseph wasn't a prophet. This sounds to me like an abuse of power. Marrying someone 22 years younger than you is [[Polygamy#Census analysis|not commonplace]], and I think the only reason Joseph got away with it is because he's in a position of power and influence.
 
 &nbsp;
 
@@ -33,7 +33,7 @@ For the sake of side-by-side comparison, here's a table of dates:
 
 Alvin, Joseph's firstborn son, passed away in infancy. That must have been devastating to the family. I don't want to make light of that. What I do want to point out, though, is that Alvin was born 2 months and 7 days before Helen was.
 
-That means that Joseph Smith, prophet of the Lord, married a girl younger than his own child. Had Alvin survived into at least teenage years, Helen's hypothetical stepson would be two months older than her. This is a very uncomfortable thought for me to process. Helen was nearly the same age as Joseph's own children.
+That means that Joseph Smith, prophet of the Lord, ==married a girl younger than his own child==. Had Alvin survived into at least teenage years, Helen's hypothetical stepson would be two months older than her. This is a very uncomfortable thought for me to process. Helen was nearly the same age as Joseph's firstborn.
 
 &nbsp;
 
@@ -180,6 +180,10 @@ Ready for more sad reading? Good, cause we got more to get through.
 &nbsp;
 
 Other pages within this book describe her affinity for dancing and socializing. She's a teenager in the 18th century, not like there was much else to look forward to, but that makes this that much worse— her one escape, one joy in life is taken away.
+
+&nbsp;
+
+Assume for a moment that coercing Helen was the only scumbag thing that Joseph Smith did. I really do not see how one can read through these notes and stand by Smith, asserting that he was called of God and justified in it all. If you can, just listen to yourself defend it. You don't have to tell me anything. But verbalize to yourself why this is okay, and think about what you conclude.
 
 &nbsp;
 

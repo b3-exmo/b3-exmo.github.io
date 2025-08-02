@@ -31,14 +31,16 @@ If they do have accounts and reports, they are not publicly available. It sounds
 &nbsp;
 
 ## How much do they have?
-Somewhere between 30 and 100 billion in investment portfolios:
+As of 2019, upwards of 100 billion in investment portfolios:
 
 - Washington Post: [Mormon Church has misled members on $100 billion tax-exempt investment fund, whistleblower alleges](https://web.archive.org/web/20240611223653/https://www.washingtonpost.com/investigations/mormon-church-has-misled-members-on-100-billion-tax-exempt-investment-fund-whistleblower-alleges/2019/12/16/e3619bd2-2004-11ea-86f3-3b5019d451db_story.html)
 - Wall Street Journal: [The Mormon Church Amassed $100 Billion. It Was the Best-Kept Secret in the Investment World.](https://web.archive.org/web/20201201012653/https://www.wsj.com/articles/the-mormon-church-amassed-100-billion-it-was-the-best-kept-secret-in-the-investment-world-11581138011)
 
-Internal audits promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie- the church most certainly has budgets, policies, procedures, etc, and perhaps amassing $100 billion doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
+This number is difficult to nail down, seeing how the church doesn't publish any useful information about how much money they have. This is a big enough tangent that I'll direct you to another page of notes describing what I've found.
 
-==No, the church doesn't have a *legal obligation* to publish any of this==. But if they want to garner trust that the money is spent on things like charity, or helping "the needy", they certainly could be sharing that information. An external audit would reveal this information, but the church (to my knowledge) doesn't arrange any. They certainly could afford to. They are choosing not to.
+&nbsp;
+
+[[Audits|Internal audits]] promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie&mdash;the church most certainly has budgets, policies, procedures, etc, and perhaps amassing hundreds of billions doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
 
 &nbsp;
 
@@ -127,12 +129,12 @@ Oh. Cool, thanks. Always thrilled to find that our loving Heavenly Father's Plan
 
 &nbsp;
 
-To me, this is such a fascinating word choice. Can that privilege be revoked? Is the law of consecration a privilege that got revoked? Are other commandments described as privileges? Is the Word of Wisdom a privilege? Or is it just this one commandment which is a quantifiable, measurable transaction (at least on one side)?
+To me, this is such a fascinating word choice. Can that privilege be revoked? Is the law of consecration a privilege that got revoked? Are [[Privilege|other commandments described as privileges]]? Is the [[Word-of-Wisdom|Word of Wisdom]] a privilege? Or is it just this one commandment which is a quantifiable, measurable transaction (at least on one side)?
 
 &nbsp;
 
 ## Where does the money go?
-Good question. We don’t have access to the church's financial documents, but we can point to public records of what they own.
+Good question. We don’t have access to the church's financial documents, but folks who are more patient than I am can point to public records of what the church owns.
 
 Do we have access to the church’s 990 non-profit forms? Do we have access to complete independently audited financial documents? ... Why not? Moreover, why are they requesting that I give them money?
 
@@ -147,7 +149,7 @@ The bottom of the tithing slip tells you everything you need to know:
 
 > _“Though reasonable efforts will be made globally to use donations as designated, all donations become the Church’s property and will be used at the Church’s sole discretion to further the Church’s overall mission.”_
 
-So, in essence, it doesn’t matter where the money is paid _from_… it all gets used however the church sees fit, so the expectation is that it is used for anything and everything.
+So, in essence, it doesn’t matter where the money is paid _from_… it all gets used however the church sees fit, so the expectation is that the donation is used for anything and everything.
 
 &nbsp;
 
@@ -291,7 +293,7 @@ I don't think I need to point out that the City Creek project is not a homeless 
 
 Don't forget to check out their list of [stores](https://shopcitycreekcenter.com/stores/) that are paying the Church to be in their mall. You can't even fucking [park there](https://citycreekparking.com/) without paying.
 
-*Utah's Rodeo Drive*? There are few other places I could think of to embody vanity, pride, and worldly values. Does Utah want, or need, such a place? Does it seem odd that the LDS church *owns* this bastion of capitalism? Wasn't it the great and spacious building that, of all details to be recorded in scripture, highlighted that "their manner of dress was exceedingly fine"? That had the "attitude of mocking and pointing their fingers" toward those who were pursuing salvation? The church *owns* it, and advertises it as being comparable to Rodeo Drive.
+*Utah's Rodeo Drive*? There are few other places I could think of to embody vanity, pride, and worldly values. Does Utah want or need such a place? Does it seem odd that the LDS church *owns* this bastion of capitalism? Wasn't it the great and spacious building that, of all details to be recorded in scripture, highlighted that "their manner of dress was exceedingly fine"? That had the "attitude of mocking and pointing their fingers" toward those who were pursuing salvation? The church *owns* it, and advertises it as being comparable to Rodeo Drive.
 
 Is _this_ what Jesus taught? Do you want to donate to a charitable organization with no independent audits, no public financial records, or accountability? No? Why not, do you have a problem with porn or something?
 
@@ -309,7 +311,7 @@ Beneficial ~~Life~~ Financial Group [is still around](https://www.beneficialfina
 ### What's wrong with this? 
 Take a step back and think rationally, maybe without cursing.
 
-Yes, the Church is within its rights to do this. They're accountable only to themselves. They didn't outright create a mall, there was a mall already there. It's downtown Salt Lake. A high-rise and a shopping center belong downtown— it is not out of place, nor is it misplaced. I don't have a source handy, but I had heard the claim that since the LDS faith practically founded Salt Lake, they have stakes, connections, ownership partially or wholly in industries and businesses. Is that, on its face, wrong? No. 
+Yes, the Church is within its rights to do this. They're accountable only to themselves. They didn't outright create a mall, there was a mall already there. It's downtown Salt Lake. A high-rise and a shopping center belong downtown—it is not out of place, nor is it misplaced. I don't have a source handy, but I had heard the claim that since the LDS faith practically founded Salt Lake, they have stakes, connections, ownership partially or wholly in industries and businesses. Is that, on its face, wrong? No. 
 
 ***However...***
 

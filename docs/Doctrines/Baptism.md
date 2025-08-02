@@ -14,8 +14,6 @@ Can you point me to any other culture or society, modern or ancient, that settle
 &nbsp;
 
 ### Who else does this?
-I’ll answer my own question!
-
 Part of [Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_canon_law)#Age_of_reason) is the [age of reason](https://en.wikipedia.org/wiki/Age_of_accountability#cite_note-1). See [Can. 97 §2](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib1-cann96-123_en.html). These canons have been around for a long time, certainly before God reveals this info to Joseph Smith.
 
 > *On completion of the seventh year, a minor is presumed to have the use of reason, but intellectual disability can prevent some individuals from ever attaining the use of reason.*
@@ -28,7 +26,7 @@ Part of [Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_cano
 
 Here’s another short summary: [https://www.catholic.com/encyclopedia/age-of-reason](https://www.catholic.com/encyclopedia/age-of-reason)
 
-Cool. Anyone else?
+&nbsp;
 
 > *Other people put the age of accountability at 12 (since that was the age at which Jesus [began to demonstrate his understanding of right and wrong](https://en.wikipedia.org/wiki/Finding_in_the_Temple)) or 13 (the age of the Jewish [Bar Mitzvah](https://en.wikipedia.org/wiki/Bar_Mitzvah)).*
 

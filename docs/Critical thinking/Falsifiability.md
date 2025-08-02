@@ -61,7 +61,7 @@ Perhaps there's room for middle ground between those two outcomes? The significa
 
 The Book of Mormon was translated from golden plates, preserved by Moroni. You'll just have to take Joseph's word that the plates existed, since you're not allowed to see them. Even if you had, it's written in a language no one else can read, also doesn't exist anywhere else so no one else *could* read it. There's a testimony of three and also eight witnesses, and *they* saw it. Maybe.
 
-Joseph Smith saw God and Jesus. No one else was there, but it's an event of significant impact and consequence. Despite how world-changing this was, Joseph [[First Vision#Timeline of Accounts|didn't write it down for 14 years]] (oops 🤪). Definitely happened, though.
+Joseph Smith saw God and Jesus. No one else was there, but it's an event of significant impact and consequence. Despite how world-changing this was, Joseph [[first-vision#Timeline|didn't write it down for 12 years]] (oops 🤪). Definitely happened, though.
 
 &nbsp;
 

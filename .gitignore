@@ -7,3 +7,4 @@ venv/
 site/
 pyvenv.cfg
 0dev/
+.stversions/

@@ -6,7 +6,7 @@ comments: true
 
 The link above is to the Ensign magazine, reprinting the [address given in BYU](https://speeches.byu.edu/talks/ezra-taft-benson/fourteen-fundamentals-following-prophet/) in February, 1980. I won't repost the entire speech, but show some excerpts with comments.
 
-It's worth acknowledging that as of [October '79,](https://www.churchofjesuschrist.org/study/general-conference/1979/10/the-sustaining-of-church-officers?lang=eng&id=p5#p5) Benson was not the president of the church, but the "President of the Council of the Twelve," which I suppose is what we'd call today the senior-most apostle. The Ensign distribution of this talk was in '81. When Elder Benson here is talking about "the prophet", at the time of the speech he was talking about Spencer Kimball, but there's no way that Benson didn't see the writing on the wall. Benson *will be* "the prophet" soon, so he can get this faith-promoting address in now so he doesn't sound quite so much like a tyrant who destroys, reigning with blood and horror upon the earth.
+It's worth acknowledging that as of [October '79,](https://www.churchofjesuschrist.org/study/general-conference/1979/10/the-sustaining-of-church-officers?lang=eng&id=p5#p5) Benson was not the president of the church, but the "President of the Council of the Twelve," which I suppose is what we'd call today the senior apostle. The Ensign distribution of this talk was in '81. When Elder Benson here is talking about "the prophet", at the time of the speech he was talking about Spencer Kimball, but there's no way that Benson didn't see the writing on the wall&mdash;Benson is next in line. Benson *will be* "the prophet" soon, so he can get this faith-promoting address in now so he doesn't sound quite so much like a tyrant who destroys, reigning with blood and horror upon the earth.
 
 &nbsp;
 
@@ -15,37 +15,45 @@ It's worth acknowledging that as of [October '79,](https://www.churchofjesuschri
 
 Hey, how about that; attendees of BYU in 1980 were *also* a choice generation of young folks. Crazy how every generation is a choice one.
 
+&nbsp;
+
 > *Not only is the Church growing in number today, it is growing in faithfulness and, even more important, our young generation, as a group, is even more faithful than the older generation. God has reserved you for the eleventh hour—the great and dreadful day of the Lord ([D&C 110:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110.16?lang=eng#p16)). ==It will be your responsibility== not only to help to carry the kingdom to a triumph but to save your own soul and strive to save those of your family and to honor the principles of the inspired ==constitution of the United States==.*
 
 GOD BLESS AMERICA 🌎🇺🇸🗽🦅🍔🔫
 
-We're a worldwide organization, but don't forget that not only is '*merica* the *promised land*, Utah specifically is the *super-promised land*. The border between Colorado and Utah has a magic barrier that keeps out ~~people of color~~ sinful heathens.
+We're a worldwide organization, but don't forget: not only is '*merica* the *promised land*, Utah specifically is the *super-promised land*. The border between Colorado and Utah has a magic barrier that keeps out ~~people of color~~ sinful heathens.
 
 &nbsp;
 
 ### 1. The prophet is the only man who speaks for the Lord in everything.
 [Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p7#p7)
 
-Idk man that sounds like you really want to be able to *dictate* “everything”.
+Idk man, it really sounds like *you* want to be able to dictate “everything”.
+
+&nbsp;
 
 > *In [D&C 132:7](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.7?lang=eng#p7) the Lord speaks of the prophet—the president—and says:*
 > 
 > *“There is never but one on the earth at a time on whom this power and the keys of this priesthood are conferred.”*
 
-Wait, so... do we sustain the quorum of 12 as "prophets, seers, and revelators"? Moreover, I wonder if [[DC 132|D&C 132]] has any other fascinating information in it.
+Wait, so... do we sustain the quorum of 12 as "==prophets==, seers, and revelators"? The quoted scripture says neither "prophet" nor "president." Sounds to me like that verse is describing Joseph Smith specifically. How did we extrapolate that interpretation?
+
+I wonder if [[DC 132|D&C 132]] has any other fascinating information in it.
 
 &nbsp;
 
 ### 2. The living prophet is more vital to us than the Standard Works.
 [Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p14#p14)
 
-So… Existing, established records of Jesus’ teachings are less important than you. I suppose that would make sense *if* you really spoke to Jesus. From anyone left of skepticism, that sounds very authoritarian and cult-like.
+So… Existing, established records of Jesus Christ's teachings are less important than you. I suppose that would make sense *if* you really spoke to Jesus. To anyone harboring skepticism, this sounds very authoritarian and cult-like.
+
+&nbsp;
 
 > *President Wilford Woodruff tells of an interesting incident that occurred in the days of the Prophet Joseph Smith:*
 > 
 > *. . . "[Brigham Young] took the stand, and he took the Bible, and laid it down; he took the Book of Mormon, and laid it down; and he took the Book of Doctrine and Covenants, and laid it down before him, and he said: ‘There is the written word of God to us, concerning the work of God from the beginning of the world, almost, to our day. And now,’ said he, ‘when compared with the living oracles those books are nothing to me; those books do not convey the word of God direct to us now, as do the words of a Prophet or a man bearing the Holy Priesthood in our day and generation. I would rather have the living oracles than all the writing in the books.’ That was the course he pursued. When he was through, Brother Joseph said to the congregation; ‘Brother Brigham has told you the word of the Lord, and he has told you the truth.’” (Conference Report, October 1897, pp. 18–19.)*
 
-Brigham thought Joseph was a cool guy, therefore, disregard all scriptures. Joseph's purported agreement suggests pretty strongly that both of them think of themselves as more important than Jesus Christ? Did Brigham just say that the New Testament means nothing to him?
+Brigham thought Joseph was a cool guy, therefore, disregard all scriptures. Joseph's purported agreement suggests pretty strongly that both of them think of themselves as more important than Jesus Christ? Did the prophet [[Brigham Young]] just say that the New Testament means nothing to him?
 
 &nbsp;
 
@@ -62,7 +70,7 @@ That's quite a leap in logic. Joseph Smith has passed away, and still gets quote
 
 ***ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴏᴜʀ ᴍᴀɢᴀᴢɪɴᴇ ᴏʀ ʏᴏᴜ ᴡᴏɴ'ᴛ ᴋɴᴏᴡ ɢᴏᴅ'ꜱ ᴡɪʟʟ***
 
-I can be satisfied to call this a product of the 80's. Truthfully, I wasn't around for the 80's, but I imagine that magazine printing and distributing was the most efficient way to disseminate information, and it does incur overhead costs. To my knowledge, the Ensign et al were not at an exorbitant subscription fee... although, something could be said about the church taking in 10% of your income.
+I can be satisfied to call this statement a product of the 1980's. Truthfully, I wasn't around for the 80's, but I imagine that magazine printing and distributing was the most efficient way to disseminate information, and it does incur overhead costs. To my knowledge, the Ensign and other church publications were not sold at an exorbitant subscription fee... although, something could be said about the church taking in 10% of your income.
 
 > *Beware of those who would set up the dead prophets against the living prophets, for the living prophets always take precedence.*
 
@@ -73,7 +81,9 @@ I can be satisfied to call this a product of the 80's. Truthfully, I wasn't arou
 ### 4. The prophet will never lead the Church astray.
 [Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p21#p21)
 
-I do take issue with this declaration. “Trust everything I say. If it were wrong, God wouldn’t let me say it. Since I said it, that means I have God’s approval backing what I say. It’s practically God saying it!”
+I do take issue with this declaration. “Trust everything that I say. If it were wrong, God wouldn’t let me say it. Since I *did* say it, that means I have God’s approval backing what I say. [It’s practically God saying it](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?id=p38&lang=eng#p38)!”
+
+&nbsp;
 
 > *President Wilford Woodruff stated:*
 >
@@ -83,7 +93,7 @@ I do take issue with this declaration. “Trust everything I say. If it were wro
 > 
 > *“I remember years ago when I was a bishop I had President Heber J. Grant talk to our ward. After the meeting I drove him home … Standing by me, he put his arm over my shoulder and said: ‘My boy, you always keep your eye on the President of the Church and if he ever tells you to do anything, and it is wrong, and you do it, the Lord will bless you for it.’ Then with a twinkle in his eye, he said, ‘But you don’t need to worry. The Lord will never let his mouthpiece lead the people astray.’”* (Conference Report, October 1960, p. 78.)
 
-Cool faith promoting story about blind obedience even if the prophet deliberately tells you to do something that is wrong. "But don't worry that would never happen lmao how ridiculous would that be... *me* of all people telling you to do something *wrong* 😜 god won't let me, so that means everything I tell you must be right!"
+Cool faith promoting story about blind obedience even if the prophet deliberately tells you to do something that is wrong. "But don't worry that would never happen lmao how ridiculous would that be... *me* of all people telling you to do something *wrong* 😜 god won't let me, so that means everything I tell you *must* be right!"
 
 &nbsp;
 
@@ -91,7 +101,7 @@ President Woodruff's quote has an omitted clause, which I think is relevant enou
 
 > ... *It is not in the mind of God. ==If I were to attempt that, the Lord would remove me out of my place==, and so He will any other man who attempts to lead the children of men astray from the oracles of God and from their duty.*
 
-And so when people try to differentiate between a prophet "speaking as a man" versus speaking authoritatively as a representative of God, we can point to Woodruff assuring us that the prophet *can't* say anything that isn't the will of God. If Woodruff or "any other man" say something that is not approved by God, "the Lord would remove [him.]"
+And so when people try to differentiate between a prophet "[[Prophets#Speaking as such|speaking as a man]]" versus speaking authoritatively as a representative of God, we can point to Woodruff assuring us that the prophet *can't* say anything that isn't the will of God. If Woodruff or "any other man" say something that is not approved by God, "the Lord would remove [him.]"
 
 Was the prophet speaking as a man? He couldn't be, or else God wouldn't let him say anything. And so the fact that the prophet said something and wasn't immediately struck by lightning proves that he was speaking as a prophet. Anything that the prophet says is what God says.
 
@@ -100,21 +110,29 @@ Was the prophet speaking as a man? He couldn't be, or else God wouldn't let him 
 ### 5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.
 [Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p26#p26)
 
-Not only is the prophet NEVER wrong, ALWAYS speaks for the Lord, but is always fully qualified to authoritatively speak about anything. 🤔
+Not only is the prophet NEVER wrong, ALWAYS speaks for the Lord, but is always *fully qualified* to authoritatively speak about anything. 🤔
 
-Really, now. Imagine *anyone else* saying this. "Our great leader Kim Jong Un doesn't *need* training or diplomas— he can speak on any subject or act on any matter at any time!" If you heard this said about [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) of Scientology, would you think "oh wow that's fascinating, now I'm more interested to hear what he has to say about the intersection of art and mathematics," or would you think "only a narcissistic cult leader would say that about themselves"?
+Really, now. Imagine *anyone else* saying this. "Our great leader Kim Jong Un doesn't *need* training or diplomas—he can speak on any subject or act on any matter at any time!" 
+
+If you heard this said about [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) of Scientology, would you think "oh wow that's fascinating! Now I'm more interested to hear what he has to say about the intersection of art and mathematics," or would you think "only a narcissistic cult leader would say that about themselves"?
+
+&nbsp;
 
 > *Sometimes there are those who feel their earthly knowledge on a certain subject is superior to the heavenly knowledge which God gives to his prophet on the same subject. They feel the prophet must have the same earthly credentials or training which they have had before they will accept anything the prophet has to say that might contradict their earthly schooling.*
 
 Yeah. There's something to be said about years of rigorous study versus warm fuzzy feelings in your tum-tums.
 
-I've only got an undergrad bachelor's degree in information systems & business intelligence— arguably what gave me the mindset of skeptical analysis that [[My own experience|drives my religious deconstruction]]. But if President Nelson somehow cornered me and wanted to tell me about statistics, I would treat that information with the same skepticism as any other claim. If what he says in this made-up scenario is contrary to what I know already, I'm not about to disregard four years of schooling and bet my career on a nonagenarian's advice at face value.
+I've only got an undergrad bachelor's degree in information systems & business intelligence—arguably what gave me the mindset of skeptical analysis that [[My own experience|drives my religious deconstruction]]. But if President Nelson somehow cornered me and wanted to tell me about statistics, I would treat his words with the same skepticism as any other claim. If what he says in this made-up scenario is contrary to what I know already, I'm not about to disregard four years of schooling and bet my career on a centenarian's advice at face value.
+
+&nbsp;
 
 > *How much earthly schooling did Joseph Smith have? Yet he gave revelations on all kinds of subjects.*
 
 oh for the love of
 
 "Joseph was a complete dumbass who [couldn't tell left from right](https://www.churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=eng&id=p11#p11), and was able to summon up *very convenient* revelations that benefitted him on the spot." Just take our word at face value that [[Education|he was an uneducated dweeb]].
+
+This statement would carry a lot more weight if we couldn't point to anything Joseph had been [caught lying about](). #TODO
 
 &nbsp;
 
@@ -129,25 +147,32 @@ Within that talk, a quote from Brigham Young:
 
 Therefore, *all* words of *all* subsequent prophets are scriptural. To me, this suggests that any statement of "he was speaking as a man, not a prophet" are invalidated.
 
+Also, don't forget that past prophets are deprioritized, per point \#2 in this list.
+
 &nbsp;
+
 ### 7. The prophet tells us what we need to know, not always what we want to know.
 [Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p33#p33)
 
 No room for abuse here, nope
 
-"Not only am I fully qualified to talk about anything, but I'm *always right*. Whatever I'm telling you is what you need to hear!"
+"Not only am I fully qualified to talk about anything, but I'm *always right*. Whatever I'm telling you is *what you need to hear*!"
 
 Again, imagine anyone else saying this. The combination of point 5 and 7 sounds like an abusive relationship.
+
+&nbsp;
 
 >  *“Thou has declared unto us hard things, more than we are able to bear,” complained Nephi’s brethren. But Nephi answered by saying, “The guilty taketh the truth to be hard, for it cutteth them to the very center.” ([1 Ne. 16:1–2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/16.1-2?lang=eng#p1).)*
 
 Slow down, Benson. Was Nephi a prophet *at this point*? Lehi is still alive, they haven't even [[Seafaring|built their ship]] to leave for the promised land yet. You know, the one Lehi was told by God to go to? 
 
+&nbsp;
+
 > *Said President Harold B. Lee:*
 > 
 > *“You may not like what comes from the authority of the Church. It may conflict with your political views. It may contradict your social views. It may interfere with some of your social life … Your safety and ours depends upon whether or not we follow … Let’s keep our eye on the President of the Church.” (Conference Report, October 1970, p. 152–153.)*
 
-![image](../img/robdown-facepalm.gif){: .center}
+![image](../img/robdown-facepalm.gif){: .center .size40}
 
 "Your safety depends on your ability to abandon critical evaluation and do whatever I say."
 
@@ -162,7 +187,9 @@ Definitely not a cult lmao
 > 
 > *“Whatever God requires is right, no matter what it is, although we may not see the reason thereof until long after the events transpire.” (Scrapbook of Mormon Literature, vol. 2, p. 173).*
 
-What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "We can't trust anything D Michael Quinn says [[logical-fallacies#Ad Hominem|because he got excommunicated]]! Meanwhile let me quote from a dead prophet in an apocryphal scrapbook, and relate those words in in a university, and then redistribute it in the church's official magazine." [[#*3. The living prophet is more important to us than a dead prophet.*|You just said to disregard past prophets]] what are you trying to tell us
+What is that [source](https://archive.org/details/scrapbookofmormo54298gut)? *A scrapbook?* "We can't trust anything D Michael Quinn says [[logical-fallacies#Ad Hominem|because he got excommunicated]]! Now, let me quote from a dead prophet in an apocryphal *scrapbook*, and relate those words in an accredited university, and then redistribute it in the church's official magazine." [[#*3. The living prophet is more important to us than a dead prophet.*|You just said to disregard past prophets]] what are you trying to tell us
+
+&nbsp;
 
 > *“For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.” ([Isa. 55:8–9](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55.8-9?lang=eng#p8).)*
 
@@ -175,11 +202,13 @@ Ok thanks that helps clarify things
 
 Yikes 😬
 
+&nbsp;
+
 > *Said Brigham Young: . . .*
 >
 > *“I defy any man on earth to point out the path a Prophet of God should walk in, or point out his duty, and just how far he must go, in dictating temporal or spiritual things. Temporal and spiritual things are inseparably connected, and ever will be.” (Journal of Discourses, 10:363–64.)*
 
-Consider, for a moment, that when a man is convinced he is an authoritative voice of God himself, that man isn't going to listen to anyone else? When his words are indistinguishable from God's words, of course he feels qualified to authoritatively talk to anyone about anything, and will refuse to hear anything else. Or does that only apply to [David Koresh](https://en.wikipedia.org/wiki/David_Koresh)?
+Consider, for a moment, that when a man is convinced he is an authoritative voice for God Himself, that man isn't going to listen to anyone else? When his words are indistinguishable from God's words, of course he feels qualified to authoritatively talk to anyone about anything, and will refuse to hear anything else. Or does that only apply to [David Koresh](https://en.wikipedia.org/wiki/David_Koresh)?
 
 Really, imagine a scenario where you confront President Oaks, and recommend a course of action based on public opinion from survey results. "You should be more compassionate toward LGBT folks," you might say. You're not God, and you're talking to a man who believes he speaks *for* God. How would that pan out?
 
@@ -201,16 +230,18 @@ The notes to [rationalize this claim](https://www.churchofjesuschrist.org/study/
 
 "People who are *wrong* are those who are smarter than me, and those who are wealthier than me. They’re wrong. I am the smartest and richest person who matters, who you should be listening to. The others ‘have the greatest difficulty’ following me.”
 
-On the flip side, this implies pretty strongly that church leadership loves the poorly educated (reminiscent of someone else ([1](https://www.independent.co.uk/news/people/donald-trump-declares-i-love-the-poorly-educated-as-he-storms-to-victory-in-nevada-caucus-a6893106.html), [2](https://www.yahoo.com/news/trump-i-love-the-poorly-educated-144008662.html?guccounter=1)), those who are dissatisfied with economic standing, and those who hope that a leader will solve all their problems for them.
+On the flip side, this implies pretty strongly that church leadership loves the poorly educated (sounds familiar ([1](https://www.independent.co.uk/news/people/donald-trump-declares-i-love-the-poorly-educated-as-he-storms-to-victory-in-nevada-caucus-a6893106.html), [2](https://www.yahoo.com/news/trump-i-love-the-poorly-educated-144008662.html?guccounter=1))), those who are dissatisfied with their economic standing, and those who hope that a leader will solve all their problems for them.
 
-Yes, there's something to be said about the psychological effects that affluence has on a human mind. Associating prosperity with morality compounds this effect. Is it surprising to anyone that a wealthy person who has their needs met doesn't see the need to upend their lifestyle? Certainly not at the behest of someone who wants 10% of their income perpetually?
+Yes, there's something to be said about the psychological effects that affluence has on a human mind. Associating prosperity with morality compounds this effect. Is it surprising to anyone that a wealthy person who has their needs met doesn't see the need to upend their lifestyle? Certainly not at the behest of someone who wants 10% of your income perpetually?
 
 &nbsp;
 
 ### 12. The prophet will not necessarily be popular with the world or the worldly.
 [Link](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p61#p61)
 
-Come on, now. "If I say something that mainstream disagrees with, that means I’m right." Isn't it convenient how the chosen spokesperson for God, loving creator of mankind, always says something upsetting to all of mankind? This gives the prophet a pass to *say anything*, and he can point to the opposition and nay-sayers as proof that he's right, and reflecting God's will. Following this logic, he could make some preposterous statement about zoophilia, and since lay people disagree, that means he must be right!
+Come on, now. "If I say something that mainstream disagrees with, that means I’m right." Isn't it convenient how the chosen spokesperson for God, loving creator of mankind, always says something upsetting to all of mankind? This gives the prophet a pass to *say anything*, and he can point to the opposition and nay-sayers as proof that he's right, and his disagreeable words reflect God's will. Following this logic, he could make some preposterous statement about zoophilia, and since lay people disagree, that means he must be right!
+
+&nbsp;
 
 > *As a prophet reveals the truth it divides the people. The honest in heart heed his words but the unrighteous either ignore the prophet or fight him.*
 
@@ -218,6 +249,8 @@ What? Isn't the prophet meant to be unifying people under one banner? Gathering 
 
 "*People who ignore me or resist my words are unrighteous!*" 
 — Someone who is definitely not a cult leader
+
+&nbsp;
 
 > *As we come closer to the Lord’s second coming you can expect that as the people of the world become more wicked, the prophet will be less popular with them.*
 
@@ -244,5 +277,7 @@ What? Isn't the prophet meant to be unifying people under one banner? Gathering 
 > *May God bless us all to look to the Prophet and the Presidency in the critical and crucial days ahead is my prayer.*
 
 Thanks for telling us that [[True#Why testify?|you're not lying]].
+
+&nbsp;
 
 "You can measure your obedience to God by doing what I say. Uh, I mean... what President Kimball says. Now I just gotta count down the days before he passes away 🤫"

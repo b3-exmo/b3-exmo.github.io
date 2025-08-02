@@ -29,7 +29,7 @@ I'll be real; early 2013 is when I entered the missionary training center in Pro
 
 This wasn't a real game changer for me, but it really did put some weight on [[Shelf|the shelf]]. It wasn't until 2024 that I found a [document published by the LDS church](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/scriptures/approved-adjustments_eng.pdf) describing those adjustments. Good on them for delineating the changes. To date, I haven't ~~looked for~~ found other documents from the LDS church itself that outline changes.
 
-What really bothered me as a missionary is the idea that any of these changes were necessary in the first place. Wasn't it the [[Book of Mormon#Written for our day|most correct book]]? The edition I grew up with was the 1980-something print, as I understand it. Have grammar rules changed that drastically since then? The English language has developed since 1830, no doubt there. Comparing the 1830 print to 2013 seems less fair, but... that does raise the question of how divinely inspired is a book of scripture that needs to be edited and adjusted after it's already been printed and distributed? Was its "most correct" condition only applicable to 19th century readers? Wasn't it written for our day? Did God's teachings change? Does God not understand English sentence structure and punctuation? Or did the prophets and scribes misrepresent God's words the first however-many times around?
+What really bothered me as a missionary is the idea that any of these changes were necessary in the first place. Wasn't it the [[Book of Mormon#Written for our day|most correct book]]? The edition I grew up with was the 1980-something print, as I understand it. Have grammar rules changed that drastically since then? The English language has developed since 1830, no doubt there. Comparing the 1830 print to 2013 seems less fair, but... that does raise the question of how divinely inspired is a book of scripture that needs to be edited and adjusted after it's already been printed and distributed? Was its "most correct" condition only applicable to 19th century readers? Wasn't it [[Book of Mormon#Written for our day|written for our day]]? Did God's teachings change? Does God not understand English sentence structure and punctuation? Or did the prophets and scribes misrepresent God's words the first however-many times around?
 
 ## Intro Page
 
@@ -41,9 +41,9 @@ Why did this get changed? Could it be due to criticism that Native American DNA 
 
 &nbsp;
 
-> *He said there was a book deposited written upon gold plates, giving an account of the former inhabitants of this continent and the source from whence they sprang. He also said that the fullness of the everlasting Gospel was contained in it as delivered by the Saviour to the ancient inhabitants.*
+> *He said there was a book deposited written upon gold plates, giving an account of ==the former inhabitants of this continent== and the source from whence they sprang. He also said that the fullness of the everlasting Gospel was contained in it as delivered by the Saviour to the ancient inhabitants.*
 
-— _[History, 1838–1856, volume A-1 [23 December 1805–30 August 1834], p. 5, The Joseph Smith Papers](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/5?p=5)_
+— *[History, 1838–1856, volume A-1 [23 December 1805–30 August 1834], p. 5, The Joseph Smith Papers](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834/5?p=5)*
 
 See also [Testimony of the Prophet Joseph Smith](https://www.churchofjesuschrist.org/study/scriptures/bofm/js?lang=eng&id=p7#p7) in the intro section of the Book of Mormon.
 
@@ -87,7 +87,7 @@ Moreover, in the chapters surrounding these excerpts of visions shown to Nephi, 
 
 Same chapter, same page.
 
-Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. The 1837 edition uses titles for God that we, today, use for Jesus. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
+Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. The 1837 edition uses titles for *God* that we, today, use for Jesus. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
 
 &nbsp;
 
@@ -105,7 +105,7 @@ That discrepancy aside, calling the original manuscripts perfect makes me think 
 ## Godhead
 For the LDS church to tout its non-trinitarian view of the godhead, there sure seems to be some trinitarian views in our flagship scripture.
 
->_Now Zeezrom saith again unto him: Is the Son of God the very Eternal Father?_
+>_Now Zeezrom saith again unto him: ==Is the Son of God the very Eternal Father==?_
 >
 >_And Amulek said unto him: ==Yea, he is the very Eternal Father of heaven and of earth==, and all things which in them are; he is the beginning and the end, the first and the last;_
 
@@ -119,7 +119,7 @@ For the LDS church to tout its non-trinitarian view of the godhead, there sure s
 >
 > *The Father, because he was conceived by the power of God; and the Son, because of the flesh; ==thus becoming the Father and Son== –*
 >
-> *==And they are one God, yea, the very Eternal Father of heaven and of earth.*==
+> *==And they are one God, yea, the very Eternal Father of heaven and of earth.==*
 
 — _[Mosiah 15:1-4](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/15?lang=eng&id=p1#p1)_
 
@@ -139,7 +139,13 @@ For the LDS church to tout its non-trinitarian view of the godhead, there sure s
 
 &nbsp;
 
-If I am to believe that Joseph saw God the Father & Jesus, physically, separate, distinct entities, side by side, in the year 1820 (according to the 1838 account), why would Joseph propagate the idea that they're one being? Isn't this meant to be what convinced people that the LDS faith is true & legit? Meaning, the idea of the Book of Mormon's truth necessarily leads us to conclude that Joseph was a prophet, and that lineage is traced all the way to Russel M Nelson in 2023? And we can't identify God?
+> *And we know that if we are faithful in Christ, we shall rid our garments of the blood of all men, and be found spotless before the judgment-seat of Christ, and shall dwell with him eternally in the heavens. And the ==honor be to the Father, and to the Son, and to the Holy Ghost, which is one God==. Amen.*
+
+— [The Testimony of Three Witnesses](https://www.churchofjesuschrist.org/study/scriptures/bofm/three?lang=eng&id=p1#p1), Book of Mormon introduction pages
+
+&nbsp;
+
+If I am to believe that Joseph saw God the Father & Jesus, physically, separate, distinct entities, side by side, in the year 1820 (according to [[first-vision#1838|the 1838 account]]), well before [publishing the Book of Mormon in 1830](https://history.churchofjesuschrist.org/content/library/book-of-mormon?lang=eng), why would Joseph propagate the idea that they're one being? Isn't this meant to be what convinces people that the LDS faith is true & legit? Meaning, the idea of the Book of Mormon's truth necessarily leads us to conclude that Joseph was a prophet, and that lineage is traced all the way to Russel M Nelson in 2023? And we can't identify God?
 
 &nbsp;
 

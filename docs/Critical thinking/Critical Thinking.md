@@ -7,8 +7,6 @@ comments: true
 
 — Hugh B Brown, 2nd Counselor in the First Presidency, [General Conference, October **1962**](https://archive.org/details/conferencereport1962sa/page/n43/mode/2up)
 
-Side note: Lds website only shows general conferences back to 1971. Why?
-
 &nbsp;
 
 > *And now come, saith the Lord, by the Spirit, unto the elders of his church, and let us reason together, that ye may understand;*

@@ -15,27 +15,28 @@ You can't make this up.
 &nbsp;
 
 ## First Vision concealment
-As church historian, Joseph F Smith tore out pages and destroyed/hid papers that recorded negative aspects of church history. The first-hand account of Joseph's [[First Vision]] was cut from his journal, since it didn't closely match the broadly accepted standard version.
-
-[WasMormon.org](https://wasmormon.org/the-suppressed-first-vision-account-of-1832/) has this saga well-documented for your reading enjoyment.
-
-> *This six-page history was at some point excised from the letterbook. Fortuitously, one can actually date the time period when these leaves were removed, because the tearing of the last of the three leaves was done with such little care that a small triangular fragment (containing four words of the text) was initially left in the gutter of the letterbook and then removed and taped back onto the last leaf. The clear cellophane tape that was used for this repair was not invented until 1930... Furthermore, “the cut and tear marks, as well as the inscriptions in the gutters of the three excised leaves, match those of the remaining leaf stubs, confirming their original location” in the Joseph Smith letterbook. By 1965 these three leaves of the 1832 account were again “archived together with the letterbook.” Thus, the period when these three leaves were separated was approximately 1930 to 1965—or allowing a five-year period for the cellophane tape to come into common usage in America, the three decades from 1935 to 1965.*
-
-— [Another Look at Joseph Smith’s First Vision](https://www.dialoguejournal.com/articles/another-look-at-joseph-smiths-first-vision/#pdf-wrap), Stan Larson, Dialogue Journal
+While serving as church historian, Joseph F. Smith physically removed pages from the founding prophet Joseph Smith's journal outlining his first-hand account of the First Vision. This account, recorded in JS Jr's own handwriting, conflicts with the canonized, standard version of the First Vision, and sure would be a bad look if someone were to encounter it. Better vandalize the historical record and slice out the pages as a preventative measure. No way this could backfire and cause problems later, nope
 
 &nbsp;
 
-If we've accurately identified (or estimated) when pages were cut out from Joseph Smith's own hand-written journal, we can then compare to who was serving as the [Church Historian and Recorder between years 1921 and 1970](https://www.churchofjesuschrist.org/study/history/topics/joseph-fielding-smith?lang=eng&id=p4#p4). To me, this would indicate gross negligence *at best*, or deliberate disregard for historical documents by the one man appointed to be responsible for preserving historical documents.
+I've got an entire page of notes concerning the First Vision, and I'll go into more detail on [[first-vision-pt2#Joseph Fielding Smith (1876 - 1972)|an account's concealment on that page]]. For this excerpt, I'll be satisfied with that superficial overview, along with some links for further reading:
 
-The cellophane tape is visible in the Joseph Smith Papers Project scans of these documents:
+Descriptions:
+
+- [The Strange Hidden First Vision Account of 1832](https://wasmormon.org/the-suppressed-first-vision-account-of-1832/); *WasMormon.org*
+- [LDS Discussions](https://www.ldsdiscussions.com/firstvision)
+
+Primary Source Documents, with cellophane tape visible in the scanned documents:
 
 - [Letterbook 1](https://www.josephsmithpapers.org/paper-summary/letterbook-1/9#source-note)
 - [JS' History, circa Summer 1832](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/1#source-note)
 - [JS' History, circa Summer 1832, Page 5](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/5)
 
-Under the "Source Note" for the 1832 document:
+Under the "Source Note" for the JSPP 1832 document:
 
 > *Also, the initial three leaves containing the history were excised from the volume. The eight inscribed leaves in the back of the volume may have been cut out at the same time.*
+
+&nbsp;
 
 In the footnote of that source note:
 
@@ -43,9 +44,6 @@ In the footnote of that source note:
 
 > *Manuscript evidence suggests that these excisions took place in the mid-twentieth century. A tear on the third leaf, which evidently occurred during its excision, was probably mended at the time. This tear was mended with clear cellophane tape, which was invented in 1930*
 
-&nbsp;
-
-I'm trying to keep this one brief, but much more detail can be found in the [WasMormon.org](https://wasmormon.org/the-suppressed-first-vision-account-of-1832/) page, as well as [LDS Discussions](https://www.ldsdiscussions.com/firstvision).
 
 &nbsp;
 
@@ -63,18 +61,20 @@ Go look at the earliest listed entry:
 
 141st? Where are the other 140?
 
+You've got to do some digging if you want to access the words of God's prophets, divinely appointed to lead and guide this dispensation. If God had wanted to tell His beloved children something between Joseph Smith's passing and the beginning of the [Unix Epoch](https://en.wikipedia.org/wiki/Unix_time), you need to find them in the [Church's history catalog](https://catalog.churchofjesuschrist.org/record/b60aeaac-e4ce-45f0-9902-6cd9a27e3306/198b4dd2-f4fc-41e3-ae58-a479e532924d?view=browse&lang=eng). No, it isn't indexed. We're dedicating all of those indexing resources to genealogy. You want to know what God said? Tough, we're going to tell you what your 6th-generation grandpappy's dog's name was instead. Hope that helps.
+
 &nbsp;
 
 ### 1981
 Straight up, they removed an entire paragraph from the searchable text, and I'll prove it.
 
-[Here's a link]([https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng) to the talk, with a video recording. Play it and [read along](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng&id=p19-p20#p19). The quote below begins at *6:39*. Note that the transcript omits the bolded paragraph.
+[Here's a link](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng) to the talk, with a video recording. Play it and [read along](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng&id=p19-p20#p19). The quote below begins at *6:39*. Note that the transcript omits the bolded paragraph.
 
-> . . . They will get a great desire to raise a family of their own when they see what a great blessing they were to you.
+> *. . . They will get a great desire to raise a family of their own when they see what a great blessing they were to you.*
 > 
-> _**==If children have a happy family experience, they will not want to be homosexuals==, which I am sure is an acquired addiction, just as drugs, alcohol, and pornography are. The promoters of homosexuality say they were born that way, but I do not believe this is true. There are no female spirits trapped in male bodies and vice versa. He who made them made them male and female. Every form of homosexuality is sin, said the living prophet Spencer W. Kimball.**_
+> *==If children have a happy family experience, they will not want to be homosexuals==, which I am sure is an acquired addiction, just as drugs, alcohol, and pornography are. The promoters of homosexuality say they were born that way, but I do not believe this is true. There are no female spirits trapped in male bodies and vice versa. He who made them made them male and female. Every form of homosexuality is sin, said the living prophet Spencer W. Kimball.*
 > 
-> _Also, I seriously doubt that you will ever turn your own heart more to your own fathers than by writing your family history. . . ._
+> *Also, I seriously doubt that you will ever turn your own heart more to your own fathers than by writing your family history. . . .*
 
 — [Turning the Hearts](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng&id=p19-p20#p19), Elder Hartman Rector, Jr. First Quorum of the Seventy, General Conference 1981 April
 

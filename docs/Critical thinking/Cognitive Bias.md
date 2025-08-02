@@ -115,19 +115,20 @@ Don't forget to only study from approved sources. Just listen to things you alre
 &nbsp;
 
 ### Moroni Logic
-> **3** *Ask God if the things in this record are not true. If ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. 
+> ***3*** *Ask God if the things in this record are not true. If ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.*
 >
 > . . .
 >
-> **6** And whatsoever thing is good is just and true; wherefore, nothing that is good denieth the Christ, but acknowledgeth that he is.*
+> ***6*** *And whatsoever thing is good is just and true; wherefore, nothing that is good denieth the Christ, but acknowledgeth that he is.*
 
 — *[Moroni 10:3, 6](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p6#p6)*
 
 In verse 3 specifically, the reader is instructed to ask God if the record is *not true*. I’m inclined to believe that this wording is not accidental. Have we considered that this means an affirmative answer to the question "are these things *not true*", and so "these things" are false? The answer you get isn’t exactly clear-cut. It’ll be a single negative or a double negative.
 
-If yes, (these things are *not* true), then these things are false.
+- If yes, (these things are *not* true), then these things are false.
+- If no, (these things *aren’t not* true) then these things are true.
 
-If no, (these things *aren’t not* true) then these things are true.
+&nbsp;
 
 How do we interpret and discern the answer from God, then? Are we interpreting the warm fuzzy feelings as an affirmative answer to asking if it's false? It sounds to me like Moroni is exhorting us improperly, or is exhorting us to do the opposite of what he wants.
 

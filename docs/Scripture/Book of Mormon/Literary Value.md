@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 📚 Literary Value
+# 📖 Literary Value
 > *And there were some who died with fevers, which at some seasons of the year were very frequent in the land—but not so much so with fevers, because of the excellent qualities of the many plants and roots which God had prepared to remove the cause of diseases, to which men were subject by the nature of the climate—*
 > 
 > *But there were many who died with old age; and those who died in the faith of Christ are happy in him, as we must needs suppose.*
