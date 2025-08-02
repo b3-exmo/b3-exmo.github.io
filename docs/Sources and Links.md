@@ -114,9 +114,9 @@ My point in all of this is that these journals have been used extensively as sou
 ### Miracle of Forgiveness
 Is this doctrinal? Kind of. Maybe. Only when it's convenient. Yes, it was written and published by a prophet of God and sold for ~~filthy lucre~~ profit, but the church will still try to weasel out of calling this book a source of foundational doctrine. You can find an [archived text](https://web.archive.org/web/20080818091955/http://www.lds.org/braille/The%20Miracle%20of%20Forgiveness.txt) intended for accessible braille reading, if you'd like to read it for yourself.
 
-I remember distinctly as an impressionable teenager confessing to my bishop the awful sin of having hormones (only one step away from being a serial killer!) and being advised to purchase and read this book to guilt me into changing my evil ways. My seminary teachers vouched for it. It got mentioned in General Conference. Cited in Sacrament Meeting talks. Used to supplement Sunday School lessons. 
+I remember distinctly as an impressionable teenager confessing to my bishop the awful sin of having hormones (only one step away from being a serial killer!) and being advised to purchase and read this book to guilt me into changing my evil ways. My seminary teachers vouched for it. It gets mentioned in General Conference ([1](https://catalog.churchofjesuschrist.org/assets/d6ae9a6a-4164-44f3-ba99-cb9cfca9d32c/0/19?lang=eng), [2](https://www.churchofjesuschrist.org/study/general-conference/2004/10/peace-of-conscience-and-peace-of-mind?lang=eng&id=p11#p11)), cited in Sacrament Meeting talks, and is used to supplement Sunday School lessons. 
 
-Count how many times that title [appears in General Conference](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=the+%22miracle+of+forgiveness%22&facet=general-conference&type=web&page=1), in [BYU speeches](https://www.churchofjesuschrist.org/search?facet=byu-speeches&lang=eng&page=1&query=%22miracle+of+forgiveness%22&type=web), in the [Liahona](https://www.churchofjesuschrist.org/search?facet=liahona&lang=eng&page=1&query=%22miracle+of+forgiveness%22&type=web), and then you look me in the eyes and tell me that it's a repudiated source.
+Count how many times that title [appears in General Conference](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=the+%22miracle+of+forgiveness%22&facet=general-conference&type=web&page=1), in [BYU speeches](https://www.churchofjesuschrist.org/search?facet=byu-speeches&lang=eng&page=1&query=%22miracle+of+forgiveness%22&type=web), in the [Liahona](https://www.churchofjesuschrist.org/search?facet=liahona&lang=eng&page=1&query=%22miracle+of+forgiveness%22&type=web), and then *you* look me in the eyes and tell me that it's a repudiated source.
 
 I'd like to add more specific citations and endorsements here, but I will direct you to *Mormonism Research Ministry*'s [A Closer Look at Spencer W. Kimball’s the Miracle of Forgiveness](https://mrm.org/the-miracle-of-forgiveness), which features numerous quotes and endorsements by church leadership.
 
@@ -134,13 +134,15 @@ Buy this book to amp up that guilt trip. *Do it now*.
 ### Favorable sites
 [Apologetics](https://en.wikipedia.org/wiki/Apologetics) is a fancy word for "speaking in defense," irrespective of context for religious claims. It isn't saying "sorry" for anything, but explaining a belief. These sites seem inclined toward promoting faith and shutting down harmful accusations.
 
-- [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an ~~unofficial~~ apologetics site; attempts to address difficult questions and controversies. Provides primary sources for problematic documents. Appears to be one of two de facto standard for defending The Truth ™️ from those evildoers; subjectively, FAIR feels targeted toward career-aged adults, leaving the young whippersnappers with...
+- [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an ~~unofficial~~ apologetics site meant to address difficult questions and controversies. Provides primary sources for problematic documents. Appears to be one of two de facto standard for defending The Truth ™️ from those evildoers; subjectively, FAIR feels targeted toward career-aged adults, leaving the young whippersnappers with...
 
 - [scripturecentral.org](https://scripturecentral.org/): The other of what I'd call de facto apologetic sites. To me, subjectively, it feels more lively, colorful, interactive, and geared toward a demographic of teenagers or young adults. They've got videos and podcasts, including short-form videos for those with modern attention spans.
 
 I've encountered the claim that both of these sites run independently of the LDS church. I've also encountered claims that writers for these sites are paid by the church, but I haven't dug very deep to verify either side of those claims. Maybe?
 
-- [Ask Gramps](https://askgramps.org/): I don't think I'd call it an apologetic site, but certainly presents itself as favorable toward the LDS church. The content is organized by question and answers, presumably handled by the titular *gramps*. In my perusal, I don't see citations to back up the answers given, but the responses do align with what I was taught as a practicing Mormon. It sounds and feels familiar and approachable.
+- [Ask Gramps](https://askgramps.org/): I don't think I'd call it an apologetic site, but certainly presents itself as favorable toward the LDS church. The content is organized by question and answers, presumably handled by the titular *gramps*. In my perusal, I didn't see citations to back up the answers given, but the responses do align with what I was taught as a practicing Mormon. It sounds and feels familiar and approachable.
+
+- [Light and Truth Letter](https://www.lightandtruthletter.org/): A recently published document "written to the critics of the Church of Jesus Christ of Latter-day Saints, about restoration's truth claims, church history, and the fruits of the Church." Presents itself like an "anti-CES letter." I don't agree with most of the refutations, and... in all likelihood, this letter's author could say the same about me & my notes. Go take a look for yourself.
 
 &nbsp;
 
@@ -162,9 +164,9 @@ I've encountered the claim that both of these sites run independently of the LDS
 - [Thoughts on things and stuff](https://thoughtsonthingsandstuff.com/topics/): Vague title. Introspection on LDS-related topics and doctrines.
 - [Mormonism under the microscope](https://www.mormonismunderthemicroscope.com/): I haven't explored them much, looks like a topical document for various claims / controversies
 - [floodlit.org](https://floodlit.org/): Info on sexual abusers & coverups within LDS church. Pretty upsetting to read.
-- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered offers critical insights of LDS doctrine. (As of 2024 March, [appears to be offline](https://zelphontheshelf.com/))— I am left hoping that it comes back in the future.
-	- Zelph's *[The Millennials' Brief Guide to the CES Letter](https://web.archive.org/web/20230927020917/https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/)* is one I encountered early on (late 2018) when I was trying to find some "both sides" analyses of the CES Letter.
-	- Zelph is still around, running a [YouTube channel](https://www.youtube.com/channel/UC3Y4j05DDAXv7vCedrOQ9FQ), though!
+- [Zelph on the Shelf](https://web.archive.org/web/20231001223442/https://zelphontheshelf.com/): I recall this being among the first blogs I encountered amid my shelf-breaking. Offers critical insights of LDS doctrine. As of 2024 March, [appears to be offline](https://zelphontheshelf.com/)— I am left hoping that it comes back in the future.
+	- Zelph's *[The Millennials' Brief Guide to the CES Letter](https://web.archive.org/web/20230927020917/https://zelphontheshelf.com/the-millennials-brief-guide-to-the-ces-letter/)* is the first document I encountered (late 2018) when I was trying to find some "both sides" analyses of the CES Letter.
+	- Zelph is still around, running a [YouTube channel](https://www.youtube.com/channel/UC3Y4j05DDAXv7vCedrOQ9FQ)!
 
 &nbsp;
 
@@ -172,9 +174,9 @@ I've encountered the claim that both of these sites run independently of the LDS
 ### Mormon.ish Podcast
 I've picked up several one-off episodes from this show. Good stuff. I first encountered them in early 2024, and I appreciated that their assessments felt not-so-harsh. Like many things in the LDS faith, there's good to be found, but there's also some shady business going on behind the curtains.
 
-I've begun listening to their [playlist on the Gospel Topics Essays](https://www.youtube.com/playlist?list=PLzh1qiLbCcydDdc2ZiCOuYDbkPN_Yp-PW), but haven't gotten through all of them yet. Each installment is close to two hours long, and yet they're not exhaustive. I'd call them approachable, and satisfying one's want for commiserating after you've already settled on a conclusion. YMMV. 4/5 stars? Good stuff, give them a listen, and find some other areas of interest in their catalog.
+I've begun listening to their [playlist on the Gospel Topics Essays](https://www.youtube.com/playlist?list=PLzh1qiLbCcydDdc2ZiCOuYDbkPN_Yp-PW), but haven't gotten through all of them yet. Each installment is close to two hours long, and yet they're not exhaustive. I'd call them approachable and cathartic.
 
-Update in June 2025: This show has a nice backlog, and keeps making new episodes faster than I can get through my playlists. That's not a bad thing&mdash;I bring it up to preface this absolute goldmine in their [episodes featuring Dr. John Lundwall](https://youtu.be/xu6VV9Nfq3E?si=dPrx6l5FR1sF-Qh5). I'd *really* like to try and distill the information in that subseries here in my notes, but good god, those lengthy episodes add up to a duration of like fifteen hours. Lundwall describes how the [[Book of Mormon]] being contained in a book is a problem in itself, given our modern understanding of Ancient America's textual literacy. It really is a fascinating listen.
+This show has a nice backlog, and keeps making new episodes faster than I can get through my playlists. That's not a bad thing&mdash;I bring it up to preface this absolute goldmine in their [episodes featuring Dr. John Lundwall](https://youtu.be/xu6VV9Nfq3E?si=dPrx6l5FR1sF-Qh5). I'd *really* like to try and distill the information in that subseries here in my notes, but good god, those lengthy episodes add up to a duration of like fifteen hours. Lundwall describes how the [[Book of Mormon]] being contained in a book is a problem in itself, given our modern understanding of Ancient America's textual literacy. It really is a fascinating listen.
 
 &nbsp;
 

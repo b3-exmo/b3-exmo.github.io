@@ -39,7 +39,7 @@ What I'm trying to say is "behave yourselves."
 
 &nbsp;
 
-Stout appears to be a devout member of the LDS faith, and defends that religious practice from criticism online ([1](https://www.megstout.com/blog/2015/06/03/wow-look-i-have-a-website/), [2](https://www.millennialstar.org/author/megstout/), [[3](https://www.reluctantpolygamist.com/author/megstout/)], [[3.1](https://www.millennialstar.org/faithful-joseph-digest/)], [3.2](https://www.millennialstar.org/on-doubt/), [3.3](https://www.millennialstar.org/christians-formerly-known-as-mormons/), [4](https://latterdaysaintmag.com/tag/meg-stout/), [5](https://sunstone.org/speaker/meg-stout/)). Stout encounters Runtu's post, and feels compelled to make some clarifications to Emily's statement.
+Stout appears to be a devout member of the LDS faith, and defends that religious practice from criticism online ([1](https://www.megstout.com/blog/2015/06/03/wow-look-i-have-a-website/), [2](https://www.millennialstar.org/author/megstout/), [3](https://www.reluctantpolygamist.com/author/megstout/), [3.1](https://www.millennialstar.org/faithful-joseph-digest/), [3.2](https://www.millennialstar.org/on-doubt/), [3.3](https://www.millennialstar.org/christians-formerly-known-as-mormons/), [4](https://latterdaysaintmag.com/tag/meg-stout/), [5](https://sunstone.org/speaker/meg-stout/)). Stout encounters Runtu's post, and feels compelled to make some clarifications to Emily's statement.
 
 > *It all boils down to the one admission from Emily, where she responded “Yes sir.” when asked if she had engaged in carnal intercourse with Joseph Smith. ... Had Emily not replied “Yes sir.” to that question, she believed that the temple lot of prophesy would be awarded to Joseph’s sons and their Church and therefore forever made unavailable to the Church of Jesus Christ of Latter-day Saints.*
 >
@@ -55,6 +55,4 @@ This apologetic comment had enough of an impact on Runtu that he [made a blog po
 
 &nbsp;
 
-To be clear, Stout doesn't represent "the church." This isn't an official stance. But of all explanations to dismiss polygamy, this one is what I would call the most comical.
-
-I'm not about to print and nail this ~~thesis~~ blog post to my stake president's office door, donning a slightly askew baseball cap and a skateboard, taunting "checkmate, punk!" since the interaction really shouldn't sway anyone this way or that.
+To be clear, Stout doesn't represent "the church." This isn't an official stance. I'm not about to print and nail this ~~thesis~~ blog post to my stake president's office door, donning a slightly askew baseball cap and a skateboard, taunting "checkmate, punk!" since the interaction really shouldn't sway anyone this way or that. But of all explanations to dismiss polygamy, this one is what I would call the most comical.

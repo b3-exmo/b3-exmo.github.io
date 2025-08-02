@@ -19,7 +19,9 @@ I've got another page of my own notes on what the modern church's leadership has
 
 &nbsp;
 
-## Don't act on it
+
+## A few quotes
+### Don't act on it
 > *Let us be clear: The Church of Jesus Christ of Latter-day Saints believes that “the experience of same-sex attraction is a complex reality for many people. ==The attraction itself is not a sin, but acting on it is==. Even though individuals do not choose to have such attractions, they do choose how to respond to them.*
 
 &mdash; [The Lord Needs You Now!](https://www.churchofjesuschrist.org/study/ensign/2015/09/the-lord-needs-you-now?lang=eng&id=p30#p30), Elder M. Russell Ballard, Quorum of the Twelve Apostles; *From a CES devotional for young adults, “Be Still and Know That I Am God,” delivered in California, USA, on May 4, 2014.*
@@ -47,27 +49,30 @@ Yeah no shit Utah has a suicide epidemic
 
 &nbsp;
 
-"We have a prophet to lead and guide us today! ... We have [[No-official-stance#Sexual Orientation|no answers at all]] concerning what makes people gay. But God loves you! ... Although God's love is contingent upon you *never* developing affection for another human, that is. Why aren't you coming to church every week? *I'm being persecuted by your unwillingness to participate*!"
+"We have a prophet to lead and guide us today! ... We have [[No-official-stance#Sexual Orientation|no answers at all]] concerning what makes people gay. But God loves you! ... Although [[Gods Conditional Love|God's love is contingent]] upon you *never* developing affection for another human, that is. Why aren't you coming to church every week? *I'm being persecuted by your unwillingness to participate*!"
 
 &nbsp;
 
-## Quotes
+### Come as you are
 > *There is room for those with differing sexual attractions. ... With divine imperatives of love and faith, repentance and compassion, honesty and forgiveness, there is room in this choir for all who wish to be there. ==“Come as you are,”== a loving Father says to each of us, but He adds, ==“Don’t plan to stay as you are.”== We smile and remember that God is determined to make of us more than we thought we could be.*
 
 &mdash; [Songs Sung and Unsung](https://www.churchofjesuschrist.org/study/general-conference/2017/04/songs-sung-and-unsung?id=p16&lang=eng#p16), Elder Jeffrey R. Holland, Quorum of the Twelve Apostles; General Conference 2017 April
 
 &nbsp;
 
-"No, we don't turn people away because of who they are&mdash;we just demand that they change who they are in order to stay here. Totally different. Why are you so bitter that we insist you change and conform to our ideology?"
+"No, we don't turn people away because of *who they are*&mdash;we just demand that they change who they are in order to stay here. Totally different. Why are you so bitter that we insist you change and conform to our ideology?"
 
-Look, if a religious institution told me that I'm welcome to attend, but must fundamentally change who I am in order to "stay," I don't think I'd want to stay. Would you?
-
-"There's clearly something wrong with you, but don't worry&mdash;God will make you better!" **OR** they're just a regular ol' human with nothing wrong at all, and they happen to be gay?
-
-It's evident to me that the above excerpt from Holland is not directly quoting God, but really; where does God allude to "don't plan to stay as you are"?
+Look, if a religious institution told me that I'm welcome to attend, but must fundamentally change who I am in order to stay, I don't think I'd want to stay. Would you?
 
 &nbsp;
 
+"There's clearly something wrong with you, but don't worry&mdash;God will make you better!" ***OR*** they're just a regular ol' human with nothing wrong at all, and they happen to be gay?
+
+It's evident to me that the above excerpt from Holland is not directly quoting God&mdash;much like how my "quotes" here are embellished [[logical-fallacies#Strawman Fallacy|strawman]] arguments&mdash;but really; where does God allude to "don't plan to stay as you are"?
+
+&nbsp;
+
+### Complex reality
 > *The experience of same-sex attraction is ==a complex reality== for many people. The attraction itself is not a sin, but acting on it is. Even though individuals do not choose to have such attractions, they do choose how to respond to them. ==With love and understanding==, the Church reaches out to all God’s children, including our gay and lesbian brothers and sisters.*
 
 &mdash; *[mormonsandgays.org](https://web.archive.org/web/20150214231759/https://mormonsandgays.org/)*; this site domain has since been deleted. Link is to an archive captured in February 2015
@@ -106,7 +111,7 @@ One can find a lot of compiled lists of "what the bible says about homosexuality
 &nbsp;
 
 ### Social Hierarchy
-This should not come as a surprise to anyone, but when the book of Leviticus was written ([1](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-leviticus?lang=eng&id=title4-p3#title4), [2](https://en.wikipedia.org/wiki/Book_of_Leviticus#Composition)) social norms and cultures were very different than they are today in the 21st century.
+This should not come as a surprise to anyone, but when the book of Leviticus was written around 500 BCE, ([1](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-leviticus?lang=eng&id=title4-p3#title4), [2](https://en.wikipedia.org/wiki/Book_of_Leviticus#Composition)) social norms and cultures were very different than they are today in the 21st century.
 
 What we today think of as "sexuality" is not at all how ancient Israelites thought of it. Sex wasn't an activity that two humans engaged in together, it was *done to* a recipient by an initiating agent. Sexual orientation wasn't a social construct, nor a relevant factor until around the 19th century. An agent's chosen recipient was deemed by the recipient's relative standing in a social hierarchy rather than biology. Ancient Southwestern Asia positions free-born citizen men at the top of this social hierarchy. Below them are men who are *not* free-born (slaves, serfs, etc); below them are women. In this culture, sex is "performed" or "done to" someone below the initiating agent&mdash;not the other way around. Whoever is "on top" in the social structure is also "on top" en coitus&mdash;not the other way around. Any reversal of this order would be a breach of social and cultural boundaries.
 
@@ -116,7 +121,9 @@ There is *absolutely no condemnation* of same-sex relations within the same soci
 
 &nbsp;
 
-Who is the target audience for this documented teaching? Who is the book of Leviticus written to? It wouldn't be to illiterate people in the subservient class. Women weren't really treated as humans around 500 BC, so there'd be no sense in preaching to them. This Levitical scripture is condemning sexual assault or abuse of someone below *you*&mdash;the literate reader, presumed to be a free-born citizen man in the Levitical priestly bloodline&mdash;on that hierarchy. Simply put, the biblical passage is saying "priests mustn't force themselves upon a slave."
+Who is the target audience for this documented teaching? Who is the book of Leviticus written to? It wouldn't be to illiterate people in the subservient class. Women weren't really treated as humans around 500 BCE, so there'd be no sense in preaching to them. This Levitical scripture is condemning sexual assault or abuse of someone below *you*&mdash;the literate reader, presumed to be a free-born citizen man in the Levitical priestly bloodline&mdash;on that hierarchy.
+
+Simply put, the biblical passage is saying "priests mustn't force themselves upon a slave." That's it, that's the commandment.
 
 &nbsp;
 
@@ -125,9 +132,9 @@ I've made the case that the bible isn't condemning homosexual people nor their p
 
 First are some videos suited for casual attention spans. To be clear, there's no shame in wanting a shorter, more easily digestible source of information! These are sourced from a fellow named Dan McClellan, a veritable bible scholar who arguably understands scriptures better than I do. I find Dan to be a credible source, and appreciate that he'll present what the Aramaic & Hebrew texts contain, and examine contemporary culture rather than focus on a dogmatic interpretation. (I want to avoid calling it a *narrative* as I associate that phrasing with conspiracy theories)
 
-- [Episode 10: "Adam and Steve (what the Bible says about homosexuality)"](https://www.youtube.com/watch?v=gW6w-AOiKNM); *Data over Dogma Podcast*
-- [What Does The Bible Say About Homosexuality?: Bible Scholar Dan McClellan](https://www.youtube.com/watch?v=94QhX1p8lMU); *Mormon Stories Podcast*
-- [The Bible never addresses homosexuality as an orientation](https://www.youtube.com/watch?v=BwOuNnTs7S8); *@maklelan*
+- [Episode 10: "Adam and Steve (what the Bible says about homosexuality)"](https://www.youtube.com/watch?v=gW6w-AOiKNM); *Data over Dogma Podcast*; 1:12:54
+- [What Does The Bible Say About Homosexuality?: Bible Scholar Dan McClellan](https://www.youtube.com/watch?v=94QhX1p8lMU); *Mormon Stories Podcast*; 34:31
+- [The Bible never addresses homosexuality as an orientation](https://www.youtube.com/watch?v=BwOuNnTs7S8); *@maklelan*; 4:33
 
 &nbsp;
 
@@ -145,13 +152,13 @@ If you'd prefer sources that are more authoritative and dignified than "man on c
 ### Sodom & Gomorrah
 A variety of sermons will use the dramatic example of the cities Sodom & Gomorrah being destroyed as an example of the extent to which homosexuality pisses off God.
 
-This is only a logical conclusion to reach if we can agree that [there's actually a connection here](https://youtu.be/bar3GOzDNzg?si=pooAcfCP-xrQNeOm&t=13). I'm not about to claim that I understand ancient Hebrew, nor that I've got any knowledge of the Torah that any other clown on the internet doesn't have access to. What I find most bothersome about this teaching is that it reduces humans to a sexual proclivity&mdash;it teaches that [the poophole-loophole](https://en.wiktionary.org/wiki/poophole_loophole) was a stronger motivator for queer folks than romance, emotional fulfillment, social connection, or even simply loving another human. 
+This is only a logical conclusion to reach if we can agree that [there's actually a connection here](https://youtu.be/bar3GOzDNzg?si=pooAcfCP-xrQNeOm&t=13). I'm not about to claim that I understand ancient Hebrew, nor that I've got any knowledge of the Torah that any other clown on the internet doesn't have access to. What I find most bothersome about this teaching is that it reduces humans to a sexual proclivity&mdash;it teaches that [the poophole-loophole](https://en.wiktionary.org/wiki/poophole_loophole) was a stronger motivator for queer folks than romance, emotional fulfillment, social connection, or even simply loving another human.
 
 The LDS scripture's [topical guide entry for "homosexual behavior"](https://www.churchofjesuschrist.org/study/scriptures/tg/homosexual-behavior?lang=eng) cites the passage describing "the men of Sodom" wishing to "know" Lot's angelic pals instead of Lot's daughters, and extrapolating that as the reason for the city's subsequent destruction. For some reason, this is interpreted today as a divine sign of approval for ignoring everything that Jesus taught about loving people for who they are, and you're justified in violently abusing your kids for deviating even slightly from heteronormativity.
 
 &nbsp;
 
-This sounds like one of those scenarios where mankind would really benefit from having a living prophet to clarify what God meant, and how we should handle things today. Conveniently, I can name a specific church who claims precisely that kind of authority! So... do we have an LDS prophet's guidance on how to interpret this?
+This sounds like one of those scenarios where mankind would really benefit from having a living prophet to clarify what God meant, and how we should handle things today. Conveniently, I can point to a specific church who claims precisely that kind of authority!
 
 &nbsp;
 
@@ -160,6 +167,8 @@ This sounds like one of those scenarios where mankind would really benefit from 
 &mdash; *[Chapter 16: Revelation and the Living Prophet](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-16?lang=eng&id=p48#p48)*; Teachings of Presidents of the Church: ==Joseph Smith==. Cites _History of the Church,_ 5:256–57; from a discourse given by Joseph Smith on Jan. 22, 1843, in Nauvoo, Illinois; reported by Wilford Woodruff. Also mentioned in [chapter 6](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-6?lang=eng&id=p14#p14).
 
 This is also described in *[Re-examining Lot](https://rsc.byu.edu/vol-14-no-1-2013/reexamining-lot#_noteref-51)*, an article in BYU's *Religious Educator Vol. 14 No. 1 · 2013*.
+
+Before we "um, actually" this teaching, if we are going to equivocate "rejecting the prophets" with "being gay," I'm going to require an explicit and clear direction from Old Testament prophets describing how heterosexual intercourse is to be performed. Condemning whom Levitical priests may lay with is not a suitable substitute.
 
 Oddly enough, when the LDS church has an opportunity to marginalize and discriminate against an out-group, *we can just ignore what the founding prophet of our dispensation has to say*. Sodom & Gomorrah were destroyed because there were gay people in 'em 😤 don't actually check on what Joseph Smith had to say, please
 
@@ -175,11 +184,17 @@ What is instead taught in the LDS church's manuals is, in very conveniently equi
 
 &mdash; *[Home-Study Lesson: Abraham 3; Genesis 13–18 (Unit 5)](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/genesis-continued/home-study-lesson-abraham-3-genesis-13-18-unit-5?lang=eng)*, Old Testament Seminary Teacher Manual
 
-In fairness, this lesson manual takes the effort to qualify its condemnation by outlining "sexual sin ***including*** homosexual behavior." My brief read-through of the lesson material offered absolutely no attention on any "sexual sin" outside of homosexuality. Good job equivocating, fellas. You've surely covered your bases against young'uns becoming depressed because they're convinced that God hates them for who they are.
+In fairness, this lesson manual takes the effort to qualify its condemnation by outlining "sexual sin ***including*** homosexual behavior." My brief read-through of the lesson material showed absolutely no attention on any "sexual sin" other than homosexuality. Good job equivocating, fellas. You've surely covered your bases against the young'uns becoming depressed because they believe God hates them for who they are.
 
 Pointing to footnotes in the LDS-printed copy of the KJV bible as proof of objectivity seems... circular. I'll direct your attention to *The New Publications of the Standard Works—1979, 1981* ([link](https://scholarsarchive.byu.edu/byusq/vol22/iss4/2/), [archive](https://web.archive.org/web/20191109063821/https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2141&context=byusq)) published by *BYU Studies Quarterly*. This article describes *the Scriptures Publications Committee*. It describes that between 1972 and 1979, various LDS apostles put together the footnotes, chapter headings, and other study helps. Observing that your church's own bible publication's footnotes as objectively declaring "homosexuality" as the grievous sin is what I would call a [[logical-fallacies|logical fallacy]]. "This passage says what I say it says because I said it says that in the 70's." 
 
-It holds up if you already believe everything at face value what the top leadership has to say.
+&nbsp;
+
+Now, lest we interpret "rejecting the prophets" to *mean* homosexuality, I would encourage you to stand up, approach the nearest mirror, look at the reflection within and ask yourself why you are the way that you are. The *Sodom & Gomorrah* story is in Genesis 18. How many prophets had there been to teach against it prior to this point in the chronologically earliest text that all of Christianity has to offer? Don't point to books like Leviticus as evidence of prophetic teachings against it&mdash;that book hasn't been written yet. Instead, tell me where in the window of Genesis 1 through 17 did God's prophet clearly outline parameters for sexual relationships.
+
+&nbsp;
+
+It only holds up if you already believe everything at face value what the LDS church's top leadership has to say.
 
 ... Actually, *a lot of things* only hold up if you discard any and all critical evaluation.
 
@@ -188,9 +203,13 @@ It holds up if you already believe everything at face value what the top leaders
 ## Flip the script
 Pick any quote from a church leader pertaining to sexual orientation, and imagine if the binary were switched.
 
-Assuming you count yourself as heterosexual, what if you heard someone at the pulpit express sympathy for your struggle with opposite-sex attraction? Expressing sympathy for you, saying that the leaders "reach out with love and understanding"? Imagine this hypothetical church insisting that anyone outside of their belief system will be denied eternal exaltation... but don't worry, if you don't conform and join now, they'll just convert you after you die!
+Assuming you count yourself as heterosexual, what if you heard someone at the pulpit express sympathy for your struggle with opposite-sex attraction? Expressing that the leaders "reach out with love and understanding"? Imagine this hypothetical church insisting that anyone outside of their belief system will be denied eternal exaltation... but don't worry, if you don't conform and join now, they'll just convert you after you die!
 
-Really, though. I count myself as straight, and think it would feel very awkward to hear someone tell me that I'm struggling with opposite-sex attraction. I would make the argument that it is not a struggle&mdash;I'd say that I'm having a pretty good go of it. So flip the script: someone whose attraction is to the same sex (I imagine) would feel comparably awkward being told that this natural inclination is unnatural, wrong, and the root cause of all of his or her problems. I don't have many LGBTQ+ peers, but of the few that come to mind, I don't think they're struggling with it. The only struggle to be had is conforming to their religious parents' demands, and denying themselves of humanity or romantic connection.
+Really, though. I count myself as straight, and think it would feel very awkward to hear someone tell me that I'm struggling with opposite-sex attraction. I would make the argument that it is not a struggle&mdash;I'd say that I'm having a pretty good go of it. So flip the script: someone whose attraction is to the same sex (I imagine) would feel comparably awkward being told that this natural inclination is unnatural, wrong, and the root cause of all of his or her problems.
+
+Imagine being told at an imagined, hypothetical church that "you have to be gay like us, or else you'll be condemned for eternity." If that (hypothetical) statement were true, your orientation is not something you can just *change* even under threat of hellfire. You can't make yourself enjoy sexuality. My understanding is that one cannot toggle sexual orientation just by willpower. You can't convince your gay friend to become straight any more effectively than he or she could convince you to become gay. Threats aren't going to change your desires, are they? Why would it work on someone else?
+
+I don't have many LGBTQ+ peers, but of the few that come to mind, I don't think they're struggling with it. The only struggle to be had is conforming to their religious parents' demands, and denying themselves of humanity or romantic connection.
 
 &nbsp;
 
@@ -203,6 +222,8 @@ Maybe you and I just need to pray more to become gay and get over this nonsensic
 ## What's actually wrong here
 I have yet to find what societal ills are traced back to LGBT folks. What argument do we have against them? Are they causing problems? If so, what are they? Are those problems exclusive to a sexual orientation?
 
+I will now engage in more [[logical-fallacies#Strawman Fallacy|strawman arguments]] based on rationalities that I'd been raised with.
+
 ### Reproduction
 *"Gay relationships don't produce kids, can ultimately lead to a population decline collapse!"*
 
@@ -214,12 +235,16 @@ What does that argument mean when pointed to heterosexual couples experiencing i
 
 &nbsp;
 
+And if gay couples don't biologically *produce* children, maybe they could be a key factor in addressing the *[343,077 kids](https://acf.gov/sites/default/files/documents/cb/2023-afcars-dashboard-printable.pdf)* in foster care at the end of Federal Fiscal Year 2023? ([Archive link](https://web.archive.org/web/20250629132407/https://acf.gov/sites/default/files/documents/cb/2023-afcars-dashboard-printable.pdf))
+
+&nbsp;
+
 ### It's simply sinful
 *"It's sexual sin; we can be tempted but must not give in!"*
 
-I've read in a variety of LDS publications that the Law of Chastity is the same for all orientations; struggling with same-sex attraction is then homogenized into whatever deviant proclivity a straight person would grapple with. Acknowledging that I'm not the target recipient of this advice, it feels condescending to me.
+I've read in a variety of LDS publications that the Law of Chastity is the same for all orientations; struggling with same-sex attraction is then homogenized into whatever deviant proclivity a straight person would grapple with. Acknowledging that I'm not the target recipient of this advice, it still feels condescending to read.
 
-Moreover, I can point to lots of talks in General Conference, published pamphlets and booklets all warning specifically against homosexuality. What exactly is a sexual sin that gets comparable scrutiny and condemnation? Have you ever seen an apostle warn against the evils of autoerotic self-asphyxiation? I would call that deviant. There are myriad addresses and lessons condemning the use of porn and masturbation from LDS leadership. At one point in time, the dreaded outcome being warned against is that *it could turn you gay*.
+Moreover, I can point to lots of talks in General Conference, published pamphlets and booklets all warning specifically against homosexuality. What exactly is a sexual sin that gets comparable scrutiny and condemnation? Have you ever seen an apostle warn against the evils of autoerotic self-asphyxiation? I would call that deviant. There are myriad addresses and lessons condemning the use of porn and masturbation from LDS leadership. At one point in time, the dreaded outcome being warned against is that *porn could turn you gay*.
 
 I'm not about to try and enumerate sexual deviancies and draw comparisons to each, nor try to evaluate or rank them. You can do that on your own time. Don't tell me what you find. My point is that if homosexuality is simply a sexual sin that must be resisted "just like all the other sexual sins," I can observe that homosexuality gets a disproportionate amount of condemnation, scrutiny and attention. 
 
@@ -230,16 +255,16 @@ In fact, the LDS church teaches that sex (between a hetero, married couple) is s
 ### God commanded it
 *"But God commanded it! His ways are higher than our ways!"*
 
-Yeah? He did? Through his prophets? Those prophets whom we can never tell if they're [[Prophets#Speaking as such|speaking as a man]] or not until years after? The same prophets who told us that [[Race|black people don't get to participate in saving priesthood ordinances]], but then just said "jk lol they're cool now"? The same prophets who blamed God for the policy that straight kids of gay parents don't deserve to be saved unless they denounce and abandon their family? (families are very important btw) but then reversed the policy and blamed God again for the reversal?
+Yeah? He did? Through his prophets? Those prophets whom we can never tell if they're [[Prophets#Speaking as such|speaking as a man]] or not until years after? The same prophets who told us that [[Race|black people don't get to participate in saving priesthood ordinances]], but then "jk lol they're cool now"? The same prophets who blamed God for the policy that straight kids of gay parents don't deserve to be saved unless they denounce and abandon their family? (families are very important btw) but then reversed the policy and blamed God again for the reversal?
 
 Representing an eternal, unchanging deity and then changing His applicable teachings isn't a good look. Makes people wonder if the prophets actually represent God.
 
 &nbsp;
 
 ## What do we do?
-From my perspective, it isn't very complicated. Let people live their life. You don't have to do a damned thing. If the home neighboring yours has a newlywed gay couple move in, you don't have to do anything about it. You don't have to wonder what's happening in their bedroom. You don't have to think about whether their romance is legitimate or not.
+From my perspective, it isn't very complicated. Let people live their life. You don't have to do a damned thing. If the home neighboring yours has a newlywed gay couple move in, you *don't have to do anything* about it. You don't have to wonder what's happening in their bedroom. You don't have to think about whether their romance is legitimate or not&mdash;not any more than if it were a hetero couple moving in. If you spend any amount of time brooding over what your neighbor is doing in their bedroom or if they truly love each other, you really need a different hobby.
 
-LGBTQ+ includes a wide variety of people, and I've only really written notes on the first two of those letters in the acronym. I imagine much of the same notes here apply to someone coming out as trans, though. Let them live their lives. Don't make life harder for anyone than it already is. Asexuality exists. Intersex exists.
+LGBTQ+ includes a wide variety of people, and I've only really written notes on the first two of those letters in the acronym. I imagine much of the same notes here apply to someone coming out as trans, though. *Just let them live their lives*. Don't make life harder for anyone than it already is. Asexuality exists. Intersex exists. Those people are not any less valid than you or me.
 
 &nbsp;
 

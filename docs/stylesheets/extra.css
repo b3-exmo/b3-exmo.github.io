@@ -31,6 +31,10 @@
     text-indent: 1em;
   }
 
+  .md-main .document-dates-plugin {
+    padding-left: 1.5em;
+  }
+
   .md-typeset blockquote {
     color: #1e1e1eaa;
   }
@@ -53,8 +57,8 @@
     width: 40%;
   }
 
-  ul li {
-    margin-bottom: 0;
+  ul li, ol li {
+    margin-bottom: 0px;
   }
 }
 
@@ -92,6 +96,10 @@
 
   .md-typeset ul li p {
     text-indent: 1em;
+  }
+
+  .md-main .document-dates-plugin {
+    padding-left: 1.5em;
   }
 
   .md-typeset blockquote {
@@ -132,7 +140,7 @@
     width: 40%;
   }
 
-  ul li {
-    margin-bottom: 0;
+  ul li, ol li {
+    margin-bottom: 0px;
   }
 }

@@ -20,9 +20,11 @@ For more information on this, I have a page outlining [[My own experience]].
 &nbsp;
 
 ### Who is this for?
-Primarily for my own catharsis. I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions. Today, they're more of a "letter to my past self." Not a satisfying answer for a target audience.
+Primarily for my own catharsis. I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions.
 
-So, I suppose this is meant for folks in the *Mormonosphere* who are "physically in, mentally out," as I had been at one point in time. If you're interested in finding sources for the not-so-wholesome things the LDS church has been a part of, then I expect you'll find some satisfying content here.
+I don't want my notes to be thought of as a "letter" in the style of *[CES Letter](https://cesletter.org/)* or the *[Light and Truth Letter](https://www.lightandtruthletter.org/)*. My notes are going to change because my understanding of theology is subject to change. For that reason, I don't like the idea of a static publication (such as print or a .pdf) since I won't be able to make adjustments or corrections. Think of these notes as *a publicly available notebook* from a guy you don't personally know. It's not a satisfying answer for a target audience, but that's reality.
+
+So, I suppose we could say that this is meant for folks in the *Mormonosphere* who are "physically in, mentally out," as I had been at one point in time. If you're interested in finding sources for the not-so-wholesome things the LDS church has been a part of, then I expect you'll find some satisfying content here.
 
 &nbsp;
 

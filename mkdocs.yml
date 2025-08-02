@@ -60,6 +60,10 @@ plugins:
   - search
   - roamlinks
   - open-in-new-tab
+  - document-dates:
+      position: top
+      date_format: '%Y-%m-%d'  # Date format strings, e.g., %Y-%m-%d, %b %d, %Y, etc
+      show_author: false 
   - timetoread:
       wpm: 225
 
@@ -94,6 +98,7 @@ nav:
     - 🧠 Cognitive Bias: Critical thinking/Cognitive Bias.md
     - 🥺 Emotional Thinking: Critical thinking/Emotional Thinking.md
     - 👎 Falsifiability: Critical thinking/Falsifiability.md
+    - 😳 Impossible Gospel: Critical thinking/impossible-gospel.md
     - ♟️ Logical Fallacies: Critical thinking/logical-fallacies.md
     - 🧪 Shelf: Critical thinking/Shelf.md
   - 👥 Culture:
@@ -115,6 +120,7 @@ nav:
     - 🪦 Afterlife: Doctrines/Afterlife.md
     - 🌊 Baptism: Doctrines/Baptism.md
     - 🪄 Becoming Gods: Doctrines/Becoming Gods.md
+    - 🧭 Course Correction: Doctrines/course-correction.md
     - 🩲 Garments: Doctrines/Garments.md
     - 👩‍🤝‍👩 Polygamy: 
       - Doctrines/Polygamy/Polygamy.md
@@ -136,7 +142,8 @@ nav:
       - Prophets/Joseph Smith/Joseph Smith.md
       - 😏 Boasting: Prophets/Joseph Smith/Boasting.md
       - 🎓 Education: Prophets/Joseph Smith/Education.md
-      - 🕶 First Vision: Prophets/Joseph Smith/First Vision.md
+      - 🕶 First Vision: Prophets/Joseph Smith/first-vision.md
+      - 🕶2️⃣ First Vision, Part 2: Prophets/Joseph Smith/first-vision-pt2.md
       - 🎣 Kinderhook Plates: Prophets/Joseph Smith/Kinderhook Plates.md
     - 😤 Brigham Young:
       - Prophets/Brigham Young/Brigham Young.md

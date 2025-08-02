@@ -17,16 +17,16 @@ God, I guess 🤷‍♂️
 
 &nbsp;
 
-I am not God, and can only rely on words from those who speak in God's behalf to understand His how's and why's. One question that remains in my mind is why God settled on this methodology with its [[Theology#The plan|astronomically low success rate]]. We are entirely at the mercy of the success criteria that God Himself imposed on us.
+I am not God, and can only rely on words from those who speak in God's behalf to understand His how's and why's. One question that remains in my mind is why God settled on a methodology with an [[Theology#The plan|astronomically low success rate]]. We are entirely at the mercy of the success criteria that God Himself imposed on us.
 
-1. God wants us to return to Him
-2. No unclean thing can be with God ([1](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p57#p57), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng&id=p21#p21), [3](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=eng&id=p34#p34), [4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p37#p37), [5](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=eng&id=p19#p19), [6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p20#p20))
-3. We, being mortals, will inevitably become unclean
-4. We need someone to save us from our fallen state after God made us fall
-5. Unless we do what God & Jesus say, we're pretty well fucked
-6. We agreed to all of this before being physically born
+- God wants us to return to Him
+- No unclean thing can be with God ([1](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p57#p57), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng&id=p21#p21), [3](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=eng&id=p34#p34), [4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p37#p37), [5](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=eng&id=p19#p19), [6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p20#p20))
+- We, being mortals, will inevitably become unclean
+- We need someone to save us from our fallen state after God made us fall
+- Unless we do what God & Jesus say, we're pretty well fucked
+- We agreed to all of this before being physically born
 
-I have some feedback notes on this plan. Why can't God tolerate uncleanliness? Is He not omnipotent? Why would God create something that He cannot tolerate? Why would God say that He loves us if He cannot tolerate us in our fallen state? Why would God inflict intolerable attributes upon someone / something He loves? Why are we so susceptible to Satan's influence that our disqualification is practically guaranteed? Requiring a savior sounds reactionary&mdash;it is a response to a 0% success rate, necessitating some other divine being to intervene with God's perfect plan. You did what God said by agreeing to mortality, but since you became mortal, God *won't let you* come back. But He *wants* you back. He just has to send His son to be tortured to death first. What the hell, God?
+I have some feedback notes on this plan. Why can't God tolerate uncleanliness? Is He not omnipotent? Why would God create something that He cannot tolerate? How can God say that He loves us if He cannot tolerate us in our fallen state? Why would God inflict intolerable attributes upon someone / something He loves? Why are we so susceptible to Satan's influence that our disqualification is practically guaranteed? Requiring a savior sounds reactionary&mdash;it is a response to a 0% success rate, necessitating some other divine being to intervene with God's perfect plan. You did what God said by agreeing to mortality, but since you became mortal, God *won't let you* come back. But He *wants* you back. He just has to send His son to be tortured to death first. What the hell, God?
 
 This is all to illustrate the point that God needs you to be saved from God. He won't let you come back because you did what He said, and [[Theology#Hierarchy|He's got rules]] to follow or else [He wouldn't be God anymore](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p24-p25#p24).
 

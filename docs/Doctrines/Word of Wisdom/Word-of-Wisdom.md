@@ -19,7 +19,7 @@ And you begin to understand why Mormons insisting that coffee is evil just looks
 > 
 > *The Lord promises increased health, wisdom, knowledge, and protection to those who obey the Word of Wisdom.*
 > 
-> *Since its introduction, prophets have taught about the importance of following the Word of Wisdom. In addition, they have taught Church members to avoid substances that impair judgment or are harmful or highly addictive, whether legal or illegal. For example, vaping, the misuse of prescription drugs, and the ==recreational use of marijuana== violate Church teachings. Prophets have taught that we should also follow healthy practices such as nutritious eating, regular exercise, proper hygiene, and getting sufficient rest.*
+> *Since its introduction, prophets have taught about the importance of following the Word of Wisdom. In addition, they have taught Church members to avoid substances that impair judgment or are harmful or highly addictive, ==whether legal or illegal==. For example, vaping, the misuse of prescription drugs, and the ==recreational use of marijuana== violate Church teachings. Prophets have taught that we should also follow healthy practices such as nutritious eating, regular exercise, proper hygiene, and getting sufficient rest.*
 
 — [Word of Wisdom](https://www.churchofjesuschrist.org/study/manual/gospel-topics/word-of-wisdom?lang=eng&id=p7-p12#p7), Topics & Questions
 
@@ -32,6 +32,10 @@ We've got some common sense advice here—I don't know of anyone who would insis
 This revelation is given well before the Industrial Revolution extended to [intensive animal farming](https://en.wikipedia.org/wiki/Intensive_animal_farming#History). In 1833, what choice did people have, outside of fruits, vegetables, grains, and sometimes meat? What other option was there, eating sand or tree bark?
 
 "Regular exercise, proper hygiene, and sufficient rest? Wow, thanks God! All these years I'd been chain-smoking while sitting on my ass with three hours of sleep a night, but now that I've heard this godly wisdom, I see the error of my ways." — *A made up response to being told that mundane advice is of divine origin*
+
+&nbsp;
+
+Suspiciously absent from the above overview, advising against "highly addictive" substances irrespective of legality, is sugar. 
 
 &nbsp;
 
@@ -213,7 +217,7 @@ You can follow that link and see the [preceding address](https://catalog.churcho
 
 &nbsp;
 
-### Promised blessings
+## Promised blessings
 > ***18** And all saints who remember to keep and do these sayings, walking in obedience to the commandments, ==shall receive health in their navel and marrow to their bones==;*
 > 
 > ***19** And ==shall find wisdom and great treasures of knowledge==, even hidden treasures;*
@@ -230,7 +234,7 @@ This *Word of Wisdom*, presented as "here's some friendly advice for a fulfillin
 
 &nbsp;
 
-#### Running
+### Running
 [D&C 80:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p20&lang=eng#p20) warrants some scrutiny. Of the four listed blessings associated with adhering to the Word of Wisdom, being promised that we "shall run and not be weary, and shall walk and not faint" seems the easiest to quantify. Should I then expect to see triathlon participants disproportionately consist of Mormons? Based on what I'm reading, if we avoid tea and become vegetarian, we should be ready for a marathon, right? Or a 5k run at minimum... right?
 
 I remember when I was in my early-to-mid-twenties, I got into running as an exercise & hobby. This being well before I ever tried coffee, I remember slowly building up the stamina to run five kilometers, taking a breather two or three times throughout. I also remember when I would struggle to keep pushing forward, I would assure myself how much worse this experience would be if I hadn't been following the Word of Wisdom. It made me wonder "how would anyone get into this hobby if they had coffee every day? They'd never break one mile! If I'm feeling this weary while following God's guidance, imagine how awful this would be for the rest of the world!" Turns out, I was misinformed, out of shape, and the only real risk of drinking coffee before a run is that it sure does get your digestive tract moving. If the nearest bathroom & supply of TP is two miles away, you're in for a bad time.
@@ -257,7 +261,7 @@ It doesn't get "fulfilled in the way we might hope"? Bro it literally [says righ
 
 &nbsp;
 
-### Interpretation
+## Interpretation
 Maybe it's a commandment... maybe it's some strongly encouraged advice. Maybe it's entirely bullshit.
 
 I'll review and summarize the points presented:
@@ -302,7 +306,7 @@ Advising 19th century frontier America that "you should eat foods [when they are
 
 &nbsp;
 
-#### Temperature of drinks
+### Temperature of drinks
 > *Each week Web site administrators compile a list of the top 25 questions submitted to the site. They then check the questions against those currently posted. If a question is frequently asked but not included on the page, the question is posed to the Brethren who decide whether the question and its answer should be added to the site.*
 > 
 > *The following questions are from the top 10 most frequently asked questions from 2004: “How can I obtain more information about the Mormon faith and beliefs?” “What do you believe about heaven, hell, salvation, and eternal life?” “==Please explain the Word of Wisdom==. What is it that is bad? ==Is it caffeine or hot drinks? What about decaf, hot chocolate, iced tea, herbal teas, or caffeinated soft drinks==?” ...*
@@ -315,7 +319,7 @@ Maybe it took them fourteen years to come with a good answer.
 
 &nbsp;
 
-#### New Era 2019
+### New Era, 2019
 In 2019, before the church-published magazines all rebranded or merged into the Liahona, this blurb from the August Ensign offers this teaser:
 
 > *Find these and other topics in the August issue of the New Era.*
@@ -351,14 +355,14 @@ Not only are the blessings vague, but we've added a qualifier that they might no
 
 &nbsp;
 
-### Culture
+## Culture
 > *The Word of Wisdom is one thing, and ignorance, superstition, or bigotry is another. ==I wish people to come to an understanding with regard to the Word of Wisdom==. For illustration, I will refer to a certain brother who was in the church once, and President of the Elder's Quorum in Nauvoo. While living at that place there was a great deal of sickness among the people, and ==he was sometimes called in to lay hands on the sick, but if he had the least doubt about their drinking tea, if he even saw a teapot, he would refuse==. I recollect he went into a house where a woman was sick, who wanted him to lay hands on her; ==he saw a teapot in the corner containing catnip tea, but without stopping to enquire he left the house, exclaiming against her and her practices==.*
 > 
 > ...
 > 
 > *You may think I am speaking extravagantly, but I remember a tea drinking match once in which fourteen cups apiece were drank, so you see it can be done. But to drink half a dozen or even three or four cups of strong tea is hurtful. It injures and impairs the system, benumbs the faculties of the stomach, and affects the blood, and is deleterious in its nature. If a person is weary, worn out, cast down, fainting, or dying, a brandy sling, a little wine, or a cup of tea is good to revive them. ==Do not throw these things away, and say they must never be used; they are good to be used with judgment, prudence, and discretion==.*
 
-— Brigham Young, Word of Wisdom, JoD 12 [https://scriptures.byu.edu/#:t1d4c9:j12](https://scriptures.byu.edu/#:t1d4c9:j12)
+— Brigham Young, Word of Wisdom, Journal of Discourses 12 [https://scriptures.byu.edu/#:t1d4c9:j12](https://scriptures.byu.edu/#:t1d4c9:j12)
 
 That guy sounds like a real douche, ngl
 
@@ -372,4 +376,3 @@ Actually, you know what? After writing all of this... just to spite Elder Oaks, 
 
 ## Reading Material
 [https://www.letterformywife.com/part-one-the-early-church#viewer-8nn2j52947](https://www.letterformywife.com/part-one-the-early-church#viewer-8nn2j52947)
-

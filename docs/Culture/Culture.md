@@ -34,9 +34,9 @@ Why is worthiness for **anything** a relevant factor for us, then?
 
 If a functioning prophet can do this important work of salvation despite his flaws (including but not limited to sexual predation and literal fraud), and God chose to work through him anyway, why, then, do we need to be counted as “worthy” to do anything? Enter the temple, be baptized, take sacrament, serve in a calling, etc
 
-If I so much as drink coffee (something JS did on the regular) then I am denied salvation.
+If I so much as [[Word-of-Wisdom|drink coffee]] (something JS did on the regular) then I am denied salvation.
 
-If I don’t pay tithing into an organization that hides its financial records and dealings, I don’t get to go to the temple.
+If I don’t [[Tithing|pay tithing]] into an organization that hides its financial records and dealings, I don’t get to go to the temple.
 
 If JS creates a fake bank, forges documents, engages in extramarital affairs, gouges Parley Pratt out of a home, he’s still revered as being a prophet and we don’t question his priesthood authority.
 

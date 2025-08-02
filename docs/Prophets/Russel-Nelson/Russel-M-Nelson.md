@@ -20,11 +20,11 @@ And, just to make sure that you and I are on the same page&mdash;I am not intere
 &nbsp;
 
 ## Education
-I intend to tread carefully here—not out of fear of reprisal from church members, but out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon.
+I intend to tread carefully here—not out of fear of reprisal from church members, but out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and it is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon.
 
 What I mean to suggest instead is that Nelson seems to have internalized one of President Benson's *[[14 Fundamentals#5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.|Fourteen Fundamentals in Following the Prophet]]*, where the acting president of the church doesn't need "any particular earthly training or diplomas to speak on any subject or act on any matter at any time." Nelson was, by my understanding, a successful *heart surgeon*. I believe that he can authoritatively talk to anyone *about heart surgery*.
 
-Nelson has drawn on experience as a heart surgeon to authoritatively talk about things that are not heart surgery, and that's something that I take issue with. If we take President Benson's counsel at face value, there's no problem here. If we give critical evaluation to either of these men, we have problems.
+Nelson has drawn on experience as a heart surgeon to authoritatively talk about things that are *not* heart surgery, and that's something that I take issue with. If we take President Benson's counsel at face value, there's no problem here. If we give critical evaluation to either of these men, we have problems.
 
 &nbsp;
 
@@ -60,7 +60,7 @@ I've encountered the claim that Nelson "performed nearly 7,000 operations before
 
 Nelson was called as an apostle in April 1984. ([1](https://www.churchofjesuschrist.org/study/general-conference/1984/04/the-sustaining-of-church-officers?lang=eng&id=p11-p12#p11), [2](https://www.churchofjesuschrist.org/study/general-conference/1984/04/call-to-the-holy-apostleship?lang=eng&id=p3#p3)) At the time of the COVID-19 pandemic, he was `2020 - 1984 = 36` years displaced from practicing medicine. And yet folks will marvel at God's infinite wisdom in calling someone with medical background to lead the church during a pandemic.
 
-Talk to someone who has worked as a CNA about how employable their medical work experience makes them if their certificate has been expired for *one week*. I'm very interested to know what they'll have to say.
+Talk to someone who has worked as a Certified Nurse Assistsnt (CNA) about how employable their medical work experience makes them if their certificate has been expired for *one week*. I'm very interested to know what they'll have to say.
 
 2020 was somehow five years ago (at the time of writing this note,) meaning that Nelson is now *forty-one* years displaced from practicing medicine, and is still given credence on anything he has to say on the matter. I can't think of *any other context* where someone is treated as a subject matter expert after not working in an industry for forty goddamned years. What the fuck.
 
@@ -109,13 +109,13 @@ Anyone could announce temples. A delegated apostle or seventy could have done th
 &nbsp;
 
 ## Pandemic Foresight
-### 2019
 If ever there was an opportunity for God to show *the entire world* that He has a living spokesperson on Earth, a prophet, seer, revelator, one who can see around corners, help guide the faithful, etc. *this was it*. We've got more practicing LDS faithful tuning in live to hear the prophet's divine wisdom than at any prior time, expecting leaders to share some insights, words of warning, assurance if it were nothing to fear, advice to prepare, *anything* would be a great chance to show that this church is led by God Himself.
 
 What do we get instead?
 
 &nbsp;
 
+### 2019
 > *Now I would like to turn to another topic: plans for the coming year. ==In the springtime of the year 2020, it will be exactly 200== years since Joseph Smith experienced the theophany that we know as the First Vision. God the Father and His Beloved Son, Jesus Christ, appeared to Joseph, a 14-year-old youth. That event marked the onset of the Restoration of the gospel of Jesus Christ in its fulness, precisely as foretold in the Holy Bible.*
 > 
 > *...*
@@ -130,7 +130,7 @@ What do we get instead?
 
 &nbsp;
 
-Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of the sanitized version of Joseph Smith's [[First Vision]]. Nelson could not have been more clear on what he meant.
+Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of the sanitized version of Joseph Smith's [[first-vision|First Vision]]. Nelson could not have been more clear on what he meant.
 
 &nbsp;
 
@@ -151,9 +151,19 @@ So what *did* happen in 2020?
 
 &nbsp;
 
-We're told that prophets "[see around corners](https://speeches.byuh.edu/devotionals/prophets-can-see-around-corners)" which makes me think that revelation ought to be given proactively, rather than reactively. It makes me think that a prophet should not be surprised when general conference is held in an empty auditorium. It sounds even worse when that same prophet says "I had no idea this was going to happen lol"
+We're told that prophets "[see around corners](https://speeches.byuh.edu/devotionals/prophets-can-see-around-corners)" which makes me think that revelation ought to be given proactively, rather than reactively. It makes me think that a prophet *should not be surprised* when general conference is held in an empty auditorium. It sounds even worse when that same prophet says "I had no idea this was going to happen lol"
 
 *Read the rest of the paragraph*. Is there any modicum of an implication that Nelson is saying "this was in response to revelatory foreknowledge of COVID?" He's acknowledging in *explicit terms* that the promise of being memorable and unforgettable is in relation to the bicentennial anniversary of (the official, approved version of) the First Vision. No other year *can* be the 200th anniversary. It will be memorable because we're about to hear our fearless leaders *boldly proclaim* that it totally happened this way.
+
+&nbsp;
+
+👏 *All* 👏 *they had* 👏 *to do* 👏 was lean into COVID and say "see? We told you that this would be one to remember!" And the whole world would have just eaten it up. Any statement even *adjacent to that* would have been enough to make me reconsider my heathen ways. They could have made a quick shift from the scheduled programming (like every organization on the planet had to) and tout how they saw this coming. Hell, not even tout, just *acknowledge* it. Imply it.
+
+What did we get instead? Not nothing&mdash;what we got was worse than nothing. Had they said nothing, they would have plausible deniability. Silence could ostensibly equivocate foreknowledge, letting Nelson's parting words from 2019 speak for themselves. That silence would have been very powerful.
+
+&nbsp;
+
+Simply saying nothing would have been less jarring than to hear God's chosen prophet saying "little did I know." The *one person on the planet* who would have had divine foreknowledge just said he had no idea.
 
 &nbsp;
 
@@ -168,15 +178,15 @@ We're told that prophets "[see around corners](https://speeches.byuh.edu/devotio
 
 &nbsp;
 
-I don't know how else to interpret Nelson's claim that this conference would be unlike any other. It's the 200th anniversary of something that *[[First Vision|definitely happened in 1820]]* don't look into that claim please
+I don't know how else to interpret Nelson's claim that this conference would be unlike any other. It's the 200th anniversary of something that *[[first-vision|definitely happened in 1820]]* don't look into that claim please
 
 Nelson wanted to make another formal *proclamation*, because he won't rest until he can one-up Hinckley at every opportunity. This is what Nelson was excited about, to make it memorable and unforgettable. It's 200 years after the canonized record of the First Vision.
 
 &nbsp;
 
-What a curious choice of words these selected paragraphs have. They didn't seem to mention that Joseph made absolutely no record of this world-changing event [[First Vision#Timeline of Accounts|for ten years]]—incidentally the same year that the LDS Church was [[Name Mormon#Name changes|founded]].
+What a curious choice of words these selected paragraphs have. They didn't seem to mention that Joseph made absolutely no record of this world-changing event [[first-vision#Timeline|for twelve years]]—two years *after* the LDS Church was [[Name Mormon#Name changes|founded]], precluding the notion that it was a [[Restoration]].
 
-They did say in explicit terms that "God the Father and His Son, Jesus Christ, ==appeared== to Joseph[.]" The next sentence expounds on what happened "[i]n this ==vision==[.]" Makes me think that they're trying to equivocate around saying that Elohim and Jehovah both physically were present in Palmyra, New York, seeing how they are described as having "appeared" "in this vision." Not quite as bold and declarative as I'd have expected. I mean, that would imply that the [[Second Coming]] already happened, or else that the Second one [[Second Coming#How many times?|isn't actually the second]] appearance.
+They did say in explicit terms that "God the Father and His Son, Jesus Christ, ==appeared== to Joseph[.]" The next sentence expounds on what happened "[i]n this ==vision==[.]" Makes me think that they're trying to equivocate around saying that Elohim and Jehovah both were physically present in Palmyra, New York, seeing how they are described as having "appeared" "in this vision." Not quite as bold and declarative as I'd have expected. I mean, that would imply that the [[Second Coming]] already happened, or else that the Second one [[Second Coming#How many times?|isn't actually the second]] appearance.
 
 &nbsp;
 
@@ -206,7 +216,7 @@ What's that? He wasn't speaking as a prophet in those contexts? Boy, that'd be a
 &nbsp;
 
 ### Come Follow Me
-Alright, look... We got our church services 33% shorter to emphasize a more home-focused gospel study program. Is that a sign that God is involved in our lives, by preparing us for a pandemic via prophetic guidance?
+Alright, look... We got our church services 33% shorter to emphasize a more home-focused gospel study program. Is *that* a sign that God is involved in our lives, by preparing us for a pandemic via prophetic guidance?
 
 I... *I guess*?
 
@@ -276,9 +286,9 @@ Consider these options, in response to this hypothetical scenario:
 - Announce in 2019 that 2020's general conference session will be entirely online, as to dissuade people from wasting time and money on flights and travel arrangements
 - Call all full-time missionaries home by the end of 2019, and stop sending out new ones
 
-"oh, but President Nelson didn't want to scare everyone" *shut the fuck up* What was scary was society collapsing, having no idea who to trust, hearing about hundreds of thousands of deaths while you're trapped in your home, and hearing a quorum of fifteen prophets of God saying "idk lol" because if there was ever a time for *one human* to authoritatively speak in behalf of God, it would have been *very timely* for him to talk in April 2020 about something other than Joseph Smith's First Vision.
+"oh, but President Nelson didn't want to scare everyone" *shut the fuck up* What was scary was society collapsing, having no idea who to trust, hearing about hundreds of thousands of deaths while you're trapped in your home, and hearing a quorum of fifteen prophets of God saying "idk lol" because if there was *ever* a time for *one human* to authoritatively speak in behalf of God, it would have been *very timely* for him to talk in April 2020 about something else, *anything else* other than Joseph Smith's First Vision.
 
-"Corrupt government officials wouldn't listen anyway" yeah? Is it because the church hasn't had anything meaningful to say outside of "Jesus good, porn bad?" Even if government officials didn't listen at the outset, they could have had a clear record that "those oddballs in Utah had a lot of this figured out months in advance, maybe we should listen to them in the future."
+"Corrupt government officials wouldn't listen anyway" yeah? Is it because the church hasn't had [[No-official-stance|anything meaningful to say]] outside of "Jesus good, porn bad?" Even if government officials didn't listen at the outset, they could have had a clear record that "those oddballs in Utah had a lot of this figured out months in advance, maybe we should listen to them in the future."
 
 &nbsp;
 

@@ -21,7 +21,7 @@ The mainstream LDS church latched onto this claim to bolster the miraculous natu
 
 In contradiction of Emma’s claims, the [Joseph Smith Papers Project](https://www.josephsmithpapers.org/) has released several letters dictated by Joseph around the time of the Book of Mormon translation (1828-1829). They read just fine.
 
-Don't forget that the inciting incident leading up to the [[First Vision]] was reading the KJV Bible. [Joseph's own account of his history](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2?highlight=searching+the+scriptures) uses some phrasing that I would say implies a disciplined literacy:
+Don't forget that the inciting incident leading up to the [[first-vision]] was reading the KJV Bible. [Joseph's own account of his history](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2?highlight=searching+the+scriptures) uses some phrasing that I would say implies a disciplined literacy:
 
 - Parents who spared no pains to instructing me in the [Christian] religion
 - ... we were deprived of the [benefit] of an education suffice it to say I was [merely]  [instructed] in reading writing and the ground rules of [arithmetic] which constituted my whole literary acquirements

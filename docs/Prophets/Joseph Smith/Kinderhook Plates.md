@@ -23,6 +23,8 @@ Joseph didn't translate anything, but could confidently say that it's a history 
 
 ![image](../../img/urkle-hmmm.gif){: .center}
 
+&nbsp;
+
 Which of the following is that process?
 
 1. Seer stone in a hat
@@ -36,15 +38,15 @@ Because it appears that Joseph did... I don't know, maybe [[Translation|all of t
 
 He is on record as having examined them and making claims about what they mean. If we were to expand that ellipsis, the direct quote sure sounds like Joseph did accept these plates as authentic and even claimed that he had translated a portion of them:
 
-> *Monday, May, 1— I insert fac similes of the six brass plates , found near Kinderhook, in Pike Co. Illinois, on April 23 by Mr. Robert Wiley & others while excavating a large mound. ==They found a skeleton== about 6 feet from the surface of the Earth, which must have ==stood 9 feet high==. The plates were found on the breast of the Skeleton, and were covered with ancient characters*
+> *Monday, May, 1— I insert fac similes of the six brass plates , found near Kinderhook, in Pike Co. Illinois, on April 23 by Mr. Robert Wiley & others while excavating a large mound. ==They found a skeleton== about 6 feet from the surface of the Earth, which must have stood 9 feet high. The plates were found on the breast of the Skeleton, and were covered with ancient characters*
 >
 > *==I have translated a portion of them==, and find they contain the history of ==the person with whom they were found==. He was a descendant of Ham, through the loins of Pharoah, King of Egypt, and that ==he received his kingdom from the ruler of Heaven and Earth==.*
 
-—  [History, 1838–1856, volume D-1 [1 August 1842–1 July 1843]](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/185) The Joseph Smith Papers (see also [History of the Church, vol. 5](https://josephsmithfoundation.org/history-of-the-church-of-jesus-christ-of-latter-day-saints-vol-5/) page 372; also [[Sources and Links|UTLM]]'s [notes](http://www.utlm.org/newsletters/no46.htm#KINDERHOOK))
+— [History, 1838–1856, volume D-1 [1 August 1842–1 July 1843]](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/185) The Joseph Smith Papers (see also [History of the Church, vol. 5](https://josephsmithfoundation.org/history-of-the-church-of-jesus-christ-of-latter-day-saints-vol-5/) page 372; also [[Sources and Links|UTLM]]'s [notes](http://www.utlm.org/newsletters/no46.htm#KINDERHOOK))
 
 "I have translated a portion of them" can somehow be interpreted as "Joseph didn't entertain the thought of translating them," Right. Cool. Okay.
 
-What's this? The "person with whom they were found"? We'll just drive right by that? There was a dead body with the plates that were demonstrated to be a fabrication? Did this prank cost someone their life? Or were they desecrated remains of someone who had passed decades prior? What happened to the body, that reportedly stood 9 feet tall? A kingdom from the ruler of heaven? What in the goddamn is an Egyptian royal descendant doing in rural Illinois, with an engraved history of his life? What kingdom?
+What's this? The "person with whom they were found"? We'll just drive right by that? There was a dead body with the plates that were demonstrated to be a fabrication? Did this prank cost someone their life? Or were they desecrated remains of someone who had passed decades prior? A kingdom from the ruler of heaven? What in the goddamn is an Egyptian royal descendant doing in rural Illinois, with an engraved history of his life? What kingdom?
 
 How did the prophet of the restoration fall for this? We have "no translated text" from the ordeal, though, so I guess it's a non-issue. 🙄
 
@@ -82,13 +84,17 @@ Oh. How convenient. Joseph's mention of starting to translate the prank-plates w
 
 Are we thinking of a different "history of Joseph Smith"?
 
-> ***History of the Church** (cited as **HC**) (==originally entitled History of Joseph Smith==; first published under the title* **History of the Church of Jesus Christ of Latter-day Saints**; *nicknamed* **Documentary History of the Church** *or* DHC) *is a semi-official history of the early [Latter Day Saint movement](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement "Latter Day Saint movement") during the lifetime of founder [Joseph Smith](https://en.wikipedia.org/wiki/Joseph_Smith "Joseph Smith").*
+&nbsp;
+
+> ***History of the Church*** (*cited as* ***HC***) *(==originally entitled History of Joseph Smith==; first published under the title* **History of the Church of Jesus Christ of Latter-day Saints**; *nicknamed* **Documentary History of the Church** *or* DHC) *is a semi-official history of the early [Latter Day Saint movement](https://en.wikipedia.org/wiki/Latter_Day_Saint_movement "Latter Day Saint movement") during the lifetime of founder [Joseph Smith](https://en.wikipedia.org/wiki/Joseph_Smith "Joseph Smith").*
 >
 > *. . .*
 >
 > *. . . The parts of the work attributed to Smith were either ==dictated by Smith to a scribe== or consist of a secretary or historian independently outlining Smith's activities and statements for a given time period. Much of the writing occurred after [Smith's death](https://en.wikipedia.org/wiki/Death_of_Joseph_Smith "Death of Joseph Smith") in 1844.*
 
 — [History of the Church (book)](https://en.wikipedia.org/wiki/History_of_the_Church_(book)), Wikipedia
+
+&nbsp;
 
 The article then lists numerous contributors to the document— 20 of them, by my count. William Clayton is, in fact, in that list, as a scribal author. The article also goes on to share this spicy bit of information:
 

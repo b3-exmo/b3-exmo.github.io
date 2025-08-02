@@ -3,7 +3,7 @@ comments: true
 ---
 # 🙅‍♂️ Korihor
 ## Antichrist
-To my modern English sensibilities, "[anti](https://dictionary.cambridge.org/dictionary/english/anti)" seems to mean "in opposition to." Folks who understand other languages better than I do have made a [compelling argument](https://en.wikipedia.org/wiki/Antichrist#Etymology) that the ancient Greek root "Ἀντί" means not only anti in the sense of "against" and "opposite of", but also "in place of". I suppose a simpler compound word for that sentiment would be "false Christ." J-town himself warned specifically against this scenario in [Matthew 24](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=eng&id=p4-p5#p4) and in [Mark 13](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=eng&id=p21-p22#p21). In LDS scriptural canon, we've got a Bible Dictionary definition:
+To my modern English sensibilities, "[anti](https://dictionary.cambridge.org/dictionary/english/anti)" seems to mean "in opposition to." Folks who understand other languages better than I do have made a [compelling argument](https://en.wikipedia.org/wiki/Antichrist#Etymology) that the ancient Greek root "Ἀντί" means not only anti in the sense of "against" and "opposite of", but also "in place of". I suppose a simpler term for this sentiment would be "false Christ." J-town himself warned specifically against this scenario in [Matthew 24](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24?lang=eng&id=p4-p5#p4) and in [Mark 13](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/13?lang=eng&id=p21-p22#p21). In LDS scriptural canon, we've got a Bible Dictionary definition:
 
 > *A word used by John to describe one who would assume the guise of Christ but in reality would be opposed to Christ. In a broader sense it is anyone or anything that counterfeits the true gospel or plan of salvation and that openly or secretly is set up in opposition to Christ. The great antichrist is Lucifer, but he has many assistants both as spirit beings and as mortals.*
 
@@ -25,7 +25,7 @@ I'll present verses of Alma 30, along with some commentary.
 &nbsp;
 
 ### The Buildup
-> ***6** But it came to pass in the latter end of the seventeenth year, there came a man into the land of Zarahemla, and ==he was Anti-Christ==, for he began to preach unto the people against the prophecies which had been spoken by the prophets, concerning the coming of Christ.*
+> ***6*** *But it came to pass in the latter end of the seventeenth year, there came a man into the land of Zarahemla, and ==he was Anti-Christ==, for he began to preach unto the people against the prophecies which had been spoken by the prophets, concerning the coming of Christ.*
 
 What I see immediately, *before we even get this guy's name*, is [poisoning the well](https://en.wikipedia.org/wiki/Poisoning_the_well). We're presenting bias to lead to a determined conclusion without enough information. This verse describes three things (again, before we even see a name):
 
@@ -37,9 +37,9 @@ Remember that, now. I'll be returning to this point [[#The Moral of the Story|la
 
 &nbsp;
 
-> ***7** Now there was ==no law against a man’s belief==; for it was strictly contrary to the commands of God that there should be a law which should bring men on to unequal grounds.* 
+> ***7*** *Now there was ==no law against a man’s belief==; for it was strictly contrary to the commands of God that there should be a law which should bring men on to unequal grounds.* 
 > 
-> ***8** For thus saith the scripture: Choose ye this day, whom ye will serve.*
+> ***8*** *For thus saith the scripture: Choose ye this day, whom ye will serve.*
 
 You can believe whatever you like, as we've already separated church and state. No law saying you have to believe this thing or that... because of [this Bible passage](https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?id=p15&lang=eng#p15). This will also become relevant later.
 
@@ -51,7 +51,7 @@ Verses 10 & 11 are a short tangent describing how laws exist, and breaking laws 
 
 &nbsp;
 
-> ***12** And this Anti-Christ, whose name was Korihor, (==and the law could have no hold upon him==) began to preach unto the people that there should be no Christ. And after this manner did he preach, saying...*
+> ***12*** *And this Anti-Christ, whose name was Korihor, (==and the law could have no hold upon him==) began to preach unto the people that there should be no Christ. And after this manner did he preach, saying...*
 
 In case you forgot from the brief tangent explaining [natural law](https://en.wikipedia.org/wiki/Natural_law), we'll now remind you for a second time that this man is Antichrist. After this second reminder, we finally get his name. Have we made it evident yet that he's bad and evil? Before sharing any direct quotes, topics, or summaries, you need to understand that he is *bad*.
 
@@ -59,11 +59,11 @@ We've also reminded you once again that the law has nothing against Korihor teac
 
 &nbsp;
 
-> ***13** O ye that are bound down under a foolish and a vain hope, why do ye yoke yourselves with such foolish things? Why do ye look for a Christ? For ==no man can know of anything which is to come==.*
+> ***13*** *O ye that are bound down under a foolish and a vain hope, why do ye yoke yourselves with such foolish things? Why do ye look for a Christ? For ==no man can know of anything which is to come==.*
 > 
-> ***14** Behold, these things which ye call prophecies, which ye say are handed down by holy prophets, behold, they are foolish traditions of your fathers.*
+> ***14*** *Behold, these things which ye call prophecies, which ye say are handed down by holy prophets, behold, they are foolish traditions of your fathers.*
 > 
-> ***15** ==How do ye know of their surety==? Behold, ye cannot know of things which ye do not see; therefore ==ye cannot know== that there shall be a Christ.*
+> ***15*** *==How do ye know of their surety==? Behold, ye cannot know of things which ye do not see; therefore ==ye cannot know== that there shall be a Christ.*
 
 Let's take a moment to zoom out&mdash; we're reading Alma chapter 30. Any Mormon who had been paying attention in Seminary could remind you that only two chapters later, Alma the Younger advises us that *faith is not knowledge* ([1](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p21#p21), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p26#p26), [3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p34#p34)).
 
@@ -73,19 +73,19 @@ Assuming that assessment is correct, tell me what Korihor is saying wrong? Is he
 
 &nbsp;
 
-> ***17** And many more such things did he say unto them, telling them that there could be no atonement made for the sins of men, but every man fared in this life according to the management of the creature; therefore every man prospered according to his genius, and that every man conquered according to his strength; and whatsoever a man did was no crime.*
+> ***17*** *And many more such things did he say unto them, telling them that there could be no atonement made for the sins of men, but every man fared in this life according to the management of the creature; therefore every man prospered according to his genius, and that every man conquered according to his strength; and whatsoever a man did was no crime.*
 
 Examining one's worldview from an outside perspective is a good way to evaluate them— at minimum, it can help you practice how to articulate or defend your beliefs. Ideally, it would grant you some empathy for an outsider and their confusion over your dogma.
 
 Think of this theology from the perspective of an outsider like Korihor. "You believe that sins a) exist, b) will cause you to suffer for all eternity after you die, unless c) must be atoned for by someone who isn't born yet. Not one of these things can be demonstrably proven. You don't *know* any of this to be true, it sure sounds like a foolish tradition passed down by your ancestors."
 
-Faring by consequence of self-management & prospering according to ones genius seems reasonable. Those things are more tangible. Life isn't always so simple, but we could forgive an entry-level philosophy student for landing on that conclusion.
+Faring by consequence of self-management & prospering according to ones genius seems reasonable. Those things are more tangible. Life isn't always so simple, but we could forgive an entry-level philosophy student for landing on that conclusion. An atonement isn't needed if sin doesn't exist. If Korihor's audience were to stop framing things as sins, this purported savior wouldn't be necessary, either.
 
 "Whatsoever a man did was no crime" at face value sounds like it's in opposition to the earlier verses [outlining laws and punishments](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p9-p11#p9). Looking a bit deeper might mean that on a grander scale, actions that we mortals take in our day-to-day lives will have no impact on the world, galaxy, universe, not tomorrow nor a thousand years from now. It sounds like nihilistic fatalism.
 
 &nbsp;
 
-> ***18** And thus he did preach unto them, leading away the hearts of many, causing them to lift up their heads in their wickedness, yea, leading away many women, and also men, to commit whoredoms—telling them that when a man was dead, that was the end thereof.*
+> ***18*** *And thus he did preach unto them, leading away the hearts of many, causing them to lift up their heads in their wickedness, yea, leading away many women, and also men, to commit whoredoms—telling them that when a man was dead, that was the end thereof.*
 
 Oh, no, not [whoredoms](https://www.churchofjesuschrist.org/study/scriptures/tg/whore?lang=eng&id=title2#title2)!
 
@@ -98,7 +98,7 @@ I'll share links to the pertinent verses, along with a short paraphrasing; not s
 
 &nbsp;
 
-***[19-20](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p19-p20#p19)***: Korihor goes to Jershon, the home of former Lamanites who made a pact of pacifism. Korihor's preaching is met by tying him up, and taking him to the high priest named Ammon. These people "were more wise than many of the Nephites."
+***[19-20](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p19-p20#p19)***: Korihor goes to Jershon, the home of former Lamanites who made a pact of pacifism. Korihor's preaching is met by being tied up, and taken to the high priest named Ammon. These people "were more wise than many of the Nephites."
 
 "See, the *smart* people tied up Korihor and took him to the high priest. That was the wise thing to do about a guy who isn't breaking [any laws](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7)  concerning beliefs. They're smarter than the Nephites in Zerahemla."
 
@@ -116,17 +116,17 @@ Remember when we established that "the law could have [no hold](https://www.chur
 
 Korihor continues in the next few verses, quoted here:
 
-> ***24** Ye say that this people is a free people. Behold, I say they are in bondage. Ye say that those ancient prophecies are true. Behold, I say that ==ye do not know that they are true==.*
+> ***24*** *Ye say that this people is a free people. Behold, I say they are in bondage. Ye say that those ancient prophecies are true. Behold, I say that ==ye do not know that they are true==.*
 > 
-> ***25** Ye say that this people is a guilty and a fallen people, because of the transgression of a parent. Behold, ==I say that a child is not guilty because of its parents==.*
+> ***25*** *Ye say that this people is a guilty and a fallen people, because of the transgression of a parent. Behold, ==I say that a child is not guilty because of its parents==.*
 > 
-> ***26** And ye also say that Christ shall come. But behold, I say that ==ye do not know that there shall be a Christ==. And ye say also that he shall be slain for the sins of the world[.]*
+> ***26*** *And ye also say that Christ shall come. But behold, I say that ==ye do not know that there shall be a Christ==. And ye say also that he shall be slain for the sins of the world[.]*
 
 Text doesn't communicate tone very well. You could read this as a sniveling, sneering villain, accusing God's infallible ideology of being nonsensical, or you could read this as an explanation. Imagine Giddonah asking "Why are you here? What did you do to upset people?" "I'm here because I don't believe the things you do, and I think your following is conflating belief with knowledge." 
 
 Korihor is not even rejecting or denying the existing cultural teachings. Re-read verse 24— he isn't saying "your prophecies are false," he's saying "you do not *know* that they are true."
 
-When Korihor makes his case, count how many times "because" appears in his explanation— for it is exactly that, an explanation. Korihor's words are inflammatory, yes, but I should hope that the chief judge and high priest Giddonah could see it objectively and not take personal offense. "Your people tied me up and brought me to you for judgment when I've not broken any laws. Here's what I told them." He's probably a bit grumpy about it. I would be.
+When Korihor makes his case, count how many times "because" appears in his explanation— for it is exactly that, an explanation. Korihor's words are inflammatory, yes, but I should hope that the chief judge and high priest Giddonah could see it objectively and not take personal offense. "Your people tied me up and brought me to you for judgment when I've not broken any laws. Here's what I told them." He's probably feeling a bit grumpy about it. I would be.
 
 Let's not stray too far from verse 25 before emphasizing the central point inside. Korihor is saying that people shouldn't be punished for their parents' transgressions. Where have I heard that idea before? That's one of the [articles of faith](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p2#p2), written by our founding prophet Joseph Smith. Is Korihor wrong to point out accountability as taught by God's true church?
 
@@ -136,17 +136,17 @@ Let's not stray too far from verse 25 before emphasizing the central point insid
 
 &nbsp;
 
-> ***29** Now when the high priest and the chief judge saw the hardness of his heart, yea, when they saw that he would revile even against God, ==they would not make any reply to his words; but they caused that he should be bound==; and they delivered him up into the hands of the officers, and sent him to the land of Zarahemla, that he might be brought before Alma, and the chief judge who was governor over all the land.*
+> ***29*** *Now when the high priest and the chief judge saw the hardness of his heart, yea, when they saw that he would revile even against God, ==they would not make any reply to his words; but they caused that he should be bound==; and they delivered him up into the hands of the officers, and sent him to the land of Zarahemla, that he might be brought before Alma, and the chief judge who was governor over all the land.*
 
 Well what the fuck.
 
-Silent treatment, getting bound up *again* and escalated to the governor over all the land. By the way, there is  [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man's belief.
+Silent treatment, getting bound up *again* and escalated to the governor over all the land. By the way, there is [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man's belief.
 
 &nbsp;
 
-> ***30** And it came to pass that when he was brought before Alma and the chief judge, he did go on in the same manner as he did in the land of Gideon; yea, ==he went on to blaspheme==.*
+> ***30*** *And it came to pass that when he was brought before Alma and the chief judge, he did go on in the same manner as he did in the land of Gideon; yea, ==he went on to blaspheme==.*
 > 
-> ***31** And he did rise up in ==great swelling words before Alma==, and did revile against the priests and teachers, accusing them of leading away the people after the silly traditions of their fathers, for the sake of glutting on the labors of the people.*
+> ***31*** *And he did rise up in ==great swelling words before Alma==, and did revile against the priests and teachers, accusing them of leading away the people after the silly traditions of their fathers, for the sake of glutting on the labors of the people.*
 
 Yeah I bet Korihor is getting quite impatient. He's observing that this group of people has conflated belief with knowledge, and has been met with getting arrested and forcibly brought before law enforcement for the third time now.
 
@@ -183,7 +183,7 @@ Acknowledging again that this book is an abridgment, I'm going to paraphrase the
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p39-p42#p39)**: You're denying God exists? I *know* God exists, and that Christ will come. What evidence do you have that there is no God? [[logical-fallacies#Burden of Proof|You've got nothing but your words]]! I, on the other hand, have *everything* as a testimony that God exists, and I think you *do* believe, but [[logical-fallacies#Ad Hominem|you're just lying]] about it. [[Falsifiability#Teapot|You can't prove there is no God]]. Checkmate, nerd!
 
-**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p43#p43)**: That's my point— you don't *know*, you believe it. You just told me that I *believe*, in contrast to your *knowing*. Tell you what— you show me a sign, some demonstration of God's power, and then I'll believe your words. 
+**[K](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p43#p43)**: That's my point—you don't *know*, you believe it. You just told me that I *believe*, in contrast to your *knowing*. Tell you what: you show me a sign, some demonstration of God's power, and then I'll believe your words. 
 
 **[A](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p44-p45#p44)**: How about this: You have the words of your peers, and also words of prophets in a religion you aren't part of. They've *even written things down* in scripture. And get this— ✨𝓹𝓵𝓪𝓷𝓮𝓽𝓼✨. Just look around you at things generally, you know, it all clearly shows God is real. Yet here you are, saying that isn't solid proof?
 
@@ -240,7 +240,7 @@ In today's LDS church, we have [modern revelation](https://www.churchofjesuschri
 
 — *[D&C 129:4-8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/129?lang=eng&id=p4-p8#p4)*
 
-But for whatever reason, Korihor did not extend his hand to the angel. Because he's not part of the church? Though he did recognize the angel for being a representative of a divine ruler. When Alma presented scriptures as a convincing testimony of God to Korihor, was this the first Korihor had encountered scriptures? If so, Korihor was completely blindsided by this angel, not being aware of God, nor that an angel could be a disguised devil, making Korihor all the more deserving of forgiveness. Could Korihor's experience be compared, even tangentially, to Joseph's [[First Vision]]? He had heavenly messengers appear. That doesn't happen to anyone, and would explain his conviction.
+But for whatever reason, Korihor did not extend his hand to the angel. Because he's not part of the church? Though he did recognize the angel for being a representative of a divine ruler. When Alma presented scriptures as a convincing testimony of God to Korihor, was this the first Korihor had encountered scriptures? If so, Korihor was completely blindsided by this angel, not being aware of God, nor that an angel could be a disguised devil, making Korihor all the more deserving of forgiveness. Could Korihor's experience be compared, even tangentially, to Joseph's [[first-vision|First Vision]]? He had heavenly messengers appear. That doesn't happen to anyone, and would explain his conviction.
 
 He must have been aware of scriptures. If Korihor saw an angel purporting to represent God, that wouldn't mean much if Korihor wasn't aware of God— not to mention Korihor later stating that "I always knew."
 
