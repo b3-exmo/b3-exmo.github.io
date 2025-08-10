@@ -60,10 +60,10 @@ plugins:
   - search
   - roamlinks
   - open-in-new-tab
-  - document-dates:
-      position: top
-      date_format: '%Y-%m-%d'  # Date format strings, e.g., %Y-%m-%d, %b %d, %Y, etc
-      show_author: false 
+  # - document-dates:
+  #     position: top
+  #     date_format: '%Y-%m-%d'
+  #     show_author: false 
   - timetoread:
       wpm: 225
 
