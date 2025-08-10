@@ -80,7 +80,7 @@ If one were to studiously read through the BoM multiple times in a year, as is a
 
 One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father— the whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god— we're growing up, we're godlings, we're little wimpy baby gods. Right?
 
-But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and He made us that way. [[Theology#The plan|Why does God hate His creations]]? By our very nature, by God's design, we His enemies. We're not God's enemies because of anything *we did*. What the hell, God?
+But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and He made us that way. [[Theology#God's Plan|Why does God hate His creations]]? By our very nature, by God's design, we His enemies. We're not God's enemies because of anything *we did*. What the hell, God?
 
 &nbsp;
 

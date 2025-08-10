@@ -155,7 +155,7 @@ Is there a difference between *signs* of the second coming, and *prophecies* of 
 
 &nbsp;
 
-If [these signs](https://www.churchofjesuschrist.org/study/general-conference/2004/04/preparation-for-the-second-coming?lang=eng&id=p8-p18#p8) are critical to God's purposes, God's grand scheme and plan, would it be too bold of me to say that He did kind of a shit job of selecting what signs for us to watch for? "You'll know Jesus is coming soon when things are *exactly as they have been* for centuries."
+If [these signs](https://www.churchofjesuschrist.org/study/general-conference/2004/04/preparation-for-the-second-coming?lang=eng&id=p8-p18#p8) are critical to God's purposes, God's grand scheme and plan, would it be too bold of me to say that He did kind of a shit job of selecting what signs for us to watch for? It's as if He's saying "you'll know Jesus is coming soon when things are *exactly as they have been* for centuries."
 
 Being "certain that these calamities will become more severe before the Lord comes" sounds like it could be interpreted as a reinforcement that climate change isn't real, but Jesus' promise of "any minute now" is a more reliable explanation. "There will be wars. People will be *mean to each other.* All things shall be in commotion." I'm not being snarky, this is not rhetorical: what am I supposed to do with this information? When have these things *not* been true? Buy that huge SUV, subsist on beef— you deserve it because Jesus is coming to fix the world, absolving us of any and all responsibility for His creations.
 
@@ -164,7 +164,7 @@ Being "certain that these calamities will become more severe before the Lord com
 I don't want to be needlessly cynical and snarky, but I'll make up some nonsensical examples that, to me, fit this same energy:
 
 - "People will ingest food, and lo, they shall also defecate, even in the same day." — prophecy fulfilled hourly by Taco Bell
-- "And the sun, yea even the very light of our heavens, will rise up from the east, and it shall thence set in the west. Even so, amen." Framing it in 16th century English makes it sound profound, so it must be special *this time* around.
+- "And the sun, yea even the very light of our heavens, will rise up from the east, and it shall thence set in the west. Even so, amen." Framing it in 16th century English makes it seem profound, so it must be special *this time*!
 - "One land shall experience both a drought and abundance, a dearth and a flood, even amid the same hour." California shares borders with both Oregon and Arizona. It has rainy forests and deserts, and both climates exist "in the same land."
 
 &nbsp;
@@ -176,13 +176,13 @@ I mean, Jesus did (reportedly) [appear physically on Earth](https://www.churchof
 
 > *==The Savior will make several appearances before His Second Coming== to all the world.*
 > 
-> *1. Christ will appear at Adam-ondi-Ahman (see [Daniel 7:9–10, 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/7.9-10,13-14?lang=eng#p9); [D&C 116](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/116?lang=eng)).*
+> *==1==. Christ will appear at Adam-ondi-Ahman (see [Daniel 7:9–10, 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/7.9-10,13-14?lang=eng#p9); [D&C 116](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/116?lang=eng)).*
 > 
-> *2. The Savior will appear to those in the New Jerusalem in America (see [3 Nephi 21:23–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21.23-25?lang=eng#p23); [D&C 45:66–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.66-67?lang=eng#p66)).*
+> *==2==. The Savior will appear to those in the New Jerusalem in America (see [3 Nephi 21:23–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21.23-25?lang=eng#p23); [D&C 45:66–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.66-67?lang=eng#p66)).*
 > 
-> *3. The Savior will appear to the Jews in Jerusalem (see [D&C 45:48, 51–53](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.48,51-53?lang=eng#p48); [Zechariah 12:10](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/12.10?lang=eng#p10); [14:2–5](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/14.2-5?lang=eng#p2)).*
+> *==3==. The Savior will appear to the Jews in Jerusalem (see [D&C 45:48, 51–53](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.48,51-53?lang=eng#p48); [Zechariah 12:10](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/12.10?lang=eng#p10); [14:2–5](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/14.2-5?lang=eng#p2)).*
 > 
-> *4. The Lord will appear in glory to all mankind (see [D&C 45:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.44?lang=eng#p44); [101:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101.23?lang=eng#p23); [Matthew 24:30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.30?lang=eng#p30); [Isaiah 40:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40.5?lang=eng#p5); [JST, Revelation 1:7](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-rev/1.7?lang=eng#p7)).*
+> *==4==. The Lord will appear in glory to all mankind (see [D&C 45:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.44?lang=eng#p44); [101:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101.23?lang=eng#p23); [Matthew 24:30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.30?lang=eng#p30); [Isaiah 40:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40.5?lang=eng#p5); [JST, Revelation 1:7](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-rev/1.7?lang=eng#p7)).*
 
 — *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p4-p8#p4)*, Doctrines of the Gospel Student Manual
 
@@ -215,7 +215,7 @@ I also recall hearing a fellow named Paul describing that "[the day of the Lord]
 
 — [Lesson 46: 1 Thessalonians and 2 Thessalonians](https://www.churchofjesuschrist.org/study/manual/new-testament-teacher-manual/the-epistles-of-paul-the-apostle-to-the-thessalonians/lesson-46-1-thessalonians-and-2-thessalonians?lang=eng&id=figure2_p5#figure2_p5), New Testament Teacher Manual
 
-Oh. It'll only be "as a thief in the night" to those in spiritual darkness, then? Thanks, that clears things right up. What the hell is spiritual darkness? I've seen *light* symbolized as illumination, clarity and knowledge, and while my [searches](https://www.churchofjesuschrist.org/search?lang=eng&query=%22spiritual+darkness%22) didn't land on what I'd call a definition, I guess it's synonymous with apostasy. ([1.1](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-21?lang=eng&id=p18#p18), [1.2](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-21?lang=eng&id=p28#p28), [2](https://www.churchofjesuschrist.org/study/scriptures/gs/darkness-spiritual?lang=eng))
+Oh. It'll only be "as a thief in the night" to those in spiritual darkness, then? Thanks, that clears things right up. What the hell is spiritual darkness? I've seen *light* symbolized as illumination, clarity and knowledge, and while my [searches](https://www.churchofjesuschrist.org/search?lang=eng&query=%22spiritual+darkness%22) didn't land on what I'd call a definition, I guess it's synonymous with apostasy. ([1.1](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-21?lang=eng&id=p18#p18), [1.2](https://www.churchofjesuschrist.org/study/manual/teachings-spencer-w-kimball/chapter-21?lang=eng&id=p28#p28), [2](https://www.churchofjesuschrist.org/study/scriptures/gs/darkness-spiritual?lang=eng)) Still, Smith said in no uncertain terms that "all people will know it." 🤷
 
 &nbsp;
 
@@ -258,7 +258,7 @@ Now, let's celebrate the birth of the Prince of Peace!
 &nbsp;
 
 #### 3 Nephi
-Even though having Jesus die on the cross was part of [[Theology#The plan|God's Plan]]™ all along, He still got real pissed that it happened.
+Even though having Jesus die on the cross was part of [[Theology#God's Plan|God's Plan]]™ all along, He still got real pissed that it happened.
 
 To signify that Jesus had been born and was crucified, shit was *going down* in America.
 
@@ -268,7 +268,7 @@ To signify that Jesus had been born and was crucified, shit was *going down* in 
 - An [omnipresent voice announces each destroyed city](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p1-p12#p1), rationalizing that "they were wicked."
 - This same voice says, in so many words, "[do I have your attention now?](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p13-p15#p13) You gonna shape up and repent? I'm Jesus Christ, by the way. *I killed everyone you've ever known or loved.* Now, who wants some 𝓮𝓽𝓮𝓻𝓷𝓪𝓵 𝓵𝓲𝓯𝓮? 😄"
 
-Yeah, man. You've got my attention. Don't think for a minute that I'm going to forget what you did, or that I'm doing what you say for [[Theology#Worthy of Respect|any purpose other than self-preservation]].
+Yeah, man. You've got my attention. Don't think for a minute that I'm going to forget what you did, or that I'm doing what you say for [[Theology#God's Respectability|any purpose other than self-preservation]].
 
 &nbsp;
 

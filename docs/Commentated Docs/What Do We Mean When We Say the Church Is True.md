@@ -9,7 +9,7 @@ An article from June 2024 edition of the Liahona by Elder J. Devn Cornish, *Eme
 
 The first section seems pretty standard, using New Testament passages amid warming up to "testifying of truth is important! you should do it." But, oh boy, ==the first heading== after that reads, at the time of writing, "What If Church Leaders Aren’t Perfect?"
 
-... [[True#Paul Grice's Maxim of Quantity|Who said anything about]] church leaders not being perfect? Moreover, how is their perfection related to the church being true?
+... [[True#Paul Grice's Maxim of Quantity|Who said anything about]] church leaders not being perfect? How is their perfection (or lack thereof) related to the church being true?
 
 We shifted from Christ having established a church (maybe) and the next heading, "Why are you accusing me of not being perfect? It's fine, I never said that I was! Why are you being so hostile to church leaders?" ... what? Is that related to the thesis statement? Perfect leadership wasn't part of the conversation on doctrine or truthfulness until Elder Cornish brought it up in a remarkably defensive way. We're like four paragraphs in, and we've escalated to defending imperfections.
 
@@ -31,7 +31,7 @@ That's a nice [[logical-fallacies#Strawman Fallacy|strawman]] you've got there.
 
 You mean like the time when God "guided" Joseph Smith, prophet of the restoration, by [[Doctrines/Polygamy/Polygamy#Angel with a Sword vs Joseph Smith|sending an angel with a flaming sword to destroy him if he doesn't cheat on his wife]]? *Are you led by God or not*? Because if you have a convenient explanation for why something you did *was not* inspired of God each time it's found to be disagreeable, I might question how divinely inspired your organization is.
 
-Quick side note: Dallin H Oaks is on record conflating [[Doctrine#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will.
+A fellow named L. Tom Perry did make a pretty definitive statement that "[a Bishop Must Be Blameless](https://www.churchofjesuschrist.org/study/general-conference/1982/10/for-a-bishop-must-be-blameless?lang=eng)" in 1982. No, "blameless" and "perfect" are not synonymous, but I'd wager there's lots of overlap in those adjectives. Dallin H Oaks is on record conflating [[Doctrine#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will. 
 
 &nbsp;
 
@@ -101,7 +101,7 @@ Yes, I recall hearing this criticism of other varieties of Christianity when I w
 
 "As opposed to those silly guys playing church, we actually have clearly delineated steps. Don't ask what they are, please."
 
-We're better than Catholics with their definitive [canon](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html), [catechism](https://www.vatican.va/archive/ENG0015/_INDEX.HTM), [Rite of Christian Initiation for Adults](https://hcpsb.org/how-to-become-catholic/) and its [catechumenate](https://www.britannica.com/topic/catechumen) stage of progression, [ritualistic rosary prayers](https://www.vatican.va/special/rosary/documents/misteri_en.html) that all purports to say what they believe. We promise you will *receive ordinances*. And tell you to keep *the associated covenants*. Makes you feel morally obligated to do volunteer work for the LDS church and [[Privilege#Tithing|pay for the privilege]] of doing so, doesn't it?
+We're better than Catholics with their definitive [canon](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html), [catechism](https://www.vatican.va/archive/ENG0015/_INDEX.HTM), [Rite of Christian Initiation for Adults](https://hcpsb.org/how-to-become-catholic/) and its [catechumenate](https://www.britannica.com/topic/catechumen) stage of progression, [ritualistic rosary prayers](https://www.vatican.va/special/rosary/documents/misteri_en.html) that all purports to say what they believe. We promise that you will *receive ordinances*. And tell you to keep *the associated covenants*. Makes you feel morally obligated to do volunteer work for the LDS church and [[Privilege#Tithing|pay for the privilege]] of doing so, doesn't it?
 
 &nbsp;
 
