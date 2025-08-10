@@ -2,11 +2,7 @@
 comments: true
 ---
 # 🧭 Course Correction
-this is gonna make sense by the end, just give me a minute
-
-![[let-him-cook.gif]]{: .center .size40}
-
-Part of [[Theology#The plan|God's divine plan]] is for us, His [[Gods Conditional Love|conditionally]] beloved children, is to have an authorized spokesman to tell us the will of God the father. Once in a while, that [[14 Fundamentals#12. The prophet will not necessarily be popular with the world or the worldly.|priesthood authority is absent]] from mortality, requiring some divine intervention. Common folk still listen to religious leaders who *claim* God's authority, even if that authority is absent. So God intervenes by calling another prophet, authorizing him to lead, guide, and tell us the will of God the father.
+Part of [[Theology#God's Plan|God's divine plan]] is for us, His [[Gods Conditional Love|conditionally]] beloved children, is to have an authorized spokesman to tell us the will of God the father. Once in a while, that [[14 Fundamentals#12. The prophet will not necessarily be popular with the world or the worldly.|priesthood authority is absent]] from mortality, requiring some divine intervention. Common folk still listen to religious leaders who *claim* God's authority, even if that authority is absent. So God intervenes by calling another prophet, authorizing him to lead, guide, and tell us the will of God the father.
 
 This course correction happens from the outside.
 

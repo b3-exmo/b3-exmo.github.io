@@ -215,7 +215,7 @@ Follow the footnote on that "hostile writer" and we're led to Fawn Brodie's book
 > 
 > *Actually, the differences between the accounts may be grossly overemphasized, for the truth is that there is wide and general agreement in detail among all of them. Another impressive fact is that the 1831-32 version, which was the first to be recorded, is actually the most comprehensive of all.*
 
-Are we talking about the same document? The [[first-vision#1832|1832 account]] that I read was the shortest, sparsest, and least consistent across all others that I encountered. If, according to this article by Dr. Allen, the 1832 account "is actually the most comprehensive of all," *why are we not using it*?
+Are we talking about the same document? The 1832 account that I read was the shortest, sparsest, and least consistent across all others that I encountered. If, according to this article by Dr. Allen, the 1832 account "is actually the most comprehensive of all," *why are we not using it*?
 
 &nbsp;
 

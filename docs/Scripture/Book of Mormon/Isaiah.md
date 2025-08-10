@@ -2,6 +2,8 @@
 comments: true
 ---
 # 🤷 Isaiah
+Note: This page doesn't have enough content; it'll likely change next time you drop by. Check again later!
+
 ## Isaiah chapters
 A lot of what Joseph Smith wrote into the BoM were nearly word-for-word chapters from KJV Isaiah.
 
@@ -22,3 +24,5 @@ Completely ignores conflict of logic in Isaiah, focusing on prescient insights f
 Apologetic: [https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah](https://www.fairlatterdaysaints.org/answers/Book_of_Mormon/Anachronisms/Biblical/Deutero-Isaiah)
 
 Ensign article: [https://www.churchofjesuschrist.org/study/ensign/1984/10/i-have-a-question/how-do-we-explain-material-from-isaiah-in-the-book-of-mormon?lang=eng](https://www.churchofjesuschrist.org/study/ensign/1984/10/i-have-a-question/how-do-we-explain-material-from-isaiah-in-the-book-of-mormon?lang=eng)
+
+https://www.ldsdiscussions.com/deuteroisaiah

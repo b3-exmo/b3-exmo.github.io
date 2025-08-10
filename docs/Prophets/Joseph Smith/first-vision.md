@@ -248,7 +248,7 @@ Sounds funny, but I don't see it as a problem.
 
 Joseph can point to specific dates for *other* milestone events ([Aaronic priesthood restoration](https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-teacher-manual/lesson-5-the-restoration-of-the-priesthood?lang=eng&id=p1#p1), [church founding](https://www.josephsmithpapers.org/paper-summary/revelation-6-april-1830-dc-21/1), [Kirtland temple dedication](https://history.churchofjesuschrist.org/content/library/kirtland-temple-dedicatory-prayer-1836?lang=eng), [Nauvoo Expositor being destroyed](https://www.josephsmithpapers.org/paper-summary/mayors-order-to-nauvoo-city-marshal-10-june-1844/2), [re-sealing dates for extramarital wives](https://www.josephsmithpapers.org/event/js-sealed-again-to-emily-and-eliza-partridge), [sections in the Doctrine & Covenants](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/chron-order?lang=eng)) but, wouldn't you know it, the one event that would render all others worthless if it lost credibility? No idea when it happened. Spring sometime, he was like 14 or something, who knows.
 
-I can tell you the specific dates of some key events in my life, many of which revolve around the LDS church: my baptism date, the day I went to get temple endowments, the day I went to the *Missionary Training Center* in Provo, the day I got married in the Salt Lake City temple, and the day I started my career job after graduating university. Each of those dates are important to me. None of those events are as consequential as God appearing to tell me that every variety of Christianity is wrong, and how much that pisses Him off (see the [[#1832|1832 account]].)
+I can tell you the specific dates of some key events in my life, many of which revolve around the LDS church: my baptism date, the day I went to get temple endowments, the day I went to the *Missionary Training Center* in Provo, the day I got married in the Salt Lake City temple, and the day I started my career job after graduating university. Each of those dates are important to me. None of those events are as consequential as God appearing to tell me that every variety of Christianity is wrong, and how much that pisses Him off (as shown in the 1832 account.)
 
 &nbsp;
 
@@ -271,7 +271,7 @@ In 1842, Joseph "began to call upon the Lord" and "saw two glorious personages w
 
 &nbsp;
 
-His many were there?
+How many were there?
 
 If *you*, reader, if *you* saw God the Father and Jesus Christ both physically present in front of you, do you think that you would think back on the event and mistake them for:
 
@@ -340,12 +340,12 @@ If we set aside the discrepancy in *when* this event happened, *why* it happened
 
 Whether personally or through some intermediary, God answers Joseph's question. Some permutation of the following interactions happened, then:
 
-|               | Query                                                          | Reply                                                                |
-| ------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **[[#1832]]** | I'm bummed out about sins. Show me some mercy?                 | 👌 sure thing, your sins are forgiven. bye                           |
-| **[[#1835]]** | I want to make sure I join the right church. Which is right?   | Your sins are forgiven. Jesus is the son of God, btw                 |
-| **[[#1838]]** | Not sure if *any* of the churches are right? What should I do? | Don't join one. Also don't write down anything else that I tell you. |
-| **[[#1842]]** | Religion seems important, but is confusing. What should I do?  | Don't join one. I'll tell you later what to do.                      |
+| Year     | Query                                                          | Reply                                                                |
+| -------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **1832** | I'm bummed out about sins. Show me some mercy?                 | 👌 sure thing, your sins are forgiven. bye                           |
+| **1835** | I want to make sure I join the right church. Which is right?   | Your sins are forgiven. Jesus is the son of God, btw                 |
+| **1838** | Not sure if *any* of the churches are right? What should I do? | Don't join one. Also don't write down anything else that I tell you. |
+| **1842** | Religion seems important, but is confusing. What should I do?  | Don't join one. I'll tell you later what to do.                      |
 
 I'll be real, I don't know which of those responses I find more dissatisfying. Why would God answer Joseph's specific question of "which church is right" with "I'll tell you later"? That's heavily paraphrased, of course, but God and Joseph are literally in physical proximity, face to face&mdash;one of them is eternal and omniscient, and the other is asking for advice. If God answered your question that way, how would you react? "Well, golly gee, if only I had someone all-knowing with infinite wisdom physically manifest Himself before me, an event with remarkably few recorded instances throughout all of Earth's existence, who was capable of providing an answer for which church to join. Oh wait, I have literally the creator of all of fathomable reality right in front of me." What the hell, God?
 
