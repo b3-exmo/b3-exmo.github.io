@@ -192,7 +192,7 @@ Not only is this describing that the revelation is reactive to what mortal, impe
 
 I'm not sure what to make of the description that this revelation was given "in response to a problem." I think I can safely conclude that it means God didn't reveal this information because He loves us, or is looking out for our best interests. It also certainly appears that God didn't take initiative and tell Joseph "hey, buddy boy—listen up, I've got something important to tell you, and you've got to spread the word. This is going to impact peoples' salvation, so they need to know before their mortal bodies pass away. Ready? 𝔦 𝔣𝔲𝔠𝔨𝔢𝔫 𝔥𝔞𝔱𝔢 𝔠𝔬𝔣𝔣𝔢𝔢. it *sucks*. If *anyone* shows up with coffee-breath, they go straight to the Telestial Kingdom, no questions asked. You, in the role of prophet, must now tell the world."
 
-Instead, it seems that God does not feels like something is important until it becomes a [[Russel-M-Nelson#UNLEASHED|personal]] or domestic matter of concern for the acting president of the church.
+Instead, it seems that God does not feels like something is important until it becomes a [[Russell-M-Nelson#UNLEASHED|personal]] or domestic matter of concern for the acting president of the church.
 
 &nbsp;
 
@@ -228,7 +228,7 @@ You can follow that link and see the [preceding address](https://catalog.churcho
 
 — [D&C 89:18-21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p18-p21#p18)
 
-19th century revelations pertaining to health sure seemed a lot more bold than "[[Russel-M-Nelson#Vitamins|take your vitamins]]!" Who said anything about a destroying angel? Where do we draw the line— if I eat a ribeye steak more than twice a month, I'm going to have a destroying angel slay me? Why was the destroying angel involved in the first place? If I order a matcha latte from Starbucks, I'll get murdered? Who else but God would command, influence, or direct this destroying angel? What the hell, God?
+19th century revelations pertaining to health sure seemed a lot more bold than "[[Nelson-vs-Covid#Vitamins]]!" Who said anything about a destroying angel? Where do we draw the line— if I eat a ribeye steak more than twice a month, I'm going to have a destroying angel slay me? Why was the destroying angel involved in the first place? If I order a matcha latte from Starbucks, I'll get murdered? Who else but God would command, influence, or direct this destroying angel? What the hell, God?
 
 This *Word of Wisdom*, presented as "here's some friendly advice for a fulfilling life" takes a really sharp turn at the end: "do what I say and I won't kill you~ 🥰"
 
@@ -286,7 +286,7 @@ How does this pan out in practice today?
 
 &nbsp;
 
-This ~~advice~~ commandment is a metric for temple-worthiness. If the Lord's Law of Health was really about health, we wouldn't see any obese temple participants. I recognize that numerous factors affect one's BMI—I'm not trying to criticize these individuals nor their life choices, but I am observing that the purported "law of health" doesn't seem to be contributing to temple patrons' health. I would expect to see a statistically significant disparity between rates of, say, Type 2 Diabetes among practicing Mormons and the rest of the world. I should also expect to *not* see 4XL temple clothing available for purchase. However, the dirty apostate heathens who both drink coffee and run marathons are forbidden from the temple because they don't follow the Lord's Law of Health (which isn't a commandment.)
+This ~~advice~~ commandment is a metric for temple-worthiness. If the Lord's Law of Health was really about health, we wouldn't see any obese temple participants. I recognize that numerous factors affect one's BMI—I'm not trying to criticize these individuals nor their life choices, but I am observing that the purported "law of health" doesn't seem to be contributing to temple patrons' health. I would expect to see a statistically significant disparity between rates of, say, Type 2 Diabetes among practicing Mormons and the rest of the world. I should also expect to *not* see 4XL temple clothing available for purchase. However, the dirty apostate heathens who both drink coffee *and* run marathons are forbidden from the temple because they don't follow the Lord's Law of Health (which isn't a commandment.)
 
 &nbsp;
 

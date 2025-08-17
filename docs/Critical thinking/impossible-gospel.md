@@ -4,7 +4,7 @@ comments: true
 # 😳 Impossible Gospel
 This presentation of ideas isn't wholly original, but I have yet to find where it actually came from. I first encountered it [presented by a fellow named Keith Walker](https://youtu.be/NzdIgOO4Pp8) on YouTube. I'm going to try to relate the idea here by text.
 
-The gospel as presented in LDS scripture is not what mainstream Christianity teaches. The Mormon version is pretty much hopeless&mdash;impossible even. Much like how the LDS church teaches that [[Gods Conditional Love|God's love is conditional]], I will attempt to demonstrate that Jesus Christ's Atonement is *also* conditional.
+The gospel as presented in LDS scripture is not what mainstream Christianity teaches. The Mormon version is pretty much hopeless&mdash;impossible even. Much like how the LDS church teaches that [[Gods Conditional Love|God's love is conditional]], I will attempt to demonstrate that Jesus Christ's Atonement is *also* conditional as presented in the [[Book of Mormon]].
 
 &nbsp;
 
@@ -16,7 +16,7 @@ The gospel as presented in LDS scripture is not what mainstream Christianity tea
 
 What, exactly, is "[[After all we can do|all we can do]]"?
 
-Have you done ***all*** you can do for salvation? Is there one overlooked thing you could have done, but haven't? At what point have you done enough to be sure that you're saved?
+Have you done ***all*** you can do for salvation? Is there one overlooked thing you could have done, but haven't? At what point have you done enough to be sure that you're saved? If you cannot identify where the threshold is for "saved," then... consider if that threshold exists.
 
 If you can recollect something you have not done, you are not going to be saved by grace. So... if you can identify one thing that you could have done better, you will not be saved by grace, so... You're kind of fucked.
 
@@ -38,7 +38,7 @@ Then, ***and only then***, is His grace sufficient for you.
 
 Have you denied yourself of _all_ ungodliness? If you have not, doesn’t this verse prove that you have yet to qualify for the grace that will cleanse you of your sins? Christ's grace, His atonement will only kick in for you after you've done those four things. Right?
 
-Those four things all constitute a pretty tall order. 
+Those four things all constitute a pretty tall order.
 
 The verse we read in 2 Nephi describes the needed qualifications as "after all we can do." For this book as a whole to be internally consistent, we might do some mental geometry and deduce that these four things are included in "all that we can do?" That's not rhetorical&mdash;what else is there that would need to be done?
 
@@ -170,8 +170,17 @@ The Book of Mormon teaches that you can't rely on Jesus' atonement to overcome s
 
 &nbsp;
 
-I'll acknowledge that I'm "preaching" with air quotes from a book that I don't believe in, but that's part of why I feel it's important. People *believe this*&mdash;perhaps presented in a less harsh manner, but much of Christianity accepts that Jesus' atonement is sufficient for you, for me, for anyone's sins. In comes Mormonism, wagging their finger to assert "nu-uh! Jesus appeared [[first-vision|in 1820 or maybe 1832]], and said you have to earn it&mdash;you gotta *qualify* for forgiveness!"
+I'll acknowledge that I'm "preaching" with air quotes from a book that I don't believe in, but that's part of why I feel it's important. People *believe this*&mdash;perhaps presented in a less harsh manner, but much of Christianity accepts that Jesus' atonement is sufficient for you, for me, for anyone's sins. In comes Mormonism, wagging their finger to assert "nu-uh! Jesus appeared [[First Vision#1832|in 1820 or maybe 1832]], and said you have to earn it&mdash;you gotta *qualify* for forgiveness!"
 
 And then they complain when mainstream Christianity tries to distance itself from the weird Utah people.
 
 ![[thonk.png]]{: .center .size40}
+
+&nbsp;
+
+## Reading Material
+Now that we've established that you need to [work out your own salvation with fear and trembling](https://www.churchofjesuschrist.org/study/scriptures/nt/philip/2?lang=eng&id=p12#p12), we can identify some exceptions to this rule:
+
+In some accounts of Joseph Smith's [[First Vision#Accounts|first vision]], the pretense of his prayer was having sins forgiven... and he gets forgiven after just asking.
+
+In the [[Book of Mormon]] we can find [[After all we can do|numerous examples]] of people being saved after simply praying and asking for forgiveness. Even though this page demonstrates pretty clearly that being "saved" requires a non-trivial amount of effort of your part.

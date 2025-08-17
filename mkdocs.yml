@@ -142,8 +142,12 @@ nav:
       - Prophets/Joseph Smith/Joseph Smith.md
       - 😏 Boasting: Prophets/Joseph Smith/Boasting.md
       - 🎓 Education: Prophets/Joseph Smith/Education.md
-      - 🕶 First Vision: Prophets/Joseph Smith/first-vision.md
-      - 🕶2️⃣ First Vision, Part 2: Prophets/Joseph Smith/first-vision-pt2.md
+      - 🕶 First Vision:
+        - 🕶 First Vision: Prophets/Joseph Smith/First Vision/First Vision.md
+        - 🙈 Concealment: Prophets/Joseph Smith/First Vision/First Vision Concealment.md
+        - 🤼 Contemporaries: Prophets/Joseph Smith/First Vision/First Vision Contemporaries.md
+        - 🚩 Problems: Prophets/Joseph Smith/First Vision/First Vision Problems.md
+        - ⚖️ Similar Experiences: Prophets/Joseph Smith/First Vision/First Vision Similar Experiences.md
       - 🎣 Kinderhook Plates: Prophets/Joseph Smith/Kinderhook Plates.md
     - 😤 Brigham Young:
       - Prophets/Brigham Young/Brigham Young.md
@@ -151,8 +155,10 @@ nav:
       - 🥊 Vs. Emma Smith: Prophets/Brigham Young/Vs Emma Smith.md
     - 🇺🇸 Ezra Taft Benson: Prophets/Ezra Taft Benson/Ezra Taft Benson.md
     - 👴 Russel M Nelson:
-      - Prophets/Russel-Nelson/Russel-M-Nelson.md
-      - Prophets/Russel-Nelson/Nelsons-Plane.md
+      - 👴 Russell M Nelson: Prophets/Russell-Nelson/Russell-M-Nelson.md
+      - 🛩 Nelson's Plane: Prophets/Russell-Nelson/Nelsons-Plane.md
+      - 😷 Nelson vs. COVID: Prophets/Russell-Nelson/Nelson-vs-Covid.md
+      - 🏃‍➡️ Social Media Fasting: Prophets/Russell-Nelson/Nelson-social-media-fast.md
   - 🏁 Race: 
     - Race/Race.md
     - 🤼 Race in Scripture: Race/Race in scripture.md
@@ -170,9 +176,9 @@ nav:
       - 😴 Lehi's Dream: Scripture/Book of Mormon/Lehi-dream.md
       - 📚 Literary Value: Scripture/Book of Mormon/Literary Value.md
       - ❓ Logistial Problems: Scripture/Book of Mormon/logistical-problems.md
-      - 🤥 Plagiarism: Scripture/Book of Mormon/Plagiarism.md
       - ♀️ Representation of Women: Scripture/Book of Mormon/Representation of Women.md
       - ⚓ Seafaring: Scripture/Book of Mormon/Seafaring.md
+      - 🤖 Technology: Scripture/Book of Mormon/Technology.md
       - 🍽 The Plates: Scripture/Book of Mormon/The Plates.md
       - 👅 Book of Mormon Translation: Scripture/Book of Mormon/Translation.md
     - 📜 Book of Abraham: Scripture/Book of Abraham.md

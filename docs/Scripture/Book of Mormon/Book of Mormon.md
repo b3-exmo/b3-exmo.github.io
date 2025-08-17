@@ -116,6 +116,18 @@ How do you react in this imagined scenario? Do you think "wow that father sure l
 
 &nbsp;
 
+### Correctness
+> *"I told the brethren that ==the Book of Mormon was the most correct of any book on earth==, and ==the keystone of our religion==, and a man would get nearer to God by abiding by its precepts, than by any other book."*
+
+&mdash; *[Teachings of Presidents of the Church: Joseph Smith](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19)*, *Chapter 4 -*
+*The Book of Mormon: Keystone of Our Religion*; History of the Church, 4:461; from instructions given by Joseph Smith on Nov. 28, 1841, in Nauvoo, Illinois; reported by Wilford Woodruff.
+
+&nbsp;
+
+That is quite the bold claim to say it's "the most correct book on earth." Truly remarkable to call it that when we can point to [[logistical-problems#Specifics|dozens of anachronistic problems]],  [[After all we can do|conflicting guidance pertaining to salvation]] and the [[Jaredites#How many people died?|astronomical casualty tallies]] presented in it, while unflinchingly calling it the most correct book.
+
+&nbsp;
+
 ## Written for our day
 BoM answered a lot of the hotly debated controversies of the early 1800’s 2nd Great Awakening, Calvinism, Rationalism, Deism, etc.
 

@@ -2,7 +2,7 @@
 comments: true
 ---
 # 😍 Joseph Smith
-How much rationalization has to occur in an LDS believers mind to still see Joseph Smith as a Prophet of God? How many times do we have to cut him a break?
+How much rationalization has to occur in an LDS believers mind to still see Joseph Smith as a Prophet of God? How many times do we have to [cut him a break](https://www.churchofjesuschrist.org/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=eng&id=p17#p17)?
 
 The notes here will be focusing more on Joseph's problems, flaws, and shortcomings. This does not mean that Joseph was a villainous miscreant rapscallion. ==Humans are complicated creatures, and Joseph Smith is a human==. I had nearly 30 years of focusing solely and exclusively on Joseph's positive qualities, his wins, his successes, and theological contribution. ==There are good things to be said about him==, but I won't focus on them here. I had plenty of indoctrination on how noble and great Joseph was. If you'd like to hear about Smith's positive qualities, I could point you to some folks [who absolutely love talking about that](https://www.churchofjesuschrist.org/comeuntochrist/contact-us). The purpose of this compendium of notes is for me to organize my thoughts and findings.
 
@@ -10,7 +10,9 @@ I'll reveal part of my thought process here: flaws give depth to character. The 
 
 Life isn't like that. Slavery abolitionist [John Brown](https://en.wikipedia.org/wiki/John_Brown_(abolitionist)) is a fascinating historical figure to read about because of the opposition he faced and overcame, which was pretty clearly documented. The version of Joseph Smith that I grew up with is that he was always right, inspired of God, got persecuted by ne'er-do-wells, brought about the fullness of Christ's church, and clearly did a great job of it because it's still around today, 200 years later. 
 
-As an adult, I'm finding out about domestic disputes with Emma, evolving theology, and actual reasons for being incarcerated that are more profound than "[[Satan]] make bad thing happen to Jesus-man". 
+&nbsp;
+
+As an adult, I'm finding out about domestic disputes with Emma, evolving theology, and actual reasons for being incarcerated that are more profound than "[[Satan]] make bad thing happen to Jesus-man."
 
 To me, these negative aspects make Smith feel more like a real human, rather than an idealized, romanticized image of 19th century frontier living. Reality isn't so polished and presentable, and I'm skeptical of presentations of history that sound too good to be true. If a 19th century figure doesn't have at least one relative that died of tuberculosis or by shitting themselves to death, I am not going to believe the story. Life was rough back then, and I expect presentation to reflect that.
 
@@ -67,7 +69,7 @@ How many other religious leaders get a lynching mob sent after them while they'r
 &nbsp;
 
 ## As was foretold...
-> ***33** He called me by name, and said unto me that he was a messenger sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that ==my name should be had for good and evil among all nations==, kindreds, and tongues, or that it should be both good and evil spoken of among all people.*
+> ***33*** *He called me by name, and said unto me that he was a messenger sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that ==my name should be had for good and evil among all nations==, kindreds, and tongues, or that it should be both good and evil spoken of among all people.*
 
 — [Joseph Smith - History 1:33](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p33#p33)
 

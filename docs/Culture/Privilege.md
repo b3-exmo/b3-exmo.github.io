@@ -2,7 +2,7 @@
 comments: true
 ---
 # 👑 Privilege
-Amid writing, I've encountered things that a high-control religion like the LDS church wants its adherents to do. At face value, some of these things don't make sense, such as paying 10% of your money with absolutely no accountability, or only wearing our special branded underpants. So how does an institution incentivize obedience to these commandments? We can use the ol' reliable "God said so," but in case that doesn't work, let's make the imperative hit closer to home&mdash;we'll tell you that *it's a privilege* to do what we tell you to do.
+Amid writing, I've encountered things that a high-control religion like the LDS church wants its adherents to do. At face value, some of these things don't make sense, such as [[Tithing|paying 10% of your money]] with absolutely no accountability, or only wearing our [[Garments|special branded underpants]]. So how does an institution incentivize obedience to these commandments? We can use the ol' reliable "God said so," but in case that doesn't work, let's make the imperative hit closer to home&mdash;we'll tell you that *it's a privilege* to do what we tell you to do.
 
 So I'd like to examine those claims. First, establish what the word means, and then find examples of it being used in LDS teachings. Yes, I am aware of the trope of Sacrament Meeting talks where the opening thesis statement is quoting Merriam-Webster, as if [George Merriam](https://en.wikipedia.org/wiki/George_Merriam) buying [Noah Webster](https://en.wikipedia.org/wiki/Noah_Webster)'s estate was by divine directive.
 
@@ -46,14 +46,14 @@ Speaking of...
 
 &nbsp;
 
-I don't know about you, but if any other institution asked me for 10% of my income and pinky-promised that they were using the money for altruistic purposes (and definitely not amassing a [$200 billion stock portfolio](https://web.archive.org/web/20230716134241/https://www.sltrib.com/religion/2023/07/16/lds-church-its-way-becoming/),) and threatened to [separate me from my family for eternity](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p104-p105#p104) if I did not pay, I don't think I would call it a privilege. I think I'd call it extortion, or a scam.
+I don't know about you, but if any other institution asked me for [[Tithing|10% of my income]] and pinky-promised that they were using the money for altruistic purposes (and definitely not amassing a [$200 billion stock portfolio](https://web.archive.org/web/20230716134241/https://www.sltrib.com/religion/2023/07/16/lds-church-its-way-becoming/),) and threatened to [separate me from my family for eternity](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p104-p105#p104) if I did not pay, I don't think I would call it a privilege. I think I'd call it extortion, or a scam.
 
 &nbsp;
 
 ## Temple Garments
 Imagine a parallel universe where *Fruit of the Loom* launches a new marketing campaign: "You might like other brands' products, but wearing our cotton briefs is *a privilege*. You don't want to squander that privilege, do you?"
 
-Next imagine if a religious institution tried to pull that shit. Oh, hold on&mdash;you don't have to imagine it.
+Next imagine if a religious institution tried to pull that shit. Oh, hold on&mdash;you [[Garments|don't have to imagine it]].
 
 &nbsp;
 

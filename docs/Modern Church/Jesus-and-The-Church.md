@@ -12,6 +12,8 @@ comments: true
 
 &nbsp;
 
+If "the Church" and "Jesus Christ" are synonymous, this would work. If they are not synonymous, this sounds like a jealously guarded retention of authority.
+
 Because The Savior is not disseminating His policies or dispositions to us common lay people, it’s not 100% clear what Jesus Christ’s opinions or dispositions *are*. Instead, we’re told that Jesus is revealing those [[Doctrine|policies]] to the top leadership of the LDS church. So there isn’t *really* a meaningful difference by that metric. Problems arise when we entertain the possibility that maybe these nonagenarians don’t actually obtain and disseminate Jesus’ will. What do we do, then? Do we abandon critical thinking and refuse to entertain the idea, or do we abandon critical thinking and simply do as we are told?
 
 This sounds like a [[Culture#Thought Stoppers|thought-stopping]] technique. "You don’t like what I said over the pulpit? Well, I represent Jesus, so that means you don’t like what Jesus said." Ostensibly, yes, but that extension of logic relies on the belief that this guy actually does represent Jesus. 
@@ -25,15 +27,15 @@ Let's assume he is divinely inspired, and put that wisdom to practice: “we nee
 As a full-time missionary:
 
 - Jesus Christ made a rule against giving money to impoverished children.
-- The Savior threatened to not help me find the people who needed his help if I failed to wake up exactly on time.
+- The Savior threatened to not help me find the people who needed His gospel if I failed to wake up exactly on time.
 
 &nbsp;
 
 In broader contexts:
 
-- Jesus Christ repeatedly calls [sexual predators to positions of trust and power](https://floodlit.org/accused/).
-- Jesus Christ was happy about the results of the Bisee Arizona case. ([1](https://www.deseret.com/2023/11/8/23953246/statement-from-church-arizona-sex-abuse-case-lawsuit/), [2](https://www.ksl.com/article/50782370/judge-dismisses-lawsuit-against-church-in-arizona-sex-abuse-case-citing-clergy-penitent-exception))
-- Jesus Christ doesn't want to pay for background checks for people who work with children unless it's a legal requirement.
+- The Savior repeatedly calls [sexual predators to positions of trust and power](https://floodlit.org/accused/).
+- Jesus Christ was happy about the results of the Bisbee Arizona case. ([1](https://www.deseret.com/2023/11/8/23953246/statement-from-church-arizona-sex-abuse-case-lawsuit/), [2](https://www.ksl.com/article/50782370/judge-dismisses-lawsuit-against-church-in-arizona-sex-abuse-case-citing-clergy-penitent-exception))
+- The Lord doesn't want to pay for background checks for people who work with children unless it's a legal requirement.
 - The Savior hires lawyers to protect his good name—even if it ends up hurting people who have already been victimized.
 
 &nbsp;

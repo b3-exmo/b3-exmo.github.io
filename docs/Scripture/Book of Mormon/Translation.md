@@ -2,6 +2,10 @@
 comments: true
 ---
 # 👅 Book of Mormon Translation
+Please note that this page is due for an update! It's more of a stream-of-consciousness reacting to the Gospel Topics Essay. May be rearranged if you come back later.
+
+&nbsp;
+
 ## Gospel Topic Essay on BoM translation
 The following quotes are all taken from [this essay](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/book-of-mormon-translation); source links (should) take you to the paragraph in question.
 
@@ -112,7 +116,7 @@ In 2000, two BYU religion professors, Joseph Fielding McConkie (son of Elder Bru
 
 > *Thus, everything we have in the Book of Mormon, according to Mr. Whitmer, was translated by placing the chocolate-colored ==stone in a hat== into which Joseph would bury his head so as to close out the light. While doing so he could see ‘an oblong piece of parchment, on which the hieroglyphics would appear,’ and below the ancient writing, the translation would be given in English. Joseph would then read this to Oliver Cowdery, who in turn would write it. ==If he did so correctly, the characters and the interpretation would disappear== and be replaced by other characters with their interpretation.*
 
-Alright, I guess if we go with divine intervention, we can accept this unprecedented method. This recounting could be what contributes to Joseph asserting that this is ["the most correct of any book"](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19) on Earth.
+Alright, I guess if we go with divine intervention, we can accept this unprecedented method. This recounting could be what contributes to Joseph asserting that this is "[[Book of Mormon#Correctness|the most correct of any book on earth]]".
 
 That does bring into question why there were later [[Changes#Enumeration of Changes|revisions or edits]], though.
 
@@ -202,6 +206,10 @@ Well. Alright. Granted, this account is published in 1874, and it doesn't explic
 > **RICHARDS:** *No. I’ve never seen it. And I don’t think there is any living man who has seen it.*
 
 — *[Correspondence With Le Grand Richards Regarding 1978 Interview](https://archive.org/details/CorrespondenceWithLeGrandRichardsRegarding1978Interview)*; see also these [[Race#LeGrand Richards|interview excerpts]] concerning race
+
+&nbsp;
+
+Anyway, here's an apologetic article & [photograph of Joseph's seer stone](https://www.churchofjesuschrist.org/study/history/topics/seer-stones?lang=eng) on *churchofjesuschrist.org*.
 
 &nbsp;
 

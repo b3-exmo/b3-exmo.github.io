@@ -132,7 +132,7 @@ oh for the love of
 
 "Joseph was a complete dumbass who [couldn't tell left from right](https://www.churchofjesuschrist.org/study/scriptures/ot/jonah/4?lang=eng&id=p11#p11), and was able to summon up *very convenient* revelations that benefitted him on the spot." Just take our word at face value that [[Education|he was an uneducated dweeb]].
 
-This statement would carry a lot more weight if we couldn't point to anything Joseph had been [caught lying about](https://docs.google.com/viewer?url=https://github.com/faenrandir/a_careful_examination/raw/69633bdccecc8190bf00976faa6ad162083b2f59/documents/polygamy/denials/denial_analysis.pdf).
+This statement would carry a lot more weight if we couldn't point to anything Joseph had been [caught lying about](https://www.standardsoftruth.org/read-standards-of-truth/example-evaluation-list-of-quotes#h.7ge2vkypy64c).
 
 &nbsp;
 

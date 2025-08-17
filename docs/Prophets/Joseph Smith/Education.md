@@ -21,7 +21,7 @@ The mainstream LDS church latched onto this claim to bolster the miraculous natu
 
 In contradiction of Emma’s claims, the [Joseph Smith Papers Project](https://www.josephsmithpapers.org/) has released several letters dictated by Joseph around the time of the Book of Mormon translation (1828-1829). They read just fine.
 
-Don't forget that the inciting incident leading up to the [[first-vision]] was reading the KJV Bible. [Joseph's own account of his history](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2?highlight=searching+the+scriptures) uses some phrasing that I would say implies a disciplined literacy:
+Don't forget that the inciting incident leading up to the [[First Vision]] was reading the KJV Bible. [Joseph's own account of his history](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2?highlight=searching+the+scriptures) uses some phrasing that I would say implies a disciplined literacy:
 
 - Parents who spared no pains to instructing me in the [Christian] religion
 - ... we were deprived of the [benefit] of an education suffice it to say I was [merely]  [instructed] in reading writing and the ground rules of [arithmetic] which constituted my whole literary acquirements
@@ -85,7 +85,7 @@ In all likelihood, Joseph was an extremely intelligent boy. He had the capabilit
 Imagine holding recent prophets to that same standard. What if Monson or Nelson were uneducated? would the church be touting that as a sign of legitimacy? Or, is that only notable for having brought forth BoM? Is that the only thing we want to remember Joseph for?
 
 ## Effect on the Book of Mormon
-The Book of Mormon is still remarkable in a variety of ways. I hope I've made my case that Joseph wasn't an illiterate clown. Consider this: if the book is of divine origin, that's remarkable irrespective of Smith's education. If it is not of divine origin, it's still remarkable on its own merits. Is it quality literature? Not necessarily. Not all 19th century books hold up under modern examination. But to produce it out of nothing is worth acknowledgement. It really does read like a 19th century commentary on religion. I don't like the idea of throwing it out wholesale based on the author's education.
+The Book of Mormon is still remarkable in a variety of ways. I hope I've made my case that Joseph wasn't an illiterate clown. Consider this: if the book is of divine origin, that's remarkable irrespective of Smith's education. If it is not of divine origin, it's still remarkable on its own merits. Is it quality literature? ... No, actually, it really doesn't hold up under scrutiny. To be fair, not all 19th century books hold up under modern examination. But to produce it out of nothing is worth acknowledgement. It really does read like a 19th century commentary on religion. I don't like the idea of throwing it out wholesale based on the author's education.
 
 Consider a parallel universe where the Book of Mormon isn't claimed to be a translation from ancient plate inscriptions. What if Joseph, in this version of reality, had stacks of papers and notes to track all the names of people and locations, the timeline as it jumps around, and had written it by hand without dictating to a scribe. The end product might not gain long-lasting notoriety, but it's still worthy of acknowledgement that Joseph created and published *something*. That's more than I've done.
 
