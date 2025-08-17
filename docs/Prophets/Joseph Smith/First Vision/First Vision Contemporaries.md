@@ -1,111 +1,13 @@
 ---
 comments: true
+created: 2025-08-13
 ---
-# 🕶2️⃣ First Vision, Part 2
-This page is meant to supplement [[first-vision|First Vision]] part 1; it was originally all one page, but hoo boy it got lengthy. I'll chop it in half, and stick some of it here on this page.
+# 🤼 Contemporaries
+In some accounts of the [[First Vision]], Joseph remarks that nobody believes his story. It's not clear to me how much effort he put into proliferating his experience&mdash;if he was met with resistance at every turn, that would diminish his drive to spread the word. I should expect some other folks to record what they heard Joseph say, even if it's with contempt. So what do Joseph's contemporaries have to say about the miraculous appearance?
 
 &nbsp;
 
-## Whitewashing
-> *Joseph Smith published ==two accounts of the First Vision== during his lifetime. ==The first of these==, known today as Joseph Smith—History, was canonized in the Pearl of Great Price and thus ==became the most well-known account==. While the 1832 account emphasizes the more personal story of Joseph as ==a young man seeking forgiveness==, the Pearl of Great Price account focuses on the vision as the beginning of “the rise and progress of [t]he Church” (Joseph Smith—History 1:1). Like the 1835 account, the central question of the narrative is “Which church is right?”*
-
-— *[Pearl of Great Price First Edition (1851)](https://history.churchofjesuschrist.org/content/library/pearl-of-great-price-first-edition-1851?lang=eng)*, Church History, churchofjesuschrist.org
-
-This is the kind of wording that the church uses for plausible deniability. "We never *hid* this from you! Says right there that Smith's handwritten account is different from the canonized one. You must be a lazy learner if you didn't know that."
-
-For illustrative purposes, should a teacher blame a student for not knowing something? Whose job is it to teach, and ensure understanding? I never found out about this until I was in my late 20's. And after all the church meetings I had faithfully attended for all of those years, it's somehow *my* fault for taking what authoritative voices said at face value. *And I find it upsetting* when they tell me it had always been taught. No, it was not.
-
-&nbsp;
-
-To me, this is incredibly problematic. For two years, at the MTC and in the mission field, we were drilled on reciting the 1838 version verbatim, because *all* of the church’s claims *relied on this event happening*. That’s how it was framed. For the church to exist for some span of time ranging between two and eight years, and no one has heard of the first vision.... it's enough to make me think it didn’t happen.
-
-&nbsp;
-
-## Joseph Fielding Smith (1876 - 1972)
-Just to level-set before delving in&mdash;we're talking about the church historian named [Joseph Fielding Smith Junior](https://en.wikipedia.org/wiki/Joseph_Fielding_Smith) who would later become the *tenth* president of the LDS church; not to be confused with [Joseph Fielding Smith Senior](https://en.wikipedia.org/wiki/Joseph_F._Smith), the *sixth* president of the church, and nephew to [Joseph Smith Junior](https://en.wikipedia.org/wiki/Joseph_Smith), the *first* president of the LDS church who founded it based on the premise of having a physical visitation of God and Jesus. Maybe.
-
-Hope that clears things up.
-
-&nbsp;
-
-Under the stewardship of Joseph Fielding Smith serving as Church Historian, the journal that the founding prophet Joseph Smith Jr. had personally hand-written his accounting of the First Vision in 1832 had its pages cut out and removed. This account, as described above, is an outlier to the established theology, and calls into question the legitimacy of the broadly accepted, canonized and standardized version. Probably just a coincidence that those pages were removed and concealed until Jerald & Sandra Tanner called him out on it.
-
-&nbsp;
-
-### 1943
-Fawn Brodie, author of an incisive biography of Joseph Smith, was able to access lots of early church documentation&mdash;something about being being the niece of president David O. McKay gave her preferential treatment. When she asked the acting church historian, Joseph Fielding Smith for access to Joseph's first-hand account of the First Vision, "he personally refused Fawn . . . remarking at the time that 'there are things in this library we don't let anyone see.'" (Source: [UTLM](https://www.utlm.org/newsletters/no108.htm#Letterto))
-
-His response was not "I don't know what you're talking about," nor "that document doesn't exist," but (paraphrased) "no, you can't see the document that you're asking for." Fawn doesn't get access, but the next time someone *does* get access to the book, lo and behold, six pages have been sliced out but taped back in. Very un-suspicious.
-
-&nbsp;
-
-> *This six-page history ==was at some point excised from the letterbook==. Fortuitously, one can actually date the time period when these leaves were removed, because the tearing of the last of the three leaves was done with such little care that a small triangular fragment (containing four words of the text) was initially left in the gutter of the letterbook and then removed and taped back onto the last leaf. ==The clear cellophane tape that was used for this repair was not invented until 1930==... Furthermore, “the cut and tear marks, as well as the inscriptions in the gutters of the three excised leaves, match those of the remaining leaf stubs, confirming their original location” in the Joseph Smith letterbook. By 1965 these three leaves of the 1832 account were again “archived together with the letterbook.” Thus, the period when these three leaves were separated was approximately 1930 to 1965—or allowing a five-year period for the cellophane tape to come into common usage in America, the three decades from 1935 to 1965.*
-
-— [Another Look at Joseph Smith’s First Vision](https://www.dialoguejournal.com/articles/another-look-at-joseph-smiths-first-vision/#pdf-wrap), Stan Larson, Dialogue Journal
-
-&nbsp;
-
-🤷‍♂️ Can't ask tough questions about source material when it's literally being cut out of the books and hidden away.
-
-&nbsp;
-
-Maybe you can read subtext better than I can, but I'm not sure I follow from this excerpt how we can "date the time period when these leaves were removed." I definitely see how we can find a minimum date for them to be put back in, though. We can also compare that date to who was serving as the [Church Historian and Recorder between years 1921 and 1970](https://www.churchofjesuschrist.org/study/history/topics/joseph-fielding-smith?lang=eng&id=p4#p4). To me, the best and most charitable interpretation of this fragmented event is *gross negligence*. If not that, I'm left to assume deliberate, contemptuous disregard for historical documents by *the one man* appointed to be responsible for preserving historical documents.
-
-If JFS was so defensive of it to not let Fawn Brodie access it, then I can assume that JFS was very selective of who *can* access it. JFS had access, no doubt. Perhaps he's protective of the document because he had discovered it to be vandalized by the previous borrower? That's pure conjecture, of course, but I can confidently say that JFS himself had access, and perhaps had a motivation to remove the pages. Does that prove that he's the one who did it? I don't think it proves that, no. Someone cut out the pages. Someone taped them back in using 1930's technology. Must have been the illuminati.
-
-&nbsp;
-
-### Scanned Papers
-The cellophane tape is visible in the Joseph Smith Papers Project scans of these documents:
-
-- [Letterbook 1](https://www.josephsmithpapers.org/paper-summary/letterbook-1/9#source-note)
-- [JS' History, circa Summer 1832](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/1#source-note)
-- [JS' History, circa Summer 1832, Page 5](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/5)
-
-Under the "Source Note" for the 1832 document:
-
-> *Also, the initial three leaves containing the history were excised from the volume. The eight inscribed leaves in the back of the volume may have been cut out at the same time.*
-
-In the footnote of that source note:
-
-> *These eight leaves have not been located.*
-
-> *Manuscript evidence suggests that these excisions took place in the mid-twentieth century. A tear on the third leaf, which evidently occurred during its excision, was probably mended at the time. This tear was mended with clear cellophane tape, which was invented in 1930.*
-
-&nbsp;
-
-Does the LDS church have anything to say about why the pages were cut out?
-
-> *There is nothing about the 1832 account that would merit cutting it out and hiding it. Understood in its context, it is a valuable addition to our understanding of the First Vision.*
-
-&mdash; *[Was the 1832 account of the First Vision cut out of a letter book and restricted from public access?](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts-faq/04-was-the-1832-account?lang=eng)*
-
-No, not really.
-
-&nbsp;
-
-### 1960 General Conference
-> *Now, ==if the Prophet was telling a falsehood== when he went into the woods to pray, he never would have come out and said that he had seen a vision of the Father and the Son and that they were separate Personages, and that the Father introduced the son and then told the Prophet to address his question to the Son, who would give him the answer. The Prophet never would have thought of such a thing as that, had it been a fraud.*
-> 
-> *If he had come out of the woods saying he had seen a vision, had it been untrue never would he have thought of separating Father and Son, nor would he have ever thought of having the Father introduce the Son and for him to put his question to the Son to receive his answer. He never could have thought of it; for that was the farthest thing from the ideas existing in the world in the year 1820.*
-
-&mdash; *[Joseph Smith's First Prayer](https://scriptures.byu.edu/#:t42a:g82)*, Joseph Fielding Smith, General Conference 1960 April
-
-(The full quote I'd like to present here is very lengthy; go on and read that talk.)
-
-&nbsp;
-
-"If the prophet Joseph was *lying*, he would have said something like he prayed and say *only one* figure appeared to him. But he *definitely said there were two* figures. ... Wait, what? The account he wrote by hand says *only one*?"
-
-![[ripping-paper-angry.gif]]{: .center .size40}
-
-"Nu-uh. No it doesn't. That didn't happen. There are things in the library we don't show people."
-
-&nbsp;
-
-## Responses
 ### Lucy Mack Smith
-
 If anyone within Joseph Smith's family would know about seeing God in 1820, I would think that his mother Lucy Mack Smith would. If anyone who hears Joseph's story would believe it, I would think that his immediate family would be most agreeable to it.
 
 So... what does his mother have to say about it?
@@ -176,7 +78,7 @@ According the [Richard Bushman](https://rsc.byu.edu/author/bushman-richard-l), p
 
 &nbsp;
 
-> *So far as we know the 1832 account was never read in a church meeting. It was ==buried away in church records== until ==discovered by a historian ==in the 1960s.*
+> *So far as we know the 1832 account was never read in a church meeting. It was ==buried away in church records== until ==discovered by a historian== in the 1960s.*
 > 
 > *==This withholding of the 1832 account was typical of the first decade of the Church==. Very little was made of the First Vision in Church teachings until 1839 when for the first time the story of the vision appeared in print, in an account by Orson Pratt. ==The familiar 1838 account was not published until 1842==. Joseph mentioned his experience to a visitor to Kirtland in 1835, but did not tell the story in any sermon we know about. ==Likely no more than a handful of Latter-day Saints had even heard of the First Vision before 1839==.*
 > 
@@ -316,76 +218,4 @@ I included this mention of the *Improvement Era* with the intention of drawing a
 
 &nbsp;
 
-## Similar accounts
-If Joseph Smith seeing God and Jesus is a distinguishing factor for the restored gospel of Jesus Christ, then any of these other accounts are equally plausible inciting incidents for the restored gospel of Jesus Christ. I had been led to believe that Joseph’s account was unique (both to himself, excluding other accounts; and to others, meaning God only appeared to him). Imagine my surprise to find out that circumstantial evidence sure looks like Joseph is jumping on a bandwagon.
-
-Were these other recipients of a divine vision or visitation called of God to be a prophet? Were they just not up to the task? Were they also foreordained, and named after their father?
-
-&nbsp;
-
-??? "Norris Stearns, 1815"
-	Norris Stearns published his own vision in Greenfield, Massachusetts in 1815; not far from where the Joseph Smith Senior family lived in Vermont.
-	
-	> *“At length, as I lay apparently upon the brink of eternal woe, seeing nothing but death before me, suddenly there came a sweet flow of the love of God to my soul, which gradually increased. At the same time, there appeared a small gleam of light in the room, ==above the brightness of the sun==, then at his meridian, which grew brighter and brighter… At length, being in an ecstasy of joy, I turned to the other side of the bed, (whether in the body or out I cannot tell, God knoweth) ==there I saw two spirits== which I knew at the first sight. But if I had the tongue of an Angel I could not describe their glory, for they brought the joys of heaven with them. ==One was God==, my Maker, almost in bodily shape like a man. His face was, as it were a flame of Fire, and his body, as it had been a Pillar and a Cloud. In looking steadfastly to discern features, I could see none, but a small glimpse would appear in some other place. ==Below him stood Jesus Christ== my Redeemer, in perfect shape like a man—His face was not ablaze, but had the countenance of fire, being bright and shining. His Father’s will appeared to be his! All was condescension, peace, and love!”*
-	
-	— [The Religious Experience Of Norris Stearns](https://archive.org/details/TheReligiousExperienceOfNorrisStearns), Norris Stearns, 1815
-
-&nbsp;
-
-??? "Elias Smith, 1816"
-	> *“I went into the woods ... a light appeared from heaven ... My mind seemed to rise in that light to the throne of God and the Lamb ... The Lamb once slain appeared to my understanding, and while viewing him, I felt such love to him as I never felt to any thing earthly ... It is not possible for me to tell how long I remained in that situation”*
-	
- 	(*The Life, Conversion, Preaching, Travels, and Sufferings of Elias Smith* ([1](https://archive.org/details/lifecon00smit), [2](https://books.google.ca/books/about/The_Life_Conversion_Preaching_Travels_an.html?id=XH0rAAAAYAAJ&redir_esc=y)), Elias Smith, 1816)
-
-&nbsp;
-
-??? "Asa Wild, 1824"
-	> 	*It seemed as if my mind, though active in its very nature, had lost all its activity, and was struck motionless, as well as into nothing, before the awful and glorious majesty of the Great Jehovah. He then spake to the following purport; and in such a mannor as I could not describe if I should attempt.*
-	>	
-	> 	*He told me that all the most dreadful and terrible judgments spoken of in the blessed scriptures, were to be executed within that time; that more than two thirds of the inhabitants of the world would be destroyed by these judgments*
-	>	
-	> 	*He also told me, that every denomination of professing christians had become extremely corrupt; many of which had never had any true faith at all; but are guided only by depraved reason, refusing the teaching of that Spirit which indited the scriptures, and which alone can teach us the true meaning of the same*
-	
-	[https://byustudies.byu.edu/article/the-prognostication-of-asa-wild/](https://byustudies.byu.edu/article/the-prognostication-of-asa-wild/)
-	
-	[https://ojs.lib.byu.edu/spc/index.php/BYUStudies/article/viewFile/6482/6131](https://ojs.lib.byu.edu/spc/index.php/BYUStudies/article/viewFile/6482/6131)
-	
-	(Both of those links are from BYU’s library. The former link works, but the latter redirects due to a domain change.)
-
-&nbsp;
-
-??? "Billy Hubbard, 1843"
-	> *“…when I came to the place of prayer, had kneeled down and closed my eyes, with my hands uplifted toward the heavens, I saw Jesus Christ at the right hand of God looking down upon me, and God the Father looking upon him. The look of Jesus on me removed the burden of my sins, while he spoke these words, “Be faithful unto death and this shall be thy place of rest.”*
-	
-	[https://archive.org/details/memoirslifeandt00hibbgoog](https://archive.org/details/memoirslifeandt00hibbgoog)
-	
-	[https://books.google.ca/books/about/Memoirs_of_the_Life_and_Travels_of_B_Hib.html?id=ER5MAAAAYAAJ&redir_esc=y](https://books.google.ca/books/about/Memoirs_of_the_Life_and_Travels_of_B_Hib.html?id=ER5MAAAAYAAJ&redir_esc=y)
-
-&nbsp;
-
-??? "John S Thompson, 1826"
-	> *“I dreamed Christ descended from the firmament, in a glare of brightness, exceeding ten fold the brilliancy of the meridian Sun, and he came to me saying, ‘I commission you to go and tell mankind that I am come; and bid every man to shout victory.”*
-	
-	[https://archive.org/details/christianguideto00thom](https://archive.org/details/christianguideto00thom)
-	
-	[https://books.google.ca/books/about/The_Christian_Guide_to_a_Right_Understan.html?id=7Y5Hg3f4zD8C&redir_esc=y](https://books.google.ca/books/about/The_Christian_Guide_to_a_Right_Understan.html?id=7Y5Hg3f4zD8C&redir_esc=y)
-
-&nbsp;
-
-??? "Solomon Chamberlin, 1816"
-	> *“Dissatisfied with the religions he had tried, Chamberlain prayed for further guidance, and in 1816, according to his account, "the Lord revealed to me in a vision of the night an angel," whom Chamberlain asked about the right way. The angel told him that the churches were corrupt and that God would soon raise up an apostolic church. Chamberlain printed up an account of his visions and was still distributing them and looking for the apostolic church when he stopped in Palmyra.”*
-	
-	(John Taylor, Nauvoo Journal, Jan-Sept 1845, BYU Studies 23 no.3, p.45. Referring to A Sketch of the Experience of Solomon Chamberlin, Lyons, New York, 1829) ([1](https://www.jstor.org/stable/43042625), [2](https://byustudies.byu.edu/article/the-visionary-world-of-joseph-smith/), [3](https://byustudies.byu.edu/article/the-john-taylor-nauvoo-journal-january-1845-september-1845/))
-
-&nbsp;
-
-## Reading Material
-If you somehow landed here without reading the [[first-vision|first page]] of notes, here's a link! Some, but not all of these following links are also found on that page.
-
-- [Accounts of Joseph Smith’s First Vision](https://www.josephsmithpapers.org/site/accounts-of-the-first-vision), Joseph Smith Papers Project; An overview of the accounts
-- [Joseph Smith’s Accounts of the First Vision](https://www.josephsmithpapers.org/articles/primary-accounts-of-first-vision?lang=eng), Joseph Smith Papers Project; "Grammar, punctuation, and capitalization have been regularized." Plaintext, easily accessible
-- [Timeline of the First Vision Story and Development](https://wasmormon.org/the-first-vision-timeline/), WasMormon.org
-- [The Strange Hidden First Vision Account of 1832](https://wasmormon.org/the-suppressed-first-vision-account-of-1832/), WasMormon.org
-- [Mother Knows Best – Joseph Smith’s Mother on The First Vision](https://wasmormon.org/mother-knows-best-joseph-smiths-mother-on-the-first-vision/), WasMormon.org
-- [Was there a time when Church leaders concealed the fact that there were various accounts of Joseph Smith’s First Vision?](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts-faq/03-was-there-a-time?lang=eng), churchofjesuschrist.org; "We always knew about it. There was also an article in 1970, so if *you* didn't know, that's your fault. No, we won't give you a link."
-- [Joseph Smith’s Recitals of the First Vision](https://www.churchofjesuschrist.org/study/ensign/1985/01/joseph-smiths-recitals-of-the-first-vision?lang=eng), Ensign, 1985 January
+Find related reading material on the main page for [[First Vision#Reading Material|the first vision]].

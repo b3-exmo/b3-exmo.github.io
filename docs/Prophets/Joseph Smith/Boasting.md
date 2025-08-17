@@ -18,6 +18,8 @@ What stands out to me in the above quote is highlighted for obvious reasons; Jos
 
 I will observe the timeline of this speech being two months before [Joseph is killed](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/135?lang=eng&id=p1#p1) in Carthage Jail. Maybe getting killed had something to do with Jesus, Paul & Adam not holding a church together? Moreover, the LDS church is [founded in 1830](https://www.josephsmithpapers.org/paper-summary/revelation-6-april-1830-dc-21/1), fourteen years before this speech. I haven't looked into specific date ranges for Jesus, Paul & Adam, but... Did their efforts last more than 14 years?
 
+If the claims to authority made by the Catholic church are credible, then... they're coming up to 2,000 years of uninterrupted lineage. Nah, they're just a bunch of apostates...
+
 &nbsp;
 
 ## Institute Student Manual
@@ -53,7 +55,7 @@ I'll get off my soapbox and focus on one topic at a time. FAIR continues on Jose
 >
 > *Perhaps the critics are unaware of Paul's advice? Or perhaps they apply a double standard where Paul is allowed such literary and rhetorical license, but Joseph is not?*
 >
-> *Such double standards are, sadly, the stock-in-trade of sectarian anti-Mormonism.* 
+> *Such double standards are, sadly, the stock-in-trade of sectarian anti-Mormonism.*
 
 &nbsp;
 

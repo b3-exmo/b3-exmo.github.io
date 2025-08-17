@@ -19,7 +19,7 @@ At the end of the day, one growing problem that the LDS church is facing is that
 >
 > *Note carefully the language of the Lord. He did not say, “Thus shall my church be named.” He said, “Thus shall my church be called.” Years ago, its members were cautioned by the Brethren who wrote: “We feel that some may be misled by the ==too frequent use of the term ‘Mormon Church.’==” Before any other name is considered to be a legitimate substitute, the thoughtful person might reverently consider the feelings of the Heavenly Parent who bestowed that name.*
 
-— [*“Thus Shall My Church Be Called”*](https://www.churchofjesuschrist.org/study/general-conference/1990/04/thus-shall-my-church-be-called?lang=eng), Elder Russel M Nelson, General Conference April 1990
+— [*“Thus Shall My Church Be Called”*](https://www.churchofjesuschrist.org/study/general-conference/1990/04/thus-shall-my-church-be-called?lang=eng), Elder Russell M Nelson, General Conference April 1990
 
 I'd paraphrase the talk as saying “we should be more specific and deliberate about the names we use to refer to our faith.”
 
@@ -69,7 +69,6 @@ That is, until President Monson passes away. Conveniently, that's when God decid
 &nbsp;
 
 ### 2018
-
 > *And if we allow nicknames to be used or adopt or even sponsor those nicknames ourselves, ==He is offended==.*
 
 > *To remove the Lord’s name from the Lord’s Church is a ==major victory for Satan==.*
@@ -78,7 +77,7 @@ That is, until President Monson passes away. Conveniently, that's when God decid
 > 
 > *Taking the Savior’s name upon us includes declaring and witnessing to others—through our actions and our words—that Jesus is the Christ. ==Have we been so afraid to offend someone who called us “Mormons” that we have failed to defend the Savior Himself==, to stand up for Him even in the name by which His Church is called?*
 
-— [The Correct Name of the Church](https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng), President Russel M Nelson, General Conference October 2018
+— [The Correct Name of the Church](https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng), President Russell M Nelson, General Conference October 2018
 
 Nelson. My guy. My main man. Calm down.
 
@@ -106,7 +105,7 @@ For kicks, here's a side-by-side video comparison of Hinckley vs Nelson's argume
 
 &nbsp;
 
-### What offends God?
+## What offends God?
 > *However, it ultimately is impossible for another person to offend you or to offend me. Indeed, believing that another person offended us is fundamentally false. ==To be offended is a choice we make==; it is not a condition inflicted or imposed upon us by someone or something else.*
 
 — *[And Nothing Shall Offend Them](https://www.churchofjesuschrist.org/study/general-conference/2006/10/and-nothing-shall-offend-them?lang=eng&id=p15#p15)*, Elder David A Bednar, General Conference October 2006

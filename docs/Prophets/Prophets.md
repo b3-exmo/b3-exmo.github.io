@@ -14,7 +14,7 @@ There have been very few revelations since Joseph Smith, who received revelation
 
 **When is the last time we had a meaningful revelation?** Was changing the minimum age for missionaries meaningful, or was it more of a secular policy? Is cutting Sunday meetings to 2 hours meaningful? Aside from those changes that have practically no impact on Christ's philosophy, every General Conference we hear a lot of the same things.
 
-Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. One could argue that BY led the saints to Utah. After that… what have LDS prophets done for the world? Tell me the things that Russell Nelson has done to make the world a better place. Or Monson, or Hinckley. Have they made a dent in world hunger? Has missionary work in Africa quelled the warlords? Has domestic abuse gone down? Did they do anything to [[Russel-M-Nelson#Pandemic Foresight|warn or prepare the world for COVID]]? Built hospitals? Solved homelessness? Are they performing miracles like we read about in scripture?
+Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. One could argue that BY led the saints to Utah. After that… what have LDS prophets done for the world? Tell me the things that Russell Nelson has done to make the world a better place. Or Monson, or Hinckley. Have they made a dent in world hunger? Has missionary work in Africa quelled the warlords? Has domestic abuse gone down? Did they do anything to [[Nelson-vs-Covid|warn or prepare the world for COVID]]? Built hospitals? Solved homelessness? Are they performing miracles like we read about in scripture?
 
 &nbsp;
 

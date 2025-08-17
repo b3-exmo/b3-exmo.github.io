@@ -11,7 +11,7 @@ Well, yes, but actually no.
 ## Yes, it's conditional!
 > *While divine love can be called perfect, infinite, enduring, and universal, it cannot correctly be characterized as unconditional. The word does not appear in the scriptures. On the other hand, many verses affirm that the higher levels of ==love the Father and the Son feel for each of us==—and certain divine blessings stemming from that love— ==are conditional==.*
 
-— *[Divine Love](https://www.churchofjesuschrist.org/study/ensign/2003/02/divine-love?lang=eng)* , Ensign February 2002, Elder ==Russel M Nelson==
+— *[Divine Love](https://www.churchofjesuschrist.org/study/ensign/2003/02/divine-love?lang=eng)* , Ensign February 2002, Elder ==Russell M Nelson==
 
 🤔
 

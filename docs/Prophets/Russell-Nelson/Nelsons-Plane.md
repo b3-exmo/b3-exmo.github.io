@@ -13,7 +13,7 @@ Where problems arise, though, is when a story told to promote faith in God ends 
 &nbsp;
 
 ## Key Elements
-A fellow named Russell Marion Nelson tells us of a near-death experience as an airplane's engine explodes, but the plane narrowly avoided a crash by extinguishing a fire. This is all within the pretext of Nelson feeling a calm peacefulness, being at ease with the prospect of mortal life ending because of a variety of factors (worthiness, trust in Christ's atonement, having [[Garments]] on, etc.) Elder Nelson was composed and collected, despite having reason to believe that death was imminent.
+A fellow named [[Russell-M-Nelson|Russell Marion Nelson]] tells us of a near-death experience as an airplane's engine explodes, but the plane narrowly avoided a crash by extinguishing a fire. This is all within the pretext of Nelson feeling a calm peacefulness, being at ease with the prospect of mortal life ending because of a variety of factors (worthiness, trust in Christ's atonement, having [[Garments]] on, etc.) Elder Nelson was composed and collected, despite having reason to believe that death was imminent.
 
 To emphasize this point, Nelson contrasts his zen-like state to the woman across the aisle, completely *flipping her shit* because she's right next to an exploded plane engine, and the craft is diving much too fast for anyone present to feel comfortable with.
 
@@ -28,9 +28,7 @@ There's some variation in details between the multiple times he's told us this s
 
 Problems arise when this story's details are examined across the aforementioned retellings, as well as compared to... you know, *reality*.
 
-#TODO condense
-
-By my timeline estimation, this event took place in 1976. At the time, he was filling [the calling of Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15). He shares a dramatic experience of an airplane crash, an ordeal with a remarkably low survival rate, but he survives! Against all odds, God protected this one plane on this one instance to preserve Nelson's life, so that Nelson can later [[Russel-M-Nelson#Vitamins|tell us to take vitamins]]. Fatalities from other airplane crashes just weren't meant to speak in General Conference.
+By my timeline estimation, this event took place in 1976. At the time, he was filling [the calling of Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15). He shares a dramatic experience of an airplane crash, an ordeal with a remarkably low survival rate, but he survives! Against all odds, God protected this one plane on this one instance to preserve Nelson's life, so that Nelson can later [[Nelson-vs-Covid#Vitamins|tell us to take vitamins]]. Fatalities from other airplane crashes just weren't meant to speak in General Conference.
 
 &nbsp;
 
@@ -160,7 +158,7 @@ And so, as it happens, the *Civil Aeronautics Board* has published records of re
 
 &nbsp;
 
-I would describe engine feathering as twisting the propeller blades on their respective axes. Feathering an inoperable engine reduces drag so that the plane doesn't yaw, dragging it off course, as well as reducing unnecessary stress on the blades. Here's a link to a [description and illustration](https://aeropeep.com/what-is-the-difference-between-feathering-and-not-feathering-a-propeller-on-an-airplane/).
+I would describe engine feathering as twisting the propeller blades on their respective axes. Feathering an inoperable engine reduces drag so that the plane doesn't yaw, dragging it off course, as well as reducing unnecessary stress on the blades or making a bad situation worse. Here's a link to a [description and illustration](https://aeropeep.com/what-is-the-difference-between-feathering-and-not-feathering-a-propeller-on-an-airplane/).
 
 A *precautionary landing* happens when "further flight is ==possible but inadvisable==," and "are often made at an aerodrome although this is not always the case. Sometimes landing in a field (and accepting there will be damage to the aircraft) is preferable to trying to reach an aerodrome (and risk to be forced to land on worse terrain)." 
 
@@ -173,13 +171,13 @@ What I read Nelson describe is a *forced landing* "in a farmer's field" after an
 &nbsp;
 
 ## Discrepancies
-Other discrepancies I would call auxiliary to the core of this story. Nelson said November 12, the report said November 11; I think that's close enough.
+Other discrepancies I would call auxiliary to the core of this story. Nelson said November 12, the report said November 11; I think that's close enough to call a match.
 
 Some of Nelson's accounts have variation on how many passengers were in the plane, and the report said 3. The number of passengers isn't really the point, so I don't think that is really worth emphasizing.
 
 In most accounts, the pilot "turns on the other engine." I don't know enough about propeller airplanes to know why was the functional engine turned off. Maybe it was deactivated during their spiraling descent?
 
-Nelson describes this event happening at approximately half way between SLC and St. George. Delta, UT is kinda-sorta in between them— by my estimation using online mapping tools, Delta is 134 miles from SLC and 167 miles from SGU. This straight-line path is more direct than [traveling by highway](https://www.google.com/maps/dir/Salt+Lake+City,+UT,+USA/Delta,+UT,+USA/St.+George,+UT,+USA). If traveling south, I could imagine an engine failure at the half-way point causing a pilot to estimate that Delta is the closest aerodrome, even if it means turning around.
+Nelson describes this event happening at approximately half way between SLC and St. George. Delta, UT is kinda-sorta in between them— by my estimation using online mapping tools, Delta is 134 miles from SLC and 167 miles from SGU. This straight-line path is more direct than [traveling by highway](https://www.google.com/maps/dir/Salt+Lake+City,+UT,+USA/Delta,+UT,+USA/St.+George,+UT,+USA). If traveling south, I could imagine an engine failure at the half-way point causing a pilot to estimate that Delta is the closest aerodrome, even though it means turning around.
 
 &nbsp;
 
@@ -220,6 +218,10 @@ An engine failing probably shook the small plane, which would be upsetting and f
 &nbsp;
 
 If you want to make the argument that Nelson's crashing plane was actually just *one day later* than the reported precautionary landing in the same location for the same reason, in the same flight from SLC to SGU, but had worse mechanical failures and somehow evaded all public attention or mandatory reporting, then by all means, make that argument. Just know that if you stand by that claim, you'll also take on the burden of proof after reading what I've presented here.
+
+&nbsp;
+
+If, on the other hand, we can conclude that Nelson is simply not telling the truth, we have a problem. If Nelson can't be trusted to tell the truth about something that doesn't matter all that much, then why on earth would we trust him to tell the truth about things that *do* matter?
 
 &nbsp;
 

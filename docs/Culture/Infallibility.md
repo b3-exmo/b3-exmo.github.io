@@ -11,7 +11,7 @@ Ok.
 &nbsp;
 
 ## Imperfect individuals
-Can you tell me about something that, for example, Russel Nelson has done that you find problematic or disagreeable? Or, more generously, can you list anything he’s said or done that indicates imperfection? I’m not trying to catch you, hypothetical conversation partner, in your words— I’m observing that the inability to scrutinize any behavior doesn’t sit well with the idea that leaders are infallible.
+Can you tell me about something that, for example, Russell Nelson has done that you find problematic or disagreeable? Or, more generously, can you list anything he’s said or done that indicates imperfection? I’m not trying to catch you, hypothetical conversation partner, in your words— I’m observing that the inability to scrutinize any behavior doesn’t sit well with the idea that leaders are infallible.
 
 If your answer is ‘no’, that’s an acceptable answer, as long as you don’t perpetuate the idea that the leaders are imperfect. I think one should be able to point to examples of imperfection, if we stand by the idea that those imperfections exist.
 

@@ -1,0 +1,188 @@
+---
+comments: true
+---
+# 😷 Nelson vs. COVID
+If ever there was an opportunity for God to *prove to the entire world* that He has a living spokesperson on Earth&mdash;[[Russell-M-Nelson|Russell M Nelson]], a prophet, seer, revelator, one who can see around corners, help guide the faithful, etc&mdash;*this was it*. We've got more practicing, faithful LDS tuning in live to hear the prophet's divine wisdom than at any prior time, expecting leaders to share some insights, words of warning, assurance if it were nothing to fear, advice to prepare, *anything* would be a great chance to show that this church is led by God Himself.
+
+What do we get instead?
+
+&nbsp;
+
+## 2019 October General Conference
+> *Now I would like to turn to another topic: plans for the coming year. ==In the springtime of the year 2020, it will be exactly 200== years since Joseph Smith experienced the theophany that we know as the First Vision. God the Father and His Beloved Son, Jesus Christ, appeared to Joseph, a 14-year-old youth. That event marked the onset of the Restoration of the gospel of Jesus Christ in its fulness, precisely as foretold in the Holy Bible.*
+> 
+> *...*
+> 
+> *Thus, the year 2020 will be designated as a bicentennial year. ==General conference next April will be different from any previous conference==. In the next six months, I hope that every member and every family will prepare for a unique conference that will ==commemorate the very foundations of the restored gospel==.*
+> 
+> *... As you [prepare], ==general conference next April will be not only memorable; it will be unforgettable==.*
+> 
+> *Now in closing, I leave with you my love and my blessing that each of you may become happier and holier with each passing day. Meanwhile, ==please be assured that revelation continues in the Church== and will continue under the Lord’s direction until “the purposes of God shall be accomplished, and the Great Jehovah shall say the work is done.”*
+
+— *[Closing Remarks](https://www.churchofjesuschrist.org/study/general-conference/2019/10/57nelson?lang=eng&id=p34,p38,p40-p41#p40)*, President Russell M. Nelson, General Conference 2019 October
+
+&nbsp;
+
+Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of the sanitized version of Joseph Smith's [[First Vision|First Vision]]. Nelson could not have been more clear on what he meant.
+
+&nbsp;
+
+I can't demonstrate or prove this, but in the times when I've had missionaries over for their earnest attempts to re-activate me into fellowship, they've gleefully explained that this address was a prophetic warning about COVID-19. You can tell because Nelson said that next conference "will be different from any previous conference." I shit you not, this is what I've been told.
+
+One could argue that, no, missionaries aren't an authoritative voice... unless you count that they're set apart for this specific calling, given ministerial licence, given priestly authority to follow Christ's charge to "preach to all nations," or... bah, you know what, missionaries are only authoritative when it's convenient for them to be. 
+
+&nbsp;
+
+## 2020 April General Conference
+So what *did* happen in 2020?
+
+> *My beloved brothers and sisters, as we welcome you to this historic April 2020 general conference of The Church of Jesus Christ of Latter-day Saints, for reasons you know, I stand before you in an empty auditorium!*
+> 
+> *==Little did I know==, when I promised you at the October 2019 general conference that this April conference would be “memorable” and “unforgettable,” that speaking to a visible congregation of fewer than 10 people would make this conference so memorable and unforgettable for me! Yet the knowledge that you are participating by electronic transmission, and the choir’s beautiful rendition of “It Is Well with My Soul,” bring great comfort to my soul.*
+
+— *[Opening Message](https://www.churchofjesuschrist.org/study/general-conference/2020/04/11nelson?lang=eng&id=p1-p3#p1)*, President Russell M. Nelson, General Conference April 2020
+
+&nbsp;
+
+We're told that prophets "[see around corners](https://speeches.byuh.edu/devotionals/prophets-can-see-around-corners)" which makes me think that revelation ought to be given proactively, rather than reactively. It makes me think that a prophet *should not be surprised* when general conference is held in an empty auditorium. It sounds even worse when that same prophet says "I had no idea this was going to happen lol"
+
+*Read the rest of the paragraph*. Is there any modicum of an implication that Nelson is saying "this was in response to revelatory foreknowledge of COVID?" He's acknowledging in *explicit terms* that the promise of being memorable and unforgettable is in relation to the bicentennial anniversary of (the official, approved version of) the First Vision. No other year *can* be the 200th anniversary. It will be memorable because we're about to hear our fearless leaders *boldly proclaim* that it totally happened this way.
+
+&nbsp;
+
+👏 *All* 👏 *they had* 👏 *to do* 👏 was lean into COVID and say "see? We told you that this would be one to remember!" And the whole world would have just eaten it up. Any statement even *adjacent to that* would have been enough to make me reconsider my heathen ways. They could have made a quick shift from the scheduled programming (like every organization on the planet had to) and tout how they saw this coming. Hell, not even tout, just *acknowledge* it. Imply it.
+
+What did we get instead? Not nothing&mdash;what we got was *worse than nothing*. Had they said nothing, they would have plausible deniability. Silence could ostensibly equivocate foreknowledge, letting Nelson's parting [words from 2019 speak for themselves](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38). That silence would have been very powerful.
+
+&nbsp;
+
+Simply saying nothing would have been less jarring than to hear God's chosen prophet saying "little did I know." The *one person on the planet* who would have had divine foreknowledge just announced that he had no idea.
+
+&nbsp;
+
+### Proclamation
+> *==Two hundred years ago==, on a beautiful spring morning ==in 1820==, young Joseph Smith, seeking to know which church to join, went into the woods to pray near his home in upstate New York, USA. He had questions regarding the salvation of his soul and trusted that God would direct him.*
+> 
+> *...*
+> 
+> *==Two hundred years have now elapsed== since this Restoration was initiated by God the Father and His Beloved Son, Jesus Christ. Millions throughout the world have embraced a knowledge of these prophesied events.*
+
+— *[Proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&id=p2,p4,p7#p2) that "was read by President Russell M. Nelson as part of his message at the 190th Annual General Conference, April 5, 2020, in Salt Lake City, Utah."*
+
+&nbsp;
+
+I don't know how else to interpret Nelson's claim that this conference would be unlike any other. It's the 200th anniversary of something that *[[First Vision|definitely happened in 1820]]* don't scrutinize that claim please
+
+Nelson wanted to make another *[formal proclamation](https://www.churchofjesuschrist.org/study/scriptures/ordinances-and-proclamations?lang=eng)*, because he won't rest until he can one-up [Hinckley](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng) at every opportunity. This is what Nelson was excited about, to make it memorable and unforgettable. It's 200 years after the canonized record of the First Vision.
+
+&nbsp;
+
+What a curious choice of words these selected paragraphs have. They didn't seem to mention that Joseph made absolutely no record of this world-changing event [[First Vision#Accounts|for twelve years]]—two years *after* the LDS Church was [[Name Mormon#Name changes|founded]], precluding the notion that it was a [[Restoration]].
+
+They did say in explicit terms that "God the Father and His Son, Jesus Christ, ==appeared== to Joseph ... [i]n this ==vision==[.]" Makes me think that they're trying to equivocate around saying that Elohim and Jehovah both were physically present in Palmyra, New York, without explicitly saying they were physically present. Having "appeared" "in this vision" is the right level of vague that can still hold some plausible deniability. Not quite as bold and declarative as I'd have expected. I mean, that would imply that the [[Second Coming]] already happened, or else that the Second one [[Second Coming#How many times?|isn't actually the second]] appearance.
+
+&nbsp;
+
+Outside of nitpicking the vernacular, why was this proclamation necessary? The illustration "preaching to the choir" comes to mind. Who is for? A grand majority of folks tuning in to listen to this conference do so because they believe that the speakers are divinely inspired and authorized by God *because of the First Vision*. Nelson is invoking divine authority to assure believers in the First Vision that the First Vision happened, which means that Nelson is authorized to speak for God. It feels so circular to me.
+
+If you'd like to postulate that this proclamation is meant for non-members, that's fine, but please—imagine this kind of proclamation from some other faith. If you were handed a printed proclamation by [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) asserting that the publication of [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)'s *Dianetics* is a key historical event for the world, would you think "*by my troth*, this is all the definitive proof I needed! Sign me up for exorbitantly priced books, *post-haste*!" Or some similar publication from Bob Ciranko of JW's *Watchtower* reminding you that 144,000 individuals will be [[Sealing|sealed]] and "[are chosen](https://web.archive.org/web/20240503230238/https://wol.jw.org/en/wol/d/r1/lp-e/2004647#h=3) from among mankind to rule with Christ in heaven over the coming Paradise earth". Having read that in a formal proclamation issued by the upper echelons of a group you are not a part of, would such a proclamation sway your opinion of that organization?
+
+In either of these hypothetical scenarios, I might question *why* are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that isn't new information. Most anyone familiar with Mormonism would know superficially about Joseph Smith claiming to have seen God and producing a text afterward. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet—find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to baptism, then what was the point of the proclamation? Was it intended to persuade nonmembers, or was it to assure existing members?
+
+&nbsp;
+
+Well, surely if Nelson hadn't used his prophetic mantle to warn us of COVID in 2019, maybe he did say something earlier?
+
+&nbsp;
+
+## Vitamins
+*Eat your vitamin pills!* ([1](https://www.youtube.com/watch?v=0ClAOEkuYiM), [2](https://www.thechurchnews.com/2018/11/28/23264563/video-eat-your-vitamin-pills-get-your-rest-says-president-nelson-on-the-future-of-the-church/), [3](https://www.thechurchnews.com/living-faith/2023/9/22/23883693/sarah-jane-weaver-president-russell-nelson-invitation-eat-vitamin-get-some-rest-needed-now/), [4](https://www.deseret.com/2018/11/28/20659988/church-news-eat-your-vitamin-pills-get-your-rest-says-president-nelson-on-the-future-of-the-church/), [5](https://latterdaysaintmag.com/president-nelson-on-the-future-of-the-church-eat-your-vitamin-pills-get-your-rest-its-going-to-be-exciting/)) 
+
+Really, though... Examine as many of those linked citations as you'd like. Read them and re-read them. Was there any hint, implication, or the mildest suggestion that there's an upcoming public health crisis?
+
+Before you accuse me of being unfair by selecting a quote that wasn't presented over the pulpit, I will direct your attention to the apostle [Quentin Cook quoting Nelson's admonition](https://www.churchofjesuschrist.org/study/general-conference/2019/10/25cook?lang=eng&id=p2#p2) to take vitamins.
+
+Former heart surgeon Russell Nelson was clearly called of God to lead and guide us through a pandemic, something that would require education in virology, microbiology, or [public health management](https://www.cdc.gov/public-health-gateway/php/index.html). I guess cardiac surgery is close enough. A non-specific vitamin will safeguard you. No, he won't tell you which one. This prophetic wisdom from November 2018 was all the counsel we needed.
+
+What's that? He wasn't speaking as a prophet in those contexts? Boy, that'd be a real conundrum to find ourselves in—normally, whenever a prophet says something uncomfortable, we can rationalize that he was *speaking as a man* at that time. But a cardiac surgeon 34 years outside of practice talking about nutritional supplements? That was prophetic, no doubt. You need to stop looking at porn.
+
+&nbsp;
+
+## Come Follow Me
+Alright, look... We got our church services 33% shorter to emphasize a more home-focused gospel study program. Is *that* a sign that God is involved in our lives, by preparing us for a pandemic via prophetic guidance?
+
+I... *I guess*?
+
+Put on your time-travel hat and think back to June 2018 when this program was announced. You'll have to imagine *real hard* because the church's website [now just redirects](https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) from the announcement to their Newsroom page, so we'll look at [the archived version](https://web.archive.org/web/20201203231204/https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) instead.
+
+The newsroom article describes that this *Come, Follow Me* program is meant to "help Church members and their families study the scriptures at home." Starting in 2019, we'll have a unified schedule for lessons. Neat.
+
+So... Read through as much of this article as you have patience for. While you're there, tell me what part you saw as related to a global pandemic upending the world's economy. Maybe I'm just a miserable grump, but I don't see *jack shit* in here about an upcoming pandemic.
+
+If you'd like to draw the connection that at-home scripture study is indicative that people will be heavily encouraged to stay in their homes as prophetic foresight, then... I don't know, man, if that's where you're going, I just don't know what to tell you. Pause and think if that leap of logic would stand under scrutiny of any of your non-religious peers or friends. Find a neutral third-party, and ask "hey, imagine a hypothetical organization's leader cutting a physical gathering's duration by one hour and providing a structured at-home study program beginning in 2019. Do you think that's divine insight? Would you understand that to be a forewarning of COVID-19? Is that indicative that this leader is led by God?" Straight up, ask someone this, and tell me what their response is.
+
+&nbsp;
+
+### Children and Youth
+> *The Church will discontinue its participation in Scouting on December 31, 2019, and the Personal Progress, Duty to God, and Faith in God programs will be discontinued on that date.*
+
+— *[Children and Youth Update](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*, 15 July 2019 (*[Archive](https://www.churchofjesuschrist.org/bc/content/shared/english/pdf/children-and-youth/16930_000_notice.pdf)*)
+
+&nbsp;
+
+> *Members of The Church of Jesus Christ of Latter-day Saints around the world were introduced today to the vision and basic principles of the faith’s new program for children and youth in a broadcast shown during the second half of worship services. Six Church leaders, including President Russell M. Nelson, spoke in the pre-recorded 48-minute video.*
+> 
+> *The new program will be implemented on January 1, 2020.*
+> 
+> *...*
+> 
+> *“This effort has been designed ==especially for you and your generation==,” President Nelson tells youth in the video’s introduction. ... "Now the time has come for a new approach, designed to help today’s children and youth throughout the world."*
+
+— *[Latter-day Saints Worldwide Introduced to New Program for Children and Youth](https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*, LDS Church Newsroom, 29 September 2019 (*[Archive](https://web.archive.org/web/20191010205738/https://newsroom.churchofjesuschrist.org/article/worldwide-broadcast-new-children-youth-program)*)
+
+&nbsp;
+
+Yeah, man. "Designed especially for you and your generation[.]" To be launched weeks before the world shuts down, and our kids & teenagers will do absolutely fuck-all with it because they won't meet in-person for months, or even years.
+
+Was *Come, Follow Me* inspired and timely in anticipation of at-home study due and pandemic lockdowns? Then tell me how this other program, explicitly described as being designed for *these kids at this time*, was... maybe *not* divinely inspired?
+
+*You can't have it both ways.*
+
+&nbsp;
+
+## Meaningful hypothetical
+So what would have been a useful message to receive in 2018 or 2019?
+
+&nbsp;
+
+Is the LDS church led by God? The prophet outlined an at-home study program to prepare for a global pandemic instead of doing *fucking anything else* that would help the world with what they were actually worried about. For being a [stone cut out of a mountain](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/65?lang=eng&id=p2#2), rolling until it fills the whole earth, unstoppable by any unhallowed hand, the [LDS church's membership](https://newsroom.churchofjesuschrist.org/facts-and-statistics) still only makes up a comically small proportion of the [world's population](https://www.worldometers.info/world-population/): `17,225,394 ÷ 8,209,267,657 = 0.21%`
+
+I'm sure the remaining 99.8% of the world is glad that God's one true prophet warned 0.2% of the world about a pandemic by giving them a study manual. 
+
+&nbsp;
+
+Let's run through a thought exercise. Let's imagine that *you* are the prophet. Imagine that God advises you that PPE will be in high demand, supply chains will be disrupted and lead to food shortages, a communicable disease will cause nations to shut down their borders, medical misinformation will reach alarmingly high prevalence, and the world will be conflicted about who is an authoritative voice through it all. If *you* knew this was coming, what would you do? What would you tell people?
+
+Would you decide that the only necessary prep work in anticipation of people desperately seeking guidance and assurance is that they should go to church for 2 hours instead of 3? Would you announce that the next session of General Conference will "be different from any previous conference" because of a bicentennial anniversary of an event with dubious documentation? Or would you tell the world that we have a divisive, economic tumult coming in under twelve months?
+
+&nbsp;
+
+Consider these options, in response to this hypothetical scenario:
+
+- Make a strong reminder about the practice of food storage, supplies, emergency preparedness; de-emphasized in recent years
+- Tell adherents (or the whole world) to get debts and finances in order in anticipation of financial hardship and uncertainty
+- Donate some funds from your $150 billion stock portfolio to provide hospitals with PPE
+- Use funds from that investment portfolio to purchase your own stockpile PPE in anticipation of supply shortages 
+- Switch the temple garment manufacturing to produce PPE well in advance
+- Leverage medical credentials and connections to virologists to begin developing a vaccine years in advance
+- Advise leadership of any scale (church congregations, states, nations) how to contain the spread, if only just to reduce panic
+- Announce in 2019 that 2020's general conference session will be entirely online, as to dissuade people from wasting time and money on flights and travel arrangements
+- Call all full-time missionaries home by the end of 2019, and stop sending out new ones
+
+"oh, but President Nelson didn't want to scare everyone" *shut the fuck up* What was scary was society collapsing, having no idea who to trust, hearing about hundreds of thousands of deaths while you're trapped in your home, and hearing a quorum of fifteen prophets of God saying "idk lol" because if there was *ever* a time for *one human* to authoritatively speak in behalf of God, it would have been *very timely* for him to talk in April 2020 about something else, *anything else* other than Joseph Smith's First Vision.
+
+"Corrupt government officials wouldn't listen anyway" yeah? Is it because the church hasn't had [[No-official-stance|anything meaningful to say]] outside of "Jesus good, porn bad?" Even if government officials didn't listen at the outset, they could have had a clear record that "those oddballs in Utah had a lot of this figured out months in advance, maybe we should listen to them in the future."
+
+&nbsp;
+
+"eat your vitamin pills" give me a fucking break

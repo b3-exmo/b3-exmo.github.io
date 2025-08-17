@@ -19,7 +19,7 @@ While serving as church historian, Joseph F. Smith physically removed pages from
 
 &nbsp;
 
-I've got an entire page of notes concerning the First Vision, and I'll go into more detail on [[first-vision-pt2#Joseph Fielding Smith (1876 - 1972)|an account's concealment on that page]]. For this excerpt, I'll be satisfied with that superficial overview, along with some links for further reading:
+I've got an entire page of notes concerning the First Vision, and I'll go into more detail on [[First Vision Concealment#Joseph Fielding Smith (1876 - 1972)|an account's concealment on that page]]. For this excerpt, I'll be satisfied with that superficial overview, along with some links for further reading:
 
 Descriptions:
 
@@ -43,7 +43,6 @@ In the footnote of that source note:
 > *These eight leaves have not been located.*
 
 > *Manuscript evidence suggests that these excisions took place in the mid-twentieth century. A tear on the third leaf, which evidently occurred during its excision, was probably mended at the time. This tear was mended with clear cellophane tape, which was invented in 1930*
-
 
 &nbsp;
 
@@ -87,6 +86,8 @@ Now why would they want to remove that?
 
 — *[Trial of Your Faith](https://www.churchofjesuschrist.org/study/general-conference/2012/10/trial-of-your-faith?lang=eng)*, Elder Neil L. Andersen, of the Quorum of the Twelve Apostles; General Conference October 2012
 
+&nbsp;
+
 Compare this to 2007...
 
 > *Much misunderstanding about The Church of Jesus Christ of Latter-day Saints revolves around its doctrine. The news media is increasingly asking what distinguishes the Church from other faiths, and reporters like to contrast one set of beliefs with another.*
@@ -96,6 +97,8 @@ Compare this to 2007...
 > *The doctrinal tenets of any religion are best understood within a broad context, and thoughtful analysis is required to understand them. News reporters pressed by daily deadlines often find that problematic.*
 
 — [Approaching Mormon Doctrine](https://web.archive.org/web/20180213184855/https://www.mormonnewsroom.org/ldsnewsroom/eng/commentary/approaching-mormon-doctrine), Mormon News Room, 4 May 2007
+
+&nbsp;
 
 Then compare to FAIR.
 

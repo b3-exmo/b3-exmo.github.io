@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🌱 Restoration
-Joseph Smith was [[first-vision|told by God]] that he needed to restore His church, because all the other churches had inequities/problems/no authority. Whenever today's restored church comes under public scrutiny for some foible, the go-to explanation I hear is “God is perfect, but the church is not.” If that’s true, and God can work through an imperfect church, why did there have to be a restoration? Was it not to restore that purity or perfection?
+Joseph Smith was [[First Vision|told by God]] that he needed to restore His church, because all the other churches had inequities/problems/no authority. Whenever today's restored church comes under public scrutiny for some foible, the go-to explanation I hear is “God is perfect, but the church is not.” If that’s true, and God can work through an imperfect church, why did there have to be a restoration? Was it not to restore that purity or perfection?
 
 &nbsp;
 

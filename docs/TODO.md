@@ -32,88 +32,212 @@ So at some point, I'll need to track down each and every em dash used to re-eval
 ## Topics
 For many of these topics, I do have some existing notes, but they aren't in a presentable condition. Others, I've yet to write down some thoughts on. No, I’m not differentiating them here in this list. I have a day job, is all. I'll get to it.
 
-- [x] Anti-LGBT
-- [ ] Before Utah
-	- [ ] American Frontier Magic
-	- [ ] Kirtland Safety Society
-	- [ ] Nauvoo Expositor
-	- [ ] Priesthood Restoration
-	- [ ] Succession crisis
-- [x] Book of Mormon
-	- [x] Anachronisms
-	- [x] Lehi's Dream
-	- [ ] Literacy in Ancient America
-	- [ ] Plates of ✨GOLD✨
-	- [ ] Witnesses
-- [ ] Bullet List for quick reference
-- [x] Christianity > Second Coming
-- [ ] Conflation
-- [ ] Cults
+- [ ]  Book of Mormon
+	- [ ] BoM Generally
+	- [ ] BoM Witnesses
+	- [ ] Changes
+	- [ ] Chiasmus
+	- [ ] Evidence for and against
+	- [ ] Geography
+	- [ ] Laban
+	- [ ] Lamanite Inhabitants
+	- [ ] Literary Value
+	- [ ] Logistics - Boats
+	- [ ] Moroni
+	- [ ] Plates of Gold
+	- [ ] Sale of BoM Copyright
+	- [ ] Translation
+	- [ ] War Numbers
+	- [ ] Zedekiah
+- [ ] Christianity
+	- [ ] 17 points of true church
+	- [ ] Characteristics of God
+	- [ ] Easter
+	- [ ] Garden of Eden
+	- [ ] Hebrew appropriation
+	- [ ] Mormonism v Christianity differences
+	- [ ] Prayer
+	- [ ] Satan
 - [ ] Culture
-	- [x] Don't look elsewhere for info / Approved Sources
-	- [ ] Minimizing / "So-Called"
-	- [x] Repudiating the Journal of Discourses
+	- [ ] All or Nothing
+	- [ ] Conflation of terms
+	- [ ] Cultural changes over time
+	- [ ] Dont look for info elsewhere
+	- [ ] Emotion regulation
+	- [ ] Equivocation
+	- [ ] How to handle Uncertainty
+	- [ ] Illusory truth
+	- [ ] Informed consent
+	- [ ] Martyrdom
+	- [ ] Misogyny
+	- [ ] Obedience
+	- [ ] Perfectionism
 	- [ ] Persecution Complex
-	- [x] Privilege
+	- [ ] Post-mortum promises
 	- [ ] Prosperity Gospel
-	- [x] Scrupulosity
-- [x] Doctrines
-	- [ ] Agency (Moral / Free?)
-	- [ ] Law of Chastity (self-abuse 😱)
-	- [ ] Polygamy: Temple Lot Case
-	- [ ] Priesthood Authority
-	- [ ] Priesthood & Discernment (Mark Hoffman)
-	- [ ] "Revelations" from God
-- [ ] "Doesn't appear in the scriptures"
-- [ ] James Strang
-- [ ] Massacre: Fort Utah
-- [ ] Massacre: Mountain Meadows
-- [x] Modern Church
-	- [ ] Auxiliary branches
-	- [ ] Church Internal Audit Department
-	- [ ] Ensign Peak
-	- [ ] Family, Proclamation to the World
-	- [ ] For-profit ventures / Beneficial Life
-	- [x] Historians
-	- [ ] Membership & attendance statistics
-	- [ ] NDA's / Nondisclosure Agreements
-	- [ ] November 2015
-	- [x] Whitewashing History
-- [ ] MOON MEN
-- [ ] *Preach My Gospel* (1st edition)
-	- [ ] 1 - Restoration
-	- [ ] 2 - Plan of Salvation
-	- [ ] 3 - Gospel of Christ
-	- [ ] 4 - Commandments
-	- [ ] 5 - Laws & Ordinances
-- [ ] Promptings
-- [x] Prophets
-	- [ ] George A Smith
-	- [ ] Gordon Hinckley
-	- [ ] Joseph Smith
-		- [ ] Legal Trouble
-		- [x] Overhaul *First Vision* notes
-	- [x] Russel M Nelson
-		- [x] Airplanes
-	- [ ] Thomas S Monson
-	- [ ] Wilford Woodruff
+	- [ ] Proudly calling self a mormon
+	- [ ] Rationalization
+	- [ ] Responsibility and Accountability
+	- [ ] Self-harm
+	- [ ] Service
+	- [ ] Shame
+	- [ ] the learned think they are wise
+	- [ ] Truth and objectivity
+- [ ] Doctrines
+	- [ ] Adam-God
+	- [ ] Afterlife
+	- [ ] Belief vs Feelings
+	- [ ] Chastity
+	- [ ] Forgiveness
+	- [ ] god shagged mary
+	- [ ] McConkie Mormon Doctrine
+	- [ ] Ordinances done TO you
+	- [ ] Polygamy and John Taylor
+	- [ ] polygamy denial
+	- [ ] polygamy generally
+	- [ ] Pre-mortal valiance and disabilities
+	- [ ] *Preach My Gospel* (1st edition)
+		- [ ] 1 - Restoration
+		- [ ] 2 - Plan of Salvation
+		- [ ] 3 - Gospel of Christ
+		- [ ] 4 - Commandments
+		- [ ] 5 - Laws & Ordinances
+	- [ ] Priesthood authority
+	- [ ] Priesthood restoration
+	- [ ] Priesthood Discernment - Mark Hoffman
+	- [ ] Quincy Whig
+	- [ ] Resurrection
+	- [ ] Revelation from God
+	- [ ] Salvation - Impossible Gospel TODO
+	- [ ] Salvation wip
+	- [ ] Temple lot legal case
+	- [ ] Temple
+	- [ ] Word of Wisdom
+		- [ ] WoW Changes
+	    - [ ] WoW generally
+	    - [ ] WoW Origins
+- [ ] History
+	- [ ] 1890 church got annulled
+	- [ ] Massacres
+	- [ ] Volcano
+- [ ] JS todo
+	- [ ] Adamic Language - Etymology
+	- [ ] Failed prophecies
+	- [ ] First Vision - Tiffany Monthly
+	- [ ] First Vision concealment
+	- [ ] First Vision WIP
+	- [ ] First-Vision-Comparision-Table.pdf
+	- [ ] Leg surgery
+	- [ ] Legal Trouble and Fraud
+	- [ ] lucy smith todo
+	- [ ] Nauvoo Expositor
+	- [ ] Ondemand revelation
+	- [ ] Plagierism
+	- [ ] Polygamy - dirty nasty affair
+	- [ ] Polygamy and Properties
+	- [ ] Seer stone story
+	- [ ] shifting the blame
+	- [ ] Unsorted JS notes
+	- [ ] Wentworth Letter
+- [ ] LGBT Todo
+	- [ ] Anti-LGBT quotes from leaders
+	- [ ] LDS vs LGBT
+	- [ ] Lgbt copy post
+	- [ ] LGBT wip
+	- [ ] more quotes from leaders
+	- [ ] Nov 2015 policy of exclusion
+	- [ ] Oaks interview
+	- [ ] pro lgbt
+- [ ] Modern Church
+    - [ ] Accountability of leadership
+    - [ ] Auxiliary branches
+    - [ ] bullet list of commandments - mosaic law
+    - [ ] By their fruits ye shall know them
+    - [ ] Callings
+    - [ ] Church Internal Audit dept
+    - [ ] Church Meetings
+    - [ ] Compare to other faiths
+    - [ ] Cult BITE model
+    - [ ] Ensign Peak
+    - [ ] Family proclamation to world
+    - [ ] History Whitewashing
+    - [ ] Immigration
+    - [ ] Kerry Muhlstein
+    - [ ] Misogyny
+    - [ ] Missions
+    - [ ] Modern church
+    - [ ] name of mormon
+    - [ ] Nondisclosure Agreements
+    - [ ] Numbers membership stats
+    - [ ] obfuscating info
+	- [ ] Reed Smoot Hearings
+    - [ ] Reactionary
+    - [ ] Studies academic
+    - [ ] Swedish Rescue
+    - [ ] Technology
+    - [ ] Temple construction costs
+    - [ ] you are a chosen generation
+- [ ] Nelson
+	- [ ] Nelson birthdays
+	- [ ] Nelson misc
+	- [ ] Nelson narcissism
+	- [ ] Nelson Social media fast
+	- [x] Nelson's plane
+- [ ] Prophets
+	- [ ] Bonkers Quotes from Leaders
+	- [ ] Ignore past prophets plz
+	- [ ] Prophets generally
+	- [ ] Shitty talks
+	- [ ] temporary commandments
+	- [ ] Verifiably false statements
+	- [ ] Specific people
+		- [ ] Bednar
+		- [ ] Boyd K Packer
+		- [ ] Brigham Young todo
+		- [ ] Christofferson
+		- [ ] Dallin H Oaks
+		- [ ] Ezra Benson
+		- [ ] George Albert Smith
+		- [ ] Gordon Hinckley
+		- [ ] Harold B Lee
+		- [ ] Lorenzo Snow
+		- [ ] M Russell Ballard
+		- [ ] Mark E Petersen
+		- [ ] Pearson
+		- [ ] Quentin L Cook
+		- [ ] Spencer kimball
+		- [ ] Thomas S Monson
+		- [ ] Wilford Woodruff
 - [ ] Questions to ask
-- [x] Race
-	- [ ] Bob Jones University & BYU
-	- [ ] More quotes from prophets
-- [ ] Reed Smoot Hearings
-- [ ] Statehood of Utah
-- [ ] Temples
-- [ ] Temple worthiness
-- [x] Testimony, faith, bias
-- [ ] Tithing > Lawsuits
-- [ ] Women & Misogyny
-- [x] Word of Wisdom
-	- [ ] Origins
-	- [ ] Changes over time
+	- [ ] things i wish i knew sooner
+	- [ ] Unanswered questions
+- [ ] Race
+	- [ ] BJU
+	- [ ] byu sports
+	- [ ] Prophet quotes on race
+	- [ ] race generally
+- [ ] Scripture todo
+	- [ ] bible king james
+	- [ ] Book of Abraham
+	- [ ] Book of Commandments to DC
+	- [ ] dc 132 again
+	- [ ] John the baptist
+	- [ ] Plagiarism
+	- [ ] Scripture translation - PJJ
+	- [ ] That term does not appear in scripture
+- [ ] tithing todo
+	- [ ] Beneficial Life
+	- [ ] Changes to tithing as doctrine
+	- [ ] Public Info
+	- [ ] SEC notes
+	- [ ] Tithing lawsuit
+	- [ ] tithing WIP
 
 &nbsp;
 
 ## Other
+I do have a big dump of *stream-of-consciousness* notes, too messy to copy here. I'll make adjustments as they come.
+
 - [ ] Consolidate notes on *Moroni’s Promise*
 	- They’re kind of interspersed through different pages, I ought to put them together for cohesion
+- [ ] Bullet List for quick reference

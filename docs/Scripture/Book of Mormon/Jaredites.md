@@ -10,7 +10,7 @@ comments: true
 &nbsp;
 
 ### Seeing God
-The brother of Jared is described as having like the most faith ever, and so he was able to [see God’s finger](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p6-p8#p6)… but Joseph Smith literally just prayed once and he got to see both Heavenly Father and Jesus. Their *full bodies*. Should we believe this means Joseph was super, uber, ultra-specially faithful prior to the [[first-vision|first vision(s)]]?
+The brother of Jared is described as having like the most faith ever, and so he was able to [see God’s finger](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p6-p8#p6)… but Joseph Smith literally just prayed once and he got to see both Heavenly Father and Jesus. Their *full bodies*. Should we believe this means Joseph was super, uber, ultra-specially faithful prior to the [[First Vision|first vision(s)]]?
 
 &nbsp;
 

@@ -53,9 +53,7 @@ Classic story in Book of Mormon lore. Broadly speaking, Alma Junior is the son o
 Alma the Younger's story appears second-hand in Mosiah 27 and first-person in Alma 36. Here's a brief summary of the redemption process, with links to relevant passages:
 
 - Alma is ==struck down== by the angel, ==rendered motionless== for three days. [Mosiah 27:19, 23](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p19,p23#p19), [Alma 36:10](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=eng&id=p10#p10)
-
 - Still conscious, Alma recognizes his helplessness and calls on God for mercy, and is instantly saved by the grace of God. [Mosiah 27:24-31](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p24-p31#p24), [Alma 36:17-18](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=eng&id=p17-p18#p17), [23-27](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=eng&id=p23-p27#p23)
-
 - Upon arising after being struck down, Alma proclaims being "redeemed of the Lord," ==past tense==. It's happened. The process took place and completed. [Mosiah 27:24-25](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p24-p25#p24)
 
 Alma was saved by grace, and all he had to do was ask. No works needed! In fact, one could argue that the works he had done up ==were evil== up to the point of being struck down. Alma was not saved because of anything he did. In fact, the opposite, he is saved by grace despite everything he did. Once again, I'll point to the [semantic exploration](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p10#p10) of being saved in sins, and from sins.

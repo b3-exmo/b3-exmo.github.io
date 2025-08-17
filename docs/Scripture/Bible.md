@@ -111,6 +111,17 @@ The only other name that comes to mind for biblical scholars is one [Dan McClell
 
 &nbsp;
 
+### Alternative Versions
+The LDS church certainly has demonstrated its propensity for the KJV. Are there exceptions to this?
+
+The only exception I've found to date (I imagine I'll find more in the future, but who knows) is from 2016 October General Conference comes from a fellow named Dieter Uchtdorf. A proper crowd-pleaser, that one is.
+
+Uchtdorf gave a talk called [Fourth Floor, Last Door](https://www.churchofjesuschrist.org/study/general-conference/2016/10/fourth-floor-last-door?lang=eng), which I remember listening to as a heartwarming tale about perseverance, and caring for those outside of convenient reach. If you were to open up the "related content" on the page, either on mobile or on a browser, you see the footnotes referenced. This talk has an unusual number of citations of the *New International Version*. Check for yourself.
+
+This isn't some groundbreaking discovery hidden from the unwitting masses, of course&mdash;I simply find it noteworthy that so much of church leadership demands KJV exclusivity, and this is an exception.
+
+&nbsp;
+
 ## Who can translate?
 > *Now Ammon said unto him: I can assuredly tell thee, O king, of a man ==that can translate the records==; for he has wherewith that he can look, and translate all records that are of ancient date; and ==it is a gift from God==. And the things are called interpreters . . . [a]nd whosoever is commanded to look in them, ==the same is called seer==.*
 
@@ -160,7 +171,7 @@ The audacity?
 
 — *[Introduction page to the Joseph Smith Translation of the Bible](https://www.churchofjesuschrist.org/study/scriptures/jst/introduction?lang=eng)*
 
-Oh. It’s not… It’s not even a translation? It’s a revelation accompaniment? Why are we calling it translation? It says right there it isn’t translation.
+Oh. It… *It’s not even a translation*? It’s a revelation accompaniment? Why are we calling it translation? It says right there it isn’t translation.
 
 &nbsp;
 
@@ -173,15 +184,6 @@ Oh. It’s not… It’s not even a translation? It’s a revelation accompanime
 — *[What is the nature of the Joseph Smith Translation (JST)?](https://www.fairlatterdaysaints.org/answers/The_Joseph_Smith_Translation_of_the_Bible)*, FAIR
 
 🙄 "To some extent" is the qualifier that lets us pick and choose when this [book of scripture](https://www.churchofjesuschrist.org/study/scriptures/jst?lang=eng) is actually scripture. Was Joseph just "acting as a man" while using his theological position of authority to correct existing records of other prophets? If this is no big deal, then it should be handled with equal credence to any other biblical commentary, and not be presented as "our founding prophet added corrections to an ancient document; we trust him to do this because he's super good at translating ancient documents."
-
-### Alternatives
-The LDS church certainly has demonstrated its propensity for the KJV. Are there exceptions to this?
-
-The only exception I've found to date (I imagine I'll find more in the future, but who knows) is from 2016 October General Conference&mdash;a fellow named Dieter Uchtdorf, a proper crowd-pleaser, that one is.
-
-Uchtdorf gave a talk called [Fourth Floor, Last Door](https://www.churchofjesuschrist.org/study/general-conference/2016/10/fourth-floor-last-door?lang=eng), which I remember listening to as a heartwarming tale about perseverance, and caring for those outside of convenient reach. If you were to open up the "related content" on the page, either on mobile or on a browser, you see the footnotes referenced. This talk has an unusual number of cirations of the *New International Version*. Check for yourself.
-
-This isn't some groundbreaking discovery hidden from the unwitting masses, of course&mdash;I simply find it noteworthy that so much of church leadership demands KJV exclusivity, and this is an exception.
 
 &nbsp;
 
@@ -209,7 +211,7 @@ I'll point out that this certainly appears to be the same Thomas Wayment who pub
 ### Why not publish JST more clearly?
 There exists an Ensign article about this exact matter: *[Why does the LDS edition of the Bible not contain all of the corrections and additions made by Joseph Smith?](https://www.churchofjesuschrist.org/study/ensign/1992/06/i-have-a-question/why-does-the-lds-edition-of-the-bible-not-contain-all-of-the-corrections-and-additions-made-by-joseph-smith?lang=eng)*
 
-I had always assumed that it's because Mormons didn't want to "weird out" the rest of Christianity by sharing the same traditional printed copy, thereby avoiding the awkward encounter of a practicing LDS member "misunderstanding" a verse the way mainstream Christians do. I don't know that this was ever explicitly told to me.
+I had always assumed that it's because Mormons didn't want to "weird out" the rest of Christianity, and so they share the same traditional printed copy to avoid the awkward encounter of a practicing LDS member "misunderstanding" a verse the way mainstream Christians do. I don't know that this was ever explicitly told to me.
 
 I've run this Ensign article through a word counter tool, and deemed that it uses *636 words* in *12 paragraphs* to tell you amid many non-sequiturs that all of ~~Adam Clarke~~ Joseph Smith's corrections would just take up too much space to print.
 
