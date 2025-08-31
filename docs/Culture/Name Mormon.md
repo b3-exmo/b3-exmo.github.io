@@ -211,7 +211,7 @@ If God is offended when Christ’s name ~~gets taken out of the church~~ is omit
 >
 > *... for thus shall my Church be called in the Last days even ==the Church of Jesus Christ of Latter Day Saints==.*
 
-Eight years after being established, its proper name is revealed. Now it has the name we’re familiar with. I'll reiterate for emphasis that the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) / 75 = 38.9~` times longer than a foundational book. Make it make sense.
+Eight years after being established, its proper name is revealed. Now it has the name we’re familiar with. I'll reiterate for emphasis that the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) ÷ 75 = 38.9~` times longer than a foundational book. Make it make sense.
 
 "church in Zion" also sounds like it's being presented (by revelation, no less) as the name of the religious organization headed by Joseph Smith, but I guess that's not the point we should focus on. Iterating this formally in [D&C 115](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=eng&id=4#p4) ought to settle it.
 

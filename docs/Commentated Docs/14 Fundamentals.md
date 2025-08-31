@@ -6,7 +6,7 @@ comments: true
 
 The link above is to the Ensign magazine, reprinting the [address given in BYU](https://speeches.byu.edu/talks/ezra-taft-benson/fourteen-fundamentals-following-prophet/) in February, 1980. I won't repost the entire speech, but show some excerpts with comments.
 
-It's worth acknowledging that as of [October '79,](https://www.churchofjesuschrist.org/study/general-conference/1979/10/the-sustaining-of-church-officers?lang=eng&id=p5#p5) Benson was not the president of the church, but the "President of the Council of the Twelve," which I suppose is what we'd call today the senior apostle. The Ensign distribution of this talk was in '81. When Elder Benson here is talking about "the prophet", at the time of the speech he was talking about Spencer Kimball, but there's no way that Benson didn't see the writing on the wall&mdash;Benson is next in line. Benson *will be* "the prophet" soon, so he can get this faith-promoting address in now so he doesn't sound quite so much like a tyrant who destroys, reigning with blood and horror upon the earth.
+It's worth acknowledging that as of [October '79,](https://www.churchofjesuschrist.org/study/general-conference/1979/10/the-sustaining-of-church-officers?lang=eng&id=p5#p5) Benson was not the president of the church, but the "President of the Council of the Twelve," which I suppose is what we'd call today the senior apostle. The Ensign distribution of this talk was in '81. When Elder Benson here is talking about "the prophet", at the time of the speech he was talking about Spencer Kimball, but there's no way that Benson didn't see the writing on the wall: *Benson is next in line*. Benson *will be* "the prophet" soon, so he can get this faith-promoting address in now so he doesn't sound quite so much like a tyrant who destroys, reigning with blood and horror upon the earth.
 
 &nbsp;
 
@@ -122,7 +122,7 @@ If you heard this said about [David Miscavige](https://en.wikipedia.org/wiki/Dav
 
 Yeah. There's something to be said about years of rigorous study versus warm fuzzy feelings in your tum-tums.
 
-I've only got an undergrad bachelor's degree in information systems & business intelligence—arguably what gave me the mindset of skeptical analysis that [[My own experience|drives my religious deconstruction]]. But if President Nelson somehow cornered me and wanted to tell me about statistics, I would treat his words with the same skepticism as any other claim. If what he says in this made-up scenario is contrary to what I know already, I'm not about to disregard four years of schooling and bet my career on a centenarian's advice at face value.
+I've only got an undergrad bachelor's degree in information systems & business intelligence, arguably what gave me the mindset of skeptical analysis that [[My own experience|drives my religious deconstruction]]. But if President Nelson somehow cornered me and wanted to tell me about statistics, I would treat his words with the same skepticism as any other claim. If what he says in this made-up scenario is contrary to what I know already, I'm not about to disregard four years of schooling and bet my career on a centenarian's advice at face value.
 
 &nbsp;
 
@@ -221,7 +221,7 @@ And here I am scrutinizing this Brigham Young quote while Benson just asserted t
 
 Bigger yikes
 
-The notes to [rationalize this claim](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p54#p54) are quite a sight— Alma in the BoM, Joseph & Brigham, and 3 Nephi's appearance of Jesus. How's *that* for objectivity 😏
+The notes to [rationalize this claim](https://www.churchofjesuschrist.org/study/liahona/1981/06/fourteen-fundamentals-in-following-the-prophet?lang=eng&id=p54#p54) are quite a sight! Alma in the BoM, Joseph & Brigham, and 3 Nephi's appearance of Jesus. How's *that* for objectivity 😏
 
 &nbsp;
 

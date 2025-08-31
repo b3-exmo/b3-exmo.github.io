@@ -92,7 +92,7 @@ Deceased people can't come back to church leadership to say "hey, you lied! This
 
 Earlier I mentioned the null case for eternal marriage meaning that God will forcibly divorce us, unless the right subgroup of people perform posthumous sealings for us in the temple. That further weakens the argument that it's a requirement. If it can be done in behalf of someone else, and we've got all of eternity to get through the backlog, then what's the point?
 
-Ostensibly, we could have one person iterate through baptisms in behalf of everyone else, or one couple be sealed by proxy for everyone else. After all, they have all of eternity to do it. Or, perform the ordinance once in behalf of all of humankind in one grand gesture, rather than sequentially. I think there's even a religious term in Christianity for a designated sole performer of a saving ordinance, actually&mdash; something like "the anointed one," close to the Greek word *Kristos*, anglicized as Christ, the Redeemer, the Messiah... 
+Ostensibly, we could have one person iterate through baptisms in behalf of everyone else, or one couple be sealed by proxy for everyone else. After all, they have all of eternity to do it. Or, perform the ordinance once in behalf of all of humankind in one grand gesture, rather than sequentially. I think there's even a religious term in Christianity for a designated sole performer of a saving ordinance, actually... something like "the anointed one," close to the Greek word *Kristos*, anglicized as Christ, the Redeemer, the Messiah... 
 
 &nbsp;
 

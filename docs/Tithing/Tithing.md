@@ -40,7 +40,7 @@ This number is difficult to nail down, seeing how the church doesn't publish any
 
 &nbsp;
 
-[[Audits|Internal audits]] promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie&mdash;the church most certainly has budgets, policies, procedures, etc, and perhaps amassing hundreds of billions doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
+[[Audits|Internal audits]] promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie; the church most certainly has budgets, policies, procedures, etc, and perhaps amassing hundreds of billions doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
 
 &nbsp;
 
@@ -283,7 +283,7 @@ Boy, this... This is quite the sight. They sure seem excited about this project.
 &nbsp;
 
 #### What it is *not*
-I don't think I need to point out that the City Creek project is not a homeless shelter, not a soup kitchen, not a hospital, not a food bank, not subsidized housing— not even *affordable* housing— it's a shopping mall for upper-middle class folks. Rent there is $[2,329](https://www.apartments.com/city-creek-landing-salt-lake-city-ut/4q97s7j/) - $[6,533](https://www.homes.com/property/city-creek-landing-salt-lake-city-ut/1kzy718my8b8y/), as of March 2024. The low end of that range costs more than my mortgage, taxes, and HOA dues combined. Those links are to third party sites, because to no one's surprise, [City Creek Landing](https://www.citycreeklanding.com/floorplans)'s official site doesn't list the rent; only the deposit.
+I don't think I need to point out that the City Creek project is not a homeless shelter, not a soup kitchen, not a hospital, not a food bank, not subsidized housing—not even *affordable* housing—it's a shopping mall for upper-middle class folks. Rent there is $[2,329](https://www.apartments.com/city-creek-landing-salt-lake-city-ut/4q97s7j/) - $[6,533](https://www.homes.com/property/city-creek-landing-salt-lake-city-ut/1kzy718my8b8y/), as of March 2024. The low end of that range costs more than my mortgage, taxes, and HOA dues combined. Those links are to third party sites, because to no one's surprise, [City Creek Landing](https://www.citycreeklanding.com/floorplans)'s official site doesn't list the rent; only the deposit.
 
 &nbsp;
 
@@ -315,7 +315,7 @@ Yes, the Church is within its rights to do this. They're accountable only to the
 
 ***However...***
 
-Imagine seeing the Catholic Church buying up some established McDonald's franchises. Imagine the JW's Watchtower buying ownership of plastics manufacturing. 7th day Adventist owning a bus fleet, or railway.
+Imagine seeing the Catholic Church buying up some established McDonald's franchises. Imagine the JW's Watchtower buying ownership of plastics manufacturing. 7th day Adventist owning a bus fleet or railway.
 
 Now picture the LDS church owning a shopping mall and apartment complex. 
 

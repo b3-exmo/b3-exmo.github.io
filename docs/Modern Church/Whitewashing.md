@@ -19,7 +19,7 @@ While serving as church historian, Joseph F. Smith physically removed pages from
 
 &nbsp;
 
-I've got an entire page of notes concerning the First Vision, and I'll go into more detail on [[First Vision Concealment#Joseph Fielding Smith (1876 - 1972)|an account's concealment on that page]]. For this excerpt, I'll be satisfied with that superficial overview, along with some links for further reading:
+I've got an entire page of notes concerning the First Vision, and I'll go into more detail on [[First Vision Concealment#Historian Joseph Fielding Smith]]. For this excerpt, I'll be satisfied with that superficial overview, along with some links for further reading:
 
 Descriptions:
 

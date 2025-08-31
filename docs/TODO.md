@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-# 🗒️ TODO
+v# 🗒️ TODO
 ## Functional
 
 - [ ] [[Changes#Enumeration of Changes|Book of Mormon Edition Changes]]
@@ -21,11 +21,15 @@ I'm not entirely certain, but I think I might be using ellipses improperly for a
 &nbsp;
 
 ### Em Dashes
-One big item that I'm going to need to tackle *eventually* is my use of *em dashes*. They're not inherently bad or wrong, but my understanding is that they're a telltale sign of AI-generate content. I don't have a whole lot of experience using AI for text generation, but my limited experience is that yes, LLM's sure do like using em dashes more than biological humans in meatspace do. To date, I haven't used any AI on this site's content. I don't expect that I will, either.
+One big item that I'm going to need to tackle *eventually* is my use of *em dashes*. They're not inherently bad or wrong, but my understanding is that they're a telltale sign of AI-generate content. I don't have a whole lot of experience using AI for text generation, but my limited experience is that yes, LLM's sure do like using em dashes more than biological humans in meatspace do. To date, ==I haven't used any AI on this site's content==. I don't expect that I will, either.
 
-If you were to look through the [commit history](https://github.com/b3-exmo/b3-exmo.github.io/commits/main/) for these pages of notes, you'd find how many times I use [HTML entities](https://www.freeformatter.com/html-entities.html) for unusual characters. That's because I can't be arsed to remember which unicode combination resolves to the character I'm imagining, so typing in `&mdash;` is easier. I also make [liberal use](https://github.com/search?q=repo%3Ab3-exmo%2Fb3-exmo.github.io+%22%26nbsp%3B%22&type=code) of `&nbsp;` for whitespace and line breaks. It makes the unrendered text harder to read, but it's meant to be consumed after rendering, so it's a non-issue (to me)
+If you were to look through the [commit history](https://github.com/b3-exmo/b3-exmo.github.io/commits/main/) for these pages of notes, you'd find how many times I use [HTML entities](https://www.freeformatter.com/html-entities.html) for unusual characters. That's because I can't be arsed to remember which unicode combination resolves to the character I'm imagining, so typing in `&mdash;` is easier. I also make [liberal use](https://github.com/search?q=repo%3Ab3-exmo%2Fb3-exmo.github.io+%22%26nbsp%3B%22&type=code) of `&nbsp;` for whitespace and line breaks. It makes the unrendered text harder to read, but it's meant to be consumed after rendering, so that's a non-issue (to me)
 
 So at some point, I'll need to track down each and every em dash used to re-evaluate, because that's what *robots* use. *I guess*. It's on my to-do list.
+
+&nbsp;
+
+Update: as of late August 2025, I've removed most (but not all) `&mdash;` instances. A few stuck around because I think they fit. Next time I summon up some patience, I'll sort through the "actual" em-dashes that are not represented by an HTML entity.
 
 &nbsp;
 
@@ -116,6 +120,7 @@ For many of these topics, I do have some existing notes, but they aren't in a pr
 		- [ ] WoW Changes
 	    - [ ] WoW generally
 	    - [ ] WoW Origins
+	    - [x] CAFFEINE
 - [ ] History
 	- [ ] 1890 church got annulled
 	- [ ] Massacres

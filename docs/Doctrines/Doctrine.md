@@ -12,17 +12,19 @@ The LDS church claims to be led by God, who has authorized its prophetic leaders
 
 Maybe some things are doctrinal, meaning they are immutable and eternal, while other things from God are a bit more malleable. I sure hope that the church doesn't try to rationalize something like banning children of gay couples from being baptized as being just a plain ol' policy. That'd be a bad look. Or if they gatekept salvation from an entire race of humankind, and then downplay it as a "[[Essay Race Priesthood|disavowed theory]]." That would also be a bad look.
 
+&nbsp;
+
 In order to have a sensible discourse, we really should delineate what is doctrine and what is not. Until I find better definitions, I'm going with the following:
 
-- **Doctrine** is what we find in scripture, during conference talks, revelation by the acting prophets. Commonality between these is that the words can be traced back to, and ascribed to God.
+- **Doctrine** is what we find in scripture, during conference talks, revelation by the acting prophets. The commonality between these is that the words can be traced back to, and ascribed to God.
 
-- **Policy** is more secular. Rules, handbooks, organization of the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose these would be philosophies of men, mingled with scripture.
+- **Policy** is more secular. Rules, handbooks, structures within the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose these would be philosophies of men, mingled with scripture.
 
 Here's where problems arise. The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are *doctrinal*. Things like [the stocks for people to buy and fund Joseph Smith’s mansion](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?id=p71-p72&lang=eng#p71), virginity being a [[DC 132#61 to 63|circumvention against adultery]], God [abandoning you if you're disobedient](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12), and clearly outlining [[Second Coming#When will it be?|the year of Christ's return]]. You know, things that are *doctrinal*. Unchanging.
 
 If simple "policy" can keep somebody from participating in saving ordinances, then policy carries the same weight as doctrine.
 
-Behind every policy of the church, there's doctrine. Without doctrine to back policy, it has no justification, no grounds, no purpose. The hierarchical structure of the church (first presidency, quorum of 12, quorum of 70, area authorities, stake presidencies, bishopric) pertains to the workings of the earthly, mortal organization that makes up "the church." 
+Behind every policy of the church, there's doctrine. Without doctrine to back policy, it has no justification, no grounds, no purpose. The hierarchical structure of the church (first presidency, quorum of 12, quorum of 70, area authorities, stake presidencies, bishopric) pertains to the workings of the earthly, mortal organization that makes up "the church." Is that hierarchy just a policy, or is it doctrinal?
 
 &nbsp;
 

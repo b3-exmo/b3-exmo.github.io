@@ -21,11 +21,11 @@ What, _specifically_, does the Bible lack that the Book of Mormon clears up? Wha
 - Infant Baptism is wrong
 - ???
 
-People wouldn’t have worried about their baby dying before being baptized if they had ==temples== where the work could later be done by proxy. If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism. If the age of accountability is an eternal principle, then Nephites wouldn’t be bothered at all— outside of the standard emotional reaction to the loss of a loved one, of course.
+People wouldn’t have worried about their baby dying before being baptized if they had ==temples== where the work could later be done by proxy. If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism. If the age of accountability is an eternal principle, then Nephites wouldn’t be bothered at all, outside of the standard emotional reaction to the loss of a loved one, of course.
 
 &nbsp;
 
-Does it *demonstrate the need* for prophets? There are no LDS doctrines are in there:
+Does this book *demonstrate the need* for prophets? There are no LDS doctrines are in there:
 
 - Temples
 - Temple ordinances
@@ -40,7 +40,7 @@ Does it *demonstrate the need* for prophets? There are no LDS doctrines are in t
 
 &nbsp;
 
-If this book was true, the Book of Mormon’s main value would be a witness that Christ visited somewhere on the American continents and briefly ministered to the indigenous peoples within a small radius of His “landing spot.” **But if you already believe in Christ, that is basically just a fun fact.** Jesus presents no meaningfully new information, but his teachings are a direct copy of the KJV New Testament. It's enough to lead a skeptical reader to not see this testament of Christ as being very useful. The Book of Mormon supports the idea of “other sheep I have which are not of this fold”… but that is a bit vague in and of itself. Could have just as easily gone to Cape Town in South Africa. Or Mongolia. 
+If this book was true, the Book of Mormon’s main value would be a witness that Christ visited somewhere on the American continents and briefly ministered to the indigenous peoples within a small radius of where He “landed.” But if you already believe in Christ, that is basically just a fun trivia fact. Jesus presents no meaningfully new information, but his teachings are a direct copy of the KJV New Testament. It's enough to lead a skeptical reader to not see this testament of Christ as being very useful. The Book of Mormon supports the idea of “other sheep I have which are not of this fold”… but that is a bit vague in and of itself. Could have just as easily gone to Cape Town in South Africa or to Mongolia. 
 
 If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]] church, it seems to leave a lot out. So much of the modern LDS church seems to be founded on the Doctrine & Covenants, or the Pearl of Great Price. Those books aren't pushed nearly as hard in missionary efforts as a demonstration of a modern restoration. Why is that?
 
@@ -59,9 +59,9 @@ If the Book of Mormon is meant to be evidence of [[Restoration|a fully restored]
 
 God rewards your obedience and righteousness with a reward that ultimately corrupts you, bringing you to fall. God keeps perpetuating this cycle, and is going to keep the Lamanites a short distance away to use as a punishing tool for when you *obey too much*.
 
-Who breaks the cycle? Is it us? Are we meant to **not** be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle— God is the one who keeps blessing us. I won't be prideful anymore if God stops *making* me prideful. 
+Who breaks the cycle? Is it us? Are we meant to **not** be corrupted by God when he blesses us? Don't forget that we're not alone in this perpetual cycle; God is the one who keeps blessing us. I won't be prideful anymore if God stops *making* me prideful. 
 
-God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually— you'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much... and so the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it my fault that God made me become prideful whenever God blesses me? [[What are blessings|What is a blessing]], anyway? It seems that God wants me to be humble and obedient, but as soon as I become humble and obedient, God "blesses" me with pride. What the hell, God?
+God has had a more than a few years of experience with this cycle, and we also revere God as our father who knows us personally and individually. You'd think he'd know the appropriate amount of 'bless' to bestow, and it always seems to be too much... and so the pride cycle continues. Is it the fault of me, an imperfect mortal, susceptible to corruption? Is it *my* fault that God made me become prideful whenever God blesses me? [[What are blessings|What is a blessing]], anyway? It seems that God wants me to be humble and obedient, but as soon as I become humble and obedient, God "blesses" me with pride. What the hell, God?
 
 &nbsp;
 
@@ -78,9 +78,9 @@ If one were to studiously read through the BoM multiple times in a year, as is a
 
 — _[Mosiah 3:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng&id=p19#p19)_
 
-One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father— the whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god— we're growing up, we're godlings, we're little wimpy baby gods. Right?
+One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father. The whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god. We're growing up, we're godlings, we're little wimpy baby gods. Right?
 
-But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and He made us that way. [[Theology#God's Plan|Why does God hate His creations]]? By our very nature, by God's design, we His enemies. We're not God's enemies because of anything *we did*. What the hell, God?
+But... This set of scripture that Moroni had to go through such great efforts to preserve for Joseph Smith to translate is telling us we're God's enemy, and He made us that way. [[Theology#God's Plan|Why does God hate His creations]]? By our very nature, by God's design, we are His enemies. We're not God's enemies because of anything *we did*. What the hell, God?
 
 &nbsp;
 
@@ -91,7 +91,7 @@ Props to John Larsen for presenting and illustrating this idea in [his podcast](
 >
 > *Imagine a parent in the mall scolding their child, saying "you little shit, you are an enemy to me! You have been since the day you were born, and always will be unless you do what I tell you to do. You have to do everything I say or else you're my enemy." One step further, "you will never* not *be my enemy, unless I punish your brother. You, on your own, will never be good enough."*
 
-I think it's a useful illustration— if our relationship to God is like that of a father and child, we can imagine literally a father and child having such an interaction as a third party.
+I think it's a useful illustration. If our relationship to God is like that of a father and child, we can imagine literally a father and child having such an interaction as a third party.
 
 How do you react in this imagined scenario? Do you think "wow that father sure loves his kids. Wish my dad was that chill." Or do you call CPS?
 

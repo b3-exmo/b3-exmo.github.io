@@ -3,12 +3,12 @@ comments: true
 created: 2025-08-13
 ---
 # 🤼 Contemporaries
-In some accounts of the [[First Vision]], Joseph remarks that nobody believes his story. It's not clear to me how much effort he put into proliferating his experience&mdash;if he was met with resistance at every turn, that would diminish his drive to spread the word. I should expect some other folks to record what they heard Joseph say, even if it's with contempt. So what do Joseph's contemporaries have to say about the miraculous appearance?
+In some accounts of the [[First Vision]], Joseph remarks that nobody believes his story. It's not clear to me how much effort he put into proliferating his experience. If he was met with resistance at every turn, that would diminish his drive to spread the word. I should expect some other folks to record what they heard Joseph say, even if it's with contempt. So what do Joseph's contemporaries have to say about the miraculous appearance?
 
 &nbsp;
 
 ### Lucy Mack Smith
-If anyone within Joseph Smith's family would know about seeing God in 1820, I would think that his mother Lucy Mack Smith would. If anyone who hears Joseph's story would believe it, I would think that his immediate family would be most agreeable to it.
+If anyone within Joseph Smith's family would know about seeing God in 1820, I would think that his mother Lucy would. If anyone who hears Joseph's story would believe it, I would think that his immediate family would be most agreeable to it.
 
 So... what does his mother have to say about it?
 
@@ -22,7 +22,7 @@ See page 6 for typescript
 
 &nbsp;
 
-You'll notice that 1831 is right before Joseph wrote down about his experience&mdash;with his own scribeless hands, no less. The context for this letter, as I see it, is Lucy testifying to her brother Solomon Mack about the forthcoming of the Book of Mormon.
+You'll notice that 1831 is right before Joseph wrote down about his experience with his own scribeless hands, no less. The context for this letter, as I see it, is Lucy testifying to her brother Solomon Mack about the forthcoming of the Book of Mormon.
 
 I can concede that Joseph report numerous angelic visitations, even some surrounding the process of obtaining the Book of Mormon's source material. I don't recall the [[The Plates#Was it Moroni, or Nephi?|angel Nephi and/or Moroni]] granting Joseph power to translate, nor that the book proves that the world is in apostasy, all churches are corrupt, and that Christ's gospel will be restored. Those events sound like what Joseph said were part of (some accounts of) the First Vision. ... I would think that if Joseph told Lucy that he had seen God, Lucy might mention that? It really looks to me like she's talking about the First Vision, but associating that with an unnamed angelic visitor rather than, you know, God.
 
@@ -193,7 +193,7 @@ I personally, subjectively, will argue that some of these data points are worthl
 
 Does an account's mention of Joseph reading scriptures lend to its credibility? Does it have any bearing on God the Father and Jesus Christ appearing to restore the one true church? If a table has a boolean `TRUE` on every single column, then why is it even included? If you're trying to make a visually striking graph, then sure, add extraneous information. You could just as meaningfully have a field for "Joseph was feeling indigestion" or "had encountered nine hippopotamuses" with all columns indicating `FALSE`. Without any differentiation, why would it be included?
 
-He... he *prayed*? Holy shit, I had no idea. Good thing this table outlines an affirmative for Joseph Smith's First Prayer including a prayer in every single given account. Pack it up, fellas&mdash;all the accounts are consistent. Time to get back to church.
+He... he *prayed*? Holy shit, I had no idea. Good thing this table outlines an affirmative for Joseph Smith's First Prayer including a prayer in every single given account. Pack it up, fellas; all the accounts are consistent. Time to get back to church.
 
 &nbsp;
 

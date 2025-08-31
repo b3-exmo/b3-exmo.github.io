@@ -175,7 +175,7 @@ Sure wish I could find that letter to link to, so that this "outward expression"
 
 "I, in a position of authority, have difficulty *not* sexualizing 'young women,' and it is *their fault*. They're becoming porn. This is an outward expression of my inward repression, and definitely not at all related to my 1946 high school experience."
 
-Alright, tell me if this is too much of a stretch: this apostolic advice is directed toward "young women," the term used to describe girls between 12 - 17 in the church's youth program&mdash;or at least this was the case when I attended. Once women are preparing to go to the temple to either A) get married, or B) serve a mission, they are no longer in that youth program so this apostolic guidance doesn't apply. Is that fair? How else would you justify women's garment tops having the *shoulders* covered for the sake of "modesty," but still feature a plunging neckline? Am *I* projecting too much here, by implying that bared shoulders are less enticing than visible cleavage?
+Alright, tell me if this is too much of a stretch: this apostolic advice is directed toward "young women," the term used to describe girls between 12 - 17 in the church's youth program, or at least this was the case when I attended. Once women are preparing to go to the temple to either A) get married, or B) serve a mission, they are no longer in that youth program so this apostolic guidance doesn't apply. Is that fair? How else would you justify women's garment tops having the *shoulders* covered for the sake of "modesty," but still feature a plunging neckline? Am *I* projecting too much here by implying that bared shoulders are less enticing than visible cleavage?
 
 &nbsp;
 
@@ -188,7 +188,7 @@ Alright, tell me if this is too much of a stretch: this apostolic advice is dire
 
 It always bugged me when girls had these explicit parameters specified, and boys had "uh, you be modest too, I guess."
 
-Also, "young women should ... avoid clothing that is low-cut in the front[,]" like, I don't know, temple garments? I guess modesty is malleable, if we don't clarify how low of a cut is low-cut? To be fair, I'm not sure how I'd quantify that, given how humans come in a wide range of shapes, sizes, and proportions. If we'll insist that we don't call garments underwear, then they shouldn't have the same loose coverage of underwear?
+Also, "young women should ... avoid clothing that is low-cut in the front[,]" like, I don't know, temple garments? I guess modesty is malleable if we don't clarify how low of a cut is low-cut? To be fair, I'm not sure how I'd quantify lowness of a cut, given how humans come in a wide range of shapes, sizes, and proportions. If we'll insist that we don't call garments underwear, then they shouldn't have the same loose coverage of underwear?
 
 &nbsp;
 

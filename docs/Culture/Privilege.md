@@ -2,7 +2,7 @@
 comments: true
 ---
 # 👑 Privilege
-Amid writing, I've encountered things that a high-control religion like the LDS church wants its adherents to do. At face value, some of these things don't make sense, such as [[Tithing|paying 10% of your money]] with absolutely no accountability, or only wearing our [[Garments|special branded underpants]]. So how does an institution incentivize obedience to these commandments? We can use the ol' reliable "God said so," but in case that doesn't work, let's make the imperative hit closer to home&mdash;we'll tell you that *it's a privilege* to do what we tell you to do.
+Amid writing, I've encountered things that a high-control religion like the LDS church wants its adherents to do. At face value, some of these things don't make sense, such as [[Tithing|paying 10% of your money]] with absolutely no accountability, or only wearing our [[Garments|special branded underpants]]. So how does an institution incentivize obedience to these commandments? We can use the ol' reliable "God said so," but in case that doesn't work, let's make the imperative hit closer to home; we'll tell you that *it's a privilege* to do what we tell you to do.
 
 So I'd like to examine those claims. First, establish what the word means, and then find examples of it being used in LDS teachings. Yes, I am aware of the trope of Sacrament Meeting talks where the opening thesis statement is quoting Merriam-Webster, as if [George Merriam](https://en.wikipedia.org/wiki/George_Merriam) buying [Noah Webster](https://en.wikipedia.org/wiki/Noah_Webster)'s estate was by divine directive.
 
@@ -40,7 +40,7 @@ Speaking of...
 > 
 > ...
 > 
-> *You and I are now among those generations given the privilege to know and to live the law of the tithe.*
+> *You and I are now among those generations given ==the privilege to know and to live== the law of the tithe.*
 
 &mdash; *[Tithing: A Privilege](https://www.churchofjesuschrist.org/study/general-conference/1998/04/tithing-a-privilege?lang=eng&id=p3,p11#p3)*, Elder Ronald E. Poelman of the Seventy, General Conference 1998 April
 
@@ -53,7 +53,7 @@ I don't know about you, but if any other institution asked me for [[Tithing|10% 
 ## Temple Garments
 Imagine a parallel universe where *Fruit of the Loom* launches a new marketing campaign: "You might like other brands' products, but wearing our cotton briefs is *a privilege*. You don't want to squander that privilege, do you?"
 
-Next imagine if a religious institution tried to pull that shit. Oh, hold on&mdash;you [[Garments|don't have to imagine it]].
+Next imagine if a religious institution tried to pull that shit. [[Garments|Oh, wait]]...
 
 &nbsp;
 
@@ -71,7 +71,7 @@ Next imagine if a religious institution tried to pull that shit. Oh, hold on&mda
 
 &nbsp;
 
-"Mm? What's that? You don't want to wear our proprietary underclothes that absolutely must be covered? Wait&mdash;don't rationalize why your dirty heathen ass doesn't like it, not yet&mdash;not until I remind you... that buying yeast-infection underpants exclusively from us is actually a *privilege*. Does that change your opinion on the matter?"
+"Mm? What's that? You don't want to wear our proprietary underclothes that absolutely must be covered? Wait&mdash;don't rationalize *why* your dirty heathen ass doesn't like it, not yet&mdash;not until I remind you... that buying yeast-infection underpants exclusively from us is actually a *privilege*. Does *that* change your opinion on the matter?"
 
 &nbsp;
 

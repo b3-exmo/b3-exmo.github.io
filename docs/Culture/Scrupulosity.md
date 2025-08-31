@@ -27,7 +27,7 @@ For example, *[What are the Mormon rules?](https://faq.churchofjesuschrist.org/w
 
 > *The ==Mormon faith==, like all Christian religions, has rules by which to live. They are called commandments. Commandments are guiding principles from God intended to bring happiness. They are also sometimes called laws. Members of the faith are well known for a lifestyle that includes paying tithing, conservative dress and grooming, a law of health known as the Word of Wisdom, morality, honesty, integrity, Sunday Sabbath observance, and dedication to families and community.*
 
-Maybe we'll let that [[Name Mormon|victory for Satan]] slide this time&mdash;after all, we're trying to make a good impression to internet crawler bots.
+Maybe we'll let that [[Name Mormon|victory for Satan]] slide this time. After all, we're trying to make a good impression to internet crawler bots.
 
 &nbsp;
 

@@ -10,7 +10,7 @@ You and I, we as mortal humans, can do nothing to be saved. Instead, we are save
 
 &nbsp;
 
-Disclaimer: Most of these notes came from an episode of some podcast; I didn't take note of which one, assuring myself "nah, I'll remember which one." I did not. Once I dig through my backlog, I'll give credit where it's due.
+Disclaimer: Most of these notes came from an episode of [[Sources and Links#Podcasts & Shows|RFM]]'s podcast [episode 352](https://www.youtube.com/watch?v=CHS_fTKnqcI). I've taken many of the ideas shown there, added some thoughts and interjections of my own, and presented them here. Credit where it's due!
 
 &nbsp;
 
@@ -19,7 +19,7 @@ God, I guess 🤷‍♂️
 
 &nbsp;
 
-I am not God, and can only rely on words from those who speak in God's behalf to understand His how's and why's. One question that remains in my mind is why God settled on a methodology with an [[Theology#God's Plan|astronomically low success rate]]. We are entirely at the mercy of the success criteria that God Himself imposed on us.
+I am not God, and can only rely on words from those who speak in God's behalf to understand His how's and why's. Yes, [[course-correction#Who does God tell?|there are problems]] with that separation of duties. One question that remains in my mind is why God settled on a methodology with an [[Theology#God's Plan|astronomically low success rate]]. We are entirely at the mercy of the success criteria that God Himself imposed on us.
 
 - God wants us to return to Him
 - No unclean thing can be with God ([1](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p57#p57), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/10?lang=eng&id=p21#p21), [3](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/15?lang=eng&id=p34#p34), [4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p37#p37), [5](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/27?lang=eng&id=p19#p19), [6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/109?lang=eng&id=p20#p20))
@@ -28,7 +28,7 @@ I am not God, and can only rely on words from those who speak in God's behalf to
 - Unless we do what God & Jesus say, we're pretty well fucked
 - We agreed to all of this before being physically born
 
-I have some feedback notes on this plan. Why can't God tolerate uncleanliness? Is He not omnipotent? Why would God create something that He cannot tolerate? How can God say that He loves us if He cannot tolerate us in our fallen state? Why would God inflict intolerable attributes upon someone / something He loves? Why are we so susceptible to Satan's influence that our disqualification is practically guaranteed? Requiring a savior sounds reactionary&mdash;it is a response to a 0% success rate, necessitating some other divine being to intervene with God's perfect plan. You did what God said by agreeing to mortality, but since you became mortal, God *won't let you* come back. But He *wants* you back. He just has to send His son to be tortured to death first. What the hell, God?
+I have some feedback notes on this plan. Why can't God tolerate uncleanliness? Is He not omnipotent? Why would God create something that He cannot tolerate? How can God say that He loves us if He cannot tolerate us in our fallen state? Why would God inflict intolerable attributes upon someone / something He loves? Why are we so susceptible to Satan's influence that our disqualification is practically guaranteed? Requiring a savior sounds reactionary. it is a response to a 0% success rate, necessitating some other divine being to intervene with God's perfect plan. You did what God said by agreeing to mortality, but since you became mortal, God *won't let you* come back. But He *wants* you back. He just has to send His son to be tortured to death first.<br>What the hell, God?
 
 This is all to illustrate the point that God needs you to be saved from God. He won't let you come back because you did what He said to do, and [[Theology#God's Hierarchy|He's got rules]] to follow or else [He wouldn't be God anymore](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p24-p25#p24).
 
@@ -39,7 +39,7 @@ I don't think I could find an LDS teaching that suggests Jesus' grace is not a c
 
 &nbsp;
 
-The LDS church's foundational text, the [[Book of Mormon]], in pretty explicit terms teaches ==salvation by grace==. As shown in the above quote, we're advised that Jesus' grace only takes effect after we put in some effort&mdash;not token effort, but after *exhausting every other resource and avenue possible* to us.
+The LDS church's foundational text, the [[Book of Mormon]], in pretty explicit terms teaches ==salvation by grace==. As shown in the above quote, we're advised that Jesus' grace only takes effect after we put in some effort. Not token effort, but after *exhausting every other resource and avenue possible* to us.
 
 However, the Book of Mormon does not teach that we, as mortals, really have to do much of anything other than ask Jesus to *do us a real solid*. There simply aren't specific examples of working out our own salvation before relying on Jesus after the fact. I'll show some accounts in the Book of Mormon of simply asking for divine intervention, and the subject is addressed immediately with salvation, having not really done anything. Some examples are of being saved from sin and iniquity, and others are more pedestrian.
 
@@ -62,7 +62,7 @@ Alma got struck down and immobilized. The text emphasizes in *very clear terms* 
 
 To me, it sounds pretty definitive. To be saved, we need to be born again and/or redeemed. Alma was redeemed instantly by asking for it. No works needed!
 
----
+&nbsp;
 
 ### King Lamoni
 After Alma the Younger's unconditional forgiveness and conversion, he along with the [sons of Mosiah](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p34#p34) go to the [Lamanites to spread the good word](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/28?lang=eng&id=p1-p2#p1). One [King Lamoni](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/18?lang=eng&id=p22#p22) hears about these missionaries, and meets with Ammon.
@@ -95,7 +95,7 @@ Abish, one of remarkably [[Representation of Women|few women]] who has a name, g
 
 Don't think I've mentioned here, but in case it wasn't fresh in your mind, this book was [[Book of Mormon#Written for our day|written for our day]]. If you don't see [[Literary Value|literary value]], you must have a problem with porn.
 
----
+&nbsp;
 
 ### Lamoni's Father
 [A-a-ron](https://youtu.be/Dd7FixvoKBw?si=aslmErvOfkOP-Riz&t=105), one of the other sons of Mosiah, is freed from prison, and now teaches King Lamoni's father, saying in no uncertain terms that "[man could not merit anything of himself](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=eng&id=p14#p14)." Off to a good start, teaching that we're only saved by grace and nothing else.
@@ -111,9 +111,9 @@ N&L are [imprisoned](https://www.churchofjesuschrist.org/study/scriptures/bofm/h
 
 N&L are [protected by a pillar of fire](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p23-p24#p23) to prevent execution, and the Lamanite captors are rendered [immovable](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p34#p34) by the intensity of the divine intervention. Not quite unconscious for three days, but the central theme in these observations is being rendered unable to act, unable to do works, and still being saved. The immobilized captors get spooked into "[crying unto the voice of him who had shaken the earth](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p41-p42#p41)," until "[angels came down out of heaven and ministered unto them](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p48-p49#p48)." Not as grandiose as being knocked unconscious and then granted unconditional salvation, but all they needed to do was praise the Lord and they get angels ministering to them. That in itself is a remarkable experience, I suppose. No works needed!
 
----
+&nbsp;
 
-In each of the above stories, those redeemed were struck down or rendered immobile, incapacitated, such that no physical actions (attending church, reading scriptures, kneeling in prayer, paying tithing, going to temple) could be performed. Those redeemed were redeemed purely, solely, exclusively through the grace and mercy of God. All they had to do was ask for it&mdash;and immediately, grace was given abundantly, lavishly, mercifully. To further contrast how they did nothing to merit God's grace, in each example the redeemed were wicked and sinful up until the very moment of salvation. They asked for grace, God didn't impose a probation period to prove worthiness or measure restitution. They were saved, born again, made new creatures.
+In each of the above stories, those redeemed were struck down or rendered immobile, incapacitated, such that no physical actions (attending church, reading scriptures, kneeling in prayer, paying tithing, going to temple) could be performed. Those redeemed were redeemed purely, solely, exclusively through the grace and mercy of God. All they had to do was ask for it! Immediately after asking, grace was given abundantly, lavishly, mercifully. To further contrast how they did nothing to merit God's grace, in each example the redeemed were wicked and sinful up until the very moment of salvation. They asked for grace, God didn't impose a probation period to prove worthiness or measure restitution. They were saved, born again, made new creatures.
 
 Huh. I remember being taught as a child and as a teenager that sects of Christianity who taught that principle were misguided apostates. Is it any wonder that evangelical Christians don't really count Mormonism as being part of their in-group?
 
@@ -158,6 +158,6 @@ It also stands in contrast to the time when L&L [bind Nephi again](https://www.c
 &nbsp;
 
 ## Lesson to be learned
-The common thread through all of these stories is God intervening when we are physically unable to, and ask Him to. Salvation by grace is a strong presence in the Book of Mormon, while attending LDS church meetings & lessons today sure does suggest that it's up to us as individuals&mdash;we do all we can, and Jesus will help fill in gaps and make our effort sufficient. Scriptural precedent, particularly in Mormonism's foundational text, shows the exact opposite. We pray to God, and we're saved, be it spiritually or physically, or sometimes both. We're taught that being "born again" is a process, not an event. This is even taught explicitly as a gradual process in General Conference.
+The common thread through all of these stories is God intervening when we are physically unable to, and ask Him to. Salvation by grace is a strong presence in the Book of Mormon, while attending LDS church meetings & lessons today sure does suggest that it's up to us as individuals; we do all we can, and Jesus will help fill in gaps and make our effort sufficient. Scriptural precedent, particularly in Mormonism's foundational text, shows the exact opposite. We pray to God, and we're saved, be it spiritually or physically, or sometimes both. We're taught that being "born again" is a process, not an event. This is even taught explicitly as a gradual process in General Conference.
 
 What's that? The foundational text that missionaries hand to ~~investigators~~ friends to evaluate for themselves shows the exact opposite of what today's leadership teaches? ... Maybe paying more tithing will help address that cognitive dissonance. Can't hurt to try.
