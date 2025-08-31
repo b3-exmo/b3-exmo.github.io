@@ -41,7 +41,7 @@ Remember that, now. I'll be returning to this point [[#The Moral of the Story|la
 > 
 > ***8*** *For thus saith the scripture: Choose ye this day, whom ye will serve.*
 
-You can believe whatever you like, as we've already separated church and state. No law saying you have to believe this thing or that... because of [this Bible passage](https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?id=p15&lang=eng#p15). This will also become relevant later. Don't worry about how we're ~525 years displaced from Lehi leaving Jerusalem with the Plates of Brass&mdash;that exact phrasing from around [14th century](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-joshua?lang=eng&id=p4#p4) B.C.E. was preserved across centuries and its interpretation is solid enough to base laws off of.
+You can believe whatever you like, as we've already separated church and state. No law saying you have to believe this thing or that... because of [this Bible passage](https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?id=p15&lang=eng#p15). This will also become relevant later. Don't worry about how we're ~525 years displaced from Lehi leaving Jerusalem with the Plates of Brass; that exact phrasing from around [14th century](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-joshua?lang=eng&id=p4#p4) B.C.E. was preserved across centuries and its interpretation is solid enough to base laws off of.
 
 &nbsp;
 
@@ -65,7 +65,7 @@ We've also reminded you once again that the law has nothing against Korihor teac
 > 
 > ***15*** *==How do ye know of their surety==? Behold, ye cannot know of things which ye do not see; therefore ==ye cannot know== that there shall be a Christ.*
 
-Let's take a moment to zoom out&mdash;we're reading Alma chapter 30. Any Mormon who had been paying attention in Seminary could remind you that only two chapters later, Alma the Younger advises us that *faith is not knowledge* ([1](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p21#p21), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p26#p26), [3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p34#p34)).
+Let's take a moment to zoom out. We're reading *Alma chapter 30*. Any Mormon who had been paying attention in Seminary could remind you that only two chapters later, Alma the Younger advises us that *faith is not knowledge* ([1](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p21#p21), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p26#p26), [3](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p34#p34)).
 
 That said, what I understand Korihor to be saying here is "there isn't tangible evidence of Christ. ==You don't *know* He's coming==. This is a tradition that you should give critical evaluation to."
 

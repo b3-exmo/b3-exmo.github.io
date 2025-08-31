@@ -15,7 +15,7 @@ No joke, this was a really big [[Shelf|shelf item]] for me. This interview was g
 
 To me, this calls into question how divinely inspired this man is—did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
 
-And, just to make sure that you and I are on the same page&mdash;I am not interested in *ad hominem* smack-talk "this guy sucks and also is old" as an attitude here. At the time of writing, he's still alive at 100 years old. Irrespective of religious affiliation, respect where it's due for someone three times my age. I intend to criticize specific claims or qualities. No, I don't *like* Nelson, but I'm not here to make libelous allegations or defame him. 
+And, just to make sure that you and I are on the same page, I am not interested in *ad hominem* smack-talk "this guy sucks and also is old" as an attitude here. At the time of writing, he's still alive at 100 years old. Irrespective of religious affiliation, respect where it's due for someone three times my age. I intend to criticize specific claims or qualities. No, I don't *like* Nelson, but I'm not here to make libelous allegations or defame him.
 
 &nbsp;
 
@@ -100,7 +100,7 @@ From the perspective of a life-long traditional Catholic, what would draw your a
 
 &nbsp;
 
-Nelson has announced numerous temples? Cool. Tell me more about that. I'm not trying to suggest that temples are a nonsensical waste of time&mdash;I am challenging the idea that we needed Russell Nelson to announce them.
+Nelson has announced numerous temples? Cool. Tell me more about that. I'm not trying to suggest that temples are a nonsensical waste of time. I am instead challenging the idea that we needed Russell Nelson to announce them.
 
 If the "selling point" of having a living prophet, a spokesman for God, alive today in this dispensation, is that he leads and guides *us*, who are alive, here, today, living in 2025, then what in the jolly-good fuck is he doing announcing temples? Shouldn't he be, I don't know, *prophesying*? Telling us something meaningful from God? Temples primarily benefit those who have died. What about us who are still alive?
 

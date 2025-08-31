@@ -2,20 +2,22 @@
 comments: true
 ---
 # 🛩 Nelson's Plane
-Acknowledgement: Like a few other pages in my notes, this is a re-telling of someone else's research. Most of the information came from [[Sources and Links#RFM / Mormon Discussion Inc.|RFM]], as presented in *[Mormonism Live: Episode 033](https://www.youtube.com/live/fz4iQk1M9l4)* and in Bill Reel's post in the *[/r/exmormon](https://web.archive.org/web/20241127105542/https://www.reddit.com/r/exmormon/comments/opf8cw/breaking_president_nelsons_flight_story_proven_to/)* subreddit. Credit where it's due, though—part of how I process information is to reframe it in my own words.
+Like a few other pages in my notes, this is a re-telling of someone else's research. Most of the information came from [[Sources and Links#Podcasts & Shows|RFM]], as presented in *[Mormonism Live: Episode 033](https://www.youtube.com/live/fz4iQk1M9l4)* and in Bill Reel's post in the *[/r/exmormon](https://web.archive.org/web/20241127105542/https://www.reddit.com/r/exmormon/comments/opf8cw/breaking_president_nelsons_flight_story_proven_to/)* subreddit. Credit where it's due, though; part of how I process information is to reframe it in my own words.
 
 &nbsp;
 
-Since [[Restoration#Ongoing Restoration|revelation is ongoing]], and since Jesus affects us personally and individually, church leadership likes to tell stories from experience. This isn't bad. It seems to be a way to connect the intangible teachings to practical application.
+Since [[Restoration#Ongoing Restoration|revelation is ongoing]], and since Jesus affects us personally and individually, church leadership likes to tell stories from experience. This isn't bad. It seems to be a way to connect the intangible teachings to practical application. In fact, Jesus Himself often taught using parables, allegories and metaphors without the supposition that the described scenario was literal or historical.
 
-Where problems arise, though, is when a story told to promote faith in God ends up being grossly embellished, or even demonstrably wrong. For a church that wants to foster trust, authority, authenticity, and guidance, this LDS church's leadership seems very comfortable with stretching the truth in order to make a point. If personal experiences from Apostles are not trustworthy, then how should we approach *anything* they tell us?
+Where problems arise, though, is when a story told to promote faith in God is both presented as literal, and is discovered to be grossly embellished or even demonstrably wrong. For a church that wants to foster trust, authority, authenticity, and guidance, this LDS church's leadership seems very comfortable with stretching the truth in order to make a point. If personal experiences from Apostles are not trustworthy, then how should we approach *anything* they tell us?
 
 &nbsp;
 
 ## Key Elements
-A fellow named [[Russell-M-Nelson|Russell Marion Nelson]] tells us of a near-death experience as an airplane's engine explodes, but the plane narrowly avoided a crash by extinguishing a fire. This is all within the pretext of Nelson feeling a calm peacefulness, being at ease with the prospect of mortal life ending because of a variety of factors (worthiness, trust in Christ's atonement, having [[Garments]] on, etc.) Elder Nelson was composed and collected, despite having reason to believe that death was imminent.
+In 1976, we read of a certain [Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15) named [[Russell-M-Nelson|Russell Marion Nelson]] who shared a dramatic experience of a near-death experience, a catastrophic mechanical failure in the airplane he was a passenger of. Nelson relates that one of the airplane's two engines exploded, but the plane narrowly avoided a crash by extinguishing a fire; an ordeal with a remarkably high mortality rate, but he survives!
 
-To emphasize this point, Nelson contrasts his zen-like state to the woman across the aisle, completely *flipping her shit* because she's right next to an exploded plane engine, and the craft is diving much too fast for anyone present to feel comfortable with.
+Against all odds, God protected this one plane on this one instance to preserve Nelson's life, so that Nelson can later [[Nelson-vs-Covid#Vitamins|tell us to take vitamins]]. Fatalities from other airplane crashes just weren't meant to speak in General Conference. This is all within the pretext of Nelson feeling a calm peacefulness, being at ease with the prospect of mortal life ending because of a variety of nonspecific factors (worthiness, trust in Christ's atonement, having [[Garments|garments]] on, etc.) Elder Nelson was composed and collected, despite having reason to believe that death was imminent.
+
+To emphasize this point, Nelson contrasts his zen-like state to the woman across the aisle, absolutely *flipping her shit* because she's right next to an exploded plane engine, and the craft is diving much too fast for anyone present to feel comfortable with. You know, reacting in the way any rational human might respond to catastrophic mechanical failure.
 
 There's some variation in details between the multiple times he's told us this story, but there are enough common points that we can summarize the experience into these key events:
 
@@ -27,8 +29,6 @@ There's some variation in details between the multiple times he's told us this s
 &nbsp;
 
 Problems arise when this story's details are examined across the aforementioned retellings, as well as compared to... you know, *reality*.
-
-By my timeline estimation, this event took place in 1976. At the time, he was filling [the calling of Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15). He shares a dramatic experience of an airplane crash, an ordeal with a remarkably low survival rate, but he survives! Against all odds, God protected this one plane on this one instance to preserve Nelson's life, so that Nelson can later [[Nelson-vs-Covid#Vitamins|tell us to take vitamins]]. Fatalities from other airplane crashes just weren't meant to speak in General Conference.
 
 &nbsp;
 
@@ -79,7 +79,7 @@ This story has been shared to an audience in a number of places:
 
 &nbsp;
 
-I count 14 sources here for this story, acknowledging some overlap— each source is well within the influence of the Church's correlation committee. Some of the video re-tellings are referencing the General Conference talk, as is the Friend Magazine as a more kid-friendly adaptation of this near-death experience (since, you know, children need to hear that kind of thing.)
+I count 14 sources here for this story, acknowledging lots of overlap. Each source is well within the influence of the Church's correlation committee. Some of the video re-tellings are referencing the General Conference talk, as is the Friend Magazine as a more kid-friendly adaptation of this near-death experience (since, you know, children need to hear that kind of thing.)
 
 &nbsp;
 
@@ -207,7 +207,7 @@ Huh. Maybe they just made a precautionary landing in [Delta Municipal Airport](h
 &nbsp;
 
 ## What actually happened, then?
-I mean, it wasn't *all* a lie&mdash; there was an airplane, after all.
+I mean, it wasn't *all* a lie. There was an airplane, after all.
 
 &nbsp;
 
@@ -226,7 +226,7 @@ If, on the other hand, we can conclude that Nelson is simply not telling the tru
 &nbsp;
 
 ### Mythology
-Assuming this story is heavily embellished&mdash;and all I can really offer is speculation&mdash;I'd call our attention back to an earlier section in these notes: *what was the point of this story*, assuming it was all true? Are we meant to keep our composure in the face of certain death, as Nelson had, because we understand Christ's atonement? Are we meant to always be conscientious of our worthiness and moral standing before God's judgment? Was the story meant to underscore how the "real" achievements in life are contingent upon temple ordinances, therefore we should set our sights there? ... All of the above?
+All I can really offer is speculation. Assuming this story is heavily embellished, I'd call our attention back to an earlier section in these notes: *what was the point of this story*, assuming it was all true? Are we meant to keep our composure in the face of certain death, as Nelson had, because we understand Christ's atonement? Are we meant to always be conscientious of our worthiness and moral standing before God's judgment? Was the story meant to underscore how the "real" achievements in life are contingent upon temple ordinances, therefore we should set our sights there? ... All of the above?
 
 &nbsp;
 

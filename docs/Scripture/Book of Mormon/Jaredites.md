@@ -77,7 +77,7 @@ Folks who appreciate sports more than I do might be interested in a crowd of app
 
 &nbsp;
 
-I don't know what's a non-violent idiom to use in place of "beating a dead horse", but I recognize that I'm belaboring this point. Think back to the classic film trilogy of *The Lord of the Rings*. It had some visual spectacles of a large-scale war in a fictional, fantasy scenario. To be clear, I'm using this to visually depict a number of footsoldiers&mdash;I don't think there were Uruk-hai nor Nazgul in the Book of Mormon, unless I fell asleep during that part of seminary.
+I don't know what's a non-violent idiom to use in place of "beating a dead horse", but I recognize that I'm belaboring this point. Think back to the classic film trilogy of *The Lord of the Rings*. It had some visual spectacles of a large-scale war in a fictional, fantasy scenario. To be clear, I'm using this to visually depict a number of footsoldiers; I don't think there were Uruk-hai nor Nazgul in the Book of Mormon, unless I fell asleep during that part of seminary.
 
 ![[lotr-pelennor.jpg]]
 
@@ -85,9 +85,9 @@ I don't know what's a non-violent idiom to use in place of "beating a dead horse
 
 When the combined forces of Mordor siege against Minas Tirith, we see an imposing fortress being attacked by numerous footsoldiers comprising of a variety of unified factions and species' that I won't try to list (or spell.) [Exact numbers](https://lotr.fandom.com/wiki/Battle_of_the_Pelennor_Fields) aren't explicit, but the invading forces under Mordor number from [18,000 +](https://tolkiengateway.net/wiki/Battle_of_the_Pelennor_Fields) to [tens of thousands](https://en.wikipedia.org/wiki/Battle_of_the_Pelennor_Fields). I don't know what's a reasonable estimation. Thirty thousand, maybe? How many tens of thousands would you guesstimate to be visible in the above image? Arguably a *smaller number than two million*.
 
-If I were to generously round up the Battle of the Pelennor Fields' invading forces to be fifty thousand, we'd have to conclude that the Book of Mormon depicts a battle with ~~casualties~~ *deaths* `2,000,000/50,000 = 40` times larger.
+If I were to generously round up the Battle of the Pelennor Fields' invading forces to be fifty thousand, we'd have to conclude that the Book of Mormon depicts a battle with ~~casualties~~ *deaths* `2,000,000 ÷ 50,000 = 40` times larger.
 
-How big of an army would you need to end two million lives? 2.1 million? Don't forget that since this is a big number that my lizard-brain doesn't like, just adding that decimal for a numeric advantage is *one hundred thousand* additional soldiers; twice that of an arbitrary guesstimation of Minas Tirith's invading force. Two million died *on one side*. How many died on the other side? Assuming they were comparably matched, this means we should see a battlefield with ostensibly *four million corpses* of fallen soldiers.
+How big of an army would you need to end two million lives? 2.1 million? Don't forget that since this is a big number that my lizard-brain doesn't like, just adding that one decimal for a numeric advantage is *one hundred thousand* additional soldiers; twice that of an arbitrary guesstimation of Minas Tirith's invading force. Two million died *on one side*. How many died on the other side? Assuming they were comparably matched, this means we should see a battlefield with ostensibly *four million corpses* of fallen soldiers.
 
 Yet there is not one scrap of evidence to be found.
 

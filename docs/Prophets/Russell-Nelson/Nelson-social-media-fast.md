@@ -15,6 +15,7 @@ Some proportion of humans obtain and consume news primarily or exclusively throu
 
 &nbsp;
 
+## Allegations
 > *At least six people are suing the daughter and son-in-law of Russell M. Nelson, the president of The Church of Jesus Christ of Latter-day Saints.*
 > 
 > *Neither Nelson nor the Church is named as defendants in this 79-page lawsuit filed in federal court on Wednesday. The allegations of sexual abuse stem back to the early 1980s, accusing Jon and Jane Doe of holding "touching parties" and sexually abusing kids as young as one year old.*
@@ -31,7 +32,7 @@ Some proportion of humans obtain and consume news primarily or exclusively throu
 
 &nbsp;
 
-I see 3 days elapsing between this news being published and Nelson's General Conference talk. How quickly would scandals like this proliferate? That's unclear to me. I suppose that in the days leading up to Conference Weekend, most believing Mormons are getting hyped up for prophetic insight, and social media algorithms are likely amplifying that hype. I don't recall hearing anything about this incident in October 2018.
+I see 3 days elapsing between this news being published and Nelson's General Conference talk. How quickly would scandals like this proliferate? That's unclear to me. I suppose that in the days leading up to Conference Weekend, most believing Mormons are getting hyped up for prophetic insight, and social media algorithms are likely amplifying that hype rather than emphasize an abuse accusation. I don't recall hearing anything about this incident in October 2018.
 
 What should we make of this?
 
@@ -45,6 +46,7 @@ To be fair, this allegation is *adjacent* to Russell, and he appears to not be i
 
 &nbsp;
 
+## Resolution
 This [case was ultimately dismissed](https://www.sltrib.com/news/2020/06/12/supreme-court-rules-it/) in 2020:
 
 > *The Utah Supreme Court has ruled that a plaintiff’s claims in a high-profile child sex abuse lawsuit against a former federal judge aren’t valid because the claims fall outside of the statute of limitations, despite a 2016 law change meant to give alleged victims of child sex crimes more time to bring up accusations.*
@@ -53,6 +55,6 @@ This [case was ultimately dismissed](https://www.sltrib.com/news/2020/06/12/supr
 
 > *In 2016, the [state legislature passed a bill](https://le.utah.gov/~2016/bills/static/HB0279.html) allowing civil lawsuits against perpetrators of sexual abuse “brought within 35 years of the victim’s 18th birthday, or within three years of the effective date of this [new law], whichever is longer.”*
 
-I mean, the laws allowed this accusation to remain valid, but the judge didn't like it so it got dismissed.
+I mean, the laws allowed this accusation to remain valid, but the judge didn't like it so the case got dismissed.
 
 ![[americanflag-usa.gif]]{: .center .size40}

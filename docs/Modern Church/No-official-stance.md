@@ -4,7 +4,7 @@ comments: true
 # 🧍‍♂️ No Official Stance
 The LDS church claims authority to definitively speak for and in behalf of God Himself.
 
-The LDS church has also been very specific and particular about things like [[Word-of-Wisdom|coffee]] and [[Garments|underpants]], but there are some topics that they simply take no position on. I find that fascinating. Many of these things are contentious, and humanity might benefit from an authoritative voice from God&mdash;our heavenly father&mdash;to tell us what He intends for us.
+The LDS church has also been very specific and particular about things like [[Word-of-Wisdom|coffee]] and [[Garments|underpants]], but there are some topics that they simply take no position on. I find that fascinating. Many of these things are contentious, and humanity might benefit from an authoritative voice from God, our heavenly father, to tell us what He intends for us.
 
 And so, here are some things that I've encountered that the Church of Jesus Christ of Latter-day Saints sees as too great of a legal risk to comment on.
 

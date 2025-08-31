@@ -14,9 +14,22 @@ comments: true
 
 &nbsp;
 
+The above scripture passage could be a rationale for why the LDS church leadership refuses to publish anything meaningful related to their finances. I've been able to track down aggregated information, but the stewards over this money seem very averse to [[Audits|external audits]]. The only modern "official" information I've recently found is the time they paid fines for [[SEC|defrauding the Securities Exchange Comission]]. Not a good look.
+
 Most of these notes rely on context from the page on [[Tithing|tithing]], so give that a read if you haven't already. This was a subsection of that page, but became long enough that it warrants a page of its own.
 
 &nbsp;
+
+Something that I do want to make clear is that the LDS church's charitable efforts and donations are orders of magnitude greater than anything that I do personally. They're doing plenty, but please understand that the proportion of donations compared to their available wealth is insulting. I am not [a corporation sole](https://en.wikipedia.org/wiki/Corporation_sole) as the LDS church is ([1](https://www.churchofjesuschrist.org/bc/content/ldsorg/legal/pdf/Global-Privacy-Notice-eng-current.pdf), [2](https://newsroom.churchofjesuschrist.org/article/data-incident), [3](https://www.churchofjesuschrist.org/legal/justserve-terms-of-use?lang=eng)). Their charitable efforts end up being closer to 5% of their cash flow. This is a much smaller number than I had been raised to believe.
+
+Doing some arithmetic to remove extraneous zeroes, here's an illustration: imagine having $2,930, and proudly announcing that you donated $15... but some unspecified amount of that 15 went back to your own constituents, making your charitable effort self-aggrandizing. $15 is, in fact, 15 more dollars than zero dollars. *It's not nothing*. However in this example, $15 is not the problem; it's the remaining $2,915.
+
+Now that we have an idea of the proportion of money spent on charity (as of 2024,) let's multiply things by `100,000,000` again to bring them back to more accurate figures. The church spent `$1,450,000,000` on charity (kind of.) That's not the problem. I don't know of anyone who would argue that $1.45 billion in charity is somehow bad. *I am not making that argument*. The problem is the remaining `$291,000,000,000`. No, I don't believe that's 291 billion in liquid assets. I do believe that is an offensively high number for any enterprise to exercise sole discretion over. I do not believe that an organization with *any* involvement with Jesus Christ would hoarde that much wealth. I do not believe that Jesus would be willing to sign off on donating `293,000,000,000 ÷ 1,450,000,000 = 5.1%` of that wealth.
+
+&nbsp;
+
+## 2016
+I'll begin with the year 2016 because of the following quote from Deseret News, but afterward I'll focus on more recent events:
 
 > *In [a lecture given](http://www.deseretnews.com/article/865655946/At-Oxford-Elder-Oaks-says-religions-value-evident-in-refugee-crisis.html?pg=all) last month at the University of Oxford, Elder Dallin H. Oaks of the Quorum of the Twelve Apostles said that each year The Church of Jesus Christ of Latter-day Saints spends about ==$40 million on welfare, humanitarian and other LDS Church-sponsored projects== around the world and has done so for more than 30 years.*
 >
@@ -24,11 +37,11 @@ Most of these notes rely on context from the page on [[Tithing|tithing]], so giv
 >
 > *“In the year 2015 we had 177 emergency response projects in 56 countries,” Elder Oaks said. “In addition, we had hundreds of projects that impacted more than 1 million people in seven other categories of assistance, such as clean water, immunization and vision care.”*
 
-— _[LDS Church welfare, humanitarian efforts average $40 million per year, apostle says](https://www.deseret.com/2016/7/12/20591934/lds-church-welfare-humanitarian-efforts-average-40-million-per-year-apostle-says)_, Deseret News, 12 July 2016
+— _[LDS Church welfare, humanitarian efforts average $40 million per year, apostle says](https://www.deseret.com/2016/7/12/20591934/lds-church-welfare-humanitarian-efforts-average-40-million-per-year-apostle-says)_, Deseret News, 12 July ==2016==
 
 &nbsp;
 
-$1.2 billion is a big number. It’s a much smaller number when we realize it’s spread across thirty years. I will concede that $40 million is also a big number. That third paragraph is worth acknowledging- providing clean water & immunization is a real solid. Unironically, good job. Those are important things that real humans in the world struggle to secure for themselves.
+$1.2 billion is a big number. It’s a much smaller number when we realize it’s spread across thirty years. I will concede that $40 million is also a big number. It is approximately $40 million more than I'm spending on charity. That third paragraph is worth acknowledging; providing clean water & immunization is a real solid. Unironically, good job. Those are important things that real humans in the world struggle to secure for themselves. Those projects have make immeasurable improvements for the lives of those affected.
 
 Also, don't overlook the utterance of the forbidden word "[[Name Mormon|Mormon]]."
 
@@ -70,7 +83,7 @@ Ooh boy. I have a lot to say about this paragraph.
 
 Not sure if the $906 million is counted in that sum. But it does sound like $200 million is included, and is an outlier, so I might adjust that math to get a better average: `(($2,500,000,000 - $200,000,000) ÷ (35 - 1)) = $67,647,059`
 
-That means we're averaging $67.6 million per year over 35 years. Let's be real— 67.6 million is not as small number. That is worth acknowledging. It's a comically small number, however, when compared to the $46.2 billion as mentioned above.
+That means we're averaging $67.6 million per year over 35 years. Let's be real— 67.6 million is not as small number. That is absolutely worth acknowledging and celebrating. However, it is a comically small number when compared to the $46.2 billion as mentioned above. `(67,647,059 ÷ 46,200,000,000) = 0.001464`, or 0.15% of *the subset* of Ensign Peak's US stockholdings. That is just over *a tenth of 1%* that they'll proudly tout as being the charitable endeavors from the official church™ restored by Jesus Christ himself.
 
 `(67,647,059 ÷ 46,200,000,000) = 0.001464`, or 0.15% of *the subset* of Ensign Peak's US stockholdings. That is just over *a tenth of 1%* that they'll proudly tout as being the charitable endeavors from the official church™ restored by Jesus Christ himself.
 
@@ -79,11 +92,13 @@ Don't overlook that last sentence: "*The church subsequently revamped its method
 &nbsp;
 
 ## Value of Time
-Remember how [[Sources and Links#Deseret News|Deseret News]] was owned by and run by the church? They're always eager to share some information in a positive light.
+Remember how [[Sources and Links#Deseret News|Deseret News]] was owned by and run by the church? They're understandably eager to share some information in a positive light.
 
-Following April 2018's general conference, Deseret published a [Study shows just how generous Mormons are with their time, money](https://www.deseret.com/2018/4/26/20794320/study-shows-just-how-generous-mormons-are-with-their-time-money/). Note that this is before October of 2018, where referring to church members as "Mormons" became verboten; more importantly, it's just ahead of a whistleblower report.
+Following April 2018's general conference, Deseret published a [Study shows just how generous Mormons are with their time, money](https://www.deseret.com/2018/4/26/20794320/study-shows-just-how-generous-mormons-are-with-their-time-money/). Note that this is before October of 2018, when referring to church members as "Mormons" became verboten; more importantly, it's just ahead of a whistleblower report.
 
-This article in Deseret (sponsored by LDSAgents.com, no less!) is largely excerpts from "a study conducted with two schools not affiliated with [the LDS church]" that describe how generous Mormons are with their time and money. The link in the article to the study is a dead end, for some reason. Fortunately for us, we have search engines.
+This article in Deseret (sponsored by LDSAgents.com, no less!) largely consists of excerpts from "a study conducted with two schools not affiliated with [the LDS church]" that describe how generous Mormons are with their time and money. The link in the article to the study is a dead end, for some reason. Fortunately for us, we have search engines.
+
+&nbsp;
 
 > *The researchers determined that, through volunteering, an active LDS member provides a social contribution equivalent to $9,140 annually. If young, full-time missionaries are excluded, their social contribution still equates to $7,102 per year.*
 
@@ -91,7 +106,7 @@ Now... Hold on a moment. When I was one of those young, full-time missionaries, 
 
 Some online searching takes me to uPenn's website, what looks like the approachable summary of the study [in an article](https://penntoday.upenn.edu/news/penn-research-shows-mormons-are-generous-and-active-helping-others). uPenn's publication of the article has the date of April 2012, and the Deseret article was in 2018. Did it take them six years to find someone who said something nice about the church? Or did they keep this in their back pocket until a whistleblower accused them of not spending money charitably?
 
-uPenn's link to the study is also a dead end. Using their internal search, I can [query the filename](https://sp2.upenn.edu/search/?swpquery=cnaan+lds+giving) of the PDF that the link was meant to lead to. That led me to an [unceremonious download page](https://sp2.upenn.edu/search/?swpquery=cnaan+lds+giving). Now I've got the [study](https://sp2.upenn.edu/wp-content/uploads/2014/07/cnaan_lds_giving.pdf) mentioned in Deseret News! Let's look for indications of what missionaries do. You can follow the links provided to read for yourself; I'll have a few isolated excerpts of what stood out to me.
+uPenn's link to the study is also a dead end. Using their internal search, I can [query the filename](https://sp2.upenn.edu/search/?swpquery=cnaan+lds+giving) of the PDF that the link was meant to lead to. That led me to an [unceremonious download page](https://sp2.upenn.edu/search/?swpquery=cnaan+lds+giving). Now I've got the [study](https://sp2.upenn.edu/wp-content/uploads/2014/07/cnaan_lds_giving.pdf) mentioned in Deseret News! Let's look for indications of what missionaries do. You can follow the links provided to read for yourself; I'll share a few isolated excerpts of what stood out to me.
 
 ### Study
 
@@ -111,15 +126,17 @@ Oh no you didn't. Deseret is using this study as a source to prove *monetary don
 
 YEAH YOU FUCKEN BETTER OMIT THOSE
 
-I'll acknowledge upfront that this is a bad-faith conclusion to jump to, so hold onto your pants. [2012's General Conference](https://www.churchofjesuschrist.org/study/general-conference/2013/04/statistical-report-2012?lang=eng) reported 58,990 full-time missionaries, and 22,961 church-service missionaries. I don't know if the church would have the audacity to combine those figures. If this study hadn't omitted missionaries, valuing 3,120 hours *per missionary* at $21.36 would make `21.36 * 3120 * 58990 = $3,931,282,368`. Just under *four billion* "donated" per year by having a missionary program that the individuals pay for the privilege of being counted in. I can't confidently say that the LDS church is using these numbers in the way I'm outlining here— I'm presenting a worst case scenario in the event that they are.
+I'll acknowledge upfront that this is a bad-faith conclusion to jump to, so hold onto your pants. [2012's General Conference](https://www.churchofjesuschrist.org/study/general-conference/2013/04/statistical-report-2012?lang=eng) reported 58,990 full-time missionaries, and 22,961 church-service missionaries. I don't know if the church would have the audacity to combine those figures. If this study hadn't omitted missionaries, valuing 3,120 hours *per missionary* at $21.36 would make `21.36 * 3120 * 58990 = $3,931,282,368`. Just under *four billion* "donated" per year by having a missionary program that the individuals pay for the privilege of being counted in. 
+
+I can't confidently say that the LDS church is using these numbers in the way I'm outlining here— I'm presenting a worst case scenario in the event that they are. (Edit: I'll [[#Widow's Mite|explain down below]], but the church itself is not counting these hours as part of charitable giving.) I'm pleased to see that the study cited in this Deseret article is acknowledging that possible skew and precluding it. 
 
 &nbsp;
 
 > *An average Latter-day Saint provides 427.9 hours of volunteer labor annually (35.6 hours monthly or 8.2 hours weekly). . . . We assessed that an active Latter-day Saint provides through volunteering a social contribution valuing $9,140 annually.*
 
-428 hours annually is an impressive number. 8.2 hours weekly does seem like a lot. I have no information to suggest that this is wrong, but I am left to wonder how respondents defined volunteer labor. Setting up folding chairs in the stake center? Accompanying missionaries? Shoveling snow off the meetinghouse sidewalk? More charitably, shoveling snow for elderly folks...? Would a bishopric member in a ward count all the additional meetings before & after sacrament meeting? Relief Society president taking on practically a full-time job of calling responsibilities? The ward clerk counting the hours spent preparing and handling tithing? It's "voluntary", doing the Lord's work, and truthfully, it can be laborious. I can't confidently say for or against those ideas. 
+428 hours annually is an impressive number. 8.2 hours weekly does seem like a lot. I have no information to suggest that this is wrong, but I am left to wonder how respondents defined volunteer labor. Setting up folding chairs in the stake center? Accompanying missionaries? Shoveling snow off the meetinghouse sidewalk? More charitably, shoveling snow for elderly folks...? Would a bishopric member in a ward count all the additional meetings before & after sacrament meeting? Relief Society president taking on practically a full-time job of calling responsibilities? The ward clerk counting the hours spent preparing and handling tithing? It's "voluntary", doing the Lord's work, and truthfully, it can be laborious. I can't confidently say for or against those ideas, this is all conjecture.
 
-Searching the word "bias" in the paper doesn't turn up any results, but I want to acknowledge [social desirability bias](https://en.wikipedia.org/wiki/Social-desirability_bias), where respondents overreport percieved ‘good behavior’ and underreport ‘bad behavior’. Did the surveyors make it very clear that the purpose of the survey is to measure how much Mormons contribute to charitable ends, by time or money donated? "By Jove," a fifty-year-old respondent strawman in my head is saying, "this is our chance to show the world how charitable we Mormons are! Nine hours per week, minimum. We're *the best*."
+Searching the word "bias" in the paper doesn't turn up any results, but I want to acknowledge [social desirability bias](https://en.wikipedia.org/wiki/Social-desirability_bias), where respondents overreport perceived 'good behavior' and underreport 'bad behavior'. Did the surveyors make it very clear that the purpose of the survey is to measure how much Mormons contribute to charitable ends, by time or money donated? "By Jove," a fifty-year-old respondent strawman in my head is saying, "this is our chance to show the world how charitable we Mormons are! Nine hours per week, minimum. We're *the best*."
 
 &nbsp;
 
@@ -127,6 +144,8 @@ Searching the word "bias" in the paper doesn't turn up any results, but I want t
 If you're not familiar with the [Widow's Mite Report](https://widowsmitereport.wordpress.com/), now's a good time to check in on their findings. It's a group of, reportedly, "current and former Church members, whose professional and educational backgrounds include business, finance, law, investment management, economics, journalism and history." They do a better job than I do of tracking down [sources and documents](https://widowsmitereport.wordpress.com/sources/) pertaining to the LDS Church's finances, statistics, spending, etc. They present their findings in an easily-digestible slideshow.
 
 Looking through their 2023 report ([1](https://widowsmitereport.wordpress.com/2023update), [2](https://www.canva.com/design/DAFDocnELmA/view), they mention some "fuzzy metrics" starting around [page 15](https://www.canva.com/design/DAFDocnELmA/view#15). Given the church's opacity in how they determine these numbers to report, all I have to work with is circumstantial evidence, and it doesn't look good.
+
+I will observe that, in the Widow's Mite report on the LDS church's [2024 charitable spending](https://thewidowsmite.org/caring-2024/), they include a slide dedicated to debunking the idea that the church's overall charitable donations include missionary hours as evaluated service. (Page 13, if you'd like to see for yourself.) It appears to me that the LDS church is not reporting in that way. I'll need to track down a source for this next claim, but I do remember reading accusations that the church had, at one point, included them (some time around 2019?) but has since stopped since that's dishonest. 
 
 &nbsp;
 
@@ -152,5 +171,7 @@ That's enough decimal places to render as 1.418E - 5. That's `1 ÷ 67,500`.
 — *[Mormon Church in Canada moved $1B out of the country tax free — and it's legal](https://www.cbc.ca/news/canada/mormon-church-jesus-christ-latter-day-saints-funds-charity-1.6630190)*, CBC/Radio-Canada
 
 &nbsp;
+
+Looks to me like they sent 50x the amount of their largest donation to BYU in that same year. But let's not focus on that; they donated to a food bank, and it was their largest to date. Jesus wasn't really interested in feeding the hungry, he was much more into buying athletes for the Cougars.
 
 Maybe I shouldn't be so upset with the church— after all, maybe they [[SEC#LDS Church PR Statement|received and relied upon legal counsel]] for how to move millions across the border. That seems to be a valid excuse for other atrocities. Don't forget they made their biggest donation to date back to the food bank though <3

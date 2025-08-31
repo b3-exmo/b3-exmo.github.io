@@ -4,14 +4,14 @@ comments: true
 # ⛪ LDS Notes
 I call myself Bee-cubed. Growing up in the LDS church has shaped my worldview. At one point in late 2018, I encountered information that upended that worldview, and have since been engaging in a deconstruction process. This is a compendium of my notes and findings amid that deconstruction.
 
-I don't think of this as a journal or blog. I'll interject a time or two, or share how a topic relates to me, but broadly speaking these notes are observations on truth claims, disagreeable policies, and historical novelties. I'll make an effort to cite sources, and provide links for further reading.
+I don't think of this as a journal or blog. I'll interject a time or two, or share how a topic relates to me, but broadly speaking these notes are observations on truth claims, disagreeable policies, and historical novelties. I'll make an effort to cite sources and provide links for further reading.
 
 &nbsp;
 
 ## Why, though?
 I didn’t wake up one day, and decide to tear down my worldview.
 
-I want this to be true. I never missed a day of seminary, I went on a mission, I got married in the temple, I got recommended to be a temple worker in Provo. I did **not** resolve to upend my eternal perspective, and throw away a core part of my identity. *I want the LDS teachings to be true.* Finding untruths in those teachings is very upsetting to me.
+I want this to be true. I never missed a day of seminary, I went on a mission, I got married in the temple, I got recommended to be a temple worker in Provo. I did **not** resolve to upend my eternal perspective and throw away a core part of my identity. *I want the LDS teachings to be true.* Finding untruths in those teachings is very upsetting to me.
 
 Many of these issues have conflicting amounts of weight behind them. I don’t have concrete evidence against all LDS teaching, nor is there solid, undeniable evidence in favor of it. The church could disambiguate and clear up all confusion, but it does not. Presumably, because you and I are meant to rely on faith. By every Mormon's [favorite scriptural passage](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p21#p21), “faith is . . . hope for things which are not seen, **which are true**.” Faith is not stubborn insistence despite evidence to the contrary.
 
@@ -20,7 +20,7 @@ For more information on this, I have a page outlining [[My own experience]].
 &nbsp;
 
 ### Who is this for?
-Primarily for my own catharsis. I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions.
+Primarily for my own catharsis. I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions. I process information by writing about it, and now I'm making it everyone's problem by publishing those writings.
 
 I don't want my notes to be thought of as a "letter" in the style of *[CES Letter](https://cesletter.org/)* or the *[Light and Truth Letter](https://www.lightandtruthletter.org/)*. My notes are going to change because my understanding of theology is subject to change. For that reason, I don't like the idea of a static publication (such as print or a .pdf) since I won't be able to make adjustments or corrections. Think of these notes as *a publicly available notebook* from a guy you don't personally know. It's not a satisfying answer for a target audience, but that's reality.
 

@@ -247,7 +247,7 @@ Doing this would effectively leave Herod without an effective military fifteen t
 
 The legend is that Herod does all of this based on the rumor that a baby might overthrow him once the prophesied messiah reaches adulthood. This is such a preposterous response to an absurd threat.
 
-Twenty years from the time of writing this note, I'll be in my mid-fifties. There is a non-zero chance that at that time, I'll befall some violent fate at the hands of someone who is, today, a baby. Imagine this happening for whichever local government official that comes to your mind&mdash;if he or she had the power to, would this (purely hypothetical) person round up all children in [the tri-state area](https://phineasandferb.fandom.com/wiki/Tri-State_Area) and enact infanticide *just in case* the future unproven threat were valid? I'd be hard-pressed to come up with a more effective way to piss off every individual taxpayer. This offending leader, imagined or real, would have angry mobs storming the offices within 24 hours.
+Twenty years from the time of writing this note, I'll be in my mid-fifties. There is a non-zero chance that at that time, I'll befall some violent fate at the hands of someone who is, today, a baby. Imagine this happening for whichever local government official that comes to your mind; if he or she had the power to, would this (purely hypothetical) person round up all children in [the tri-state area](https://phineasandferb.fandom.com/wiki/Tri-State_Area) and enact infanticide *just in case* the future unproven threat were valid? I'd be hard-pressed to come up with a more effective way to piss off every individual taxpayer. This offending leader, imagined or real, would have angry mobs storming the offices within 24 hours.
 
 &nbsp;
 

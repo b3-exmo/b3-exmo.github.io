@@ -9,7 +9,7 @@ To be clear, ==there are more than four accounts==, but [[First Vision#Accounts|
 
 &nbsp;
 
-At the risk of belaboring a point too much, the *first* recorded account was ***twelve years*** after the fact. I keep bringing this up because *this is not a small problem*. Instead, it is what we in the industry call "a big problem." No documentary evidence is to be found prior to 1832 that anyone had even heard Joseph talk about this. No documentary evidence demonstrates that Joseph had preached or shared this message until 1840. And, again, this earliest account wasn't the first printed and distributed account&mdash;I've seen claims that this was either in 1840 or 1842. You know, ten to twelve years after the church was founded. 
+At the risk of belaboring a point too much, the *first* recorded account was ***twelve years*** after the fact. I keep bringing this up because *this is not a small problem*. Instead, it is what we in the industry call "a big problem." No documentary evidence is to be found prior to 1832 that anyone had even heard Joseph talk about this. No documentary evidence demonstrates that Joseph had preached or shared this message until 1840. And, again, this earliest account wasn't the one printed and distributed. I've seen claims that this was either in 1840 or 1842. You know, ten to twelve years after the church was founded. 
 
 &nbsp;
 
@@ -29,7 +29,7 @@ If we can agree that memory degrades over time, then Joseph's memory twelve to e
 ### Age
 You'll likely notice that the comparison of *Age* has only minor variation. I'm not trying to require that Joseph be able to describe down to the day precisely how old he was, but please recognize that despite the tremendous weight of the moment when divine figures appeared to Joseph, in no account does he narrow down when this happens. The closest we get is "spring of 1820." We don't get a specific month to point to. Just a season.
 
-The absence of a definitive date for the First Vision is not the problem here. The problem is that Joseph can't consistently tell us anything specific about what *would be* among the most monumental events in human history. If I discover a specific date, that wouldn't make things more palatable&mdash;the problem is that if this event mattered to him, Joseph would recollect vivid details about the day when the entirety of his worldview changed because *fucking God Himself showed up* to advise the prophet that no other church is true, which means that the eternal salvation of *every human alive in that moment* is in jeopardy, and it's up to this teenaged farmboy to restore the gospel as Christ Himself taught it, but he can't even remember when that happened. Some time in the spring when he was "about fourteen" is the best we get.
+The absence of a definitive date for the First Vision is not the problem here. The problem is that Joseph can't consistently tell us anything specific about what *would be* among the most monumental events in human history. If I discover a specific date, that wouldn't make things more palatable. The problem is that if this event mattered to him, Joseph would recollect vivid details about the day when the entirety of his worldview changed because *fucking God Himself showed up* to advise the prophet that no other church is true, which means that the eternal salvation of *every human alive in that moment* is in jeopardy, and it's up to this teenaged farmboy to restore the gospel as Christ Himself taught it, but he can't even remember when that happened. Some time in the spring when he was "about fourteen" is the best we get.
 
 &nbsp;
 
@@ -45,7 +45,7 @@ I can tell you the specific dates of some key events in my life, many of which r
 
 &nbsp;
 
-Did God appear to you or not, Joseph? Did you forget what God said to you eighteen years later? You didn't write it down the day of? Do we not recognize the significance of God appearing&mdash;not a pastor, not a warm-fuzzy-feeling spirit, not an angel in a dream&mdash;*God the Father* appeared, and you didn't write down what He said to you? It'd sure look bad if you had to tell people about this twenty two years after the fact and have to just shrug your shoulders and say "yeah, God appeared, said you were wrong, and maybe He'd tell me the truth later idk lol"
+Did God appear to you or not, Joseph? Did you forget what God said to you eighteen years later? You didn't write it down the day of? Do we not recognize the significance of *God* appearing&mdash;not a pastor, not a warm-fuzzy-feeling spirit, not an angel in a dream&mdash;*God the Father* appeared, and you didn't write down what He said to you? It'd sure look bad if you had to tell people about this twenty two years after the fact and have to just shrug your shoulders and say "yeah, God appeared, said you were wrong, and maybe He'd tell me the truth later idk lol"
 
 The reason why fussing over how old Joseph was is two-fold: he should be able to remember how old he was in a formative memory, and he should be able to identify the date of something as monumental as Elohim showing up for tea. If Joseph can't tell you when it happened, then it must not have been that formative, monumental, or important. And if *this of all things* wasn't important enough to remember, then I'm going to assert that it didn't happen. And if it didn't happen... well, President Hinckley himself presented the duality that "then this work is a fraud."
 
@@ -79,7 +79,7 @@ This is not a detail you misremember. If you fucking *saw God* then you don't fu
 &nbsp;
 
 ### Intent
-==In 1832==, Joseph wrote that before he prayed he already knew that there was no true living faith or denomination as established by Jesus in the New Testament. Instead, the explicitly stated purpose in praying was to seek forgiveness. Nothing to do with [James 1:5](https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng&id=p5#p5). Joseph wasn’t even asking about which church to join&mdash;he had already concluded that they were wrong.
+==In 1832==, Joseph wrote that before he prayed he already knew that there was no true living faith or denomination as established by Jesus in the New Testament. Instead, the explicitly stated purpose in praying was to seek forgiveness. Nothing to do with [James 1:5](https://www.churchofjesuschrist.org/study/scriptures/nt/james/1?lang=eng&id=p5#p5). Joseph wasn’t even asking about which church to join, he had already concluded that they were wrong.
 
 > *… by searching the scriptures I found that mankind did not come unto the Lord but that they had apostatised from the true and liveing faith and there was no society or denomination that built upon the gospel of Jesus Christ as recorded in the new testament.*
 
@@ -103,9 +103,9 @@ Six years after the prior telling, Joseph's reason for praying to God changes co
 
 Think of it this way: assuming you, reader, are or were an actively practicing member of the LDS faith, think back to the time when you gained your spiritual confirmation of the truthfulness of the Book of Mormon. Was it in your room? Chapel? Temple grounds? Did you follow [[Cognitive Bias#Moroni's Promise|Moroni's promise]] as directed by the missionaries? Did you "ask God with real intent?" Did you get the warm-fuzzy feeling?
 
-You don't have to tell me any level of detail for this experience&mdash;it is your own to share or protect, but think on that recollection for context or surrounding information. Don't feel pressured to tell me anything that you don't want to tell me.
+You don't have to tell me any level of detail for this experience; it is your own to share or protect, but think on that recollection for context or surrounding information. Don't feel pressured to tell me anything that you don't want to tell me.
 
-... Are you really sure you were praying to know if the Book of Mormon was true? Are you sure you weren't just praying for forgiveness, and *then* felt that the book was true? Hadn't you actually concluded that there was no "true" religious texts, so you were asking God what to do?
+Now... are you really sure you were praying to know if the Book of Mormon was true? Are you sure you weren't just praying for forgiveness, and *then* felt that the book was true? Hadn't you actually concluded that there was no "true" religious texts, so you were asking God what to do?
 
 That's the kind of mental gymnastics I'm seeing in Joseph's experience. His intention behind going into the woods to pray has such variance for an unforgettable theophany that I truly don't feel convinced that this holds up under scrutiny.
 
@@ -135,12 +135,14 @@ Whether personally or through some intermediary, God answers Joseph's question. 
 
 | Year     | Query                                                          | Reply                                                                |
 | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **1832** | I'm bummed out about sins. Show me some mercy?                 | 👌 sure thing, your sins are forgiven. bye                           |
+| **1832** | I'm bummed out about sins. Show me some mercy?                 | sure thing 👌 your sins are forgiven. bye                            |
 | **1835** | I want to make sure I join the right church. Which is right?   | Your sins are forgiven. Jesus is the son of God, btw                 |
 | **1838** | Not sure if *any* of the churches are right? What should I do? | Don't join one. Also don't write down anything else that I tell you. |
 | **1842** | Religion seems important, but is confusing. What should I do?  | Don't join one. I'll tell you later what to do.                      |
 
-I'll be real, I don't know which of those responses I find more dissatisfying. Why would God answer Joseph's specific question of "which church is right" with "I'll tell you later"? That's heavily paraphrased, of course, but God and Joseph are literally in physical proximity, face to face&mdash;one of them is eternal and omniscient, and the other is asking for advice. If God answered your question that way, how would you react? "Well, golly gee, if only I had someone all-knowing with infinite wisdom physically manifest Himself before me, an event with remarkably few recorded instances throughout all of Earth's existence, who was capable of providing an answer for which church to join. Oh wait, I have literally the creator of all of fathomable reality right in front of me." What the hell, God?
+I'll be real, I don't know which of those responses I find more dissatisfying. Why would God answer Joseph's specific question of "which church is right" with "I'll tell you later"? That's heavily paraphrased, of course, but God and Joseph are literally in physical proximity, face to face. One of them is eternal and omniscient, and the other is asking for advice. 
+
+If God answered *your* question that way, how would you react? "Well, golly gee, if only I had an omniscient deity with infinite wisdom physically manifest Himself before me, an event with remarkably few recorded instances throughout all of Earth's existence, who was capable of providing an answer for which church to join. Oh wait, I have literally the creator of all of fathomable reality right in front of me." What the hell, God?
 
 &nbsp;
 

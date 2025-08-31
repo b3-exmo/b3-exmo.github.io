@@ -118,7 +118,7 @@ The only exception I've found to date (I imagine I'll find more in the future, b
 
 Uchtdorf gave a talk called [Fourth Floor, Last Door](https://www.churchofjesuschrist.org/study/general-conference/2016/10/fourth-floor-last-door?lang=eng), which I remember listening to as a heartwarming tale about perseverance, and caring for those outside of convenient reach. If you were to open up the "related content" on the page, either on mobile or on a browser, you see the footnotes referenced. This talk has an unusual number of citations of the *New International Version*. Check for yourself.
 
-This isn't some groundbreaking discovery hidden from the unwitting masses, of course&mdash;I simply find it noteworthy that so much of church leadership demands KJV exclusivity, and this is an exception.
+This isn't some groundbreaking discovery hidden from the unwitting masses, of course. I simply find it noteworthy that so much of church leadership demands KJV exclusivity, and this is an exception.
 
 &nbsp;
 
@@ -247,7 +247,7 @@ I may add others as I encounter them, but I'd argue that this excerpt does indic
 
 This BoM passage is cited as evidence that the Bible is incomplete, and BoM fills in the gaps.
 
-Legitimate question: what gaps? The Book of Mormon doesn't have hardly any Mormon [[Book of Mormon#Fullness of the Gospel|doctrines or practices]] in it. If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps&mdash; modern prophets are.
+Legitimate question: what gaps? The Book of Mormon doesn't have hardly any Mormon [[Book of Mormon#Fullness of the Gospel|doctrines or practices]] in it. If the intent of the BoM is to prove Smith's legitimacy, and his legitimacy proves modern church leadership, then no, the BoM is not filling in gaps; modern prophets are.
 
 What *specific* things are missing from the Bible that are found in the Book of Mormon? We've had nearly 200 years of people reading these scriptures daily, surely we can find an exhaustive enumeration somewhere? Maybe a prophet of God could tell us?
 

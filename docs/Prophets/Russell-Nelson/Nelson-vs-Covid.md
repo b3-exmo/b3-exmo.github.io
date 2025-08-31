@@ -52,7 +52,7 @@ We're told that prophets "[see around corners](https://speeches.byuh.edu/devotio
 
 👏 *All* 👏 *they had* 👏 *to do* 👏 was lean into COVID and say "see? We told you that this would be one to remember!" And the whole world would have just eaten it up. Any statement even *adjacent to that* would have been enough to make me reconsider my heathen ways. They could have made a quick shift from the scheduled programming (like every organization on the planet had to) and tout how they saw this coming. Hell, not even tout, just *acknowledge* it. Imply it.
 
-What did we get instead? Not nothing&mdash;what we got was *worse than nothing*. Had they said nothing, they would have plausible deniability. Silence could ostensibly equivocate foreknowledge, letting Nelson's parting [words from 2019 speak for themselves](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38). That silence would have been very powerful.
+What did we get instead? Not nothing; what we got was *worse than nothing*. Had they said nothing, they would have plausible deniability. Silence could ostensibly equivocate foreknowledge, letting Nelson's parting [words from 2019 speak for themselves](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38). That silence would have been very powerful.
 
 &nbsp;
 

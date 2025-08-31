@@ -22,7 +22,7 @@ To me, this is incredibly problematic. For two years, at the MTC and in the miss
 &nbsp;
 
 ## Historian Joseph Fielding Smith
-Just to level-set before delving in&mdash;we're talking about the church historian named [Joseph Fielding Smith Junior](https://en.wikipedia.org/wiki/Joseph_Fielding_Smith) (1876 - 1972) who would later become the *tenth* president of the LDS church; not to be confused with [Joseph Fielding Smith Senior](https://en.wikipedia.org/wiki/Joseph_F._Smith), the *sixth* president of the church, and nephew to [Joseph Smith Junior](https://en.wikipedia.org/wiki/Joseph_Smith), the *first* president of the LDS church who founded it based on the premise of having a physical visitation of God and Jesus. Maybe.
+Just to level-set before delving in: we're talking about the church historian named [Joseph Fielding Smith Junior](https://en.wikipedia.org/wiki/Joseph_Fielding_Smith) (1876 - 1972) who would later become the *tenth* president of the LDS church; not to be confused with [Joseph Fielding Smith Senior](https://en.wikipedia.org/wiki/Joseph_F._Smith), the *sixth* president of the church, and nephew to [Joseph Smith Junior](https://en.wikipedia.org/wiki/Joseph_Smith), the *first* president of the LDS church who founded it based on the premise of having a physical visitation of God and Jesus. Maybe.
 
 Hope that clears things up.
 
@@ -33,7 +33,7 @@ Under the stewardship of Joseph Fielding Smith serving as Church Historian, the 
 &nbsp;
 
 ### 1943
-Fawn Brodie, author of an incisive biography of Joseph Smith, was able to access lots of early church documentation&mdash;something about being being the niece of president David O. McKay gave her preferential treatment. When she asked the acting church historian, Joseph Fielding Smith for access to Joseph's first-hand account of the First Vision, "he personally refused Fawn . . . remarking at the time that 'there are things in this library we don't let anyone see.'" (Source: [UTLM](https://www.utlm.org/newsletters/no108.htm#Letterto))
+Fawn Brodie, author of an incisive biography of Joseph Smith, was able to access lots of early church documentation; something about being being the niece of president David O. McKay gave her preferential treatment. When she asked the acting church historian, Joseph Fielding Smith for access to Joseph's first-hand account of the First Vision, "he personally refused Fawn . . . remarking at the time that 'there are things in this library we don't let anyone see.'" (Source: [UTLM](https://www.utlm.org/newsletters/no108.htm#Letterto))
 
 His response was not "I don't know what you're talking about," nor "that document doesn't exist," but (paraphrased) "no, you can't see the document that you're asking for." Fawn doesn't get access, but the next time someone *does* get access to the book, lo and behold, six pages have been sliced out but taped back in. Very un-suspicious.
 

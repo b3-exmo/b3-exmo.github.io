@@ -59,7 +59,7 @@ This guy has numerous things to say about race. I'll put just one quote here, bu
 
 ## 1978 - 1999
 ### Bruce R. McConkie
-My boy Bruce has plenty to say on plenty of topics. He has some quotes on race both before and after the revelation, which I have copied [[Various Quotes#McConkie|on another page]] for the sake of organizing by speaker rather than by time. I'd summarize the two statements as: "we are justified in these awful, racist teachings given to us from prophets of old," and "never mind, God is not racist anymore, and so we aren't either&mdash;but *you're* the one who needs to repent now."
+My boy Bruce has plenty to say on plenty of topics. He has some quotes on race both before and after the revelation, which I have copied [[Various Quotes#McConkie|on another page]] for the sake of organizing by speaker rather than by time. I'd summarize the two statements as: "we are justified in these awful, racist teachings given to us from prophets of old," and "never mind, God is not racist anymore, and so we aren't either... but *you're* the one who needs to repent now."
 
 &nbsp;
 

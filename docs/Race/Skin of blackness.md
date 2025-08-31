@@ -9,7 +9,7 @@ comments: true
 
 If you believe that context surrounding this verse of scripture will make it more palatable, go on and read the entire chapter if you like. I'll wait.
 
-Believe it or not, this passage has stirred disagreements among those who've practiced Mormonism. Seems out of character for God to do something like this, which raises many questions—among them, "what the hell, God?" I suppose that becoming "like unto a [flint](https://duckduckgo.com/?q=flint&iax=images&ia=images)" must be referring to the hardness of their hearts, as "flint is usually dark grey or black, green, white, or brown in colour, and has a glassy or waxy appearance" by [Wikipedia](https://en.wikipedia.org/wiki/Flint)'s short description. [Verse 14](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p14#p14) sounds like "they" were called Lamanites who received this curse.
+Believe it or not, this passage has stirred disagreements among those who've practiced Mormonism. Seems out of character for God to do something like this, which raises many questions; among them, "what the hell, God?" I suppose that becoming "like unto a [flint](https://duckduckgo.com/?q=flint&iax=images&ia=images)" must be referring to the hardness of their hearts, as "flint is usually dark grey or black, green, white, or brown in colour, and has a glassy or waxy appearance" by [Wikipedia](https://en.wikipedia.org/wiki/Flint)'s short description. [Verse 14](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p14#p14) sounds like "they" were called Lamanites who received this curse.
 
 > *The Nephites separate themselves from the Lamanites, keep the law of Moses, and build a temple—Because of their unbelief, ==the Lamanites are cut off from the presence of the Lord, are cursed, and become a scourge unto the Nephites==. About 588–559 B.C.*
 
@@ -42,7 +42,7 @@ And so, in an effort to drive critics away from the conclusion that this could b
 
 😐 Right, okay
 
-Re-read the [offending passage](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p21-p23#p21) that describes "skin of blackness," if it isn't fresh in your memory. Nephi's people&mdash;whose hearts were not hardened&mdash;"*were white, and exceedingly fair and delightsome*." Evidently, the Lord did not want white, fair, and delightsome Lamanites who had hardened their hearts against him to be enticing to the Nephites, so “the Lord God did cause a skin of blackness to come upon them.” I'd have a hard time finding a way around this—the Lamanites had hardened their hearts against the Lord, but were still white, fair, and delightsome, so the Lord cursed them with “a skin of blackness” to make them unappealing enough to differentiate them. What the hell, God?
+Re-read the [offending passage](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p21-p23#p21) that describes "skin of blackness," if it isn't fresh in your memory. Nephi's people (whose hearts were not hardened) "*were white, and exceedingly fair and delightsome*." Evidently, the Lord did not want white, fair, and delightsome Lamanites who had hardened their hearts against him to be enticing to the Nephites, so “the Lord God did cause a skin of blackness to come upon them.” I'd have a hard time finding a way around this; the Lamanites had hardened their hearts against the Lord, but were still white, fair, and delightsome, so the Lord cursed them with “a skin of blackness” to make them unappealing enough to differentiate them. What the hell, God?
 
 The words "white," "fair," and "delightsome" don't seem to refer to spiritual purity, since the Lamanites were hard-hearted at the same time they were "white, and exceedingly fair and delightsome." Or, thinking of it from another angle, the phrase “skin of blackness” is contingent on hardheadedness, meaning it cannot refer to hard-heartedness or spiritual darkness. This "curse" is the result, not the condition.
 
@@ -115,6 +115,8 @@ I normally steer clear of any news publications' *opinion* section. I can't thin
 > *Black and blackness can mean a color and dark or darkness can refer to hue. But they can also mean emotions, countenance or state of one’s soul. Words like “gloomy,” “despondent” or “dejected” are dark. Despair — and the pit of grief — are black. I would argue that Hitler had the blackest of souls while the white light that emanates from Reverend Desmond Tutu is inspiring in all the best ways.*
 
 What can the symbolic cleansing from Christ's atonement mean, when scriptures explicitly describe Lamanites being cursed with a skin of blackness? The implications are clear: Lamanites had emotional, sad clothing, just like Hitler did.
+
+I would call this a good demonstration of [Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law), where the discourse has lasted for so long that *someone* had to invoke Hitler's name.
 
 &nbsp;
 

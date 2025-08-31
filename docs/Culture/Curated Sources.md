@@ -55,7 +55,7 @@ Hey, uh... Mr Kunzler? I... I can't think of a more polite way to remind you of 
 
 &nbsp;
 
-While we're in proximity to this devotional and quote, I'll advise readers to follow the cited link and read (or listen) for yourselves. An opening remark is Bruce McConkie panicking that missionaries in the '80's didn't rank Joseph Smith as being comparably important as God. Go check for yourself. *No, we're not a cult.*
+While we're in proximity to this devotional and quote, I'll advise readers to follow the cited link and read (or listen) for yourselves. One of Kunzler's opening remark is describing Bruce McConkie panicking that missionaries in the '80's didn't rank Joseph Smith as being comparably important as God. Go check for yourself. *No, we're not a cult.*
 
 &nbsp;
 
@@ -67,7 +67,7 @@ For what it's worth, one demonstration of untrustworthy information today is AI-
 
 Maybe I'm being too harsh, and the intended context is seeking information about a church leader instead of education on a broader perspective. I could imagine that being a fair defense.
 
-I'm willing to concede that I'm just some grump, but Alma's [war chapters](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/53?id=p5-p6&lang=eng#p5), Ether's [barges](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/2?id=p16-p17&lang=eng#p16) and [[Jaredites#How many people died?|holocaust-scale deaths]], [Teancum throwing a javelin](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/62?id=p36&lang=eng#p36) through enemy military leaders, nor [Nephite women being violated](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/9?id=p9-p10&lang=eng#p9) are going to help me understand one Russell Marion Nelson better. Actually, if those tales *did* help me understand Nelson better, I think that connection would warrant further examination and scrutiny. I'll be real, not all parts of the *Book of Mormon: Another Testament of Jesus Christ*, turn my thoughts toward Jesus Christ. Similarly, they won't all remind me of Jesus' mortal representative in Salt Lake City.
+I'm willing to concede that I'm just being a grump, but Alma's [war chapters](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/53?id=p5-p6&lang=eng#p5), Ether's [barges](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/2?id=p16-p17&lang=eng#p16) and [[Jaredites#How many people died?|holocaust-scale deaths]], [Teancum throwing a javelin](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/62?id=p36&lang=eng#p36) through enemy military leaders, nor [Nephite women being violated](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/9?id=p9-p10&lang=eng#p9) are going to help me understand one [[Russell-M-Nelson|Russell Marion Nelson]] better. Actually, if those tales *did* help me understand Nelson better, I think that connection would warrant further examination and scrutiny. I'll be real, not all parts of the *Book of Mormon: Another Testament of Jesus Christ*, turn my thoughts toward Jesus Christ. Similarly, they won't all remind me of Jesus' mortal representative in Salt Lake City.
 
 &nbsp;
 
@@ -97,23 +97,25 @@ If you blindly obey what the acting president of the church says, "blessings jus
 
 ... It is also the first law of North Korea. I don't think that's a selling point. In fact, in the Mormon belief of the pre-mortal war in heaven, Satan got kicked out for his plan where obedience was the first law. But when a prophet declares that here on earth, it's fine.
 
-Why would God endow us with free will and capacity for critical thinking if He simply wanted us to abandon it and simply obey leadership? What the hell, God? If Joseph Smith Jr. was blindly obedient, we would not have the restored gospel today.
+Why would God endow us with free will and capacity for critical thinking if He simply wanted us to abandon it and simply obey leadership? What the hell, God? If Joseph Smith Jr. was blindly obedient to his Presbyterian upbringing, we would not have the restored gospel today.
 
 Fortunately for us, this quote from 1873 was just a one-off remark that definitely didn't get used to establish credibility in later years. Nope, later church leaders never [used this](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&query=%22obedience+is+the+first+law+of+heaven%22&page=1) to justify preaching obedience. Well... I dunno, maybe just once or twice. ([1](https://www.churchofjesuschrist.org/study/general-conference/1994/04/live-in-obedience?id=p7&lang=eng#p7), [2](https://www.churchofjesuschrist.org/study/general-conference/1994/04/live-in-obedience?id=p7&lang=eng#p7), [3](https://www.churchofjesuschrist.org/study/general-conference/2013/04/obedience-brings-blessings?id=p33&lang=eng#p33), [4](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-thomas-s-monson/chapter-12-willing-obedience-to-the-lord?id=p26&lang=eng#p26), [5](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/author-index?lang=eng), [6](https://www.churchofjesuschrist.org/study/liahona/2023/01/afw-eng-local-pages/local-news-001?id=p17&lang=eng#p17), [7](https://www.churchofjesuschrist.org/study/ensign/2015/01/the-attributes-of-jesus-christ-obedient-son?id=p1&lang=eng#p1))
 
 &nbsp;
 
-> ***36** Master, which is the great commandment in the law?*
+> ***36*** *Master, which is the great commandment in the law?*
 > 
-> ***37** Jesus said unto him, ==Thou shalt love the Lord thy God== with all thy heart, and with all thy soul, and with all thy mind.*
+> ***37*** *Jesus said unto him, ==Thou shalt love the Lord thy God== with all thy heart, and with all thy soul, and with all thy mind.*
 > 
-> ***38** ==This is the first and great commandment==.*
+> ***38*** *==This is the first and great commandment==.*
 > 
-> ***39** And the second is like unto it, Thou shalt love thy neighbour as thyself.*
+> ***39*** *And the second is like unto it, Thou shalt love thy neighbour as thyself.*
 > 
-> ***40** On these two commandments hang all the law and the prophets.*
+> ***40*** *On these two commandments hang all the law and the prophets.*
 
-You guys say you represent Jesus, right? Right.
+&nbsp;
+
+You guys say you represent Jesus, right?<br>Right.
 
 &nbsp;
 
@@ -171,4 +173,4 @@ Much like the church's responses to [[Blood Atonement]], this sounds like a case
 
 &nbsp;
 
-[There's more](https://www.churchofjesuschrist.org/search?facet=manuals&lang=eng&query=%22avoid+speculation%22) to be found, and I might copy more here in the future.
+[There's more](https://www.churchofjesuschrist.org/search?facet=manuals&lang=eng&query=%22avoid+speculation%22) to be found, but I think I've made my case with these examples.

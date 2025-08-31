@@ -35,7 +35,7 @@ This revelation is given well before the Industrial Revolution extended to [inte
 
 &nbsp;
 
-Suspiciously absent from the above overview, advising against "highly addictive" substances irrespective of legality, is sugar. 
+Suspiciously absent from the above overview, advising against "highly addictive" substances irrespective of legality: sugar. 
 
 &nbsp;
 
@@ -48,13 +48,13 @@ Suspiciously absent from the above overview, advising against "highly addictive"
 
 — [D&C 89:5-6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p5-p6#p5)
 
-I mean, by Middle-Earth logic, does this mean that wine and strong drinks are suitable for women? 🤷‍♀️
+I mean, by Middle-Earth logic, would this mean that wine and strong drinks are suitable for women? 🤷‍♀️
 
 ![[eowyn-is-no-man.gif]]{: .center}
 
 &nbsp;
 
-To be fair, this seems to be saying that homemade wine is acceptable only in the context of sacrament services. It isn't what I had been raised to believe, that alcohol should never be ingested by any human under any circumstance.
+To be fair, this seems to be saying that homemade wine is acceptable only in the context of sacrament services. It isn't what I had been raised to believe, that alcohol should never be ingested by any human under any circumstance. Unless it's Nyquil or vanilla extract.
 
 &nbsp;
 
