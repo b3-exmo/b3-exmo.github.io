@@ -17,7 +17,7 @@ Remember that, now. It's about to be very important.
 
 &nbsp;
 
-> ***None of the characters on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham.***
+> *==[None](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&id=p19#p19) of the characters== on the papyrus fragments mentioned Abraham’s name or any of the events recorded in the book of Abraham.*
 
 Does no one think this is a problem?
 
@@ -25,26 +25,26 @@ Does no one think this is a problem?
 
 > *Scholars have identified the papyrus fragments as parts of ==standard funerary texts== that were deposited with mummified bodies. These fragments date to between the third century B.C.E. and the first century C.E., ==long after Abraham lived==.*
 > 
-> *Of course, ==the fragments do not have to be as old as Abraham== for the book of Abraham and its illustrations to be authentic.*
+> *[Of course](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&id=p20#p20), ==the fragments do not have to be as old as Abraham== for the book of Abraham and its illustrations to be authentic.*
 
 Excuse me? For the record to say it was literally written by the hand of Abraham, you’ll claim that it doesn’t have to be from when Abraham *was even alive*? Didn't Joseph Smith himself assert that Abraham wrote it?
 
 &nbsp;
 
 ## Translated
-> *Alternatively, Joseph’s study of the papyri may have led to a revelation about key events and teachings in the life of Abraham, much as he had earlier received a revelation about the life of Moses while studying the Bible.*
+> *[Alternatively](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&id=p24#p24), Joseph’s study of the papyri may have led to a revelation about key events and teachings in the life of Abraham, much as he had earlier received a revelation about the life of Moses while studying the Bible.*
 
 Alternatively? If this was by revelation, what does that say about this being a translation?
 
 &nbsp;
 
-> *This view assumes a ==broader definition of the words translator and translation==. According to this view, Joseph’s translation was not a literal rendering of the papyri as a conventional translation would be. Rather, the physical artifacts provided an occasion for meditation, reflection, and revelation. They catalyzed a process whereby God gave to Joseph Smith a revelation about the life of Abraham, even if that revelation did not directly correlate to the characters on the papyri.*
+> *[This view](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&id=p24#p24) assumes a ==broader definition of the words translator and translation==. According to this view, Joseph’s translation was not a literal rendering of the papyri as a conventional translation would be. Rather, the physical artifacts provided an occasion for meditation, reflection, and revelation. They catalyzed a process whereby God gave to Joseph Smith a revelation about the life of Abraham, even if that revelation did not directly correlate to the characters on the papyri.*
 
 Oh. Good. Cool. Fine, nothing here seems suspicious. If we just redefine what “translation” _means_ then yeah he totally translated it. What if this assumes a broader definition of the word “charlatan”?
 
 &nbsp;
 
-> *The veracity and value of the book of Abraham cannot be settled by scholarly debate concerning the book’s translation and historicity.*
+> *[The veracity](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/translation-and-historicity-of-the-book-of-abraham?lang=eng&id=p31#p31) and value of the book of Abraham cannot be settled by scholarly debate concerning the book’s translation and historicity.*
 
 ***WHAT***
 

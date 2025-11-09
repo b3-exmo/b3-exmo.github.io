@@ -2,14 +2,14 @@
 comments: true
 ---
 # ⚔️ Jaredites
-### Timeline
+## Timeline
 >_The Book of Mormon Jaredite King List gives only 7 exact dates (lifespans and reigns) for the Jaredite Chronology. The only real markers we have to build a working chronology from are firstly, the date of the “dearth” or famine and megafauna extinction given in the narrative of Heth [Ether 9:30–34](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=eng&id=p30-p34#p30). It’s important to note that it’s well established that Mastodons and other megafauna went extinct in most of continental North America at about 11 - 8,000 BC and the paleoindians role in killing them off and eating them amidst a major climate event (as explained in [Ether 9:30–34](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/9?lang=eng&id=p30-p34#p30)) is well documented in the archaeological record, so we must consider the possibility that if radiocarbon dates are not off (which they certainly may be for that period), then there is likely a large unknown break of thousands of years between the Jared to Heth, and the rest of the timeline._
 
 — _[Book of Mormon Chronology: Jaredite Timeline](https://gatheredin.one/2672/book-of-mormon-chronology-timeline-of-jaredites/)_, Gathered In One
 
 &nbsp;
 
-### Seeing God
+## Seeing God
 The brother of Jared is described as having like the most faith ever, and so he was able to [see God’s finger](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p6-p8#p6)… but Joseph Smith literally just prayed once and he got to see both Heavenly Father and Jesus. Their *full bodies*. Should we believe this means Joseph was super, uber, ultra-specially faithful prior to the [[First Vision|first vision(s)]]?
 
 &nbsp;
@@ -18,7 +18,7 @@ How do we get around this? We have a convenient *[deus ex machina](https://en.wi
 
 &nbsp;
 
-### Wooden Submarines
+## Wooden Submarines
 Giving this any amount of critical evaluation makes it sound more ridiculous than inspiring or faith-promoting. No propulsion, no steering, constant flipping, no food stores, no potable water, no waste disposal, and no solid way to tell time or know how long it took. I'm not sure they knew how to measure the number of days- did they write it down, or just talk out a consensus once they made landfall? If it was written, what was it recorded on? Etched on the inside wall between the smears of cow poop?
 
 BoM describes Jaredites as having been “[led by God from the Tower of Babel to the Americas](https://www.churchofjesuschrist.org/study/scriptures/gs/jaredites).” I’m open to correction, but my google-sleuthing led me to the Tower of Babel being in [Iraq, near Baghdad](https://maps.app.goo.gl/YTsXjXz2s3otx2Ri9). I hope I'm not being bamboozled by some kind of tourist attraction.
@@ -43,7 +43,7 @@ This is such a bizarre story. If it was presented as myth rather than objective 
 
 &nbsp;
 
-### How many people died?
+## How many people died?
 >*He saw that there had been slain by the sword already nearly [two millions](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng#note2a) of his people, and he began to sorrow in his heart; yea, there had been slain two millions of mighty men, and also their wives and their children.*
 
 — *[Ether 15:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/15?lang=eng&id=p2#p2)*
@@ -66,7 +66,7 @@ On either side of this conflict, each army needs to be fed at least once per day
 
 &nbsp;
 
-#### Illustration
+### Illustration
 For illustration, we can get a fair idea of what a gathering of [two million concert attendees looks like](https://youtu.be/woWvbInicK4?si=BT3Ts_vLeQgwuKy_&t=6235). In May 2025, *Lady Gaga* performed at Copacabana Beach, Rio de Janeiro Brazil. The link given there zooms out to see the crowd for only a few seconds, seeing how the crowd isn't the attraction, but you can glimpse that it's difficult to capture that number of two million people even from whatever height the footage was taken from. Go look.
 
 Now... Imagine, ostensibly, twice that size seeing how ~2 million "mighty men" *on one side of the conflict* had died. Imagine that many people, each one engaged in hand-to-hand combat, and *completely vanishing* with no archaeological trace whatsoever.
@@ -79,7 +79,7 @@ Folks who appreciate sports more than I do might be interested in a crowd of app
 
 I don't know what's a non-violent idiom to use in place of "beating a dead horse", but I recognize that I'm belaboring this point. Think back to the classic film trilogy of *The Lord of the Rings*. It had some visual spectacles of a large-scale war in a fictional, fantasy scenario. To be clear, I'm using this to visually depict a number of footsoldiers; I don't think there were Uruk-hai nor Nazgul in the Book of Mormon, unless I fell asleep during that part of seminary.
 
-![[lotr-pelennor.jpg]]
+![[lotr-pelennor.jpg]]{: .center}
 
 &nbsp;
 
@@ -93,7 +93,7 @@ Yet there is not one scrap of evidence to be found.
 
 &nbsp;
 
-#### WW1
+### WW1
 Let’s compare that to battle deaths on the _western front_ in the First World War. Over *4 years*, about [four million men died on the western front](https://en.m.wikipedia.org/wiki/Western_Front_(World_War_I)#Aftermath). That’s *4 years* of intense artillery fire, machine guns, accurate rifles, poison gas, etc resulting in just over *four million deaths*, not including over 16 million wounded (casualties.) If we narrow down our scope to the *[Battle of Verdun](https://en.wikipedia.org/wiki/Battle_of_Verdun)*, we're looking at `715,000 - 755,000` *casualties* spanning nearly ten months. The above passage in Ether doesn't explicitly outline a time frame for the two million deaths. Maybe it was over eight years? I have no way of knowing. I do feel confident that the Jaredites didn't have [M1919 Browning .30 caliber](https://en.wikipedia.org/wiki/M1919_Browning_machine_gun) automatic machine guns mounted on jeeps, and so in order to *kill* two million, it will necessarily take longer than World War 1's western front.
 
 Actually, you know what— six to seven million, as estimated by the mighty men plus wives plus children, is a *number* that has a pretty direct comparison to the [number of Jewish people killed during the holocaust](https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe). To be clear, the only comparison I'm making here is the number of deaths, ==no further implications other than scale==. Imagine numerous deaths on the scale of the 1940's holocaust, possibly greater, A) happening around 580 BCE, and B) just... poofing away. No mass graves to be found.
@@ -102,7 +102,7 @@ The idea that a bronze age civilization would be capable of inflicting death on 
 
 &nbsp;
 
-#### How did they die?
+### How did they die?
 As mentioned a moment ago, World War 1 was able to mete out such a grand scale of death so quickly given the available technology. I feel pretty confident that Jaredites did not have fully automatic machine guns, nor bomber planes. I imagine that the technology available to them in [580 b.c.](https://courses.byui.edu/BOM%20Timeline/html/timeline.html) would probably be clubs or pointy sticks, but [Mosiah 8:8-11](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/8?id=p8-p11&lang=eng#p8) demonstrates that Jaredites had enough knowledge of metallurgy to create armor of brass & copper, and swords out of what I assume is iron, given the rust. I can assume they have archery technology, given that archaeologists can find [arrowheads from 70,000 years ago](https://en.wikipedia.org/wiki/History_of_archery#Paleolithic_and_Epipaleolithic) (but no traces of ancient American holocaust-scale mass deaths.) We're reading about battles that result in two million soldiers dying from melee weapons, and maybe ranged archers.
 
 Have you ever been to a football stadium? A concert? An international airport? Some kind of convention? Have you stood in a group of humans counting five hundred or more? Imagine being one of *two million* people, ready to engage in hand-to-hand combat. It's unusual for modern people to be in a group greater than ten thousand, as were [the size of Moroni's battalions](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=eng&id=p11-p16#p11). Now imagine walking to the parking lot from the stadium after the ball game ends. It would take you *hours* to walk the distance of a quarter-mile.

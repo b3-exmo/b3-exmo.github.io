@@ -112,7 +112,7 @@ Was the prophet speaking as a man? He couldn't be, or else God wouldn't let him 
 
 Not only is the prophet NEVER wrong, ALWAYS speaks for the Lord, but is always *fully qualified* to authoritatively speak about anything. 🤔
 
-Really, now. Imagine *anyone else* saying this. "Our great leader Kim Jong Un doesn't *need* training or diplomas—he can speak on any subject or act on any matter at any time!" 
+Really, now. Imagine *anyone else* saying this. "Our great leader Kim Jong Un doesn't *need* training or diplomas! He can speak on any subject or act on any matter at any time!" 
 
 If you heard this said about [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) of Scientology, would you think "oh wow that's fascinating! Now I'm more interested to hear what he has to say about the intersection of art and mathematics," or would you think "only a narcissistic cult leader would say that about themselves"?
 

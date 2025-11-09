@@ -2,9 +2,9 @@
 comments: true
 ---
 # 📖 Literary Value
-> *And there were some who died with fevers, which at some seasons of the year were very frequent in the land—but not so much so with fevers, because of the excellent qualities of the many plants and roots which God had prepared to remove the cause of diseases, to which men were subject by the nature of the climate—*
+> ***40*** *And there were some who died with fevers, which at some seasons of the year were very frequent in the land—but not so much so with fevers, because of the excellent qualities of the many plants and roots which God had prepared to remove the cause of diseases, to which men were subject by the nature of the climate—*
 > 
-> *But there were many who died with old age; and those who died in the faith of Christ are happy in him, as we must needs suppose.*
+> ***41*** *But there were many who died with old age; and those who died in the faith of Christ are happy in him, as we must needs suppose.*
 
 &mdash; *[Alma 46:40-41](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=eng&id=p40-p41#p40)*
 
@@ -37,6 +37,10 @@ There are numerous characters in the bible of varying complexity. What makes man
 
 If you're unfamiliar with the [alignment chart](https://en.wikipedia.org/wiki/Alignment_%28Dungeons_%26_Dragons%29?wprov=sfla1) in the tabletop game *Dungeons & Dragons*, it's a 3x3 grid with an axis for disposition toward law versus chaos, the other axis representing disposition toward good versus evil. I bring this up to describe how characters in the Book of Mormon are archetypical heroes and villains. There are *Lawful Good* characters and there are *Chaotic Evil* ones. I'd be hard-pressed to identify any that fall anywhere in the middle of that spectrum.
 
+Think back on the antagonistic characters that appeared in this scriptural text. What drove them? What motivation did they have to be "evil"? [Amalickiah](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/49?id=p26-p27&lang=eng#p26) is described as being so angry that he curses God and vows to drink Moroni's blood, because how else would the reader know that he's the villain of the story? The verse even tells us his reasons for such an oath to be sworn: "*and this because Moroni had kept the commandments of God in preparing for the safety of his people.*" Amalickiah feels like a comic book villain presented as a foil to the heroic, stalwart main character. He is reminiscent of a teenager's fanfic villain. He's an archetypical violent savage rather than a human with desires and goals. He doesn't feel like a real person. *He has no depth*.
+
+&nbsp;
+
 Readers can only differentiate between the [sons of Mosiah](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p34#p34) because one of them [chopped off arms](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?id=p37&lang=eng#p37) and then had [[After all we can do#King Lamoni|a pentecostal revival]]. The other three... were also there, I guess. Aaron met up with Ammon to ask Lamoni if the other two can be let out of prison. What else did they do? The very next chapter after their respective proselytizing efforts end, this segment of the book ends with "and this is the account of Ammon and his brethren," so says [Alma 28:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/28?id=p8&lang=eng#p8); they are no longer the sons of Mosiah, they are Ammon and his brethren since [the past ten chapters](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?id=intro1-study_intro1&lang=eng#intro1) are practically just Ammon. Probably just a coincidence. [[Book of Mormon#Correctness|Most correct book on earth]], definitely not made up.
 
 These simply are not compelling characters to read about. They are predictable and two-dimensional. We don't spend enough time with any one character to find any emotional investment in them, seeing how [three hundred years](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?id=p48&lang=eng#p48) can pass by in a single chapter with absolutely nothing of note happening.
@@ -67,9 +71,11 @@ God dammit, these names for money are all recycled names of people. Never once o
 
 &nbsp;
 
-> *The Lord Himself has stated that the Book of Mormon contains the “fulness of the gospel of Jesus Christ” ([D&C 20:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p9#p9)). ==That does not mean it contains every teaching, every doctrine ever revealed==. Rather, it means that in the Book of Mormon we will find the fulness of those doctrines ==required for our salvation==. And they are taught plainly and simply so that even children can learn the ways of salvation and exaltation. The Book of Mormon offers so much that broadens our understandings of the doctrines of salvation.*
+> *The Lord Himself has stated that the Book of Mormon contains the “==fulness of the gospel== of Jesus Christ” ([D&C 20:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p9#p9)). ==That does not mean it contains every teaching, every doctrine ever revealed==. Rather, it means that in the Book of Mormon we will find the fulness of those doctrines ==required for our salvation==. And they are taught plainly and simply so that even children can learn the ways of salvation and exaltation. The Book of Mormon offers so much that broadens our understandings of the doctrines of salvation.*
 
-&mdash; *[Chapter 9: The Book of Mormon—Keystone of Our Religion](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-9-the-book-of-mormon-keystone-of-our-religion?lang=eng&id=p24#p24)*, Teachings of Presidents of the Church: Ezra Taft Benson
+&mdash; *[Chapter 9: The Book of Mormon—Keystone of Our Religion](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-be![[using-that-word.gif]]-book-of-mormon-keystone-of-our-religion?lang=eng&id=p24#p24)*, Teachings of Presidents of the Church: Ezra Taft Benson
+
+![[using-that-word.gif]]{: .center .size40}
 
 "I mean, yeah, we *said* it contains the fullness of the gospel, but that doesn't mean that it actually *contains* the fullness of the gospel! It just contains what you need for salvation."
 
@@ -79,13 +85,13 @@ God dammit, these names for money are all recycled names of people. Never once o
 
 If someone were to have access only to this book and tried to create a church from its teachings, it would look nothing like the Brighamite sect of the LDS movement. There would be no temple ceremony, no [[Word-of-Wisdom|Word of Wisdom]], no [[Tithing]], no [[Garments]], no delineation of priesthood, signs or tokens, no hierarchy of upper leadership, no organization of wards, branches, or stakes, no outlining of how the next prophet is chosen...
 
-If we were to outline all of the things that the modern LDS church teaches that we must do, count how many can be clearly and specifically cited back to the Book of Mormon. How far would you get? Using the standard of the [Temple Recommend Interview questions](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title30-p111#title30), or even the [Baptismal Interview questions](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-prepare-people-for-baptism-and-confirmation?lang=eng&id=figure5_title1-figure5_p10#figure5_title1) that missionaries use, would anyone who reads the Book of Mormon without any outside context conclude that those things are necessary for salvation? Evidently, that's what the "fullness of the gospel" means.
+If we were to outline all of the things that the modern LDS church teaches that we must do, count how many can be clearly and specifically cited back to the Book of Mormon. How far would you get? Using the standard of the [Temple Recommend Interview questions](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title30-p111#title30), or even the [Baptismal Interview questions](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-prepare-people-for-baptism-and-confirmation?lang=eng&id=figure5_title1-figure5_p10#figure5_title1) that missionaries use, would anyone who reads the Book of Mormon without any outside context conclude that those things are necessary for salvation? Evidently, that's what the "fullness" of the gospel means ([1](https://en.m.wiktionary.org/wiki/fullness), [2](https://www.dictionary.com/browse/fullness), [3](https://dictionary.cambridge.org/dictionary/english/fullness), [4](https://www.merriam-webster.com/dictionary/fullness)).
 
 &nbsp;
 
 ## As literature
 I know I've harped on the idea that it is "written for our day" numerous times, but... really, *was it*? Was it written to us in `current year` or for people in 1830? People in the early 19th century probably weren't too bothered by the run-on sentences, comical absence of punctuation and awful grammar. Are we sure it wasn't written for *them*?
 
-It's a dull book with absurd segments. It has been around for close to 200 years, and its popularity hasn't quite lived up to the expectation that it'd fill the whole Earth. If this was a good read, people outside of Mormonism would buy it and read it. By now, someone without a vested interest in it being proof of a church's legitimacy should have taken note and advocated for it. Yet the only people I find who see value in this book are those who *need it to be true* to settle cognitive dissonance.
+It's a dull book with absurd segments. It has been around for close to 200 years, and its popularity hasn't quite lived up to the expectation that it'd fill the whole Earth. If this was a good read, people outside of Mormonism would pursue it and read it. By now, someone without a vested interest in it being proof of a church's legitimacy should have taken note and advocated for it. Yet the only people I find who see value in this book are those who *need it to be true* to settle cognitive dissonance.
 
 If you were raised in the church and ~~forced~~ *firmly advised* to read and study it daily, having been taught that it's the best and most important book in the history of the world, then yes, it's a great read. To anyone outside of that cultural context, it's... it's a book, alright. Of all the books in the world, it sure is one of them.

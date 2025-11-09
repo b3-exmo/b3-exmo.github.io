@@ -97,7 +97,7 @@ The closest thing I can find to a primary source is from [FAIR](https://www.fair
 
 &nbsp;
 
-> Now we are generous with the Negro. We are willing that the Negro have the highest kind of education. I would be willing to let every Negro drive a Cadillac if they could afford it. I would be willing that they have all the advantages they can get out of life in the world. But let them enjoy these things among themselves. ==I think the Lord segregated the Negro and who is man to change that segregation?== It reminds me of the scripture on marriage, ‘what God hath joined together, let not man put asunder.’ Only here we have the reverse of the thing— What God hath separated, let not man bring together again.*
+> *Now we are generous with the Negro. We are willing that the Negro have the highest kind of education. I would be willing to let every Negro drive a Cadillac if they could afford it. I would be willing that they have all the advantages they can get out of life in the world. But let them enjoy these things among themselves. ==I think the Lord segregated the Negro and who is man to change that segregation?== It reminds me of the scripture on marriage, ‘what God hath joined together, let not man put asunder.’ Only here we have the reverse of the thing— What God hath separated, let not man bring together again.*
 
 &nbsp;
 
@@ -139,7 +139,7 @@ This isn't really a quote pertaining to race, but this heading for Petersen is t
 
 "Yeah, I *said* horrible things in the past and passed them off as unchangeable, eternal doctrine. Get over it, it's a new day. You need to repent. We have a prophet."
 
-I don't know how else to express this— *You don't get to tell us that "it doesn't make a particle of difference.* The doctrine *you* (McConkie) perpetuated literally kept people away from salvation. You don't just get to wave it off and move on with zero consequence. The proper response to correctinf a bold claim that you made with limited understanding is "I'm sorry." You apologize. You don't tell people that *they* are wrong, and *they* need to repent. What do those people need to repent of? Is this their fault for believing you? *You* (McConkie) are the one who perpetuated offensively racist teachings that you've conceded were wrong. *You* repent, you bitch.
+I don't know how else to express this: *You don't get to tell us that "it doesn't make a particle of difference."* The doctrine *you* (McConkie) perpetuated literally kept people away from salvation. You don't just get to wave it off and move on with zero consequence. The proper response to correctinf a bold claim that you made with limited understanding is "I'm sorry." You apologize. You don't tell people that *they* are wrong, and *they* need to repent. What do those people need to repent of? Is this their fault for believing you? *You* (McConkie) are the one who perpetuated offensively racist teachings that you've conceded were wrong. *You* repent, you bitch.
 
 &nbsp;
 

@@ -9,12 +9,12 @@ I don't expect I'll delve into the details of each of Joseph's plural wives. I'v
 ## Mawwiage
 ![image](../../img/mawwiage.gif){: .center}
 
-Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[Sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations. Assuming that's all that it was, then... what was the point?
+Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[docs/Doctrines/Polygamy/Sealing|sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations. Assuming that's all that it was, then... what was the point?
 
 &nbsp;
 
 ## Age gap
-Age of consent is broadly accepted as 18 in modern cultures of western nations, although laws explicitly state "a minor." In the 19th century, [that law was a lot less clear](https://en.wikipedia.org/wiki/Ages_of_consent_in_the_United_States#History), and not always enforced. What Joseph did here does not appear to be illegal by the metric of [contemporary judisprudence](https://en.m.wikipedia.org/wiki/Natural_law#Contemporary_judisprudence) and natural law; cultural norms shape laws where there isn't an explicitly stated case.
+Age of consent is broadly accepted as 18 in modern cultures of western nations, although laws explicitly use the term "a minor." In the 19th century, [that law was a lot less clear](https://en.wikipedia.org/wiki/Ages_of_consent_in_the_United_States#History), and not always enforced. What Joseph did here does not appear to be illegal by the metric of [contemporary judisprudence](https://en.m.wikipedia.org/wiki/Natural_law#Contemporary_judisprudence) and natural law; cultural norms shape laws where there isn't an explicitly stated case.
 
 Before you accuse me of delving too deep into libertarian ideology, please keep your pitchforks where they belong; I'm making the case that while law did not prevent this, ethics should have. Laws are not a moral benchmark. Someone speaking for and representing God must be held to a high standard. Joseph was already married. The Kimball family wouldn't have taken Joseph's word pertaining to salvation and exaltation if Joseph wasn't a prophet. This sounds to me like an abuse of power. Marrying someone 22 years younger than you is [[Polygamy#Census analysis|not commonplace]], and I think the only reason Joseph got away with it is because he's in a position of power and influence.
 
@@ -80,7 +80,7 @@ The fact is that he married her- and by that act he secured all rights and privi
 
 &nbsp;
 
-Alright, now... You can read the rest of this article if you think added context will make this somehow less awful. Maybe you can explain this me how marriage "for eternity alone" means there were no sexual relations. What the fuck does that even mean?
+Alright, now... You can read the rest of this article if you think added context will make this somehow less awful. Maybe *you* can explain to me how marriage "for eternity alone" means there were no sexual relations. What the fuck does that even mean?
 
 I don't know how else to ask this: **why would Helen consider the marriage a sacrifice?** That sure makes it sound like it wasn't a romantic, mutually beneficial agreement between two consenting parties. That makes me think it wasn't marriage as you and I think of it today. Maybe things have dramatically changed since 1843, and I'm just naive?
 
@@ -99,70 +99,36 @@ In [Appendix One](https://rsc.byu.edu/womans-view/appendix-one), we find the fol
 
 &nbsp;
 
-I'll be real, I had to refrain from highlighting a lot more in that passage. Hooo boy. There's a lot to unpack here. I understand that 19th century views on women's rights are not the same as they are today, but god damn does this sound bleak.
+I'll be real, I had to refrain from highlighting a lot more in that passage. Hooo boy. There's a lot to unpack here. I understand that 19th century views on women's rights are not the same as they are today, but *god damn* does this sound bleak.
 
-This appendix leads me to believe that this reminiscence was written on 30 March 1881. The quote at the beginning of this section says the interaction took place in 1843, meaning this would be around 38 years after, making Helen around 53 years old. I suppose she's had lots of time to think about it all, and the vivid detail that seems to stick out the most in Helen's memory is the anguish of her mother at this exchange. Think of that. 38 years later, and she can still recollect such emotional pain seen in Vilate's eyes. Heber offered Helen to Joseph, having "but one Ewe lamb", and under the pretense that marrying Joseph will "ensure your eternal salvation and exaltation" for Helen and her family.
+This appendix leads me to believe that the reminiscence in question was written on 30 March 1881. The quote at the beginning of this section says the interaction took place in 1843, meaning this would be around 38 years after, making Helen around 53 years old. I suppose she's had lots of time to think about it all, and the vivid detail that seems to stick out the most in Helen's memory is the anguish of her mother at this exchange. Think of that. 38 years later, and she can still recollect such emotional pain seen in Vilate's eyes. Heber offered Helen to Joseph, having "but one Ewe lamb", and under the pretense that marrying Joseph will "ensure your eternal salvation and exaltation" for Helen and her family.
+
+But, rather than this moment being a happy occasion seeing how Helen and her entire family's "eternal salvation and exaltation" have been practically guaranteed by the prophet of God, Helen spends most of her descriptive attention on Vilate's heartache.
+
+&nbsp;
+
+But... Eternity only, if that makes the situation feel better. It means they never got nasty, so this is all completely fine and normal and not-problematic.
+
+![[larry-david-larry.gif]]{: .center .size40}
 
 &nbsp;
 
 ### Poetry
 Helen attaches this to her reminiscence in that same appendix:
 
-> *==I thought through this life my time will be my own==* 
+> *==I thought through this life my time will be my own==*<br>*The step I now am taking’s for eternity alone,*<br>*No one need be the wiser, through time I shall be free,*<br>*And as the past hath been the future still will be.* 
 >
-> *The step I now am taking’s for eternity alone,* 
+> *To my guileless heart all free from worldly care*<br>*And full of blissful hopes—and youthful visions rare*<br>*The world seamed bright the thret’ning clouds were kept*<br>*From sight, and all looked fair but pitying angels wept.* 
 >
-> *No one need be the wiser, through time I shall be free,* 
+> *They saw my youthful friends grow shy and cold.*<br>*And poisonous darts from sland’rous tongues were hurled,*<br>*Untutor’d heart in thy gen’rous sacrafise,*<br>*Thou dids’t not weigh the cost nor know the bitter price;* 
 >
-> *And as the past hath been the future still will be.* 
+> *==Thy happy dreems all o’er thou’rt doom’d alas to be==*<br>*==Bar’d out from social scenes by this thy destiny,==*<br>*And o’er thy sad’nd mem’ries of sweet departed joys*<br>*Thy sicken’d heart will brood and imagine future woes,* 
 >
-> *To my guileless heart all free from worldly care* 
+> *==And like a fetter’d bird with wild and longing heart,==*<br>*==Thou’lt dayly pine for freedom and murmor at thy lot;==*<br>*But could’st thou see the future & view that glorious crown,*<br>*Awaiting you in Heaven you would not weep nor mourn,* 
 >
-> *And full of blissful hopes—and youthful visions rare* 
+> *Pure and exalted was thy father’s aim, he saw*<br>*A glory in obeying this high celestial law,*<br>*For to thousands who’ve died without the light*<br>*I will bring eternal joy & make thy crown more bright.* 
 >
-> *The world seamed bright the thret’ning clouds were kept* 
->
-> *From sight, and all looked fair but pitying angels wept.* 
->
-> *They saw my youthful friends grow shy and cold.* 
->
-> *And poisonous darts from sland’rous tongues were hurled,* 
->
-> *Untutor’d heart in thy gen’rous sacrafise,* 
->
-> *Thou dids’t not weigh the cost nor know the bitter price;* 
->
-> *==Thy happy dreems all o’er thou’rt doom’d alas to be==* 
->
-> *==Bar’d out from social scenes by this thy destiny,==* 
->
-> *And o’er thy sad’nd mem’ries of sweet departed joys* 
->
-> *Thy sicken’d heart will brood and imagine future woes,* 
->
-> *==And like a fetter’d bird with wild and longing heart,==* 
->
-> *==Thou’lt dayly pine for freedom and murmor at thy lot;==* 
->
-> *But could’st thou see the future & view that glorious crown,* 
->
-> *Awaiting you in Heaven you would not weep nor mourn,* 
->
-> *Pure and exalted was thy father’s aim, he saw* 
->
-> *A glory in obeying this high celestial law,* 
->
-> *For to thousands who’ve died without the light* 
->
-> *I will bring eternal joy & make thy crown more bright.* 
->
-> *==I’d been taught to receive the Prophet of God==* 
->
-> *==And receive every word as the word of the Lord==.* 
->
-> *==But had this not come through my dear father’s mouth,==* 
->
-> *==I should ne’r have received it as God’s sacred truth.==* 
+> *==I’d been taught to receive the Prophet of God==*<br>*==And receive every word as the word of the Lord==.*<br>*==But had this not come through my dear father’s mouth,==*<br>*==I should ne’r have received it as God’s sacred truth.==* 
 
 &nbsp;
 
@@ -194,9 +160,11 @@ Assume for a moment that coercing Helen was the only scumbag thing that Joseph S
 
 &nbsp;
 
-I'll acknowledge that practicing Mormons won't like this source, as they like to discount anything said by someone who has been excommunicated from the church; evidently that makes an individual lose all credibility and negates any of their experiences. I'll concede also that I haven't read this full book. Again, perhaps you could point to the context that makes this less egregious, because it sure sounds to me like Brigham and Heber were among the apostles to divvy up Joseph's wives, and...
+I'll acknowledge that practicing Mormons won't like this source, as they like to discount anything said by someone who has been excommunicated from the church; evidently that makes an individual lose all credibility and negates any of their experiences. I'll concede also that I haven't read this full book. Again, perhaps you could point to the context that makes this less egregious, because it sure sounds to me like Brigham and Heber were among the apostles to divvy up Joseph's wives, and... wait a minute...
 
-hol up now
+*hol up now*
+
+![[what-wtf.gif]]{: .center .size40}
 
 Helen is asserting in no uncertain terms that she refuses to be sealed as a plural wife to her own father Heber, with the understanding that it's to "raise up children" what the fuck Heber. *Heber*. Sit down. I am deadass right now I need someone to get in the comments and tell me I'm misinterpreting this, cause it sure sounds like Heber wants to take his own daughter as a plural wife to raise up children. "By doing so they should gain his approbation?" Whose, Josephs? I can't think of anyone's approbation that makes this okay. I can't. 
 

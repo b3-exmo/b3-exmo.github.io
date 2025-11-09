@@ -45,6 +45,8 @@ The... The *doctrine is incorrect*? You're telling me that [a rock opera](https:
 
 I will observe that this quote clearly distinguishes "profanity, swearing, vulgarity," "references to sexual promiscuity, alcohol, drugs," and "disrespect for ... institutions" each as separate clauses from Satan-worship. Those aspects in a song do not qualify the song as Satan-worship. They are not mutually exclusive, nor are they the criteria. "Satan-worship" songs are not songs about sex, drugs, rock 'n roll, etc. They are their own category.
 
+&nbsp;
+
 Added bonus: at the top of this article is the following "Editors' Note (updated Feb. 2020):"
 
 > *Articles in the magazines archive may reflect the terms and language of an earlier time. Current messages on disabilities and the gospel are available [here](https://www.churchofjesuschrist.org/life/disability?lang=eng).*
@@ -103,7 +105,7 @@ Also, observe how LDS church leadership backed off of identifying Satanic influe
 
 &mdash; [Policies and Announcements](https://www.churchofjesuschrist.org/study/ensign/1992/06/news-of-the-church/policies-and-announcements?id=p79-p80&lang=eng#p79), Ensign 1992 June
 
-My understanding of these "ritualistic practices" is that a therapist will hound a patient until said patient concedes that "okay, yeah, we sacrificed fetuses or whatever, get off my back" which admission is indisputable proof of Satan's demonic summoning-circles. Yeah, *I guess* they were victims, but if anything they were being predated upon by therapists subversively convincing a patient that they had been abused, but just forgot about it since it was *too traumatic*. You tell me what role Satan had there.
+My understanding of these "ritualistic practices" is that a therapist will hound a patient until said patient concedes that "okay, yeah, we sacrificed fetuses or whatever, get off my back" which admission is indisputable proof of Satan's demonic summoning-circles. Yeah, *I guess* they were victims, but if anything they were being predated upon by unethical therapists subversively convincing a patient that they had been abused, but just forgot about it since it was *too traumatic*. You tell me what role Satan had there.
 
 Crazy how the church stopped talking about those reports once the moral panic fizzled out. Seems that Satan either gave up, or got scared off by the release of *Windows 95*.
 

@@ -2,11 +2,11 @@
 comments: true
 ---
 # 🍻 Word of Wisdom
-The Word of Wisdom is an odd bit of [[Name Mormon|Mormon]] culture, doctrine, and lore. It's among the more visible demarcations of who is a practicing member of the LDS church, which is both an advantage and disadvantage— in my days of practicing Mormonism, the vitriolic repulsion by coffee was something to start conversations, which are a missionary opportunity to evangelize. The social dynamics of such a conversation never really panned out the way we had been hyped for on Sundays, at least in my own experience.
+The Word of Wisdom is an odd bit of [[Name Mormon|Mormon]] culture, doctrine, and lore. It's among the more visible demarcations of who is a practicing member of the LDS church, which is both an advantage and disadvantage; in my days of practicing Mormonism, the vitriolic repulsion by coffee was something to start conversations, which are a missionary opportunity to evangelize. The social dynamics of such a conversation never really panned out the way we had been hyped for on Sundays, at least in my own experience.
 
 Imagine this: a peer or coworker expresses strong distaste for any food item that qualifies as a *sandwich*, and expects you to rationalize why you would willingly, knowingly eat such a garbage consumable. When you ask why he or she reacts so strongly to something so mundane, they might reply that they know *the truth*™️ as revealed by their religious leaders 200 years prior. Knowing that, would you like to join?
 
-And you begin to understand why Mormons insisting that coffee is evil just looks fucking weird to the rest of the world. Not in a quirky or "peculiar" way, mind you. Any further interaction with this hypothetical peer concerning their belief will be sullied by your recollection of their acrimonious response to a prosaic, otherwise uninteresting food item. No, you're not interested in joining—that venomous response to a goddamned sandwich is well outside the parameters of personal preference. *It's weird*.
+And you begin to understand why Mormons insisting that coffee is evil just looks fucking weird to the rest of the world. Not in a quirky or "peculiar" way, mind you. Any further interaction with this hypothetical peer concerning their belief will be sullied by your recollection of their acrimonious response to a prosaic, otherwise uninteresting food item. No, you're not interested in joining. That venomous response to a goddamned sandwich is well outside the parameters of personal preference. *It's weird*.
 
 &nbsp;
 
@@ -27,7 +27,7 @@ And you begin to understand why Mormons insisting that coffee is evil just looks
 
 For transparency, this source does also describe that "the Lord declared that the following foods are good," and lists fruits, vegetables, grains, and meat (sparingly.) See, it's not all that restrictive! 
 
-We've got some common sense advice here—I don't know of anyone who would insist that a diet consisting primarily of vegetables and grain as being a bad idea. ... Honestly, though, as I think about it... I don't know that we needed God to reveal that to us through a prophet. Growing up in this church, I don't think I recall hearing clear, prophetic guidance on "regular exercise, proper hygiene, and getting sufficient rest." Which session of General Conference was that in? ... Did we *need* a General Conference session to tell us that?
+We've got some common sense advice here. I don't know of anyone who would insist that a diet consisting primarily of vegetables and grain as being a bad idea. ... Honestly, though, as I think about it... I don't know that we needed God to reveal that to us through a prophet. Growing up in this church, I don't think I recall hearing clear, prophetic guidance on "regular exercise, proper hygiene, and getting sufficient rest." Which session of General Conference was that in? ... Did we *need* a General Conference session to tell us that?
 
 This revelation is given well before the Industrial Revolution extended to [intensive animal farming](https://en.wikipedia.org/wiki/Intensive_animal_farming#History). In 1833, what choice did people have, outside of fruits, vegetables, grains, and sometimes meat? What other option was there, eating sand or tree bark?
 
@@ -77,7 +77,7 @@ The same verse that describes beer as being fine and okay seems to use the same 
 
 &nbsp;
 
-I guess the divine wisdom from these few verses is that "alcohol is bad for you." Alright, I suppose— I imagine that folks who've had to confront debilitating addiction in their family, or who have been affected by intoxicated motorists would agree that alcohol is bad. I think we can live with that. My own experience is that every alcoholic drink I've tried has been *nasty*. I don't know how people stand it.
+I guess the divine wisdom from these few verses is that "alcohol is bad for you." Fair enough. I imagine that folks who've had to confront debilitating addiction in their family, or who have been affected by intoxicated motorists would agree that alcohol is bad. I think we can live with that. My own experience is that every alcoholic drink I've tried has been *nasty*. I don't know how people stand it.
 
 &nbsp;
 
@@ -99,11 +99,11 @@ You know what would have been a *golden* opportunity to show the world that the 
 
 — Hyrum Smith (probably), [Times and Seasons, 1 June 1842](https://www.josephsmithpapers.org/paper-summary/times-and-seasons-1-june-1842/2), p.800-801
 
-To distinguish between "[body & belly](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p9&lang=eng#p9)" probably does not mean that one's belly is not part of their body. That would be absurd. So what does it mean instead? Is this insinuating that people used to brew up a hot drink and not drink it? Use it to wash themselves off instead of ingesting it? I'm not sure that is any less absurd. What is this divine inspiration telling me? "Hot drinks are not for the body, or belly..." Oh, so I'm *not* supposed pour a kettle of tea all over my abdomen? Thanks, God— you really are watching out for our best interests!
+To distinguish between "[body & belly](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p9&lang=eng#p9)" probably does not mean that one's belly is not part of their body. That would be absurd. So what does it mean instead? Is this insinuating that people used to brew up a hot drink and not drink it? Use it to wash themselves off instead of ingesting it? I'm not sure that is any less absurd. What is this divine inspiration telling me? "Hot drinks are not for the body, or belly..." Oh, so I'm *not* supposed pour a kettle of tea all over my abdomen? Thanks, God! You really are watching out for our best interests!
 
 &nbsp;
 
-If we can call that publication authoritative, then there we go; as early as 1842, we've got a clear delineation that yes, "it does refer to tea, and coffee." Followed up by "why are you all being such dumbasses? You're all probably getting sick because you're heating up your water and removing the microbes. *Pshaw*, amateurs— God put those parasites in the water for a reason, who are you to overrule His wisdom and use hot water for tea?"
+If we can call that publication authoritative, then there we go; as early as 1842, we've got a clear delineation that yes, "it does refer to tea, and coffee." Followed up by "why are you all being such dumbasses? You're all probably getting sick because you're heating up your water and removing the microbes. *Pshaw*, amateurs! God put those parasites in the water for a reason, who are you to overrule His wisdom and use hot water for tea?"
 
 I really do wonder why would God feel so strongly about water that's above room temperature. Doesn't that *sanitize* it? Wouldn't that be conducive to health? Wouldn't tea be safer to drink than creek water, with all the bacteria from bear poop?
 
@@ -126,7 +126,7 @@ The text transcript doesn't do it justice. The video clip shows such *emotional 
 ### Meat
 To me, in 2025, this sounds more like an ethical decision. I've had some phases of vegetarianism, at times extending into veganism. I don't believe there is a good rationalization for mankind to be exploiting animals for food at the scale that we are. If we as humans see ourselves as God's chosen dominant species on the planet, then yes, I could agree that only consuming animals in famine or winter is what I would call "wise."
 
-... But, once more, I'd ask if we needed God to tell us this. I have never personally killed an animal to use for food— my suburban upbringing sheltered me from that experience. Do we need divine intervention to tell us that seeing the light extinguish from a creature's eyes, ending its consciousness, is unwise? Why are Mormons so comfortable today with meat in every meal at any time of year? Canon scripture is much more explicit about meat than it is cannabis.
+... But, once more, I'd ask if we needed God to tell us this. I have never personally killed an animal to use for food. My suburban upbringing has sheltered me from that experience. Do we need divine intervention to tell us that seeing the light extinguish from a creature's eyes, ending its consciousness, is unwise? Why are Mormons so comfortable today with meat in every meal at any time of year? Canon scripture is much more explicit about meat than it is cannabis.
 
 If you're in a position to be interviewed for temple worthiness, consider answering the question of following the Word of Wisdom by confessing how much meat you consume, assuming your consumption isn't what you'd call "sparingly." I'm not suggesting this to shame you, but to gauge how your Bishop reacts. Would it jeopardize your temple recommend? If not, why is that part of the Word of Wisdom? It's worded much more explicitly than "hot drinks," which Mormonism has very strong feelings about, even when the source text is so vague and indirect.
 
@@ -142,13 +142,13 @@ I guess we could call this a win for Joseph Smith? I can't help but wonder if in
 &nbsp;
 
 ## What could have been
-Imagine, though, a parallel universe where the Word of Wisdom is not explicitly forbidding things, but giving it the same advice as meat—that is, to be used sparingly. My naïve outlook is that alcohol isn't objectively bad, but it can be a real detriment to one's judgment, and can lead to a substance dependency. A "use sparingly" approach to alcohol would lead to *remarkably* lower risk. Take the edge off of a stressful week with some Mary Jane. Not every day, of course—but to be used *sparingly*. If you rely so heavily on coffee in order to function as a human before 10 AM, you shouldn't need God to tell you to consider cutting back.
+Imagine, though, a parallel universe where the Word of Wisdom is not explicitly forbidding things, but giving it the same advice as meat; that is, to be used sparingly. My naïve outlook is that alcohol isn't objectively bad, but it can be a real detriment to one's judgment, and can lead to a substance dependency. A "use sparingly" approach to alcohol would lead to *remarkably* lower risk. Take the edge off of a stressful week with some Mary Jane. Not every day, of course, but to be used *sparingly*. If you rely so heavily on coffee in order to function as a human before 10 AM, you shouldn't need God to tell you to consider cutting back.
 
 What if God had instead advised Joseph Smith that [refined sugar is addictive](https://en.wikipedia.org/wiki/Diet_and_obesity#Sugar_consumption) and can do some [real harm](https://en.wikipedia.org/wiki/Sugar#Genera) to your body? Smith might think "that's bonkers, I don't think we have such a thing in *year of our Lord* 1833. Since God sees a bigger picture than I do, I ought to write it down anyway, and maybe folks will benefit from that advice 127 years from now."
 
 &nbsp;
 
-Maybe in this parallel universe, I would still be writing critical notes of the church and its claims to divinity being too soft or lenient. Hard to say— I am not omniscient, and I am limited to one (1) conscious existence.
+Maybe in this parallel universe, I would still be writing critical notes of the church and its claims to divinity being too soft or lenient. Hard to say. I am not omniscient, and I am limited to one (1) conscious existence.
 
 &nbsp;
 
@@ -190,7 +190,7 @@ Not only is this describing that the revelation is reactive to what mortal, impe
 
 &nbsp;
 
-I'm not sure what to make of the description that this revelation was given "in response to a problem." I think I can safely conclude that it means God didn't reveal this information because He loves us, or is looking out for our best interests. It also certainly appears that God didn't take initiative and tell Joseph "hey, buddy boy—listen up, I've got something important to tell you, and you've got to spread the word. This is going to impact peoples' salvation, so they need to know before their mortal bodies pass away. Ready? 𝔦 𝔣𝔲𝔠𝔨𝔢𝔫 𝔥𝔞𝔱𝔢 𝔠𝔬𝔣𝔣𝔢𝔢. it *sucks*. If *anyone* shows up with coffee-breath, they go straight to the Telestial Kingdom, no questions asked. You, in the role of prophet, must now tell the world."
+I'm not sure what to make of the description that this revelation was given "in response to a problem." I think I can safely conclude that it means God didn't reveal this information because He loves us, or is looking out for our best interests. It also certainly appears that God didn't take initiative and tell Joseph "hey, buddy boy... listen up, I've got something important to tell you, and you've got to spread the word. This is going to impact peoples' salvation, so they need to know before their mortal bodies pass away. Ready? 𝔦 𝔣𝔲𝔠𝔨𝔢𝔫 𝔥𝔞𝔱𝔢 𝔠𝔬𝔣𝔣𝔢𝔢. it *sucks*. If *anyone* shows up with coffee-breath, they go straight to the Telestial Kingdom, no questions asked. You, in the role of prophet, must now tell the world."
 
 Instead, it seems that God does not feels like something is important until it becomes a [[Russell-M-Nelson#UNLEASHED|personal]] or domestic matter of concern for the acting president of the church.
 
@@ -228,7 +228,7 @@ You can follow that link and see the [preceding address](https://catalog.churcho
 
 — [D&C 89:18-21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p18-p21#p18)
 
-19th century revelations pertaining to health sure seemed a lot more bold than "[[Nelson-vs-Covid#Vitamins]]!" Who said anything about a destroying angel? Where do we draw the line— if I eat a ribeye steak more than twice a month, I'm going to have a destroying angel slay me? Why was the destroying angel involved in the first place? If I order a matcha latte from Starbucks, I'll get murdered? Who else but God would command, influence, or direct this destroying angel? What the hell, God?
+19th century revelations pertaining to health sure seemed a lot more bold than "[[Nelson-vs-Covid#Vitamins|eat your vitamin pills]]!" Who said anything about a destroying angel? Where do we draw the line? If I eat a ribeye steak more than twice a month, I'm going to have a destroying angel slay me? Why was the destroying angel involved in the first place? If I order a matcha latte from Starbucks, I'll get murdered? Who else but God would command, influence, or direct this destroying angel? What the hell, God?
 
 This *Word of Wisdom*, presented as "here's some friendly advice for a fulfilling life" takes a really sharp turn at the end: "do what I say and I won't kill you~ 🥰"
 
@@ -249,7 +249,7 @@ I remember when I was in my early-to-mid-twenties, I got into running as an exer
 
 — *[Continue in Patience](https://www.churchofjesuschrist.org/study/general-conference/2010/04/continue-in-patience?lang=eng&id=p28-p30#p28)*, President Dieter F. Uchtdorf, Second Counselor in the First Presidency, General Conference 2010 April
 
-Whoa, slow down, there, Uchtdorf— you might cause people to consider that the most obvious blessing of obeying this ~~commandment~~ friendly advice may not actually come to fruition. We do now have some written precedent of the promised blessings not being realized. How does Uchtdorf conclude his experience with cognitive dissonance? ... [It's a bit vague](https://www.churchofjesuschrist.org/study/general-conference/2010/04/continue-in-patience?lang=eng&id=p31#p31).
+Whoa, slow down, there, Uchtdorf. You might cause people to consider that the most obvious blessing of obeying this ~~commandment~~ friendly advice may not actually come to fruition. We do now have some written precedent of the promised blessings not being realized. How does Uchtdorf conclude his experience with cognitive dissonance? ... [It's a bit vague](https://www.churchofjesuschrist.org/study/general-conference/2010/04/continue-in-patience?lang=eng&id=p31#p31).
 
 > *The answer didn’t come immediately. But eventually I learned that God’s promises are not always fulfilled as quickly as or in the way we might hope; they come according to His timing and in His ways. ==Years later I could see clear evidence of the temporal blessings that come to those who obey the Word of Wisdom==—in addition to the spiritual blessings that come immediately from obedience to any of God’s laws. Looking back, I know for sure that the promises of the Lord, if perhaps not always swift, are always certain.*
 
@@ -281,12 +281,19 @@ How does this pan out in practice today?
 - This actually *is* a commandment
 - Alcohol is bad in any volume
 - When we say "hot drinks" we don't mean temperature, we just mean tea & coffee. Iced decaf isn't permissible.
-- Thanks to the industrial revolution and foreign imports, famines are no longer a relevant factor in diet choice— meat is fine all year round
+- Thanks to the industrial revolution and foreign imports, famines are no longer a relevant factor in diet choice; meat is fine all year round
 - ... Well, God hasn't killed me yet
 
 &nbsp;
 
-This ~~advice~~ commandment is a metric for temple-worthiness. If the Lord's Law of Health was really about health, we wouldn't see any obese temple participants. I recognize that numerous factors affect one's BMI—I'm not trying to criticize these individuals nor their life choices, but I am observing that the purported "law of health" doesn't seem to be contributing to temple patrons' health. I would expect to see a statistically significant disparity between rates of, say, Type 2 Diabetes among practicing Mormons and the rest of the world. I should also expect to *not* see 4XL temple clothing available for purchase. However, the dirty apostate heathens who both drink coffee *and* run marathons are forbidden from the temple because they don't follow the Lord's Law of Health (which isn't a commandment.)
+### Performance Indicators
+This ~~advice~~ commandment is a metric for temple-worthiness. If the Lord's Law of Health was really about health, we wouldn't see any obese temple participants. I recognize that numerous factors affect one's BMI. I'm not trying to criticize these individuals nor their life choices, but I am observing that the purported "law of health" doesn't seem to be contributing to temple patrons' health. There are clearly other factors outside of what is delineated in D&C 89 that affect one's health. I assume that Joseph Smith didn't anticipate 21st century capitalism leading to jobs where one sits sedentary for ten hours a day. Maybe God didn't, either.
+
+If D&C 89 were a complete document, it would contain more useful information. If adherents would like to rationalize that it's "[a principle with promise](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p3#p3)," therefore should not be exhaustive, I would retort that clearly there are temple attendees who are not following the principle of the commandment.
+
+Were this commandment useful in any applicable context, I would expect to see a statistically significant disparity between rates of, say, type 2 diabetes among practicing Mormons and the rest of the world. I should also expect to *not* see 4XL temple clothing or garments available for purchase. If God's commandment pertaining to bodily health had practical effects, no adherent should need such voluminous clothing. I see a remarkable discrepancy in that these sizes of [[Garments|temple garments]] exist to accommodate those who do not appear to be following the Lord's Law of Health. Either the commandment is not sufficient, or we can skirt by the rules and rationalize that it isn't actually a commandment. Neither is a satisfying explanation.
+
+However, the dirty apostate heathens who both drink coffee *and* run marathons are forbidden from the temple because they don't follow the Lord's Law of Health (which isn't *actually* a commandment.)
 
 &nbsp;
 
@@ -298,11 +305,11 @@ This ~~advice~~ commandment is a metric for temple-worthiness. If the Lord's Law
 
 — [Can Mormons drink coffee?](https://faq.churchofjesuschrist.org/can-mormons-drink-coffee) FAQ, churchofjesuschrist.org
 
-I need you to understand that both of those sentences are in the same answer to the question. "We're *advised to avoid coffee*, but if you do drink it, you're not allowed to be baptized nor enter the temple—both of which are necessary for your salvation." I don't know that *advised* is the word I would use for something that determines your candidacy for *not burning in hell for eternity*.
+I need you to understand that both of those sentences are in the same answer to the question. "We're *advised to avoid coffee*, but if you do drink it, you're not allowed to be baptized nor enter the temple; both of which are necessary for your salvation." I don't know that *advised* is the word I would use for something that determines your candidacy for *not burning in hell for eternity*.
 
 &nbsp;
 
-Advising 19th century frontier America that "you should eat foods [when they are in season](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p11&lang=eng#p11)" becomes more ridiculous the more I think about it. What choice did they have in 1840? If a food is out of season, it doesn't grow! If you have some on hand from the previous season, it's likely to have decayed and rotted. Did you really need God to tell you to not eat the moldy four-month-old tomatoes? The technology to preserve food was being used [in France by 1809](https://en.m.wikipedia.org/wiki/Canning#French_origins), and I will concede that canning did exist in America [as early as 1812](https://en.wikipedia.org/wiki/Canning#In_the_United_States). I'm not sure that God factored this into the revelation, though. If canning peaches makes them safe to eat in February, what's the problem? I'm not sure how commonplace it was in Illinois. And, as mentioned before, in today's global economy, we can import food from another hemisphere if it isn't in season where you live. How literally should we take this ~~advice~~ commandment?
+Advising 19th century frontier America that "you should eat foods [when they are in season](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p11&lang=eng#p11)" becomes more ridiculous the more I think about it. What choice did they have in 1840? If a food is out of season, it doesn't grow! If you have some on hand from the previous season, it will have decayed and rotted. Did you really need God to tell you to not eat the moldy four-month-old tomatoes? The technology to preserve food by canning was being used [in France by 1809](https://en.m.wikipedia.org/wiki/Canning#French_origins), and I will concede that canning did exist in America [as early as 1812](https://en.wikipedia.org/wiki/Canning#In_the_United_States). I'm not sure that God factored this into the revelation, though. If canning peaches makes them safe to eat in February (out of season,) then what's the problem? I'm not sure how commonplace it was in Illinois. And, as mentioned before, in today's global economy, we can import food from another hemisphere if it isn't in season where you live. How literally should we take this ~~advice~~ commandment?
 
 &nbsp;
 
@@ -313,14 +320,14 @@ Advising 19th century frontier America that "you should eat foods [when they are
 
 — [Using Mormon.org to Share the Gospel](https://www.churchofjesuschrist.org/study/liahona/2005/12/news-of-the-church/using-mormon-org-to-share-the-gospel?lang=eng&id=p10-p11#p10), Liahona 2005 December
 
-I encountered this page while searching for any clarification on "iced tea" specifically, hoping maybe it'd include guidance on, say, cold brew coffee, or an iced decaf mocha. Instead, I got this acknowledgment of those questions, followed by a dead end. I implore you to follow that link and find where they actually answer these questions (and the others posed, but omitted in this quote.) I would expect that they'd have a link to those answers—they specifically said they were available.
+I encountered this page while searching for any clarification on "iced tea" specifically, hoping maybe it'd include guidance on, say, cold brew coffee, or an iced decaf mocha. Instead, I got this acknowledgment of those questions followed by a dead end. I implore you to follow that link and find where they actually answer these questions and the others posed, but omitted in this quote. I would expect that they'd have a link to the answers that they specifically said were available.
 
 Maybe it took them fourteen years to come with a good answer.
 
 &nbsp;
 
 ### New Era, 2019
-In 2019, before the church-published magazines all rebranded or merged into the Liahona, this blurb from the August Ensign offers this teaser:
+In 2019, before the church-published magazines all rebranded and merged into the Liahona, this blurb from the August Ensign offers this teaser:
 
 > *Find these and other topics in the August issue of the New Era.*
 > 
@@ -339,9 +346,9 @@ Well, hot dog, that sounds promising. Let's go find the *August 2019 New Era*!
 
 &nbsp;
 
-There are a few candidates for which article will have these answers. [This one](https://www.churchofjesuschrist.org/study/new-era/2019/08/vaping-coffee-tea-and-marijuana?lang=eng) seems to be the closest match. It says absolutely fuck-all about iced coffee.
+There are a few candidates for which article will have these answers. To me, [this article](https://www.churchofjesuschrist.org/study/new-era/2019/08/vaping-coffee-tea-and-marijuana?lang=eng) seems to be the closest match. It says absolutely fuck-all about iced coffee.
 
-Look, I know the answer that I'm looking for, I'm just trying to find it in writing. Coffee is bad at any temperature, don't ask why. *Somehow*, "hot drinks" includes iced drinks. If we've stretched those two words to span the entire range of temperatures that humans can call palatable for beverages, then why not just rule out any liquid that isn't parasite-ridden creek water?
+Look, I already know the answer that I'm looking for, I'm just trying to find it in writing. Coffee is bad at any temperature, don't ask why. *Somehow*, "hot drinks" includes cold drinks. If we've stretched those two words to span the entire range of temperatures that humans can call palatable for beverages, then why not just rule out any liquid that isn't parasite-ridden creek water?
 
 &nbsp;
 
@@ -351,7 +358,7 @@ It's a short read, go on and skim through it for your own edification. It later 
 
 ...
 
-Not only are the blessings vague, but we've added a qualifier that they might not even happen. You might get blessed, but there's no guarantee. Better follow the 19th century health advice anyway, just to be on the safe side. Yes, iced drinks are hot drinks. Don't think about it.
+Not only are the [[What are blessings|blessings vague]], but we've added a qualifier that they might not even happen. You might get blessed, but there's no guarantee. Better follow the 19th century health advice anyway, just to be on the safe side. Yes, iced drinks are hot drinks. Don't think about it.
 
 &nbsp;
 
@@ -359,18 +366,20 @@ Not only are the blessings vague, but we've added a qualifier that they might no
 > *The Word of Wisdom is one thing, and ignorance, superstition, or bigotry is another. ==I wish people to come to an understanding with regard to the Word of Wisdom==. For illustration, I will refer to a certain brother who was in the church once, and President of the Elder's Quorum in Nauvoo. While living at that place there was a great deal of sickness among the people, and ==he was sometimes called in to lay hands on the sick, but if he had the least doubt about their drinking tea, if he even saw a teapot, he would refuse==. I recollect he went into a house where a woman was sick, who wanted him to lay hands on her; ==he saw a teapot in the corner containing catnip tea, but without stopping to enquire he left the house, exclaiming against her and her practices==.*
 > 
 > ...
+
+That guy sounds like a real douche, ngl
+
+> ...
 > 
 > *You may think I am speaking extravagantly, but I remember a tea drinking match once in which fourteen cups apiece were drank, so you see it can be done. But to drink half a dozen or even three or four cups of strong tea is hurtful. It injures and impairs the system, benumbs the faculties of the stomach, and affects the blood, and is deleterious in its nature. If a person is weary, worn out, cast down, fainting, or dying, a brandy sling, a little wine, or a cup of tea is good to revive them. ==Do not throw these things away, and say they must never be used; they are good to be used with judgment, prudence, and discretion==.*
 
 — Brigham Young, Word of Wisdom, Journal of Discourses 12 [https://scriptures.byu.edu/#:t1d4c9:j12](https://scriptures.byu.edu/#:t1d4c9:j12)
 
-That guy sounds like a real douche, ngl
-
 While I haven't found a quote to back up the claim that it was the Lion of the Lord himself, Brigham Young who solidified this teaching into a hard and fast doctrine, I can find a direct quote of him saying "look, don't just throw out all liquids that aren't room-temperature tap water. Maybe get a cuppa *once in a while*, but know your limits and boundaries." Or, in other words, *be wise*. That's kind of the whole point of a revelatory *word of wisdom*.
 
 &nbsp;
 
-Actually, you know what? After writing all of this... just to spite Elder Oaks, I'm gonna go drive down to the cannabis dispensary. Then we'll see who's *high on a mountain top*. 😏
+Actually, you know what? After writing all of this... just to spite Elder [[Dallin-Oaks|Oaks]], I'm gonna go drive down to the cannabis dispensary. Then we'll see who's *high on a mountain top*. 😏
 
 &nbsp;
 

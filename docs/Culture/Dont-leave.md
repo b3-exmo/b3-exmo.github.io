@@ -10,9 +10,9 @@ I'll still include some of the shorter passages for relevancy, but first, a glan
 	- What prophetic warning did President Young sound for those Saints who received the “power of God” and then turned “away from the commandments”?
 	- Why is intellectual reasoning not enough to keep us on the path to eternal life?
 - **[When](https://www.churchofjesuschrist.org/study/manual/teachings-brigham-young/chapter-12?lang=eng&id=title4#title4) we find fault with Church leaders, we begin to separate ourselves from the Church.**
-	- In what ways will attending to our own callings rather than questioning the inspiration of current leaders strengthen us as individuals, families, wards, and Church members collectively?
-	- What was President Young’s warning to those who criticize their ward or branch leadership? What can we do at church and at home to sustain the bishop of our ward, president of our branch, or other Church leaders?
-	- How does our willingness to sustain those leaders strengthen the whole Church? How does our unwillingness to sustain them weaken the Church?
+	- In what ways will attending to our own callings rather than ==questioning the inspiration of current leaders== strengthen us as individuals, families, wards, and Church members collectively?
+	- What was President Young’s ==warning to those who criticize their ward or branch leadership==? What can we do at church and at home to sustain the bishop of our ward, president of our branch, or other Church leaders?
+	- How does our willingness to sustain those leaders strengthen the whole Church? How does our ==unwillingness to sustain== them weaken the Church?
 - **[Those](https://www.churchofjesuschrist.org/study/manual/teachings-brigham-young/chapter-12?lang=eng&id=title5#title5) who lose the Spirit are filled with darkness and confusion.**
 	- Why do some choose the “wisdom of men” rather than the wisdom of God as revealed by the Spirit?
 - **[We](https://www.churchofjesuschrist.org/study/manual/teachings-brigham-young/chapter-12?lang=eng&id=title6#title6) can stand firm by living our religion and seeking the Holy Spirit.**
@@ -31,15 +31,17 @@ I'll still include some of the shorter passages for relevancy, but first, a glan
 &nbsp;
 
 ## Stay in the boat
-> Keep the eyes of the mission on the ==leaders of the Church==. … We will not and … cannot lead [you] astray.  
+> *Keep the eyes of the mission on the ==leaders of the Church==. … We will not and … cannot lead [you] astray.*  
 > 
-> And as you teach your missionaries to ==focus their eyes on us==, teach them to ==never follow those who think they know more== about how to administer the affairs of the Church than … Heavenly Father and the Lord Jesus Christ do” through the priesthood leaders who have the keys to preside.
+> *And as you teach your missionaries to ==focus their eyes on us==, teach them to ==never follow those who think they know more== about how to administer the affairs of the Church than … Heavenly Father and the Lord Jesus Christ do” through the priesthood leaders who have the keys to preside.*
 > 
-> I have discovered in my ministry that those who have become lost [and] confused are typically those who have most often … forgotten that ==when the First Presidency and the Quorum of the Twelve speak with a united voice, it is the voice of the Lord for that time==. The Lord reminds us, ‘Whether by mine own voice or by the voice of my servants, it is the same’ [D&C 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1.38?lang=eng#p38).”
+> *I have discovered in my ministry that those who have become lost [and] confused are typically those who have most often … forgotten that ==when the First Presidency and the Quorum of the Twelve speak with a united voice, it is the voice of the Lord for that time==. The Lord reminds us, ‘Whether by mine own voice or by the voice of my servants, it is the same’ [D&C 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1.38?lang=eng#p38).”*
 
 — *[Stay in the Boat and Hold On!](https://www.churchofjesuschrist.org/study/general-conference/2014/10/stay-in-the-boat-and-hold-on?lang=eng&id=p17-p19#p17)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference 2014 April
 
-Am I hearing right that when the upper 15 leaders of the church "speak with a unified voice," that means it's divine communication? So... what does that mean? If I heard them all chanting in unison, that would be creepy and weird. They speak in sequence, and broadly the only overlap in their respective messages is what you hear in Primary. I haven't heard Elder Kearon also insist that saying "Mormon" is a victory for Satan. Does that mean it wasn't "the voice of the Lord?"
+Am I hearing right that when the upper 15 leaders of the church "speak with a united voice," that means it's divine communication? So... what does that mean? If I heard them all chanting in unison, that would be creepy and weird. They speak in sequence, and broadly the only overlap in their respective messages is what you hear in Primary. I haven't heard Elder Kearon also insist that saying "Mormon" is a victory for Satan. Does that mean it wasn't "the voice of the Lord?"
+
+I suppose a more realistic interpretation of this statement is that if each of the brethren say something internally consistent. If all twelve have mentioned the importance of baptism, then baptism must be "the voice of the Lord for that time." If a majority of them urge you to pay tithing, then it must also be "the voice of the Lord for that time." If five or fewer out of twelve say that [sometimes God's commandments are temporary](https://www.churchofjesuschrist.org/study/general-conference/2024/10/18oaks?lang=eng&id=p_xfPgG#p_xfPgG), is *that* the voice of the Lord? I suppose that all I can say with confidence is that the only consistent things all apostles have said "with a united voice" have been boring basics. Get baptized. Read scriptures.
 
 &nbsp;
 

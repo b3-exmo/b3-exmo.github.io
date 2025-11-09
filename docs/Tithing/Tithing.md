@@ -2,7 +2,7 @@
 comments: true
 ---
 # 💵 Tithing
-Quick note: I would like to be proven wrong about the ideas in this page. To me, this is disheartening, and to you, it may sound very pessimistic. If you have compelling information that disproves any of this, there's a comment section at the bottom of each page.
+I would like to be proven wrong about the ideas in this page. To me, this is disheartening, and to you, it may sound very pessimistic. If you have compelling information that disproves any of this, there's a comment section at the bottom of each page.
 
 &nbsp;
 
@@ -58,7 +58,7 @@ This is not an admonition for the general public, us common folk in [current yea
 
 &nbsp;
 
-This passage in Malachi gets quoted pretty often. While I'm not sure how to prove this, what I won't do is make a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
+This passage in Malachi gets quoted pretty often, but I'm not sure how to prove that. What I won't do is make a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
 
 That said, here are some references I found from a cursory search:
 
@@ -78,11 +78,11 @@ I've got a separate page for some [[In General Conference|General Conference]] s
 
 — _[Chapter 12: Tithing, a Law for Our Protection and Advancement](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-lorenzo-snow/chapter-12-tithing-a-law-for-our-protection-and-advancement?lang=eng&id=title4-p12#title4)_, Teachings of Presidents of the Church: Lorenzo Snow
 
-![image](../img/tithing1.png){: .center}
+![[tithing1.png]]{: .center}
 
 That ellipsis and that footnote are doing some heavy lifting. What is it omitting? If only the church provided its own manuscript of that conference report. Alas, it does not. 1899 is too far back for its "official" archives to reach.
 
-![image](../img/tithing2.png){: .center}
+![[tithing2.png]]{: .center}
 
 >_I plead with you in the name of the Lord, and I pray that every man, woman and child ==who has means== shall pay one tenth of their income as a tithing._
 
@@ -101,7 +101,7 @@ Lorenzo's “I plead” does not really sound like it should be equated to “th
 
 This quote from the prophet in 1907 says we won’t need to ask you to pay tithing once we have enough to be self-sufficient. $100 billion evidently isn’t enough to be self-sufficient. “Everything that is needful” seems to have developed a lot since 1907. Everything that is needful seems to include stock holdings and real estate.
 
-I could imagine someone defending this quote by pointing to the qualifier "*except that which you volunteer to give of your own accord*," and that it is what's happening today. I don't buy it— if salvation is gatekept behind tithing, then tithing is not voluntary.
+I could imagine someone defending this quote by pointing to the qualifier "*except that which you volunteer to give of your own accord*," and that it is what's happening today. I don't buy it. If salvation is gatekept behind tithing, then tithing is not voluntary.
 
 &nbsp;
 
@@ -145,7 +145,7 @@ How do we grapple with the cognitive dissonance of paying 10% of your money, but
 ### Tithing Slip
 The bottom of the tithing slip tells you everything you need to know:
 
-![image](../img/tithing3.png){: .center}
+![[tithing3.png]]{: .center}
 
 > _“Though reasonable efforts will be made globally to use donations as designated, all donations become the Church’s property and will be used at the Church’s sole discretion to further the Church’s overall mission.”_
 
@@ -197,7 +197,7 @@ so... what the fuck.
 
 This is an avenue for PR, and so that "wealthy families" can feel like being raised as billionaires isn't actually bad. Even your kids can comprise the entire board of directors, and have autonomy to decide how the money is spent! Little Timmy always wanted to be on a board of directors that spends daddy's money; that'll make a fine Christmas gift that *keeps on giving!* 
 
-I find this very upsetting— Is this what Jesus taught? [Luke 11:39-43](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng&id=p20-p21#p20), [14:12-14](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), [Mark 10:20-23](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), and [12:41-44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41) would all like to have a word with you.
+I find this very upsetting. Is this what Jesus taught? [Luke 11:39-43](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/6?lang=eng&id=p20-p21#p20), [14:12-14](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), [Mark 10:20-23](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/14?lang=eng&id=p12-p14#p12), and [12:41-44](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41) would all like to have a word with you.
 
 We can hype up how great it is to build up your own personal charity with a private board of directors for future generations to laud how generous you are, but if you're going to do that, don't be the same organization that [teaches](https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-heart-of-the-widow?lang=eng&id=p5-p8#p5) us [about](https://www.churchofjesuschrist.org/study/general-conference/2022/04/57uchtdorf?lang=eng&id=p2-p4#p2) the [Widow's Mite](https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=eng&id=p25-p30#p25). _This is self-aggrandizement_. That promotional statement has absolutely nothing to do with the church's declared mission, or any purpose of tithing.
 
@@ -266,12 +266,13 @@ Protect from what?
 
 Or, in layman's terms, if you have spare resources ($2 billion for a shopping center) and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty ([1](https://www.slc.gov/homelessness/), [2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/), [3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)) around you!
 
-Just say what you mean— you're trying to protect the church office building from poor people.
+Just say what you mean: you're trying to protect the church office building from poor people.
 
 &nbsp;
 
 #### Opening Day
-![image](../img/City-Creek-opening.jpg){: .center}
+![[City-Creek-opening.jpg]]{: .center}
+
 _President Henry B. Eyring, first counselor in ==the First Presidency of The Church of Jesus Christ of Latter-day Saints== spoke at the City Creek Center opening. ==Church President Thomas S. Monson==, second counselor Dieter F. Uchtdorf and the Presiding Bishopric of the Church also attended the event 22 March 2012._
 
 — _[City Creek Center Opens](https://newsroom.churchofjesuschrist.org/article/city-creek-center-an-economic-revitalization)_, Church Newsroom
@@ -311,7 +312,7 @@ Beneficial ~~Life~~ Financial Group [is still around](https://www.beneficialfina
 ### What's wrong with this? 
 Take a step back and think rationally, maybe without cursing.
 
-Yes, the Church is within its rights to do this. They're accountable only to themselves. They didn't outright create a mall, there was a mall already there. It's downtown Salt Lake. A high-rise and a shopping center belong downtown—it is not out of place, nor is it misplaced. I don't have a source handy, but I had heard the claim that since the LDS faith practically founded Salt Lake, they have stakes, connections, ownership partially or wholly in industries and businesses. Is that, on its face, wrong? No. 
+Yes, the Church is within its rights to do this. They're accountable only to themselves. They didn't outright create a mall, there was a mall already there. It's downtown Salt Lake. A high-rise and a shopping center belong downtown. It is not out of place, nor is it misplaced. I don't have a source handy, but I had heard the claim that since the LDS faith practically founded Salt Lake, they have stakes, connections, ownership partially or wholly in industries and businesses. Is that, on its face, wrong? No. 
 
 ***However...***
 
@@ -321,7 +322,7 @@ Now picture the LDS church owning a shopping mall and apartment complex.
 
 None of those things are pearl-clutching revelations to bring the masses to grab their pitchforks and start lynching. They definitely feel out of place, though. The public image of these organizations and religions is that they're charitable, running on donations, not engaging in any commercial business. I feel a lot of cognitive dissonance reading about it. *I was raised to believe that the Church runs on donated tithes.*
 
-I cannot understate this enough— this is not a problem that reading scriptures and praying is going to fix. This is not a problem that will be fixed by humming a hymn and taking sacrament. I want accountability.
+I cannot understate this enough: mishandling tithing is not a problem that reading scriptures and praying is going to fix. This is not a problem that will be fixed by humming a hymn and taking sacrament. I want accountability.
 
 &nbsp;
 

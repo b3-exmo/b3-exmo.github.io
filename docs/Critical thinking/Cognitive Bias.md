@@ -5,18 +5,14 @@ comments: true
 How do we discern between faith and cognitive bias?
 
 ## Overview of Biases
-==Biases are not inherently bad==. They are not a sign of ignorance, bad intention, nor contrarianism. They can lead to bad conclusions, however. We all are prone to biases, and its part of being a human.
+==Biases are not inherently bad==. They are not a sign of ignorance, bad intention, nor contrarianism. They can lead to bad conclusions, however. We all are prone to biases, and its part of being a human. You'll see plenty in my writings. I'll see some in your comments.
 
-There is simply too much information in the world for us to ingest and process, in order for us to come to a reliable conclusion. We have no choice but to filter it, or else we’d never come to a conclusion on anything. Cognitive biases are ways out brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so philosophically-minded folks have categorized some of these filtering methods as cognitive biases.
-
-We, as mortal, lay folk, don’t have all information on everything. We must extrapolate and fill in gaps. We are prone to doing this improperly. This notion isn’t really anti-religious, by my understanding. More of philosophical, neither for nor against religion. Recognizing them is used for logical discourse on any topic.
-
-We are humans with emotions. This is not something to be ashamed of. I don’t care how smart one thinks they are, every human is prone to this. I certainly am. Try as we may, being consistently and constantly open-minded is not feasible. You, reader, should be aware of these biases. Then compare how they fit with your existing beliefs.
+There is simply too much information in the world for us to ingest and process in order for us to come to a reliable conclusion. We have no choice but to filter the deluge of data, or else we’d never come to a conclusion on anything. Cognitive biases are ways our brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so philosophically-minded folks have categorized some of these filtering methods as cognitive biases.
 
 &nbsp;
 
 ## Confirmation bias
-![image](../img/confirmation-bias.png){: .center}
+![[confirmation-bias.png]]{: .center}
 
 &nbsp;
 
@@ -53,11 +49,11 @@ When questioning members are advised to "take your questions to the Lord and to 
 
 ### Made up examples
 
-|                    | Something good happens to...                                                                                  | Something bad happens to...                                                                 |
-| ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Prospective Mormon | A [[What are blessings\|blessing]] from God to confirm what the missionaries said is true. On the right track | Satan is trying to derail the conversion & baptism, proving we're right. On the right track |
-| Current Mormon     | Blessing from God for obedience to baptism covenants. On the right track                                      | Life is a test. Reminder to repent and obey. On the right track                             |
-| Former Mormon      | Not real happiness. Forfeited real blessings from God.                                                        | Consequences of disobedience. Wicked will not prosper. Forfeited real blessings from God.   |
+|                    | Something *good* happens to...                                                                             | Something *bad* happens to...                                                                                   |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Prospective Mormon | A [[What are blessings\|blessing]] from God to confirm what the missionaries said is true. Church is true! | Satan is trying to derail the conversion & baptism, proving we're right. Church is true!                        |
+| Current Mormon     | Blessing from God for obedience to baptism covenants. Church is true!                                      | Life is a test. Reminder to repent and obey. Church is true!                                                    |
+| Former Mormon      | Not real happiness. Forfeited real blessings from God. Church is still true.                               | Consequences of disobedience. Wicked will not prosper. Forfeited real blessings from God. Church is still true! |
 
 All of these outcomes lead to the same conclusion that the LDS church is true. It can't be false, there's [[Falsifiability|no fail state]] in these scenarios.
 
@@ -86,7 +82,7 @@ At face value, I might conclude that verses 1 - 23 are not addressed to you and 
 
 &nbsp;
 
-![image](../img/moroni-flowchart.jpg){: .center}
+![[moroni-flowchart.jpg]]{: .center}
 
 &nbsp;
 
@@ -147,7 +143,7 @@ If you got a different answer, it wasn't God, or you weren't sincere enough, or 
 
 Does your result agree with theory? No? Something must be wrong with you or your experiment, then. Do it again.
 
-![image](../img/moroni-v-science.png){: .center}
+![[moroni-v-science.png]]{: .center}
 
 &nbsp;
 
@@ -158,9 +154,8 @@ Does your result agree with theory? No? Something must be wrong with you or your
 ## Others
 I have a few notes on Congruence Bias and Primacy Bias, but I don't have enough written to warrant a section here. For now, they're in the context of [[Doubts and Truth#Doubt Your Doubts|Uchtdorf's "doubt your doubts"]] block quote.
 
-## More links
+## Reading Material
 
 - [https://effectiviology.com/confirmation-bias/](https://effectiviology.com/confirmation-bias/)
 - [https://www.globalcognition.org/confirmation-bias-3-cures/](https://www.globalcognition.org/confirmation-bias-3-cures/)
 - [https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
-

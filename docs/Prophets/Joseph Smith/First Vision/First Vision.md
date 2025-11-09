@@ -27,7 +27,7 @@ I'll demonstrate here why I believe this is a problem. If we heed the words of m
 &nbsp;
 
 ## Significance
-If the First Vision didn't happen, then Joseph Smith did not restore Christ's church. If Joseph Smith did not restore Christ's church, what is this organization?
+If the First Vision didn't happen, then Joseph Smith did not [[Restoration|restore Christ's church]]. If Joseph Smith did not restore Christ's church, what is this organization?
 
 If God hadn't personally appeared to advise Joseph directly that all other churches were incorrect, then Joseph is just adding to the confusion by making one more flavor of Christianity. If we were to argue that Joseph became a prophet later than 1820, then *that* would be the selling point that missionaries tell their ~~investigators~~ "friends" about on the first lesson. In my experience as a missionary for the LDS church, I was required to recite the 1838 account from memory on demand. And *that's what I did*. Imagine my dismay when, after reciting this to however many dozens or hundreds of people, I find that this theophany wasn't as clear-cut and simple as I had been told.
 
@@ -83,7 +83,8 @@ Library > Books and Lessons > Church History - Resources > First Vision > [Journ
 
 &nbsp;
 
-Summary:<br>
+Summary:
+
 - Joseph is "\[a\]bout 14 years old"
 - Joseph resolves that "I should be right in matters that involve eternal consequences"
 - Joseph prays seeking information on who was right
@@ -96,7 +97,7 @@ Summary:<br>
 
 Now we've got *two* divine figures.
 
-![[now-there-are-two.gif]]{: .center .size40}
+![[now-there-are-two.gif]]{: .center}
 
 &nbsp;
 
@@ -129,7 +130,8 @@ Library > Scriptures > Pearl of Great Price > Joseph Smith—History [1:4-20](ht
 
 Here's the officially sanctioned version. It's much more verbose, and is the one I was drilled on in the mission field, the one found in Preach My Gospel, and canonized in scripture. You didn't ask for it, but I will emphasize again the ==eighteen year gap== between this account and the date it happened.
 
-Summary:<br>
+Summary:
+
 - Joseph was in his "fifteenth year;" "... early spring of 1820"
 - Joseph's mind was greatly excited by religious debate
 - Joseph isn't sure if truth is to be found. If so, where? Let's pray and find out
@@ -168,7 +170,8 @@ Library > Books and Lessons > Church History - Resources > First Vision > [“Ch
 
 &nbsp;
 
-Summary:<br>
+Summary:
+
 - Joseph is "about fourteen years of age"
 - Joseph sees "the importance of being prepared for a future state," and finds conflicting claims between churches
 - Joseph prays to ask for clarification

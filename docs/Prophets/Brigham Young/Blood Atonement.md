@@ -52,7 +52,7 @@ I guess we can take comfort in knowing that we have two pre-conditions before th
 ### Deseret News
 If you are like me and have the attention span of a toddler with an iPad, you'd probably prefer a short-form audio-video medium to summarize the upcoming notes... Good news, I've got just the video for you!
 
-![image](../../img/jonathan-frakes-never-happened.gif){: .center}
+![[jonathan-frakes-never-happened.gif]]{: .center}
 
 [jonathan frakes telling you you're wrong for 47 seconds](https://youtu.be/GM-e46xdcUo)
 

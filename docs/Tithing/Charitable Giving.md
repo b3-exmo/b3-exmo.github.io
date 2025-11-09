@@ -2,13 +2,13 @@
 comments: true
 ---
 # 💸 Charitable Giving
-> *Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.*
+> ***1*** *Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.*
 > 
-> *Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.*
+> ***2*** *Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.*
 > 
-> *But when thou doest alms, let not thy left hand know what thy right hand doeth:*
+> ***3*** *But when thou doest alms, let not thy left hand know what thy right hand doeth:*
 > 
-> *That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.*
+> ***4*** *That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.*
 
 — [Matthew 6:1–4](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/6?id=p1-p4&lang=eng#p1)
 
@@ -29,7 +29,7 @@ Now that we have an idea of the proportion of money spent on charity (as of 2024
 &nbsp;
 
 ## 2016
-I'll begin with the year 2016 because of the following quote from Deseret News, but afterward I'll focus on more recent events:
+I'll begin with the year 2016 because of the following quote from Deseret News. Afterward I'll focus on more recent events:
 
 > *In [a lecture given](http://www.deseretnews.com/article/865655946/At-Oxford-Elder-Oaks-says-religions-value-evident-in-refugee-crisis.html?pg=all) last month at the University of Oxford, Elder Dallin H. Oaks of the Quorum of the Twelve Apostles said that each year The Church of Jesus Christ of Latter-day Saints spends about ==$40 million on welfare, humanitarian and other LDS Church-sponsored projects== around the world and has done so for more than 30 years.*
 >
@@ -79,7 +79,7 @@ I've got some notes (and a link to the source) for this article on [[WSJ Intervi
 
 Ooh boy. I have a lot to say about this paragraph.
 
-`($2,500,000,000 ÷ 35 = $71,428,571) 71.4 million`
+`$2,500,000,000 ÷ 35 = $71,428,571`
 
 Not sure if the $906 million is counted in that sum. But it does sound like $200 million is included, and is an outlier, so I might adjust that math to get a better average: `(($2,500,000,000 - $200,000,000) ÷ (35 - 1)) = $67,647,059`
 

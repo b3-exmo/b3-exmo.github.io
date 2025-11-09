@@ -235,6 +235,8 @@ What does that argument mean when pointed to heterosexual couples experiencing i
 
 And if gay couples don't biologically *produce* children, maybe they could be a key factor in addressing the *[343,077 kids in foster care](https://acf.gov/sites/default/files/documents/cb/2023-afcars-dashboard-printable.pdf)* at the end of Federal Fiscal Year 2023? ([Archive link](https://web.archive.org/web/20250629132407/https://acf.gov/sites/default/files/documents/cb/2023-afcars-dashboard-printable.pdf)) How many of those *three hundred forty three thousand children* were conjured up by straight couples?
 
+Not sure if we can justify a respect for the sanctity of life if, after birth, society collectively says something about bootstraps and tells foster kids that they're lucky to even be alive. 🤷‍♂️ 
+
 &nbsp;
 
 ### It's simply sinful

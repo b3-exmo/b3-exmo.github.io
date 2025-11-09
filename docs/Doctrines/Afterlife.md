@@ -132,7 +132,7 @@ Consider successive marriages, whether due to divorce or death. If one or both o
 
 &nbsp;
 
-Or, rather than approach it from a child's perspective, if (hypothetically) I get remarried due to death or divorce, I (being male in the Mormon hierarchy) can be [[Sealing|sealed]] to a second spouse. ***Why?*** The point of being eternally sealed was to be with my wife after we die. That is literally the reason why I did it that way. This scenario doesn't nullify the first sealing. If I get remarried, thereby being sealed twice, what does that say about the emotional connection with my first wife? If the idea of remarrying after an untimely death is to stave off loneliness, then why even consider an eternal sealing? And, don't forget, women can only be sealed to one man at a time, and need permission from the First Presidency to arrange that. Very cool, thanks God 👍
+Or, rather than approach it from a child's perspective, if (hypothetically) I get remarried due to death or divorce, I (being male in the Mormon hierarchy) can be [[docs/Doctrines/Polygamy/Sealing|sealed]] to a second spouse. ***Why?*** The point of being eternally sealed was to be with my wife after we die. That is literally the reason why I did it that way. This scenario doesn't nullify the first sealing. If I get remarried, thereby being sealed twice, what does that say about the emotional connection with my first wife? If the idea of remarrying after an untimely death is to stave off loneliness, then why even consider an eternal sealing? And, don't forget, women can only be sealed to one man at a time, and need permission from the First Presidency to arrange that. Very cool, thanks God 👍
 
 Say my second wife already has kids. Those kids now have a new family configuration due to circumstances well outside their control, influence, or agency.
 
@@ -163,7 +163,7 @@ Put yourself in the position of this posterity. Five generations (an arbitrary n
 
 &nbsp;
 
-Do we draw a line somewhere between Homo Sapiens and other humankind precursors? Do Neanderthals and Homo Erectus count as family, if we can trace our lineage to them? ... What's that? [[Historicity|They don't exist]]? *How convenient*.
+Do we draw a line somewhere between Homo Sapiens and other humankind precursors? Do Neanderthals and Homo Erectus count as family, if we can trace our lineage to them? ... What's that? [[Cavemen|They don't exist]]? *How convenient*.
 
 &nbsp;
 
