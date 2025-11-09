@@ -6,9 +6,9 @@ comments: true
 
 > *We're as transparent as we know how to be.*
 
-— [Face to Face with Elder Oaks and Elder Ballard](https://www.youtube.com/watch?v=Uj2VWhuW50w&t=2797s), 46:37 timestamp ([Archive link](https://web.archive.org/web/20241206132407/https://www.youtube.com/watch?v=Uj2VWhuW50w))
+— *[Face to Face with Elder Oaks and Elder Ballard](https://www.youtube.com/watch?v=Uj2VWhuW50w&t=2797s)*, 46:37 timestamp ([Archive link](https://web.archive.org/web/20241206132407/https://www.youtube.com/watch?v=Uj2VWhuW50w))
 
-Fun fact: if you look closely, this video is [unlisted](https://support.google.com/youtube/answer/157177#zippy=%2Cunlisted-videos), meaning it "won’t appear in the Videos tab of your channel homepage. They won't show up in YouTube's search results unless someone adds your unlisted video to a public playlist."
+Fun fact: if you look closely, this video is [unlisted](https://support.google.com/youtube/answer/157177#zippy=%2Cunlisted-videos), meaning it "won’t appear in the Videos tab of your channel homepage. They ==won't show up in YouTube's search results== unless someone adds your unlisted video to a public playlist."
 
 You can't make this up.
 
@@ -19,7 +19,7 @@ While serving as church historian, Joseph F. Smith physically removed pages from
 
 &nbsp;
 
-I've got an entire page of notes concerning the First Vision, and I'll go into more detail on [[First Vision Concealment#Historian Joseph Fielding Smith]]. For this excerpt, I'll be satisfied with that superficial overview, along with some links for further reading:
+I've got an entire page of notes concerning the First Vision, and I'll go into more detail on [[First Vision Concealment#Historian Joseph Fielding Smith|concealing the First Vision]]. For this excerpt, I'll be satisfied with that superficial overview, along with some links for further reading:
 
 Descriptions:
 
@@ -56,11 +56,11 @@ Go look at the earliest listed entry:
 >
 > *We welcome you, and all those who hear and see on radio and television. We welcome you to the sessions of the 141st Annual General Conference of The Church of Jesus Christ of Latter-day Saints.*
 
-— [Out of the Darkness](https://www.churchofjesuschrist.org/study/general-conference/1971/04/out-of-the-darkness?lang=eng&id=p2-p3#p2), Joseph Fielding Smith, President of the Church, General Conference 1971 April
+— *[Out of the Darkness](https://www.churchofjesuschrist.org/study/general-conference/1971/04/out-of-the-darkness?lang=eng&id=p2-p3#p2)*, Joseph Fielding Smith, President of the Church, General Conference 1971 April
 
 141st? Where are the other 140?
 
-You've got to do some digging if you want to access the words of God's prophets, divinely appointed to lead and guide this dispensation. If God had wanted to tell His beloved children something between Joseph Smith's passing and the beginning of the [Unix Epoch](https://en.wikipedia.org/wiki/Unix_time), you need to find them in the [Church's history catalog](https://catalog.churchofjesuschrist.org/record/b60aeaac-e4ce-45f0-9902-6cd9a27e3306/198b4dd2-f4fc-41e3-ae58-a479e532924d?view=browse&lang=eng). No, it isn't indexed. We're dedicating all of those indexing resources to genealogy. You want to know what God said? Tough, we're going to tell you what your 6th-generation grandpappy's dog's name was instead. Hope that helps.
+You've got to do some digging if you want to access the words of God's prophets, divinely appointed to lead and guide this dispensation. If God had wanted to tell His beloved children something between Joseph Smith's passing and the beginning of the [Unix Epoch](https://en.wikipedia.org/wiki/Unix_time), you'll need to find them in the ~~[Church's history catalog](https://catalog.churchofjesuschrist.org/record/b60aeaac-e4ce-45f0-9902-6cd9a27e3306/198b4dd2-f4fc-41e3-ae58-a479e532924d?view=browse&lang=eng)~~ (edit: lol it isn't there anymore). No, it isn't indexed. We're dedicating all of those indexing resources to genealogy. You want to know what God said? Tough, we're going to tell you what your 6th-generation grandpappy's dog's name was instead. Hope that helps.
 
 &nbsp;
 
@@ -75,7 +75,7 @@ Straight up, they removed an entire paragraph from the searchable text, and I'll
 > 
 > *Also, I seriously doubt that you will ever turn your own heart more to your own fathers than by writing your family history. . . .*
 
-— [Turning the Hearts](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng&id=p19-p20#p19), Elder Hartman Rector, Jr. First Quorum of the Seventy, General Conference 1981 April
+— *[Turning the Hearts](https://www.churchofjesuschrist.org/study/ensign/1981/05/turning-the-hearts?lang=eng&id=p19-p20#p19)*, Elder Hartman Rector, Jr. First Quorum of the Seventy, General Conference 1981 April
 
 Now why would they want to remove that?
 
@@ -96,7 +96,7 @@ Compare this to 2007...
 > 
 > *The doctrinal tenets of any religion are best understood within a broad context, and thoughtful analysis is required to understand them. News reporters pressed by daily deadlines often find that problematic.*
 
-— [Approaching Mormon Doctrine](https://web.archive.org/web/20180213184855/https://www.mormonnewsroom.org/ldsnewsroom/eng/commentary/approaching-mormon-doctrine), Mormon News Room, 4 May 2007
+— *[Approaching Mormon Doctrine](https://web.archive.org/web/20180213184855/https://www.mormonnewsroom.org/ldsnewsroom/eng/commentary/approaching-mormon-doctrine)*, Mormon News Room, 4 May 2007
 
 &nbsp;
 
@@ -104,7 +104,7 @@ Then compare to FAIR.
 
 > *==Official doctrine is usually easy to determine==. When FAIR is aware of an official doctrine or position statement, we attempt to provide it, with references so interested readers can check the sources for themselves. In all other cases, we try to describe the spectrum of LDS thought on a given issue, while noting that more than one point of view is held by faithful members of the Church.*
 
-— [Introduction to apologetics](https://www.fairlatterdaysaints.org/answers/Introduction_to_apologetics#But_if_I_want_an_official_answer.2C_how_do_I_get_it.3F), FAIR, 
+— *[Introduction to apologetics](https://www.fairlatterdaysaints.org/answers/Introduction_to_apologetics#But_if_I_want_an_official_answer.2C_how_do_I_get_it.3F)*, FAIR, around 2023 ([probably](view-source:https://www.fairlatterdaysaints.org/answers/Introduction_to_apologetics))
 
 &nbsp;
 
@@ -128,22 +128,18 @@ Bro they literally 1984'd this record. Just as Jesus would have wanted 😇
 
 — [President Ballard said missionaries shouldn't invite people to be baptized without feeling the Spirit. Here's why](https://www.thechurchnews.com/2019/6/26/23221037/president-ballard-said-missionaries-shouldnt-invite-people-to-be-baptized-without-feeling-the-spirit/), Church News
 
-I truly find this upsetting. Using the baptism invitation early on to "separate the wheat from the tares" *is literally what they told me to do while I was in the MTC.* I am not exaggerating or embellishing this. They told me that. I remember that lesson so distinctly because the instructors used an analogy of triage to prioritize who to focus on. ... More specifically, I remember that lesson because I made a fool of myself by answering that I knew what triage was, when in reality, I did not. That lesson stuck with me for the wrong reason, but I remember *very clearly* that I was *explicitly* told to do *exactly this* for that *exact reason*.
+I truly find this upsetting. Using the baptism invitation early on to "separate the wheat from the tares" *is literally what they told me to do while I was in the MTC.* I am not exaggerating or embellishing this. They told me that. I remember that lesson so distinctly because the instructors used an analogy of *triage* to prioritize who to focus on. ... More specifically, I remember that lesson because I made a fool of myself by answering that I knew what triage was, when in reality, I did not. That lesson stuck with me for the wrong reason, but I remember *very clearly* that I was *explicitly* told to do *exactly this* for that *exact reason*.
 
 &nbsp;
 
 He's either lying through his teeth or is really far gone with dementia. He's been in charge of the missionary program for years. There's no way he doesn't know about these materials.
 
-[Preach my Gospel, **Lesson 1**](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=figure17_p1#figure17_p1): "As directed by the Spirit, **during this** or any other lesson, **==do not hesitate== to invite people to be baptized** and confirmed." 
-
-[Old Missionary Lessons, **Discussion 1**, Principle 6](https://archive.org/details/Discussion1ThePlanOfSalvation/page/n11/mode/2up): "Invite: As prompted by the Spirit, **you could now invite** the investigators to be baptized." 
-
-[Old Missionary Lessons, **Discussion 2**](https://archive.org/details/Discussion2TheGospelOfJesusChrist/page/n11/mode/2up): "**We will be holding a baptismal service on (date). Will you prepare yourself to be baptized on that date?**" 
-
-[Missionary Training Manual](https://www.churchofjesuschrist.org/study/manual/a-missionarys-mtc-experience-language-2015/fundamentals/check-your-progress?lang=eng), "Check Your Progress": 
-
-- 5. **I invite my investigators to be baptized in the first lesson**. 
-- 6. I invite my investigators to be baptized with a specific date no later than the second lesson.
+- [Preach my Gospel, **Lesson 1**](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?lang=eng&id=figure17_p1#figure17_p1): "As directed by the Spirit, **during this** or any other lesson, **==do not hesitate== to invite people to be baptized** and confirmed." 
+- [Old Missionary Lessons, **Discussion 1**, Principle 6](https://archive.org/details/Discussion1ThePlanOfSalvation/page/n11/mode/2up): "Invite: As prompted by the Spirit, **you could now invite** the investigators to be baptized." 
+- [Old Missionary Lessons, **Discussion 2**](https://archive.org/details/Discussion2TheGospelOfJesusChrist/page/n11/mode/2up): "**We will be holding a baptismal service on (date). Will you prepare yourself to be baptized on that date?**" 
+- [Missionary Training Manual](https://www.churchofjesuschrist.org/study/manual/a-missionarys-mtc-experience-language-2015/fundamentals/check-your-progress?lang=eng), "Check Your Progress": 
+	- 5. **I invite my investigators to be baptized in the first lesson**. 
+	- 6. I invite my investigators to be baptized with a specific date no later than the second lesson.
 
 Here's a photo of an older version of the missionary handbook, which I was to carry on my person at all times:
 

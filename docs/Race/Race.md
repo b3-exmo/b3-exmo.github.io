@@ -4,6 +4,8 @@ comments: true
 # 🏁 Race
 For 126 years, between [[Brigham Young|Brigham Young]]’s presidency beginning and 1978, imagine thousands of black Mormons praying to God to please lift the temple/priesthood ban… Then imagine [David O’McKay praying about it](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/race-and-the-priesthood?lang=eng&id=p12#p12) and concluding, “Nah. We’re good for now.”
 
+Just to make sure this hits home: there were Mormons in Utah who saw *[Star Wars](https://www.rottentomatoes.com/m/star_wars_episode_iv_a_new_hope)* in theaters before they saw a black person in a temple. This is not a distant, ancient history.
+
 The LDS church has had some really odd takes on race in the past, and today likes to pretend that none of it ever happened. I'll be aggregating some quotes, teachings, and adding my own comments and thoughts to them. I will note that I am a white American, arguably the least qualified demographic to offer meaningful commentary on racial prejudice as none of this has ever [impacted me directly](https://youtu.be/RovF1zsDoeM&t=54). Also, ==please note that I'll be using direct quotes== from LDS church figureheads in the 19th and 20th centuries who use terms that we today consider to be offensive slurs. You know, figureheads like prophets and apostles who represent an eternally loving, unchanging father figure to all of mankind.
 
 &nbsp;
@@ -68,49 +70,15 @@ My boy Bruce has plenty to say on plenty of topics. He has some quotes on race b
 
 — *[The Legrand Richards Interview](https://thoughtsonthingsandstuff.com/the-legrand-richards-interview)*, Thoughts on Things and Stuff
 
-The link above has a transcription of this interview, along with links to [an audio recording](https://archive.org/details/1978LegrandRichardsInterview) and [an offsite transcript](https://archive.org/details/CorrespondenceWithLeGrandRichardsRegarding1978Interview). I'll include two excerpts of that interview here:
+The link above has a transcription of this interview, along with links to [an audio recording](https://archive.org/details/1978LegrandRichardsInterview) and [an offsite transcript](https://archive.org/details/CorrespondenceWithLeGrandRichardsRegarding1978Interview). I'll include one short excerpt of that interview here:
 
 > **WALTERS**: *On this revelation, of the priesthood to the Negro, I’ve heard all kinds of stories: I’ve heard that Christ appeared to the Apostles. I’ve heard that Joseph Smith appeared; and then I heard another story that Spencer Kimball had had a concern about this for some time and simply shared it with the apostles, and they decided that this was the right time to move in that direction. Now are any of those stories true, or are they all…*
 > 
 > **RICHARDS**: *Well, the last one is pretty true, and ==I might tell you what provoked it== in a way. Down in Brazil, there is so much Negro blood in the population there that it’s hard to get leaders that don’t have Negro blood in them. ==We just built a temple down there. It’s going to be dedicated in October. All those people with Negro blood in them have been raising the money to build that temple. And then, if we don’t change, then they can’t even use it==. So Brother Kimball worried about it, and he prayed a lot about it.*
-> 
-> *He asked each one of us of the Twelve if we would pray – and we did – that the Lord would give him the inspiration to know what the will of the Lord was. And then he invited each one of us in his office – individually, because you know when you are in a group, you can’t always express everything that’s in your heart. You’re part of the group, you see – so he interviewed each one of us, personally, to see how we felt about it, and he asked us to pray about it. And then he asked each one of us to hand in all the references we had, for, or against that proposal. See, he was thinking favorably toward giving the colored people the priesthood.*
-> 
-> *Then we had a meeting where we meet every week in the temple, and we discussed it as a group together, and then we prayed about it in our prayer circle, and then we held another prayer circle after the close of that meeting, and he (President Kimball) lead in the prayer; praying that the Lord would give us the inspiration that we needed to do the thing that would be pleasing to Him and for the blessing of His children. And then the next Thursday – we meet every Thursday – the Presidency came with this little document written out to make the announcement – to see how we’d feel about it – and present it in written form. Well, some of the members of the Twelve suggested a few changes in the announcement, and then in our meeting there we all voted in favor of it – the Twelve and the Presidency. One member of the Twelve, Mark Petersen, was down in South America, but Brother Benson, our President, had arranged to know where he could be reached by phone, and right while we were in that meeting in the temple, Brother Kimball talked with Brother Petersen, and read him this article, and he (Petersen) approved of it.*
+>
+> ...
 
----
-
-> **VLACHOS:** *What about intermarriage? Is it okay?*
-> 
-> **RICHARDS:** *what?*
-> 
-> **VLACHOS:** *Is it okay to marry?*
-> 
-> **WALTERS:** *Intermarriage, is that in view too?*
-> 
-> **RICHARDS:** *Well, no. Never before this decision was reached we’ve always recommended that people live within their own race – the Japanese ought to marry Japanese, the Chinese ought to marry Chinese, Hawaiians ought to marry Hawaiians and the colored people ought to marry colored.*
-> 
-> **WALTERS:** *And that would still be your position?*
-> 
-> **RICHARDS:** *That is still our position. But they are entitled to the temple blessings and the sealing of their wives to them. It’s all conditioned on their living. Now if they live right and they’re devoted and they’re good clean living – why shouldn’t they get the blessings?*
-> 
-> **WALTERS:** *Now when President Kimball read this little announcement or paper, was that the same thing that was released to the press?*
-> 
-> **RICHARDS:** *Yeah.*
-> 
-> **WALTERS:** *There wasn’t a special document as a “revelation”, that he had and wrote down?*
-> 
-> **RICHARDS:** *We discussed it in our meeting. What else should we say besides that announcement? And we decided that was sufficient; that no more needed to be said.*
-> 
-> **WALTERS:** *Was that the letter you sent out to the various wards?*
-> 
-> **RICHARDS:** *And to the Church; and to the newspapers, yes.*
-> 
-> **VLACHOS:** *Will that become a part of “scripture”?*
-> 
-> **RICHARDS:** *Yes, I’ve already thought in my own mind of suggesting we add it to the Pearl of Great Price, just like those last two revelations that we’ve just added.*
-
-Sounds to me like this "revelation" is in response to a business problem. They built a temple, but locals wouldn't be able to use it after paying for its construction, and that was "what provoked it."
+This interview is lengthy, and I *highly* recommend you read the rest of it... just not here. It sounds to me like this "revelation" is in response to a business problem. They built a temple, but locals wouldn't be able to use it after paying for its construction, and that was "what provoked it."
 
 &nbsp;
 

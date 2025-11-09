@@ -137,7 +137,7 @@ Everyone should be called to repentance, except for those those who had "a black
 
 > *They were a mixture of all the seed of Adam save it was the seed of Cain, for ==the seed of Cain were black, and had not place among them==.*
 
-*— [Moses 7:22](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=p22#p22)*
+— *[Moses 7:22](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=p22#p22)*
 
 &nbsp;
 

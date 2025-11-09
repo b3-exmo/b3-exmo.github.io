@@ -51,6 +51,8 @@ I'd like to emphasize some highlights here: "affiliated" as a past tense verb me
 
 "Affiliated" shouldn't be interpreted to mean "preferred," or "my nephew owns this and I'll support family business." This is a transactional relationship. Ensign Peak Advisors (EPA) may not be [a subsidiary](https://www.investopedia.com/ask/answers/06/subsidiaries.asp) of the church, but EPA certainly doesn't exist independent of it.
 
+&nbsp;
+
 **If** the church is innocent, truthful, [not trying to hide anything](https://youtu.be/yXFjhU7UzoI?si=Oh_NBHX27OLmUfmH&t=72), **why did they pay the fine?**
 
 Outside a legal context, "settling" sounds like an innocuous way to reach resolution where both parties are satisfied. Within a legal context, settling sure sounds like demands have been met, and the accused has done something to satisfy the accuser outside the scope (and scrutiny) of a courthouse.
@@ -67,7 +69,7 @@ The [SEC's page describing the form](https://www.sec.gov/divisions/investment/13
 
 > *Institutional investment managers [who,] in the course of their business and that exercise ==investment discretion over $100 million or more== in Section 13(f) securities must file Form 13F. See [Section 13(f)(1) of the Securities Exchange Act](https://www.sec.gov/about/laws/sea34.pdf).*
 
-![image](../../img/joey-omg.gif){: .center}
+![[joey-omg.gif]]{: .center}
 
 Sweet Jesus.
 

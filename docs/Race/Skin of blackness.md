@@ -9,7 +9,9 @@ comments: true
 
 If you believe that context surrounding this verse of scripture will make it more palatable, go on and read the entire chapter if you like. I'll wait.
 
-Believe it or not, this passage has stirred disagreements among those who've practiced Mormonism. Seems out of character for God to do something like this, which raises many questions; among them, "what the hell, God?" I suppose that becoming "like unto a [flint](https://duckduckgo.com/?q=flint&iax=images&ia=images)" must be referring to the hardness of their hearts, as "flint is usually dark grey or black, green, white, or brown in colour, and has a glassy or waxy appearance" by [Wikipedia](https://en.wikipedia.org/wiki/Flint)'s short description. [Verse 14](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p14#p14) sounds like "they" were called Lamanites who received this curse.
+Believe it or not, this passage has stirred disagreements among those who've practiced Mormonism. Seems out of character for God to do something like this, which raises many questions; among them, "what the hell, God?" 
+
+I suppose that becoming "like unto a [flint](https://duckduckgo.com/?q=flint&iax=images&ia=images)" must be referring to the *hardness of their hearts* rather than melanin, as "flint is usually dark grey or black, green, white, or brown in colour, and has a glassy or waxy appearance" by [Wikipedia](https://en.wikipedia.org/wiki/Flint)'s short description. [Verse 14](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p14#p14) sounds like "they" were called Lamanites who received this curse.
 
 > *The Nephites separate themselves from the Lamanites, keep the law of Moses, and build a temple—Because of their unbelief, ==the Lamanites are cut off from the presence of the Lord, are cursed, and become a scourge unto the Nephites==. About 588–559 B.C.*
 
@@ -19,22 +21,24 @@ Believe it or not, this passage has stirred disagreements among those who've pra
 
 Skipping ahead a few hundred years in the scriptural record, we get another mention of a "curse" that seems to revolve around skin color...
 
-> ***14** And it came to pass that those Lamanites who had united with the Nephites were numbered among the Nephites;*
+> ***14*** *And it came to pass that those Lamanites who had united with the Nephites were numbered among the Nephites;*
 > 
-> ***15** And ==their curse was taken from them, and their skin became white== like unto the Nephites;*
+> ***15*** *And ==their curse was taken from them, and their skin became white== like unto the Nephites;*
 > 
-> ***16** And their young men and their daughters became exceedingly fair, and they were numbered among the Nephites, and were called Nephites. And thus ended the thirteenth year.*
+> ***16*** *And their young men and their daughters became exceedingly fair, and they were numbered among the Nephites, and were called Nephites. And thus ended the thirteenth year.*
+
+&mdash; *[3 Nephi 2:14-16](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/2?id=p14-p16&lang=eng#p14)*; see also the chapter heading
 
 &nbsp;
 
-Huh. Must be some other kind of curse.
+Huh. Must be some other kind of curse. It'd be a bad look if verse 15 had a footnote pointing back to 2 Nephi 5:21. 🤔
 
-And so, in an effort to drive critics away from the conclusion that this could be a 19th-century creation by one Joseph Smith, apologists will come up with numerous reasons for why "skin of blackness" *does not mean* "skin of blackness," because that would sound racist if we were to interpret the text at face value. After all, the Book of Mormon is [the most correct of any book](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19) on earth, and it contains [[Bible#Plain and Precious things|plain and precious things]] that are meant to clear up any ambiguity in the Bible, so this ought to be pretty clear, a real cut & dry case to get sorted out.
+And so, in an effort to drive critics away from the conclusion that this could be a 19th-century creation by a fellow named Joseph Smith, apologists will come up with numerous reasons for why "skin of blackness" *does not mean* "skin of blackness," because that would sound racist if we were to interpret the text at face value. After all, the Book of Mormon is [the most correct of any book](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19) on earth, and it contains [[Bible#Plain and Precious things|plain and precious things]] that are meant to clear up any ambiguity in the Bible, so this ought to be pretty clear, a real cut & dry case to get sorted out.
 
 &nbsp;
 
 ## Scripture Central
-*[Scripture Central](https://scripturecentral.org/)* is, by my estimation, the de facto standard for apologetic explanations for issues in LDS theology. They've got an essay on this very topic: *[What Is the “Skin of Blackness” in the Book of Mormon?](https://scripturecentral.org/knowhy/what-is-the-skin-of-blackness-in-the-book-of-mormon)* I'll offer a few excerpts and comments on it. Find the rest of their article on their site.
+*[Scripture Central](https://scripturecentral.org/)* is, by my estimation, the [[Sources and Links#Favorable sites|de facto standard]] for apologetic explanations for issues in LDS theology. They've got an essay on this very topic: *[What Is the “Skin of Blackness” in the Book of Mormon?](https://scripturecentral.org/knowhy/what-is-the-skin-of-blackness-in-the-book-of-mormon)* I'll offer a few excerpts and comments on it. Find the rest of their article on their site.
 
 &nbsp;
 
@@ -55,20 +59,20 @@ It sounds to me like Nephi's description of a “skin of blackness” must refer
 
 *Clothing*. We'll defend the idea that God cursed people who were white and delightsome "that they might not be enticing unto my people" by... giving them ugly clothes.
 
-![image](../img/bert-staredown.gif){: .center .size40}
+![[bert-staredown.gif]]{: .center .size40}
 
 For what it's worth, a poor fashion taste could be off-putting. I don't think the scriptural record describes much about the dating scene in ancient America. How did God cause, or force, the Lamanites to wear clothing that was dark? An affiliate deal with Hot Topic? How did God keep the Nephites' clothing white to distinguish from the Lamanites? What would prevent the Lamanites from wearing white clothing? How did this curse of clothing [extend to their descendants](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23)? Scripture Central, do you hear yourselves as you make this statement?
 
 Right, okay, yes, the word "skin" [appears in other contexts](https://www.churchofjesuschrist.org/search?facet=scriptures&lang=eng&query=skin&subfacet=bofm&page=1). I guess we could extend this logic to say that Nephi, when he had [made a bellows](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?lang=eng&id=p11#p11) from the skins of beasts is part of God's divine disfavor. Those boars had hard hearts!
 
-I suppose that by being critical of the LDS church's theology, I've also become hard-hearted, and... maybe *someone* could tell that just based on my choice of attire. I've still got the suits I wore on the mission, though! They don't fit quite as well as they did ten years ago, but they are a dark, navy blue color. *Bam*, got 'em. Folks with [business attire](https://www.churchofjesuschrist.org/imgs/ee8344a5cab711ee9eabeeeeac1e6526039b7d6e/full/1280%2C/0/default) have been cursed for their iniquity. [Also it is hereditary](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23), so don't bang anyone whose parents wore a suit.
+I suppose that by being critical of the LDS church's theology, I've also become hard-hearted, and... maybe *someone* could tell that just based on my choice of attire. Clearly, only an apostate heathen sinner would wear shorts and a t-shirt. I've still got the suits I wore on the mission, though! They don't fit quite as well as they did ten years ago, but they are a dark, navy blue color. *Bam*, got 'em. Folks with [business attire](https://www.churchofjesuschrist.org/imgs/ee8344a5cab711ee9eabeeeeac1e6526039b7d6e/full/1280%2C/0/default) have been cursed for their iniquity. [Also it is hereditary](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23), so don't bang anyone whose parents wore a suit.
 
 &nbsp;
 
 ### Dark Skins as Body Paint
 > *Another proposal, recently put forward by Gerrit M. Steenblik, is that the Lamanites marked themselves by painting their skin dark. Art from the Classic Maya period illustrates that many elites “darkened their skins with paints, stains, and pigments for ceremonial purposes and as camouflage for warfare, hunting, and plunder.” This fits with Nephi’s reference to a “skin of blackness” in close association to describing the Lamanites as hunters “in the wilderness for beasts of prey.” Furthermore, the first occasion in which Nephi and his people encountered the Lamanites after being separated from them was likely during their “wars and contentions” (2 Nephi [5:24](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p24#p24), [34](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p34#p34)). The Amlicites also mark themselves in a military context ([Alma 3:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=eng&id=p4#p4)).*
 
-Slow down, now, Mr. Steenblik... This is a manifestation of a curse we're talking about. Keep your eye on the ball— we're trying to defend the idea that being cursed with dark skin doesn't have racial implications. Sure, war paint exists. Can we connect the use of body paint to the idea of God cursing people who don't agree with him for the explicitly stated purpose "that they might not be enticing"? Presumably, with or without body paint? I can concede that I've never felt *hot & bothered* by seeing a woman donning war paint. Does that body paint [persist across generations](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23)? You aren't suggesting that the curse really means tattoos, are you?
+Slow down, now, Mr. Steenblik... This is a manifestation of a curse we're talking about. Keep your eye on the ball; we're trying to defend the idea that being cursed with dark skin doesn't have racial implications. Sure, war paint exists. Can we connect the use of body paint to the idea of God cursing people who don't agree with him for the explicitly stated purpose "that they might not be enticing"? Presumably, with or without body paint? I can concede that I've never felt *hot & bothered* by seeing a woman donning war paint. Does that body paint [persist across generations](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23)? You aren't suggesting that the curse really means tattoos, are you?
 
 &nbsp;
 
@@ -77,7 +81,7 @@ god dammit
 
 > *Others have suggested that the mark could have been an ancient tattoo. Tattooing was known in the ancient Near East and in the Americas among various Indigenous tribes in both North and South America. In Mesoamerica, it can be documented from as early as 1400 BC among the Olmec and, later, the Maya, as the practice was continued up through the Spanish Conquest. Most tattooing in ancient America was black, but some evidence exists for red tattoos at Chichen Itza, thus accounting for both the black or dark skin of the Lamanites and the red mark of the Amlicites ([Alma 3:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/3?lang=eng&id=p4#p4)).*
 
-![image](../img/sigh-in-hebrew.gif){: .center}
+![[sigh-in-hebrew.gif]]{: .center}
 
 Look, I don't even know what to say at this point. Yeah, tattooing is also a practice among humans, irrespective of God's sore cursings. Are we implying that God tattooed the Lamanites in order to make them loathsome? Don't forget that "the Lord God did cause a skin of blackness to come upon them." They aren't cursed because they got tattoos, the curse *is* tattoos... According to this, one of three possible theories. Also isn't this curse is contingent that "[they shall repent of their iniquities](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p22#p22)?" And also [is hereditary](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p23#p23)?
 
@@ -86,6 +90,8 @@ Look, I don't even know what to say at this point. Yeah, tattooing is also a pra
 Scripture Central presents those three possible interpretations as alternatives to what the text states in a way I would describe as pretty explicit. We don't need to do these mental gymnastics, tying ourselves in knots to get around the idea that skin might not literally mean skin, since it would make the church look bad. [Occam's Razor](https://www.britannica.com/topic/Occams-razor) would have us incline toward the simpler of these explanations: a) it's spiritual, symbolic, maybe clothing, war paint, or tattoos; or b) it's racism.
 
 I'll emphasize the point that *three possible interpretations* are presented. Why not one interpretation? Is this [[Book of Mormon#Another Testament of Christ|testament of Christ]] symbolic, up to individual interpretation? Are other factors open to discussion to settle on what it means? Was [[Book of Mormon#Cannot be written|Jesus' visit to Zerahemla]] symbolic, open to interpretation? This passage right here sure sounds troubling when taken at face value, and there seems to be three or more ways to interpret it outside of vitriolic racism, so... does that mean that the Book of Mormon is *also* "the word of God [[Bible#Article of Faith|as far as it is translated correctly]]"?
+
+&nbsp;
 
 Can't we just acknowledge bad ideas, learn from mistakes, and commit to do better? In a parallel universe, Scripture Central would instead be writing an essay commenting on the Church's ability to admit fault, grow and develop, moving past prejudiced ideologies, and perhaps even frame it in a faith-promoting angle. God is patient and understanding.
 

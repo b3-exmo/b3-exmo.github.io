@@ -1,30 +1,35 @@
 ---
 comments: true
 ---
-# 👴 Russell M Nelson
+# 👴 Russell M. Nelson
+## Passing
+Looks like President Nelson has passed away in late September of 2025, a few weeks after turning 101 years old. Lest anyone encounter these notes and conclude that I'm trying to be capitalize on his passing by smearing his name, I can demonstrate that [this note was first written in 2025 March](https://github.com/b3-exmo/b3-exmo.github.io/commit/059592e1588dc84e1908466354097c6e5f67f212#diff-df004043d98ad78a3d92f58fb64123a738f922f320bc738f944c4cacfa9d1497). I'm not trying to wish death or suffering on anyone. No, I don't agree with many things Nelson has done or said, but I recognize that many people had an emotional connection to him.
+
+&nbsp;
+
 ## UNLEASHED
 > *“I have seen him changing in the last ten months,” said Sister Nelson. “It is as though he’s been unleashed. He’s free to finally do what he came to earth to do. … ==And also, he’s free to follow through with things he’s been concerned about but could never do==. Now that he’s president of [the Church], he can do those things.”*
 
 — *[Latter-day Saint Prophet, Wife and Apostle Share Insights of Global Ministry](https://web.archive.org/web/20250101170109/https://newsroom.churchofjesuschrist.org/article/latter-day-saint-prophet-wife-apostle-share-insights-global-ministry)*, 30 October 2018 ([1](https://www.sltrib.com/religion/2018/10/31/this-week-mormon-land/), [2](https://www.fox13now.com/2018/11/02/hes-been-unleashed-says-wendy-nelson-wife-of-russell-m-nelson-president-of-the-church-of-jesus-christ-of-latter-day-saints))
 
-Damn, crazy how God’s ideals are always perfectly aligned with those ideals of whoever the current prophet is
+Damn, crazy how God’s ideals are always *perfectly aligned* with those ideals of whoever the current prophet is
 
 &nbsp;
 
 No joke, this was a really big [[Shelf|shelf item]] for me. This interview was given right when I hit my faith crisis. What I read from this quote is that the president of the LDS church is not acting in God's behalf. Things that President Nelson was quick to enact sound like things he'd been cooking up for years, *decades* possibly. We already have a precedent of Elder Russell Nelson suggesting [[Name Mormon#1990|we shouldn't call ourselves Mormons back in 1990]]. Isn't it just *wild* how God finally agreed with Nelson immediately after he was called to be the church president? God clearly [[Name Mormon#“I’m a Mormon” campaign|wasn't offended]] by the word "Mormon" during *any* prior church presidency.
 
-To me, this calls into question how divinely inspired this man is—did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
+To me, this calls into question how divinely inspired this man is. Did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
 
 And, just to make sure that you and I are on the same page, I am not interested in *ad hominem* smack-talk "this guy sucks and also is old" as an attitude here. At the time of writing, he's still alive at 100 years old. Irrespective of religious affiliation, respect where it's due for someone three times my age. I intend to criticize specific claims or qualities. No, I don't *like* Nelson, but I'm not here to make libelous allegations or defame him.
 
 &nbsp;
 
 ## Education
-I intend to tread carefully out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and it is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon.
+I intend to tread carefully out of respect for someone's doctorate discipline. I have a bachelor's degree and I work with computers. I don't know jack shit about biology or cardiac surgery. I could talk for a good, long while about database engineering because that's what I studied in school, and it is what I do as part of my career. I do not suggest that Dr. Nelson wasn't an educated surgeon, nor do I suggest that I could perform anything in that field of work.
 
 What I mean to suggest instead is that Nelson seems to have internalized one of President Benson's *[[14 Fundamentals#5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.|Fourteen Fundamentals in Following the Prophet]]*, where the acting president of the church doesn't need "any particular earthly training or diplomas to speak on any subject or act on any matter at any time." Nelson was, by my understanding, a successful *heart surgeon*. I believe that he can authoritatively talk to anyone *about heart surgery*.
 
-Nelson has drawn on experience as a heart surgeon to authoritatively talk about things that are *not* heart surgery, and that's something that I take issue with. If we take President Benson's counsel at face value, there's no problem here. If we give critical evaluation to either of these men, we have problems.
+Sure, life experience comes with age, having collected more data and human interaction. Nelson has drawn on experience as a heart surgeon to authoritatively talk about things that are *not* heart surgery, and that's something that I take issue with. If we take President Benson's counsel at face value, there's no problem here. If we give critical evaluation to either of these men, we have problems.
 
 &nbsp;
 
@@ -51,7 +56,7 @@ Three, "lower animals/species" sounds like a very cavalier way of looking at God
 
 — [Why Mormons Should Embrace Evolution: BYU Biology Professor Steven Peck](https://www.beliefnet.com/columnists/flunkingsainthood/2010/09/why-mormons-should-embrace-evolution-byu-biology-professor-steven-peck.html), Associate Professor of Biology at Brigham Young University, 20 September 2010
 
-We could make the argument that a lowly associate professor's disposition holds less weight than a decorated doctor of heart surgery, who outlived contemporaries and became president of a church. We could also highlight that disparity in the opposite direction— an associate professor has a more grounded understanding of evolution than Nelson after a 40-year career.
+We could make the argument that a lowly associate professor's disposition holds less weight than a decorated doctor of heart surgery, who outlived contemporaries and became president of a church. We could also highlight that disparity in the opposite direction: an associate professor has a more grounded understanding of evolution than Nelson after a 40-year career.
 
 &nbsp;
 
@@ -105,7 +110,6 @@ Nelson has announced numerous temples? Cool. Tell me more about that. I'm not tr
 If the "selling point" of having a living prophet, a spokesman for God, alive today in this dispensation, is that he leads and guides *us*, who are alive, here, today, living in 2025, then what in the jolly-good fuck is he doing announcing temples? Shouldn't he be, I don't know, *prophesying*? Telling us something meaningful from God? Temples primarily benefit those who have died. What about us who are still alive?
 
 Anyone could announce temples. A delegated apostle or seventy could have done that. President Hinckley announced lots of temples. Did temple announcements somehow become *more important* since 2008, or 2018?
-Anyone could announce temples. A delegated apostle or seventy could have done that. President Hinckley announced lots of temples. Did they somehow become *more important* since 2008, or 2018?
 
 &nbsp;
 

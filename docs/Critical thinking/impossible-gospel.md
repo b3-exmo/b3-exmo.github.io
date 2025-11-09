@@ -59,7 +59,7 @@ If you have not denied yourself of *all ungodliness*, when do you think you will
 
 &mdash; *Miracle of Forgiveness*, Spencer W. Kimball, 1961
 
-This book [[Sources and Links#Miracle of Forgiveness|may or may not be doctrinal]]. No one can really know when a prophet is [[Prophets#Speaking as such|speaking as a man or not]] until it becomes inconvenient.
+This book [[Sources and Links#Miracle of Forgiveness|may or may not be doctrinal]]. No one can really know when a prophet is [[Prophets#Speaking as such|speaking as a man or not]] until their words become inconvenient.
 
 &nbsp;
 

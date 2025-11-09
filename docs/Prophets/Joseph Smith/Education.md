@@ -6,6 +6,8 @@ comments: true
 
 — Davis, W. (2016). Performing Revelation: Joseph Smith and the Creation of The Book of Mormon. _UCLA_. ProQuest ID: Davis_ucla_0031D_15088. Merritt ID: ark:/13030/m5pp3tph. Retrieved from [https://escholarship.org/uc/item/86h814zv](https://escholarship.org/uc/item/86h814zv). Accessed 06 June 2024.
 
+🫢
+
 &nbsp;
 
 ## Can't even write!
@@ -15,11 +17,13 @@ The mainstream Mormonism idea that Joseph was of lower intelligence originated w
 
 > A. Joseph Smith . . . could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon.
 
-— *[Last Testimony of Sister Emma](https://catalog.churchofjesuschrist.org/assets/944ff277-298c-45e2-9005-75e0ae0faf90/0/0?lang=eng)*, Saints Herald Vol. 26, 1 October 1879
+— *[Last Testimony of Sister Emma](https://catalog.churchofjesuschrist.org/assets/944ff277-298c-45e2-9005-75e0ae0faf90/0/0?lang=eng)*, Saints Herald Vol. 26, 1 October ==1879==
+
+Joseph [passed away in 1844](https://history.churchofjesuschrist.org/landing/prophets-of-the-restoration/joseph-smith?lang=eng), making this recollection 35 years after his demise. Probably nothing to worry about.
 
 The mainstream LDS church latched onto this claim to bolster the miraculous nature of the Book of Mormon. The fact that he had little formal education seemingly supported the notion of the book's divine origins. Nevermind that the early 19th century wasn't known for prolific education— at the time most people had little formal education, if any.
 
-In contradiction of Emma’s claims, the [Joseph Smith Papers Project](https://www.josephsmithpapers.org/) has released several letters dictated by Joseph around the time of the Book of Mormon translation (1828-1829). They read just fine.
+In contradiction of Emma’s claims, the [Joseph Smith Papers Project](https://www.josephsmithpapers.org/) has released several letters dictated by Joseph around the time of the Book of Mormon translation (1828-1829). They read just fine. In fact, one might even call those letters "coherent," or "well-worded."
 
 Don't forget that the inciting incident leading up to the [[First Vision]] was reading the KJV Bible. [Joseph's own account of his history](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/2?highlight=searching+the+scriptures) uses some phrasing that I would say implies a disciplined literacy:
 
@@ -54,9 +58,11 @@ Pomeroy Tucker, a bookseller in Palmyra [writes this about his experience](https
 
 Does a bookseller's opinion on someone's literary potential hold value?
 
-Fast-forwarding to 1880, President John Taylor reflects back on his experiences with Joseph Smith as as adult:
+Fast-forwarding to 1880, [President John Taylor reflects](https://scriptures.byu.edu/#:t33463:j21) back on his experiences with Joseph Smith as as adult:
 
 > He was ignorant of letters as the world has it, but ==the most profoundly learned and intelligent man that I ever met== in my life, and I have traveled hundreds of thousands of miles, been on different continents and mingled among all classes and creeds of people, yet ==I have never met a man so intelligent as he was==.
+
+&nbsp;
 
 [William E. McLellin, the teacher of a high school](https://web.archive.org/web/20230620074941/https://www.deseret.com/2009/1/28/20298664/inside-the-lost-mclellin-notebook) Joseph Smith studied under in his adult years, says this:
 

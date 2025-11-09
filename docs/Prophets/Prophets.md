@@ -3,9 +3,27 @@ comments: true
 ---
 # 👨‍💼 Prophets
 ## Speaking as such
-Asking “[[14 Fundamentals#4. The prophet will never lead the Church astray.|is he speaking as a prophet or a man]]?” assumes that there are moments when a prophet ceases to be a mortal man with flaws, with agency, and the ability to be wrong. There never is such a moment, so we are never absolved of our responsibility to confirm truth for ourselves.
+Asking “is he speaking as a prophet or a man?” assumes that there are moments when a prophet ceases to be a flawed, mortal man with flaws, and loses the ability to be wrong. Does this actually happen? Does a mortal human holding the title of *prophet, seer and revelator* stop being mortal when he needs to issue a bona fide *prophecy*? No, that would be unreasonable.
 
-No, I don't think it's reasonable to demand that every word to come out of their mouth to be [[Infallibility#Thought exercise|profound or publicly scrutinized]]. I do, however, think it's reasonable to expect dignity and credence whenever a prophet has an audience with the intention of listening. If Gordon Hinckley is standing behind a pulpit before a gathered audience, his words in that moment carry more weight than if he's chilling at home in his PJ's. I understand that there is a difference here. I also understand that when Brigham Young is speaking to a congregation who reveres him as a divinely appointed leader, that carries more weight theologically than when he's berating wife #23 for whatever domestic matter.
+However, the attitude remains that a prophet is fallible and *might* tell us something that isn't actually the will of God. I can point to examples where virulent racism, extramarital affairs, shunning LGBT families, etc. gets waived off as "he was a man of his time" or "he wasn't speaking as a prophet when he said that."
+
+I'm left to question how will we know if a prophets words are prophetic or not? There is never a moment where a prophet stops being a flawed human with agency, and so we are never absolved of the responsibility to confirm the prophet's teachings. We have to discern if he can be trusted or not.
+
+... Why? Isn't the value proposition that this is an authoritative voice whom we can trust to represent God? Haven't we been assured and reminded that [[14 Fundamentals#4. The prophet will never lead the Church astray.|the prophet cannot lead us astray]]? Haven't we been promised that God would "[the Lord would remove me out of place](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?id=p12&lang=eng#p12)" if he were to attempt anything counter to God's will?
+
+&nbsp;
+
+No, I don't think it's reasonable to demand that every word to come out of their mouth to be [[Perfection#Thought exercise|profound or deserving public scrutiny]]. I do, however, think it's reasonable to expect *dignity and credence* whenever a prophet has an audience with the intention of listening. If Gordon Hinckley is standing behind a pulpit before a gathered audience, his words in that moment carry more weight than if he's chilling at home in his PJ's. I understand that there is a difference here. I also understand that when Brigham Young is speaking to a congregation who reveres him as a divinely appointed leader, that carries more weight theologically than when he's berating wife #23 for whatever domestic matter. That much makes sense.
+
+My frustration comes from the dismissal of a prophet's words when all indicators point to him speaking as a prophet.
+
+&nbsp;
+
+> *What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, ==my word shall not pass away==, but shall all be fulfilled, ==whether by mine own voice or by the voice of my servants==, it is the same.*
+
+&mdash; *[Doctrine and Covenants 1:38](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?id=p38&lang=eng#p38)*
+
+To me, this passage tells us that the words of a prophet are functionally the same as The Lord's words, and they "shall not pass away." There aren't prophets restricted to a decade nor generation, and their words suddenly lose validity. Their words are God's words, and they shall not pass away. 
 
 &nbsp;
 
@@ -14,7 +32,7 @@ There have been very few revelations since Joseph Smith, who received revelation
 
 **When is the last time we had a meaningful revelation?** Was changing the minimum age for missionaries meaningful, or was it more of a secular policy? Is cutting Sunday meetings to 2 hours meaningful? Aside from those changes that have practically no impact on Christ's philosophy, every General Conference we hear a lot of the same things.
 
-Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. One could argue that BY led the saints to Utah. After that… what have LDS prophets done for the world? Tell me the things that Russell Nelson has done to make the world a better place. Or Monson, or Hinckley. Have they made a dent in world hunger? Has missionary work in Africa quelled the warlords? Has domestic abuse gone down? Did they do anything to [[Nelson-vs-Covid|warn or prepare the world for COVID]]? Built hospitals? Solved homelessness? Are they performing miracles like we read about in scripture?
+Joseph Smith “brought forth” the Book of Mormon, instituted temple rites. One could argue that BY led the saints to Utah. After that… what have LDS prophets done for the world? Tell me the things that Russell Nelson has done to make the world a better place. Or Monson, or Hinckley. Have they made a dent in world hunger? Has missionary work in Africa quelled the warlords? Has domestic abuse gone down? Did they do anything to [[Nelson-vs-Covid|warn or prepare the world for COVID]]? Built hospitals? Solved homelessness? Are they performing miracles like we read about in scripture? No? Then what *are* they doing?
 
 &nbsp;
 
@@ -41,6 +59,8 @@ See also the time Ezra Taft Benson [[14 Fundamentals#*4. The prophet will never 
 > *“This morning, I . . . visited with a brother and sister from Michigan, who thought that “a prophet is always a prophet;” but I told them that a prophet was a prophet only when he was acting as such."*
 
 — Joseph Smith ([New Era, September 2007](https://www.churchofjesuschrist.org/study/new-era/2007/09/ordinary-men-extraordinary-callings?lang=eng&id=p11#p11), [History of the Church 5:265](https://archive.org/details/history-of-the-church-volume-5/page/258/mode/2up?view=theater&q=%22a+prophet+is+always+a+prophet%22))
+
+I dunno, man, for a prophet to say that makes me think that he wants some plausible deniability. Maybe the priestly mantle is something he can turn on or off (like a lightswitch!)
 
 &nbsp;
 
@@ -77,6 +97,8 @@ I thought the whole idea of being a prophet/apostle was having seen Jesus Christ
 ## Is "prophet" even a priesthood office?
 No! Not according to one George Q Cannon in 1869, at least:
 
-> *... we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost==; and, in fact, ==he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination. But when the time came for him to be baptized, then a man who held the keys of that Priesthood came to him and laid his hands upon Joseph’s head, and upon Oliver Cowdery, and set them apart, and gave them authority to officiate in the Aaronic Priesthood, which Priesthood held the keys of baptism and so forth.*
+> *... we have no account of [Moroni or Nephi] ordaining him, neither did Joseph ever profess, because of the ministration of these angels, to have authority to administer in any of the ordinances of the Kingdom of God. ==He never baptized anybody, nor attempted to lay on hands for the reception of the Holy Ghost==; and, in fact, ==he never attempted, that we have any account of, to exercise any of the functions of the holy Priesthood==. He was a prophet, it is true, but ==a man may be a prophet and yet not have authority to administer in the Priesthood==. The prophetic gift, to some extent, is distinct from the Priesthood. Joseph had received the prophetic gift and he exercised it and he acted as such prior to his ordination.*
 
 — *[Right and Authority of President Brigham Young.](https://scriptures.byu.edu/#0651617b8:t1fbd8:j13)*; George Q. Cannon, [Journal of Discourses 13](https://scriptures.byu.edu/jod/pdf/JoD13/JoD13.pdf):47
+
+Boy that sure clears things up, thanks george

@@ -60,10 +60,6 @@ plugins:
   - search
   - roamlinks
   - open-in-new-tab
-  # - document-dates:
-  #     position: top
-  #     date_format: '%Y-%m-%d'
-  #     show_author: false 
   - timetoread:
       wpm: 225
 
@@ -78,10 +74,11 @@ nav:
   - ⛪ Home: index.md
   - ✍️ My own experience: My own experience.md
   - ✝️ Christianity:
-    - Christianity/Christianity.md
-    - 🌄 Historicity: Christianity/Historicity.md
+    # - Christianity/Christianity.md
+    # - 🌄 Historicity: Christianity/Historicity.md
     - 👻 Holy Spirit's Promptings: Christianity/Holy Spirit Promptings.md
     - 😈 Satan: Christianity/Satan.md
+    - 😈 Satan's Origins: Christianity/Satan-origins.md
     - 😱 Satanic Panic: Christianity/Satanic-panic.md
     - 🥈 Second Coming: Christianity/Second Coming.md
     - 🌩 Theology: Christianity/Theology.md
@@ -140,6 +137,12 @@ nav:
   - 👨‍💼 Prophets:
     - Prophets/Prophets.md
     - 🌱 Restoration: Prophets/Restoration.md
+    - 😤 Brigham Young:
+      - Prophets/Brigham Young/Brigham Young.md
+      - 🩸 Blood Atonement: Prophets/Brigham Young/Blood Atonement.md
+      - 🥊 Vs. Emma Smith: Prophets/Brigham Young/Vs Emma Smith.md
+    - 🌳 Dallin H. Oaks: Prophets/Dallin Oaks/Dallin-Oaks.md
+    - 🇺🇸 Ezra Taft Benson: Prophets/Ezra Taft Benson/Ezra Taft Benson.md
     - 😍 Joseph Smith: 
       - Prophets/Joseph Smith/Joseph Smith.md
       - 😏 Boasting: Prophets/Joseph Smith/Boasting.md
@@ -151,11 +154,6 @@ nav:
         - 🚩 Problems: Prophets/Joseph Smith/First Vision/First Vision Problems.md
         - ⚖️ Similar Experiences: Prophets/Joseph Smith/First Vision/First Vision Similar Experiences.md
       - 🎣 Kinderhook Plates: Prophets/Joseph Smith/Kinderhook Plates.md
-    - 😤 Brigham Young:
-      - Prophets/Brigham Young/Brigham Young.md
-      - 🩸 Blood Atonement: Prophets/Brigham Young/Blood Atonement.md
-      - 🥊 Vs. Emma Smith: Prophets/Brigham Young/Vs Emma Smith.md
-    - 🇺🇸 Ezra Taft Benson: Prophets/Ezra Taft Benson/Ezra Taft Benson.md
     - 👴 Russel M Nelson:
       - 👴 Russell M Nelson: Prophets/Russell-Nelson/Russell-M-Nelson.md
       - 🛩 Nelson's Plane: Prophets/Russell-Nelson/Nelsons-Plane.md
@@ -171,6 +169,7 @@ nav:
     - 📘 Book of Mormon:
       - Scripture/Book of Mormon/Book of Mormon.md
       - 😔 After all we can do: Scripture/Book of Mormon/After all we can do.md
+      - 📪 Cannot be Written: Scripture/Book of Mormon/cannot-be-written.md
       - 🔃 Changes: Scripture/Book of Mormon/Changes.md
       - 🤷 Isaiah: Scripture/Book of Mormon/Isaiah.md
       - ⚔️ Jaredites: Scripture/Book of Mormon/Jaredites.md

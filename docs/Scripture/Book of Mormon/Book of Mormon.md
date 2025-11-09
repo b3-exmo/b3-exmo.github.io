@@ -21,11 +21,11 @@ What, _specifically_, does the Bible lack that the Book of Mormon clears up? Wha
 - Infant Baptism is wrong
 - ???
 
-People wouldn’t have worried about their baby dying before being baptized if they had ==temples== where the work could later be done by proxy. If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism. If the age of accountability is an eternal principle, then Nephites wouldn’t be bothered at all, outside of the standard emotional reaction to the loss of a loved one, of course.
+People wouldn’t have worried about their baby dying before being baptized if they had ==temples== where the work could later be done by proxy. If the Nephites were practicing baptism for the dead, there would have been no need for Mormon (the prophet) to speak against infant baptism. If the ==age of accountability== is an eternal principle, then Nephites wouldn’t be bothered at all, outside of the standard emotional reaction to the loss of a loved one, of course.
 
 &nbsp;
 
-Does this book *demonstrate the need* for prophets? There are no LDS doctrines are in there:
+Does this book *demonstrate the need* for prophets? There are remarkably few LDS doctrines are in there:
 
 - Temples
 - Temple ordinances
@@ -33,10 +33,13 @@ Does this book *demonstrate the need* for prophets? There are no LDS doctrines a
 	- Eternal marriage
 	- Sealing
 - Two priesthood tiers (by whatever name we prefer)
-- Afterlife
+- Governance by Apostles or a First Presidency
+- Afterlife, kingdoms of glory
 - Pre-mortal life
 - Ongoing revelation
 - Organization & centralization of **a** church, **the** true church
+
+For what it's worth, the Book of Mormon *does* talk about temples... but it specifies that they are designed after the Temple of Solomon. Today's Mormonism has temples, and they have absolutely no resemblance to the Temple of Solomon. I think that's enough discrepancy to discount it.
 
 &nbsp;
 
@@ -119,8 +122,7 @@ How do you react in this imagined scenario? Do you think "wow that father sure l
 ### Correctness
 > *"I told the brethren that ==the Book of Mormon was the most correct of any book on earth==, and ==the keystone of our religion==, and a man would get nearer to God by abiding by its precepts, than by any other book."*
 
-&mdash; *[Teachings of Presidents of the Church: Joseph Smith](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19)*, *Chapter 4 -*
-*The Book of Mormon: Keystone of Our Religion*; History of the Church, 4:461; from instructions given by Joseph Smith on Nov. 28, 1841, in Nauvoo, Illinois; reported by Wilford Woodruff.
+&mdash; *[Teachings of Presidents of the Church: Joseph Smith](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-4?lang=eng&id=p19#p19)*, *Chapter 4 - *The Book of Mormon: Keystone of Our Religion*; History of the Church, 4:461; from instructions given by Joseph Smith on Nov. 28, 1841, in Nauvoo, Illinois; reported by Wilford Woodruff.
 
 &nbsp;
 
@@ -132,7 +134,7 @@ That is quite the bold claim to say it's "the most correct book on earth." Truly
 BoM answered a lot of the hotly debated controversies of the early 1800’s 2nd Great Awakening, Calvinism, Rationalism, Deism, etc.
 
 - Is a literal baptism required?
-- Does God approve of Infant [[Baptism]]?
+- Does God approve of infant baptism?
 - What does God think of Catholics?
 - Which child of Noah did the Native Americans descend from?
 - Was God behind the founding of the USA?
@@ -163,6 +165,8 @@ Does make prophecies about:
 
 Whose day was it written for?
 
+&nbsp;
+
 According to David A Bednar…
 
 > *The Book of Mormon is not a book of history. The Book of Mormon is a book about the future.*
@@ -186,6 +190,8 @@ Huh. If I didn't know any better, I might assume that Joseph just plagiarized th
 
 Jesus does, by definition, visit the new world, but not all of it. He goes to one city. Not only that, but Zerahemla's buildings and infrastructure just got completely leveled— there isn't an auditorium or a gathering place. In an enclosed room, one's voice might reverberate from the walls enough to reach folks in the back row. They don't have rooms or buildings, just rubble and debris. Only the first 100 - 150 people to get to Jesus could hear him talk. And what does he talk about? The exact same message, suspiciously in the same 17th century English vernacular and style as the King James Version of the New Testament, repeated. 
 
+&nbsp;
+
 Imagine it: you just [lost your family](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p25#p25), your house, your livelihood; [populous cities just got flattened](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p14#p14) by storms and earthquakes, followed by a full [72 hours of people moaning and wailing in despair](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/8?lang=eng&id=p23#p23) as their sight is blinded by dark mists. All you can feel is rubble and dead bodies around you, all you can hear is other people mourning, or those who were injured or maimed, having not yet died, but scream out in horror at their reality as they bleed out, dying slowly. Maybe you're pinned down under a collapsed wall, unable to free your shattered bones from the weight of the structure. No one can treat your wounds or help you— no one can *find* each other. You can't find food. Anyone in earshot of you is wallowing in their own excrement. Nothing to suggest that your condition will improve, or that your sight will ever return *for three days straight*. But hey, at least Jesus came here to tell you [the Lord's prayer](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p9-p13#p9). Just what you needed, right?
 
 One could argue that this emphasizes how important that message is, that native Americans need it too— but part of what's dramatic about this book is the idea that it survived such great lengths to be preserved for us today in 2025 to read as convincing evidence that God's one true church has been restored. *Those two ideas don't fit together*. Was it [[#Written for our day|for us]], who already have the source material? We have the KJV already! Jesus appeared to Nephites after leveling their cities to talk to you and I in the 21st century? Was it for *our day*, more of a temporal matter than demographic— for Mormonism to convince the rest of the world that we believe the same things? "See, we like Jesus' message too! We're not weird!"
@@ -197,21 +203,17 @@ If Jesus himself orchestrated that 4D-chess maneuver just to make a point 2,000 
 ### Cannot be written
 > *And now there ==cannot be written== in this book even a hundredth part of the things which Jesus did truly teach unto the people;*
 
-— _[3 Ne 26:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng&id=p6#p6)_
+— _[3 Nephi 26:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng&id=p6#p6)_
 
 &nbsp;
 
-I initially had these following passages quoted inline, but I think you can follow these links if you'd like to read some other examples:
-
-- _[3 Ne 26:16-18](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng&id=p16-p18#p16)_
-- _[3 Ne 17:15-17](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/17?lang=eng&id=p15-p17#p15)_
-- _[3 Ne 7:17](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/7?lang=eng&id=p17#p17)_
-- _[3 Ne 19:32-34](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=eng&id=p32-p34#p32)_
-
-
 Really, now. During the physical ministry of Jesus Christ, savior of all mankind, in the resurrected flesh, the scribes just wrote 'yeah he said some other stuff too. It was cool, you should have been there.'
 
-Out of all the myriad things they didn't write down, the [[#Anglicization|few concepts]] they got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 630+ years separated from Lehi or any contemporaries departing Jerusalem.
+I've captured a few other times when having a direct quote from Jesus Christ would have been *really useful*, but... you know, it just didn't get written down. 🤷 Those are outlined in the page of notes that [[cannot-be-written|cannot be written]]. 
+
+&nbsp;
+
+Notably, of the [[#Anglicization|few concepts]] the Nephites got recorded verbatim wouldn't mean a damned thing outside of Judaism. Perhaps they were [[Changes#Intro Page|descendants of Israelites]], but don't forget that by this point they're 630+ years separated from Lehi or any contemporaries departing Jerusalem.
 
 &nbsp;
 

@@ -47,7 +47,7 @@ But... If the restoration of the gospel is ongoing, there is no restored gospel.
 &nbsp;
 
 ### Already Restored
-> *No matter where I go, I meet our missionaries. They are remarkably resilient and ever effective. They give visible and tangible evidence that the Church of Jesus Christ ==has been restored in its fulness*==.
+> *No matter where I go, I meet our missionaries. They are remarkably resilient and ever effective. They give visible and tangible evidence that the Church of Jesus Christ ==has been restored in its fulness==*.
 
 — *[Senior Missionaries and the Gospel](https://www.churchofjesuschrist.org/study/general-conference/2004/10/senior-missionaries-and-the-gospel?lang=eng&id=p4#p4)*, Elder Russel M Nelson, General Conference October 2004
 
@@ -108,11 +108,21 @@ And why doesn’t the restoration look more like Judaism? Because in theory, tha
 &nbsp;
 
 ### Did Christ really form a church?
-Or did he just tell twelve followers to go out and teach people how to be good? 12 +1 can cover more ground than one preacher. I don’t recall any formal church being set up in the Bible or BoM. A lot of people were told who to follow and how to behave.
+Or did he just tell twelve followers to go out and teach people how to be good? 12 +1 can cover more ground than one preacher. I don’t recall any formal church being set up in the Bible or BoM. A lot of people were told who to follow and how to behave, though. Is that "a church" being founded?
 
-Perhaps what I, today, would call “a church” doesn’t fit all the criteria of what Christ set up in his time. So… can we examine what he did? He got baptized, and told people to respect God.
+I can think of one Biblical example suggesting that there was *not* a church to watch over:
 
-How's this for a hot take: *Christ did not teach Christianity*. Christianity teaches about Christ.
+> *Simon Peter saith unto them, ==I go a fishing==. They say unto him, We also go with thee. They went forth, and ==entered into a ship immediately==; and that night they caught nothing.*
+
+&mdash; *[John 21:3](https://www.churchofjesuschrist.org/study/scriptures/nt/john/21?id=p3&lang=eng#p3)*; See also *[The First Great Commandment](https://www.churchofjesuschrist.org/study/general-conference/2012/10/the-first-great-commandment?id=p9&lang=eng#p9)* in General Conference 2012 October focusing on this passage
+
+How "converted" was Peter, the [chief Apostle of his day](https://www.churchofjesuschrist.org/study/scriptures/gs/peter?id=p3&lang=eng#p3), if after a non-specific but short duration of time he just shrugs as say "whelp, guess I'll go back to doing [the exact same thing I was doing](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4?id=p18-p19,p20-p22&lang=eng#p18) before Jesus showed up." Peter didn't have the conviction to maintain a church as, we can only assume, Jesus Christ Himself would have directed?
+
+&nbsp;
+
+Perhaps what I, today, would call "a church" doesn’t fit all the criteria of what Christ set up in his time. So… can we examine what he did? He got baptized, and told people to respect God.
+
+I will assert that *Christ did not teach Christianity*. Instead, Christianity teaches about Christ.
 
 Christ’s entire worldview is that of apocalyptic Judaism. His entire goal was to prepare His followers for The Lord and the end times. Christ himself did not set up a church, and he did not call for the creation of a new canon of scripture. He did start a movement, though. Everything Jesus needed to argue for His worldview was found within interpretations of existing Judaism and the Old Testament writings as recognized by the Jewish community.
 

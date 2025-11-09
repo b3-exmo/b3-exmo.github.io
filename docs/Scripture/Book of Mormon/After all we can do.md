@@ -28,20 +28,22 @@ I am not God, and can only rely on words from those who speak in God's behalf to
 - Unless we do what God & Jesus say, we're pretty well fucked
 - We agreed to all of this before being physically born
 
-I have some feedback notes on this plan. Why can't God tolerate uncleanliness? Is He not omnipotent? Why would God create something that He cannot tolerate? How can God say that He loves us if He cannot tolerate us in our fallen state? Why would God inflict intolerable attributes upon someone / something He loves? Why are we so susceptible to Satan's influence that our disqualification is practically guaranteed? Requiring a savior sounds reactionary. it is a response to a 0% success rate, necessitating some other divine being to intervene with God's perfect plan. You did what God said by agreeing to mortality, but since you became mortal, God *won't let you* come back. But He *wants* you back. He just has to send His son to be tortured to death first.<br>What the hell, God?
+I have some feedback notes on this plan.
+
+Why can't God tolerate uncleanliness? Is He not omnipotent? Why would God create something that He cannot tolerate? How can God say that He loves us if He cannot tolerate us in our fallen state? Why would God inflict intolerable attributes upon someone / something He loves? Why are we created to be *so susceptible* to Satan's influence that our disqualification is effectively guaranteed? Requiring a savior sounds reactionary. It is a response to a 0% success rate, necessitating some *other* divine being to intervene with God's perfect plan. You did what God said by agreeing to mortality, but since you became mortal, God *won't let you* come back. But He *wants* you back. He just has to send His son to be tortured to death first.<br>What the hell, God?
 
 This is all to illustrate the point that God needs you to be saved from God. He won't let you come back because you did what He said to do, and [[Theology#God's Hierarchy|He's got rules]] to follow or else [He wouldn't be God anymore](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/42?lang=eng&id=p24-p25#p24).
 
 &nbsp;
 
 ## What do we need to do to be saved?
-I don't think I could find an LDS teaching that suggests Jesus' grace is not a critical factor in our salvation, but I can point to conflicting accounts of what "after all we can do" looks like.
+I don't think I could find an LDS teaching that suggests Jesus' grace is somehow *not* a critical factor in our salvation, but I can point to conflicting accounts of what "after all we can do" looks like.
 
 &nbsp;
 
 The LDS church's foundational text, the [[Book of Mormon]], in pretty explicit terms teaches ==salvation by grace==. As shown in the above quote, we're advised that Jesus' grace only takes effect after we put in some effort. Not token effort, but after *exhausting every other resource and avenue possible* to us.
 
-However, the Book of Mormon does not teach that we, as mortals, really have to do much of anything other than ask Jesus to *do us a real solid*. There simply aren't specific examples of working out our own salvation before relying on Jesus after the fact. I'll show some accounts in the Book of Mormon of simply asking for divine intervention, and the subject is addressed immediately with salvation, having not really done anything. Some examples are of being saved from sin and iniquity, and others are more pedestrian.
+However, the Book of Mormon does not teach that we, as mortals, really have to do much of anything other than ask Jesus to *do us a real solid*. There simply aren't specific examples of working out our own salvation before relying on Jesus. I'll show some accounts in the Book of Mormon of simply asking for divine intervention, and the subject is addressed immediately with salvation, having not really done anything. Some examples are of being saved from sin and iniquity, and others are more pedestrian.
 
 [Some scriptural passages](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p10#p10) argue semantics over being saved "in" versus "from" sins. Either way, sins disqualify us from salvation, so prayer & divine intervention are the common points in the following stories. God's grace is given without asking anything in return, which pretty heavily implies that "all we can do" could just mean praying once.
 
@@ -56,7 +58,7 @@ Alma the Younger's story appears second-hand in Mosiah 27 and first-person in Al
 - Still conscious, Alma recognizes his helplessness and calls on God for mercy, and is instantly saved by the grace of God. [Mosiah 27:24-31](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p24-p31#p24), [Alma 36:17-18](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=eng&id=p17-p18#p17), [23-27](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/36?lang=eng&id=p23-p27#p23)
 - Upon arising after being struck down, Alma proclaims being "redeemed of the Lord," ==past tense==. It's happened. The process took place and completed. [Mosiah 27:24-25](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p24-p25#p24)
 
-Alma was saved by grace, and all he had to do was ask. No works needed! In fact, one could argue that the works he had done up ==were evil== up to the point of being struck down. Alma was not saved because of anything he did. In fact, the opposite, he is saved by grace despite everything he did. Once again, I'll point to the [semantic exploration](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p10#p10) of being saved in sins, and from sins.
+Alma was saved by grace, and all he had to do was ask. No works needed! In fact, one could argue that his works ==were evil== up to the point of being struck down. Alma was not saved because of anything he did. In fact, the opposite is demonstrated: he is saved by grace *despite* everything he did. Once again, I'll point to the [semantic exploration](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p10#p10) of being saved in sins, and from sins.
 
 Alma got struck down and immobilized. The text emphasizes in *very clear terms* that it is by grace that he was saved. After he wakes up and stands, Alma says unambiguously that he is redeemed of the Lord and born of the spirit. Read through [Mosiah 27:24-25](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p25-p26#p25) and tell me if I'm misunderstanding something.
 

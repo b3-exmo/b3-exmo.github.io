@@ -47,9 +47,9 @@ Smith had some polygamous escapades, and has had plenty of slander thrown at him
 &nbsp;
 
 ## Building up population
-In addition to the retorts I've encountered that Joseph never practiced polygamy, I've  encountered many insistent explanations that *even if he had* practiced polygamy, there was no [[Consummation|boinking]] involved. So don't worry about it.
+In addition to the retorts I've encountered that Joseph never practiced polygamy, I've  encountered many insistent explanations that *even if he had* practiced polygamy, there was no boinking involved. So don't worry about it.
 
-Since I find this argument to be nonsense, I do have a separate page of notes on whether or not these relations were [[Consummation|consummated]], including some explanations for why it really just doesn't matter that much. Having established that, I will continue writing about it anyway.
+Since I find this argument to be nonsense, I do have a separate page of (unorganized, messy) notes on whether or not these relations were consummated, including some explanations for why it really just doesn't matter that much. Having established that, I will continue writing about it anyway.
 
 &nbsp;
 
@@ -73,7 +73,7 @@ I guess hot water is bad, though, because you might get tempted to roast and gri
 ### Adam's time
 If Polygamy was just about building up population, wouldn’t you think there would be record of Adam having [multiple “Eve’s”](https://en.wikipedia.org/wiki/Lilith)? That’s when human population was lowest, and to carry out God’s purposes if giving us all physical bodies, expediting that process would require more than one woman. As described above, Brigham Young did teach this. To date, I haven't encountered anyone else make this claim— I would think that if it were plain and obvious, biblical scholars would agree that Adam was polygamous. That detail was omitted from Genesis, Pearl of Great Price, and from temple ceremonies. It would be a pretty convincing precedent to be [[Restoration|restored]].
 
-It's enough to make me think that maybe an adulterous, extramarital affair being called a "[[Sealing]]" to divert scrutiny was just that— adultery and diversion.
+It's enough to make me think that maybe an adulterous, extramarital affair being called a "[[Sealing|sealing]]" to divert scrutiny was just that— adultery and diversion.
 
 &nbsp;
 

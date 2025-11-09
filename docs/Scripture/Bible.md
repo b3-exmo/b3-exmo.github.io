@@ -202,7 +202,7 @@ FAIR then quotes the following from a faith-positive podcast called LDS Perspect
 
 >> *What we found, a student assistant (Hailey Wilson Lamone) and I, we discovered that in about 200 to 300 — depending on how much change is being involved — parallels where Joseph Smith has the ==exact same change to a verse that Adam Clarke does==. They’re verbatim. Some of them are 5 to 6 words; some of them are 2 words; some of them are a single word. But in cases where that single word is fairly unique or different, ==it seemed pretty obvious that he’s getting this from Adam Clarke==. What really changed my worldview here is now I’m looking at what appears obvious as a text person, that the prophet has used Adam Clarke. That in the process of doing the translation, he’s either read it, has it in front of him, or he reads it at night. We started to look back through the Joseph Smith History. There’s a story of his brother-in-law presenting Joseph Smith with a copy of Adam Clarke. We do not know whose copy of Adam Clarke it is, but we do know that Nathaniel Lewis gives it to the prophet and says, "I want to use the Urim and Thummim. I want to translate some of the strange characters out of Adam Clarke’s commentary." Joseph will clearly not give him the Urim and Thummim to do that, but we know he had it in his hands. Now looking at the text, we can say that a lot of the material that happens after Genesis 24. There are no parallels to Clarke between Genesis 1–Genesis 24. But when we start to get to Matthew, ==it’s very clear that Adam Clarke has influenced the way he changes the Bible==. It was a big moment. That article comes out in the next year. We provide appendi [sic] and documentation for some of the major changes, and we try to grapple with what this might mean.*
 
-— [Episode 55: Joseph Smith’s Use of Bible Commentaries in His Translations – Thomas A. Wayment](https://ldsperspectives.com/2017/09/26/jst-adam-clarke-commentary)  Latter-day Saint Perspectives
+— [Episode 55: Joseph Smith’s Use of Bible Commentaries in His Translations – Thomas A. Wayment](https://ldsperspectives.com/2017/09/26/jst-adam-clarke-commentary), Latter-day Saint Perspectives
 
 I'll point out that this certainly appears to be the same Thomas Wayment who published a more [[#Could we get a re-translation?|modern translation]] of the New Testament. I'll again iterate that his education and credentials qualify him to be a reliable source, at least by my standards.
 
@@ -222,7 +222,7 @@ I've run this Ensign article through a word counter tool, and deemed that it use
 &nbsp;
 
 ### Why does this matter?
-Much like the [[Book of Abraham]], if what Joseph Smith calls a revelation can be demonstrated otherwise, that harms his credibility as a prophet called of God to receive revelation. If subsequent church leaders trace their authoritative lineage back to Smith, it calls their position into question as well.
+Much like the [[Book of Abraham]], if what Joseph Smith calls a revelation can be demonstrated as non-revelatory, that harms his credibility as a prophet called of God to receive revelation. If subsequent church leaders trace their authoritative lineage back to Smith, it calls their position into question as well.
 
 &nbsp;
 
@@ -234,7 +234,9 @@ I imagine I could list other examples, but one that I've stumbled upon demonstra
 
 — *[Understanding the Scriptures](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-study-guide-obs/the-books-of-genesis-moses-and-abraham/moses-1-this-is-my-work-and-my-glory?lang=eng&id=aside1_title4-aside1_p50#aside1_title4)*, Moses 1: “This Is My Work and My Glory”, Old Testament Seminary Student Study Guide
 
-I may add others as I encounter them, but I'd argue that this excerpt does indicate that trying to downplay the JST's role is dishonest.
+"[[Satan]] *wasn't* in Genesis 1-6, but that's just because he doesn't want you to think he's real. It's proof of corruption!"<br>Don't forget that the word 'satan' is transliterated Hebrew for "opponent" or "adversary," not necessarily the name of Christianity's boogeyman. There is no contemporary indication that "the serpent" in Genesis 3 is a supernatural demon. The text just says "serpent." I suppose we could argue that this serpent was *a satan* as a role rather than a name?
+
+What if the absence of the word for "opponent" in the first 6 chapters simply means that opposition wasn't a relevant factor? I'll dig into this topic more in another page, but... God's Plan of Salvation kind of *depends* on Satan, doesn't it? What if his role as an adversary to overcome is necessary for our exaltation? Wouldn't that mean that we rely on the devil just as much as we rely on a savior? Neither can exist without the other.
 
 &nbsp;
 

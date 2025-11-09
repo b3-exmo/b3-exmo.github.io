@@ -31,14 +31,7 @@ Maybe we'll let that [[Name Mormon|victory for Satan]] slide this time. After al
 
 &nbsp;
 
-"What are your religion's rules?"
-"We have rules. Some are traditional."
-"So.. what are they?"
-"They're in the Standard Works™️."
-"... That's *where* they are. Can you tell me *what* they are?"
-"Ten commandments, and also some others."
-"Yeah, what are they?"
-"They're in the scriptures."
+"What are your religion's rules?"<br>&emsp;&ensp;"We have rules. Some are traditional."<br>&emsp;&ensp;"So.. what are they?"<br>&emsp;&ensp;"They're in the Standard Works™️."<br>&emsp;&ensp;"... That's *where* they are. Can you tell me *what* they are?"<br>&emsp;&ensp;"The Ten commandments, and also some others."<br>&emsp;&ensp;"Right, but what are the other rules?"<br>&emsp;&ensp;"They're in the scriptures."
 
 god dammit
 

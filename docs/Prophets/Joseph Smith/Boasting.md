@@ -96,7 +96,7 @@ I don't think these semantics need to be this [[Book of Mormon#Probability / Occ
 
 "Look, anything he is quoted to have said within 30 days of dying *just doesn't count.* Also, since he had scribes, none of those quotes can be trusted."
 
-Of all the [[logical-fallacies#Special Pleading|Special Pleading]]s to invoke, this one is most absurd to me. I feel pretty confident that practically none of the [Teachings of Presidents manuals](https://www.churchofjesuschrist.org/study/books-and-lessons/teachings-of-presidents?lang=eng) were first hand-written by each titular president. Does that mean we should throw out everything recorded in those books? Does this mean that anything we can't trace back to Joseph's own handwriting is illegitimate? 
+Of all the [[logical-fallacies#Special Pleading|Special Pleading]]s to invoke, this one is most absurd to me. I feel pretty confident that practically none of the [Teachings of Presidents manuals](https://www.churchofjesuschrist.org/study/books-and-lessons/teachings-of-presidents?lang=eng) were first hand-written by each titular president. Does that mean we should throw out everything recorded in those books? Does this mean that anything we can't trace back to Joseph's own handwriting is illegitimate? I can certainty point to one specific document that Joseph [[First Vision#1832|wrote by hand]] that today's church would [[First Vision Concealment#Scanned Papers|prefer that he didn't]].
 
 Can we point to specific things that Jesus Christ wrote Himself? No? We only have [[Book of Mormon#Vs Gospels|second-hand accounts written decades after]] Christ's resurrection and ascent to the heavens, or vague recollections of [[Book of Mormon#Cannot be written|His visit to Zerahemla]]? Why do we give those accounts any credence? They're clearly "reconstructed speeches from the notes and memories of those who'd heard them." There were also no recordings in 34 AD.
 
@@ -109,4 +109,4 @@ Can we point to specific things that Jesus Christ wrote Himself? No? We only hav
 
 &nbsp;
 
-There's more to read in the article itself. Dig in for your own edification.
+There's more to read in the article itself, but I think I'm done here. Dig in for your own edification.

@@ -72,9 +72,11 @@ It is absolutely worth pointing out the times when Book of Mormon characters quo
 
 &nbsp;
 
-And it’s not just Bible quotes. The Book of Mormon has historical incidents that appear to have been derived from New Testament stories, even though they allegedly happened centuries earlier, the most obvious being [Ether 8:9-14](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=eng&id=p9-p14#p9) which is clearly derived from the story of the beheading of John the Baptist ([Matthew 14:1-12](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=eng&id=p1-p12#p1), [Mark 6:22-28](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=eng&id=p22-p28#p24)).
+The Book of Mormon has historical incidents that appear to have been derived from New Testament stories, even though they allegedly happened centuries earlier, the most obvious being [Ether 8:9-14](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/8?lang=eng&id=p9-p14#p9) which is clearly derived from the story of the beheading of John the Baptist ([Matthew 14:1-12](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=eng&id=p1-p12#p1), [Mark 6:22-28](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/6?lang=eng&id=p22-p28#p24)).
 
 Jacob 5, the Allegory of the Olive Tree, allegedly written prior to 600 BC, derives material from Luke 13:6-9 and Romans 11.
+
+Before we defend this suspicious similarity by saying that "God just used the same illustration twice!" I would posit that *we don't need the same illustration twice*. God gave us (allegedly) another testament of Christ, right? ... If it says [[Book of Mormon#Another Testament of Christ|the exact same thing]], and was also [[Book of Mormon#Written for our day|written for our day]], then what was the point? If we today are the target audience, and we have access to both records, in what way would we benefit from reading the same thing twice?
 
 &nbsp;
 
@@ -108,11 +110,7 @@ Take a guess which lists’ animals appear in the Book of Mormon, of ancient Ame
 
 — _[Britannica: Technology > Industry > Steel](https://www.britannica.com/technology/steel/History)_
 
-I don’t think this strictly precludes Jaredites having steel, but it does look like they’re around 1500 years too early to claim they had steel as we know it today. Very likely they had iron.
-
-One could argue that they’re calling it steel, and we’d call it iron today.
-
-Either this is the most correct book on the planet, or it’s not.
+I don’t think this strictly precludes Jaredites having steel, but it does look like they’re around 1,500 years too early to claim they had steel as we know it today. Very likely they had iron. One could argue that they just *called it steel* even though it wasn't steel. I don't know that I could point to someone making that specific claim, but I can observe that either this is the [[Book of Mormon#Correctness|most correct book]] on the planet, or it’s not.
 
 &nbsp;
 
