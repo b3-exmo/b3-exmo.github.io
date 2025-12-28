@@ -3,13 +3,13 @@ comments: true
 ---
 # 💭 [What Do We Mean When We Say the Church Is True?](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng)
 
-An article from June 2024 edition of the Liahona by Elder J. Devn Cornish, *Emeritus General Authority Seventy*.
+An article from June 2024 edition of the Liahona by Elder J. Devn Cornish, *Emeritus General Authority Seventy*.
 
 &nbsp;
 
 The first section seems pretty standard, using New Testament passages amid warming up to "testifying of truth is important! you should do it." But, oh boy, ==the first heading== after that reads, at the time of writing, "What If Church Leaders Aren’t Perfect?"
 
-... [[True#Paul Grice's Maxim of Quantity|Who said anything about]] church leaders not being perfect? How is their perfection (or lack thereof) related to the church being true?
+... [[True#Paul Grice's Maxim of Quantity|Who said anything about]] church leaders not being perfect? How is their [[Perfection|perfection]] (or lack thereof) related to the church being true?
 
 We shifted from Christ having established a church (maybe) and the next heading, "Why are you accusing me of not being perfect? It's fine, I never said that I was! Why are you being so hostile to church leaders?" ... what? Is that related to the thesis statement? Perfect leadership wasn't part of the conversation on doctrine or truthfulness until Elder Cornish brought it up in a remarkably defensive way. We're like four paragraphs in, and we've escalated to defending imperfections.
 
@@ -31,7 +31,7 @@ That's a nice [[logical-fallacies#Strawman Fallacy|strawman]] you've got there.
 
 You mean like the time when God "guided" Joseph Smith, prophet of the restoration, by [[Doctrines/Polygamy/Polygamy#Angel with a Sword vs Joseph Smith|sending an angel with a flaming sword to destroy him if he doesn't cheat on his wife]]? *Are you led by God or not*? Because if you have a convenient explanation for why something you did *was not* inspired of God each time it's found to be disagreeable, I might question how divinely inspired your organization is.
 
-A fellow named L. Tom Perry did make a pretty definitive statement that "[a Bishop Must Be Blameless](https://www.churchofjesuschrist.org/study/general-conference/1982/10/for-a-bishop-must-be-blameless?lang=eng)" in 1982. No, "blameless" and "perfect" are not synonymous, but I'd wager there's lots of overlap in those adjectives. Dallin H Oaks is on record conflating [[Doctrine#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will. 
+A fellow named L. Tom Perry did make a pretty definitive statement that "[a Bishop Must Be Blameless](https://www.churchofjesuschrist.org/study/general-conference/1982/10/for-a-bishop-must-be-blameless?lang=eng)" in 1982. No, "blameless" and "perfect" are not synonymous, but I'd wager there's lots of overlap in those adjectives. [[Dallin-Oaks|Dallin H Oaks]] is on record conflating [[Doctrine#Policy vs Doctrine|policy and doctrine as being indistinguishable]]. Make of that what you will. 
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Ah, there we go, these are some definitive statements. First, let's not forget t
 
 &nbsp;
 
-> *“The Church is [the] prophesied latter-day kingdom, not created by man but set up by the God of heaven,” taught Elder D. Todd Christofferson of the Quorum of the Twelve Apostles. How important it is for sincere believers in the truths restored by Jesus Christ to stand up and testify boldly that The Church of Jesus Christ of Latter-day Saints is “the only true and living church” ([Doctrine and Covenants 1:30](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p30#p30)).*
+> *“The Church is [the] prophesied latter-day kingdom, not created by man but set up by the God of heaven,” taught Elder D. Todd Christofferson of the Quorum of the Twelve Apostles. How important it is for sincere believers in the truths restored by Jesus Christ to stand up and testify boldly that The Church of Jesus Christ of Latter-day Saints is “the only true and living church” ([Doctrine and Covenants 1:30](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p30#p30)).*
 
 Call me a grouch, but whenever I hear that the modern LDS church was prophesied in a biblical passage, I *cannot* resist the urge to check their cited sources.
 

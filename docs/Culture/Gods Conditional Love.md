@@ -130,7 +130,7 @@ Sure, the exact word "unconditional" might not exist in the ancient Hebrew manus
 
 >*The one whose name this church bears has ==equal and unconditional love== for each of his children—both those who know him and those who do not know him so well. Whatever your current situation, my sisters, he reaches out to you.*
 
-— *["Come, Listen to a Prophet’s Voice"](https://www.churchofjesuschrist.org/study/general-conference/1978/10/come-listen-to-a-prophets-voice?lang=eng&id=p4#p4)*, General Conference October 1978, Ruth H. Funk
+— *["Come, Listen to a Prophet’s Voice"](https://www.churchofjesuschrist.org/study/general-conference/1978/10/come-listen-to-a-prophets-voice?lang=eng&id=p4#p4)*, General Conference October 1978, Ruth H. Funk
 
 I swear to shit, if any of you comment that this doesn't count because it's a woman speaking 🫠
 
@@ -138,7 +138,7 @@ I swear to shit, if any of you comment that this doesn't count because it's a wo
 
 >*The greatest example of love available to all of us is, of course, found in the scripture from John: “For God so loved the world, that he gave his only begotten Son.” ([John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3.16?lang=eng#p16).) By the greatest of all acts of love and by this supreme sacrifice, God set the pattern. ==He demonstrated to us that His love was unconditional== and sufficient to encircle every person.*
 
-— *[We Serve That Which We Love](https://www.churchofjesuschrist.org/study/general-conference/1981/04/we-serve-that-which-we-love?lang=eng&id=p23#p23)*, General Conference April 1981, Marvin J. Ashton
+— *[We Serve That Which We Love](https://www.churchofjesuschrist.org/study/general-conference/1981/04/we-serve-that-which-we-love?lang=eng&id=p23#p23)*, General Conference April 1981, Marvin J. Ashton
 
 &nbsp;
 

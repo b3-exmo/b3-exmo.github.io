@@ -59,7 +59,7 @@ Outside a legal context, "settling" sounds like an innocuous way to reach resolu
 
 &nbsp;
 
-> *Investment managers who oversee a portfolio of public equities ==above a certain threshold== are required to file Forms 13F with the SEC ==quarterly==. These forms publicly disclose the names of the securities and their values.*
+> *Investment managers who oversee a portfolio of public equities ==above a certain threshold== are required to file Forms 13F with the SEC ==quarterly==. These forms publicly disclose the names of the securities and their values.*
 
 Above a certain threshold, you say?
 

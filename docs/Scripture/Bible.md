@@ -4,7 +4,7 @@ comments: true
 # 📑 Bible
 ## Article of Faith
 
-> *We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God.*
+> *We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God.*
 
 — *[8th Article of Faith](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p8#p8)*
 
@@ -35,7 +35,15 @@ Read the rest of that section if you'd like. It sure sounds to me that the churc
 
 &nbsp;
 
-> *It is not by chance or coincidence that we have the Bible today. Righteous individuals were prompted by the Spirit to record both the sacred things they saw and the inspired words they heard and spoke. Other devoted people were prompted to protect and preserve these records. Men like John Wycliffe, the courageous William Tyndale, and Johannes Gutenberg were prompted against much opposition to translate the Bible into language people could understand and to publish it in books people could read. I believe even the scholars of King James had spiritual promptings in their translation work.*
+> *Many versions of the Bible are available today. Unfortunately, no original manuscripts of any portion of the Bible are available for comparison to determine the most accurate version. However, the Lord has revealed clearly the doctrines of the gospel in these latter-days. The most reliable way to ==measure the accuracy of any biblical passage== is not by comparing different texts, but ==by comparison with the Book of Mormon== and modern-day revelations.*
+> 
+> *While other Bible versions may be easier to read than the King James Version, ==in doctrinal matters latter-day revelation supports the King James Version== in preference to other English translations. All of the Presidents of the Church, beginning with the Prophet Joseph Smith, have supported the King James Version by encouraging its continued use in the Church. In light of all the above, it is the English language Bible used by The Church of Jesus Christ of Latter-day Saints.*
+
+&mdash; *[First Presidency Statement on the King James Version of the Bible](https://www.churchofjesuschrist.org/study/ensign/1992/08/news-of-the-church/first-presidency-statement-on-the-king-james-version-of-the-bible?lang=eng&id=p3-p4#p3)*, Ensign, August 1992
+
+&nbsp;
+
+> *It is not by chance or coincidence that we have the Bible today. ==Righteous individuals were prompted by the Spirit== to record both the sacred things they saw and the inspired words they heard and spoke. Other devoted people were prompted to protect and preserve these records. Men like John Wycliffe, the courageous William Tyndale, and Johannes Gutenberg were prompted against much opposition to translate the Bible into language people could understand and to publish it in books people could read. ==I believe even the scholars of King James had spiritual promptings in their translation work==.*
 
 — *[The Miracle of the Holy Bible](https://www.churchofjesuschrist.org/study/general-conference/2007/04/the-miracle-of-the-holy-bible?lang=eng&id=p8#p8)*, M Russel Ballard, General Conference April 2007
 
@@ -53,7 +61,19 @@ I'm interested to find more about what opposition Tyndale, Wycliffe, and Gutenbe
 >
 > *As the Bible was compiled, organized, translated, and transcribed, ==many errors entered the text==. The existence of such errors becomes apparent when one considers the numerous and often conflicting translations of the Bible in existence today. Careful students of the Bible are often puzzled by apparent contradictions and omissions.*
 
-— *[Topics & Questions - Bible](https://www.churchofjesuschrist.org/study/manual/gospel-topics/bible)*
+— *[Topics & Questions - Bible](https://www.churchofjesuschrist.org/study/manual/gospel-topics/bible)*, churchofjesuschrist.com
+
+&nbsp;
+
+> *==The official English version of the Bible== used by The Church of Jesus Christ of Latter-day Saints ==is the King James Version==. For about seven years, more than 50 scholars worked on the King James Version using the best sources available. It was published in 1611.*
+
+&mdash; [What Had to Happen?](https://www.churchofjesuschrist.org/study/liahona/2005/03/what-had-to-happen?lang=eng&id=p16#p16), Ensign, March 2005
+
+&nbsp;
+
+> *... In time, that version would find its way to a new land and be read by a 14-year-old plowboy named Joseph Smith. Is it any wonder that the King James Version is the approved English Bible of The Church of Jesus Christ of Latter-day Saints today?*
+
+&mdash; [Preparations for the Restoration and the Second Coming: "My Hand Shall Be over Thee"](https://www.churchofjesuschrist.org/study/liahona/2005/11/preparations-for-the-restoration-and-the-second-coming-my-hand-shall-be-over-thee?lang=eng&id=p16#p16), Ensign, November 2005
 
 &nbsp;
 
@@ -230,7 +250,7 @@ I imagine I could list other examples, but one that I've stumbled upon demonstra
 
 > ***Why These Things Are Not in the Bible***
 > 
-> *[Moses 1:23](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.23?lang=eng#p23) explains why the account of Moses overcoming Satan is not in our current Bible. It is interesting to note that the words Satan and devil do not appear in [Genesis 1–6](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng) in the Bible. ==Satan and devil appear over twenty times in the [Joseph Smith Translation](https://www.churchofjesuschrist.org/study/scriptures/jst/introduction?lang=eng) of these same chapters== ([Moses 1–8](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng)). One of the ways Satan tries to deceive people is to get them to believe he does not exist (see [2 Nephi 28:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28.22?lang=eng#p22)).*
+> *[Moses 1:23](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1.23?lang=eng#p23) explains why the account of Moses overcoming Satan is not in our current Bible. It is interesting to note that the words Satan and devil do not appear in [Genesis 1–6](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng) in the Bible. ==Satan and devil appear over twenty times in the [Joseph Smith Translation](https://www.churchofjesuschrist.org/study/scriptures/jst/introduction?lang=eng) of these same chapters== ([Moses 1–8](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng)). One of the ways Satan tries to deceive people is to get them to believe he does not exist (see [2 Nephi 28:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/28.22?lang=eng#p22)).*
 
 — *[Understanding the Scriptures](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-study-guide-obs/the-books-of-genesis-moses-and-abraham/moses-1-this-is-my-work-and-my-glory?lang=eng&id=aside1_title4-aside1_p50#aside1_title4)*, Moses 1: “This Is My Work and My Glory”, Old Testament Seminary Student Study Guide
 

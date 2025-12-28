@@ -114,7 +114,7 @@ This doesn't fit quite as neatly. This is reportedly in Joseph's own voice, clai
 
 In 2000, two BYU religion professors, Joseph Fielding McConkie (son of Elder Bruce R. McConkie) and Craig J. Ostler, wrote an essay titled, “[_The Process of Translating the Book of Mormon_](https://emp.byui.edu/satterfieldb/Rel121/Process%20of%20Translating%20the%20BofM.pdf).” (Check the URL: this is BYU-I’s online library.) They wrote:
 
-> *Thus, everything we have in the Book of Mormon, according to Mr. Whitmer, was translated by placing the chocolate-colored ==stone in a hat== into which Joseph would bury his head so as to close out the light. While doing so he could see ‘an oblong piece of parchment, on which the hieroglyphics would appear,’ and below the ancient writing, the translation would be given in English. Joseph would then read this to Oliver Cowdery, who in turn would write it. ==If he did so correctly, the characters and the interpretation would disappear== and be replaced by other characters with their interpretation.*
+> *Thus, everything we have in the Book of Mormon, according to Mr. Whitmer, was translated by placing the chocolate-colored ==stone in a hat== into which Joseph would bury his head so as to close out the light. While doing so he could see ‘an oblong piece of parchment, on which the hieroglyphics would appear,’ and below the ancient writing, the translation would be given in English. Joseph would then read this to Oliver Cowdery, who in turn would write it. ==If he did so correctly, the characters and the interpretation would disappear== and be replaced by other characters with their interpretation.*
 
 Alright, I guess if we go with divine intervention, we can accept this unprecedented method. This recounting could be what contributes to Joseph asserting that this is "[[Book of Mormon#Correctness|the most correct of any book on earth]]".
 
@@ -135,7 +135,7 @@ I don't know that there's much more to add, really. I don't like the idea that s
 &nbsp;
 
 ## Tools used
-Joseph Smith used to use the same seer stone to find treasure before he used it to “translate” the Book of Mormon. What was the point of the “Urim and Thummim”?  Why would God include them if Joseph didn’t actually need them to “translate” the writing on the plates?
+Joseph Smith used to use the same seer stone to find treasure before he used it to “translate” the Book of Mormon. What was the point of the “Urim and Thummim”? Why would God include them if Joseph didn’t actually need them to “translate” the writing on the plates?
 
 > *Because of his spiritual nature and his willingness to learn the truth, Joseph Smith was ==tested== and found worthy to be the translator of the Book of Mormon. To help him with the translation, Joseph found with the gold plates “==a curious instrument which the ancients called Urim and Thummim==, which consisted of two transparent stones set in a rim of a bow fastened to a breastplate.”*
 >
@@ -181,11 +181,11 @@ Well. Alright. Granted, this account is published in 1874, and it doesn't explic
 ### Stone? What stone?
 > **WALTERS:** *Well I thought somebody said that Joseph Fielding had had Joseph Smith’s seer stone.*
 > 
-> **RICHARDS:** *No. We don’t have that.*
+> **RICHARDS:** *No. We don’t have that.*
 > 
 > **WALTERS:** *You don’t have that?*
 > 
-> **RICHARDS:** *No.*
+> **RICHARDS:** *No.*
 > 
 > **WALTERS:** *Oh.*
 > 
@@ -199,11 +199,11 @@ Well. Alright. Granted, this account is published in 1874, and it doesn't explic
 > 
 > **VLACHOS:** *Do you know what it looked like?*
 > 
-> **RICHARDS:** *What?*
+> **RICHARDS:** *What?*
 > 
 > **VLACHOS:** *Do you know what the stone looked like?*
 > 
-> **RICHARDS:** *No. I’ve never seen it. And I don’t think there is any living man who has seen it.*
+> **RICHARDS:** *No. I’ve never seen it. And I don’t think there is any living man who has seen it.*
 
 — *[Correspondence With Le Grand Richards Regarding 1978 Interview](https://archive.org/details/CorrespondenceWithLeGrandRichardsRegarding1978Interview)*; see also these [[Race#LeGrand Richards|interview excerpts]] concerning race
 
@@ -216,7 +216,7 @@ Anyway, here's an apologetic article & [photograph of Joseph's seer stone](https
 ## "A Treasured Testament"
 > _“==Joseph Smith would put the seer stone into a hat==, and put his face in the hat, drawing it closely around his face to exclude the light; and in the darkness the spiritual light would shine. A piece of something resembling parchment would appear, and on that appeared the writing. One character at a time would appear, and under it was the interpretation in English. Brother Joseph would read off the English to Oliver Cowdery, who was his principal scribe, and when it was written down and repeated to Brother Joseph to see if it was correct, then it would disappear, and another character with the interpretation would appear. Thus the Book of Mormon was translated by the gift and power of God, and not by any power of man.”_
 
-*(David Whitmer, An Address to All Believers in Christ, Richmond, Mo.: n.p., 1887, p. 12.) Quote copied [from Nelson's address](https://www.churchofjesuschrist.org/study/ensign/1993/07/a-treasured-testament?lang=eng&id=p13#p13).*
+*(David Whitmer, An Address to All Believers in Christ, Richmond, Mo.: n.p., 1887, p. 12.) Quote copied [from Nelson's address](https://www.churchofjesuschrist.org/study/ensign/1993/07/a-treasured-testament?lang=eng&id=p13#p13).*
 
 So... no plates?
 

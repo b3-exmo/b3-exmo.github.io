@@ -13,7 +13,7 @@ Believe it or not, this passage has stirred disagreements among those who've pra
 
 I suppose that becoming "like unto a [flint](https://duckduckgo.com/?q=flint&iax=images&ia=images)" must be referring to the *hardness of their hearts* rather than melanin, as "flint is usually dark grey or black, green, white, or brown in colour, and has a glassy or waxy appearance" by [Wikipedia](https://en.wikipedia.org/wiki/Flint)'s short description. [Verse 14](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p14#p14) sounds like "they" were called Lamanites who received this curse.
 
-> *The Nephites separate themselves from the Lamanites, keep the law of Moses, and build a temple—Because of their unbelief, ==the Lamanites are cut off from the presence of the Lord, are cursed, and become a scourge unto the Nephites==. About 588–559 B.C.*
+> *The Nephites separate themselves from the Lamanites, keep the law of Moses, and build a temple—Because of their unbelief, ==the Lamanites are cut off from the presence of the Lord, are cursed, and become a scourge unto the Nephites==. About 588–559 B.C.*
 
 — [*2 Nephi 5 Chapter Header*](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng&id=p14#p14)
 
@@ -132,7 +132,7 @@ This whole disagreement might be one we could write off as being a 19th century 
 &nbsp;
 
 ### Spencer Kimball
-> *The day of the Lamanites is nigh. For years ==they have been growing delightsome==, and they are now ==becoming white and delightsome, as they were promised== ([2 Ne. 30:6](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123)) In this picture of the twenty Lamanite missionaries, ==fifteen of the twenty were as light as Anglos==; five were darker but equally delightsome. The children in the home placement program in Utah are often lighter than their brothers and sisters in the hogans on the reservation.*
+> *The day of the Lamanites is nigh. For years ==they have been growing delightsome==, and they are now ==becoming white and delightsome, as they were promised== ([2 Ne. 30:6](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/123)) In this picture of the twenty Lamanite missionaries, ==fifteen of the twenty were as light as Anglos==; five were darker but equally delightsome. The children in the home placement program in Utah are often lighter than their brothers and sisters in the hogans on the reservation.*
 >
 > *At one meeting a father and mother and their sixteen-year-old daughter were present, the little member girl—sixteen—sitting between the dark father and mother, and ==it was evident she was several shades lighter than her parents==— on the same reservation, in the same hogan, subject to the same sun and wind and weather. There was the doctor in a Utah city who for two years had had an Indian boy in his home who stated that ==he was some shades lighter than the younger brother== just coming into the program from the reservation. These young members of the Church are ==changing to whiteness and to delightsomeness==. One white elder jokingly said that he and his companion were donating blood regularly to the hospital in the hope that the process might be accelerated.*
 

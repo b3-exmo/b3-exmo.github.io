@@ -13,7 +13,7 @@ I'm left to question how will we know if a prophets words are prophetic or not? 
 
 &nbsp;
 
-No, I don't think it's reasonable to demand that every word to come out of their mouth to be [[Perfection#Thought exercise|profound or deserving public scrutiny]]. I do, however, think it's reasonable to expect *dignity and credence* whenever a prophet has an audience with the intention of listening. If Gordon Hinckley is standing behind a pulpit before a gathered audience, his words in that moment carry more weight than if he's chilling at home in his PJ's. I understand that there is a difference here. I also understand that when Brigham Young is speaking to a congregation who reveres him as a divinely appointed leader, that carries more weight theologically than when he's berating wife #23 for whatever domestic matter. That much makes sense.
+No, I don't think it's reasonable to demand that every word to come out of their mouth to be [[Infallibility#Thought exercise|profound or deserving public scrutiny]]. I do, however, think it's reasonable to expect *dignity and credence* whenever a prophet has an audience with the intention of listening. If Gordon Hinckley is standing behind a pulpit before a gathered audience, his words in that moment carry more weight than if he's chilling at home in his PJ's. I understand that there is a difference here. I also understand that when Brigham Young is speaking to a congregation who reveres him as a divinely appointed leader, that carries more weight theologically than when he's berating wife #23 for whatever domestic matter. That much makes sense.
 
 My frustration comes from the dismissal of a prophet's words when all indicators point to him speaking as a prophet.
 
@@ -90,7 +90,7 @@ I thought the whole idea of being a prophet/apostle was having seen Jesus Christ
 
 > _CONDUCTED UNDER THE SUPERVISION OF THE PRESIDING BISHOPRIC. EDITED BY LEE A. PALMER._
 
-— The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [LDS Catalog](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) ([Archive link](https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theater)) (accessed: June 28, 2023)
+— The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [LDS Catalog](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) ([Archive link](https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theater)) (accessed: June 28, 2023)
 
 &nbsp;
 

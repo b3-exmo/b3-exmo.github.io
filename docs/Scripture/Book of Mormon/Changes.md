@@ -25,7 +25,7 @@ What's this? Five *major* editions? Reader, if you were to grab your printed cop
 &nbsp;
 
 ## 2013
-I'll be real; early 2013 is when I entered the missionary training center in Provo Utah. Imagine my surprise when, out on the mission field, I'm told there's a new edition of the Book of Mormon. I had no idea until a Zone Conference, when the message was a very muttering-under-breath "here's the new version, don't worry about it, just hand out the old ones and the replacements will be this edition."
+Early 2013 is when I entered the missionary training center in Provo Utah. Imagine my surprise when, out on the mission field, I'm told there's a new edition of the Book of Mormon. I had no idea until a Zone Conference, when the message was a very muttering-under-breath "here's the new version, don't worry about it, just hand out the old ones and the replacements will be this edition."
 
 This wasn't a real game changer for me, but it really did put some weight on [[Shelf|the shelf]]. It wasn't until 2024 that I found a [document published by the LDS church](https://www.churchofjesuschrist.org/bc/content/shared/content/english/pdf/scriptures/approved-adjustments_eng.pdf) describing those adjustments. Good on them for delineating the changes. To date, I haven't ~~looked for~~ found other documents from the LDS church itself that outline changes.
 
@@ -57,7 +57,7 @@ Joseph asserts that Lamanites are “the former inhabitants” of this continent
 
 &nbsp;
 
-> *Holy scripture records that “after the waters had receded from off the face of this land it became a choice land above all other lands, a chosen land of the Lord; wherefore the Lord would have that all men should serve him who dwell upon the face thereof.” ([Ether 13:2](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/13.2?lang=eng#p2).) Such a special place needed now to be kept apart from other regions, free from the indiscriminate traveler as well as the soldier of fortune. To guarantee such sanctity the very surface of the earth was rent. In response to God’s decree, the great continents separated and the ocean rushed in to surround them. The promised place was set apart. ==Without habitation== it waited for the fulfillment of God’s special purposes.*
+> *Such a special place needed now to be kept apart from other regions, free from the indiscriminate traveler as well as the soldier of fortune. To guarantee such sanctity the very surface of the earth was rent. In response to God’s decree, the great continents separated and the ocean rushed in to surround them. The promised place was set apart. ==Without habitation== it waited for the fulfillment of God’s special purposes.*
 >
 > *With care and selectivity, the Lord began almost at once to repeople the promised land. The Jaredites came first, with stories of the great flood fresh in their memories...*
 
@@ -75,9 +75,10 @@ So... The land was "without habitation." I suppose the interpretation here is th
 | And the angel said unto me, behold the Lamb of God, yea, even the Eternal Father! ([Link](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/31))                                                                           | And the angel said unto me: Behold the Lamb of God, yea, even ==the Son of== the Eternal Father! ([Link](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p21#p21))                                                                    |
 | And I looked and beheld the Lamb of God, that he was taken by the people; yea, the Everlasting God, was judged of the world; ([Link](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/32))                                | And I looked and beheld the Lamb of God, that he was taken by the people; yea, ==the Son of== the everlasting God was judged of the world; ([Link](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p32#p32))                          |
 | These last records . . . shall make known to all kindreds, tongues, and people, that the Lamb of God ==is the Eternal Father== and the Savior of the world; ([Link](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/38)) | These last records...shall make known to all kindreds, tongues, and people, that the Lamb of God is ==the Son of the Eternal Father==, and the Savior of the world; ([Link](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/13?lang=eng&id=p40#p40)) |
-One could fuss over the punctuation changes in those passages, but... let's be honest with ourselves— if you weren't looking for them, you wouldn't have even noticed the removed commas.
 
-FAIR [explains these changes](https://www.fairlatterdaysaints.org/conference/august-2002/changes-in-the-book-of-mormon) as "clarifications." Possibly, sure, but you'd think identifying God would be something you'd get right the first time around. The only way God would be ambiguous is if this text was ~~fabricated~~ transcribed by someone with a trinitarian view of deity. 
+One could fuss over the punctuation changes in those passages, but... let's be honest with ourselves— if you weren't looking for them, you wouldn't have even noticed the removed commas. I didn't until re-reading the comparison for the third or fourth time.
+
+FAIR [explains these changes](https://www.fairlatterdaysaints.org/conference/august-2002/changes-in-the-book-of-mormon) as "clarifications." Possibly, sure, but you'd think identifying God would be something you'd get right the first time around. The only way God's identity or title would be ambiguous is if this text was ~~fabricated~~ transcribed by someone with a trinitarian view of deity. If I am to believe that Joseph Smith [[First Vision|saw God and Jesus]] as separate, distinct beings, I should expect that he can stick with that explanation.
 
 Moreover, in the chapters surrounding these excerpts of visions shown to Nephi, the text does use the phrases God the Father, the Lamb of God, and the Son of God. Meaning, each of those phrases were used in the same context. Were they referring to the same individual by three separate titles? If so, I'd find that confusing and a real cop-out explanation. 
 
@@ -87,7 +88,7 @@ Moreover, in the chapters surrounding these excerpts of visions shown to Nephi, 
 
 Same chapter, same page.
 
-Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. The 1837 edition uses titles for *God* that we, today, use for Jesus. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
+Yes, Jesus has been referred to by many titles throughout the ages, some more majestic or symbolic than others. That's not the issue. The 1837 edition uses titles for *God* that we, today, use for *Jesus*. Those other verses are relevant for contrast when Nephi (or Joseph) got it right, when in the above table, the author got it wrong.
 
 &nbsp;
 
@@ -96,20 +97,24 @@ Yes, Jesus has been referred to by many titles throughout the ages, some more ma
 
 — [The Translation Miracle of the Book of Mormon](https://www.churchofjesuschrist.org/study/general-conference/1995/04/the-translation-miracle-of-the-book-of-mormon?lang=eng&id=p12#p12), Elder Robert K. Dellenbach Of the Seventy, General Conference April 1995
 
-Now... Maybe Elder Dellenbach and I have a different understanding of the word "perfect". But for two adjacent sentences to first acknowledge flaws, even if insignificant, and immediately after assert perfection... doesn't sit right with me.
+Now... Maybe Elder Dellenbach and I have a different understanding of the word "perfect". But for two adjacent sentences to first acknowledge flaws, even if insignificant, and immediately after assert perfection... it doesn't sit right with me.
 
-That discrepancy aside, calling the original manuscripts perfect makes me think that no further changes would be necessary. Is that unreasonable?
+That discrepancy aside, calling the original manuscripts perfect makes me think that no further changes would be necessary. Is that unreasonable? Yet we have multiple editions of the same book with the same perfect manuscript.
 
 &nbsp;
 
 ## Godhead
 For the LDS church to tout its non-trinitarian view of the godhead, there sure seems to be some trinitarian views in our flagship scripture.
 
->_Now Zeezrom saith again unto him: ==Is the Son of God the very Eternal Father==?_
->
->_And Amulek said unto him: ==Yea, he is the very Eternal Father of heaven and of earth==, and all things which in them are; he is the beginning and the end, the first and the last;_
+No, this isn't really a "change" to the Book of Mormon's text, but it illustrates discrepancy between the doctrinal inerrancy of the scriptural text (or its manuscript) and the need for changes.
 
-— _[Alma 11:38-39](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p38-p39#p38)_
+&nbsp;
+
+> *Now Zeezrom saith again unto him: ==Is the Son of God the very Eternal Father==?*
+>
+> *And Amulek said unto him: ==Yea, he is the very Eternal Father of heaven and of earth==, and all things which in them are; he is the beginning and the end, the first and the last;*
+
+— *[Alma 11:38-39](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p38-p39#p38)*
 
 &nbsp;
 
@@ -125,15 +130,15 @@ For the LDS church to tout its non-trinitarian view of the godhead, there sure s
 
 &nbsp;
 
->_Behold, I am he who was prepared from the foundation of the world to redeem my people. ==Behold, I am Jesus Christ. I am the Father and the Son.== In me shall all mankind have life, and that eternally, even they who shall believe on my name; and they shall become my sons and my daughters._
->
->_And never have I showed myself unto man whom I have created, for never has man believed in me as thou hast. Seest thou that ==ye are created after mine own image==? Yea, even all men were created in the beginning after mine own image._
+> *Behold, I am he who was prepared from the foundation of the world to redeem my people. ==Behold, I am Jesus Christ. I am the Father and the Son.== In me shall all mankind have life, and that eternally, even they who shall believe on my name; and they shall become my sons and my daughters.*
+> 
+> *And never have I showed myself unto man whom I have created, for never has man believed in me as thou hast. Seest thou that ==ye are created after mine own image==? Yea, even all men were created in the beginning after mine own image.*
 
 — [Ether 3:14-15](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/3?lang=eng&id=p14#p14)
 
 &nbsp;
 
->_Teach them that redemption cometh through ==Christ the Lord, who is the very Eternal Father==. Amen._
+> *Teach them that redemption cometh through ==Christ the Lord, who is the very Eternal Father==. Amen.*
 
 — [Mosiah 16:15](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/16?lang=eng&id=p15#p15)
 
@@ -145,7 +150,7 @@ For the LDS church to tout its non-trinitarian view of the godhead, there sure s
 
 &nbsp;
 
-If I am to believe that Joseph saw God the Father & Jesus, physically, separate, distinct entities, side by side, in the year 1820 (according to [[First Vision#1838|the 1838 account]]), well before [publishing the Book of Mormon in 1830](https://history.churchofjesuschrist.org/content/library/book-of-mormon?lang=eng), why would Joseph propagate the idea that they're one being? Isn't this meant to be what convinces people that the LDS faith is true & legit? Meaning, the idea of the Book of Mormon's truth necessarily leads us to conclude that Joseph was a prophet, and that lineage is traced all the way to Russell M Nelson in 2023? And we can't identify God?
+If I am to believe that Joseph saw God the Father & Jesus, physically, separate, distinct entities, side by side, in the year 1820 (according to [[First Vision#1838|the 1838 account]]), well before [publishing the Book of Mormon in 1830](https://history.churchofjesuschrist.org/content/library/book-of-mormon?lang=eng), why would Joseph propagate the idea that they're one being? Isn't this meant to be what convinces people that the LDS faith is true & legit? Meaning, the idea of the Book of Mormon's truth necessarily leads us to conclude that Joseph was a prophet, and that lineage is traced all the way to [[Russell-M-Nelson|Russell M Nelson]] in 2023? And we can't identify God?
 
 &nbsp;
 
@@ -170,6 +175,6 @@ Here are some notes from [his post](https://www.reddit.com/r/exmormon/comments/6
 
 The Dropbox folder has some docx, pdf, featuring the highlighted changes, and txt files with the raw, unformatted contents.
 
-I popped those raw texts into [Beyond Compare](https://www.scootersoftware.com/download), since it allowed for more flexible comparisons, such as ignoring case, e.g. "And it came to pass" vs "and it came to pass" syntactically does count as a change, but practically I find those inconsequential.
+I popped those raw texts into [Beyond Compare](https://www.scootersoftware.com/download), since it allowed for more flexible comparisons, such as ignoring case, e.g. "And it came to pass" vs "and it came to pass" syntactically does count as a change, but practically I find those inconsequential and trivial. Do small changes like this contribute to the 100,000+ changes? I assume so.
 
 Once I spend more time on the comparison, I'll look for a way to [[TODO#Functional|share my findings here]]. I intend to describe the enumeration of changes that I see, and actually parse out which of the 16k changes that I would subjectively call meaningful. Meanwhile, you now have the same links I do.

@@ -67,7 +67,7 @@ Simply saying nothing would have been less jarring than to hear God's chosen pro
 > 
 > *==Two hundred years have now elapsed== since this Restoration was initiated by God the Father and His Beloved Son, Jesus Christ. Millions throughout the world have embraced a knowledge of these prophesied events.*
 
-— *[Proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&id=p2,p4,p7#p2) that "was read by President Russell M. Nelson as part of his message at the 190th Annual General Conference, April 5, 2020, in Salt Lake City, Utah."*
+— *[Proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-restoration-of-the-fulness-of-the-gospel-of-jesus-christ/a-bicentennial-proclamation-to-the-world?lang=eng&id=p2,p4,p7#p2) that "was read by President Russell M. Nelson as part of his message at the 190th Annual General Conference, April 5, 2020, in Salt Lake City, Utah."*
 
 &nbsp;
 

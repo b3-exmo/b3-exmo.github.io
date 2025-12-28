@@ -55,7 +55,7 @@ Oh? 🧐
 
 &nbsp;
 
-> *“the Spirit of the Lord rested mightily upon me—the eyes of my understanding were opened, and I saw as clear as the sun at noonday, with wonder and astonishment, the pathway of God and man. I formed the following couplet which expresses the revelation, as it was shown me. …*
+> *“the Spirit of the Lord rested mightily upon me—the eyes of my understanding were opened, and I saw as clear as the sun at noonday, with wonder and astonishment, the pathway of God and man. I formed the following couplet which expresses the revelation, as it was shown me. …*
 > 
 > *“==As man now is, God once was==.”*
 > 

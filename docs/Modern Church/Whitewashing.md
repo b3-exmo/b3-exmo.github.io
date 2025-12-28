@@ -92,9 +92,9 @@ Compare this to 2007...
 
 > *Much misunderstanding about The Church of Jesus Christ of Latter-day Saints revolves around its doctrine. The news media is increasingly asking what distinguishes the Church from other faiths, and reporters like to contrast one set of beliefs with another.*
 > 
-> *The Church welcomes inquisitiveness, but ==the challenge of understanding Mormon doctrine is not merely a matter of accessing the abundant information available==. Rather, it is a matter of how this information is approached and examined.* 
+> *The Church welcomes inquisitiveness, but ==the challenge of understanding Mormon doctrine is not merely a matter of accessing the abundant information available==. Rather, it is a matter of how this information is approached and examined.* 
 > 
-> *The doctrinal tenets of any religion are best understood within a broad context, and thoughtful analysis is required to understand them. News reporters pressed by daily deadlines often find that problematic.*
+> *The doctrinal tenets of any religion are best understood within a broad context, and thoughtful analysis is required to understand them. News reporters pressed by daily deadlines often find that problematic.*
 
 — *[Approaching Mormon Doctrine](https://web.archive.org/web/20180213184855/https://www.mormonnewsroom.org/ldsnewsroom/eng/commentary/approaching-mormon-doctrine)*, Mormon News Room, 4 May 2007
 

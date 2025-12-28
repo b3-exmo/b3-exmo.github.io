@@ -23,7 +23,7 @@ Probably not that. But, irrespective of the religious connotation, I'll be inclu
 > 
 > *Unlike marriages that last only “until death do you part,” temple sealings ensure that death cannot separate loved ones. ==For marriages to continue after death, they must be sealed in the right place and with the right authority==. The right place is the temple and the right authority is the priesthood of God ([Doctrine and Covenants 132:7, 15–19](https://www.churchofjesuschrist.org/scriptures/dc-testament/dc/132.7,15-19)).*
 > 
-> *A husband and wife who are sealed in the temple make sacred covenants with the Lord and with each other. These covenants assure them that their  relationship will continue after this life if they are true to their commitments. They know that ==nothing, not even death, can separate them==.*
+> *A husband and wife who are sealed in the temple make sacred covenants with the Lord and with each other. These covenants assure them that their  relationship will continue after this life if they are true to their commitments. They know that ==nothing, not even death, can separate them==.*
 
 — *[About Temple Sealings](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng)*, churchofjesuschrist.org
 
@@ -165,7 +165,7 @@ Clear as day, I tell you. Sealing is so special that it means eternal marriage, 
 &nbsp;
 
 ### Adoption Sealings
-> *After Joseph Smith’s death, Brigham Young and other members of the Twelve performed temple sealings in Nauvoo and later in Salt Lake City. Brigham Young and the Quorum of the Twelve Apostles officiated thousands of sealings. They sealed couples together in marriage and sealed children to parents when the parents were sealed after their children were born. At the time, however, Latter-day Saints were not yet sealed to their deceased parents who had not joined the Church in this life. Rather, ==some Saints participated in “adoption” sealings that bound them to other adult Latter-day Saints, nearly always prominent Church leaders==. These sealings connected them to others whom they knew had accepted the restored gospel covenants. For the next ==50 years==, many complex adoption networks grew out of temple sealings, connecting friends and peers as if they were expanded families.*
+> *After Joseph Smith’s death, Brigham Young and other members of the Twelve performed temple sealings in Nauvoo and later in Salt Lake City. Brigham Young and the Quorum of the Twelve Apostles officiated thousands of sealings. They sealed couples together in marriage and sealed children to parents when the parents were sealed after their children were born. At the time, however, Latter-day Saints were not yet sealed to their deceased parents who had not joined the Church in this life. Rather, ==some Saints participated in “adoption” sealings that bound them to other adult Latter-day Saints, nearly always prominent Church leaders==. These sealings connected them to others whom they knew had accepted the restored gospel covenants. For the next ==50 years==, many complex adoption networks grew out of temple sealings, connecting friends and peers as if they were expanded families.*
 >
 > *==This practice continued until 1894==, when President Wilford Woodruff received a revelation that limited adoptive sealings and instead focused on sealing marriages and parent-child relationships.*
 

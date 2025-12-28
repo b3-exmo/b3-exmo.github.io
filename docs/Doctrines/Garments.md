@@ -212,7 +212,7 @@ What? No, we're not a cult.
 
 > *In everyday living, immodest clothing such as short shorts, miniskirts, tight clothing, shirts that do not cover the stomach, and other revealing attire are not appropriate. Men and women—including young men and young women—should wear clothing that ==covers the shoulder== and avoid clothing that is low cut in the front or back or revealing in any other manner. Tight pants, tight shirts, excessively baggy clothing, wrinkled apparel, and unkempt hair are not appropriate.*
 
-— *[Modesty: Reverence for the Lord](https://www.churchofjesuschrist.org/study/ensign/2008/08/modesty-reverence-for-the-lord?lang=eng&id=p11#p11)*, Elder Robert D. Hales, Quorum of the Twelve Apostles, Ensign August 2008
+— *[Modesty: Reverence for the Lord](https://www.churchofjesuschrist.org/study/ensign/2008/08/modesty-reverence-for-the-lord?lang=eng&id=p11#p11)*, Elder Robert D. Hales, Quorum of the Twelve Apostles, Ensign August 2008
 
 "Those aren't poodle skirts from 1951! Blasphemy! Since [I represent God](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=38#p38), and I don't like it, that means God doesn't like it either. Get off my lawn."
 

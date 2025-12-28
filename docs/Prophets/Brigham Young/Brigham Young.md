@@ -119,7 +119,7 @@ Boy, this guy sure sounds like he was called of God to speak in His behalf.
 &nbsp;
 
 ## Misogyny
-> *Sisters, do not ask whether you can make yourselves happy, but whether you can do your husband's will, if he is a good man. Teach your children; for you are their guardians, to act as father and mother to them until they are out of your care. ... Do not call it “mine.” Let your maxim be, “This is not mine,” whether you have one child or a dozen. “It is not mine, but the Lord has seen fit to let me bear the souls of the children of men. ([D&C 132:63](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p63#p63)) It is from my Father and God, and I will do my duty and hand it over to him,” and have that faith that the child can never wring itself out of the hands of a good father and mother—can never stray away—no, never.*
+> *Sisters, do not ask whether you can make yourselves happy, but whether you can do your husband's will, if he is a good man. Teach your children; for you are their guardians, to act as father and mother to them until they are out of your care. ... Do not call it “mine.” Let your maxim be, “This is not mine,” whether you have one child or a dozen. “It is not mine, but the Lord has seen fit to let me bear the souls of the children of men. ([D&C 132:63](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p63#p63)) It is from my Father and God, and I will do my duty and hand it over to him,” and have that faith that the child can never wring itself out of the hands of a good father and mother—can never stray away—no, never.*
 
 — *[Brigham Young, The Gifts of God, Etc.](https://scriptures.byu.edu/#12e8463:t15f98:j09)* Journal of Discourses 9:38
 
@@ -139,7 +139,7 @@ Read the rest of that paragraph, if you dare.
 ## Popularity
 > *Many wish for the time when President Brigham Young and his brethren will be relieved from attending to temporal matters, and attend to spiritual matters altogether. You will have to wait for this until we get into the spiritual world and have to deal with spirits.*
 
-— [Sanctification](https://scriptures.byu.edu/#:t11173:j07); Heber C. Kimball, [Journal of Discourses 7](https://scriptures.byu.edu/jod/pdf/JoD07/JoD07.pdf):18
+— [Sanctification](https://scriptures.byu.edu/#:t11173:j07); Heber C. Kimball, [Journal of Discourses 7](https://scriptures.byu.edu/jod/pdf/JoD07/JoD07.pdf):18
 
 "I'm feeling dissatisfied with a theocratic dictator who is very open about talking of killing his followers."
 

@@ -16,7 +16,7 @@ I'm not pretentious enough to claim that I know more than a handful of Shakespea
 &nbsp;
 
 ### Encyclopedia of Mormonism
-> *The doctrines of the Church affirm that the Atonement wrought by the shedding of the blood of Jesus Christ, the Son of God, is efficacious for the sins of all who believe, repent, are baptized by one having authority, and receive the Holy Ghost by the laying on of hands. However, if a person thereafter commits a grievous sin such as the shedding of innocent blood, ==the Savior's sacrifice alone will not absolve the person of the consequences of the sin==. Only by voluntarily submitting to whatever penalty the Lord may require can that person benefit from the atonement of Christ.* 
+> *The doctrines of the Church affirm that the Atonement wrought by the shedding of the blood of Jesus Christ, the Son of God, is efficacious for the sins of all who believe, repent, are baptized by one having authority, and receive the Holy Ghost by the laying on of hands. However, if a person thereafter commits a grievous sin such as the shedding of innocent blood, ==the Savior's sacrifice alone will not absolve the person of the consequences of the sin==. Only by voluntarily submitting to whatever penalty the Lord may require can that person benefit from the atonement of Christ.* 
 > 
 > *Several early Church leaders, most notably Brigham Young, taught that in a complete theocracy the Lord could require the voluntary shedding of a murderer's blood— presumably by capital punishment— as part of the process of atonement for such grievous sin. This was referred to as "blood atonement." Since such a theocracy has not been operative in modern times, the practical effect of the idea was ==its use as a rhetorical device== to heighten the awareness of Latter-day Saints of the seriousness of murder and other major sins. ==This view is not a doctrine of the Church and has never been practiced by the Church at any time==.*
 > 
@@ -77,7 +77,7 @@ And once again, lest we overlook it, we've again encountered the "this was commo
 &nbsp;
 
 ### Gospel Topics Essay
-> *==Nineteenth-century Americans were accustomed to violent language, both religious and otherwise==. Throughout the century, revivalists had used violent imagery to encourage the unconverted to repent and to urge backsliders to reform. At times during the reformation, President Young, his counselor Jedediah M. Grant, and other leaders ==preached with fiery rhetoric, warning against the evils of those who dissented from or opposed the Church==. Drawing on biblical passages, particularly from ==the Old Testament==, leaders taught that ==some sins were so serious that the perpetrator’s blood would have to be shed in order to receive forgiveness==. Such preaching led to increased strain between the Latter-day Saints and the relatively few non-Mormons in Utah, including federally appointed officials.*
+> *==Nineteenth-century Americans were accustomed to violent language, both religious and otherwise==. Throughout the century, revivalists had used violent imagery to encourage the unconverted to repent and to urge backsliders to reform. At times during the reformation, President Young, his counselor Jedediah M. Grant, and other leaders ==preached with fiery rhetoric, warning against the evils of those who dissented from or opposed the Church==. Drawing on biblical passages, particularly from ==the Old Testament==, leaders taught that ==some sins were so serious that the perpetrator’s blood would have to be shed in order to receive forgiveness==. Such preaching led to increased strain between the Latter-day Saints and the relatively few non-Mormons in Utah, including federally appointed officials.*
 
 — *[Peace and Violence among 19th-Century Latter-day Saints](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/peace-and-violence-among-19th-century-latter-day-saints)*, Gospel Topics Essays
 
@@ -102,7 +102,7 @@ To be fair, that quote from the essay does also have a footnote on this kind of 
 ## Proponents
 If you're reading this in a place where playing music won't draw unwanted attention, play this in the background while reading these notes: 
 
-[![Corb Lund: Brother Brigham, Brother Young](http://img.youtube.com/vi/cnbu9KWgfYU/1.jpg)](https://youtu.be/cnbu9KWgfYU?t=59s)
+![type:video](https://www.youtube.com/embed/cnbu9KWgfYU?start=58)
 
 [Corb Lund: Brother Brigham, Brother Young](https://youtu.be/cnbu9KWgfYU?t=59s)
 
@@ -115,7 +115,7 @@ Also: general conference would be a lot more interesting to watch if they had so
 ### Heber C Kimball
 > *If men turn traitors to God and His servants, ==their blood will surely be shed==, or else they will be damned, and that too according to their covenants.*
  
-— [Apostates, etc](https://scriptures.byu.edu/#:t9c86:j04); Heber C. Kimball, [Journal of Discourses 4](https://scriptures.byu.edu/jod/pdf/JoD04/JoD04.pdf):375.
+— [Apostates, etc](https://scriptures.byu.edu/#:t9c86:j04); Heber C. Kimball, [Journal of Discourses 4](https://scriptures.byu.edu/jod/pdf/JoD04/JoD04.pdf):375.
 
 We'll start short. Heber had more to say on this matter in later JoD volumes. Heber's phrase “according to their covenants” sounds to me like the promises Mormons make in their sacred temple ritual.
 
@@ -194,35 +194,35 @@ I'm not about to advocate that any of these are good or harmless, but... Decidin
 **Murder**
 > I am opposed to hanging, even if a man kill another, I will shoot him, or cut off his head, ==spill his blood on the ground== and let the smoke ascend thereof up to God… 
 
-— ==Joseph Smith==, _Documentary History of the Church_ 5:296 [[1](https://web.archive.org/web/20200414003340/http://boap.org/LDS/History/History_of_the_Church/Vol_V)], [[2](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf)]
+— ==Joseph Smith==, _Documentary History of the Church_ 5:296 [[1](https://web.archive.org/web/20200414003340/http://boap.org/LDS/History/History_of_the_Church/Vol_V)], [[2](https://archive.org/details/HistoryOfTheChurchhcVolumes1-7original1902EditionPdf)]
 
 &nbsp;
 
-**Adultery** 
+**Adultery** 
 > *Let me suppose a case. Suppose you found your brother in bed with your wife, and put a javelin through both of them. You would be justified, and ==they would atone for their sins==, and be received into the kingdom of God. I would at once do so in such a case, and under such circumstances, I have no wife whom I love so well that I would not put a javelin through her heart, and I would do it with clean hands.*
 
-— [Men Judged According to Their Knowledge, etc](https://scriptures.byu.edu/#:t7553:j03); Brigham Young, [Journal of Discourses 3](https://scriptures.byu.edu/jod/pdf/JoD03/JoD03.pdf):247).
+— [Men Judged According to Their Knowledge, etc](https://scriptures.byu.edu/#:t7553:j03); Brigham Young, [Journal of Discourses 3](https://scriptures.byu.edu/jod/pdf/JoD03/JoD03.pdf):247).
 
 &nbsp;
 
 **Stealing**
-> *If you want to know what to do with a thief that you may find stealing. I say ==kill him on the spot==, and never suffer him to commit another iniquity … If I caught a man stealing on my premises I should be very apt to ==send him straight home==, and that is what I wish every man to do, to put a stop to that abominable practice in the midst of this people[.]* 
+> *If you want to know what to do with a thief that you may find stealing. I say ==kill him on the spot==, and never suffer him to commit another iniquity … If I caught a man stealing on my premises I should be very apt to ==send him straight home==, and that is what I wish every man to do, to put a stop to that abominable practice in the midst of this people[.]* 
 
-— [President B. Young’s Journey South, etc](https://scriptures.byu.edu/#:t2723:j01); Brigham Young, [Journal of Discourses 1](https://scriptures.byu.edu/jod/pdf/JoD01/JoD01.pdf):108).
+— [President B. Young’s Journey South, etc](https://scriptures.byu.edu/#:t2723:j01); Brigham Young, [Journal of Discourses 1](https://scriptures.byu.edu/jod/pdf/JoD01/JoD01.pdf):108).
 
 &nbsp;
 
 **Marriage to a person of black skin**
 > *Shall I tell you of the law of God in regards to the African race? If the white man who belongs to the chosen seed mixes his blood with the seed of Cain, the ==penalty under the law of God is death on the spot==. This will always be so.* 
 
-— [The Persecutions of the Saints, etc](https://scriptures.byu.edu/#:t186b9:j10); Brigham Young, [Journal of Discourses 10](https://scriptures.byu.edu/jod/pdf/JoD10/JoD10.pdf):110
+— [The Persecutions of the Saints, etc](https://scriptures.byu.edu/#:t186b9:j10); Brigham Young, [Journal of Discourses 10](https://scriptures.byu.edu/jod/pdf/JoD10/JoD10.pdf):110
 
 &nbsp;
 
 **Covenant Breaking**
-> *I say, there are men and women that I would advise to go to the Presidency immediately, and ask him to appoint a committee to attend to their case; and then let a place be selected, and let that committee shed their blood. We have those amongst us that are full of all manner of abominations, ==those who need to have their bloodshed==, for water will not do, ==their sins are too deep a dye==… I believe that there are a great many; and if they are covenant breakers we need a place designated, where we can shed their blood … Brethren and sisters, we want you to repent and forsake your sins. And you who have committed ==sins that cannot be forgiven through baptism, let your blood be shed==, and let the smoke ascend, that the incense thereof may come up before God as an atonement for your sins, and that the sinners in Zion may be afraid.* 
+> *I say, there are men and women that I would advise to go to the Presidency immediately, and ask him to appoint a committee to attend to their case; and then let a place be selected, and let that committee shed their blood. We have those amongst us that are full of all manner of abominations, ==those who need to have their bloodshed==, for water will not do, ==their sins are too deep a dye==… I believe that there are a great many; and if they are covenant breakers we need a place designated, where we can shed their blood … Brethren and sisters, we want you to repent and forsake your sins. And you who have committed ==sins that cannot be forgiven through baptism, let your blood be shed==, and let the smoke ascend, that the incense thereof may come up before God as an atonement for your sins, and that the sinners in Zion may be afraid.* 
 
-— [Rebuking Iniquity](https://scriptures.byu.edu/#:t9c49:j04), Jedediah M. Grant, [Journal of Discourses 4](https://scriptures.byu.edu/jod/pdf/JoD04/JoD04.pdf):49-51).
+— [Rebuking Iniquity](https://scriptures.byu.edu/#:t9c49:j04), Jedediah M. Grant, [Journal of Discourses 4](https://scriptures.byu.edu/jod/pdf/JoD04/JoD04.pdf):49-51).
 
 &nbsp;
 
@@ -237,7 +237,7 @@ I'm not about to advocate that any of these are good or harmless, but... Decidin
 > 
 > *These are my views, and the Lord knows that I believe in the principles of sanctification; and when I am guilty of seducing any man's wife, or any woman in God's world, ==I say, sever my head from my body==.*
 
-— [Sanctification](https://scriptures.byu.edu/#:t11173:j07); Heber C. Kimball, [Journal of Discourses 7](https://scriptures.byu.edu/jod/pdf/JoD07/JoD07.pdf):18
+— [Sanctification](https://scriptures.byu.edu/#:t11173:j07); Heber C. Kimball, [Journal of Discourses 7](https://scriptures.byu.edu/jod/pdf/JoD07/JoD07.pdf):18
 
 &nbsp;
 

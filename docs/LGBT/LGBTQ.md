@@ -24,7 +24,7 @@ I've got another page of my own notes on what the modern church's leadership has
 ### Don't act on it
 > *Let us be clear: The Church of Jesus Christ of Latter-day Saints believes that “the experience of same-sex attraction is a complex reality for many people. ==The attraction itself is not a sin, but acting on it is==. Even though individuals do not choose to have such attractions, they do choose how to respond to them.*
 
-&mdash; [The Lord Needs You Now!](https://www.churchofjesuschrist.org/study/ensign/2015/09/the-lord-needs-you-now?lang=eng&id=p30#p30), Elder M. Russell Ballard, Quorum of the Twelve Apostles; *From a CES devotional for young adults, “Be Still and Know That I Am God,” delivered in California, USA, on May 4, 2014.*
+&mdash; [The Lord Needs You Now!](https://www.churchofjesuschrist.org/study/ensign/2015/09/the-lord-needs-you-now?lang=eng&id=p30#p30), Elder M. Russell Ballard, Quorum of the Twelve Apostles; *From a CES devotional for young adults, “Be Still and Know That I Am God,” delivered in California, USA, on May 4, 2014.*
 
 &nbsp;
 
@@ -43,7 +43,7 @@ Do these people not realize how preposterous this sounds?
 
 &nbsp;
 
-"If you want a meaningful human connection, you might just risk eternal damnation and suffering tho~ wouldn't you rather live forever with your Father in Heaven who imposed this stipulation onto your conscious existence? No? You must be some kind of sexual degenerate, whom we need to protect our children from. We wouldn't want them to grow up to *be like you*."
+"You *can* have a meaningful human connection... you might just risk eternal damnation and suffering tho~ wouldn't you rather live forever with your Father in Heaven who imposed this stipulation onto your conscious existence? No? You must be some kind of sexual degenerate, whom we need to protect our children from. We wouldn't want them to grow up to *be like you*."
 
 Yeah no shit Utah has a suicide epidemic
 
@@ -68,7 +68,7 @@ Look, if a religious institution told me that I'm welcome to attend, but must fu
 
 "There's clearly something wrong with you, but don't worry; God will make you better!" ***OR*** they're just a regular ol' human with nothing wrong at all, and they happen to be gay?
 
-It's evident to me that the above excerpt from Holland is not directly quoting God; much like how my "quotes" here are embellished [[logical-fallacies#Strawman Fallacy|strawman]] arguments, but really... where does God allude to "don't plan to stay as you are"?
+It's evident to me that the above excerpt from Holland is not directly quoting God; much like how my "quotes" here are embellished [[logical-fallacies#Strawman Fallacy|strawman]] arguments, but really... where does God allude to "don't plan to stay as you are"? Is that in the D&C somewhere? I must have missed that one in seminary.
 
 &nbsp;
 
@@ -77,7 +77,7 @@ It's evident to me that the above excerpt from Holland is not directly quoting G
 
 &mdash; *[mormonsandgays.org](https://web.archive.org/web/20150214231759/https://mormonsandgays.org/)*; this site domain has since been deleted. Link is to an archive captured in February 2015
 
-Quick side note: this website domain did explicitly say that "individuals do not choose to have such attractions," but the church's official stance now is "[[No-official-stance#Sexual Orientation|no stance]]"
+Quick side note: this website domain did explicitly say that "individuals do not choose to have such attractions," but the church's official stance now is "[[No-official-stance#Sexual Orientation|no stance]]." Bold and brave, declarative and decisive. Good thing we have modern-day prophets.
 
 &nbsp;
 
@@ -87,11 +87,13 @@ I really think it's worth examining this "complex reality for many people." I'm 
 
 Consider the two following scenarios:
 
-1. My teenage son has a boyfriend
+- My teenage son has a boyfriend
 
 or
 
-2. I demand that my teenage son denies himself any affection or desire because of a bigoted misinterpretation of a 3,000 year old document; if he doesn't, I will threaten to take away his livelihood and place of residence; because of this, my son is fearful and anxious about expressing emotion or forming relationships with anyone
+- I demand that my teenage son denies himself any affection or desire because of a bigoted misinterpretation of a 3,000 year old document; if he doesn't, I will threaten to take away his livelihood and place of residence; because of this, my son is fearful and anxious about expressing emotion or forming relationships with anyone
+
+&nbsp;
 
 Tell me which of those scenarios contains more "complexity."
 
@@ -119,7 +121,7 @@ What we today think of as "sexuality" is not at all how ancient Israelites thoug
 
 How does this context affect the admonition against "a man also lie with mankind, as he lieth with a woman"? Our modern cultural framework sees the biological indicators and roles of men and women, and understandably, we piece together what the equivocated action is. What cultural context tells us is that rather than forbidding same-sex relations outright, this biblical passage is forbidding scorn of the hierarchy.
 
-There is *absolutely no condemnation* of same-sex relations within the same social hierarchical stratum. Free-born citizen men can engage with each other without breaking these rules. Lesbians are not forbidden or condemned in any way. Lest we try to extrapolate, I will direct your attention to context surrounding the verses in Leviticus [18](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/18?lang=eng&id=p17-p23#p17) and [20](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/20?lang=eng&id=p13-p16#p13) where rules for women are explicitly outlined concerning things like bestiality. Outlining parameters for women is suspiciously absent for the verses condemning whom one should "lay with."
+There is *absolutely no condemnation* of same-sex relations within the same social hierarchical stratum. Free-born citizen men can engage with each other without breaking these rules. Lesbians are not forbidden or condemned in any way. Lest we try to extrapolate, I will direct your attention to context surrounding the verses in Leviticus [18](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/18?lang=eng&id=p17-p23#p17) and [20](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/20?lang=eng&id=p13-p16#p13) where rules for women are explicitly outlined concerning things like bestiality. Outlining parameters for women is suspiciously absent for the verses condemning whom a man should "lay with."
 
 &nbsp;
 
@@ -178,7 +180,7 @@ What is instead taught in the LDS church's manuals is, in very conveniently equi
 
 > *==This lesson addresses a sin== that was prevalent among the people of Sodom and Gomorrah—==homosexual behavior==.*
 
-> *If students have the Latter-day Saint edition of the King James Version of the Bible, invite them to look at [Genesis 18:20, footnote b,](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng&id=p20#p20) to discover what was included among the ==grievous sins== being committed by the people of Sodom and Gomorrah. If students do not have the LDS edition of the King James Bible, explain that ==the grievous sin mentioned in [verse 20](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng&id=p20#p20) included homosexual behavior==.*
+> *If students have the Latter-day Saint edition of the King James Version of the Bible, invite them to look at [Genesis 18:20, footnote b,](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng&id=p20#p20) to discover what was included among the ==grievous sins== being committed by the people of Sodom and Gomorrah. If students do not have the LDS edition of the King James Bible, explain that ==the grievous sin mentioned in [verse 20](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng&id=p20#p20) included homosexual behavior==.*
 
 > *Based on [Genesis 18:20](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng&id=p20#p20), ==how does the Lord view homosexual behavior?== (As a “very grievous” sin. Explain that all violations of the law of chastity, or sexual sins, are very serious. Consider writing the following truth on the board: **Homosexual behavior is a serious sin.**)*
 
@@ -190,7 +192,7 @@ Pointing to footnotes in the LDS-printed copy of the KJV bible as proof of objec
 
 &nbsp;
 
-Now, before we "um, actually" this teaching and interpret "rejecting the prophets" to *mean* homosexuality, I would encourage you to stand up, approach the nearest mirror, look at the reflection within and ask yourself why you are the way that you are. The *Sodom & Gomorrah* story is in Genesis 18. How many prophets had there been to teach against it prior to this point in the chronologically earliest text that all of Christianity has to offer? Don't point to books like Leviticus as evidence of prophetic teachings against it, that book hasn't been written yet. Instead, tell me where in the window of Genesis 1 through 17 did God's prophet clearly outline parameters for sexual relationships.
+Now, before we "um, actually" this teaching and interpret "rejecting the prophets" to *mean* homosexuality, I would encourage you to stand up, approach the nearest mirror, look at the reflection within and ask yourself why you are the way that you are. The *Sodom & Gomorrah* story is in [Genesis 18](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng). How many prophets had there been to teach against it prior to this point in the chronologically earliest text that all of Christianity has to offer? Don't point to books like Leviticus as evidence of prophetic teachings against it, that book hasn't been written yet. Instead, tell me where in the window of Genesis 1 through 17 did God's prophet clearly outline parameters for sexual relationships.
 
 &nbsp;
 

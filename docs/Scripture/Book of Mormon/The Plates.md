@@ -19,14 +19,14 @@ Above quote is also draft \#2; how worried should I be that this mis-naming was 
 ### John Taylor, 1877
 > *Who was it that administered to Joseph Smith? ==Moroni and Nephi==, men who had lived upon this continent. Who from the other continent? John the Baptist for one; Peter, James, and John for others; Moses and Elias again for others, who revealed certain principles that God designed they should reveal, and imparted unto him the powers of the Priesthood which existed in the heavens, that it might be again conferred upon men on the earth, and that the blessings of the everlasting Gospel might be again restored.*
 
-— [God’s Purposes Unchangeable, Etc](https://scriptures.byu.edu/#:t2e63e:j19); John Taylor, [Journal of Discourses 19](https://scriptures.byu.edu/jod/pdf/JoD19/JoD19.pdf):81)
+— [God’s Purposes Unchangeable, Etc](https://scriptures.byu.edu/#:t2e63e:j19); John Taylor, [Journal of Discourses 19](https://scriptures.byu.edu/jod/pdf/JoD19/JoD19.pdf):81)
 
 &nbsp;
 
 ### John Taylor, 1879
 > *Afterwards the Angel ==Moroni came to him and revealed to him the Book of Mormon==, with the history of which you are generally familiar, and also with the statements that I am now making pertaining to these things. ==And then came Nephi, one of the ancient prophets==, that had lived upon this continent, who had an interest in the welfare of the people that he had lived amongst in those days.*
 
-— [How a Knowledge of God is Obtained, Etc](https://scriptures.byu.edu/#:t2e63e:j19); John Taylor, [Journal of Discourses 21](https://scriptures.byu.edu/jod/pdf/JoD21/JoD21.pdf):161)
+— [How a Knowledge of God is Obtained, Etc](https://scriptures.byu.edu/#:t2e63e:j19); John Taylor, [Journal of Discourses 21](https://scriptures.byu.edu/jod/pdf/JoD21/JoD21.pdf):161)
 
 Looks like JT differentiated them, said both had visited independent of each other.
 

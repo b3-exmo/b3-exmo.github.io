@@ -15,7 +15,7 @@ comments: true
 
 > *Celestial marriage is for the fullness of the glory of god. It is the crowning glory. ==A man has no right to one wife unless he is worthy of two==. . . . There is no provision made for those who have had the chance & [opportunity] and have disregarded that law. Men who disregard that law are in the same situation as if they broke any other law. they are transgressors.*
 
-— Apostle Francis M. Lyman, quoted in Van Wagoner, [Mormon Polygamy](https://archive.org/details/mormonpolygamyhi0000vanw/page/n9/mode/2up), p. 97
+— Apostle Francis M. Lyman, quoted in Van Wagoner, [Mormon Polygamy](https://archive.org/details/mormonpolygamyhi0000vanw/page/n9/mode/2up), p. 97
 
 &nbsp;
 
@@ -119,15 +119,19 @@ Fourteen-year-olds did not get married to men in their mid-thirties, nor did the
 
 — The explanation I had been told all throughout seminary
 
+To this I might point to the time when the entire Brighamite sect of the church left the United States and formed their own theocratic township with their own laws. Women couldn't own property in 1850? Well golly gee maybe we should raise this concern to [Governor Brigham Young](https://archives.utah.gov/research/guides/governor-young/). He might have granted women this right to live independently, or maybe he would just [marry fifty six](https://historytogo.utah.gov/wives-brigham-young/) women to live under *his* care. There is absolutely no reason for the Utah territory to keep this tradition well outside of the United States' jurisdiction early on... unless it were to keep women subjugated.
+
+&nbsp;
+
 US Census Bureau didn’t have granular detail in the 1800’s, but it’s got enough aggregate data for us to determine if something fits a pattern. The granularity did get better with subsequent decades, but it was a bit vague early on.
 
 [Integrated Public Use Microdata Series](https://usa.ipums.org/usa/) has census records you can download and analyze for yourself.
 
 &nbsp;
 
-> The 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married. They have two data points that you can try and guess the marriage age. The first is a field for “Married in the last year”. If that is checked, then the person’s age is most likely their age when they were married. The second is a field for “Age of eldest child”. Subtracting that from the parents age gives a really rough estimate of marriage age.
+> The 1850 and the 1880 census has the age and marriage status of each person but doesn’t have the age at which they were married. They have two data points that you can try and guess the marriage age. The first is a field for “Married in the last year”. If that is checked, then the person’s age is most likely their age when they were married. The second is a field for “Age of eldest child”. Subtracting that from the parents age gives a really rough estimate of marriage age.
 > 
-> The 1900 census also has the age and marriage status but it also has a field for “Years of marriage”.  Subtracting that from the age should give the marriage age.
+> The 1900 census also has the age and marriage status but it also has a field for “Years of marriage”.  Subtracting that from the age should give the marriage age.
 > 
 > Based off that data, here’s the numbers that I got:
 > 
@@ -139,7 +143,7 @@ US Census Bureau didn’t have granular detail in the 1800’s, but it’s got e
 >     - Total married women for the USA: 8,433,603.
 >     - Total married women under 18: 68,473 (0.8%).
 >     - Total married women who gave birth before 18: 649,562 (7.7%)
-> - **1900 census** (this is a 5% sampling of the actual census):
+> - **1900 census** (this is a 5% sampling of the actual census):
 >     - Total married women for the USA: 671,976.
 >     - Total married women under 18: 5,310 (0.8%).
 >     - Total married women who were married before 18: 107, 283 (16%)
@@ -221,7 +225,7 @@ I can’t claim to understand motivation or reasoning behind this, but that seem
 
 > *The following accounts help to clarify the feelings of the Prophet Joseph Smith and other Church members when plural marriage was first introduced.*
 > 
-> *==Eliza R. Snow==, who was sealed to the Prophet Joseph Smith, recorded the details of the Prophet Joseph teaching the ==principle of plural marriage== to her brother Lorenzo Snow. She noted the anguish and pain that the principle caused Joseph Smith and that he only moved forward in establishing the principle because of divine revelation:*
+> *==Eliza R. Snow==, who was sealed to the Prophet Joseph Smith, recorded the details of the Prophet Joseph teaching the ==principle of plural marriage== to her brother Lorenzo Snow. She noted the anguish and pain that the principle caused Joseph Smith and that he only moved forward in establishing the principle because of divine revelation:*
 >
 > > *“The Prophet Joseph unbosomed his heart [to Lorenzo Snow], and described the trying mental ordeal he experienced in overcoming the repugnance of his feelings, the natural result of the force of education and social custom, relative to the introduction of ==plural marriage==. He knew the voice of God—he knew the commandment of the Almighty to him was to go forward—to set the example, and ==establish Celestial plural marriage==. He knew that he had not only his own prejudices and prepossessions to combat and to overcome, but those of the whole Christian world stared him in the face; but God, who is above all, had given the commandment, and He must be obeyed. Yet the Prophet hesitated and deferred from time to time, until ==an angel of God stood by him with a drawn sword, and told him that, unless he moved forward and established plural marriage, his Priesthood would be taken from him and he should be destroyed!== This testimony he not only bore to my brother, but also to others—a testimony that cannot be gainsayed [contradicted]” (Biography and Family Record of Lorenzo Snow [1884], 69–70).*
 

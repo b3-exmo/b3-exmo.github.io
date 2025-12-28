@@ -2,13 +2,15 @@
 comments: true
 ---
 # 😔 Too Sacred to Share
-This isn't clearly marked in the notes below, but I have a collection of quotes from LDS church leadership, rationalizing that something is [[Too Sacred]] to share.
+> *For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth;*
 
----
+— *[Romans 1:16](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=eng&id=p16#p16)*
+
+&nbsp;
 
 One might argue that this statement is emotional misattribution, where members feel such a strong compulsion to fit in that they'll ascribe profundity or find meaning in everyday experiences.
 
-You felt *[[Emotional Thinking#Elevation Emotion|elevation emotion]]* hearing Great Uncle Pawdabber associate a mundane experience with divinity, and using his retelling as a reference point, you also need to find some association between the two. Did you find your keys when you may have otherwise missed a flight? God did that. No other explanation when you *need to have something to share* in Fast & Testimony meeting. 
+You felt *[[Emotional Thinking#Elevation Emotion|elevation emotion]]* hearing Great Uncle Pawdabber associate a mundane experience with divinity, and using his retelling as a reference point, you also need to find some association between the two. Did you find your keys when you may have otherwise missed a flight? God did that. There could be no other explanation when you *need to have something to share* in Fast & Testimony meeting. 
 
 &nbsp;
 
@@ -18,10 +20,6 @@ Sacred is analogous / similar to holy, or divine. Not to be mocked or belittled,
 The topic within Mormonism that I find associated with this defense most often is that of temple ceremonies. When met with blank, confused stares, one might elaborate that those ceremonies are "sacred, not secret." A prime example of this is demonstrated in my notes on [[Garments]].
 
 To me, this raises the question if there is a precedent for this kind of aversion to disclosure. Did Jesus in the New Testament advise people that "there's another aspect to your salvation, but I don't trust you to know what it is"? 
-
-> *For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth;*
-
-— *[Romans 1:16](https://www.churchofjesuschrist.org/study/scriptures/nt/rom/1?lang=eng&id=p16#p16)*
 
 &nbsp;
 
@@ -54,7 +52,7 @@ An emotionally sensitive topic does require a certain "vibe" for lack of a bette
 &nbsp;
 
 ## Extrapolating
-Leading up to [[My own experience#Temple Prep|my experience entering the temple]], I had been advised that the ceremonies are too sacred to talk about outside of the temple. This was used to hype up how great and awe-inspiring it was (or would be.) I can look back on how disappointing and bewildering the experience was, and I can see a pattern.
+Leading up to [[My own experience#Temple Prep|my experience entering the temple]], I had been advised that the ceremonies are too sacred to talk about outside of the temple. This was used to hype up how great and awe-inspiring it would be. I can look back on how disappointing and bewildering the experience was, and I can see a pattern.
 
 We mustn't talk about our [patriarchal blessings](https://www.fullerconsideration.com/PatriarchalBlessingRevelator/), or else people will realize how similar they are, making them meaningless.
 
@@ -67,29 +65,29 @@ Don't talk about the second anointing, people might question just how holy the r
 &nbsp;
 
 ## Apostles
-> ***16** Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.*
+> ***16*** *Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.*
 > 
-> ***17** And when they saw him, they worshipped him: but some doubted.*
+> ***17*** *And when they saw him, they worshipped him: but some doubted.*
 > 
-> ***18** And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.*
+> ***18*** *And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.*
 > 
-> ***19** ==Go ye therefore, and teach all nations, baptizing them== in the name of the Father, and of the Son, and of the Holy Ghost:*
+> ***19*** *==Go ye therefore, and teach all nations, baptizing them== in the name of the Father, and of the Son, and of the Holy Ghost:*
 > 
-> ***20** ==Teaching them to observe all things whatsoever I have commanded you==: and, lo, I am with you alway, even unto the end of the world. Amen.*
+> ***20*** *==Teaching them to observe all things whatsoever I have commanded you==: and, lo, I am with you alway, even unto the end of the world. Amen.*
 
 — *[Matthew 28:16-20](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/28?lang=eng&id=p16-p20#p16)*
 
 &nbsp;
 
-> ***14** Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.*
+> ***14*** *Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.*
 > 
-> ***15** ==And he said unto them, Go ye into all the world, and preach the gospel to every creature==.*
+> ***15*** *==And he said unto them, Go ye into all the world, and preach the gospel to every creature==.*
 > 
-> ***16** He that believeth and is baptized shall be saved; but he that believeth not shall be damned.*
+> ***16*** *He that believeth and is baptized shall be saved; but he that believeth not shall be damned.*
 > 
 > *...*
 > 
-> ***20** And ==they went forth, and preached every where==, the Lord working with them, and confirming the word with signs following. Amen.*
+> ***20*** *And ==they went forth, and preached every where==, the Lord working with them, and confirming the word with signs following. Amen.*
 
 — *[Mark 16:14-16, 20](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/16?lang=eng&id=p14-p20#p14)*
 

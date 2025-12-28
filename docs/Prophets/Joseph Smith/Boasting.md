@@ -23,7 +23,7 @@ If the claims to authority made by the Catholic church are credible, then... the
 &nbsp;
 
 ## Institute Student Manual
-> *As Paul defended his position as an Apostle, he acknowledged that it may have seemed to some like he was boasting of his authority. The word boast in [2 Corinthians 10:8](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=eng&id=p8#p8) means “to glory or exult”. ==Paul’s “boasting” when speaking of his missionary service should not be understood as being prideful==; instead it may be seen as similar to Ammon’s expression in the Book of Mormon: “I know that I am nothing; as to my strength I am weak; therefore I will not boast of myself, but I will boast of my God, for in his strength I can do all things. … Who can glory too much in the Lord? Yea, who can say too much of his great power, and of his mercy, and of his long-suffering towards the children of men?” ([Alma 26:12, 16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng&id=p12,16#p12)).*
+> *As Paul defended his position as an Apostle, he acknowledged that it may have seemed to some like he was boasting of his authority. The word boast in [2 Corinthians 10:8](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/10?lang=eng&id=p8#p8) means “to glory or exult”. ==Paul’s “boasting” when speaking of his missionary service should not be understood as being prideful==; instead it may be seen as similar to Ammon’s expression in the Book of Mormon: “I know that I am nothing; as to my strength I am weak; therefore I will not boast of myself, but I will boast of my God, for in his strength I can do all things. … Who can glory too much in the Lord? Yea, who can say too much of his great power, and of his mercy, and of his long-suffering towards the children of men?” ([Alma 26:12, 16](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/26?lang=eng&id=p12,16#p12)).*
 
 — *[New Testament Student Manual, Institute](https://www.churchofjesuschrist.org/study/manual/new-testament-student-manual/2-corinthians/chapter-42-2-corinthians-6-13?lang=eng&id=p37#p37)*, Chapter 42: 2 Corinthians 6–13
 
@@ -59,9 +59,11 @@ I'll get off my soapbox and focus on one topic at a time. FAIR continues on Jose
 
 &nbsp;
 
-In case you hadn't gone on the side-quest of reading [2 Cor 11](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=eng&id=p16-p17#p16), there's the link for a third time. Go skim through it. Note the chapter heading summarizing the comments as "Paul glories in his sufferings for Christ." What I read from this chapter is Paul describing his persecution, and observing his persistence through it. "Folks have physically abused me for testifying of Christ, but my faith & belief is so profound that I won't back down!" 
+In case you hadn't gone on the side-quest of reading [2 Cor 11](https://www.churchofjesuschrist.org/study/scriptures/nt/2-cor/11?lang=eng&id=p16-p17#p16), there's the link for a third time. Go skim through it. Note the chapter heading summarizing the contents as "Paul glories in his sufferings for Christ." What I read from this chapter is Paul describing his persecution, and observing his persistence through it. "Folks have physically abused me for testifying of Christ, but my faith & belief is so profound that I won't back down!"
 
 &nbsp;
+
+FAIR's mention of double standards also warrants some scrutiny; the book of 2 Corinthians was written around [55-57 A.D.](https://www.churchofjesuschrist.org/study/manual/new-testament-study-guide-for-home-study-seminary-students/introduction-to-2-corinthians?lang=eng&id=p3#p3) according to the LDS church's seminary manual. Joseph Smith's speech was given in 1844 A.D.. Only one of these texts had to undergo numerous language translations, where things like "literary and rhetorical license" might become obscured.
 
 So... Maybe this is one of those times when the Bible is [[Bible#Article of Faith|conveniently not translated correctly]]. The KJV choice of words feels awkward to us today when reading 2 Corinthians. But don't worry about that, this choice of words means it's totally okay for Joseph Smith to say "I'm better than Jesus Christ at holding a church together."
 
@@ -69,7 +71,7 @@ So... Maybe this is one of those times when the Bible is [[Bible#Article of Fait
 
 ### Deseret News
 
-Quotes from **[Joseph Smith wasn't arrogant or boastful](https://www.deseret.com/2014/9/4/20547771/joseph-smith-wasn-t-arrogant-or-boastful/)** By Daniel Peterson, Sept 4, 2014
+Quotes from **[Joseph Smith wasn't arrogant or boastful](https://www.deseret.com/2014/9/4/20547771/joseph-smith-wasn-t-arrogant-or-boastful/)** by Daniel Peterson, Sept 4, 2014:
 
 #### First
 > *First, the context: Joseph was applying a passage from the apostle Paul ([2 Corinthians 11-12](https://www.lds.org/scriptures/nt/2-cor/11?lang=eng)) to his own perilous situation. The idea of “boasting” wasn't Joseph’s; it was Paul’s. The critics typically forget that.*
@@ -83,7 +85,9 @@ I don't think these semantics need to be this [[Book of Mormon#Probability / Occ
 #### Second
 > *Second, Joseph seems actually to be praising his followers’ faithfulness, not himself.*
 
-"I am the only man that ever has been able to keep a whole church together since the days of Adam." "[N]o man ever did such a work as me— the followers of Jesus ran away from him, the Latter Day Saints never ran away from me yet."
+"I am the only man that ever has been able to keep a whole church together since the days of Adam."
+
+"[N]o man ever did such a work as me— the followers of Jesus ran away from him, the Latter Day Saints never ran away from me yet."
 
 — Words from a man who "seems actually to be praising his followers' faithfulness," taken out of context
 
@@ -109,4 +113,4 @@ Can we point to specific things that Jesus Christ wrote Himself? No? We only hav
 
 &nbsp;
 
-There's more to read in the article itself, but I think I'm done here. Dig in for your own edification.
+There's more to read in the article itself, so dig in for your own edification. I think I'm done here.

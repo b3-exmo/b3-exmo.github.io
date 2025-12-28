@@ -61,7 +61,7 @@ As promised, [they do use some "terms and language"](https://www.churchofjesusch
 
 &nbsp;
 
-"These bands whose livelihood depends on counter-culture have said that they're engaged in both black magic *and* Satanism! We should take this claim at face value and not take time to critically evaluate it."
+"These counterculture bands whose livelihood depends on shock value have said that they're engaged in both black magic *and* Satanism! We should take this claim at face value and not take time to critically evaluate it."
 
 Bro they're deliberately trying to elicit a reaction from *you*. Tell me there isn't a teenager, only permitted to read from *The Ensign* to pass the time on a boring Sunday afternoon, who reads this and thinks "that sounds totally metal 🤘 I'm going to go and buy some now." *This is free marketing*.
 

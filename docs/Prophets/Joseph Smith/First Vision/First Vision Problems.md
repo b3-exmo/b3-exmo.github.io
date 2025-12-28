@@ -47,7 +47,7 @@ I can tell you the specific dates of some key events in my life, many of which r
 
 Did God appear to you or not, Joseph? Did you forget what God said to you eighteen years later? You didn't write it down the day of? Do we not recognize the significance of *God* appearing&mdash;not a pastor, not a warm-fuzzy-feeling spirit, not an angel in a dream&mdash;*God the Father* appeared, and you didn't write down what He said to you? It'd sure look bad if you had to tell people about this twenty-two years after the fact and have to just shrug your shoulders and say "yeah, God appeared, said you were wrong, and maybe He'd tell me the truth later idk lol"
 
-The reason why fussing over how old Joseph was is two-fold: he should be able to remember how old he was in a formative memory, and he should be able to identify the date of something as monumental as Elohim showing up for tea. If Joseph can't tell you when it happened, then it must not have been that formative, monumental, or important. And if *this of all things* wasn't important enough to remember, then I'm going to assert that it didn't happen. And if it didn't happen... well, President Hinckley himself presented the duality that "then this work is a fraud."
+The reason why fussing over how old Joseph was is two-fold: he should be able to remember how old he was in a formative memory, and he should be able to identify the date of something as monumental as Elohim showing up for tea. If Joseph can't tell you when it happened, then it must not have been that formative, monumental, or important. And if *this of all things* wasn't important enough to remember, then I'm going to assert that it didn't happen. And if it didn't happen... well, President Hinckley himself presented the duality that "[then this work is a fraud](https://www.churchofjesuschrist.org/study/general-conference/2002/10/the-marvelous-foundation-of-our-faith?lang=eng)."
 
 &nbsp;
 
@@ -73,7 +73,7 @@ If *you*, reader, if *you* saw God the Father and Jesus Christ both physically p
 <br>
 &nbsp;
 
-This is not a detail you misremember. If you fucking *saw God* then you don't fumble that memory. You weren't counting how many fast-food workers were assembling a hamburger. You weren't trying to recall how many other passengers were on the bus. You weren't trying to guesstimate the size of a crowd. You were alone in the woods with an otherworldly pillar of light, and saw *how many personages*? One? Two plus "many angels"? Actually just two? If your recollection on seeing God falters, then *maybe you didn't actually see God*.
+This is not a detail you misremember. If you fucking *saw God* then you don't fumble that memory. You were not counting how many fast-food workers were assembling a hamburger. You were not trying to recall how many other passengers were on the bus. You were not trying to guesstimate the size of a crowd. You were not trying to differentiate between a group of nine people versus a group of ten people. You were not trying to get an accurate count of people walking in a hallway. You were not trying to estimate within 5% error margins the count of a platoon. You were *alone in the woods* with an otherworldly pillar of light, and saw *how many personages*? One? Two plus "many angels"? Actually just two? If your recollection on seeing God falters, then *maybe you didn't actually see God*.
 
 &nbsp;
 
@@ -111,7 +111,7 @@ That's the kind of mental gymnastics I'm seeing in Joseph's experience. His inte
 &nbsp;
 
 ### Trinitarianism
-> *There are two personages who constitute the great matchless, governing and supreme power over all things—by whom all things were created and made, that are created and made, whether visible or invisible: whether in heaven, on earth, or in the earth, under the earth, or throughout the immensity of space—They are the Father and the Son: ==The Father being a personage of spirit==, glory and power: possessing all perfection and fulness: The Son, who was in the bosom of the Father, a personage of tabernacle, made, or fashioned like unto man, or being in the form and likeness of man, or, rather, man was formed after his likeness, and in his image[.]*
+> *There are ==two personages== who constitute the great matchless, governing and supreme power over all things—by whom all things were created and made, that are created and made, whether visible or invisible: whether in heaven, on earth, or in the earth, under the earth, or throughout the immensity of space—They are the Father and the Son: ==The Father being a personage of spirit==, glory and power: possessing all perfection and fulness: The Son, who was in the bosom of the Father, a personage of tabernacle, made, or fashioned like unto man, or being in the form and likeness of man, or, rather, man was formed after his likeness, and in his image[.]*
 
 &mdash; *[Lecture Fifth](https://www.josephsmithpapers.org/paper-summary/doctrine-and-covenants-1835/61)*, Lectures on Faith Section V, paragraph 2, page 53; Doctrine and Covenants, ==1835==, The Joseph Smith Papers
 
@@ -128,7 +128,7 @@ Nope. Doesn't even mention in passing that Joseph had anything like a First Visi
 &nbsp;
 
 ### Result
-If we set aside the discrepancy in *when* this event happened, *why* it happened, *who* was present, or *whether* it can be reliably told, we still really do need to examine what the result was. What happened, if anything? A heavenly messenger appeared to Joseph. What did they say?
+If we set aside the discrepancy in *when* this event happened, *why* it happened, *who* was present, or *whether* it can be reliably told, we still need to examine what the result was. What happened, if anything? A heavenly messenger appeared to Joseph. What did they say?
 
 Whether personally or through some intermediary, God answers Joseph's question. Some permutation of the following interactions happened, then:
 
@@ -141,7 +141,9 @@ Whether personally or through some intermediary, God answers Joseph's question. 
 
 I'll be real, I don't know which of those responses I find more dissatisfying. Why would God answer Joseph's specific question of "which church is right" with "I'll tell you later"? That's heavily paraphrased, of course, but God and Joseph are literally in physical proximity, face to face. One of them is eternal and omniscient, and the other is asking for advice. 
 
-If God answered *your* question that way, how would you react? "Well, golly gee, if only I had an omniscient deity with infinite wisdom physically manifest Himself before me, an event with remarkably few recorded instances throughout all of Earth's existence, who was capable of providing an answer for which church to join. Oh wait, I have literally the creator of all of fathomable reality right in front of me." What the hell, God?
+If God answered *your* question that way, how would you react? "Well, golly gee, if only I had an omniscient deity with infinite wisdom physically manifest Himself before me, an event with remarkably few recorded instances throughout all of Earth's existence, who was capable of providing an answer for which church to join. Oh wait, I have literally the creator of all of fathomable reality right in front of me." 
+
+Why would God appear physically, personally, and give a half-answer? What the hell, God?
 
 &nbsp;
 

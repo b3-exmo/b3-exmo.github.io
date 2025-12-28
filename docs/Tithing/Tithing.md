@@ -46,9 +46,9 @@ This number is difficult to nail down, seeing how the church doesn't publish any
 
 ## Rationalization
 ### Quoting Malachi
-> *Prove me now herewith . . . if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.*
+> *Prove me now herewith ... if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.*
 
-Chapter divisions weren’t present in the original revisions of the King James Version. The Bible, including the book of Malachi, was one big ol' wall of text. Context can carry over across those drawn boundaries between chapters. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says [“And now, O ye priests, this commandment is for you.”](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)
+Chapter divisions weren’t present in the original revisions of the King James Version. The Bible, including the book of Malachi, was one big ol' wall of text. Context can carry over across those drawn boundaries between chapters. The book of Malachi is a criticism of the temple priest class in ancient Judaism. Chapter 2 verse 1 says "[And now, O ye priests, this commandment is for you.](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/2?lang=eng&id=p1#p1)"
 
 [Chapter 3 verses 8 - 11](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p8-p11#p8) are ==not directed to the general public== to contribute to God’s storehouse. They’re reprimanding the priests for misusing the tithing funds to live lavishly. Malachi is saying that this misuse of tithing is why, as 3:9 says, “[ye are cursed.](https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p9#p9)”
 
@@ -58,13 +58,13 @@ This is not an admonition for the general public, us common folk in [current yea
 
 &nbsp;
 
-This passage in Malachi gets quoted pretty often, but I'm not sure how to prove that. What I won't do is make a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
+This passage in Malachi gets quoted pretty often in General Conference. What I won't do is make a comprehensive list of how often this passage is mentioned when talking about tithing. You don't want to read that, and I don't want to write it.
 
 That said, here are some references I found from a cursory search:
 
 - [Sacred Transformations](https://www.churchofjesuschrist.org/study/ensign/2012/12/sacred-transformations?lang=eng&id=p17#p17), Aaron L West, Ensign December 2012 (excerpts shown below)
 - [Topics and Questions: Tithing](https://www.churchofjesuschrist.org/study/manual/gospel-topics/tithing?lang=eng&id=p5#p5), Overview
-- [Tithing: Opening the Windows of Heaven](https://www.churchofjesuschrist.org/study/general-conference/2023/10/22andersen?lang=eng&id=p13#p13), Elder Neil L. Andersen, General Conference October 2023
+- [Tithing: Opening the Windows of Heaven](https://www.churchofjesuschrist.org/study/general-conference/2023/10/22andersen?lang=eng&id=p13#p13), Elder Neil L. Andersen, General Conference October 2023
 - [Will a Man Rob God?](https://www.churchofjesuschrist.org/study/general-conference/2007/04/will-a-man-rob-god?lang=eng&id=p3-p6#p3), Elder Yoshihiko Kikuchi, General Conference April 2007
 - [Tithing](https://www.churchofjesuschrist.org/study/general-conference/1994/04/tithing?lang=eng&id=p4#p4), Dallin H Oaks, General Conference April 1994
 - [Missionary pamphlet on tithing](https://www.churchofjesuschrist.org/bc/content/ldsorg/content/english/manual/missionary/pdf/36954_tithing-and-fast-offerings-eng.pdf?lang=eng), other missionary material like those awful _The District_ DVDs we had to watch in the mission field
@@ -97,7 +97,7 @@ Lorenzo's “I plead” does not really sound like it should be equated to “th
 ### Joseph F Smith
 >_Furthermore, I want to say to you, we may not be able to reach it right away, but we expect to see the day when ==we will not have to ask you for one dollar of donation== for any purpose, except that which you volunteer to give of your own accord, because we will have tithes sufficient in the storehouse of the Lord to pay ==everything that is needful== for the advancement of the kingdom of God._
 
-— _[Chapter 31: Obedience to the Law of Tithing](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-f-smith/chapter-31?lang=eng&id=p26#p26)_, Teachings of Presidents of the Church: Joseph F. Smith
+— _[Chapter 31: Obedience to the Law of Tithing](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-f-smith/chapter-31?lang=eng&id=p26#p26)_, Teachings of Presidents of the Church: Joseph F. Smith
 
 This quote from the prophet in 1907 says we won’t need to ask you to pay tithing once we have enough to be self-sufficient. $100 billion evidently isn’t enough to be self-sufficient. “Everything that is needful” seems to have developed a lot since 1907. Everything that is needful seems to include stock holdings and real estate.
 
@@ -170,7 +170,7 @@ Need I remind readers that Deseret News is [[Sources and Links#Deseret News|owne
 
 > *The church owns and manages two different types of businesses – non-profit and for-profit. . . . On the other hand, ==Deseret News and the City Creek shopping center== in downtown Salt Lake City are **for-profit** business – both owned and operated by Corporation of the Presiding Bishop, the business division of the Church of Jesus Christ of Latter-day Saints.*
 > 
-> *The majority of the church’s for-profit companies are run under a holding company called Deseret Management Corporation. ==The Deseret Management Corporation board of directors== is made up of the three members of the First Presidency, three rotating members of the Quorum of the Twelve Apostles, and the Presiding Bishopric.*
+> *The majority of the church’s for-profit companies are run under a holding company called Deseret Management Corporation. ==The Deseret Management Corporation board of directors== is made up of the three members of the First Presidency, three rotating members of the Quorum of the Twelve Apostles, and the Presiding Bishopric.*
 
 — _[Follow the Profit: A Guide to the LDS Church’s For-Profit Companies](https://www.ldsdaily.com/church-lds/follow-profit-guide-lds-churchs-profit-companies/)_, LDS Daily, May 4 2016
 
@@ -209,7 +209,7 @@ God bless America, if I keep reading into this, my notes will devolve further in
 #### Funding
 Chronologically, the earliest time I recall hearing about this was in General Conference, from Gordon Hinckley himself:
 
->*We feel we have a compelling responsibility to ==protect the environment== of the Salt Lake Temple. . . . We have felt it imperative to do something to revitalize this area. But I wish to give the entire Church the assurance that ==tithing funds have not and will not be used to acquire this property. Nor will they be used in developing it for commercial purposes.==*
+>*We feel we have a compelling responsibility to ==protect the environment== of the Salt Lake Temple. . . . We have felt it imperative to do something to revitalize this area. But I wish to give the entire Church the assurance that ==tithing funds have not and will not be used to acquire this property. Nor will they be used in developing it for commercial purposes==.*
 >
 >*Funds for this have come and will come from those ==commercial entities owned by the Church==. These resources, together with the ==earnings of invested reserve funds==, will accommodate this program.*
 
@@ -234,7 +234,7 @@ Isn't it amazing how a well-funded legal team can change the past?
 &nbsp;
 
 #### It's to protect downtown SLC!
->*A recent column on Forbes.com (“[Salt Lake City’s Sacred Space](http://www.forbes.com/2010/06/29/salt-lake-city-urban-sacred-opinions-columnists-joel-kotkin.html)”) by Joel Kotkin takes a look at how ==City Creek — an initiative of The Church of Jesus Christ of Latter-day Saints== — is enhancing downtown [Salt Lake City](https://newsroom.churchofjesuschrist.org/article/presiding-bishop-discusses-church-s-involvement-in-salt-lake-city-development). The Church undertook the City Creek project to ==protect the environment around Temple Square==.*
+>*A recent column on Forbes.com (“[Salt Lake City’s Sacred Space](http://www.forbes.com/2010/06/29/salt-lake-city-urban-sacred-opinions-columnists-joel-kotkin.html)”) by Joel Kotkin takes a look at how ==City Creek — an initiative of The Church of Jesus Christ of Latter-day Saints== — is enhancing downtown [Salt Lake City](https://newsroom.churchofjesuschrist.org/article/presiding-bishop-discusses-church-s-involvement-in-salt-lake-city-development). The Church undertook the City Creek project to ==protect the environment around Temple Square==.*
 
 — _[Forbes Covers City Creek Project](https://newsroom.churchofjesuschrist.org/article/forbes-covers-city-creek-project)_, Church Newsroom
 
@@ -266,6 +266,8 @@ Protect from what?
 
 Or, in layman's terms, if you have spare resources ($2 billion for a shopping center) and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty ([1](https://www.slc.gov/homelessness/), [2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/), [3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)) around you!
 
+&nbsp;
+
 Just say what you mean: you're trying to protect the church office building from poor people.
 
 &nbsp;
@@ -288,7 +290,7 @@ I don't think I need to point out that the City Creek project is not a homeless 
 
 &nbsp;
 
->*It's ==Utah's Rodeo Drive== without the stuffiness. City Creek is home to the ==national, luxury, and local brands== you love in one of the most unique shopping environments in the country.*
+>*It's ==Utah's Rodeo Drive== without the stuffiness. City Creek is home to the ==national, luxury, and local brands== you love in one of the most unique shopping environments in the country.*
 
 — _[City Creek Center – Shopping Elevated](https://www.utah.com/articles/post/city-creek-shopping-dining/#)_, utah.com ([[Sources and Links#Deseret Management Corporation|owned by the church]])
 
@@ -301,7 +303,7 @@ Is _this_ what Jesus taught? Do you want to donate to a charitable organization 
 &nbsp;
 
 ### Beneficial Life
-[![Thomas S. Monson's 2005 Beneficial Insurance Ad](https://img.youtube.com/vi/vaWFZpVwrgw/2.jpg)](https://www.youtube.com/watch?v=vaWFZpVwrgw)
+![type:video](https://www.youtube.com/embed?v=vaWFZpVwrgw)
 
 [Archived link of President Monson's advertisement](https://web.archive.org/web/20240721155104/https://www.youtube.com/watch?v=vaWFZpVwrgw)
 

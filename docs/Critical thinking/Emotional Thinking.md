@@ -39,9 +39,9 @@ Emotions are part of the human experience, and folks develop an emotional relati
 ## Testimony
 Shoutout to [ldsdiscussions.com](https://www.ldsdiscussions.com/testimonies) for putting together these insights. This page has a much more verbose explanation of the following notes, including this noteworthy video of people from a wide variety of religious inclinations testifying of their spiritual witness:
 
-[![Recordings of various religious experiences](http://img.youtube.com/vi/UJMSU8Qj6Go/3.jpg)](http://www.youtube.com/watch?v=UJMSU8Qj6Go)
+![type:video](http://www.youtube.com/embed/UJMSU8Qj6Go)
 
-[https://www.youtube.com/watch?v=UJMSU8Qj6Go](https://www.youtube.com/watch?v=UJMSU8Qj6Go)
+[Spiritual Witnesses](https://www.youtube.com/watch?v=UJMSU8Qj6Go)
 
 Here are a few transcribed excerpts:
 
@@ -75,7 +75,7 @@ If simply testifying with emotion makes something true, then we’re in trouble.
 ## Elevation Emotion
 I don't know that I should call this uniquely human, but I can emphasize that this is an *emotion*.
 
-> *Elevation is an emotion elicited by witnessing ==actual or imagined== virtuous acts of remarkable moral goodness. It is experienced as a distinct feeling of warmth and expansion that is accompanied by appreciation and affection for the individual whose exceptional conduct is being observed. Elevation motivates those who experience it to open up to, affiliate with, and assist others. Elevation makes an individual feel lifted up and optimistic about humanity.*
+> *Elevation is an emotion elicited by witnessing ==actual or imagined== virtuous acts of remarkable moral goodness. It is experienced as a distinct feeling of warmth and expansion that is accompanied by appreciation and affection for the individual whose exceptional conduct is being observed. Elevation motivates those who experience it to open up to, affiliate with, and assist others. Elevation makes an individual feel lifted up and optimistic about humanity.*
 
 — *[Elevation_(emotion)](https://en.wikipedia.org/wiki/Elevation_(emotion))*, Wikipedia
 
@@ -113,7 +113,7 @@ The article quoted above, from Greater Good Magazine, isn't some theological aut
 &nbsp;
 
 ### The Spirit™
-> *But, behold, I say unto you, that you must study it out in your mind; then you must ask me if it be right, and ==if it is right I will cause that your bosom shall burn within you; therefore, you shall feel that it is right==.*
+> *But, behold, I say unto you, that you must study it out in your mind; then you must ask me if it be right, and ==if it is right I will cause that your bosom shall burn within you; therefore, you shall feel that it is right==.*
 
 — [D&C 9:8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=eng&id=p8#p8)
 
@@ -145,7 +145,7 @@ The article quoted above, from Greater Good Magazine, isn't some theological aut
 
 &nbsp;
 
-> *On October 9, 1959, between sessions of general conference in Salt Lake City, Howard learned that President David O. McKay wanted to meet with him. He immediately went to the Church Administration Building, where President McKay greeted him warmly and said, “President Hunter, … the Lord has spoken. You are called to be one of his special witnesses, and tomorrow you will be sustained as a member of the Council of the Twelve.” Regarding that experience, Howard wrote:*
+> *On October 9, 1959, between sessions of general conference in Salt Lake City, Howard learned that President David O. McKay wanted to meet with him. He immediately went to the Church Administration Building, where President McKay greeted him warmly and said, “President Hunter, … the Lord has spoken. You are called to be one of his special witnesses, and tomorrow you will be sustained as a member of the Council of the Twelve.” Regarding that experience, Howard wrote:*
 > 
 > *“I cannot attempt to explain the feeling that came over me. ==Tears came to my eyes and I could not speak==. I have never felt so completely humbled as when I sat in the presence of this great, sweet, kindly man—the prophet of the Lord. He told me what a great joy this would bring into my life, the wonderful association with the brethren, and that hereafter my life and time would be devoted as a servant of the Lord and that I would hereafter belong to the Church and the whole world. … He put his arms around me and assured me that the Lord would love me and I would have the sustaining confidence of the First Presidency and Council of the Twelve. … I [told him] I would gladly give my time, my life, and all that I possessed to this service.”*
 > 

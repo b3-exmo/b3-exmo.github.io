@@ -34,6 +34,6 @@ I do remember being taught that having sexual desires is normal, but we’re exp
 ## Potiphar's Wife
 > Undoubtedly Potiphar’s wife flattered Joseph and expressed her alleged love for him at first. When this failed, she tried force and intrigue; and, failing there, she tried to cover with blackmail. With such a clear conscience, Joseph’s dark dungeon must have been to him a pleasant prison. At least here he was safe from exploitation and contamination. She said to Joseph, “I love you.” What she wanted was not Joseph but his handsome, appealing body.
 
-— _[Love vs. Lust](https://speeches.byu.edu/talks/spencer-w-kimball_love-vs-lust/)_, Spencer W. Kimball, BYU Speeches, 5 January 1965
+— _[Love vs. Lust](https://speeches.byu.edu/talks/spencer-w-kimball_love-vs-lust/)_, Spencer W. Kimball, BYU Speeches, 5 January 1965
 
 I do remember hearing this sentiment when I was a teenager. I remember the impression it made on me. And I still struggle with intimacy because of how much I was raised to believe that sex is bad under any circumstance.
