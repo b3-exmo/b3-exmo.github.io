@@ -6,7 +6,7 @@ I don't really know what to title this page. The intent is "don't look outside o
 
 &nbsp;
 
-> *In today’s world, information is easy to access and share. This can be a great blessing for those seeking to be educated and informed. ==However, many sources of information are unreliable== and do not edify. Some sources seek to promote anger, contention, fear, or baseless conspiracy theories (see [3 Nephi 11:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p30#p30); [Mosiah 2:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p32#p32)). Therefore, it is important that Church members be wise as they seek truth.*
+> *In today’s world, information is easy to access and share. This can be a great blessing for those seeking to be educated and informed. ==However, many sources of information are unreliable== and do not edify. Some sources seek to promote anger, contention, fear, or baseless conspiracy theories (see [3 Nephi 11:30](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p30#p30); [Mosiah 2:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p32#p32)). Therefore, it is important that Church members be wise as they seek truth.*
 > 
 > *Members of the Church should seek out and share only credible, reliable, and factual sources of information. They should avoid sources that are speculative or founded on rumor. The guidance of the Holy Ghost, along with careful study, can help members discern between truth and error (see [Doctrine and Covenants 11:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=eng&id=p12#p12); [45:57](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p57#p57)). In matters of doctrine and Church policy, the ==authoritative sources are the scriptures, the teachings of the living prophets, and the General Handbook==.*
 
@@ -80,7 +80,7 @@ I'm willing to concede that I'm just being a grump, but Alma's [war chapters](ht
 
 — *[Russell M. Nelson: A Study in Obedience](https://www.churchofjesuschrist.org/study/liahona/1983/01/russell-m-nelson-a-study-in-obedience?lang=eng&id=p40-p42#p40)*, Lane Johnson, Liahona 1983 January
 
-A more recent iteration of this was quoted in *[The Prophet of God](https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=eng&id=p30#p30)*, Elder Neil L. Andersen, Quorum of the Twelve Apostles, General Conference 2018 April; having that passage here was redundant, as it's practically a direct quote of the above.
+A more recent iteration of this was quoted in *[The Prophet of God](https://www.churchofjesuschrist.org/study/general-conference/2018/04/the-prophet-of-god?lang=eng&id=p30#p30)*, Elder Neil L. Andersen, Quorum of the Twelve Apostles, General Conference 2018 April; having that passage here was redundant, as it's practically a direct quote of the above.
 
 &nbsp;
 
@@ -93,7 +93,7 @@ If you blindly obey what the acting president of the church says, "blessings jus
 &nbsp;
 
 ### OBEY ME
-> *Declared President Joseph F. Smith in October 1873, “Obedience is the first law of heaven.”*
+> *Declared President Joseph F. Smith in October 1873, “Obedience is the first law of heaven.”*
 
 ... It is also the first law of North Korea. I don't think that's a selling point. In fact, in the Mormon belief of the pre-mortal war in heaven, Satan got kicked out for his plan where obedience was the first law. But when a prophet declares that here on earth, it's fine.
 
@@ -122,7 +122,7 @@ You guys say you represent Jesus, right?<br>Right.
 ### doubt ur doubts
 > *My dear friends—please, first ==doubt your doubts before you doubt your faith==. We must never allow doubt to hold us prisoner and keep us from the divine love, peace, and gifts that come through faith in the Lord Jesus Christ.*
 
-— *[Dieter F. Uchtdorf, “Come, Join with Us,” Ensign or Liahona, Nov. 2013](https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-morning-session/come-join-with-us?lang=eng&id=p48#p48)*
+— *[Dieter F. Uchtdorf, “Come, Join with Us,” Ensign or Liahona, Nov. 2013](https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-morning-session/come-join-with-us?lang=eng&id=p48#p48)*
 
 I've mentioned this [[Doubts and Truth#Doubt Your Doubts|on another page]], but what I find disagreeable here is it actively encourages [[Cognitive Bias]]— if you heard something good about LDS teachings before you heard something bad, just disregard the new (bad) information. You already know the "correct" answer. This means that if you were raised in the church like I was, you should just doubt anything negative you encounter. It'll be fine.
 
@@ -153,7 +153,7 @@ Much like the church's responses to [[Blood Atonement]], this sounds like a case
 
 &nbsp;
 
-> *Use [Doctrinal Outline H](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p35#p35) and [Supporting Statements H](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p74#p74), on pages 91 and 93 of the student manual, to help explain what we know about the sons of perdition. ==Since little is said or known about the fate of the sons of perdition, stay with what is suggested in the student manual==. Remember that the emphasis in this chapter is on the celestial kingdom.*
+> *Use [Doctrinal Outline H](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p35#p35) and [Supporting Statements H](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/33-kingdoms-of-glory-and-perdition?lang=eng&id=p74#p74), on pages 91 and 93 of the student manual, to help explain what we know about the sons of perdition. ==Since little is said or known about the fate of the sons of perdition, stay with what is suggested in the student manual==. Remember that the emphasis in this chapter is on the celestial kingdom.*
 
 — [Chapter 33: Kingdoms of Glory and Perdition](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel/chapter-33?lang=eng&id=p37#p37), Doctrines of the Gospel Teacher Manual
 

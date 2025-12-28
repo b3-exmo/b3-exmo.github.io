@@ -29,7 +29,7 @@ For transparency, this source does also describe that "the Lord declared that th
 
 We've got some common sense advice here. I don't know of anyone who would insist that a diet consisting primarily of vegetables and grain as being a bad idea. ... Honestly, though, as I think about it... I don't know that we needed God to reveal that to us through a prophet. Growing up in this church, I don't think I recall hearing clear, prophetic guidance on "regular exercise, proper hygiene, and getting sufficient rest." Which session of General Conference was that in? ... Did we *need* a General Conference session to tell us that?
 
-This revelation is given well before the Industrial Revolution extended to [intensive animal farming](https://en.wikipedia.org/wiki/Intensive_animal_farming#History). In 1833, what choice did people have, outside of fruits, vegetables, grains, and sometimes meat? What other option was there, eating sand or tree bark?
+This revelation is given well before the Industrial Revolution extended to [intensive animal farming](https://en.wikipedia.org/wiki/Intensive_animal_farming#History). In 1833, what choice did people have outside of fruits, vegetables, grains, and sometimes meat? What other option was there, eating sand or tree bark?
 
 "Regular exercise, proper hygiene, and sufficient rest? Wow, thanks God! All these years I'd been chain-smoking while sitting on my ass with three hours of sleep a night, but now that I've heard this godly wisdom, I see the error of my ways." — *A made up response to being told that mundane advice is of divine origin*
 
@@ -110,7 +110,9 @@ I really do wonder why would God feel so strongly about water that's above room 
 &nbsp;
 
 #### ETERNITY IS RUINED
-[![Julie Beck's General Conference address, getting emotional over coffee](http://img.youtube.com/vi/xTYcXzvaM2Y/0.jpg)](https://youtu.be/xTYcXzvaM2Y?t=185s){: .center}
+![type:video](https://www.youtube.com/embed/xTYcXzvaM2Y?start=185){: .center}
+
+[Julie Beck's General Conference address, getting emotional over coffee](https://youtu.be/xTYcXzvaM2Y?t=185s), 3:05 - 4:03
 
 > *Though she knew it was contrary to the Word of Wisdom, she developed the habit of drinking coffee and kept a coffee pot on the back of her stove. She claimed that “the Lord will not keep me out of heaven for a little cup of coffee.” But, because of that little cup of coffee, ==she could not qualify for a temple recommend, and neither could those of her children who drank coffee with her==. Though she lived to a good old age and did eventually qualify to reenter and serve in the temple, only one of her 10 children had a worthy temple marriage, and ==a great number of her posterity, which is now in its fifth generation, live outside of the blessings of the restored gospel== she believed in and her forefathers sacrificed so much for.*
 
@@ -169,6 +171,8 @@ But, no, *hot drinks* are the problem. "Actually," says God, "*don't* boil your 
 
 Gee, thanks. Truly divine inspiration.
 
+Instead of preserving the lives of the saints, God seems to be much more interested in the church's leadership having [[Polygamy|plenty of women]] to impregnate. God's ways truly are higher than our ways.
+
 The purpose of this law doesn't seem to be preventing disease or prolonging life, or else it would have more guidance on preventing disease or prolonging life. It must be something else, then.
 
 &nbsp;
@@ -213,18 +217,18 @@ So... Somehow, we've interpreted a scriptural verse in the standard works, expli
 
 So was the revelation not a revelation before Brigham called it a revelation? Can we get a citation for when Brigham made this into doctrine? Or why, nearly 200 years later, the canon source document *still says* "this isn't a commandment" after we've been told that it is?
 
-You can follow that link and see the [preceding address](https://catalog.churchofjesuschrist.org/assets/6bc155bb-2b01-4e8b-b580-0ab24d4404af/0/14?lang=eng) given by President Anthon H Lund, who says, in so many words, "yeah, it *says* it isn't a commandment, but that explicit wording doesn't mean it's optional!" It appears that President Smith wanted to interject, and so he delivers the above quote to expound on what Lund had said.
+You can follow that link and see the [preceding address](https://catalog.churchofjesuschrist.org/assets/6bc155bb-2b01-4e8b-b580-0ab24d4404af/0/14?lang=eng) given by President Anthon H Lund, who says, in so many words, "yeah, it *says* it isn't a commandment, but that doesn't mean it's optional!" It appears that President Smith wanted to interject, and so he delivers the above quote to expound on what Lund had said.
 
 &nbsp;
 
 ## Promised blessings
-> ***18** And all saints who remember to keep and do these sayings, walking in obedience to the commandments, ==shall receive health in their navel and marrow to their bones==;*
+> ***18*** *And all saints who remember to keep and do these sayings, walking in obedience to the commandments, ==shall receive health in their navel and marrow to their bones==;*
 > 
-> ***19** And ==shall find wisdom and great treasures of knowledge==, even hidden treasures;*
+> ***19*** *And ==shall find wisdom and great treasures of knowledge==, even hidden treasures;*
 > 
-> ***20** ==And shall run and not be weary, and shall walk and not faint==.*
+> ***20*** *==And shall run and not be weary, and shall walk and not faint==.*
 > 
-> ***21** And I, the Lord, give unto them a promise, ==that the destroying angel shall pass by them==, as the children of Israel, and not slay them. Amen.*
+> ***21*** *And I, the Lord, give unto them a promise, ==that the destroying angel shall pass by them==, as the children of Israel, and not slay them. Amen.*
 
 — [D&C 89:18-21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p18-p21#p18)
 
@@ -237,7 +241,7 @@ This *Word of Wisdom*, presented as "here's some friendly advice for a fulfillin
 ### Running
 [D&C 80:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p20&lang=eng#p20) warrants some scrutiny. Of the four listed blessings associated with adhering to the Word of Wisdom, being promised that we "shall run and not be weary, and shall walk and not faint" seems the easiest to quantify. Should I then expect to see triathlon participants disproportionately consist of Mormons? Based on what I'm reading, if we avoid tea and become vegetarian, we should be ready for a marathon, right? Or a 5k run at minimum... right?
 
-I remember when I was in my early-to-mid-twenties, I got into running as an exercise & hobby. This being well before I ever tried coffee, I remember slowly building up the stamina to run five kilometers, taking a breather two or three times throughout. I also remember when I would struggle to keep pushing forward, I would assure myself how much worse this experience would be if I hadn't been following the Word of Wisdom. It made me wonder "how would anyone get into this hobby if they had coffee every day? They'd never break one mile! If I'm feeling this weary while following God's guidance, imagine how awful this would be for the rest of the world!" Turns out, I was misinformed, out of shape, and the only real risk of drinking coffee before a run is that it sure does get your digestive tract moving. If the nearest bathroom & supply of TP is two miles away, you're in for a bad time.
+I remember when I was in my early-to-mid-twenties, I got into running as an exercise & hobby. This being well before I ever tried coffee, I remember slowly building up the stamina to run five kilometers, taking a breather two or three times throughout. I also remember when I would struggle to keep pushing forward, I would assure myself how much worse this experience would be if I hadn't been following the Word of Wisdom. It made me wonder "how would anyone get into this hobby if they had coffee every day? They'd never break one mile! If I'm feeling this weary while following God's guidance, imagine how awful this would be for the rest of the world!" Turns out, I was misinformed, out of shape, and the only real risk of drinking coffee before a run is that it sure does get your digestive tract moving. If the nearest bathroom & supply of TP is two miles away, you're in for a bad time. I doubt this is the use case that God was warning us against.
 
 &nbsp;
 
@@ -293,7 +297,7 @@ If D&C 89 were a complete document, it would contain more useful information. If
 
 Were this commandment useful in any applicable context, I would expect to see a statistically significant disparity between rates of, say, type 2 diabetes among practicing Mormons and the rest of the world. I should also expect to *not* see 4XL temple clothing or garments available for purchase. If God's commandment pertaining to bodily health had practical effects, no adherent should need such voluminous clothing. I see a remarkable discrepancy in that these sizes of [[Garments|temple garments]] exist to accommodate those who do not appear to be following the Lord's Law of Health. Either the commandment is not sufficient, or we can skirt by the rules and rationalize that it isn't actually a commandment. Neither is a satisfying explanation.
 
-However, the dirty apostate heathens who both drink coffee *and* run marathons are forbidden from the temple because they don't follow the Lord's Law of Health (which isn't *actually* a commandment.)
+Instead, we can feel assured that the dirty apostate heathens who both drink coffee *and* run marathons are forbidden from the temple because they don't follow the Lord's Law of Health (which isn't *actually* a commandment.)
 
 &nbsp;
 
@@ -348,7 +352,7 @@ Well, hot dog, that sounds promising. Let's go find the *August 2019 New Era*!
 
 There are a few candidates for which article will have these answers. To me, [this article](https://www.churchofjesuschrist.org/study/new-era/2019/08/vaping-coffee-tea-and-marijuana?lang=eng) seems to be the closest match. It says absolutely fuck-all about iced coffee.
 
-Look, I already know the answer that I'm looking for, I'm just trying to find it in writing. Coffee is bad at any temperature, don't ask why. *Somehow*, "hot drinks" includes cold drinks. If we've stretched those two words to span the entire range of temperatures that humans can call palatable for beverages, then why not just rule out any liquid that isn't parasite-ridden creek water?
+Look, I already know the answer that I'm looking for, I'm just trying to find it in writing. Coffee is bad at any temperature, and don't ask why. *Somehow*, "hot drinks" includes *cold drinks*. If we've stretched the word "hot" to span the entire range of temperatures that humans can call palatable for beverages, why did God use *temperature* as the disqualifying factor? At this point, we may as well just rule out any liquid that isn't parasite-ridden creek water. Why can't we just clarify that the offending factor is coffee beans or tea leaves? It clearly has nothing to do with temperature, since these two drinks are forbidden at *any* temperature.
 
 &nbsp;
 
@@ -375,7 +379,7 @@ That guy sounds like a real douche, ngl
 
 — Brigham Young, Word of Wisdom, Journal of Discourses 12 [https://scriptures.byu.edu/#:t1d4c9:j12](https://scriptures.byu.edu/#:t1d4c9:j12)
 
-While I haven't found a quote to back up the claim that it was the Lion of the Lord himself, Brigham Young who solidified this teaching into a hard and fast doctrine, I can find a direct quote of him saying "look, don't just throw out all liquids that aren't room-temperature tap water. Maybe get a cuppa *once in a while*, but know your limits and boundaries." Or, in other words, *be wise*. That's kind of the whole point of a revelatory *word of wisdom*.
+While I haven't found a quote to back up the claim that it was the Lion of the Lord himself, Brigham Young who solidified this teaching into a hard and fast doctrine, I can find this direct quote of him saying "look, don't just throw out all liquids that aren't room-temperature tap water. Maybe get a cuppa *once in a while*, but know your limits and boundaries." Or, in other words, *be wise*. That's kind of the whole point of a revelatory *word of wisdom*.
 
 &nbsp;
 

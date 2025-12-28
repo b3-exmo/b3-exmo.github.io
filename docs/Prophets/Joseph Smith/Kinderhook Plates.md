@@ -42,7 +42,7 @@ He is on record as having examined them and making claims about what they mean. 
 >
 > *==I have translated a portion of them==, and find they contain the history of ==the person with whom they were found==. He was a descendant of Ham, through the loins of Pharoah, King of Egypt, and that ==he received his kingdom from the ruler of Heaven and Earth==.*
 
-— [History, 1838–1856, volume D-1 [1 August 1842–1 July 1843]](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/185) The Joseph Smith Papers (see also [History of the Church, vol. 5](https://josephsmithfoundation.org/history-of-the-church-of-jesus-christ-of-latter-day-saints-vol-5/) page 372; also [[Sources and Links|UTLM]]'s [notes](http://www.utlm.org/newsletters/no46.htm#KINDERHOOK))
+— [History, 1838–1856, volume D-1 [1 August 1842–1 July 1843]](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-d-1-1-august-1842-1-july-1843/185) The Joseph Smith Papers (see also [History of the Church, vol. 5](https://josephsmithfoundation.org/history-of-the-church-of-jesus-christ-of-latter-day-saints-vol-5/) page 372; also [[Sources and Links|UTLM]]'s [notes](http://www.utlm.org/newsletters/no46.htm#KINDERHOOK))
 
 "I have translated a portion of them" can somehow be interpreted as "Joseph didn't entertain the thought of translating them," Right. Cool. Okay.
 

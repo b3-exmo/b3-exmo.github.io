@@ -8,7 +8,7 @@ comments: true
 
 &nbsp;
 
-At the end of the day, one growing problem that the LDS church is facing is that continuing revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, ~~Ensign~~ Liahona. This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9). *They have to do this*. They have no choice. If they do not, they cease to prove their value. If they don't present anything new, why are we listening to them under the pretense of continuing revelation?
+At the end of the day, one growing problem that the LDS church is facing is that continuing revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, ~~Ensign~~ [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona?lang=eng). This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9). *They have to do this*. They have no choice. If they do not, they cease to prove their value. If they don't present anything new, why are we listening to them under the pretense of continuing revelation?
 
 &nbsp;
 
@@ -99,7 +99,7 @@ If you, dear reader, have had an interaction like the above quote from Nelson co
 
 For kicks, here's a side-by-side video comparison of Hinckley vs Nelson's arguments on the matter:
 
-[![A Mormon by any other name...](http://img.youtube.com/vi/2lKQrYUE3yc/0.jpg)](https://youtu.be/2lKQrYUE3yc)
+![type:video](https://youtube.com/embed/2lKQrYUE3yc)
 
 [A Mormon by any other name...](https://www.youtube.com/watch?v=2lKQrYUE3yc)
 

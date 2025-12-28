@@ -16,9 +16,11 @@ comments: true
 
 &nbsp;
 
-Put simply, there are multiple accounts of Joseph Smith's First Vision. At face value, repeating a story to increase exposure and communicate to a broader audience makes sense. ==This would be a non-issue== if the story being told was consistent. I should expect that this story is one that does not allow any room for discrepancy. The timeline of these accounts is absolutely worth considering. Reportedly, it took place in 1820. The LDS church was formally founded in 1830. The earliest documented appearance of this story is 1832. The earliest record of the First Vision being actively propagated is in *1839*. This means that by the time *most* LDS church members will have heard about this critical, foundational event, it will have been *nineteen years* past.
+Recollecting how often I had heard of Joseph Smith's First Vision story, and iterating over its monumental significance, I don't know what words to use to describe the emotions I felt when I found out that there are multiple accounts of Joseph Smith's First Vision. At face value, repeating a story to increase exposure and communicate to a broader audience makes sense. ==This would be a non-issue== if the story being told was consistent. I should expect that this story is one that does not allow any room for discrepancy.
 
-Between 1820 and 1832 (a *twelve year gap*) there is not a single mention of Joseph Smith having witnessed any kind of divine intervention. Between the church's founding and the earliest record of the First Vision is a stint of two years, give or take some months, and that record is in Joseph's personal journal. Prior to 1839, scarce citations exist of the First Vision. Anyone joining the church in this *nine year* window of time will not have the context nor even a notion that this church was *[[Restoration|restored]]*, or is in contrast to apostasy. This is reflected in sermons given decades later, when early converts who become figureheads like George Q Cannon, Orson Pratt, even Brigham Young actively try to shut down this *crazy rumor* floating around that God appeared to Brother Joseph. Yes, [[First Vision Contemporaries#Early Church Leaders|I have receipts]] to back up that assertion.
+The timeline of these accounts is absolutely worth considering. Reportedly, this pivotal event took place in 1820. The LDS church was formally founded in 1830. The earliest documented appearance of this story is 1832. The earliest record of the First Vision being actively propagated is in *1839*. This means that by the time *most* LDS church members will have heard about this critical, foundational event, it will have been *nineteen years* past.
+
+Between 1820 and 1832 (a *twelve year gap*) there is not a single mention of Joseph Smith having witnessed any kind of divine intervention. Between the church's founding and the earliest record of the First Vision is a stint of two years, give or take some months, and the aforementioned record is in Joseph's personal journal. Prior to 1839, scarce citations exist of the First Vision. Anyone joining the church in this *nine year* window of time will not have the context nor even a notion that this church was *[[Restoration|restored]]*, or is in contrast to apostasy. This is reflected in sermons given decades later, when early converts who become figureheads like George Q Cannon, Orson Pratt, even Brigham Young actively try to shut down this *crazy rumor* floating around that God appeared to Brother Joseph. Yes, [[First Vision Contemporaries#Early Church Leaders|I have receipts]] to back up that assertion.
 
 &nbsp;
 
@@ -29,16 +31,16 @@ I'll demonstrate here why I believe this is a problem. If we heed the words of m
 ## Significance
 If the First Vision didn't happen, then Joseph Smith did not [[Restoration|restore Christ's church]]. If Joseph Smith did not restore Christ's church, what is this organization?
 
-If God hadn't personally appeared to advise Joseph directly that all other churches were incorrect, then Joseph is just adding to the confusion by making one more flavor of Christianity. If we were to argue that Joseph became a prophet later than 1820, then *that* would be the selling point that missionaries tell their ~~investigators~~ "friends" about on the first lesson. In my experience as a missionary for the LDS church, I was required to recite the 1838 account from memory on demand. And *that's what I did*. Imagine my dismay when, after reciting this to however many dozens or hundreds of people, I find that this theophany wasn't as clear-cut and simple as I had been told.
+If God hadn't personally appeared to advise Joseph directly that all other churches were incorrect, then Joseph is just adding to the confusion by making one more flavor of Christianity. If we were to argue that Joseph became a prophet later than 1820, then *that* would be the selling point that missionaries tell their ~~investigators~~ "friends" about on the first lesson. In my experience as a missionary for the LDS church, I was required to recite the 1838 account from memory on demand, and *that's what I did*. Imagine my dismay when, after reciting this to however many dozens or hundreds of people, I find that this theophany wasn't as clear-cut and simple as I had been told. I had propagated a half-truth at best, or an outright lie at worst.
 
 &nbsp;
 
 ## Accounts
 For whatever reason, there's an uncomfortably long span of time between God Himself appearing to mankind, and that event being recorded.
 
-In some, but not all of Joseph Smith's records (minimum twelve years displaced) he mentions how no one believes his story. That is a relevant factor, for sure. Assuming someone had believed him, they would likely have written it in their journal, or bantered in a newspaper column, saying something like "that Smith boy told me the darndest thing the other day!" or "this little fella told me that God appeared to him. Fancy that! We should listen to other things he has to say." I'll explain in [[First Vision Similar Experiences|more detail later]], but this absence of records might have had something to do with God appearing to *so many other people* in New England in the early 19th century. 
+In some, but not all of Joseph Smith's records (which, again, is a minimum of *twelve years* displaced) he mentions how no one believes his story. That is a relevant factor, for sure. Assuming someone had believed him, they would likely have written it in their journal, or bantered in a newspaper column, saying something like "that Smith boy told me the darndest thing the other day!" or "this little fella told me that God appeared to him. Fancy that! We should listen to other things he has to say." I'll explain in [[First Vision Similar Experiences|more detail]] on another page of notes, but this absence of records might have had something to do with God appearing to *so many other people* in New England in the early 19th century.
 
-*Joseph's story wasn't unique*. A typical response wouldn't be "wow, God appeared to you in the woods with no other witnesses around? Fascinating, tell me more!" it would instead be "ugh, you too?" Assuming Joseph did tell people, that was such a common claim that his story wouldn't have been notorious to anyone. Not even Joseph's own family wrote down anything of the sort until after 1838. They did write about it, but only after Joseph canonically retrofitted it into the context of his church's founding. I might expect to see in his siblings' journals "my dork-ass brother says he saw God. Isn't that inspiring / preposterous / blasphemous / evidentiary / breathtaking  / absurd / exciting?" Instead I find... nothing.
+*Joseph's story wasn't unique*. A typical response wouldn't be "wow, God appeared to you in the woods with no other witnesses around? Fascinating, tell me more!" it would instead be "ugh, you too?" Assuming Joseph did tell people, seeing God in the woods was such a common claim that his story wouldn't have been notorious enough for anyone to bother writing it down. Not even Joseph's own family wrote down anything of the sort until after 1838. They did write about it, but only after Joseph canonically retrofitted it into the context of his church's founding. I might expect to see in his siblings' journals something like "my dork-ass brother says he saw God. Isn't that inspiring / preposterous / blasphemous / evidentiary / breathtaking  / absurd / exciting?" Instead I find... nothing.
 
 &nbsp;
 
@@ -47,14 +49,15 @@ What we do have, though, are scans of Joseph Smith's own personal journal where 
 &nbsp;
 
 ### 1832
-Summer of 1832 is the *first recorded mention* of the first vision. I cannot understate how this was written **two years after** the church was founded, and ***twelve years after*** the vision reportedly happened.
+Summer of 1832 is the *first recorded mention* of the first vision. I cannot understate how this was written **two years after** the church was founded, and ***twelve years after*** the vision reportedly happened. It is also disseminated [[First Vision Contemporaries|contemporary]] to other peoples' accounts of suspiciously similar experiences.
 
-You can read it for yourself from an official publication on the LDS church's site: under its Library > Books and Lessons > Church History - Resources > First Vision > [Circa Summer 1832 History](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts/1832-account?lang=eng). <br>
+You can read Joseph's handwritten account for yourself from an official publication on the LDS church's site: under its Library > Books and Lessons > Church History - Resources > First Vision > [Circa Summer 1832 History](https://www.churchofjesuschrist.org/study/manual/first-vision-accounts/1832-account?lang=eng). As you read through his handwritten account, don't forget that Joseph "could neither write nor dictate a coherent and well-worded letter" according to his wife's recollection decades later.
+
 It can also be found in the *Joseph Smith Papers Project* [here](https://www.josephsmithpapers.org/paper-summary/history-circa-summer-1832/1). Actually, please do go look at the original scans, because it sure looks to me like the pages are held in with tape. Almost as if the pages had at one point been torn out from the book at one point...
 
 &nbsp;
 
-I'll share a bullet list of notorious features in this account:
+Rather than copy-paste the text, I'll share a bullet list of notorious features in this account:
 
 - Joseph is fifteen years old ("in the 16th year of my age")
 - Joseph was not asking which church to join
@@ -70,7 +73,7 @@ I'll share a bullet list of notorious features in this account:
 
 This is the earliest accounting of the First Vision and it's notably different from what later becomes canonized. We'll examine discrepancy later, but wouldn't you think that the account closest to the actual event would be most accurate?
 
-Problems arise if we give this account (written by Joseph Smith himself, no scribe this time) any real consideration. If God didn't appear to advise Joseph that other churches were wrong, and simply forgave his sins, would any of us be talking about it 200 years later?
+Problems arise if we give this account any real consideration. And, please don't forget that this was written by Joseph Smith himself, no scribe this time&mdash;we have no one else to blame for obscuring or corrupting the message. If God didn't appear to advise Joseph that other churches were wrong, and simply forgave his sins, would any of us be talking about it 200 years later?
 
 In fact, this is such a theological outlier, that we shouldn't be surprised to find that a certain church historian cut the pages out of Joseph's journal to make the remaining accounts internally consistent. [[First Vision Concealment|More on that later]].
 
@@ -142,9 +145,7 @@ Summary:
 
 &nbsp;
 
-Something I find suspicious about this account is Joseph's response to the words spoken directly from the mouth of God Himself.... assuming this is God appearing.
-
-God says "this is my beloved son, hear Him," and Joseph's reaction is, and I quote, "No sooner ... did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right... and which I should join."
+Something I find suspicious about this account is Joseph's response to the words spoken directly from the mouth of God Himself. God says "this is my beloved son, hear Him," and Joseph's reaction is, and I quote, "No sooner ... did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right... and which I should join."
 
 Just feels out of place to me. God appears and says "listen up! Jesus is talking." and Joseph immediately cuts Him off, "hold on, hooolld up right there, I have questions first!"
 
@@ -195,7 +196,7 @@ Comparison of factors *inconsistent* between all four accounts (and please remem
 | ------------------------- | ------------------------------------ | --------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
 | **Age**                   | 15                                   | About 14                                            | 14                                                               | About 14                                       |
 | **Pretext for praying**   | Existential; seeking forgiveness     | Wants to pick the right church, unsure which one    | Unsure if a true church exists                                   | Churches can't *all* be true, so which one is? |
-| **Opposition to praying** | ∅                                    | Can't verbally pray, no explanation nor description | Seized by gathered darkness, doomed to destruction               | ∅                                              |
+| **Opposition to praying** | &Oslash;                             | Can't verbally pray, no explanation nor description | Seized by gathered darkness, doomed to destruction               | &Oslash;                                       |
 | **Number of figures**     | One                                  | Two + many angels                                   | Two                                                              | Two                                            |
 | **Identity of figures**   | "The Lord"                           | Unidentified, though one testifies of Jesus         | "my beloved son," heavily implied to be Elohim & Jehovah         | Unidentified, but are identical                |
 | **Response of figures**   | Forgave sins; all churches are false | Forgave sins                                        | Join none of those churches, and also a bunch of other stuff too | They're all wrong                              |

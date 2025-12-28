@@ -21,7 +21,7 @@ Boy, Jesus sure missed the mark on saying that the church wouldn’t fall to apo
 
 &nbsp;
 
-There are other NT scriptures quoting Christ on this matter (read [Matthew 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=eng) and [John 15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15?lang=eng)-17)
+There are other NT scriptures quoting Christ on this matter (read [Matthew 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/13?lang=eng) and [John 15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15?lang=eng)-17)
 
 &nbsp;
 
@@ -32,7 +32,7 @@ I've encountered few exceptions to this. One in 2014, another in 2016.
 
 > *In reality, the Restoration is an ongoing process; we are living in it right now.*
 
-— *[Are You Sleeping through the Restoration?](https://www.churchofjesuschrist.org/study/general-conference/2014/04/are-you-sleeping-through-the-restoration?lang=eng&id=p9#p9)*, President Dieter F. Uchtdorf, General Conference April 2014
+— *[Are You Sleeping through the Restoration?](https://www.churchofjesuschrist.org/study/general-conference/2014/04/are-you-sleeping-through-the-restoration?lang=eng&id=p9#p9)*, President Dieter F. Uchtdorf, General Conference April 2014
 
 > *If you live as long as I have, you will come to know that things have a way of resolving themselves. An inspired insight or revelation may shed new light on an issue. Remember, ==the Restoration is not an event, but it continues to unfold==.*
 
@@ -97,6 +97,27 @@ See also:
 - *[The Restoration of the Church of Christ](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-instructors-guide-religion-324-325/the-restoration-of-the-church-of-christ-lesson-9-section-20?lang=eng&id=p1#p1)*, Doctrine and Covenants Instructor’s Guide: Religion 324–325, Lesson 9, Section 20
 
 Or just use search operators on [the whole site](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&query=%22church+has+been+restored%22&page=1). Or look for permutations of "restored" alongside "[fulness](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=restored+%22fulness%22)."
+
+&nbsp;
+
+## Un-restored
+> *Latter-day Saints understood that they were living in the latter days, in what the revelations called the “dispensation of the fulness of times.” Ancient principles—such as prophets, priesthood, and temples—would be restored to the earth. ==Plural marriage was one of those ancient principles==.*
+
+&mdash; *[Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng&id=p6#p6)*, Gospel Topics Essays
+
+Cool, God is restoring an ancient practice. It'd be a real shame if a principle that was divinely commissioned anciently, then divinely restored by a divinely appointed representatives as a divine imperative in order to avoid divine, eternal punishment.
+
+Oh, wait.
+
+> *After receiving ==revelation==, President Wilford Woodruff issued the following Manifesto, which was accepted by the Church as authoritative and binding on October 6, 1890. This led to ==the end of the practice of plural marriage== in the Church.*
+
+&mdash; *[Official Declaration 1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=eng&id=study_intro1#study_intro1)*, churchofjesuschrist.org
+
+So... [[Polygamy]] was a critical part of the restoration of God's original church... and *was* restored... but now... it's been un-restored.
+
+![image](../../img/confused-kdrama.gif){: .size75}
+
+Damn, crazy how the United States [Congress can affect](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=eng&id=p5#p5) God's immutable machinations.
 
 &nbsp;
 

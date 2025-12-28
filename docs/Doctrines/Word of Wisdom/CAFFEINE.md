@@ -12,7 +12,7 @@ comments: true
 
 &nbsp;
 
-As with other people whom I've named in pages of my notes, I intend to criticize ideas rather than individuals. I have reservations against this *Ensign* article, but nothing meaningful to say about Dr. Boud himself. I hope that is clear, even if I wax poetic. He's got a doctorate education and is probably smarter than I am, though I can and will point to motivations behind his conclusion.
+As with other people whom I've named in pages of my notes, I intend to criticize ideas rather than individuals. I have reservations against this *Ensign* article, but nothing meaningful to say about Dr. Boud himself. I hope that is clear even if I wax poetic. He's got a doctorate education and is probably smarter than I am, though I can and will point to motivations behind his conclusion.
 
 &nbsp;
 
@@ -33,7 +33,7 @@ Oh, good heavens, it can *kill you*? I see he's got a cited source attached to t
 &nbsp;
 
 ### Lethal Dosage
-> See Sarah Kerrigan and Tania Lindsey, “Fatal Caffeine Overdose: Two Case Reports,” _Forensic Science International,_ Oct. 4, 2005, 67–69.
+> See Sarah Kerrigan and Tania Lindsey, “Fatal Caffeine Overdose: Two Case Reports,” *Forensic Science International,* Oct. 4, 2005, 67–69.
 
 &mdash; *[Footnote 7](https://www.churchofjesuschrist.org/study/ensign/2008/12/the-energy-drink-epidemic?lang=eng&id=p3#note7)*, The Energy Drink Epidemic
 
@@ -57,7 +57,7 @@ Rather than settle a conclusion just based on the title of the case report study
 
 Five grams of caffeine is when it becomes problematic? Goodness. That's... wait, hang on... that's going to be around *fifty cups of coffee*. That's... `(8oz * 50 = 400oz) ÷ 128 = 3.125` *three fucking gallons* of coffee before caffeine becomes a considerable risk. The case reports find that an overdose requires an "excess of 5g." After your third gallon, you'd need to *keep slamming them down*.
 
-I think coffee is tasty. It makes my brain go 'woosh'. After reaching my threshold of four to five cups, my brain 'wooshes' too much and prevents me from sleeping deeply, and it makes my tummy feel gross. So what do I do about it? I stop drinking it. I have no desire to down *three gallons of coffee* in a day, and I do not need revelation from God to tell me to stop ingesting a substance after it shows [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns).
+I think coffee is tasty. It makes my brain go 'woosh'. After reaching my threshold of four to five cups, my brain 'wooshes' too much and prevents me from sleeping deeply, and it makes my tummy feel gross. So what do I do about it? I stop drinking coffee before reaching that threshold. I stop at three or four cups. I have no desire to down fifty cups or *three gallons of coffee* in a day, and I do not need revelation from God to tell me to stop ingesting a substance after it shows [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns). I will posit that you don't need it either.
 
 &nbsp;
 
@@ -77,7 +77,7 @@ One case is someone injecting an unspecified drug to her bloodstream intravenous
 
 &nbsp;
 
-Dr. Boud, what are you trying to demonstrate by citing this study??? "Don't drink three gallons of coffee"? Did we really need divine revelation to tell us that?
+Dr. Boud, what are you trying to demonstrate by citing this study??? "Don't drink three gallons of coffee"? Does anyone really need divine revelation to tell us that?
 
 If the Word of Wisdom was meant to help us avoid the [lethal dose](https://en.wikipedia.org/wiki/Lethal_dose) of caffeine (as identified in 2005 by *two case reports*) then don't you think God would have been more clear than "hot drinks"? If 5g of caffeine is the point where it becomes problematic, wouldn't one of the prior fifteen prophets of God be able to identify that? You can also overdose on vitamins ([1](https://www.healthline.com/nutrition/can-you-overdose-on-vitamins), [2](https://www.medicinenet.com/vitamin_toxicity_what_happens_if_you_overdose/article.htm), [3](https://www.healthline.com/health/food-nutrition/is-it-possible-to-have-a-vitamin-c-overdose)), [acetaminophen](https://www.webmd.com/a-to-z-guides/tylenol-acetaminophen-poisoning), nutmeg ([1](https://www.healthline.com/health/high-on-nutmeg), [2](https://nutritionfacts.org/blog/nutmeg-toxicity/)), [capsaicin](https://www.aatbio.com/resources/toxicity-lethality-median-dose-td50-ld50/capsaicin), [sucrose](https://www.aatbio.com/resources/toxicity-lethality-median-dose-td50-ld50/sucrose), and salt ([1](https://pmc.ncbi.nlm.nih.gov/articles/PMC5537768/), [2](https://www.chefsresource.com/how-much-salt-is-lethal/), [3](https://www.sciencedirect.com/science/article/pii/S0099176720300544)). Oddly enough, since many of those things aren't naturally found in "hot drinks," I haven't found any Ensign articles [warning us against spicy peppers](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&page=1&query=%22capsaicin%22&type=web) that could kill you.
 
@@ -94,7 +94,7 @@ Very cool, thanks God 👍
 > 
 > *As caffeine begins to wear off, effects can include rebound headaches, sluggishness, fatigue, light-headedness, and depression. These crash effects often motivate users to increase caffeine consumption, and the cycle repeats.*
 
-&mdash; Heading *[Caffeine Abuse Cycle](https://www.churchofjesuschrist.org/study/ensign/2008/12/the-energy-drink-epidemic?lang=eng&id=figure2_title1-figure2_p2#figure2_title1)*, The Energy Drink Epidemic
+&mdash; Heading *[Caffeine Abuse Cycle](https://www.churchofjesuschrist.org/study/ensign/2008/12/the-energy-drink-epidemic?lang=eng&id=figure2_title1-figure2_p2#figure2_title1)*, The Energy Drink Epidemic; Ensign, 2008 December
 
 I can think of a very manageable solution to this abuse cycle: *don't take high doses of caffeine*. If one finds themselves caught in this cycle, either taper off or take a recovery day. Make some "half-caff" if you must.
 
@@ -111,20 +111,22 @@ It would be dishonest of me to cherry-pick only one source to criticize this art
 
 &nbsp;
 
-Because we live in a capitalistic hellscape, knowledge and information can be kept behind a paywall. So it is with the cited *[New England Journal of Medicine](https://www.nejm.org/)*. In Dr. Boud's Ensign article, he cites two studies from the NEJM which I *could* read via subscription for as little as $180 USD. Not even the full abstract is available to me without paying. Maybe someone smarter than me could explain why scientific studies are performed for the betterment of humankind, and then gatekept away from humankind?
+Well, because we live in a capitalistic hellscape, knowledge and information can be kept behind a paywall. So it is with the cited *[New England Journal of Medicine](https://www.nejm.org/)*. In Dr. Boud's Ensign article, he cites two studies from the NEJM which I *could* read via subscription for as little as $180 USD. Not even the full abstract is available to me without paying. Maybe someone smarter than me could explain why scientific studies are performed for the betterment of humankind, and then gatekept away from humankind?
 
-As much as I would like to examine these studies, I'm not willing to drop $180 to find out if I could outwit a cited [medical doctor](https://profiles.stanford.edu/david-stevenson?tab=bio) who is board certified in *neonatal-perinatal medicine* and his commentary *[On the Caffeination of Prematurity](https://www.nejm.org/doi/full/10.1056/NEJMe078200)* ([archive](https://web.archive.org/web/20141225004442/https://www.nejm.org/doi/full/10.1056/NEJMe078200)). I just don't think that would end well for me, irrespective of publication year. I suppose I can't meaningfully comment on the validity of this source, nor Dr. Boud's claim that caffeine has a detrimental effect on babies' growth. So... don't give a *Red Bull* to your baby, I guess.
+As much as I would like to examine these studies, I'm not willing to drop $180 to find out if I could outwit a cited [medical doctor](https://profiles.stanford.edu/david-stevenson?tab=bio) who is board certified in *neonatal-perinatal medicine* and his commentary *[On the Caffeination of Prematurity](https://www.nejm.org/doi/full/10.1056/NEJMe078200)* ([archive](https://web.archive.org/web/20141225004442/https://www.nejm.org/doi/full/10.1056/NEJMe078200)). I just don't think that would end well for me, irrespective of publication year. I suppose I can't meaningfully comment on the validity of this source, nor Dr. Boud's claim that caffeine has a detrimental effect on babies' growth. It's likely safe to take this claim at face value. So... don't give a *Red Bull* to your baby, I guess.
 
 &nbsp;
 
 Of the cited sources that don't lead me to a paywall is a curious anomaly of citing an Ensign article from 1988, *[Caffeine—The Subtle Addiction](https://www.churchofjesuschrist.org/study/ensign/1988/06/research-and-perspectives/caffeine-the-subtle-addiction?lang=eng)*. That there is a twenty-year gap, and I feel confident that citing a religious magazine for an empirical claim would not bode well in any academic setting. The 1988 article cites more studies performed as early as 1979, excluding a quote from McConkie's 1966 *Mormon Doctrine*.
 
-Today, I'm not sure how badly I want to track down those cited studies for entertainment purposes. I may revisit this later, but I feel satisfied to have gained as much amusement as I can from Dr. Boud's 2008 Ensign article.
+Today, I'm not sure how badly I want to track down those cited studies for entertainment purposes. I may revisit this later, but I feel satisfied to have gained as much amusement as I can from Dr. Boud's 2008 Ensign article. Energy drinks are bad for infants. Who knew?
 
 &nbsp;
 
 ## SODA
-[![Biden yelling "SODA!"](http://img.youtube.com/vi/8w54O_u6ZuI/1.jpg)](https://youtu.be/8w54O_u6ZuI)
+![type:video](https://youtube.com/embed/8w54O_u6ZuI)
+
+[Biden yelling "SODA!"](https://youtu.be/8w54O_u6ZuI)
 
 - *[BYU selling caffeinated soft drinks on campus](https://www.deseret.com/2017/9/21/20620044/byu-selling-caffeinated-soft-drinks-on-campus/)*, Deseret News ([archive](https://web.archive.org/web/20201111231627/https://www.deseret.com/2017/9/21/20620044/byu-selling-caffeinated-soft-drinks-on-campus#tatelyn-ferguson-restocks-caffeinated-soda-at-the-cougar-express-on-the-brigham-young-university-campus-in-provo-on-thursday-sept-21-2017-the-mormon-church-run-college-is-breaking-a-60-year-old-tradition-by-offering-caffeinated-sodas-on-campus))
 - *['A historic day:' BYU sells caffeinated soda for 1st time since 1950s](https://www.ksl.com/article/45883814/a-historic-day-byu-sells-caffeinated-soda-for-1st-time-since-1950s)*, KSL ([archive](https://web.archive.org/web/20210701163633/https://www.ksl.com/article/45883814/a-historic-day-byu-sells-caffeinated-soda-for-1st-time-since-1950s))
@@ -140,4 +142,4 @@ Today, I'm not sure how badly I want to track down those cited studies for enter
 
 Look... There's nine independent sources all marveling over an accredited university's decision to allow their students to consume caffeine. What implications does this carry? Why would the world get excited over this? Why did the university ban this soft drink additive for sixty years? It being banned "[in the mid-1950's](https://news.byu.edu/news/dining-services-q-caffeinated-soft-drinks-announcement)" is as specific of information as I've been able to find. I think this is a prime example of how [[Doctrine#Policy vs Doctrine|policy, doctrine]] and [[Culture|culture]] intersect. It used to be allowed, but was explicitly forbidden. 
 
-No, I'm not suggesting that "the director of BYU Food Services" is a prophet, and this arbitration was divinely inspired. However, I am absolutely making the case that how a doctrine is implemented or understood is an important factor. This would not have happened if the Word of Wisdom was specific and clear, yet it's vague enough for "hot drinks" to include an icy Mountain Dew. I defy you to identify some other scenario where those two would be counted as equal, or even comparable.
+No, I'm not suggesting that "the director of BYU Food Services" is a prophet, and this arbitration was divinely inspired. However, I am *absolutely* making the case that how a doctrine is implemented or understood is an important factor. *This would not have happened* if the Word of Wisdom was specific and clear, yet it's vague enough for "hot drinks" to include an icy Mountain Dew. I defy you to identify some other scenario where those two would be counted as equal, or even comparable.

@@ -23,7 +23,7 @@ This sounds like we’re being discouraged from exploring outside the beaten pat
 ## Doubt Your Doubts
 > *My dear friends—please, first ==doubt your doubts before you doubt your faith==. We must never allow doubt to hold us prisoner and keep us from the divine love, peace, and gifts that come through faith in the Lord Jesus Christ.*
 
-— *[Dieter F. Uchtdorf, “Come, Join with Us,” Ensign or Liahona, Nov. 2013](https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-morning-session/come-join-with-us?lang=eng&id=p48#p48)*
+— *[Dieter F. Uchtdorf, “Come, Join with Us,” Ensign or Liahona, Nov. 2013](https://www.churchofjesuschrist.org/study/liahona/2013/11/saturday-morning-session/come-join-with-us?lang=eng&id=p48#p48)*
 
 I really take issue with this.
 
@@ -70,7 +70,7 @@ This isn’t directly related, but appeals to sensibilities and rhetoric is how 
 
 > *. . . What may seem contradictory now may be perfectly understandable as we search for and receive more trustworthy information.*
   
-— *[What Is Truth?](https://speeches.byu.edu/talks/dieter-f-uchtdorf/what-is-truth/)*, Dieter F. Uchtdorf, CES Devotional, Jan. 13, 2013
+— *[What Is Truth?](https://speeches.byu.edu/talks/dieter-f-uchtdorf/what-is-truth/)*, Dieter F. Uchtdorf, CES Devotional, Jan. 13, 2013
 
 That sounds about right. It’s not really a defense, but advice to let the info settle before jumping to a conclusion. Dallin H Oaks did not do this before defending the salamander letters.
 
@@ -81,7 +81,7 @@ Speaking of Oaks…
 ## As He Thinketh in His Heart
 > *When we begin by measuring modern practices and proposals against what we know of God’s plan and the premises given in the word of God and the teachings of His living prophets, . . . we know that this puts us on safe ground eternally.*
 
-— *[As He Thinketh in His Heart]()*, Dallin H. Oaks, evening with Elder Dallin H. Oaks, Feb. 8, 2013
+— *[As He Thinketh in His Heart]()*, Dallin H. Oaks, evening with Elder Dallin H. Oaks, Feb. 8, 2013
 
 What is he trying to say? Reject modernity because God is ancient and eternal? Appeal to ancient wisdom or tradition?
 
@@ -113,7 +113,7 @@ It sounds awfully reminiscent of Uchtdorf’s good advice to not jump to a concl
 ## Joseph Smith
 > *We might remind the sincere inquirer that Internet information does not have a ‘truth’ filter. Some information, no matter how convincing, is simply not true.*
 
-— *[Joseph Smith](https://www.churchofjesuschrist.org/study/liahona/2014/11/saturday-afternoon-session/joseph-smith?lang=eng&id=p18#p18)*, Neil L Andersen Ensign or Liahona, Nov. 2014
+— *[Joseph Smith](https://www.churchofjesuschrist.org/study/liahona/2014/11/saturday-afternoon-session/joseph-smith?lang=eng&id=p18#p18)*, Neil L Andersen Ensign or Liahona, Nov. 2014
 
 Yeah, we might.
 
@@ -124,7 +124,7 @@ Indeed disinformation exists. Does it only exist outside of LDS teachings, or ca
 ## A Pattern for Learning Spiritual Things
 > *Answers to spiritual questions are given to individuals who don’t harden their hearts; who ask in faith, believing they will receive; and who diligently keep the commandments.*
 
-— *[A Pattern for Learning Spiritual Things](https://rsc.byu.edu/vol-14-no-3-2013/pattern-learning-spiritual-things)*, Paul V. Johnson, CES address to religious educators, Aug. 7, 2012
+— *[A Pattern for Learning Spiritual Things](https://rsc.byu.edu/vol-14-no-3-2013/pattern-learning-spiritual-things)*, Paul V. Johnson, CES address to religious educators, Aug. 7, 2012
 
 See mentions of cognitive biases. Promising answers only to people “receptive” to them sounds like you already have a conclusion in mind, and will interpret any sign as confirmation of that conclusion. Diligently keeping the commandments shouldn’t be a prerequisite for understanding them. That is a very cult-like mentality. Just obey without question, and it will eventually make sense.
 
@@ -133,7 +133,7 @@ See mentions of cognitive biases. Promising answers only to people “receptive�
 ## All Hell is Moved
 > *Studying the Church … through the eyes of its defectors [is] like interviewing Judas to understand Jesus.* 
 
-— [All Hell Is Moved](https://speeches.byu.edu/talks/neal-a-maxwell/hell-moved/), Neal A. Maxwell, BYU Devotional, Nov. 8, 1977
+— [All Hell Is Moved](https://speeches.byu.edu/talks/neal-a-maxwell/hell-moved/), Neal A. Maxwell, BYU Devotional, Nov. 8, 1977
 
 See the link for the full text and expanded ellipsis.
 

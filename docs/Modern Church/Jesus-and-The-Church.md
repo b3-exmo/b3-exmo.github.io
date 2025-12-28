@@ -2,11 +2,11 @@
 comments: true
 ---
 # 🧔 Jesus and The Church
-> *As I visit with members across the Church, I sometimes hear things like ==“I don’t support the Church’s policy on (you fill in the blank).”== Or “I don’t agree with the way the Church does (this or that).”*
+> *As I visit with members across the Church, I sometimes hear things like ==“I don’t support the Church’s policy on (you fill in the blank).”== Or “I don’t agree with the way the Church does (this or that).”*
 > 
-> *Could I suggest an alternative approach? ==Substitute the word Savior or Lord or Jesus Christ in place of “the Church”==—as in “I don’t support the Savior’s policy on (again, you fill in the blank)” or “I don’t agree with the way Jesus Christ does (this or that).”*
+> *Could I suggest an alternative approach? ==Substitute the word Savior or Lord or Jesus Christ in place of “the Church”==—as in “I don’t support the Savior’s policy on (again, you fill in the blank)” or “I don’t agree with the way Jesus Christ does (this or that).”*
 > 
-> *For me personally, that seems to put a very different perspective on things.*
+> *For me personally, that seems to put a very different perspective on things.*
 
 — [Why a Church?](https://speeches.byu.edu/talks/kevin-s-hamilton/why-a-church/), Elder Kevin Hamilton, General Authority Seventy, BYU Speech January 24, 2023
 

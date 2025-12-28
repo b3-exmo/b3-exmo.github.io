@@ -72,9 +72,9 @@ Qualifying that "not every statement made by a church leader" is doctrinal also 
 &nbsp;
 
 ## Handbook
-> *The bishop counsels with the stake president if he feels that a member’s action may constitute apostasy. ... As used here,* apostasy *refers to a member engaging in any of the following:* 
+> *The bishop counsels with the stake president if he feels that a member’s action may constitute apostasy. ... As used here,* apostasy *refers to a member engaging in any of the following:* 
 > 
-> - *Repeatedly acting in clear and deliberate ==public opposition to the Church, its doctrine, its policies, or its leaders==.*
+> - *Repeatedly acting in clear and deliberate ==public opposition to the Church, its doctrine, its policies, or its leaders==.*
 > - *Persisting in teaching as Church doctrine what is not Church doctrine after being corrected by the bishop or stake president*
 > - ...
 

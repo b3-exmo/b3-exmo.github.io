@@ -9,7 +9,7 @@ The apostle Paul was pretty sure that Jesus was coming back any minute now... ba
 ## Old Testament
 > ... *The new birth is mentioned in the Bible nine times; baptism is mentioned 52 times, repentance is mentioned 89, but ==the second coming of Christ is mentioned over 1,500 times in the Old Testament== and 300 times in the New Testament. If God thought this subject that important, he must have wanted us to do something about it[.]”*
 
-— Quote attributed to *Sterling W. Sill, in Conference Report, Apr. 1966, 19*; copied from *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p22#p22), Doctrines of the Gospel Student Manual*
+— Quote attributed to *Sterling W. Sill, in Conference Report, Apr. 1966, 19*; copied from *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p22#p22), Doctrines of the Gospel Student Manual*
 
 I am so baffled as to why Old Testament prophets were advised *at all* of Jesus' second coming, when at that age, Jesus hadn't arrived for the first time yet. Jesus' prophesied birth would be well outside the lifespan of anyone to hear an Old Testament prophet talk about it. So, let's tell God's followers about the *second* time He'll come by, at a minimum of 2,024 years after the event you won't live to see! How is that relevant to *anyone* in those times? Isn't a prophet meant to communicate God's will to *living* contemporaries? If the value proposition of a prophet is timely guidance, we shouldn't have any Old Testament prophets talking about you and me today. If we did have prophets talking about things outside of our lifespan, that makes modern prophets irrelevant.
 
@@ -100,7 +100,7 @@ Nevermind, we won't settle on a date, but it's *really* going to happen, and it'
 
 > *My dear brothers and sisters, ==in a coming day, Jesus Christ will return to the earth as the millennial Messiah==. So today I call upon you to rededicate your lives to Jesus Christ. I call upon you to help gather scattered Israel and to prepare the world for the Second Coming of the Lord. I call upon you to talk of Christ, testify of Christ, have faith in Christ, and rejoice in Christ!*
 
-— *[The Lord Jesus Christ Will Come Again](https://www.churchofjesuschrist.org/study/general-conference/2024/10/57nelson?lang=eng&id=p_paXFQ#p_paXFQ)*, President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints, General Conference 2024 October
+— *[The Lord Jesus Christ Will Come Again](https://www.churchofjesuschrist.org/study/general-conference/2024/10/57nelson?lang=eng&id=p_paXFQ#p_paXFQ)*, President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints, General Conference 2024 October
 
 &nbsp;
 
@@ -202,7 +202,7 @@ I mean, Jesus did (reportedly) [appear physically on Earth](https://www.churchof
 > 
 > *==1==. Christ will appear at Adam-ondi-Ahman (see [Daniel 7:9–10, 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/7.9-10,13-14?lang=eng#p9); [D&C 116](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/116?lang=eng)).*
 > 
-> *==2==. The Savior will appear to those in the New Jerusalem in America (see [3 Nephi 21:23–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21.23-25?lang=eng#p23); [D&C 45:66–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.66-67?lang=eng#p66)).*
+> *==2==. The Savior will appear to those in the New Jerusalem in America (see [3 Nephi 21:23–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21.23-25?lang=eng#p23); [D&C 45:66–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.66-67?lang=eng#p66)).*
 > 
 > *==3==. The Savior will appear to the Jews in Jerusalem (see [D&C 45:48, 51–53](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.48,51-53?lang=eng#p48); [Zechariah 12:10](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/12.10?lang=eng#p10); [14:2–5](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/14.2-5?lang=eng#p2)).*
 > 

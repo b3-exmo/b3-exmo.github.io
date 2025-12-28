@@ -3,7 +3,7 @@ comments: true
 created: 2025-08-13
 ---
 # 🤼 Contemporaries
-In some accounts of the [[First Vision]], Joseph remarks that nobody believes his story. It's not clear to me how much effort he put into proliferating his experience. If he was met with resistance at every turn, that would diminish his drive to spread the word. I should expect some other folks to record what they heard Joseph say, even if it's with contempt. So what do Joseph's contemporaries have to say about the miraculous appearance?
+In some accounts of the [[First Vision]], Joseph remarks that nobody believes his story. It's not clear to me how much effort he put into proliferating his experience. If he was met with resistance at every turn, that would understandably diminish his drive to spread the word. I should expect some other folks to record what they heard Joseph say, even if it's with contempt. So what do Joseph's contemporaries have to say about the miraculous appearance?
 
 &nbsp;
 
@@ -16,20 +16,30 @@ So... what does his mother have to say about it?
 
 > *Joseph, after repenting of his sins and humbling himself before God ==was visited by an holy Angel whose countenance was as lightning which inspired him from on high==. and gave unto him [power] by the means of which was before prepared, that he should translate this book, and by reading this our eyes are opened that we can see the situation in which the world now stands that the eyes of the whole world are blinded, that the ==churches have all become corrupted==, yea every church upon the face of the earth that the Gospel of Christ is no where preached. ... God seeing our situation had compassion upon us and has sent us this revelation that the stumbling block might be removed, that whosoever would might enter. ==He has now established his church upon the earth as it was in the days of the Apostles==.*
 
-&mdash; [Lucy Mack Smith letter, Waterloo, New York to Solomon Mack, Gilsum, New Hampshire](https://catalog.churchofjesuschrist.org/assets/4dcde908-301a-415a-b49b-6ca7a1a4db38/0/0), 1831 January 6
-
-See page 6 for typescript
+&mdash; [Lucy Mack Smith letter, Waterloo, New York to Solomon Mack, Gilsum, New Hampshire](https://catalog.churchofjesuschrist.org/assets/4dcde908-301a-415a-b49b-6ca7a1a4db38/0/0), 1831 January 6 (See page 6 for typescript)
 
 &nbsp;
 
 You'll notice that 1831 is right before Joseph wrote down about his experience with his own scribeless hands, no less. The context for this letter, as I see it, is Lucy testifying to her brother Solomon Mack about the forthcoming of the Book of Mormon.
 
-I can concede that Joseph report numerous angelic visitations, even some surrounding the process of obtaining the Book of Mormon's source material. I don't recall the [[The Plates#Was it Moroni, or Nephi?|angel Nephi and/or Moroni]] granting Joseph power to translate, nor that the book proves that the world is in apostasy, all churches are corrupt, and that Christ's gospel will be restored. Those events sound like what Joseph said were part of (some accounts of) the First Vision. ... I would think that if Joseph told Lucy that he had seen God, Lucy might mention that? It really looks to me like she's talking about the First Vision, but associating that with an unnamed angelic visitor rather than, you know, God.
+I can concede that Joseph report numerous angelic visitations, even some surrounding the process of obtaining the Book of Mormon's source material. I don't recall the [[The Plates#Was it Moroni, or Nephi?|angel Nephi and/or Moroni]] granting Joseph power to translate, nor that the book proves that the world is in apostasy, all churches are corrupt, and that Christ's gospel will be restored. Those events sound like what Joseph said were part of (some accounts of) the First Vision. ... I would think that if Joseph told Lucy that he had seen God, Lucy might mention that? It really looks to me like she's talking about the First Vision, but associating that with an unnamed angelic visitor rather than, you know, *God*.
+
+&nbsp;
+
+Conveniently, we do have a contemporary account of what Joseph told Lucy.
+
+> *And as I leaned up to the fireplace, mother inquired what the matter was. I replied, “Never mind, all is well—I am well enough off.” I then said to my mother, “I have learned for myself that Presbyterianism is not true.”*
+
+&mdash; [Joseph Smith—History 1:20](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p20#p20)
+
+![[oh-you-dean.gif]]{: .center .size75}
+
+Oh, you silly goose, Joseph. Just saw God, but you're being a cheeky little goober and just saying "mom, *your* church is full of beans. How do I know? *I'll never tell* 🤭"
 
 &nbsp;
 
 ### Early Church Leaders
-Something that really should be evident as you read these quotes is that not one of them describe how, you know, God and Jesus *both physically appeared* to Joseph which incited the restoration of the gospel. You'd think that would be a detail they don't want to omit, but here we are.
+Something that really should be evident as you read these following quotes is that not one of them describe how, you know, God and Jesus *both physically appeared* to Joseph which incited the restoration of the gospel. You'd think that would be a detail they don't want to omit, but here we are.
 
 &nbsp;
 
@@ -37,11 +47,7 @@ Something that really should be evident as you read these quotes is that not one
 
 — Brigham Young, 1855; [Journal of Discourses 2:171](https://scriptures.byu.edu/#:t4e3f:j02c)
 
-&nbsp;
-
-> *Do you suppose that God in person called upon Joseph Smith, our Prophet? God called upon him; but ==God did not come himself and call, but he sent Peter== to do it. Do you not see? He sent Peter and sent Moroni to Joseph, and told him that he had got the plates. ==Did God come himself? No==: he sent Moroni and told him there was a record, and says he, “That record is matter that pertains to the Lamanites, and it tells when their fathers came out of Jerusalem, and how they came, and all about it;”*
-
-— Heber C. Kimball, 1857; [Journal of Discourses 6:29](https://scriptures.byu.edu/#:tea64:j06)
+To be clear, Brigham seems to be saying that the theophany was not grand and glorious. Sounds like God didn't personally appear, but had sent an unidentified angel as a messenger instead.
 
 &nbsp;
 
@@ -104,6 +110,8 @@ The earliest point that I can find of the LDS church publishing a commentary on 
 - [Church History Catalog](https://catalog.churchofjesuschrist.org/assets/af8e45bb-cf4a-43f4-8fb8-18a2f094d283/0/0?lang=eng); churchofjesuschrist.org
 - [Scripture Central](https://scripturecentral.org/archive/periodicals/magazine-article/eight-contemporary-accounts-joseph-smiths-first-vision-what-do-we-learn-them); ([direct link to PDF](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/allen/2020-02-05/ie_73.4._james_b._allen_eight_contemporary_accounts_of_joseph_smiths_first_vision_april_1970.pdf))
 - [archive.org](https://archive.org/details/improvementera7304unse)
+
+At the risk of sounding like a miserable grump, I'll observe that issues of the magazine *[Improvement Era](featured-collections/church-magazines-and-newspapers?lang=eng)* are not found under the church's *[Magazines Library](https://www.churchofjesuschrist.org/study/magazines?lang=eng)*; those only go back to 1971. You want something from a year prior? You gotta rummage through the *[church history catalog](https://catalog.churchofjesuschrist.org/record/8874b4ef-68c7-458a-ba5a-787a7b08ec8e/0?view=browse&lang=eng)* and just hope that they haven't moved things around in there.
 
 &nbsp;
 
@@ -210,7 +218,7 @@ The "Mormonism" factors in "the most comprehensive of all" are absent:
 1. Two distinct personages
 2. The Gospel will be restored
 
-Every other row in that table in ancillary.
+Every other row in that table is ancillary.
 
 &nbsp;
 

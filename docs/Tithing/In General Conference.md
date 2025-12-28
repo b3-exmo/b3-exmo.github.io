@@ -66,7 +66,7 @@ Yet somehow, even though it wasn’t strictly a commandment in any of the three 
 
 > _One day during those difficult times, I heard my parents discussing whether they should pay tithing or buy food for the children. On Sunday, I followed my father to see what he was going to do. After our Church meetings, I saw him take an envelope and put his tithing in it. That was only part of the lesson. The question that remained for me was what we were going to eat._
 
-[The Language of the Gospel](https://www.churchofjesuschrist.org/study/general-conference/2017/04/the-language-of-the-gospel?lang=eng&id=p21-p22#p21), Elder Valeri V. Cordón of the Seventy, General Conference April 2017
+[The Language of the Gospel](https://www.churchofjesuschrist.org/study/general-conference/2017/04/the-language-of-the-gospel?lang=eng&id=p21-p22#p21), Elder Valeri V. Cordón of the Seventy, General Conference April 2017
 
 Tell me how to make sense of this. _It feels dishonest_. It feels manipulative. This passage explicitly states that members should put the organization first, pay money before handling your own biological needs. Yet proponents of the church will still be baffled as to why outsiders see the LDS church as a cult.
 
@@ -79,7 +79,7 @@ Tell me how to make sense of this. _It feels dishonest_. It feels manipulative. 
 >
 >*The Lord clearly directed how tithing should be disbursed, saying, “Bring ye all the tithes into the storehouse,” meaning bring the tithes into His restored kingdom, The Church of Jesus Christ of Latter-day Saints. He directed that the use of these sacred tithes would be prayerfully considered by a council of the First Presidency, the Quorum of the Twelve Apostles, the Presiding Bishopric, “and by mine own voice unto them, saith the Lord.”*
 
-[Tithing: Opening the Windows of Heaven](https://www.churchofjesuschrist.org/study/general-conference/2023/10/22andersen?lang=eng&id=p40-p18#p40), Elder Neil L. Andersen, General Conference October 2023
+[Tithing: Opening the Windows of Heaven](https://www.churchofjesuschrist.org/study/general-conference/2023/10/22andersen?lang=eng&id=p40-p18#p40), Elder Neil L. Andersen, General Conference October 2023
 
 Blessings of heaven, you say? As opposed to what, blessings of Minnesota? That sounds so incredibly vague. I'm being asked to pay an organization a portion of my money, which money is quantifiable, tangible, useful, in exchange for... Something. Maybe it'll be just health. Maybe you didn't get in a car collision. [[Falsifiability|You'll never really know]].
 

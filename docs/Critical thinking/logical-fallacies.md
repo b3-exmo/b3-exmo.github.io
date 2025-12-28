@@ -26,11 +26,11 @@ If, however, I am looking for an ant in my backyard and I find no evidence of on
 &nbsp;
 
 ### Ad Hominem
-Criticizing a person making the argument rather than the argument itself. 
+Criticizing a person making the argument rather than the argument itself. 
 
 "[We can't trust anything D Michael Quinn says](https://www.fairlatterdaysaints.org/answers/Criticism_of_Mormonism/Books/One_Nation_Under_Gods/Use_of_sources/Boyd_K._Packer_on_the_truth#cite_ref-2) because he got excommunicated! Also he was gay all along."
 
-"Because John is a former Mormon, an apostate from the LDS Church, his argument against the Book of Abraham cannot be considered valid."
+"Because John is a former Mormon, an apostate from the LDS Church, his argument against the Book of Abraham cannot be considered valid."
 
 See also: [[#No true Scottsman|No true Scottsman]]
 
@@ -45,7 +45,7 @@ _"So many people, including the pioneers, must have known it were true or they w
 
 _Most people believe in God, are they really all wrong?_
 
-Just because a lot of people share the same view does not guarantee that the view they share is correct.
+Just because a lot of people share the same view does not guarantee that the view they share is correct.
 
 This one is kinda silly but I still see it all the time. You can always turn it around by pointing out that most people on earth don't believe in their religion (there is no religion with more than 50% of the world’s population)
 
@@ -121,9 +121,9 @@ The desirability or undesirability of the consequences of a claim are not eviden
 &nbsp;
 
 ### Appeal to Pity
-Attempting to sway the audience by using emotional tactics to gain sympathy. 
+Attempting to sway the audience by using emotional tactics to gain sympathy. 
 
-Ex: “Since Mormons have been persecuted throughout the years, this faith must be true or otherwise these people wouldn’t have been attacked.”
+Ex: “Since Mormons have been persecuted throughout the years, this faith must be true or otherwise these people wouldn’t have been attacked.”
 
 It is true that some Mormons have been persecuted over the past two centuries. However, even if it’s true that Mormons have been unduly persecuted, this does not validate Mormonism’s truth claims. If so, would the Mormon consider biblical Christianity to be true merely because Christians around the world are persecuted on a daily basis for _their_ faith?
 
@@ -146,7 +146,7 @@ Is it impossible for Nephi to have [[Seafaring|built a transoceanic ship]] in ~5
 Believing a view is correct because of its popularity. 
 *“Since Mormonism is one of the fastest growing religions, there must be some truth to it.”*
 
-Even if it were true that Mormonism is “one of the fastest growing religions,” this does not necessarily mean it’s true. Spiritual truth is not determined by popularity or growth in numbers.
+Even if it were true that Mormonism is “one of the fastest growing religions,” this does not necessarily mean it’s true. Spiritual truth is not determined by popularity or growth in numbers.
 
 Closely related to Appeal to Popularity.
 
@@ -189,7 +189,7 @@ But how do you know the book of Mormon is telling you the truth?
 
 *"Why would Joseph Smith die for the Church if he didn't know it were true?"*
 
-Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.
+Many people confuse correlation (things happening together or in sequence) for causation (that one thing actually causes the other to happen). Sometimes correlation is coincidental, or it may be attributable to a common cause.
 
 Joseph Smith didn't offer up his life for the church. He went to jail for a variety of factors, including sexual misconduct (with both minors and married women), polygamy, polyandry, fraud, forming a militia, and likely others that aren't coming to mind presently. When faced with the inability to deal with Smith legally, civil unrest grew to mob rule- not satisfied to know that he would actually face justice after a prison sentence, they broke it and killed him.
 
@@ -202,9 +202,9 @@ Moreover, Smith had used a smuggled firearm to shoot at the mob to defend himsel
 ### False Dilemma
 **Also called False Dichotomy**
 
-Claiming that “either” proposition A or B is true when a third option is possible. 
+Claiming that “either” proposition A or B is true when a third option is possible. 
 
-*“If the Mormon Church isn’t true, then nothing is.”*
+*“If the Mormon Church isn’t true, then nothing is.”*
 
 *If you’re wrong about God then you’re going to suffer in hell.*
 
@@ -248,11 +248,11 @@ Other example would be trusting one's preferred politician to know about microbi
 &nbsp;
 
 ### Genetic fallacy
-Rejecting an idea based on its origin rather than on its merit. 
+Rejecting an idea based on its origin rather than on its merit. 
 
 *“I found this video critical of Mormonism on a website that is not sponsored by the church, so its claims must be wrong.”*
 
-Rather than disparaging the source of the information, the argument itself should be the focal point of the disagreement. Someone you don't like can be correct.
+Rather than disparaging the source of the information, the argument itself should be the focal point of the disagreement. Someone you don't like can be correct.
 
 &nbsp;
 
@@ -281,16 +281,16 @@ Because something is difficult to understand, it must be untrue.
 
 *“The doctrine of the Trinity is complicated and can’t be comprehended. This proves it can’t be true.”*
 
-Trying to harmonize all the verses in the Bible that speak about God certainly involves in-depth study. But just because an explanation of something is not always simple does not make the premise false. There are many mysteries in Mormonism that also can’t be understood, including determining the reality of an infinite regression of the gods (determining just who the first God is).
+Trying to harmonize all the verses in the Bible that speak about God certainly involves in-depth study. But just because an explanation of something is not always simple does not make the premise false. There are many mysteries in Mormonism that also can’t be understood, including determining the reality of an infinite regression of the gods (determining just who the first God is).
 
 &nbsp;
 
 ### Red herring
-Diverting the topic at hand by introducing another topic. 
+Diverting the topic at hand by introducing another topic. 
 
-*After having a Christian share about salvation by grace through faith outside the grounds of Temple Square, a Mormon responds, “Do you share your faith at Muslim mosques or Buddhist temples? If not, why don’t you go to those places instead of targeting Latter-day Saints?”*
+*After having a Christian share about salvation by grace through faith outside the grounds of Temple Square, a Mormon responds, “Do you share your faith at Muslim mosques or Buddhist temples? If not, why don’t you go to those places instead of targeting Latter-day Saints?”*
 
-Getting off-topic is a diversionary tactic meant to sideline the conversation. An appropriate reply might be: “I’d be more than happy to talk about that issue, but could we first finish our conversation on salvation by grace through faith?”
+Getting off-topic is a diversionary tactic meant to sideline the conversation. An appropriate reply might be: “I’d be more than happy to talk about that issue, but could we first finish our conversation on salvation by grace through faith?”
 
 &nbsp;
 
@@ -311,11 +311,11 @@ Focusing on all the "hits" and ignoring all the "misses".
 &nbsp;
 
 ### Special Pleading
-Having standards that apply to others, but not oneself, without applying justification for the exemption. 
+Having standards that apply to others, but not oneself, without applying justification for the exemption. 
 
-*“Yes, Doctrine and Covenants 1:31 does say the Lord will not look upon sin with the least degree of allowance, but Heavenly Father loves me, so I’m sure I will be eligible for exaltation.”*
+*“Yes, Doctrine and Covenants 1:31 does say the Lord will not look upon sin with the least degree of allowance, but Heavenly Father loves me, so I’m sure I will be eligible for exaltation.”*
 
-Even though LDS scripture insists that no sin will be acceptable to God, those using this argument feel that they are somehow exempt from any penalty for their sin.
+Even though LDS scripture insists that no sin will be acceptable to God, those using this argument feel that they are somehow exempt from any penalty for their sin.
 
 This can happen between sects of Christianity, trying to make a case for their congregation. Every faith adherent has spiritual experiences, they will nearly always invoke a special pleading fallacy to try and claim theirs is special and different.
 
@@ -324,7 +324,7 @@ This can happen between sects of Christianity, trying to make a case for their c
 &nbsp;
 
 ### Strawman Fallacy
-Making a particular position look weak by misrepresenting the argument. 
+Making a particular position look weak by misrepresenting the argument. 
 
 _"The Big Bang claims the universe came from nothing!"_
 
@@ -332,7 +332,7 @@ _"People leave the church over inconsistencies or little faults of people in its
 
 *According to History of the Church 6:476, Joseph Smith said the following: “Many men say there is one God; the Father, the Son and the Holy Ghost are only one God! I say that is a strange God anyhow—three in one, and one in three! It is a curious organization. . . . All are to be crammed into one God, according to sectarianism. It would make the biggest God in all the world. He would be a wonderfully big God—he would be a giant or a monster.”*
 
-Smith gives an inaccurate analysis of what the Trinity teaches, making it easy to dismiss a God as described here. This version is certainly not an argument anyone would want to believe or defend.
+Smith gives an inaccurate analysis of what the Trinity teaches, making it easy to dismiss a God as described here. This version is certainly not an argument anyone would want to believe or defend.
 
 We have all experienced a misrepresentation of what we said or believe, and it’s important to call out this fallacy. This is probably the most common fallacy of all time.
 
@@ -346,9 +346,9 @@ Can also be called "two wrongs don't make a right" fallacy.
 
 An attempt to ignore a criticism by pointing out an inconsistency or hypocrisy on the part of the critic. 
 
-*“Yes, it is true that several of our past leaders made remarks that certainly sound racist. But have you never exhibited behavior that might make you appear to be prejudiced or bigoted? Besides, many people during that time period had similar views.”*
+*“Yes, it is true that several of our past leaders made remarks that certainly sound racist. But have you never exhibited behavior that might make you appear to be prejudiced or bigoted? Besides, many people during that time period had similar views.”*
 
-Instead of explaining the racist comments made by past LDS leaders, it avoids the criticism by pointing out the possible hypocrisy of the person asking the question.
+Instead of explaining the racist comments made by past LDS leaders, it avoids the criticism by pointing out the possible hypocrisy of the person asking the question.
 
 &nbsp;
 

@@ -60,6 +60,8 @@ plugins:
   - search
   - roamlinks
   - open-in-new-tab
+  - mkdocs-video
+  - section-index
   - timetoread:
       wpm: 225
 
@@ -78,7 +80,7 @@ nav:
     # - 🌄 Historicity: Christianity/Historicity.md
     - 👻 Holy Spirit's Promptings: Christianity/Holy Spirit Promptings.md
     - 😈 Satan: Christianity/Satan.md
-    - 😈 Satan's Origins: Christianity/Satan-origins.md
+    - 👹 Satan's Origins: Christianity/Satan-origins.md
     - 😱 Satanic Panic: Christianity/Satanic-panic.md
     - 🥈 Second Coming: Christianity/Second Coming.md
     - 🌩 Theology: Christianity/Theology.md
@@ -181,7 +183,7 @@ nav:
       - ⚓ Seafaring: Scripture/Book of Mormon/Seafaring.md
       - 🤖 Technology: Scripture/Book of Mormon/Technology.md
       - 🍽 The Plates: Scripture/Book of Mormon/The Plates.md
-      - 👅 Book of Mormon Translation: Scripture/Book of Mormon/Translation.md
+      - 👅 Translation: Scripture/Book of Mormon/Translation.md
     - 📜 Book of Abraham: Scripture/Book of Abraham.md
   - 💵 Tithing:
     - Tithing/Tithing.md

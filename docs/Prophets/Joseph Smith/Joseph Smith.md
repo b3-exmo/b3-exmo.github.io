@@ -36,11 +36,11 @@ I did find a [list of women who have participated](https://www.churchhistoriansp
 ### Joseph Jr's Upbringing
 What I find more fascinating about Lucy is her account of Joseph Jr's upbringing.
 
-Lucy tells that Joseph had a great interest in the “ancient inhabitants” of this continent and that before he “translated” the Book of Mormon he used to entertain the family with stories about them:
+Lucy tells that Joseph had a great interest in the “ancient inhabitants” of this continent and that before he “translated” the Book of Mormon he used to entertain the family with stories about them:
 
 > _“He would describe … their dress, mode of traveling, and the animals upon which they rode; their cities, their buildings, with every particular; their mode of warfare; and also their religious worship. This he would do with ease, seemingly, as if he had spent his whole life among them”_
 
-— History of Joseph Smith by His Mother, 1954 ed., p. 83; copied from [http://www.utlm.org/onlinebooks/changech5b.htm](http://www.utlm.org/onlinebooks/changech5b.htm)
+— History of Joseph Smith by His Mother, 1954 ed., p. 83; copied from [http://www.utlm.org/onlinebooks/changech5b.htm](http://www.utlm.org/onlinebooks/changech5b.htm)
 
 This source is particularly noteworthy because it is only obtainable by Deseret Book, owned by the church itself. That in itself lends credibility to it- LDS church wouldn’t perpetuate bad history, would it? What further lends to that credibility is its use as a source in [Sunday School manuals](https://www.churchofjesuschrist.org/manual/the-pearl-of-great-price-student-manual/joseph-smith-history?lang=eng).
 

@@ -4,7 +4,7 @@ comments: true
 # 😳 Impossible Gospel
 This presentation of ideas isn't wholly original, but I have yet to find where it actually came from. I first encountered it [presented by a fellow named Keith Walker](https://youtu.be/NzdIgOO4Pp8) on YouTube. I'm going to try to relate the idea here by text.
 
-The gospel as presented in LDS scripture is not what mainstream Christianity teaches. The Mormon version is pretty much hopeless, *impossible* even. Much like how the LDS church teaches that [[Gods Conditional Love|God's love is conditional]], I will attempt to demonstrate that Jesus Christ's Atonement is *also* conditional as presented in the [[Book of Mormon]].
+The gospel as presented in LDS scripture is not what mainstream Christianity teaches. The Mormon version is pretty much hopeless, *impossible* even. Much like how the LDS church teaches that [[Gods Conditional Love|God's love is conditional]], I will attempt to demonstrate that Jesus Christ's Atonement is *also* conditional as it is presented in the [[Book of Mormon]].
 
 &nbsp;
 
@@ -126,11 +126,11 @@ I think we ought to be able to agree that forsaking sins means that you've aband
 
 So... another pointed question to the reader:
 
-Can you describe a sin that you have fully forsaken? I do not need details, I am not the one determining your eternal fate. Yes or no is a valid response.
+Can you describe a sin that you have fully forsaken? I do not need details, I am not the one determining your eternal fate. Yes or no are valid responses.
 
 But if you've felt that you had sinned about practice X, Y, or Z, now ask yourself if you have ==***forsaken***== that practice to the extent that you don't even think about doing it anymore. Again, I don't need details.
 
-If you can identify something that you still have to exert some willpower to abstain from, then you have not fully forsaken that practice. And if you have not fully forsaken it, you have not repented. And if you have not repented, you have not done even the bare minimum qualification for "all \[you\] can do," and so Christ's grace will not cover you.
+If you can identify something that you *still have to exert some willpower* to abstain from, then you have not fully forsaken that practice. And if you have not fully forsaken it, you have not repented. And if you have not repented, you have not done even the bare minimum qualification for "all \[you\] can do," and so Christ's grace will not cover you.
 
 &nbsp;
 
@@ -149,14 +149,14 @@ A) handle all of your sinful shortcomings *yourself* before Jesus will think abo
 
 B) become wholly subjected to the devil. 
 
-This doctrine teaches that you must be perfect and sinless in order to be forgiven of sins through Christ's atonement. You have to *atone for it yourself* before Jesus is a relevant factor. As the above scripture observes, "this is the final state of the wicked." That's pretty definitive, and you're on your own to sort through it.
+This doctrine teaches that you must be perfect and sinless in order to be forgiven of sins through Christ's atonement. What's that? You expected to be *made* perfect and sinless by relying on the atonement? Seems to me that the [[Book of Mormon#Correctness|most correct book]] tells us that you have to *atone for sins yourself* before Jesus is even a relevant factor. As the above scripture observes, "this is the final state of the wicked." That's pretty definitive, and you're on your own to sort through it.
 
 &nbsp;
 
 ### Perfection
 So, what, we're expected to just *live perfectly*?
 
-![[nodding-nicholson.gif]]{: .center .size40}
+![[nodding-nicholson.gif]]{: .center .size75}
 
 &nbsp;
 
@@ -170,7 +170,7 @@ The Book of Mormon teaches that you can't rely on Jesus' atonement to overcome s
 
 &nbsp;
 
-I'll acknowledge that I'm "preaching" with air quotes from a book that I don't believe in, but that's part of why I feel it's important. People *believe this*, perhaps presented in a less harsh manner, but much of Christianity accepts that Jesus' atonement is sufficient for you, for me, for anyone's sins. In comes Mormonism, wagging their finger to assert "nu-uh! Jesus appeared [[First Vision#1832|in 1820 or maybe 1832]], and said you have to earn it! You gotta *qualify* for forgiveness!"
+I'll acknowledge that I'm "preaching" with air quotes from a book that I don't believe in, but that's part of why I feel it's important. People *believe this*, though perhaps presented in a less harsh manner. Much of Christianity accepts that Jesus' atonement is sufficient for you, for me, for anyone's sins. In comes Mormonism, wagging their finger to assert "nu-uh! Jesus appeared [[First Vision#1832|in 1820 or maybe 1832]], and said *you have to earn* it! You gotta *qualify* for forgiveness!"
 
 And then they complain when mainstream Christianity tries to distance itself from the weird Utah people.
 

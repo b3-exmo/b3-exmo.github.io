@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🎓 Education
-> For centuries, the strategy of ==downplaying a person’s education in order to accentuate the miraculous nature== of his or her accomplishments was a common hagiographical trope in religious discourse.
+> *For centuries, the strategy of ==downplaying a person’s education in order to accentuate the miraculous nature== of his or her accomplishments was a common hagiographical trope in religious discourse.*
 
 — Davis, W. (2016). Performing Revelation: Joseph Smith and the Creation of The Book of Mormon. _UCLA_. ProQuest ID: Davis_ucla_0031D_15088. Merritt ID: ark:/13030/m5pp3tph. Retrieved from [https://escholarship.org/uc/item/86h814zv](https://escholarship.org/uc/item/86h814zv). Accessed 06 June 2024.
 
@@ -13,9 +13,9 @@ comments: true
 ## Can't even write!
 The mainstream Mormonism idea that Joseph was of lower intelligence originated with Emma in an interview with her son, Joseph Smith III.
 
-> Q. Could not [Joseph] have dictated the Book of Mormon to you, Oliver Cowdery and the others who wrote for him, after having first written it, or having first read it out of some book?
-
-> A. Joseph Smith . . . could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon.
+> *Q. Could not [Joseph] have dictated the Book of Mormon to you, Oliver Cowdery and the others who wrote for him, after having first written it, or having first read it out of some book?*
+> 
+> *A. Joseph Smith . . . could neither write nor dictate a coherent and well-worded letter, let alone dictate a book like the Book of Mormon.*
 
 — *[Last Testimony of Sister Emma](https://catalog.churchofjesuschrist.org/assets/944ff277-298c-45e2-9005-75e0ae0faf90/0/0?lang=eng)*, Saints Herald Vol. 26, 1 October ==1879==
 
@@ -36,8 +36,8 @@ But, nah, he was practically an illiterate cretin!
 &nbsp;
 
 ## Contemporary accounts
-### Family members
-Joseph Smith Senior "[had earlier been a merchant and a teacher](https://www.churchofjesuschrist.org/study/ensign/1971/07/joseph-smiths-home-environment?lang=eng&id=p15#p15)". How far can we extrapolate from that one statement? I could speculate sales tactics and informal private tutoring, but it's purely speculation. Many years later in 1834, Joseph Senior pronounces a [partiarchal blessing](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1) to Junior, observing that "thou hast sought to know [God's] ways, and from thy childhood thou hast meditated much upon the great things of [His] law."
+### Indirect
+Joseph Smith Senior "[had earlier been a merchant and a teacher](https://www.churchofjesuschrist.org/study/ensign/1971/07/joseph-smiths-home-environment?lang=eng&id=p15#p15)". How far can we extrapolate from that one statement? I could assume sales tactics and informal private tutoring, but it's purely speculation. Many years later in 1834, Joseph Senior pronounces a [partiarchal blessing](https://www.josephsmithpapers.org/paper-summary/blessing-from-joseph-smith-sr-9-december-1834/1) to Junior, observing that "thou hast sought to know [God's] ways, and from thy childhood thou hast meditated much upon the great things of [His] law."
 
 Lucy Mack Smith's mother, Lydia Gates Mack, [was a schoolteacher](https://en.wikipedia.org/wiki/Solomon_Mack#War_and_marriage). Is it reasonable to imagine that educational discipline, even if informal, could pass to Lucy, and on to Joseph Jr? For what it's worth, I did not inherit my father's propensity for chemistry by virtue of blood relation. Given the chance, he probably would impart as much information has he could muster, given his enthusiasm for the topic.
 
@@ -45,28 +45,30 @@ I've encountered claims that Joseph's brother Hyrum had attended one [Moore's In
 
 &nbsp;
 
-### Others
+### Direct
 Does anyone else remember meeting Joseph Jr?
 
 Pomeroy Tucker, a bookseller in Palmyra [writes this about his experience](https://archive.org/details/originriseprogre00tuck/page/n23/mode/2up?q=read+comprehensively) with Joseph Jr:
 
-> Joseph … as he grew in years, had ==learned to read comprehensively==, in which qualification he was ==far in advance of his elder brother, and even of his father==...
+> *Joseph … as he grew in years, had ==learned to read comprehensively==, in which qualification he was ==far in advance of his elder brother, and even of his father==...*
 >
-> . . .
->
-> As he further advanced in reading and knowledge, he assumed a spiritual or religious turn of mind, and ==frequently perused the bible==, becoming quite familiar with portions thereof, both of the Old and New Testaments; selected ==texts from which he quoted and discussed with great assurance== when in the presence of his superstitious acquaintances.
+> *As he further advanced in reading and knowledge, he assumed a spiritual or religious turn of mind, and ==frequently perused the bible==, becoming quite familiar with portions thereof, both of the Old and New Testaments; selected ==texts from which he quoted and discussed with great assurance== when in the presence of his superstitious acquaintances.*
 
 Does a bookseller's opinion on someone's literary potential hold value?
 
-Fast-forwarding to 1880, [President John Taylor reflects](https://scriptures.byu.edu/#:t33463:j21) back on his experiences with Joseph Smith as as adult:
+&nbsp;
 
-> He was ignorant of letters as the world has it, but ==the most profoundly learned and intelligent man that I ever met== in my life, and I have traveled hundreds of thousands of miles, been on different continents and mingled among all classes and creeds of people, yet ==I have never met a man so intelligent as he was==.
+Fast-forwarding to 1880:
+
+> *He was ignorant of letters as the world has it, but ==the most profoundly learned and intelligent man that I ever met== in my life, and I have traveled hundreds of thousands of miles, been on different continents and mingled among all classes and creeds of people, yet ==I have never met a man so intelligent as he was==.*
+
+&mdash; *[John Taylor, How a Knowledge of God is Obtained, Etc.](https://scriptures.byu.edu/#:t33463:j21)*, Journal of Discourses 21:163; See also *[Teacher of God’s Truth](https://history.churchofjesuschrist.org/content/teacher-of-gods-truth?lang=eng)*, Church History, *churchofjesuschrist.org*; See also *[Joseph Smith: Gifted Learner, Master Teacher, Prophetic Seer](https://rsc.byu.edu/joseph-smith-prophet-man/joseph-smith-gifted-learner-master-teacher-prophetic-seer)* by Brian L. Smith, BYU Religious Studies Center
 
 &nbsp;
 
 [William E. McLellin, the teacher of a high school](https://web.archive.org/web/20230620074941/https://www.deseret.com/2009/1/28/20298664/inside-the-lost-mclellin-notebook) Joseph Smith studied under in his adult years, says this:
 
-> ==I was personally and intimately acquainted with Joseph Smith==, the translator of the book, for five years near the beginning of his ministry. He attended my High school during the winter of 1834. He attended my school and learned science all winter. I learned the strength of his mind as the study and principles of science. Hence I think I knew him. And I here say that ==he had one of strongest, well balanced, penetrating, and retentive minds of any with which I ever formed an acquaintance==, among the thousands of my observation. Although when I took him into my school, he was without scientific knowledge or attainments.
+> *==I was personally and intimately acquainted with Joseph Smith==, the translator of the book, for five years near the beginning of his ministry. He attended my High school during the winter of 1834. He attended my school and learned science all winter. I learned the strength of his mind as the study and principles of science. Hence I think I knew him. And I here say that ==he had one of strongest, well balanced, penetrating, and retentive minds of any with which I ever formed an acquaintance==, among the thousands of my observation. Although when I took him into my school, he was without scientific knowledge or attainments.*
 
 &nbsp;
 
@@ -88,7 +90,9 @@ Please don’t tell me that a formal education is required to write fiction.
 
 In all likelihood, Joseph was an extremely intelligent boy. He had the capability to manipulate people, to create a massive religion, and still have adherents even 200 years after the fact. *You don’t get that by being stupid*.
 
-Imagine holding recent prophets to that same standard. What if Monson or Nelson were uneducated? would the church be touting that as a sign of legitimacy? Or, is that only notable for having brought forth BoM? Is that the only thing we want to remember Joseph for?
+Imagine holding recent prophets to that same standard. What if Monson or Nelson were uneducated? Would the church be touting that as a sign of legitimacy? Or, is that only notable for having brought forth BoM? Is that the only thing we want to remember Joseph for?
+
+&nbsp;
 
 ## Effect on the Book of Mormon
 The Book of Mormon is still remarkable in a variety of ways. I hope I've made my case that Joseph wasn't an illiterate clown. Consider this: if the book is of divine origin, that's remarkable irrespective of Smith's education. If it is not of divine origin, it's still remarkable on its own merits. Is it quality literature? ... No, actually, it really doesn't hold up under scrutiny. To be fair, not all 19th century books hold up under modern examination. But to produce it out of nothing is worth acknowledgement. It really does read like a 19th century commentary on religion. I don't like the idea of throwing it out wholesale based on the author's education.

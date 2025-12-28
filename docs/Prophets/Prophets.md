@@ -90,7 +90,7 @@ I thought the whole idea of being a prophet/apostle was having seen Jesus Christ
 
 > _CONDUCTED UNDER THE SUPERVISION OF THE PRESIDING BISHOPRIC. EDITED BY LEE A. PALMER._
 
-— The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [LDS Catalog](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) ([Archive link](https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theater)) (accessed: June 28, 2023)
+— The Improvement Era; 1941-1950 (Volumes 44-53); 1945 (Volume 48); 1945 June (No. 6); Church History Library, [LDS Catalog](https://catalog.churchofjesuschrist.org/assets/082ccb85-bae0-437b-9575-628ae039f9cd/0/0?lang=eng) ([Archive link](https://archive.org/details/improvementera4806unse/page/354/mode/1up?view=theater)) (accessed: June 28, 2023)
 
 &nbsp;
 

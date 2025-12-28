@@ -8,7 +8,7 @@ If you haven't already, check the summary of PR statements from both parties. Th
 
 &nbsp;
 ## Summary
-> *From 1997 through 2019, Ensign Peak Advisors, Inc. (“Ensign Peak”), an entity which manages the assets, including the investment securities, of The Church of Jesus Christ of Latter-day Saints (the “Church”), failed to file with the Commission certain required forms (“Forms 13F”) that would have disclosed the size of the Church’s equity portfolio to the Commission and the public. Instead, the Church and Ensign Peak created ==thirteen limited liability corporations== (“LLCs”), including twelve similar LLCs (the “Clone LLCs”) with addresses located throughout the U.S., ==for the sole purpose of filing Forms 13F== and ==preventing public disclosure== by Ensign Peak of the Church’s ==equity securities holdings==. The Forms 13F that Ensign Peak filed in the names of these LLCs misstated, among other things, that they had sole investment and voting discretion over the listed securities, when Ensign Peak at all times retained discretion over all investment decisions.*
+> *From 1997 through 2019, Ensign Peak Advisors, Inc. (“Ensign Peak”), an entity which manages the assets, including the investment securities, of The Church of Jesus Christ of Latter-day Saints (the “Church”), failed to file with the Commission certain required forms (“Forms 13F”) that would have disclosed the size of the Church’s equity portfolio to the Commission and the public. Instead, the Church and Ensign Peak created ==thirteen limited liability corporations== (“LLCs”), including twelve similar LLCs (the “Clone LLCs”) with addresses located throughout the U.S., ==for the sole purpose of filing Forms 13F== and ==preventing public disclosure== by Ensign Peak of the Church’s ==equity securities holdings==. The Forms 13F that Ensign Peak filed in the names of these LLCs misstated, among other things, that they had sole investment and voting discretion over the listed securities, when Ensign Peak at all times retained discretion over all investment decisions.*
 
 I don't think we can soften this to say "it's a misunderstanding, they were diversifying in case of a loss!" The sole purpose of the shell companies is to commit fraud.
 
@@ -29,7 +29,7 @@ That means this started with Hinckley. All through Monson. Charitably putting it
 
 &nbsp;
 
-> *Ensign Peak Advisors, Inc. is a Utah nonprofit corporation headquartered in Salt Lake City, Utah. Ensign Peak is responsible for investing and managing ==the reserves== of the Church. Ensign Peak is governed by a Board of Trustees, consisting of ==members of the Church’s Presiding Bishopric== and the Managing Director of Ensign Peak.*
+> *Ensign Peak Advisors, Inc. is a Utah nonprofit corporation headquartered in Salt Lake City, Utah. Ensign Peak is responsible for investing and managing ==the reserves== of the Church. Ensign Peak is governed by a Board of Trustees, consisting of ==members of the Church’s Presiding Bishopric== and the Managing Director of Ensign Peak.*
 > 
 > *Ensign Peak’s Managing Director is ==appointed by the Church’s First Presidency== and ==reports to the senior leadership of the Church.==*
 

@@ -15,7 +15,7 @@ As soon as our mortal bodies pass away, according to LDS doctrine, our spirit an
 
 &nbsp;
 
-> *After death, our spirit bodies go to the spirit world. There, the spirits of the righteous “are received into a state of happiness, which is called ==paradise==, a state of rest, a state of peace, where they shall rest from all their troubles and from all care, and sorrow” ([Alma 40:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=eng&id=p12#p12)). “Those who … died in their sins, without a knowledge of the truth, or in transgression, having rejected the prophets,” are spirits in ==prison== ([Doctrine and Covenants 138:32](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng&id=p32#p32); see also [1 Peter 3:18–20](https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=eng&id=p18-p20#p18)).*
+> *After death, our spirit bodies go to the spirit world. There, the spirits of the righteous “are received into a state of happiness, which is called ==paradise==, a state of rest, a state of peace, where they shall rest from all their troubles and from all care, and sorrow” ([Alma 40:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40?lang=eng&id=p12#p12)). “Those who … died in their sins, without a knowledge of the truth, or in transgression, having rejected the prophets,” are spirits in ==prison== ([Doctrine and Covenants 138:32](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng&id=p32#p32); see also [1 Peter 3:18–20](https://www.churchofjesuschrist.org/study/scriptures/nt/1-pet/3?lang=eng&id=p18-p20#p18)).*
 
 &mdash; *[What Do We Know about the Spirit World?](https://www.churchofjesuschrist.org/study/manual/gospel-topics/spirit-world-study-guide?lang=eng&id=p7#p7)*, Spirit World; Gospel Study Guide
 
@@ -174,7 +174,7 @@ When he teaches that [[Theology|Elohim]] and Jehovah are both polygamists, shoul
 
 > *“Plural marriage is the patriarchal order of marriage lived by God and others who reign in the Celestial Kingdom.”*
 
-— *[Brigham Young and His Wives and The True Story of Plural Marriage](https://openlibrary.org/books/OL28674026M/Brigham_Young_and_his_wives_and_the_true_story_of_plural_marriage)*, John J. Stewart, 1961, p. 41
+— *[Brigham Young and His Wives and The True Story of Plural Marriage](https://openlibrary.org/books/OL28674026M/Brigham_Young_and_his_wives_and_the_true_story_of_plural_marriage)*, John J. Stewart, 1961, p. 41
 
 &nbsp;
 

@@ -87,7 +87,7 @@ I do take issue with this declaration. “Trust everything that I say. If it wer
 
 > *President Wilford Woodruff stated:*
 >
-> *“I say to Israel, the Lord will never permit me or any other man who stands as president of the Church to lead you astray. It is not in the program. It is not in the mind of God.”* (The Discourses of Wilford Woodruff, pp. 212–13.)
+> *“I say to Israel, the Lord will never permit me or any other man who stands as president of the Church to lead you astray. It is not in the program. It is not in the mind of God.”* (The Discourses of Wilford Woodruff, pp. 212–13.)
 >
 >*President Marion G. Romney tells of this incident which happened to him:*
 > 

@@ -106,9 +106,9 @@ Not as solid of a match, but context does suggest pretty heavily that this unspe
 > 
 > *One question of this type I am asked occasionally, usually by someone who is curious, is, 'Have you seen Him?' That is a question that I have never asked of another. I have not asked that question of my Brethren in the Council of the Twelve, thinking that it would be ==so sacred and so personal== that one would have to have some special inspiration-indeed, some authorization-even to ask it.*
 > 
->  *Though I have not asked that question of others, I have heard them answer it-but not when they were asked. I have heard one of my Brethren declare, 'I know, from ==experiences too sacred to relate==, that Jesus is the Christ.' I have heard another testify, 'I know that God lives, I know that the Lord lives, and more than that, I know the Lord.' I repeat: they have answered this question not when they were asked, but under the prompting of the Spirit, on sacred occasions, when 'the Spirit beareth record.' (D&C 1:39.)*
+>  *Though I have not asked that question of others, I have heard them answer it-but not when they were asked. I have heard one of my Brethren declare, 'I know, from ==experiences too sacred to relate==, that Jesus is the Christ.' I have heard another testify, 'I know that God lives, I know that the Lord lives, and more than that, I know the Lord.' I repeat: they have answered this question not when they were asked, but under the prompting of the Spirit, on sacred occasions, when 'the Spirit beareth record.' (D&C 1:39.)*
 > 
->  *==There are some things just too sacred to discuss==: not secret, but sacred; ==not to be discussed==, but to be harbored and protected and regarded with the deepest of reverence.*
+>  *==There are some things just too sacred to discuss==: not secret, but sacred; ==not to be discussed==, but to be harbored and protected and regarded with the deepest of reverence.*
 > 
 > *There are many difficult questions, including some that we will not be able to answer, and ==many things are to be taken on faith==. As a teacher, therefore, do not let difficult questions create difficult problems for you or for those you teach.*
 

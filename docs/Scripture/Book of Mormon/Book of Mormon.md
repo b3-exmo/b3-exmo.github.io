@@ -3,20 +3,20 @@ comments: true
 ---
 # 📘 Book of Mormon
 
-> _…the Book of Mormon is the keystone of [our] testimony. Just as the arch crumbles if the keystone is removed, so does all the Church stand or fall with the truthfulness of the Book of Mormon._
+> *…the Book of Mormon is the keystone of [our] testimony. Just as the arch crumbles if the keystone is removed, so does all the Church stand or fall with the truthfulness of the Book of Mormon.*
 
-— _[The Book of Mormon - Keystone of Our Religion](https://www.churchofjesuschrist.org/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng)_, President Ezra T. Benson, General Conference October 1986
+— *[The Book of Mormon - Keystone of Our Religion](https://www.churchofjesuschrist.org/study/general-conference/1986/10/the-book-of-mormon-keystone-of-our-religion?lang=eng)*, President Ezra T. Benson, General Conference October 1986
 
 &nbsp;
 
-> _…everything in the Church – everything – rises or falls on the truthfulness of the Book of Mormon and, by implication, the Prophet Joseph Smith’s account of how it came forth…It sounds like a ‘sudden death’ proposition to me. Either the Book of Mormon is what the Prophet Joseph said it is or this Church and its founder are false, fraudulent, a deception from the first instance onward._
+> *…everything in the Church – everything – rises or falls on the truthfulness of the Book of Mormon and, by implication, the Prophet Joseph Smith’s account of how it came forth…It sounds like a ‘sudden death’ proposition to me. Either the Book of Mormon is what the Prophet Joseph said it is or this Church and its founder are false, fraudulent, a deception from the first instance onward.*
 
-— _[True or False](https://www.churchofjesuschrist.org/study/new-era/1995/06/true-or-false?lang=eng)_, President Jeffrey R. Holland, New Era, June 1995
+— *[True or False](https://www.churchofjesuschrist.org/study/new-era/1995/06/true-or-false?lang=eng)*, President Jeffrey R. Holland, New Era, June 1995
 
 &nbsp;
 
 ## Fullness of the Gospel
-What, _specifically_, does the Bible lack that the Book of Mormon clears up? What doctrine did it add?
+What, *specifically*, does the Bible lack that the Book of Mormon clears up? What doctrine did it add?
 
 - Infant Baptism is wrong
 - ???
@@ -79,7 +79,7 @@ If one were to studiously read through the BoM multiple times in a year, as is a
 ### Natural Man
 > *For ==the natural man is an enemy to God==, and ==has been== from the fall of Adam, and ==will be==, forever and ever, unless he yields to the enticings of the Holy Spirit, and putteth off the natural man and becometh a saint through the atonement of Christ the Lord, and becometh as a child, submissive, meek, humble, patient, full of love, willing to submit to all things which the Lord seeth fit to inflict upon him, even as a child doth submit to his father.*
 
-— _[Mosiah 3:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng&id=p19#p19)_
+— *[Mosiah 3:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/3?lang=eng&id=p19#p19)*
 
 One central tenant of the LDS faith is that because we are God's children, we can [[Becoming Gods|grow up to become like God]]. We have existed forever, if as "intelligences" that lived (?) with our father. The whole point of mortality is to qualify to be like god by attaining a body etc. We're created in his image. We are created by god, to one day become a god. We're growing up, we're godlings, we're little wimpy baby gods. Right?
 
@@ -171,7 +171,7 @@ According to David A Bednar…
 
 > *The Book of Mormon is not a book of history. The Book of Mormon is a book about the future.*
 
-— _[Elder Bednar Ministers in Amman, Jordan](https://news-middleeast.churchofjesuschrist.org/article/elder-bednar-ministers-in-amman-jordan)_, Church Newsroom, 23 October 2021
+— *[Elder Bednar Ministers in Amman, Jordan](https://news-middleeast.churchofjesuschrist.org/article/elder-bednar-ministers-in-amman-jordan)*, Church Newsroom, 23 October 2021
 
 Thanks, buddy. That clears it right up.
 
@@ -203,7 +203,7 @@ If Jesus himself orchestrated that 4D-chess maneuver just to make a point 2,000 
 ### Cannot be written
 > *And now there ==cannot be written== in this book even a hundredth part of the things which Jesus did truly teach unto the people;*
 
-— _[3 Nephi 26:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng&id=p6#p6)_
+— *[3 Nephi 26:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/26?lang=eng&id=p6#p6)*
 
 &nbsp;
 
@@ -231,11 +231,9 @@ Shouldn’t Joseph Smith's Translation (JST) and the Book of Mormon be the most 
 
 Sermon on the Mount appears in 3 Nephi 14, Matt 7 KJV, and Matt 7 JST. There’s enough discrepancy for not all claims to be true; either BoM is not “the most correct of any book on earth” or JST is bunk. Why wouldn’t the BoM version include the JST edits?
 
-| _[KJV: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng&id=p1-p2#p1)_                                                         | _[JST: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-matt/7?lang=eng&id=p1-p2#p1)_                                                                        | _[3 Nephi 14:1-2](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=eng&id=p1-p2#p1)_                                                                                                                                                                                                                                           |
+| *[KJV: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/7?lang=eng&id=p1-p2#p1)*                                                         | *[JST: Matthew 7:1-2](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-matt/7?lang=eng&id=p1-p2#p1)*                                                                        | *[3 Nephi 14:1-2](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/14?lang=eng&id=p1-p2#p1)*                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Judge not, that ye be not judged.*<br><br>*For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.* | *Now these are the words which Jesus taught his disciples that they should say unto the people.*<br><br>*Judge not unrighteously, that ye be not judged; but judge righteous judgment.* | *And now it came to pass that when Jesus had spoken these words he turned again to the multitude, and did open his mouth unto them again, saying: Verily, verily, I say unto you, Judge not, that ye be not judged.*<br><br>*For with what judgment ye judge, ye shall be judged; and with what measure ye mete, it shall be measured to you again.* |
-|                                                                                                                                                                     |                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                      |
-
 
 Why would Joseph Smith's "translation" of the KJV vary so differently from Jesus teaching the exact same thing to the Nephites? “The most correct book” on the planet, something to that affect.
 
@@ -245,9 +243,9 @@ I have more [[Bible#Joseph Smith Translation|notes on JST]], if you're intereste
 
 ## Anglicization
 ### Raca
-> *But I say unto you, that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, ==Raca==, shall be in danger of the ==council==; and whosoever shall say, Thou fool, shall be in danger of hell fire.*
+> *But I say unto you, that whosoever is angry with his brother shall be in danger of his judgment. And whosoever shall say to his brother, ==Raca==, shall be in danger of the ==council==; and whosoever shall say, Thou fool, shall be in danger of hell fire.*
 
-— _[3 Nephi 12:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=p22#p22)_
+— *[3 Nephi 12:22](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=p22#p22)*
 
 &nbsp;
 
@@ -268,17 +266,17 @@ Worse yet is the reference to ‘council,’ a reference to the Jewish Councils 
 &nbsp;
 
 ### Greek
-The Greek language was used throughout the Roman Empire at the time of Christ; therefore, the New Testament was written in Greek and the words _Alpha and Omega_ were well understood. The Nephites, however, were supposed to have left Jerusalem 600 years before the time of Christ, before the Roman empire was present to introduce Greek, and therefore the Nephites would not have been familiar with these words.
+The Greek language was used throughout the Roman Empire at the time of Christ; therefore, the New Testament was written in Greek and the words *Alpha and Omega* were well understood. The Nephites, however, were supposed to have left Jerusalem 600 years before the time of Christ, before the Roman empire was present to introduce Greek, and therefore the Nephites would not have been familiar with these words.
 
 If Jesus had told the Nephites that He was “[Alpha and Omega](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p18#p18),” it would have absolutely no meaning to them. Yet that passage is still included in Jesus’ *heavily abbreviated* visit to the Nephites, who remind us that "he did say many other things that cannot be written." Either they weren't listening to the god who just flattened Zerahemla and killed their families, were not literate, or maybe Joseph Smith made it up.
 
 &nbsp;
 
-When the author of the _Book of Mormon_ lifted these words from the book of Revelation he evidently did not realize that they were from the Greek language.
+When the author of the *Book of Mormon* lifted these words from the book of Revelation he evidently did not realize that they were from the Greek language.
 
-> The _Book of Mormon_ also contains the name Timothy ([3 Nephi 19:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=eng&id=p4#p4)). Timothy is a Greek name and never appears in the Old Testament. In the same verse that we find the name Timothy we also find the name Jonas. Jonas is the New Testament name for Jonah and is found in [Matthew 12:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=eng&id=p39-p40#p39). Joseph Smith seems to have been oblivious to the fact that the _Book of Mormon_ contains Greek words. When it was suggested that the word Mormon came from the Greek, he stated: “This is not the case. There was _no_ Greek or Latin upon the plates from which I, … translated the Book of Mormon” ([Times and Seasons, vol. 4, p. 194](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/8517)). The appearance of Greek words in the _Book of Mormon_—especially the words _Alpha and Omega_—is another evidence that it is not an ancient record, but rather a modern composition.
+> The *Book of Mormon* also contains the name Timothy ([3 Nephi 19:4](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/19?lang=eng&id=p4#p4)). Timothy is a Greek name and never appears in the Old Testament. In the same verse that we find the name Timothy we also find the name Jonas. Jonas is the New Testament name for Jonah and is found in [Matthew 12:39](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=eng&id=p39-p40#p39). Joseph Smith seems to have been oblivious to the fact that the *Book of Mormon* contains Greek words. When it was suggested that the word Mormon came from the Greek, he stated: “This is not the case. There was *no* Greek or Latin upon the plates from which I, … translated the Book of Mormon” ([Times and Seasons, vol. 4, p. 194](https://contentdm.lib.byu.edu/digital/collection/NCMP1820-1846/id/8517)). The appearance of Greek words in the *Book of Mormon*—especially the words *Alpha and Omega*—is another evidence that it is not an ancient record, but rather a modern composition.
 
-— _From [http://www.utlm.org/onlinebooks/changech5b.htm](http://www.utlm.org/onlinebooks/changech5b.htm)_
+— *From [http://www.utlm.org/onlinebooks/changech5b.htm](http://www.utlm.org/onlinebooks/changech5b.htm)*
 
 &nbsp;
 ## Probability / Occam’s Razor

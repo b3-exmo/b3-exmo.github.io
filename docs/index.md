@@ -4,7 +4,7 @@ comments: true
 # ⛪ LDS Notes
 I call myself Bee-cubed. Growing up in the LDS church has shaped my worldview. At one point in late 2018, I encountered information that upended that worldview, and have since been engaging in a deconstruction process. This is a compendium of my notes and findings amid that deconstruction.
 
-I don't think of this as a journal or blog. I'll interject a time or two, or share how a topic relates to me, but broadly speaking these notes are observations on truth claims, disagreeable policies, and historical novelties. I'll make an effort to cite sources and provide links for further reading.
+I don't think of this as a journal or blog. I'll interject and editorialize, or share how a topic relates to me, but broadly speaking these notes are observations and reactions to truth claims, disagreeable policies, and historical novelties. I'll make an effort to cite sources and provide links for further reading, should a given topic catch your interest. I like the idea of objectivity, but I don't expect I'll be escaping my own cognitive biases.
 
 &nbsp;
 

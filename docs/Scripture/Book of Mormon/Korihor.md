@@ -204,7 +204,7 @@ Acknowledging again that this book is an abridgment, I'm going to paraphrase the
 &nbsp;
 
 ### The Aftermath
-> ***51*** *And now when the chief judge saw this, he put forth his hand and wrote unto Korihor, saying: Art thou convinced of the power of God? In whom did ye desire that Alma should show forth his sign? Would ye that he should afflict others, to show unto thee a sign? Behold, he has showed unto you a sign; and now will ye dispute more?*
+> ***51*** *And now when the chief judge saw this, he put forth his hand and wrote unto Korihor, saying: Art thou convinced of the power of God? In whom did ye desire that Alma should show forth his sign? Would ye that he should afflict others, to show unto thee a sign? Behold, he has showed unto you a sign; and now will ye dispute more?*
 
 Now wait just a goddamned minute, Korihor can still *hear* can't he? Korihor is mute, *he* should be the one using a sign to silently reply to the verbal prompts, right?
 
@@ -214,7 +214,7 @@ alma relax, you're sounding like a junior high bully
 
 &nbsp;
 
-> ***52*** *And Korihor put forth his hand and wrote, saying: I know that I am dumb, for I cannot speak; and I know that nothing save it were the power of God could bring this upon me; yea, and ==I always knew that there was a God==.*
+> ***52*** *And Korihor put forth his hand and wrote, saying: I know that I am dumb, for I cannot speak; and I know that nothing save it were the power of God could bring this upon me; yea, and ==I always knew that there was a God==.*
 
 "Right, okay. What you've done, Alma, is beyond my ability to explain or rationalize, so I guess I'll take this as a sign that God is real and has power."
 
@@ -222,7 +222,7 @@ Though his next idea seems strange to me; having always known (after Korihor's c
 
 &nbsp;
 
-> ***53*** *But behold, the devil hath deceived me; for ==he appeared unto me in the form of an angel==, and said unto me: Go and reclaim this people, for they have all gone astray after an unknown God. And he said unto me: There is no God; yea, and he taught me that which I should say. And I have taught his words; and I taught them because they were pleasing unto the carnal mind; and I taught them, even until I had much success, insomuch that I verily believed that they were true; and for this cause I withstood the truth, even until I have brought this great curse upon me.*
+> ***53*** *But behold, the devil hath deceived me; for ==he appeared unto me in the form of an angel==, and said unto me: Go and reclaim this people, for they have all gone astray after an unknown God. And he said unto me: There is no God; yea, and he taught me that which I should say. And I have taught his words; and I taught them because they were pleasing unto the carnal mind; and I taught them, even until I had much success, insomuch that I verily believed that they were true; and for this cause I withstood the truth, even until I have brought this great curse upon me.*
 
 I don't know how to interpret an angel of God denying God, unless there's some other subtext here. Is the perception that this otherworldly messenger telling Korihor to leave a false God, and return to a [[True|true]] God? That would make more sense. Korihor's perspective would then be "I have seen (what I believe to be) an angel of God, who has charged me to preach in your land. I opted to do this by observing that you Nephites have conflated belief and knowledge, thereby I intend to inspire critical thinking to change your misplaced beliefs."
 
@@ -248,15 +248,15 @@ He must have been aware of scriptures. If Korihor saw an angel purporting to rep
 
 &nbsp;
 
-> ***54*** *Now when he had said this, he besought that Alma should pray unto God, that the curse might be taken from him.*
+> ***54*** *Now when he had said this, he besought that Alma should pray unto God, that the curse might be taken from him.*
 > 
-> ***55*** *But Alma said unto him: If this curse should be taken from thee thou wouldst again lead away the hearts of this people; therefore, it shall be unto thee even as the Lord will.*
+> ***55*** *But Alma said unto him: If this curse should be taken from thee thou wouldst again lead away the hearts of this people; therefore, it shall be unto thee even as the Lord will.*
 
 **K**, in writing: Straight up, I cannot verbally pray. You seem pretty qualified to do that. Will you pray to God to lift this curse? If it means anything to you, I wouldn't ask you to do this if I didn't think it would work. I'm feeling pretty confident that this is something that only God could do.
 
 **A**: lol. lmao. You want *forgiveness*? That's not how we do things in the theology centered around Jesus Christ's atonement of sins and granting forgiveness. If I forgave you, you'd just go back to being a lying little shit-ass. I do not believe that you, Korihor, have the capacity to learn from mistakes and grow as a person. Also, don't ask anyone about my conversion story, how I was forgiven for doing exactly what you are doing right now. Get out of my office.
 
-> ***56*** *And it came to pass that the curse was not taken off of ==Korihor==; but he was cast out, and went about from house to house begging for his food.*
+> ***56*** *And it came to pass that the curse was not taken off of ==Korihor==; but he was cast out, and went about from house to house begging for his food.*
 
 so... what the fuck.
 
@@ -268,13 +268,13 @@ Shifting our focus away from Alma being a real bitch-and-a-half about all of thi
 
 &nbsp;
 
-> ***57*** *Now the knowledge of what had happened unto Korihor was immediately published throughout all the land; yea, the proclamation was sent forth by the chief judge to all the people in the land, declaring unto ==those who had believed in the words of Korihor that they must speedily repent, lest the same judgments would come unto them==.*
+> ***57*** *Now the knowledge of what had happened unto Korihor was immediately published throughout all the land; yea, the proclamation was sent forth by the chief judge to all the people in the land, declaring unto ==those who had believed in the words of Korihor that they must speedily repent, lest the same judgments would come unto them==.*
 
 **Alma**: YEAH I'LL DO IT TO YOU ALL TOO UNLESS YOU GET IN LINE. by the way there is [no law](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/30?lang=eng&id=p7#p7) against a man’s belief 😇
 
 &nbsp;
 
-> ***58*** *And it came to pass that they were all convinced of the wickedness of Korihor; therefore they were all converted again unto the Lord; and this put an end to the iniquity after the manner of Korihor. ==And Korihor did go about from house to house, begging food for his support==.*
+> ***58*** *And it came to pass that they were all convinced of the wickedness of Korihor; therefore they were all converted again unto the Lord; and this put an end to the iniquity after the manner of Korihor. ==And Korihor did go about from house to house, begging food for his support==.*
 
 Everyone else who Korihor talked to gets forgiven for believing Korihor's words. Korihor, on the other hand, believed an angel, gets fucked over sideways, and is not forgiven even after committing to change? Very cool, very Christlike. 👍
 
@@ -284,14 +284,14 @@ There is no law against a man's belief (in case that hasn't been made *abundantl
 
 &nbsp;
 
-> ***59*** *And it came to pass that as he went forth among the people, yea, among a people who had separated themselves from the Nephites and called themselves Zoramites, being led by a man whose name was Zoram—and as he went forth amongst them, behold, he was run upon and trodden down, even until he was dead.*
+> ***59*** *And it came to pass that as he went forth among the people, yea, among a people who had separated themselves from the Nephites and called themselves Zoramites, being led by a man whose name was Zoram—and as he went forth amongst them, behold, he was run upon and trodden down, even until he was dead.*
 
 What the fuck
 
 &nbsp;
 
 ### The Moral of the Story
-> ***60*** *And ==thus we see== the end of him who perverteth the ways of the Lord; and thus we see that the ==devil== will not support his children at the last day, but doth speedily drag them down to hell.*
+> ***60*** *And ==thus we see== the end of him who perverteth the ways of the Lord; and thus we see that the ==devil== will not support his children at the last day, but doth speedily drag them down to hell.*
 
 The... *The devil*?? Bitch, how many prophets has God let die? Which party in this dualistic universe refused to save Abinadi from being burned alive? Which side was unwilling to give Korihor shelter and sustenance? The group of unembodied evil spirits, or those with physical forms who could provide food but were told not to because Alma got his feelings hurt? This verse does not describe the Lord God I had been taught about in my time as a practicing Mormon!
 

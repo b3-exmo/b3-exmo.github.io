@@ -17,7 +17,7 @@ For illustrative purposes, should a teacher blame a student for not knowing some
 
 &nbsp;
 
-To me, this is incredibly problematic. For two years, at the MTC and in the mission field, we were drilled on reciting the 1838 version verbatim, because *all* of the church’s claims *relied on this event happening*. That’s how it was framed. For the church to exist for some span of time ranging between two and eight years, and no one has heard of the first vision.... it's enough to make me think it didn’t happen.
+To me, this is incredibly problematic. For two years, at the MTC and in the mission field, we were drilled on reciting the 1838 version verbatim, because *all* of the church’s claims *relied on this event happening*. That’s how it was framed. For the church to exist for some span of time ranging between two and eight years, and no one has heard of the first vision... it's enough to make me think it didn’t happen. And if it didn't happen, "[then this work is a fraud](https://www.churchofjesuschrist.org/study/general-conference/2002/10/the-marvelous-foundation-of-our-faith?lang=eng)."
 
 &nbsp;
 
