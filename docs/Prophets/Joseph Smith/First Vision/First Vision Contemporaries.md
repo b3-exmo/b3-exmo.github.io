@@ -111,7 +111,7 @@ The earliest point that I can find of the LDS church publishing a commentary on 
 - [Scripture Central](https://scripturecentral.org/archive/periodicals/magazine-article/eight-contemporary-accounts-joseph-smiths-first-vision-what-do-we-learn-them); ([direct link to PDF](https://archive.bookofmormoncentral.org/sites/default/files/archive-files/pdf/allen/2020-02-05/ie_73.4._james_b._allen_eight_contemporary_accounts_of_joseph_smiths_first_vision_april_1970.pdf))
 - [archive.org](https://archive.org/details/improvementera7304unse)
 
-At the risk of sounding like a miserable grump, I'll observe that issues of the magazine *[Improvement Era](featured-collections/church-magazines-and-newspapers?lang=eng)* are not found under the church's *[Magazines Library](https://www.churchofjesuschrist.org/study/magazines?lang=eng)*; those only go back to 1971. You want something from a year prior? You gotta rummage through the *[church history catalog](https://catalog.churchofjesuschrist.org/record/8874b4ef-68c7-458a-ba5a-787a7b08ec8e/0?view=browse&lang=eng)* and just hope that they haven't moved things around in there.
+At the risk of sounding like a miserable grump, I'll observe that issues of the magazine *[Improvement Era](https://history.churchofjesuschrist.org/training/library/young-men-organization-research-guide/online-resources?lang=eng)* are not found under the church's *[Magazines Library](https://www.churchofjesuschrist.org/study/magazines?lang=eng)*; those only go back to 1971. You want something from a year prior? You gotta rummage through the *[church history catalog](https://catalog.churchofjesuschrist.org/record/8874b4ef-68c7-458a-ba5a-787a7b08ec8e/0?view=browse&lang=eng)* and just hope that they haven't moved things around in there.
 
 &nbsp;
 

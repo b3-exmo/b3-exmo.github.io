@@ -81,7 +81,7 @@ Speaking of Oaks…
 ## As He Thinketh in His Heart
 > *When we begin by measuring modern practices and proposals against what we know of God’s plan and the premises given in the word of God and the teachings of His living prophets, . . . we know that this puts us on safe ground eternally.*
 
-— *[As He Thinketh in His Heart]()*, Dallin H. Oaks, evening with Elder Dallin H. Oaks, Feb. 8, 2013
+— *[As He Thinketh in His Heart](https://www.churchofjesuschrist.org/prophets-and-apostles/unto-all-the-world/as-he-thinketh-in-his-heart-?lang=eng)*, Dallin H. Oaks, evening with Elder Dallin H. Oaks, Feb. 8, 2013
 
 What is he trying to say? Reject modernity because God is ancient and eternal? Appeal to ancient wisdom or tradition?
 
