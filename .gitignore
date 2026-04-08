@@ -8,3 +8,7 @@ site/
 pyvenv.cfg
 0dev/
 .stversions/
+Meta/
+MOC/
+scripts/
+SupplementDocs/
