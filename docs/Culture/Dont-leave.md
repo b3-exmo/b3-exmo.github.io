@@ -2,7 +2,7 @@
 comments: true
 ---
 # 😨 Don't leave!
-In Brigham's iteration through the [[Brigham Young#Teachings of the Presidents of the Church|Teachings of the Presidents of the Church]] manuals, the book has an entire chapter dedicated to "[Preventing Personal Apostasy](https://www.churchofjesuschrist.org/study/manual/teachings-brigham-young/chapter-12?lang=eng)." I had initially copied so many excerpts from that chapter that at some point, it's easier to just point you to the manual and say "[read this, I pray thee](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=eng&id=p15#p15)." (it's not [[Doctrines/Polygamy/Sealing|sealed]], don't worry)
+In Brigham's iteration through the [[Brigham Young#Teachings of the Presidents of the Church|Teachings of the Presidents of the Church]] manuals, the book has an entire chapter dedicated to "[Preventing Personal Apostasy](https://www.churchofjesuschrist.org/study/manual/teachings-brigham-young/chapter-12?lang=eng)." I had initially copied so many excerpts from that chapter that at some point, it's easier to just point you to the manual and say "[read this, I pray thee](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=eng&id=p15#p15)." (it's not [[Sealing|sealed]], don't worry)
 
 I'll still include some of the shorter passages for relevancy, but first, a glance at the chapter's subheadings, and some choices from the [suggestions for study](https://www.churchofjesuschrist.org/study/manual/teachings-brigham-young/chapter-12?lang=eng&id=title7#title7) associated with each.
 

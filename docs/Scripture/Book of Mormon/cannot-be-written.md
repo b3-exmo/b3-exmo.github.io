@@ -22,7 +22,7 @@ After stepping back to give this book some critical evaluation, I've noticed an 
 
 &nbsp;
 
-![[oops-derp.gif]]{: .center .size40}
+![image](../../img/oops-derp.gif){: .center .size75}
 
 &nbsp;
 

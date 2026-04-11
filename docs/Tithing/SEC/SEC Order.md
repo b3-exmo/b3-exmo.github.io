@@ -23,7 +23,7 @@ I don't think we can soften this to say "it's a misunderstanding, they were dive
 
 First presidency had direct influence and control over Ensign Peak making these shell companies, to avoid publicly disclosing how much money they had.
 
-This is the church’s money. The first presidency made these calls. Not “the church” in vague, general terms. Not a random functionary we can throw under the bus, to pin the blame on. The First Presidency. Not a seventy. Not an intern in the [[Audits|auditing department]]. **The first presidency.**
+This is the church’s money. The first presidency made these calls. Not “the church” in vague, general terms. Not a random functionary we can throw under the bus, to pin the blame on. The First Presidency. Not a seventy. Not an intern in the [[Tithing-Audits|auditing department]]. **The first presidency.**
 
 That means this started with Hinckley. All through Monson. Charitably putting it, Nelson inherited this problem. Don’t know how much we can justifiably pin the blame on him. For what it’s worth, he wasn’t in the First Presidency for either Hinckley or Monson’s leadership, so there’s a chance he didn’t know about it. I find that unlikely, but it is possible.
 

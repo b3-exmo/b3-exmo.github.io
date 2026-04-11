@@ -4,7 +4,7 @@ comments: true
 # ☝️🤓 Name "Mormon"
 > *Because of the Book of Mormon, ==we are frequently called the Mormon Church, a title we do not resent==, but it is really not accurate.*
 
-— *[Guided by the Holy Spirit](https://www.churchofjesuschrist.org/study/general-conference/2011/04/guided-by-the-holy-spirit?lang=eng&id=p8#p8)*, President Boyd K. Packer, President of the Quorum of the Twelve Apostles, General Conference 2011 April
+— *[Guided by the Holy Spirit](https://www.churchofjesuschrist.org/study/general-conference/2011/04/guided-by-the-holy-spirit?lang=eng&id=p8#p8)*, President Boyd K. Packer, President of the Quorum of the Twelve Apostles, General Conference ==2011== April
 
 &nbsp;
 
@@ -60,11 +60,11 @@ The matter was put on the back burner for another 20 years or so. We got a few g
 
 — *[Following Up](https://www.churchofjesuschrist.org/study/general-conference/2014/04/following-up?lang=eng&id=p9#p9)*, Elder M. Russell Ballard, Quorum of the Twelve Apostles, General Conference April 2014
 
-Maybe I'm just a grump, but I think we could have just left it there. This sounds very reasonable. "Mormon" as a shorthand, but don't overlook the full name of the LDS church. If your conversation partner already understands the connection, go nuts.
+Really, I think we could have just left it there. This sounds very reasonable. "Mormon" as a shorthand, but don't overlook the full name of the LDS church. If your conversation partner already understands the connection, go nuts.
 
 &nbsp;
 
-That is, until President Monson passes away. Conveniently, that's when God decided to shake things up. Not the prophet, he's only the mouthpiece!
+That is, until President Monson passes away. Conveniently, that's when God decided to shake things up. Not the prophet, no&mdash;he's only the mouthpiece!
 
 &nbsp;
 
@@ -122,7 +122,7 @@ These men were both sustained as a spokesperson for God, right?
 
 Right?
 
-Oh, were they speaking as a man? My bad.
+Oh, were they [[Prophets#Speaking as such|speaking as a man]]? My bad.
 
 &nbsp;
 
@@ -144,7 +144,7 @@ Imagine the creator and governor of the entire known universe, whose creations e
 
 Now imagine that same God just getting *so upset and angry* because you called yourself a Mormon.
 
-How petty would He have to be? Doesn't He have bigger things to worry about?
+How petty would He have to be? Doesn't God have other, bigger things to worry about?
 
 &nbsp;
 
@@ -235,7 +235,7 @@ Oh.
 
 Let's not lose sight of the whole reason we're even talking about this: 
 
-"*To ==remove the Lord’s name from the Lord’s Church== is a major victory for Satan.*" "*When we ==omit His name from His Church==, we are inadvertently removing Him as the central focus of our lives.*"
+"*To ==remove the Lord’s name from the Lord’s Church== is a major victory for Satan.*"<br>"*When we ==omit His name from His Church==, we are inadvertently removing Him as the central focus of our lives.*"
 
 Just... Don't lose sight of that, is all I'm saying. 🤷
 
@@ -254,8 +254,7 @@ Although, one thing I stumbled upon seems to have aged poorly:
 
 lol. lmao.
 
-Edit:
-Hold on, now. The Church Newsroom seems to have edited that page since I had copied that info. I've added a link to an archived version. The page's contents nor [source](view-source:https://newsroom.churchofjesuschrist.org/style-guide2) have any indication that it has been modified since its publishing date in 2010. Very un-suspicious.
+Edit:<br>Hold on, now. The Church Newsroom seems to have edited that page since I had copied that info. I've added a link to an archived version. The page's contents nor [source](view-source:https://newsroom.churchofjesuschrist.org/style-guide2) have any indication that it has been modified since its publishing date in 2010. Very un-suspicious.
 
 &nbsp;
 
@@ -273,7 +272,7 @@ Hold on, now. The Church Newsroom seems to have edited that page since I had cop
 
 &nbsp;
 
-God: Don’t call it *the holy priesthood after the Order of the Son of God*. That uses Jesus’  name & title too much. Nickname it after Melchizedek, a righteous guy.
+God: Don’t call it *the holy priesthood after the Order of the Son of God*. That uses Jesus’ name & title too much. Nickname it after Melchizedek, a righteous guy.
 
 Also God: Don’t nickname my church after a righteous guy, Mormon. That doesn’t use Jesus’ full name enough.
 

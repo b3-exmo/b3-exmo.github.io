@@ -19,6 +19,12 @@ comments: true
 
 &nbsp;
 
+> *Now if any of you will ==deny the plurality of wives==, and continue to do so, I promise that ==you will be damned==; and I will go still further and say, take this revelation, or any other revelation that the Lord has given, and deny it in your feelings, and I promise that ==you will be damned==.*
+
+&mdash; [Plurality of Wives, etc](https://scriptures.byu.edu/#12e844:t7557:j03); Brigham Young, [Journal of Discourses 3](https://scriptures.byu.edu/jod/pdf/JoD3/JoD3.pdf):266
+
+&nbsp;
+
 ### God is polygamist, too
 > *Yes, [polygamy is] one of the relics of Adam, of Enoch, of Noah, of Abraham, of Isaac, of Jacob, of Moses, David, Solomon, the Prophets, ==of Jesus, and his apostles==.*
 
@@ -32,7 +38,7 @@ comments: true
 
 ---
 
-Three of the four quotes above are from Brigham Young. Yes, there are more than four discourses on the matter, these are ones I arbitrarily picked. What I want to emphasize is that many former Mormon folks will point to Joseph Smith and his polygamous affairs as awful, incriminating information that tarnishes his claims to authority.
+Most of the quotes above are from Brigham Young. Yes, there are more than five discourses on the matter, these are ones I arbitrarily picked. What I want to emphasize is that many former Mormon folks will point to Joseph Smith and his polygamous affairs as awful, incriminating information that tarnishes his claims to authority.
 
 I don't feel like focusing on Smith is as much of a slam-dunk as other folks seem to think it is. I find all of the apologetics for Smith's polygamy to be vapid and nonsensical (I'll address some later in this page), but that's not really the issue. There's a lot of [[#Conflicting accounts|conflicting information]] about Smith concerning extramarital affairs.
 
@@ -188,13 +194,17 @@ In early church membership there were more men than women (see above). Polygamy 
 
 I can think of no other time in church history that a religious leader was threatened with a violent death from God if he did not follow a commandment, let alone a commandment that was morally dubious at best, and goes against social & cultural norms. “I’ve *got* to do this illegal thing, or else an angel with a sword that only I saw will destroy me!”
 
+What's God going to do if Joseph exercises his agency and refuses to engage in adulterous affairs? Call another prophet? Someone *else* [named Joseph, son of Joseph, prophesied of back in 588 BCE to bring forth the Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/3?lang=eng&id=study_summary1#study_summary1)?
+
+&nbsp;
+
 Footnote to cite the above claim is as follows:
 
->See Brian C. Hales, “Encouraging Joseph Smith to Practice Plural Marriage: The Accounts of the Angel with a Drawn Sword,” Mormon Historical Studies 11, no. 2 (Fall 2010): 69–70.
+>*See Brian C. Hales, “Encouraging Joseph Smith to Practice Plural Marriage: The Accounts of the Angel with a Drawn Sword,” Mormon Historical Studies 11, no. 2 (Fall 2010): 69–70.*
 
 I did end up [[#Corroborating claimants|finding the source]] for this. I'll share some notes below.
 
-Other note in that essay:
+Other excerpt in the above essay:
 
 > *Although the Lord commanded the adoption—and later the cessation—of plural marriage in the latter days, He did not give exact instructions on how to obey the commandment.*
 
@@ -243,7 +253,7 @@ As an added bonus, in that same lesson in the teacher manual:
 
 Idk man, I think there's enough information to say that we do have knowledge that plural marriage is required for exaltation— that is, unless we're going to just disregard [[#Required for exaltation!|Brigham Young's teachings]].
 
-I also feel uneasy about the warning against speculation. That sounds like they really don't want us to [[Culture#Thought Stoppers|think about it]] too much... or much at all.
+I also feel uneasy about the warning against speculation. That sounds like they really don't want us to think about it too much... or much at all.
 
 &nbsp;
 

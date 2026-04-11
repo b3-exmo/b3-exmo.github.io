@@ -18,7 +18,7 @@ What, exactly, is "[[After all we can do|all we can do]]"?
 
 Have you done ***all*** you can do for salvation? Is there one overlooked thing you could have done, but haven't? At what point have you done enough to be sure that you're saved? If you cannot identify where the threshold is for "saved," then... consider if that threshold exists.
 
-If you can recollect something you have not done, you are not going to be saved by grace. So... if you can identify one thing that you could have done better, you will not be saved by grace, so... You're kind of fucked.
+If you can recollect something you have not done, you are not going to be saved by grace. So... if you can identify one thing that you could have done better, you will not be saved by grace, so... *you're kind of fucked*.
 
 &nbsp;
 
@@ -27,24 +27,22 @@ If you can recollect something you have not done, you are not going to be saved 
 
 &mdash; *[Moroni 10:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?id=p32&lang=eng#p32)*
 
-We must do a few things:
+We **must** do these things:
 
 1. Come unto Christ
 2. Be perfected in Him
 3. Deny yourself of "all ungodliness"
 4. Love God with all your might, mind, and strength
 
-Then, ***and only then***, is His grace sufficient for you. 
+Then, ***and only then***, is His grace sufficient for you.
 
 Have you denied yourself of _all_ ungodliness? If you have not, doesn’t this verse prove that you have yet to qualify for the grace that will cleanse you of your sins? Christ's grace, His atonement will only kick in for you after you've done those four things. Right?
 
 Those four things all constitute a pretty tall order.
 
-The verse we read in 2 Nephi describes the needed qualifications as "after all we can do." For this book as a whole to be internally consistent, we might do some mental geometry and deduce that these four things are included in "all that we can do?" That's not rhetorical. What else is there that would need to be done?
+Just before this, we read over [2 Nephi 25:23](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?id=p23&lang=eng#p23) which describes the needed qualifications as "after all we can do." For this book as a whole to be internally consistent, should we deduce that these four things are included in "all that we can do?" That's not rhetorical. What else is there that would need to be done? Becoming "perfected in Him" sounds like it might encompass a wide spectrum.
 
 &nbsp;
-
-If I were to make this a more pointed question to you, the reader, I would present this question:
 
 If you have not denied yourself of *all ungodliness*, when do you think you will do so?
 
@@ -63,7 +61,7 @@ This book [[Sources and Links#Miracle of Forgiveness|may or may not be doctrinal
 
 &nbsp;
 
-Or, in more succinct terms...
+Or, to put President Kimball's quotation in more succinct terms...
 
 > *"Do or do not. There is no 'try.'"*
 
@@ -74,17 +72,15 @@ Or, in more succinct terms...
 ### Commandments
 Out of God's myriad commandments, how many of them are you expected to follow? What proportion? Over half? 90% of them? ... *All of them*?
 
-Can you identify one or more commandments that you have not followed down to the letter? If so, you have not done all you can do.
+Can you identify one or more commandments that you have not followed down to the letter? If you can, that means that you have not done all you can do.
 
 > *And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that ==the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them==.*
 
 &mdash; *[1 Nephi 3:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?id=p7&lang=eng#p7)*
 
-Does this passage say that it's possible to keep all of God's commandments? How are you doing with that? Have you kept all of God's commandments?
+Does this passage tell us that it's possible for us to keep *all* of God's commandments? How are you doing with that? Have you kept *all* of God's commandments? No? Why not? Says right here that you are fully empowered and enabled to. 
 
-No? Why not? Says right here that you are fully empowered and enabled to. 
-
-This idea of all commandments being achievable and attainable by anyone is found in some other verses, as well: [1 Nephi 17:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?id=p3&lang=eng#p3); [1 Nephi 17:50](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?id=p50&lang=eng#p50); [Doctrine and Covenants 5:34](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?id=p34&lang=eng#p34); so... why haven't you done it? Trying your best isn't enough, as President Kimball pointed out. 
+This idea of all commandments being achievable and attainable by anyone is found in some other verses, as well ([1 Nephi 17:3](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?id=p3&lang=eng#p3); [1 Nephi 17:50](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/17?id=p50&lang=eng#p50); [Doctrine and Covenants 5:34](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/5?id=p34&lang=eng#p34),) so... why haven't you done it? Trying your best isn't enough, as President Kimball pointed out. 
 
 &nbsp;
 
@@ -105,7 +101,7 @@ What does "repent" mean? It sure sounds important. I guess we should get a good 
 
 &mdash; *[D&C 58:42-43](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/58?lang=eng&id=p42-p43#p42)*
 
-Sounds like we have a clear indicator for if one has repented of his or her sins, if nothing else. I don't know that we need to examine the first action (to "confess them") but maybe the second action warrants some scrutiny?
+Sounds like we have a clear indicator if one has repented of his or her sins. Here, I don't intend to examine the first step (to "confess them") but maybe the second action (to "forsake them") warrants some attention?
 
 &nbsp;
 
@@ -126,11 +122,11 @@ I think we ought to be able to agree that forsaking sins means that you've aband
 
 So... another pointed question to the reader:
 
-Can you describe a sin that you have fully forsaken? I do not need details, I am not the one determining your eternal fate. Yes or no are valid responses.
+Can you describe a sin that you have fully forsaken? I do not need details, I am not the one determining your eternal fate. Yes or no are valid responses. ... Actually, this is rhetorical, you don't need to tell me anything at all.
 
 But if you've felt that you had sinned about practice X, Y, or Z, now ask yourself if you have ==***forsaken***== that practice to the extent that you don't even think about doing it anymore. Again, I don't need details.
 
-If you can identify something that you *still have to exert some willpower* to abstain from, then you have not fully forsaken that practice. And if you have not fully forsaken it, you have not repented. And if you have not repented, you have not done even the bare minimum qualification for "all \[you\] can do," and so Christ's grace will not cover you.
+If you can identify something that you *still have to exert some willpower* to abstain from, then you have not fully forsaken that practice. And if you have not fully forsaken it, you have not repented. And if you have not repented, you have not done even the bare minimum qualification for "all \[you\] can do," and so Christ's grace nor His atonement will not cover you.
 
 &nbsp;
 
@@ -183,4 +179,4 @@ Now that we've established that you need to [work out your own salvation with fe
 
 In some accounts of Joseph Smith's [[First Vision#Accounts|first vision]], the pretense of his prayer was having sins forgiven... and he gets forgiven after just asking.
 
-In the [[Book of Mormon]] we can find [[After all we can do|numerous examples]] of people being saved after simply praying and asking for forgiveness. Even though this page demonstrates pretty clearly that being "saved" requires a non-trivial amount of effort of your part.
+In the [[Book of Mormon|Book of Mormon]] we can find [[After all we can do|numerous examples]] of people being saved after simply praying and asking for forgiveness. Even though this page demonstrates pretty clearly that being "saved" requires a non-trivial amount of effort of your part.

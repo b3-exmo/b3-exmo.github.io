@@ -18,7 +18,7 @@ comments: true
 	- [x] JQuery to fetch destination `favicon`
 - [ ] Current Year
 	- [ ] It's 2025, but it won't *always* be 2025. Rather than make these static values, I need to find some kind of `getDate()` or `now()`. Once in a while, I compare durations between dates; ideally, I'd find some way to render those comparisons dynamically
-	- [ ] [[Russell-M-Nelson|President Nelson]] has passed away. The notes I have on his teachings and sayings are written as if he were alive and well, so I ought to adjust verbiage accordingly.
+	- [x] [[Russell-M-Nelson|President Nelson]] has passed away. The notes I have on his teachings and sayings are written as if he were alive and well, so I ought to adjust verbiage accordingly.
 
 &nbsp;
 
@@ -32,8 +32,3 @@ So at some point, I'll need to track down each and every em dash used to re-eval
 &nbsp;
 
 Update: as of late August 2025, I've removed most (but not all) `&mdash;` instances. A few stuck around because I think they fit. Next time I summon up some patience, I'll sort through the "actual" em-dashes that are not represented by an HTML entity.
-
-&nbsp;
-
-## Topics
-I have a word-count plugin for my text editor I write these notes in, and (as of 2025 September) I have just over `371,610` words of unfinished notes, and `207,881` words in the publicly available notes. For many of these (unlisted) topics, I  have some existing notes but they aren't in a presentable condition. Others, I've yet to write down some thoughts on. No, I’m not differentiating them here in this list. I have a day job, is all. I'll get to it. I'll write things as inspiration strikes.

@@ -76,9 +76,6 @@ nav:
   - ⛪ Home: index.md
   - ✍️ My own experience: My own experience.md
   - ✝️ Christianity:
-    # - Christianity/Christianity.md
-    # - 🌄 Historicity: Christianity/Historicity.md
-    - 👻 Holy Spirit's Promptings: Christianity/Holy Spirit Promptings.md
     - 😈 Satan: Christianity/Satan.md
     - 👹 Satan's Origins: Christianity/Satan-origins.md
     - 😱 Satanic Panic: Christianity/Satanic-panic.md
@@ -90,7 +87,7 @@ nav:
     - 🤔 Doubts and Truth: Commentated Docs/Doubts and Truth.md
     - 🏎 Essay - Race & Priesthood: Commentated Docs/Essay Race Priesthood.md
     - 🤡 Fourteen Fundamentals in Following the Prophet: Commentated Docs/14 Fundamentals.md
-    - 😵 It's too sacred!: Commentated Docs/Too Sacred.md
+    - "😵 Quotes: It's too sacred!": Commentated Docs/quotes-too-sacred.md
     - 💭 What Do We Mean When We Say the Church Is True?: Commentated Docs/What Do We Mean When We Say the Church Is True.md
   - 🤨 Critical Thinking:
     - Critical thinking/Critical Thinking.md
@@ -101,12 +98,12 @@ nav:
     - ♟️ Logical Fallacies: Critical thinking/logical-fallacies.md
     - 🧪 Shelf: Critical thinking/Shelf.md
   - 👥 Culture:
-    - Culture/Culture.md
+    # - Culture/Culture.md
     - 😬 Anxiety: Culture/Anxiety.md
     - 🥓 Curated Information: Culture/Curated Sources.md
     - 😨 Don't leave!: Culture/Dont-leave.md
     - 💔 God's Conditional Love: Culture/Gods Conditional Love.md
-    - 😇 Infallibility: Culture/Infallibility.md
+    - 🤕 Imperfect Leaders: Culture/imperfect-leaders.md
     - ☝️🤓 Name "Mormon": Culture/Name Mormon.md
     - 👑 Privilege: Culture/Privilege.md
     - ✔️ Scrupulosity: Culture/Scrupulosity.md
@@ -123,13 +120,15 @@ nav:
     - 🩲 Garments: Doctrines/Garments.md
     - 👩‍🤝‍👩 Polygamy: 
       - Doctrines/Polygamy/Polygamy.md
-      - 🛏 Consummation: Doctrines/Polygamy/Consummation.md
+      # - 🛏 Consummation: Doctrines/Polygamy/Consummation.md
       - 👧 Helen Mar Kimball: Doctrines/Polygamy/Helen Kimball.md
       - 🥩💱 Meat Commerce: Doctrines/Polygamy/Meat commerce.md
       - 😏 Sealing: Doctrines/Polygamy/Sealing.md
     - 🍻 Word of Wisdom: 
       - Doctrines/Word of Wisdom/Word-of-Wisdom.md
       - ☕ CAFFEINE: Doctrines/Word of Wisdom/CAFFEINE.md
+      - "🍂 Word of Wisdom: Changes": Doctrines/Word of Wisdom/WoW Changes.md
+      - "💬 Word of Wisdom: Interpretations": Doctrines/Word of Wisdom/WoW Interpretations.md
   - 🏳‍🌈 LGBTQ+: LGBT/LGBTQ.md
   - 🔮 Modern Church:
     - 🧔 Jesus and The Church: Modern Church/Jesus-and-The-Church.md
@@ -173,7 +172,7 @@ nav:
       - 😔 After all we can do: Scripture/Book of Mormon/After all we can do.md
       - 📪 Cannot be Written: Scripture/Book of Mormon/cannot-be-written.md
       - 🔃 Changes: Scripture/Book of Mormon/Changes.md
-      - 🤷 Isaiah: Scripture/Book of Mormon/Isaiah.md
+      # - 🤷 Isaiah: Scripture/Book of Mormon/Isaiah.md
       - ⚔️ Jaredites: Scripture/Book of Mormon/Jaredites.md
       - 🙅‍♂️ Korihor: Scripture/Book of Mormon/Korihor.md
       - 😴 Lehi's Dream: Scripture/Book of Mormon/Lehi-dream.md
@@ -187,14 +186,13 @@ nav:
     - 📜 Book of Abraham: Scripture/Book of Abraham.md
   - 💵 Tithing:
     - Tithing/Tithing.md
-    - 🔎 Audits: Tithing/Audits.md
+    - 🔎 Audits: Tithing/Tithing-Audits.md
     - 💸 Charitable Giving: Tithing/Charitable Giving.md
     - 🗣️ In General Conference: Tithing/In General Conference.md
     - 🧑‍⚖️ SEC: 
       - Tithing/SEC/SEC.md
       - 📃 SEC Order: Tithing/SEC/SEC Order.md
       - 🗣 WSJ Interview: Tithing/SEC/WSJ Interview.md
-  - 📝 Poetry: Poetry.md
   - 🔗 Sources & More Material: Sources and Links.md
   - 🗒️ TODO: TODO.md
 

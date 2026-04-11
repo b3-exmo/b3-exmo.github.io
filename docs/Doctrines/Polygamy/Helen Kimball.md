@@ -9,7 +9,7 @@ I don't expect I'll delve into the details of each of Joseph's plural wives. I'v
 ## Mawwiage
 ![image](../../img/mawwiage.gif){: .center}
 
-Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[docs/Doctrines/Polygamy/Sealing|sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations. Assuming that's all that it was, then... what was the point?
+Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[Sealing|sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations. Assuming that's all that it was, then... what was the point?
 
 &nbsp;
 
@@ -47,7 +47,7 @@ Please don't look too far into this; I'm pointing out a parallel between the age
 | [Marsha Nelson Workman](https://familysearch.org/ark:/61903/1:1:VC6N-QX6)                     | 29 July 1948 (?) | ↘ 23 yr 10 mo 20 day |
 | [Wendy Watson Nelson](https://en.wikipedia.org/wiki/Wendy_Watson_Nelson)                      | 31 May 1950      | ↘ 25 yr 8 mo 22 day  |
 
-By my understanding, Russell Nelson's first wife passed away in 2005, and he [remarried in 2006](https://newsroom.churchofjesuschrist.org/article/elder-russell-m.-nelson-marries-wendy-l.-watson). Nothing wrong with that. Nelson's firstborn daughter Marsha was born in or close to 1948; records haven't been super clear since she's still living. Nelson's second wife was born in 1950, which makes Wendy's stepdaughter 2 years and 2 months older than her. I think that's weird. If someone chooses to get married to an older partner, more power to them, I don't object to that. I don't think this is a case of legality or ethics, just... look, I'm not in this family, I can only look at these dates and point out a bizarre pattern in age differences. But wow, I imagine that I would get a real case of heebie-jeebies if my mother got remarried to someone so close to my own age. Looking at this hypothetical step-father at the same approximate age as me would feel super weird, and I would think less of my parent as a result. That's me.
+By my understanding, Russell Nelson's first wife passed away in 2005, and he [remarried in 2006](https://newsroom.churchofjesuschrist.org/article/elder-russell-m.-nelson-marries-wendy-l.-watson). Nothing wrong with that. Nelson's firstborn daughter Marsha was born in or close to 1948; records haven't been super clear since she's still living. Nelson's second wife was born in 1950, which makes Wendy's stepdaughter 2 years and 2 months older than her. *I think that's weird*. If someone chooses to get married to an older partner, more power to them, I don't object to that. I don't think this is a case of legality or ethics, just... look, I'm not in this family, I can only look at these dates and point out a bizarre pattern in age differences. But wow, I imagine that I would get a real case of heebie-jeebies if my mother got remarried to someone so close to my own age. Looking at this hypothetical step-father at the same approximate age as me would feel super weird, and I would think less of my parent as a result. That's me.
 
 &nbsp;
 
@@ -61,7 +61,7 @@ We could spend a lot of time bantering about whether a man had a boner 200 years
 &nbsp;
 
 ## Social consequence
-Helen was a teenager, and had aspects of teenaged life taken away after she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things— simply socializing with friends is now completely different. In what ways does a 14-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What if a teenager just gets pushed straight into the "age 35" category?
+Helen was a teenager, and had aspects of teenaged life taken away after she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things. Simply socializing with friends is now completely different. In what ways does a 14-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What happens if a teenager just gets pushed straight into the "age 35" category?
 
 If Helen is "married" to Joseph, is she allowed do date or court other boys / men, or is Helen expected to behave socially like a married woman? Was her life changed by this social contract?
 
@@ -132,14 +132,14 @@ Helen attaches this to her reminiscence in that same appendix:
 
 &nbsp;
 
-Idk man I don't see this going over very well being taught at Sunday school. Tell me if a satisfied happy woman would look back on a marriage and write *this* about it? And the best defense we have is "it was just for eternity, that means no sex, therefore this is a non-issue 🤓" get the fuck out of here with that
+Idk man I don't see this going over very well being taught at Sunday school. Tell me if a satisfied happy woman would look back on a marriage and write *this* about it? And the best defense I've found is "it was just for eternity, that means no sex, therefore this is a non-issue 🤓" get the fuck out of here with that
 
 &nbsp;
 
 ### Dancing
 Ready for more sad reading? Good, cause we got more to get through.
 
-> *During the winter of 1843, there were plenty of parties and balls. … Some of the young gentlemen got up a series of dancing parties, to be held at the Mansion once a week. … I had to stay at home, as my father had been warned by the Prophet to keep his daughter away from there, because of the blacklegs and certain ones of questionable character who attended there. His wife ==Emma had become the ruling spirit, and money had become her God==. I did not betray William, but I felt quite sore over it, and thought it a very unkind act in father to allow [William] to go and enjoy the dance unrestrained with others of my companions, and fetter me down, ==for no girl loved dancing better than I did==, and I really felt that it was too much to bear. It made the dull school still more dull, and like a wild bird I longed for the freedom that was denied me; and thought myself a much abused child, and that it was pardonable if I did murmur. I imagined that my happiness was all over, and brooded over the sad memories of sweet departed joys and all manner of future woes[.]*
+> *During the winter of 1843, there were plenty of parties and balls. … Some of the young gentlemen got up a series of dancing parties, to be held at the Mansion once a week. … I had to stay at home, as my father had been ==warned by the Prophet to keep his daughter away from there==, because of the blacklegs and certain ones of questionable character who attended there. ... I felt quite sore over it, and thought it a very unkind act in father to allow [William] to go and enjoy the dance unrestrained with others of my companions, and fetter me down, ==for no girl loved dancing better than I did==, and I really felt that it was too much to bear. It made the dull school still more dull, and like a wild bird I longed for the freedom that was denied me; and thought myself a much abused child, and that it was pardonable if I did murmur. ==I imagined that my happiness was all over==, and brooded over the sad memories of sweet departed joys and all manner of future woes[.]*
 
 — *[Scenes and Incidents in Nauvoo](https://rsc.byu.edu/womans-view/scenes-incidents-nauvoo)*, *A Woman's View*, Helen Mar Kimball
 
@@ -160,15 +160,15 @@ Assume for a moment that coercing Helen was the only scumbag thing that Joseph S
 
 &nbsp;
 
-I'll acknowledge that practicing Mormons won't like this source, as they like to discount anything said by someone who has been excommunicated from the church; evidently that makes an individual lose all credibility and negates any of their experiences. I'll concede also that I haven't read this full book. Again, perhaps you could point to the context that makes this less egregious, because it sure sounds to me like Brigham and Heber were among the apostles to divvy up Joseph's wives, and... wait a minute...
+I'll acknowledge that practicing Mormons won't like this source, as they like to discount anything said by someone who has been excommunicated from the church; evidently that makes an individual lose all credibility and negates any of their experiences. I'll concede also that I haven't read this full book. Again, perhaps you could point to the context that makes this less egregious, because it sure sounds to me like Brigham and Heber were among the apostles to divvy up Joseph's wives, and... hey, wait a minute...
 
 *hol up now*
 
-![[what-wtf.gif]]{: .center .size40}
+![[what-wtf.gif]]{: .center .size75}
 
-Helen is asserting in no uncertain terms that she refuses to be sealed as a plural wife to her own father Heber, with the understanding that it's to "raise up children" what the fuck Heber. *Heber*. Sit down. I am deadass right now I need someone to get in the comments and tell me I'm misinterpreting this, cause it sure sounds like Heber wants to take his own daughter as a plural wife to raise up children. "By doing so they should gain his approbation?" Whose, Josephs? I can't think of anyone's approbation that makes this okay. I can't. 
+Helen is asserting in no uncertain terms that she refuses to be sealed as a plural wife to her own father Heber, with the understanding that it's to "raise up children" what the fuck Heber. *Heber*. Sit down. I am deadass right now I need someone to get in the comments and tell me that I'm misinterpreting this, cause it sure sounds like Heber wants to take his own daughter as a plural wife to raise up children. "By doing so they should gain his approbation?" Whose, Josephs? I can't think of anyone's approbation that makes this okay. I can't. 
 
-If this celestial marriage was just ceremonial, why would Helen lament that it was "any thing more than ceremony?" What exactly were these things that were more than a ceremony? If Joseph's plural wives were not for raising up seed, why would the surviving apostles have that as their explicitly stated goal in taking Joseph's surviving wives after his passing? Did these women need to be sealed *again* in order for Joseph's initial plan of bringing them exaltation to work? That wouldn't make sense, and makes me think that Joseph's polygamy wasn't quite so innocuous and philanthropic.
+If this celestial marriage was just ceremonial, why would Helen lament that it was "any thing more than ceremony?" What exactly were these things that were more than a ceremony? If Joseph's plural wives were not for raising up seed, why would the surviving apostles have that as their explicitly stated goal in taking Joseph's surviving wives after his passing? If sealing was simply a category of marriage that lasts beyond physical death, why is anyone talking about Joseph's sealed wives needing to be re-sealed? Did these women need to be sealed *again* in order for Joseph's initial plan of bringing them exaltation to work? That wouldn't make sense, and makes me think that Joseph's polygamy wasn't quite so innocuous and philanthropic.
 
 &nbsp;
 

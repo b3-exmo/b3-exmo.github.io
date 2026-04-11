@@ -16,7 +16,7 @@ Heads up, this page is due for an overhaul. The presentation needs some polish f
 
 &nbsp;
 
-The above scripture passage could be a rationale for why the LDS church leadership refuses to publish anything meaningful related to their finances. I've been able to track down aggregated information, but the stewards over this money seem very averse to [[Audits|external audits]]. The only modern "official" information I've recently found is the time they paid fines for [[SEC|defrauding the Securities Exchange Comission]]. Not a good look.
+The above scripture passage could be a rationale for why the LDS church leadership refuses to publish anything meaningful related to their finances. I've been able to track down aggregated information, but the stewards over this money seem very averse to [[Tithing-Audits|external audits]]. The only modern "official" information I've recently found is the time they paid fines for [[SEC|defrauding the Securities Exchange Comission]]. Not a good look.
 
 Most of these notes rely on context from the page on [[Tithing|tithing]], so give that a read if you haven't already. This was a subsection of that page, but became long enough that it warrants a page of its own.
 

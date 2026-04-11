@@ -87,7 +87,7 @@ strong {
 
 /* --- */
 
-/* TODO nav colors */
+/* nav colors */
 .md-nav__item .md-nav__link--active {
     color: var(--md-primary-fg-color--light)
 }
@@ -125,6 +125,7 @@ ul .md-nav__list {
     margin-left: 8px;
     min-height: 1em;
     text-transform: none;
+    color: var(--heading-text-color);
 }
 
 /* heading color bar */
@@ -205,15 +206,6 @@ ul .md-nav__list {
     font-weight: var(--h6-weight);
 }
 
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3,
-.md-typeset h4,
-.md-typeset h5,
-.md-typeset h6 {
-    color: var(--heading-text-color);
-}
-
 /* blockquote */
 [dir="ltr"] .md-typeset blockquote {
     padding-left: 1.5em;
@@ -230,6 +222,7 @@ ul .md-nav__list {
     margin-right: 16px;
     min-height: 1em;
     text-transform: none;
+    color: var(--quote-text-color);
 }
 
 .md-typeset blockquote::before {
@@ -273,6 +266,7 @@ ul .md-nav__list {
 
     --nav-link-passed: var(--accent-dark);
     --heading-text-color: #1e1e1e;
+    --quote-text-color: var(--md-primary-bg-color--dark);
 
     --background-primary: #fff;
 
@@ -316,6 +310,7 @@ ul .md-nav__list {
 
     --nav-link-passed: var(--accent-light);
     --heading-text-color: #d9d9d9;
+    --quote-text-color: var(--md-default-fg-color);
 
     --background-primary: hsl(var(--accent-h), calc(var(--accent-s) / 5), calc(1.25*var(--accent-l) / 4.5));
     --accent-h: var(--accent-dark-h);

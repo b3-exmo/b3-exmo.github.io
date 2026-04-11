@@ -8,7 +8,7 @@ comments: true
 — *[First Presidency Statement on Church Finances](https://newsroom.churchofjesuschrist.org/article/first-presidency-statement-church-finances)*, 17 December 2019 - Salt Lake City
 Official Statement
 
-Funny they [[True#Paul Grice's Maxim of Quantity|felt the need to make this official statement]] in late 2019. Probably just a coincidence. Anyway, here's a completely unrelated timeline of temples announced by President Nelson from 2018 - 2024 April:
+Funny they [[True#Maxim of Quantity|felt the need to make this official statement]] in late 2019. Probably just a coincidence. Anyway, here's a completely unrelated timeline of temples announced by President Nelson from 2018 - 2024 April:
 
 | Year | Announcements    |
 | ---- | ---------------- |
@@ -67,9 +67,11 @@ Above a certain threshold, you say?
 
 The [SEC's page describing the form](https://www.sec.gov/divisions/investment/13ffaq) outlines who needs to submit it:
 
-> *Institutional investment managers [who,] in the course of their business and that exercise ==investment discretion over $100 million or more== in Section 13(f) securities must file Form 13F. See [Section 13(f)(1) of the Securities Exchange Act](https://www.sec.gov/about/laws/sea34.pdf).*
+> ***Q: Who must file Form 13F?***
+> 
+> ***A:*** *Institutional investment managers [who,] in the course of their business and that exercise ==investment discretion over $100 million or more== in Section 13(f) securities must file Form 13F. See [Section 13(f)(1) of the Securities Exchange Act](https://www.sec.gov/about/laws/sea34.pdf).*
 
-![[joey-omg.gif]]{: .center}
+![image](../../img/joey-omg.gif){: .center .size40}
 
 Sweet Jesus.
 

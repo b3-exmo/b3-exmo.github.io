@@ -2,7 +2,6 @@
 comments: true
 ---
 # 🩸 Blood Atonement
-## Modern Church's comments
 > *"==The lady doth protest too much, methinks==" is a line from the play Hamlet by William Shakespeare. It is spoken by Queen Gertrude in response to the insincere overacting of a character in the play within a play created by Prince Hamlet to elicit evidence of his uncle's guilt in the murder of his father, the King of Denmark.*
 > 
 > *The phrase is used in everyday speech to indicate doubt of someone's sincerity, and especially that someone who denies something very strongly is hiding the truth.*
@@ -42,6 +41,10 @@ Need I remind you that during Brigham's rule over Salt Lake, banishment meant de
 > *But under certain circumstances ==there are some serious sins for which the cleansing of Christ does not operate==, and the law of God is that ==men must then have their own blood shed to atone for their sins==. Murder, for instance, is one of these sins; hence we find the Lord commanding capital punishment. Thus, also, if a person has so progressed in righteousness that his ==calling and election has been made sure==, if he has come to that position where he knows "by revelation and the spirit of prophecy, through the power of the Holy Priesthood" that he is sealed up unto eternal life (D. & C. 131:5), then if he gains forgiveness for certain grievous sins, he must "be destroyed in the flesh," and "delivered unto the buffetings of Satan unto the day of redemption, saith the Lord God." (D. & C. 132:19-27.)*
 > 
 > *President Joseph Fielding Smith has written: "Man may commit certain grievous sins - according to his light and knowledge - that will place him ==beyond the reach of the atoning blood of Christ==. If then he would be saved, ==he must make sacrifice of his Own life to atone== - so far as in his power lies - for that sin, for the blood of Christ alone under certain circumstances will not avail. . . . Joseph Smith taught that there were certain sins so grievous that man may commit, that they will ==place the transgressors beyond the power of the atonement of Christ==. If these offenses are committed, then ==the blood of Christ will not cleanse them from their sins even though they repent. Therefore their only hope is to have their own blood shed to atone==, as far as possible, in their behalf" (Doctrines of Salvation, vol. 1, pp. 133-138.) This doctrine can only be practiced in its fulness in a day when the civil and ecclesiastical laws are administered in the same hands. . . .*
+
+&mdash; *[Mormon Doctrine](https://archive.org/details/mormon-doctrine-1958-bruce-r-mc-conkie-lds)* First Edition (1958), Bruce R. McConkie, p.66 *Blood Atonement Doctrine*
+
+&nbsp;
 
 "It's an outright fabrication, a total lie with no basis in historical documentation. Anyway, here's how it works, and some historical documentation."
 

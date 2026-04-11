@@ -3,7 +3,7 @@ comments: true
 ---
 # 👴 Russell M. Nelson
 ## Passing
-Looks like President Nelson has passed away in late September of 2025, a few weeks after turning 101 years old. Lest anyone encounter these notes and conclude that I'm trying to be capitalize on his passing by smearing his name, I can demonstrate that [this note was first written in 2025 March](https://github.com/b3-exmo/b3-exmo.github.io/commit/059592e1588dc84e1908466354097c6e5f67f212#diff-df004043d98ad78a3d92f58fb64123a738f922f320bc738f944c4cacfa9d1497). I'm not trying to wish death or suffering on anyone. No, I don't agree with many things Nelson has done or said, but I recognize that many people had an emotional connection to him.
+Looks like President Nelson has passed away in late September 2025, a few weeks after turning 101 years old. Lest anyone encounter these notes and conclude that I'm trying to be capitalize on his passing by smearing his name, I can demonstrate that [this note was first written in 2025 March](https://github.com/b3-exmo/b3-exmo.github.io/commit/059592e1588dc84e1908466354097c6e5f67f212#diff-df004043d98ad78a3d92f58fb64123a738f922f320bc738f944c4cacfa9d1497). I'm not trying to wish death or suffering on anyone. No, I don't agree with many things Nelson has done or said, but I recognize that many people had an emotional connection to him.
 
 &nbsp;
 
@@ -16,9 +16,9 @@ Damn, crazy how God’s ideals are always *perfectly aligned* with those ideals 
 
 &nbsp;
 
-No joke, this was a really big [[Shelf|shelf item]] for me. This interview was given right when I hit my faith crisis. What I read from this quote is that the president of the LDS church is not acting in God's behalf. Things that President Nelson was quick to enact sound like things he'd been cooking up for years, *decades* possibly. We already have a precedent of Elder Russell Nelson suggesting [[Name Mormon#1990|we shouldn't call ourselves Mormons back in 1990]]. Isn't it just *wild* how God finally agreed with Nelson immediately after he was called to be the church president? God clearly [[Name Mormon#“I’m a Mormon” campaign|wasn't offended]] by the word "Mormon" during *any* prior church presidency.
+No joke, this was a really big [[Shelf|shelf item]] for me. This interview was published right in the midst of my faith crisis. What I read from this quote is that the president of the LDS church is not acting in God's behalf. Things that President Nelson was quick to enact sound like things he'd been cooking up for years, *decades* possibly. We already have a precedent of Elder Russell Nelson suggesting [[Name Mormon#1990|we shouldn't call ourselves Mormons back in 1990]]. Isn't it just *wild* how God finally agreed with Nelson immediately after he was called to be the church president? God clearly [[Name Mormon#“I’m a Mormon” campaign|wasn't offended]] by the word "Mormon" during *any* prior church presidency.
 
-To me, this calls into question how divinely inspired this man is. Did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, Dallin Oaks is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
+To me, this calls into question how divinely inspired this man is. Did God reveal things to Nelson twenty years in advance to just keep in his back pocket? And it becomes doctrinal once he outlives Thomas Monson? At the time of writing this note, [[Dallin-Oaks|Dallin Oaks]] is next in line. Has Oaks been receiving preemptive revelation before he can definitively say "now is the great day of my power. I rule from the rivers to the ends of the earth" and enact them? I'll be real, I kind of hope not.
 
 And, just to make sure that you and I are on the same page, I am not interested in *ad hominem* smack-talk "this guy sucks and also is old" as an attitude here. At the time of writing, he's still alive at 100 years old. Irrespective of religious affiliation, respect where it's due for someone three times my age. I intend to criticize specific claims or qualities. No, I don't *like* Nelson, but I'm not here to make libelous allegations or defame him.
 
@@ -48,7 +48,7 @@ One, I don't think that actually *is* "the way genetics works."
 
 Two, someone with *40 years experience* as a medical doctor should have a better understanding of "the way genetics works," and maybe shouldn't use the word "incomprehensible" to describe the generally accepted understanding of evolution.
 
-Three, "lower animals/species" sounds like a very cavalier way of looking at God's creations. Didn't God charge mankind with stewardship over the Earth? The temple endowment ceremony says, by my recollection, "take good care of it." Nelson doesn't say that this surgical practice was a [vivisection](https://en.wikipedia.org/wiki/Vivisection), but I have a hard time imagining what else it could be.
+Three, "lower animals/species" sounds like a very cavalier way of looking at God's creations. Didn't God charge mankind with stewardship over the Earth? The temple endowment ceremony says, by my recollection, "take good care of it." Nelson doesn't explicitly say that this surgical practice was a [vivisection](https://en.wikipedia.org/wiki/Vivisection), but I have a hard time imagining what else it could be.
 
 &nbsp;
 
@@ -61,13 +61,13 @@ We could make the argument that a lowly associate professor's disposition holds 
 &nbsp;
 
 ### Qualification
-I've encountered the claim that Nelson "performed nearly 7,000 operations before his surgical career ended with the call to serve as an apostle." ([Who is President Russell M. Nelson? A man of heart, compassion and faith](https://web.archive.org/web/20241224222123/https://www.deseret.com/2018/1/16/20625383/who-is-president-russell-m-nelson-prophet-church-of-jesus-christ-of-latter-day-saints-heart-surgeon/), Deseret News, Jan 15, 2021) Sure, I suppose I can take that at face value.
+I've encountered the claim that Nelson "performed nearly 7,000 operations before his surgical career ended with the call to serve as an apostle." ([Who is President Russell M. Nelson? A man of heart, compassion and faith](https://web.archive.org/web/20241224222123/https://www.deseret.com/2018/1/16/20625383/who-is-president-russell-m-nelson-prophet-church-of-jesus-christ-of-latter-day-saints-heart-surgeon/), Deseret News, Jan 15, 2021) Sure, I suppose I can take that at face value. 40 years is ostensibly long enough for that to add up, approximately 175 operations per year, or 14.6 per month. That's a lot, but it's not unreasonable by my estimation.
 
 Nelson was called as an apostle in April 1984. ([1](https://www.churchofjesuschrist.org/study/general-conference/1984/04/the-sustaining-of-church-officers?lang=eng&id=p11-p12#p11), [2](https://www.churchofjesuschrist.org/study/general-conference/1984/04/call-to-the-holy-apostleship?lang=eng&id=p3#p3)) At the time of the COVID-19 pandemic, he was `2020 - 1984 = 36` years displaced from practicing medicine. And yet folks will marvel at God's infinite wisdom in calling someone with medical background to lead the church during a pandemic.
 
-Talk to someone who has worked as a Certified Nurse Assistsnt (CNA) about how employable their medical work experience makes them if their certificate has been expired for *one week*. I'm very interested to know what they'll have to say.
+Talk to someone who has worked as a Certified Nurse Assistant (CNA) about how employable their medical work experience makes them if their certificate has been expired for *one week*. I'm very interested to know what they'll have to say.
 
-2020 was somehow five years ago (at the time of writing this note,) meaning that Nelson is now *forty-one* years displaced from practicing medicine, and is still given credence on anything he has to say on the matter. I can't think of *any other context* where someone is treated as a subject matter expert after not working in an industry for forty goddamned years. What the fuck.
+2020 was somehow five years ago (at the time of writing this note,) meaning that Nelson is now *forty-one* years displaced from practicing medicine, and is still given credence on anything he has to say on the matter. Nelson now has more time since leaving his career than he spent in it. I can't think of *any other context* where someone is treated as a subject matter expert after not working in an industry for forty goddamned years. What the fuck.
 
 &nbsp;
 
@@ -94,8 +94,91 @@ Talk to someone who has worked as a Certified Nurse Assistsnt (CNA) about how em
 
 &nbsp;
 
+## Myopia
+> *Not long ago, the wife of one of our grandsons was struggling spiritually. I will call her “Jill.” Despite fasting, prayer, and priesthood blessings, Jill’s father was dying. She was gripped with fear that she would lose both her dad and her testimony.*
+> 
+> *... The next morning \[my wife\] Wendy felt impressed to share with Jill that ==my response== to her spiritual wrestle was one word! The word was* myopic.
+> 
+> *...*
+> 
+> *After Jill’s father passed on, the word* myopic *kept coming to her mind. She opened her heart to understand even more deeply that* myopic *meant “nearsighted.” And her thinking began to shift. Jill then said,* “Myopic *caused me to stop, think, and heal. That word now fills me with peace. It reminds me to expand my perspective and seek the eternal. It reminds me that there is a divine plan and that my dad still lives and loves and looks out for me.* Myopic *has led me to God.”*
+
+&mdash; *[Let God Prevail](https://www.churchofjesuschrist.org/study/general-conference/2020/10/46nelson?lang=eng&id=p12-p13,p15#p12)* by President Russell M. Nelson, General Conference 2020 October
+
+We can't verify anything about what someone with the pseudonym "Jill" thinks or feels, but oh boy, if I had any theological leader tell me that I'm being myopic about a loved one passing away... I probably wouldn't respond as calmly and gently as Jill has in this story. I'll concede that Nelson's story has a happy ending...? Jill reports that being reminded of nearsightedness helped her find closure in the end. 
+
+Yes, I've omitted a paragraph from the above excerpt for the sake of brevity. Follow the provided link for a more verbose quotation.
+
+&nbsp;
+
+> - *unable to understand a situation or the way actions will affect it in the future.*
+> - *unable to see clearly things that are far away.*
+
+&mdash; Example definitions from *[Myopic](https://dictionary.cambridge.org/us/dictionary/english/myopic)*, Cambridge Dictionary
+
+&nbsp;
+
+I first encountered this word when I was taking business marketing classes as part of a certification in college. The context of the word was presented as "not understanding what industry your business is in."
+
+My professor illustrated "restaurants are *not* in the food industry, restaurants are entertainment. Customers come to a restaurant for the atmosphere, for convenience, to be served, to spent time or socialize with family or friends. Food is part of the experience, but is not *the* experience."
+
+Defining myopia isn't really the point I'm trying to get to here, but if that tangent catches your interest, here's some more reading material:
+
+??? "Marketing Myopia"
+	- [What Is Marketing Myopia? Meaning, Examples & Fixes](https://www.linkedin.com/pulse/what-marketing-myopia-meaning-examples-fixes-matic-solutions-w5kaf), linkedin
+	- [Marketing Myopia](https://hbr.org/2004/07/marketing-myopia), Harvard Business Review
+	- [What Is Myopic Marketing?](https://www.indeed.com/career-advice/career-development/what-is-myopic-marketing), indeed
+	- [Marketing Myopia](https://en.wikipedia.org/wiki/Marketing_myopia), wikipedia
+
+My prior encounters with *myopia* isn't proving Nelson wrong or anything; that's simply the context I had in mind when hearing Nelson's (frankly) callous disregard for his granddaughter-in-law's emotions when losing a loved one.
+
+Imagine it, though. Have you lost a family member close to you? If so, revisit the distressed state of mind in the days surrounding their passing. You have another family connection who is in a theological position of influence, and ask them for consolation. You likely wouldn't have asked him if you didn't think it would help anything.
+
+"You're being nearsighted. You clearly just don't understand things from a grander scale," he says in your time of emotional hurt. Implicit is "you shouldn't be sad that your father is dying."
+
+Very cool, thanks 👍
+
+&nbsp;
+
+> *As you minister to someone struggling with grief, show love first and foremost. Statements like these may help you communicate empathy:*
+> 
+> - *“I don’t know what to say, but I want you to know I care about you.”*
+> - *“You don’t have to talk if you don’t want to, but I’m here to listen if you do.”*
+> - *“It’s OK to have different feelings from one day, or one moment, to the next. There’s no one right way to feel. Just let yourself experience emotions as they come.”*
+> - *“I’m really sorry you have to go through this.”*
+
+> *Remember to be sensitive. Some well-intended statements may not be perceived as empathetic to those who are grieving. The following examples may be more hurtful than helpful:*
+>
+> - *“It’s part of God’s plan.”*
+> - *“At least …” (“At least they didn’t suffer,” “At least you can date other people now,” “At least now you can find a job you actually like,” and so on).*
+> - *“I had a similar experience.”*
+> - *“Serve more.”*
+> - *“Things will get better with time.”*
+> - *“You should …” or “You will …”*
+> - *“He [or she] is in a better place.”*
+
+&mdash; *Grief and Loss*, Ward or Branch Callings, Counseling Resources, churchofjesuschrist.org ([1](https://www.churchofjesuschrist.org/study/manual/counseling-resources/grief-and-loss?lang=eng&id=p5-p9#p5), [2](https://www.churchofjesuschrist.org/study/manual/counseling-resources/grief-and-loss?lang=eng&id=p26-p33#p26))
+
+See also:
+
+- *[How Can I Cope with the Loss of a Loved One?](https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/how-can-i-cope-with-the-loss-of-a-loved-one)*
+- *[“I lost a dear friend recently. How do I deal with the grief?”](https://www.churchofjesuschrist.org/study/new-era/2015/02/i-lost-a-dear-friend-recently-how-do-i-deal-with-the-grief?lang=eng)*
+- *[Lifting the Hands Which Hang Down](https://www.churchofjesuschrist.org/study/ensign/2013/02/lifting-the-hands-which-hang-down?lang=eng)*
+- *[Mosiah 18:9](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/18?lang=eng&id=p9#p9)* ("mourn with those that mourn, comfort those that stand in need of comfort...")
+- *[D&C 42:45](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p45#p45)* ("Thou shalt live together in love, insomuch that thou shalt weep for the loss of them that die...")
+
+Not one of the above resources or examples of guidance advise you to say "you're being a clown for feeling sad that your father is suffering and dying. In fact, your emotional state demonstrates that you don't see God's eternal plan well enough."
+
+&nbsp;
+
+*I guess* that the sentiment is valid, and from Mormonism's perspective, it's true. However, I will assert that it's got to be among *the least diplomatic* things to say to a grieving family member. That would be more suitable to say *months* after the incident, after the emotional pain has dulled and faded. You don't tell someone that they're being a little shit for feeling emotional about losing a family member.
+
+And, don't forget that since a [prophet's voice is functionally the same](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38) as God's voice, that means that God is telling you that you're being a little shit, too. You know, your [[Gods Conditional Love|loving heavenly father]] who can offer comfort and consolation... contingent on your obedience?
+
+&nbsp;
+
 ## What has he done?
-What good has Russell Nelson done for the world?
+What good has Russell Nelson done for the world? I don't want that rhetorical question to imply that he has done nothing good, but I see value in enumerating, or at least describing what positive changes have come from this one man. "He was a prophet" is an answer, but don't forget that each president of the church has 14 contemporaries who are each *also* sustained as prophets. What makes Nelson special?
 
 From the perspective of one outside the LDS church, what accomplishment or contribution from Nelson would you point to as an example of his prophetic authority?
 
@@ -117,7 +200,7 @@ Anyone could announce temples. A delegated apostle or seventy could have done th
 This page on Nelson generally was getting long and unwieldy. I've opted to split up the notes into smaller pages, so here is some more material:
 
 - [[Nelsons-Plane|Nelson's Plane]]: Remember that time he was in a plane and the engine exploded and the plane went into a tailspin and crashed in a field and, miraculously, no one died? Crazy, huh? I wonder if there's any external documentation of that event... 🤔
-- [[Nelson-vs-Covid|Nelson Vs. COVID]]: I should hope that a prophet would warn and advise us of an upcoming event that throws the world into disarray. Even if the hypothetical prophetic words are just as vague and non-specific as every other Conference address, maybe he should say *something* meaningful...? What did he say before March 2020?
+- [[Nelson-vs-Covid|Nelson Vs. COVID]]: I should hope that a prophet would warn and advise us of an upcoming event that throws the world into disarray. Plenty of Conference talks could be shuffled into any given year, but this event seems pretty unique. Maybe he should say *something* meaningful...? What did he say before March 2020?
 - [[Nelson-social-media-fast|Nelson's Social Media Fast]]: Probably just a coincidence that a close relative of the prophet was involved in some egregious legal accusations mere days before he tells us to avoid all social media for ten days.
 
 &nbsp;

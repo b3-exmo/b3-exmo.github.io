@@ -1,8 +1,8 @@
 ---
 comments: true
 ---
-# 😵 It's too sacred!
-These are quotes and examples meant to illustrate ideas that are [[Too Sacred to Share]]. Ended up being too many to fit snugly in that section, so they're here instead.
+# 😵 Quotes: It's too sacred!
+These are quotes and examples meant to illustrate ideas that are [[Too Sacred to Share|too sacred to share]]. Ended up being too many to fit snugly in that section, so they're here instead.
 
 &nbsp;
 

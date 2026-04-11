@@ -254,7 +254,7 @@ What? Isn't the prophet meant to be unifying people under one banner? Gathering 
 
 > *As we come closer to the Lord’s second coming you can expect that as the people of the world become more wicked, the prophet will be less popular with them.*
 
-??? When prophets are most critically important, [[Theology#God's Plan|they become less effective]] at their one task. 
+\??? When prophets are most critically important, [[Theology#God's Plan|they become less effective]] at their one task. 
 
 &nbsp; 
 

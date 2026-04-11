@@ -6,7 +6,7 @@ I would like to be proven wrong about the ideas in this page. To me, this is dis
 
 &nbsp;
 
-Tithing is required to get into the temple, right? And temple ceremonies are required for salvation? That means that tithing is required for salvation.
+Tithing is required to get into the temple, right? And temple ceremonies are required for salvation? That means that paying tithing is required for salvation.
 
 - A religion that requires payments for full access isn’t a religion.
 - If tithing is required, it isn’t voluntary.
@@ -14,8 +14,8 @@ Tithing is required to get into the temple, right? And temple ceremonies are req
 - If your god needs your money, your god is incompetent.
 - “God doesn’t need the money” Then what the hell am I paying for? Salvation is kept behind a paywall.
 - “It’s just so we can get blessed” There’s no way to qualify for those blessings, other than donating money to an organization with 0 accountability?
-- “We need tithing to do the Lord’s work.” Idk has the church tried praying for money? Has God asked his family and friends for money instead?
-- If the church is great with our money, why don’t they publish their budgets? Why don’t they prove that they are good stewards of our donations? Why, instead, did they [[SEC Order|set up 13 shell companies]]?
+- “We need tithing to do the Lord’s work.” Idk has the church tried praying for money? Has God asked His family and friends for money instead?
+- If the church is great about handling our money responsibly, why don’t they publish their budgets? Why don’t they *prove* that they are good stewards of our donations? Why, instead, did they [[SEC Order|set up 13 shell LLCs]]?
 
 Please, list the ordinances I qualify for without paying any money. “Tithing is a commandment” is not a reason.
 
@@ -24,7 +24,7 @@ Please, list the ordinances I qualify for without paying any money. “Tithing i
 ## [[My own experience#Connecting the dots|As I See It]]
 In college, during the same semester that I was taking accounting classes, I encountered a MormonLeaks whistleblower report that the LDS church had an outrageous sum of money, not being disbursed. Trying to apply what I’ve learned from accounting, I resolved that the church surely has balance sheets and reports. They _could_ set the record straight about how much money they have, and where it’s going.
 
-In General Conference, I’d listen to their [[Audits#Internal Audit Reports|financial audit report]]. I was not impressed. “We have examined ourselves, and found us to be following our own rules.” What rules? Why not have an external audit? Can we get more detail than a pass/fail?
+In General Conference, I’d listen to their [[Tithing-Audits#Internal Audit Reports|financial audit report]]. I was not impressed. “We have examined ourselves, and found us to be following our own rules.” What rules? Why not have an external audit? Can we get more detail than a pass/fail?
 
 If they do have accounts and reports, they are not publicly available. It sounds like a deliberate choice to conceal that information. I’m asked to send money to an organization with absolutely no accountability for how it’s used. I decided to not pay a dime more until I see some satisfying data on how the money gets used. That is tangible, quantitative information that can be reported, no faith needed. The number is there, but it is hidden from me.
 
@@ -36,11 +36,11 @@ As of 2019, upwards of 100 billion in investment portfolios:
 - Washington Post: [Mormon Church has misled members on $100 billion tax-exempt investment fund, whistleblower alleges](https://web.archive.org/web/20240611223653/https://www.washingtonpost.com/investigations/mormon-church-has-misled-members-on-100-billion-tax-exempt-investment-fund-whistleblower-alleges/2019/12/16/e3619bd2-2004-11ea-86f3-3b5019d451db_story.html)
 - Wall Street Journal: [The Mormon Church Amassed $100 Billion. It Was the Best-Kept Secret in the Investment World.](https://web.archive.org/web/20201201012653/https://www.wsj.com/articles/the-mormon-church-amassed-100-billion-it-was-the-best-kept-secret-in-the-investment-world-11581138011)
 
-This number is difficult to nail down, seeing how the church doesn't publish any useful information about how much money they have. This is a big enough tangent that I'll direct you to another page of notes describing what I've found.
+This number is difficult to nail down, seeing how the church doesn't publish any useful information about how much money they have.
 
 &nbsp;
 
-[[Audits|Internal audits]] promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie; the church most certainly has budgets, policies, procedures, etc, and perhaps amassing hundreds of billions doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
+[[Tithing-Audits|Internal audits]] promise that everything is fine, and "in accordance with appropriate accounting practices, approved budgets, and Church policies and procedures." This isn't necessarily a lie; the church most certainly has budgets, policies, procedures, etc, and perhaps amassing hundreds of billions doesn't breach any of those rules. That does raise the question of *what exactly are those rules, then?* Can any readers point me to them? I've got a comment section for exactly that purpose.
 
 &nbsp;
 
@@ -90,7 +90,7 @@ That ellipsis and that footnote are doing some heavy lifting. What is it omittin
 
 *“who has means”* changes the context of this commandment. It necessarily excludes those who are impoverished. It doesn't imply at all that members should first pay tithing before addressing other responsibilities, as modern General Conference speeches suggest.
 
-Lorenzo's “I plead” does not really sound like it should be equated to “thus saith the Lord”. Also note in the top right corner of that image is year-over-year comparisons of tithing money "paid" in July - September, 1808 - 1809. I wonder why they stopped publishing information like that? Or, why did they publish it like that in the first place?
+Lorenzo's “I plead” does not really sound like it should be equated to an authoritatively declared “thus saith the Lord”. Also note in the top right corner of that image is year-over-year comparisons of tithing money "paid" in July - September, 1808 - 1809. I wonder why they stopped publishing information like that? Or, why did they publish it like that in the first place?
 
 &nbsp;
 
@@ -110,7 +110,7 @@ I could imagine someone defending this quote by pointing to the qualifier "*exce
 
 — *[Concerning Tithing](https://www.churchofjesuschrist.org/study/ensign/1980/06/concerning-tithing?id=p4&lang=eng#p4)*, First Presidency Message, President Marion G. Romney, Second Counselor in the First Presidency; Ensign, June 1980
 
-Oh. Cool, thanks. Always thrilled to find that our loving Heavenly Father's Plan of Eternal Happiness™ involves me being indebted from birth.
+Oh. Cool, thanks. Always thrilled to find that our loving Heavenly Father's Plan of Eternal Happiness™ involves me being indebted from birth. If that wasn't enough, satisfying this debt is to pay into an organization that actively conceals its how much money it holds and how it is used. As an added bonus, this organization also "[[WSJ Interview|misstated its assets on federal tax returns]]", just like Jesus would have wanted 🤗
 
 &nbsp;
 
@@ -177,12 +177,10 @@ Need I remind readers that Deseret News is [[Sources and Links#Deseret News|owne
 &nbsp;
 
 ### Philanthropy, maybe
-If you’re a billionaire, they’ve even got a special donation avenue for you, via LDS Philanthropies, [Private Foundation](https://philanthropies.churchofjesuschrist.org/gift-planning/how-to-give/family-directed-giving-tools/private-foundation). Is this a problem? Strictly speaking, no, it isn't morally wrong, but it certainly doesn't feel like they're asking for donations to support The Lord's work here on earth. In fact...
+If you’re a billionaire, they’ve even got a special donation avenue for you, via *LDS Philanthropies, [Private Foundation](https://philanthropies.churchofjesuschrist.org/gift-planning/how-to-give/family-directed-giving-tools/private-foundation)*. Is this a problem? Strictly speaking, no, it isn't morally wrong, but it certainly doesn't feel like they're asking for donations to support The Lord's work here on earth. In fact...
 
->*Private foundations have been a popular and effective method ==for wealthy families to create a family legacy of philanthropy==.*
-
->*. . .*
-
+>*Private foundations have been a popular and effective method ==for wealthy families to create a family legacy of philanthropy==. ...*
+>
 >*There are many advantages of a private foundation:*
 > 
 >***Personal advantage:** creating a private foundation is in essence ==creating one's own personal charity==; a private board is hand selected for the foundation.*
@@ -201,13 +199,11 @@ I find this very upsetting. Is this what Jesus taught? [Luke 11:39-43](https://w
 
 We can hype up how great it is to build up your own personal charity with a private board of directors for future generations to laud how generous you are, but if you're going to do that, don't be the same organization that [teaches](https://www.churchofjesuschrist.org/study/general-conference/2017/10/the-heart-of-the-widow?lang=eng&id=p5-p8#p5) us [about](https://www.churchofjesuschrist.org/study/general-conference/2022/04/57uchtdorf?lang=eng&id=p2-p4#p2) the [Widow's Mite](https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=eng&id=p25-p30#p25). _This is self-aggrandizement_. That promotional statement has absolutely nothing to do with the church's declared mission, or any purpose of tithing.
 
-God bless America, if I keep reading into this, my notes will devolve further into chaotic ranting 🙃
-
 &nbsp;
 
 ### City Creek Mall
 #### Funding
-Chronologically, the earliest time I recall hearing about this was in General Conference, from Gordon Hinckley himself:
+Chronologically, the earliest time I recall hearing about this was in General Conference, from Mr. Gordon Hinckley himself:
 
 >*We feel we have a compelling responsibility to ==protect the environment== of the Salt Lake Temple. . . . We have felt it imperative to do something to revitalize this area. But I wish to give the entire Church the assurance that ==tithing funds have not and will not be used to acquire this property. Nor will they be used in developing it for commercial purposes==.*
 >
@@ -218,6 +214,8 @@ Chronologically, the earliest time I recall hearing about this was in General Co
 Better get ahead of those rumors and defend our decisions *immediately*. Nothing to see here, just business as usual. Note the explicit delineation of tithing money versus "earnings of invested reserve funds." That might [[SEC Order|become relevant later]].
 
 &nbsp;
+
+It certainly was a relevant factor in this 2024 lawsuit against the LDS church:
 
 > *An appeals court has thrown out Utahn James Huntsman’s ==fraud lawsuit== against The Church of Jesus Christ of Latter-day Saints over millions of dollars in tithing.*
 > 
@@ -240,9 +238,9 @@ Isn't it amazing how a well-funded legal team can change the past?
 
 Protect the environment? Protect it from what? This sounds like [gentrification with extra steps](https://www.youtube.com/watch?v=yxUfe3g7klk). No, really, that just sounds like gentrification, full stop.
 
-Next up: that Forbes article that the LDS Newsroom got excited about.
-
 &nbsp;
+
+Let's look into that Forbes article that the LDS Newsroom got excited about:
 
 > *Over the next few years, with an investment estimated locally at ==$2 billion==, developers hope to transform a 20-acre swath of the city's now-uninspired central core. By 2012 they hope to create a model downtown district with a whole new ==array of retail shops and residential towers accommodating some 700 units==.*
 > 
@@ -262,9 +260,9 @@ Protect from what?
 > 
 >*My little children, let us not love in word, neither in tongue; but in deed and in truth.*
 
-— [*1 John 3:17-18*](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17)
+— *[1 John 3:17-18](https://www.churchofjesuschrist.org/study/scriptures/nt/1-jn/3?lang=eng&id=p17-p18#p17)*
 
-Or, in layman's terms, if you have spare resources ($2 billion for a shopping center) and see someone without resources, and opt not to share, how can you say you love God? Don't just say you love God, do something about the poverty ([1](https://www.slc.gov/homelessness/), [2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/), [3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)) around you!
+Or, in layman's terms, if you have spare resources ($2 billion for a shopping center) and see someone without resources, and opt not to share, how can you say you love God? Don't just *say* you love God, do something about the poverty ([1](https://www.slc.gov/homelessness/), [2](https://utahstories.com/2022/05/homeless-in-salt-lake-city-the-worsening-conditions-of-the-chronically-homeless-and-those-suffering-from-mental-disorders/), [3](https://www.ksl.com/article/51043597/salt-lake-county-opens-transitional-living-building-for-homeless-or-at-risk-young-adults)) around you!
 
 &nbsp;
 
@@ -312,9 +310,9 @@ Beneficial ~~Life~~ Financial Group [is still around](https://www.beneficialfina
 &nbsp;
 
 ### What's wrong with this? 
-Take a step back and think rationally, maybe without cursing.
+I really ought to take a step back and think rationally, maybe without cursing.
 
-Yes, the Church is within its rights to do this. They're accountable only to themselves. They didn't outright create a mall, there was a mall already there. It's downtown Salt Lake. A high-rise and a shopping center belong downtown. It is not out of place, nor is it misplaced. I don't have a source handy, but I had heard the claim that since the LDS faith practically founded Salt Lake, they have stakes, connections, ownership partially or wholly in industries and businesses. Is that, on its face, wrong? No. 
+Yes, the Church is within its rights to do this. They're accountable largely to themselves. They didn't outright create a mall, there was a mall already there. It's downtown Salt Lake. A high-rise and a shopping center belong downtown. Such a mall is not out of place, nor is it misplaced. I don't have a source handy, but I had heard the claim that since the LDS faith practically founded Salt Lake, they have stakes, connections, ownership partially or wholly in industries and businesses. Is that, on its face, wrong? No.
 
 ***However...***
 
@@ -322,7 +320,7 @@ Imagine seeing the Catholic Church buying up some established McDonald's franchi
 
 Now picture the LDS church owning a shopping mall and apartment complex. 
 
-None of those things are pearl-clutching revelations to bring the masses to grab their pitchforks and start lynching. They definitely feel out of place, though. The public image of these organizations and religions is that they're charitable, running on donations, not engaging in any commercial business. I feel a lot of cognitive dissonance reading about it. *I was raised to believe that the Church runs on donated tithes.*
+None of those things are pearl-clutching revelations to bring the masses to grab their pitchforks and start lynching. They definitely feel out of place, though. The public image of these organizations and religions is that they're charitable, running on donations, not engaging in any commercial business. I feel a lot of cognitive dissonance reading about it. *I was raised to believe that the Church runs on donated tithes*.
 
 I cannot understate this enough: mishandling tithing is not a problem that reading scriptures and praying is going to fix. This is not a problem that will be fixed by humming a hymn and taking sacrament. I want accountability.
 

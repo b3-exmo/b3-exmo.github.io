@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🥓 Curated Information
-I don't really know what to title this page. The intent is "don't look outside of our ecosystem for information." Does that make internal information curated? Not necessarily, but it was an excuse to use that bacon emoji, which is always a win in my book. Get it? Curated sources, cured bacon... yeah, I guess it was funnier in my head
+I don't really know what to title this page. The intent is "don't look outside of our ecosystem for information." Not a compelling title. Does that make internal information curated? Not necessarily, but it was an excuse to use that bacon emoji, which is always a win in my book. Get it? Curated sources, cured bacon... yeah, I guess it was funnier in my head
 
 &nbsp;
 
@@ -10,9 +10,9 @@ I don't really know what to title this page. The intent is "don't look outside o
 > 
 > *Members of the Church should seek out and share only credible, reliable, and factual sources of information. They should avoid sources that are speculative or founded on rumor. The guidance of the Holy Ghost, along with careful study, can help members discern between truth and error (see [Doctrine and Covenants 11:12](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/11?lang=eng&id=p12#p12); [45:57](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p57#p57)). In matters of doctrine and Church policy, the ==authoritative sources are the scriptures, the teachings of the living prophets, and the General Handbook==.*
 
-— *[Seeking Information from Reliable Sources](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number226-p2391#title_number226)*, Section 38.8.41, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
+— *[Seeking Information from Reliable Sources](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title_number226-p2391#title_number226)*, &sect; 38.8.41, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
 
-Yeah. Many sources of information are unreliable. I don't want anyone to consider that the LDS church has always been a reliable source, though. It's been known to obscure information. 
+Yeah. Many sources of information are unreliable. I don't want anyone to consider that the LDS church has always been a reliable source, though. It's been known to [[Whitewashing|obscure information]].
 
 &nbsp;
 
@@ -139,7 +139,7 @@ Enter that search term into the church site's [search form](https://www.churchof
 
 — [Lesson 140: Doctrine and Covenants 132:1–2, 34–66](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-and-church-history-seminary-teacher-manual-2014/section-6/lesson-140-doctrine-and-covenants-132-1-2-34-66?lang=eng&id=aside2_title1-aside2_p1#aside2_title1),Doctrine and Covenants and Church History Seminary Teacher Manual 
 
-I'm not [[Polygamy#Required for exaltation!|sure I believe that]], ngl
+I'm [[Polygamy#Required for exaltation!|not sure I believe that]], ngl
 
 I will also observe that the manual specifically highlights verses 1 & 2, then 34 - 66. I wonder why they'd leave out such a big gap in [[DC 132|D&C 132]]?
 
