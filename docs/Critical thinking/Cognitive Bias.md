@@ -49,11 +49,11 @@ When questioning members are advised to "take your questions to the Lord and to 
 
 ### Made up examples
 
-|                    | Something *good* happens to...                                                                             | Something *bad* happens to...                                                                                   |
-| ------------------ | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Prospective Mormon | A [[What are blessings\|blessing]] from God to confirm what the missionaries said is true. Church is true! | Satan is trying to derail the conversion & baptism, proving we're right. Church is true!                        |
-| Current Mormon     | Blessing from God for obedience to baptism covenants. Church is true!                                      | Life is a test. Reminder to repent and obey. Church is true!                                                    |
-| Former Mormon      | Not real happiness. Forfeited real blessings from God. Church is still true.                               | Consequences of disobedience. Wicked will not prosper. Forfeited real blessings from God. Church is still true! |
+|                    | Something *good* happens to...                                                     | Something *bad* happens to...                                                                                   |
+| ------------------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Prospective Mormon | A blessing from God to confirm what the missionaries said is true. Church is true! | Satan is trying to derail the conversion & baptism, proving we're right. Church is true!                        |
+| Current Mormon     | Blessing from God for obedience to baptism covenants. Church is true!              | Life is a test. Reminder to repent and obey. Church is true!                                                    |
+| Former Mormon      | Not real happiness. Forfeited real blessings from God. Church is still true.       | Consequences of disobedience. Wicked will not prosper. Forfeited real blessings from God. Church is still true! |
 
 All of these outcomes lead to the same conclusion that the LDS church is true. It can't be false, there's [[Falsifiability|no fail state]] in these scenarios.
 

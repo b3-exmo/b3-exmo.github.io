@@ -57,7 +57,7 @@ Another excerpt from the same page quoted above:
 > 
 > *For Adam and Eve, the garment served as ==a symbol of their relationship with God== and provided a reminder of the covenants that allowed them to receive the ==many blessings== God has for His faithful children. As we navigate the challenges and trials of mortality, the garment can help us ==remember Jesus Christ==, cherish our temple covenants, and remain firm in our commitment to qualify for the blessings of eternal life.*
 
-I have yet to find [[What are blessings|what blessings]] to expect from wearing garments. Is this one of those [[Doctrines/Polygamy/Sealing#Nonrepudiation|post-mortem promises]], where you'll find out what you get only after you've died?
+I have yet to find [[What are blessings|what blessings]] to expect from wearing garments. Is this one of those [[Sealing#Nonrepudiation|post-mortem promises]], where you'll find out what you get only after you've died?
 
 &nbsp;
 
@@ -95,7 +95,7 @@ Is this one of those topics that is [[Too Sacred to Share|too sacred to share]]?
 
 ... Was that so hard? In three paragraphs, Wikipedia just ran circles around the dozen or so LDS materials I had read that skirted the issue, insisting that it has "deep symbolic significance" and contrasting outward and inward. Those descriptions from McKay are the ones that I remember hearing as a practicing Mormon. I will also concede that those explanations I had heard were vague recollections at best, when every day I put them on. I was much more worried about how often they shrank in the laundry, resulting in a poor fit. I was also anxious about the possibility of them becoming visible to a passerby, and how would I explain wearing two layers of clothes in the summer months while living in Florida.
 
-Also, hold the phone, now— a collar? Double-knotted strings? I have some follow-up questions here. Those things with divinely appointed symbolism were removed some time between 1883 and 1926, likely because of the industrial revolution making textile manufacturing more streamlined. Making the two-piece garment into a t-shirt and shorts style is presumably more accessible, easier to make, easier to don, and presumably cheaper. Who knew that God's eternal covenants would be so heavily influenced by capitalism? Moreover, in the linked Wikipedia article is an image of the classic garment: a one-piece, long-sleeved, full-length article of clothing, featuring a collar and strings to tie together. Go check it out if you'd like to. 
+Also, hold the phone, now— a collar? Double-knotted strings? I have some follow-up questions here. Those things with divinely appointed symbolism were removed some time between 1883 and 1926, possibly because of the industrial revolution making textile manufacturing more streamlined. Making the two-piece garment into a t-shirt and shorts style is presumably more accessible, easier to make, easier to don, and presumably cheaper. Who knew that God's eternal covenants could be so heavily influenced by capitalism? Moreover, in the linked Wikipedia article is an image of the classic garment: a one-piece, long-sleeved, full-length article of clothing, featuring a collar and strings to tie together. Go check it out if you'd like to. 
 
 For President John Taylor to share this insight in 1883 makes me wonder if the symbolism had explanations during Smith or Young's respective presidencies. I know that there exists lots of reading material about the intersection of Free Masonry and Mormon temples, including those symbols. Did folks during Smith's presidency have an outlined symbolism explanation?
 
@@ -228,7 +228,7 @@ What? No, we're not a cult.
 
 — *[Modest by Design](https://www.churchofjesuschrist.org/study/new-era/2010/06/modest-by-design?lang=eng&id=p5-p7#p5)*, Julia Woodbury, New Era June 2010
 
-I am not female, so these are experiences that I cannot empathize with... but really, was this "rewarding?" There could be some social value in bonding with Grandma over a craft. I have little experience with sewing to create my own Halloween costumes, and must admit that it was kind of fun. How intrinsically satisfying was it to put a bolero jacket over your cute black dress? If your entire worth as a human is contingent upon temple-[[Culture#Worthiness|worthiness]], then I guess it's very fulfilling...?
+I am not female, so these are experiences that I cannot empathize with... but really, was this "rewarding?" There could be some social value in bonding with Grandma over a craft. I have little experience with sewing to create my own Halloween costumes, and must admit that it was kind of fun. How intrinsically satisfying was it to put a bolero jacket over your cute black dress? If your entire worth as a human is contingent upon temple-worthiness, then I guess it's very fulfilling...?
 
 &nbsp;
 

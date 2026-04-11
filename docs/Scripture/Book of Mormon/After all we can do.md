@@ -41,7 +41,7 @@ I don't think I could find an LDS teaching that suggests Jesus' grace is somehow
 
 &nbsp;
 
-The LDS church's foundational text, the [[Book of Mormon]], in pretty explicit terms teaches ==salvation by grace==. As shown in the above quote, we're advised that Jesus' grace only takes effect after we put in some effort. Not token effort, but after *exhausting every other resource and avenue possible* to us.
+The LDS church's foundational text, the [[Book of Mormon|Book of Mormon]], in pretty explicit terms teaches ==salvation by grace==. As shown in the above quote, we're advised that Jesus' grace only takes effect after we put in some effort. Not token effort, but after *exhausting every other resource and avenue possible* to us.
 
 However, the Book of Mormon does not teach that we, as mortals, really have to do much of anything other than ask Jesus to *do us a real solid*. There simply aren't specific examples of working out our own salvation before relying on Jesus. I'll show some accounts in the Book of Mormon of simply asking for divine intervention, and the subject is addressed immediately with salvation, having not really done anything. Some examples are of being saved from sin and iniquity, and others are more pedestrian.
 

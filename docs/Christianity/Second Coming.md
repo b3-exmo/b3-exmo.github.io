@@ -11,7 +11,9 @@ The apostle Paul was pretty sure that Jesus was coming back any minute now... ba
 
 — Quote attributed to *Sterling W. Sill, in Conference Report, Apr. 1966, 19*; copied from *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p22#p22), Doctrines of the Gospel Student Manual*
 
-I am so baffled as to why Old Testament prophets were advised *at all* of Jesus' second coming, when at that age, Jesus hadn't arrived for the first time yet. Jesus' prophesied birth would be well outside the lifespan of anyone to hear an Old Testament prophet talk about it. So, let's tell God's followers about the *second* time He'll come by, at a minimum of 2,024 years after the event you won't live to see! How is that relevant to *anyone* in those times? Isn't a prophet meant to communicate God's will to *living* contemporaries? If the value proposition of a prophet is timely guidance, we shouldn't have any Old Testament prophets talking about you and me today. If we did have prophets talking about things outside of our lifespan, that makes modern prophets irrelevant.
+I am so baffled as to why Old Testament prophets were advised *at all* of Jesus' second coming, when at that age, Jesus hadn't arrived for the first time yet. Jesus' prophesied birth would be well outside the lifespan of anyone to hear an Old Testament prophet talk about it, yet as described above, His second coming gets mentioned `(1,500 ÷ 300) = 5` times *more frequently* in the book of scripture that predates His physical birth.
+
+Not only do Old Testament prophets tell God's followers about the *second* time He'll come by, they'll mention it at a minimum of `2,024` years after the event that the followers won't live to see! How is that relevant to *anyone* in those times? Isn't a prophet meant to communicate God's will to *living* contemporaries? If the value proposition of a prophet is timely guidance, we shouldn't have any Old Testament prophets talking about you and me today. If we did have prophets talking about things outside of our lifespan, that makes modern prophets irrelevant.
 
 God seems to be revealing ambiguous information to His chosen prophets, and then getting upset when people don't uniformly agree with those prophets. God handles this inevitable disagreement by revoking priesthood authority, sending the world into apostasy. "Now *nobody* is right 😤" What the hell, God? If you had actually told us something comprehensible...
 
@@ -19,12 +21,14 @@ God seems to be revealing ambiguous information to His chosen prophets, and then
 
 Really, though. If God wanted Old Testament prophets to hype up Jesus' *Second Coming*, don't you think God would be more proactive in [[Bible#Imperfect translation|preserving those documented prophecies]] for our modern day? No? The Bible is sometimes mistranslated, due to wicked mens' agency? Isn't a central tenant of Mormonism that people [won't be punished](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p2#p2) for their ancestors' misdoings?
 
-I recall reading about contemporaries in ancient Jerusalem refusing to believe that Jesus was the Messiah during His earthly ministry, because His humble origins didn't line up with the Old Testament prophecies about the *second* coming. I don't recall if it was Sadducees or Pharisees who got particularly hung up on it, but... perhaps that misunderstanding could have been avoided altogether if prophets of old hadn't skipped ahead 3,000 years? If those prophets were simply to be a mouthpiece for God, relaying divine information, then I would attribute that misunderstanding to God telling us feeble-minded mortals the wrong thing at the wrong time. What the hell, God?
+I recall back in my seminary days, reading about contemporaries in ancient Jerusalem refusing to believe that Jesus was the Messiah during His earthly ministry, because His humble origins didn't line up with the Old Testament prophecies about the *second* coming. I don't recall if it was Sadducees or Pharisees who got particularly hung up on it, but... perhaps that misunderstanding could have been avoided altogether if prophets of old had not skipped ahead 3,000 years? If those prophets were simply to be a mouthpiece for God, relaying divine information, then I would attribute that misunderstanding to God telling us feeble-minded mortals the wrong thing at the wrong time.<br>What the hell, God?
 
 &nbsp;
 
 ## When will it be?
-We have not one, but two hard & fast time frames for Jesus' second coming. Before examining those, we'll first examine one that is a bit more nebulous:
+We have not one, but two hard & fast time frames for Jesus' second coming. We also have a forty-year span when we know He *will not* arrive, with some extra parameters.
+
+Before examining those, we'll first examine one that is a bit more nebulous:
 
 &nbsp;
 
@@ -41,11 +45,37 @@ If you follow that link, make sure to double-check *Footnote 7*:
 
 &nbsp;
 
-So... Joseph Smith Junior will be in a theologically authoritative position until Christ's coming. Maybe. Smith Senior was [a high priest](https://www.josephsmithpapers.org/paper-summary/john-whitmer-history-1831-circa-1847/32) at this point in time, not yet the [presiding patriarch](https://www.josephsmithpapers.org/person/joseph-smith-sr). Should his words be treated as prophetic? I could see an argument made both for and against. Let's look at some more concrete examples.
+So... Joseph Smith Junior will be in a theologically authoritative position until Christ's coming. Maybe. Smith Senior was [a high priest](https://www.josephsmithpapers.org/paper-summary/john-whitmer-history-1831-circa-1847/32) at this point in time, not yet the [presiding patriarch](https://www.josephsmithpapers.org/person/joseph-smith-sr). Should his words be treated as prophetic? I could see an argument made both for and against. Is Smith Junior going to retain this office after his mortal life ends, thereby invalidating the absence of fulfillment? ... If so, what was the point of this declaration?
+
+Let's look at some more concrete examples.
 
 &nbsp;
 
-### 1890
+### Not between 1844 and 1884
+> *But I will take the responsibility upon myself to prophecy in the name of the Lord, that ==christ will not come this year== as Father William Miller has prophesied, for ==we have seen the bow==, and I also prophesy in the name of the Lord, that ==Christ will not come in forty years==, and if God ever spoke by my mouth he will not come in that length of time, Brethren when you go home write this down that it may be remembered.*
+
+&mdash; [History, 1838–1856, volume E-1 \[1 July 1843–30 April 1844\]](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-e-1-1-july-1843-30-april-1844/294), The Joseph Smith Papers, accessed January 9, 2026
+
+"We have seen the bow"? Who is this *Father William Miller* character whom the prophet Joseph Smith has quoted as accurately prophesying? 
+
+&nbsp;
+
+#### Not in the calendar year when a rainbow appears
+Digging into this a bit further to find the source text from the above quote, Joseph Smith continues to provide a bit more specificity:
+
+> *I have asked of the Lord concerning His coming; and while asking the Lord, He gave a sign and said, "In the days of Noah I set a bow in the heavens as a sign and token that ==in any year that the bow should be seen the Lord would not come==; but there should be seed time and harvest during that year: but ===whenever you see the bow withdrawn===, it shall be a token that there shall be famine, pestilence, and great distress among the nations, and that ==the coming of the Messiah is not far distant==."*
+
+&mdash; *[Chapter 21: The Second Coming and the Millennium](https://www.churchofjesuschrist.org/study/manual/teachings-joseph-smith/chapter-21?lang=eng&id=p15#p15)*, Teachings of Presidents of the Church: Joseph Smith
+
+&nbsp;
+
+come ooonnn it's been "not far distant" for *two thousand years*, this means nothing
+
+So... I'm adding this excerpt a few months into 2026. Anyone seen a [rainbow](https://en.wikipedia.org/wiki/Rainbow) yet? If you have, we're safe until 2027. 🤷 Thus saith the prophet of the Lord. For some reason that is unclear to me, God is going to arrange apocalyptic events around what a [Pope Gregory XIII decreed in 1582](https://en.wikipedia.org/wiki/Pope_Gregory_XIII#The_Gregorian_calendar). Something-something-apostasy.
+
+&nbsp;
+
+### In 1890
 > *I was once praying very earnestly to know the time of the coming of the Son of Man, when I heard a voice repeat the following:*
 > 
 > *Joseph, my son, if thou livest until thou art ==eighty-five years old==, thou shalt see the face of the Son of Man; therefore let this suffice, and trouble me no more on this matter.*
@@ -64,16 +94,16 @@ One could argue that there's enough of a caveat in there; since Joseph did not l
 
 I'm not aware of any other prophetic statement that is nestled inside of an `if` statement like that. This places the responsibility on us mortals to influence the conditions that permit God's conditional, eternal and unchanging words to come to pass, I suppose.
 
-Both of these passages can't be true. But if one or the other is false, we might begin to question whether or not Smith was a prophet. Also, let's not overlook God Himself telling Joseph to "trouble me no more on this matter." We're being told to [[Anxiety#Prayer|stop bothering God]] with prayerful questions? What the hell, God?
+Both of these passages can't be true. But if one or the other is false, we might begin to question whether or not Smith was a prophet. Also, let's not overlook God Himself telling Joseph to "trouble me no more on this matter." We're being told to stop bothering God with prayerful questions? What the hell, God?
 
 &nbsp;
 
-### 1891
+### In 1891
 In a meeting on Feb 14, 1835, [[Joseph Smith|Joseph Smith]] definitively stated:
 
 > *. . . and those who went to Zion, with a determination to lay down their lives, if necessary, it was the will of God that they should be ordained, to the ministry, and go forth to prune the vineyard for the last time, or the ==Coming of the Lord which was nigh even fifty six years== should wind up the scene.*
 
-— *[History, 1838–1856, volume B-1](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/18)*, [1 September 1834–2 November 1838], p. 564
+— *[History, 1838–1856, volume B-1](https://www.josephsmithpapers.org/paper-summary/history-1838-1856-volume-b-1-1-september-1834-2-november-1838/18)*, \[1 September 1834–2 November 1838\], p. 564
 
 Well... `1835 + 56 = 1891`. One could argue that 14 Feb & 2 April allows for some displacement of months, so it could be 1890 as the previous prophecy describes. Or, we could focus on the qualifier "should" as not being definitive enough, despite the prophet of the restoration speaking in an official capacity, he's still just [[Prophets|speaking as a man]].
 
@@ -88,7 +118,7 @@ Nevermind, we won't settle on a date, but it's *really* going to happen, and it'
 
 > *Jesus Christ’s ascension into heaven before the eyes of his disciples was accompanied by the promise that in like manner he would come again. ==The second coming of Jesus Christ is nigh at hand==, as the signs of the Second Coming are being fulfilled this very day.*
 
-— *[“What Think Ye of Christ?” “Whom Say Ye That I Am?”](https://www.churchofjesuschrist.org/study/general-conference/1979/04/what-think-ye-of-christ-whom-say-ye-that-i-am?lang=eng&id=p40#p40)*, Elder Robert D. Hales, First Quorum of the Seventy, General Conference 1979 April; see also Hales use this exact verbiage [again in 1994](https://www.churchofjesuschrist.org/study/general-conference/1994/04/the-unique-message-of-jesus-christ?lang=eng&id=p25#p25) as an Apostle
+— *[“What Think Ye of Christ?” “Whom Say Ye That I Am?”](https://www.churchofjesuschrist.org/study/general-conference/1979/04/what-think-ye-of-christ-whom-say-ye-that-i-am?lang=eng&id=p40#p40)*, Elder Robert D. Hales, First Quorum of the Seventy, General Conference 1979 April; see also Hales use *this exact verbiage* [again fifteen years later](https://www.churchofjesuschrist.org/study/general-conference/1994/04/the-unique-message-of-jesus-christ?lang=eng&id=p25#p25) as an Apostle
 
 &nbsp;
 
@@ -110,7 +140,7 @@ Nevermind, we won't settle on a date, but it's *really* going to happen, and it'
 
 &nbsp;
 
-There are way too many examples to draw from without bloating this page of notes. Here's an [internal search](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=second+coming) and an [external search](https://duckduckgo.com/?q=site%3Achurchofjesuschrist.org%2Fstudy%2Fgeneral-conference+%22second+coming%22). Church leadership has demonstrated that they believe this is a topic worth discussing, even when there has been *no new information* for 190 years. It'll be *any minute* now. See, look, there are wars and rumors of wars. There was an earthquake. We're in the *latter days*— it's in our name, after all. President Nelson uttered the words "in a coming day," which phrasing is just the right level of vague. Could be tomorrow, could be in the year 4096. Both outcomes are "in a coming day." No other church leader has uttered [that combination of words](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22in+a+coming+day%22) before, so it must be prophetic! Now *get your ass to the temple*!
+There are way too many examples to draw from without bloating this page of notes. Here's an [internal search](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=second+coming) and an [external search](https://duckduckgo.com/?q=site%3Achurchofjesuschrist.org%2Fstudy%2Fgeneral-conference+%22second+coming%22). Church leadership has demonstrated that they believe this is a topic worth discussing, even when there has been *no new information* for 190 years. It'll be *any minute* now. See, look, there are wars and rumors of wars. There was an earthquake. We're in the *latter days*— it's in our name, after all. President Nelson uttered the words "in a coming day," which phrasing is just the right level of vague. Could be tomorrow, could be in the year 4096. Both outcomes are "in a coming day." No other church leader has uttered [that combination of words](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22in+a+coming+day%22) before, so it must be prophetic! Now *get your ass to the temple*! ... But make sure you pay [[Tithing|tithing]] first!
 
 &nbsp;
 
@@ -132,9 +162,7 @@ One of my go-to responses for the "signs of the times" to validate prophetic wor
 ### Gospel Principles
 > ***Wickedness, War, and Turmoil***
 > 
-> *Many of the signs are terrifying and dreadful. The prophets have warned that ==the earth will experience great turmoil, wickedness, war, and suffering==. The prophet Daniel said that the time before the Second Coming would be ==a time of trouble such as the earth has never known== (see [Daniel 12:1](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/12.1?lang=eng#p1)). The Lord said, “The love of men shall wax cold, and iniquity shall abound” ([D&C 45:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.27?lang=eng#p27)). “And ==all things shall be in commotion==; and … fear shall come upon all people” ([D&C 88:91](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.91?lang=eng#p91)). We can expect ==earthquakes, disease, famines, great storms, lightnings, and thunder== (see [Matthew 24:7](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.7?lang=eng#p7); [D&C 88:90](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.90?lang=eng#p90)). Hailstorms will ==destroy the crops== of the earth (see [D&C 29:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29.16?lang=eng#p16)).*
-
-> . . .
+> *Many of the signs are terrifying and dreadful. The prophets have warned that ==the earth will experience great turmoil, wickedness, war, and suffering==. The prophet Daniel said that the time before the Second Coming would be ==a time of trouble such as the earth has never known== (see [Daniel 12:1](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/12.1?lang=eng#p1)). The Lord said, “The love of men shall wax cold, and iniquity shall abound” ([D&C 45:27](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.27?lang=eng#p27)). “And ==all things shall be in commotion==; and … fear shall come upon all people” ([D&C 88:91](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.91?lang=eng#p91)). We can expect ==earthquakes, disease, famines, great storms, lightnings, and thunder== (see [Matthew 24:7](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.7?lang=eng#p7); [D&C 88:90](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/88.90?lang=eng#p90)). Hailstorms will ==destroy the crops== of the earth (see [D&C 29:16](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29.16?lang=eng#p16)). ...*
 
 > *Many of these signs are being fulfilled. Wickedness is everywhere. ==Nations are constantly at war==. Earthquakes and other calamities are occurring. Many people now suffer from devastating ==storms, drought, hunger, and diseases==. We can be certain that these calamities will become ==more severe before the Lord comes==.*
 
@@ -194,19 +222,19 @@ All this is to say that making any observation sound poetic and flowery can be u
 &nbsp;
 
 ## How many times?
-I mean, Jesus did (reportedly) [appear physically on Earth](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p17#p17) to personally tell Joseph Smith that [everyone else is wrong](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p19#p19).
+I mean, Jesus did (reportedly) [appear physically on Earth](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p17#p17) to personally [[First Vision|tell Joseph Smith]] that [everyone else is wrong](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p19#p19).
 
 &nbsp;
 
 > *==The Savior will make several appearances before His Second Coming== to all the world.*
 > 
-> *==1==. Christ will appear at Adam-ondi-Ahman (see [Daniel 7:9–10, 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/7.9-10,13-14?lang=eng#p9); [D&C 116](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/116?lang=eng)).*
+> ***1.*** *Christ will appear at Adam-ondi-Ahman (see [Daniel 7:9–10, 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/dan/7.9-10,13-14?lang=eng#p9); [D&C 116](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/116?lang=eng)).*
 > 
-> *==2==. The Savior will appear to those in the New Jerusalem in America (see [3 Nephi 21:23–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21.23-25?lang=eng#p23); [D&C 45:66–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.66-67?lang=eng#p66)).*
+> ***2.*** *The Savior will appear to those in the New Jerusalem in America (see [3 Nephi 21:23–25](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/21.23-25?lang=eng#p23); [D&C 45:66–67](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.66-67?lang=eng#p66)).*
 > 
-> *==3==. The Savior will appear to the Jews in Jerusalem (see [D&C 45:48, 51–53](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.48,51-53?lang=eng#p48); [Zechariah 12:10](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/12.10?lang=eng#p10); [14:2–5](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/14.2-5?lang=eng#p2)).*
+> ***3.*** *The Savior will appear to the Jews in Jerusalem (see [D&C 45:48, 51–53](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.48,51-53?lang=eng#p48); [Zechariah 12:10](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/12.10?lang=eng#p10); [14:2–5](https://www.churchofjesuschrist.org/study/scriptures/ot/zech/14.2-5?lang=eng#p2)).*
 > 
-> *==4==. The Lord will appear in glory to all mankind (see [D&C 45:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.44?lang=eng#p44); [101:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101.23?lang=eng#p23); [Matthew 24:30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.30?lang=eng#p30); [Isaiah 40:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40.5?lang=eng#p5); [JST, Revelation 1:7](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-rev/1.7?lang=eng#p7)).*
+> ***4.*** *The Lord will appear in glory to all mankind (see [D&C 45:44](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45.44?lang=eng#p44); [101:23](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/101.23?lang=eng#p23); [Matthew 24:30](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/24.30?lang=eng#p30); [Isaiah 40:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40.5?lang=eng#p5); [JST, Revelation 1:7](https://www.churchofjesuschrist.org/study/scriptures/jst/jst-rev/1.7?lang=eng#p7)).*
 
 — *[Chapter 36: The Lord’s Second Coming](https://www.churchofjesuschrist.org/study/manual/doctrines-of-the-gospel-student-manual/36-second-coming?lang=eng&id=p4-p8#p4)*, Doctrines of the Gospel Student Manual
 
@@ -221,7 +249,7 @@ Jesus appeared once by being born of Mary, specifically outlined what will happe
 ## The Millennium
 What, you mean living in your parents' basement after the avocado market crash? lmao got 'em
 
-![[fake-laugh.gif]]{: .center}
+![image](../img/fake-laugh.gif){: .center}
 
 &nbsp;
 
@@ -235,7 +263,7 @@ I recall hearing as a seminary student that at Christ's second coming, it will b
 
 I also recall hearing a fellow named Paul describing that "[the day of the Lord](https://www.churchofjesuschrist.org/study/scriptures/nt/1-thes/5?lang=eng&id=p2#p2) so cometh as a thief in the night." Metaphors don't translate very well across languages, so we're left with multiple possible interpretations of what this means. I might guess that it means He'll arrive unannounced, without notice or fanfare. If that were the case, I think a [[Bible#Could we get a re-translation?|modern translation]] could many pick a more clear comparison.
 
-If it means that Jesus will sneak in unbeknownst to the masses, then Paul's statement is at odds with Joseph Smith. Maybe this is one of those convenient times where the Bible [[Bible#Article of Faith|isn't translated correctly]]. 
+If it means that Jesus will sneak in unbeknownst to the masses, then Paul's statement is at odds with Joseph Smith. Maybe this is one of those convenient times where the Bible [[Bible#Article of Faith|isn't translated correctly]].
 
 > *The Lord’s coming will be as a thief in the night ==to those who are in spiritual darkness==. Paul described the Saints as “the children of light, and the children of the day.” Paul gave them guidelines for living as Saints. Through God’s help, the Saints will be found blameless at the Second Coming.*
 
@@ -261,7 +289,7 @@ Well... Maybe Jesus will arrive for the ~~seventh~~ second time and it actually 
 
 — *[Chapter 44: The Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-44-the-second-coming-of-jesus-christ?lang=eng&id=p13#p13)*, Gospel Principles
 
-![[fiery-death.gif]]{: .center}
+![image](../img/fiery-death.gif){: .center}
 
 "Anyone who disagrees with us or our specific variation of Christianity is going to die horribly. Jesus loves you, btw. [Sign up here](https://www.churchofjesuschrist.org/comeuntochrist/lp/basic-beliefs/meet-with-missionaries?lang=eng) xoxo"
 
@@ -290,7 +318,7 @@ Now, let's celebrate the birth of the Prince of Peace!
 &nbsp;
 
 #### 3 Nephi
-Even though having Jesus die on the cross was part of [[Theology#God's Plan|God's Plan]]™ all along, He still got real pissed that it happened.
+Even though having Jesus die on the cross was part of [[Theology.md#God's Plan|God's Plan]]™ all along, He still got real pissed that it happened.
 
 To signify that Jesus had been born and was crucified, shit was *going down* in America.
 
@@ -300,7 +328,7 @@ To signify that Jesus had been born and was crucified, shit was *going down* in 
 - An [omnipresent voice announces each destroyed city](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p1-p12#p1), rationalizing that "they were wicked."
 - This same voice says, in so many words, "[do I have your attention now?](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p13-p15#p13) You gonna shape up and repent? I'm Jesus Christ, by the way. *I killed everyone you've ever known or loved.* Now, who wants some 𝓮𝓽𝓮𝓻𝓷𝓪𝓵 𝓵𝓲𝓯𝓮? 😄"
 
-Yeah, man. You've got my attention. Don't think for a minute that I'm going to forget what you did, or that I'm doing what you say for [[Theology#God's Respectability|any purpose other than abject terror]].
+Yeah, man. You've got my attention. Don't think for a minute that I'm going to forget what you did, or that I'm doing what you say for [[Theology.md#God's Respectability|any purpose other than abject terror]].
 
 &nbsp;
 
@@ -314,14 +342,14 @@ Jesus had a reputation for being benevolent and forgiving, even as he is activel
 
 &nbsp;
 
-Contrast this observation with "fuck you, Nephites! I'm going to level entire cities because there were wicked people in them!" and ask yourself if that seems characteristic of who we read about in the New Testament.
+Contrast this observation with "fuck you, Nephites! I'm going to level entire cities because some people in them are wicked!" and ask yourself if that seems characteristic of who we read about in the New Testament.
 
-What if those Roman soldiers hadn't been conditioned to [just follow orders](https://en.wikipedia.org/wiki/Superior_orders#Nuremberg_Trials_after_World_War_II), though? Wasn't Jesus' conviction and crucifixion necessary (for one reason or another)? Did those soldiers need forgiving if they were an integral part of the Plan of Salvation, fulfilling prophecies from the Old Testament? Would they otherwise be condemned for *not* killing Jesus?
+What if those Roman soldiers hadn't been conditioned to [just follow orders](https://en.wikipedia.org/wiki/Superior_orders#Nuremberg_Trials_after_World_War_II), though? Wasn't Jesus' conviction and crucifixion necessary (for one reason or another)? Did those soldiers need forgiving if they were an integral part of the Plan of Salvation, fulfilling prophecies from the Old Testament? Had the Roman soldiers *not* killed Jesus, would they be condemned for impeding the Plan of Salvation?
 
 &nbsp;
 
 ## What do we do to prepare?
-pay us money lmao
+"pay us money lmao"
 
 > *==A further reward for paying tithing is a guarantee against being consumed== in the burning which is to accompany the second coming of the Savior.*
 
@@ -337,7 +365,7 @@ pay us money lmao
 
 — *[Chapter 44: The Second Coming of Jesus Christ](https://www.churchofjesuschrist.org/study/manual/gospel-principles/chapter-44-the-second-coming-of-jesus-christ?lang=eng&id=title5-p26#title5)*, Gospel Principles
 
-Don't worry about the timing, just... *always be ready*. Wait, why is everyone getting diagnosed with [[Anxiety|anxiety disorders]] and [[Scrupulosity|religious scrupulosity]]?
+Don't worry about the timing, just... *always be ready*. Wait, why is everyone getting diagnosed with anxiety disorders and religious scrupulosity?
 
 "You'll know it's coming soon when the world is exactly as it always has been, and you can prepare by following the exact same advice we give for every scenario."
 
@@ -350,12 +378,13 @@ Ready for Jesus now?
 &nbsp;
 
 ### Ten Virgins
-This parable has been revisited and expounded [numerous times](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=%22ten+virgins%22&page=1). Here's a link to [Matthew 25:1-13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=p1-p13#p1) if you'd like to see the source text for yourself. I bring this up to illustrate that [verse 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=13#p13) wraps it up with a nice conclusion: "watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh." Sounds like it's commanding constant vigilance for that anticipated "any minute now" event. [D&C 45:56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=56#p56) says that at the second coming, "shall the parable be fulfilled[.]" Nobody knows when it will be.
+This parable has been revisited and expounded [numerous times](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&query=%22ten+virgins%22&page=1). Here's a link to [Matthew 25:1-13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=p1-p13#p1) if you'd like to see the source text for yourself. I bring this up to illustrate that [verse 13](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=13#p13) wraps it up with a nice conclusion: "watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh." Sounds like it's commanding constant vigilance for that anticipated "any minute now" event. [D&C 45:56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=56#p56) says that at the second coming "shall the parable be fulfilled[.]" Nobody knows when it will be.
 
 I'm certain that the [parable](https://www.wordnik.com/words/parable) was more meaningful to Jesus' contemporaries than it is to us today. Folks excitedly gathering to meet "the bridegroom" surely had more cultural relevance back then. I also understand that one word can have different meanings depending on context, but something occurs to me now as I revisit this biblical passage: that is, the bridegroom [saying](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/25?lang=eng&id=p12#p12) "I know you not."
 
 Again, the cultural significance here must have been more meaningful 2,000 years ago, but... we do have precedent of "Joseph ==knew== [Mary] not," where "know" is definitively interpreted as a euphemism for "sexual relations." ([1](https://www.churchofjesuschrist.org/study/manual/new-testament-student-study-guide/the-gospel-according-to-saint-matthew/matthew-1?lang=eng&id=aside1_p12-aside1_p11#aside1_p12), [2](https://www.churchofjesuschrist.org/study/manual/new-testament-seminary-teacher-manual-2023/matthew-1-18-25-luke-1-26-35?lang=eng&id=title9-p35#title9)) What does that imply for the parable? Must have been a wild party those virgins were missing out on. We're meant to watch for the bridegroom's arrival so he can "know" us? 😏
 
 &nbsp;
+
 ## Reading Material
 - [Joseph Smith Papers: "second coming"](https://www.churchofjesuschrist.org/comeuntochrist/lp/basic-beliefs/meet-with-missionaries?lang=eng); might pull some info from here later

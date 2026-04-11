@@ -5,9 +5,9 @@ comments: true
 ## Age of Accountability
 **Have you ever talked to an 8-year-old?**
 
-Not pointing to a specific bishop or human, this is hypothetical: Would a given bishop excommunicate an 8 or 9 year old child, for whatever apostate behavior? Denying the Holy Ghost, for example? Or would this bishop think that the child was too young and didn’t understand what their sin was and wouldn’t understand being excommunicated. If so, then the child has not reached the age of accountability.
+I'm not pointing to a specific bishop or human, this is hypothetical: Would a given bishop excommunicate an 8 or 9 year old child, for whatever apostate behavior? Denying the Holy Ghost, for example? Or would this bishop think that the child was too young and didn’t understand what their sin was and wouldn’t understand being excommunicated. If so, then the child has not reached the age of accountability.
 
-Granted, the Book of Mormon does teach about not baptizing “little children”. That’s about as far as that discourse goes, though- not much mention of accountability, or forbidding those 7 years or younger.
+Granted, the Book of Mormon does teach against baptizing “little children”. That’s about as far as that discourse goes, though. Not much mention of accountability, nor forbidding those 7 years or younger.
 
 Can you point me to any other culture or society, modern or ancient, that settled on 8 years being a milestone for accountability and responsibility? If that was inspired of God, wouldn’t other Christian denominations have at least approximated that idea? If it was part of God’s eternal, unchanging truth, wouldn’t there be mention of it in the NT or BoM?
 
@@ -16,7 +16,7 @@ Can you point me to any other culture or society, modern or ancient, that settle
 ### Who else does this?
 Part of [Catholic Canon Law](https://en.wikipedia.org/wiki/Person_(Catholic_canon_law)#Age_of_reason) is the [age of reason](https://en.wikipedia.org/wiki/Age_of_accountability#cite_note-1). See [Can. 97 §2](https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib1-cann96-123_en.html). These canons have been around for a long time, certainly before God reveals this info to Joseph Smith.
 
-> *On completion of the seventh year, a minor is presumed to have the use of reason, but intellectual disability can prevent some individuals from ever attaining the use of reason.*
+> *On ==completion of the seventh year==, a minor is presumed to have the use of reason, but intellectual disability can prevent some individuals from ever attaining the use of reason.*
 
 > . . .
 
@@ -29,6 +29,12 @@ Here’s another short summary: [https://www.catholic.com/encyclopedia/age-of-re
 &nbsp;
 
 > *Other people put the age of accountability at 12 (since that was the age at which Jesus [began to demonstrate his understanding of right and wrong](https://en.wikipedia.org/wiki/Finding_in_the_Temple)) or 13 (the age of the Jewish [Bar Mitzvah](https://en.wikipedia.org/wiki/Bar_Mitzvah)).*
+
+> *Some [Christian denominations](https://en.wikipedia.org/wiki/Christian_denomination "Christian denomination") set a specific age with respect to the age of accountability. This includes seven in the [Catholic Church](https://en.wikipedia.org/wiki/Catholic_Church "Catholic Church"), and ==eight in Mormonism==. Other people put the age of accountability at 12 (since that was the age at which Jesus [began to demonstrate his understanding of right and wrong](https://en.wikipedia.org/wiki/Finding_in_the_Temple "Finding in the Temple")) or 13 (the age of the Jewish [Bar Mitzvah](https://en.wikipedia.org/wiki/Bar_Mitzvah "Bar Mitzvah")).*
+
+&mdash; [Age of Accountability](https://en.wikipedia.org/wiki/Age_of_accountability#Specific_ages), Wikipedia
+
+&nbsp;
 
 Thanks, Wikipedia.
 
@@ -58,7 +64,7 @@ Then, in order to leave, Timmy would have to be over 18 and get his resignation 
 >
 > *And their little ==children need no repentance, neither baptism==. Behold, baptism is unto repentance to the fulfilling the commandments unto the remission of sins.*
 
-— _[Moroni 8:10-11](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng&id=p10-p11#p10)_
+— *[Moroni 8:10-11](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/8?lang=eng&id=p10-p11#p10)*
 
 Wait, children need no repentance, nor baptism? The ordinance should only be taught to those who are "accountable and capable of committing sin", so I suppose that means when Mormon kids are baptized at 8, it's not for remission of sins.
 

@@ -14,13 +14,14 @@ Maybe some things are doctrinal, meaning they are immutable and eternal, while o
 
 &nbsp;
 
+## Policy vs Doctrine
 In order to have a sensible discourse, we really should delineate what is doctrine and what is not. Until I find better definitions, I'm going with the following:
 
 - **Doctrine** is what we find in scripture, during conference talks, revelation by the acting prophets. The commonality between these is that the words can be traced back to, and ascribed to God.
 
 - **Policy** is more secular. Rules, handbooks, structures within the worldly organization that is the LDS church. Possibly not what can be ascribed to God, but... I suppose these would be philosophies of men, mingled with scripture.
 
-Here's where problems arise. The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are *doctrinal*. Things like [the stocks for people to buy and fund Joseph Smith’s mansion](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?id=p71-p72&lang=eng#p71), virginity being a [[DC 132#61 to 63|circumvention against adultery]], God [abandoning you if you're disobedient](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12), and clearly outlining [[Second Coming#When will it be?|the year of Christ's return]]. You know, things that are *doctrinal*. Unchanging.
+Here's where problems arise. The canon book of scripture with modern revelation isn't called *Policy & Covenants*. Things found there are *doctrinal*. Things like [the stocks for people to buy and fund Joseph Smith’s mansion](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?id=p71-p72&lang=eng#p71), virginity being a [[DC 132#61 to 63|circumvention against adultery]], God [abandoning you if you're disobedient](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/95?id=p12&lang=eng#p12), and clearly outlining [[Second Coming#When will it be?|the year of Christ's return]]. You know, things that are _doctrinal_. Unchanging.
 
 If simple "policy" can keep somebody from participating in saving ordinances, then policy carries the same weight as doctrine.
 
@@ -28,7 +29,6 @@ Behind every policy of the church, there's doctrine. Without doctrine to back po
 
 &nbsp;
 
-## Policy vs Doctrine
 > *OAKS: ==I don’t know that it’s possible to distinguish between policy and doctrine== in a church that believes in continuing revelation and sustains its leader as a prophet… ==I’m not sure I could justify the difference in doctrine and policy== in the fact that before 1978 a person could not hold the priesthood and after 1978 they could hold the priesthood.*
 
 — Elder Dallin H Oaks in [interview with Associated Press SLC](https://www.newspapers.com/article/the-times-news-partial-transcript-of-ap/21138508/), regarding the 1978 revelation on race
@@ -44,11 +44,11 @@ We could certainly take time to argue if it was a real doctrine from God, or a w
 
 What is and is not considered "doctrine" by the LDS church is the LDS church's problem, and it is *their responsibility* to clearly delineate what does and does not qualify as doctrine. Is Bruce McConkie's book *[Mormon Doctrine](https://archive.org/details/MormonDoctrine1966/mode/1up)* a record of Mormon Doctrine, or was that book "philosophies of men mingled with scripture?" Would that book have gained traction if it wasn't written by [a member of the First Council of the Seventy of the LDS Church](https://en.wikipedia.org/wiki/Mormon_Doctrine_(book)#History)? Compare that idea to me, a dumbass with a computer, publishing these very notes on print and calling it *Mormon Doctrine*?
 
-Insisting that "that was never doctrinal" puts the onus on us regular, lay common folk to read the minds of church leaders, and to discern what words to listen to and how to interpret them. Brigham Young taught some [[Blood Atonement#Brigham Young|batshit ideas]] under his time as "the Prophet?" Well, fortunately for us in the 21st century, that wasn't actually doctrine! We know this because it would cause a lot of cognitive dissonance if it actually was doctrinal. 
+Insisting "that was never doctrinal" puts the onus on us regular, lay common folk to read the minds of church leaders, and to discern what words to listen to and how to interpret them. Brigham Young taught some [[Blood Atonement#Brigham Young|batshit ideas]] under his time as "the Prophet?" Well, fortunately for us in the 21st century, that wasn't actually doctrine! We know this because it would cause a lot of cognitive dissonance if it actually was doctrinal.
 
 When church leaders don their professional business attire and stand behind a pulpit as their words are broadcast all across the world, is it safe to assume that what they say should be taken at face value? Even if they [set a precedent](https://www.churchofjesuschrist.org/study/general-conference/2024/10/18oaks?lang=eng&id=p_xfPgG#p_xfPgG) that doctrines may change in the future? Is it too much to ask for them to clearly delineate and specify when their statements are immutable doctrines, or simply a policy to manage an earthly organization?
 
-I could imagine being accused of misunderstanding leaders' teachings, and being told "that wasn't doctrine." What the fuck is doctrine, then? How do we know what qualifies as doctrine as its being said? Is this a matter of the speaker still being alive for their words to count? Is the idea of calling someone *[[Name Mormon#2018|Mormon]]* counting as a "victory for Satan" going to be seen as "just a policy" by year 2035? We have no way of knowing, since there isn't anything to indicate if that practice is doctrine or policy. The best we have for that specific teaching is "[the Lord impressed upon my mind the importance](https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng&id=p3#p3)" of names in conversation. It shouldn't be up to me as an individual, or us as members, to decide if this is doctrinal or not. Nelson didn't call it doctrine, nor policy. In the hypothetical scenario where Oaks or Bednar then reverse it, we'd have a clear demarcation that this "victory for Satan" was not doctrinal.
+I could imagine being accused of misunderstanding leaders' teachings, and being told "that wasn't doctrine." What is doctrine, then? How do we know what qualifies as doctrine as its being said? Is this a matter of the speaker still being alive for their words to count? Is the idea of calling someone *[[Name Mormon#2018|Mormon]]* counting as a "victory for Satan" going to be seen as "just a policy" by year 2035? We have no way of knowing, since there isn't anything to indicate if that practice is doctrine or policy. The best we have for that specific teaching is "[the Lord impressed upon my mind the importance](https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng&id=p3#p3)" of names in conversation. It shouldn't be up to me as an individual, or us as members, to decide if this is doctrinal or not. Nelson didn't call it doctrine, nor policy. In the hypothetical scenario where Oaks or Bednar then reverse it, we'd have a clear demarcation that this "victory for Satan" was not doctrinal.
 
 &nbsp;
 
@@ -67,7 +67,7 @@ I implore you to tell me what context makes the [[Skin of blackness|cursed skin 
 
 Yes, there's a middle ground between two extremes to be settled on here. I wrote [[Prophets|in another page]] that if Gordon Hinckley is standing behind a pulpit before a gathered audience, his words in that moment carry more weight than if he's chilling at home in his PJ's. I understand that there is a difference here. I also understand that when Brigham Young is speaking to a congregation who reveres him as a divinely appointed leader, that carries more weight theologically than when he's berating wife #23 for whatever domestic matter.
 
-Qualifying that "not every statement made by a church leader" is doctrinal also needs some context. Is this church leader speaking before an audience, ready to receive divine inspiration, [[Infallibility#Thought exercise|or not]]?
+Qualifying that "not every statement made by a church leader" is doctrinal also needs some context. Is this church leader speaking before an audience, ready to receive divine inspiration, or not?
 
 &nbsp;
 

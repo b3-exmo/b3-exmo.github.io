@@ -15,9 +15,9 @@ This must be true, or else the LDS church doesn't really have a leg to stand on.
 
 &nbsp;
 
-The LDS church presents this context to Joseph Smith being called as a prophet to restore Jesus' original, true church. The First Vision takes place ([[First Vision|maybe]]) through Joseph, a banal & unremarkable teenager in New York state, who is advised that [all other Christian denominations have strayed](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p19#p19). No matter that they're each convinced that they're "[[True#Definition|correct]]" or legitimate representatives of Christ and His teachings. The notion that all other varieties of Christianity are misled, unauthorized and corrupt is [the entire premise](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?id=p11&lang=eng#p11) on which Mormonism is built!
+The LDS church presents this context to [[Joseph Smith]] being called as a prophet to restore Jesus' original, true church. The First Vision takes place ([[First Vision|maybe]]) through Joseph, a banal & unremarkable teenager in New York state, who is advised that [all other Christian denominations have strayed](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p19#p19). No matter that they're each convinced that they're "[[True#Definition|correct]]" or legitimate representatives of Christ and His teachings. The notion that all other varieties of Christianity are misled, unauthorized and corrupt is [the entire premise](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/lesson-1-the-message-of-the-restoration-of-the-gospel-of-jesus-christ?id=p11&lang=eng#p11) on which Mormonism is built!
 
-What isn't explicitly outlined here is that when Christ's authorized church needs course correction, God calls in *an outsider* when calling a prophet to start over. The pattern that I see is that God doesn't contact the leadership of the established church(es) to caution them that their actions are causing them to fall into apostasy as, presumably, that wouldn't work. Rather than offer preventative guidance before we lose the priesthood authority, God reacts by calling an external third party to start over. Good plan, God! No notes.
+What isn't explicitly outlined here is that when Christ's authorized church needs course correction, God calls in *an outsider* when calling a prophet to start over. The pattern that I see is that God doesn't contact the leadership of the established church(es) to caution them that their actions are causing them to fall into apostasy. Presumably, that just wouldn't work. Rather than offer preventative guidance before we lose the priesthood authority, God reacts by calling an external third party to start over. Good plan, God! No notes.
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Why would God instead tell an unaffiliated third party, a teenage boy in New Yor
 
 Here we are today in the 21st century, in what Mormonism calls the "[last dispensation](https://www.churchofjesuschrist.org/study/manual/gospel-topics/first-vision?id=p8&lang=eng#p8)" which began with calling Joseph Smith to be God's prophet. Joseph was not in a position of influence. Joseph was not in the Vatican, nor was he part of the [Southern Baptist Convention's Executive Committee](https://www.sbc.net/about/what-we-do/sbc-entities/executive-committee/). Smith was a simple farm boy who maybe [[Education#Can't even write!|wasn't all that smart]]. God Himself and Jesus Christ appear to Joseph Smith, *an outsider*, to restore the official church. Not the Pope. Not a presbyterian deacon. Not a baptist minister. Just some dork kid in New York.
 
-An issue with mortal men claiming authority to speak for God and to officially represent His church is that lay members have *no way of verifying* leaderships' claims. In fact, in the modern LDS church, us lay people are [[14 Fundamentals#4. The prophet will never lead the Church astray.|advised in no uncertain terms]] that decrees from leadership *must* be divinely appointed, or else God wouldn't let them lead. Since they're leading, they are therefore divinely appointed, and [everything they say is indistinguishable](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38) from God's own words!
+An issue with mortal men claiming authority to speak for God and to officially represent His church is that lay members have *no way of verifying* leaderships' claims. In fact, in the modern LDS church, us lay people are [[14 Fundamentals#4. The prophet will never lead the Church astray.|advised in no uncertain terms]] that decrees from leadership *must* be divinely appointed, or else God wouldn't let them lead. Since they're leading, they are therefore divinely appointed, and [everything they say is indistinguishable](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p38#p38) from God's own words! The very fact that God *hasn't stopped them* means that God signs and approves of whatever they say.
 
 &nbsp;
 
@@ -41,17 +41,15 @@ Can we agree that God doesn't inspire reform from the top-down? What if He tried
 &nbsp;
 
 ## Who does God tell?
-"This is all well and fine," you might say, "but the LDS church *is* led by God, so none of this silly thought experiment really matters."
-
-Well... A multi generational *Church of England* family in the year 1875 probably thought the same thing.
+"This is all well and fine," you might say, "but the LDS church *is* led by God, so none of this silly thought experiment really matters." Well... A multi generational *Church of England* family in the year 1875 probably thought the same thing. A firm adherent to the *[Unification Church](https://en.wikipedia.org/wiki/Unification_Church)* (Moonies) in the 1980's would also believe the same thing.
 
 The point I'm gradually approaching is that when the world falls into apostasy, having lost God's priesthood authority, who does God communicate that to?
 
 &nbsp;
 
-Why did it take an unaffiliated third party teenage boy to be able to see the alleged flaws and corruption within mainstream Christianity of the 19th century? If God establishes churches but then doesn't notify His ([[Gods Conditional Love|conditionally]]) beloved children when the world is in a state of apostasy, then how can anyone be sure that *the Church of Jesus Christ of Latter Day Saints* hasn't also fallen into apostasy or lost its priesthood authority? Has the institution been [[SEC|caught doing shady things]]?
+Why did it take an unaffiliated third party teenage boy to be able to respond to the alleged flaws and corruption within mainstream Christianity of the 19th century? If God establishes churches but then doesn't notify His ([[SEC|caught doing shady things]]?
 
-Out of the numerous offshoots of Mormonism, my understanding is that each one asserts that it is God's officially sanctioned, authorized church, and the others are blasphemers in apostasy. Ironically, they all use the same foundational text of the Book of Mormon, all laying claim to Joseph Smith's authority. If the [Strangite](https://www.ldsstrangite.com/) branch of Mormonism were still around today, would it have a legitimate basis against the Brighamite sect?
+Out of the numerous offshoots of Mormonism, my understanding is that each one asserts that it is God's officially sanctioned, authorized church, and the others are blasphemers in apostasy. Ironically, they all use the same foundational text of the Book of Mormon, all laying claim to Joseph Smith's authority. If the [Strangite](https://www.ldsstrangite.com/) branch of Mormonism were still around today, would it have a legitimate basis for criticism against the Brighamite sect?
 
 &nbsp;
 

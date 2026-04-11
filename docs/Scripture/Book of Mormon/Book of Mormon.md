@@ -25,7 +25,7 @@ People wouldn’t have worried about their baby dying before being baptized if t
 
 &nbsp;
 
-Does this book *demonstrate the need* for prophets? There are remarkably few LDS doctrines are in there:
+Does this book *demonstrate the need* for prophets? There are remarkably few LDS doctrines contained in this book. Most notably are some of these distinct LDS teachings absent from the Book of Mormon:
 
 - Temples
 - Temple ordinances
@@ -279,8 +279,8 @@ When the author of the *Book of Mormon* lifted these words from the book of Reve
 — *From [http://www.utlm.org/onlinebooks/changech5b.htm](http://www.utlm.org/onlinebooks/changech5b.htm)*
 
 &nbsp;
-## Probability / Occam’s Razor
-[Occam’s Razor](https://www.britannica.com/topic/Occams-razor)
+## Probability
+See also: [Occam’s Razor](https://www.britannica.com/topic/Occams-razor)
 
 The official story is that Joseph was visited by a Native American ghost who led him to a buried golden book in the style of 19th century New England folk magic. The book was written in a language and script found nowhere else in history, though the characters look amazingly similar to modern English letters with extra lines or turned upside down. Joseph translated it using a magic rock he found in a well and previously used to search for buried Native American treasure. The original book has since [[The Plates#What happened to the plates?|disappeared]], but we can confirm without a doubt that Joseph’s later translation activities were fabricated based on existing source documents.
 

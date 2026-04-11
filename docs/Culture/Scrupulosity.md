@@ -29,11 +29,9 @@ For example, *[What are the Mormon rules?](https://faq.churchofjesuschrist.org/w
 
 Maybe we'll let that [[Name Mormon|victory for Satan]] slide this time. After all, we're trying to make a good impression to internet crawler bots.
 
-&nbsp;
+The commandments listed here are not ranked, at least not explicitly. Still, I find it curious that the first thing enumerated is "paying [[Tithing|tithing]]" and last is "dedication to families and communities." You tell me what that means.
 
-"What are your religion's rules?"<br>&emsp;&ensp;"We have rules. Some are traditional."<br>&emsp;&ensp;"So.. what are they?"<br>&emsp;&ensp;"They're in the Standard Works™️."<br>&emsp;&ensp;"... That's *where* they are. Can you tell me *what* they are?"<br>&emsp;&ensp;"The Ten commandments, and also some others."<br>&emsp;&ensp;"Right, but what are the other rules?"<br>&emsp;&ensp;"They're in the scriptures."
-
-god dammit
+The FAQ answer lists *some* rules for sure. I suppose what would be a more useful metric are the [Temple Recommend Interview questions](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title30-p111#title30), or the [Baptismal Interview questions](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-prepare-people-for-baptism-and-confirmation?lang=eng&id=figure5_title1-figure5_p10#figure5_title1) that missionaries use. There's lots of overlap between these sets of questions, and if I were to again impose a ranking based solely on the order of presentation, both interview sets begin by asking about faith in God. Strange that isn't the pattern they would follow for a publicly-facing FAQ.
 
 &nbsp;
 
@@ -46,13 +44,13 @@ god dammit
 
 — *[Why and What Do I Need to Confess to My Bishop?](https://www.churchofjesuschrist.org/study/new-era/2013/10/why-and-what-do-i-need-to-confess-to-my-bishop?lang=eng&id=p7-p8#p7)*, Elder C. Scott Grow, New Era 2013 October
 
-C. Scott Grow? ... ~Grow,\ Scott,\ Grow!~
+C. Scott Grow?<br>... ~Grow,\ Scott,\ Grow!~
 
 Sorry, I shouldn't have.
 
 &nbsp;
 
-Oh, good. There are innumerable reasons for me to go confess sins to a clergyman behind closed doors. Any time you feel worried about it, you should go do it. There's no way this policy could result in [[Anxiety|anxiety disorders]], nope
+Oh, good. There are innumerable reasons for me to go confess sins to a clergyman behind closed doors. Any time you feel worried about it, you should go do it. There's no way this policy could result in anxiety disorders, nope
 
 > *Some mistakes, especially those regarding immorality, require confession to the bishop before you can receive the Lord’s forgiveness.*
 > 

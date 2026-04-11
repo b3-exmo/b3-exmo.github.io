@@ -109,7 +109,7 @@ Then compare to FAIR.
 &nbsp;
 
 ## Council of Fifty meeting minutes
-![[council-fifty-1984.png]]
+![[council-fifty-1984.png]]{: .center .size75}
 
 — Joseph F. Smith papers, 1854-1918; Autobiographical writings, 1856-1909; Journals and diaries; 1880 October 6-1880 October 12; Church History Library, [https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse](https://catalog.churchofjesuschrist.org/record/120ef45b-fb68-4ea8-bec4-0497c83f4f4d/339275a3-89b3-4f2e-bb01-03dd52e9cdd1?view=browse) (accessed: August 2, 2024)
 
@@ -143,7 +143,7 @@ He's either lying through his teeth or is really far gone with dementia. He's be
 
 Here's a photo of an older version of the missionary handbook, which I was to carry on my person at all times:
 
-![[handbook-baptism-invite.jpg]]
+![[handbook-baptism-invite.jpg]]{: .center .size75}
 
 &nbsp;
 

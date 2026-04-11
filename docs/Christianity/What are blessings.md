@@ -3,13 +3,9 @@ comments: true
 ---
 # ❓ What are blessings?
 ## General Conference
-> *For example, a subtle but significant blessing we receive is the spiritual gift of gratitude that enables our appreciation for what we have to constrain desires for what we want. A grateful person is rich in contentment. An ungrateful person suffers in the poverty of endless discontentment.*
->
-> *[We can be blessed with] the spiritual gift of enhanced discernment that can empower us to identify job opportunities that many other people might overlook—or the blessing of greater personal determination to search harder and longer for a position than other people may be able or willing to do. ==We might want and expect a job offer, but the blessing that comes to us through heavenly windows may be greater capacity to act and change our own circumstances== rather than expecting our circumstances to be changed by someone or something else.*
+> *==We might want and expect a job offer, but the blessing that comes to us through heavenly windows may be greater capacity to act and change our own circumstances== rather than expecting our circumstances to be changed by someone or something else.*
 >
 > *==We might want and expect a larger paycheck==, but the blessing that comes to us through heavenly windows may be ==greater capacity to change our own circumstances== rather than expecting our circumstances to be changed by someone or something else.*
->
-> *Assurance, peace, faith, and hope initially might not seem like the blessings warriors in battle might want, but they were precisely the blessings these valiant young men needed to press forward and prevail physically and spiritually.*
 
 — [The Windows of Heaven](https://www.churchofjesuschrist.org/study/general-conference/2013/10/the-windows-of-heaven?lang=eng), Elder David A. Bednar, General Conference October 2013
 

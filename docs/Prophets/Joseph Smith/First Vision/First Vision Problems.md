@@ -26,16 +26,18 @@ If we can agree that memory degrades over time, then Joseph's memory twelve to e
 
 &nbsp;
 
-### Age
+### Age and Date
 You'll likely notice that the [[First Vision#Comparison|comparison of Joseph's age]] has only minor variation. I'm not trying to require that Joseph be able to describe down to the day precisely how old he was, but please recognize that despite the tremendous weight of the moment when divine figures appeared to Joseph, in no account does he narrow down when this happens. The closest we get is "spring of 1820." We don't get a specific month to point to. Just a season.
 
-The absence of a definitive date for the First Vision is not the problem here. The problem is that Joseph can't consistently tell us anything specific about what *would be* among the most monumental events in human history. If I discover a specific date, that wouldn't make things more palatable. The problem is that if this event mattered to him, Joseph would recollect vivid details about the day when the entirety of his worldview changed because *fucking God Himself showed up* to advise the prophet that no other church is true, which means that the eternal salvation of *every human alive in that moment* is in jeopardy, and it's up to this teenaged farmboy to restore the gospel as Christ Himself taught it, but he can't even remember when that happened. Some time in the spring when he was "about fourteen" is the best we get.
+The absence of a definitive date for the First Vision is not the problem here. The problem is that Joseph can't consistently tell us anything specific about what *would be* among the most monumental events in human history. If I discover a specific date, that wouldn't make things more palatable. The problem is that if this event mattered to him, Joseph would recollect vivid details about the day when the entirety of his worldview changed because *God Himself showed up* to advise the prophet that no other church is true, which means that the eternal salvation of *every human alive in that moment* is in jeopardy, and it's up to this teenaged farmboy to restore the gospel as Christ Himself taught it, but he can't even remember when that happened. Some time in the spring when he was "about fourteen" is the best we get.
+
+The closest I've found is when one Russell M. Nelson [excitedly announced](https://www.churchofjesuschrist.org/study/general-conference/2019/10/57nelson?lang=eng&id=p34#p34) the bicentennial of the First Vision, using the phrasing "In the springtime of the year 2020, it will be ==exactly 200 years== since Joseph Smith experienced ... the First Vision." To say "exactly 200 years" *does not explicitly state* it's down to the day, which *would* place Joseph's event on 5 April 1820... but it's kinda implied if you squint your eyes and tilt your head just right. There's no definitive date that I'm aware of&mdash;but this is the closest hit I've encountered.
 
 &nbsp;
 
 In some accounts, Joseph will say he's "in his fifteenth year" or some variation. I don't think that phrasing lends to discrepancy. To us in the 21st century, it sounds odd, but to be "fourteen years old" suggests fourteen birthdays to have elapsed. We normally count age from 0, so to speak; we've had zero birthdays in our first year of life, so being in his sixteenth year would put him at fifteen years old.
 
-Sounds funny, but I don't see it as a problem.
+It sounds funny, but I don't see it as a problem.
 
 &nbsp;
 
@@ -73,7 +75,7 @@ If *you*, reader, if *you* saw God the Father and Jesus Christ both physically p
 <br>
 &nbsp;
 
-This is not a detail you misremember. If you fucking *saw God* then you don't fumble that memory. You were not counting how many fast-food workers were assembling a hamburger. You were not trying to recall how many other passengers were on the bus. You were not trying to guesstimate the size of a crowd. You were not trying to differentiate between a group of nine people versus a group of ten people. You were not trying to get an accurate count of people walking in a hallway. You were not trying to estimate within 5% error margins the count of a platoon. You were *alone in the woods* with an otherworldly pillar of light, and saw *how many personages*? One? Two plus "many angels"? Actually just two? If your recollection on seeing God falters, then *maybe you didn't actually see God*.
+This is not a detail you misremember. If you *saw God* then you don't fumble that memory. You were not counting how many fast-food workers were assembling a hamburger. You were not trying to recall how many other passengers were on the bus. You were not trying to guesstimate the size of a crowd. You were not trying to differentiate between a group of nine people versus a group of ten people. You were not trying to get an accurate count of people walking in a hallway. You were not trying to estimate within 5% error margins the count of a platoon. You were *alone in the woods* with an otherworldly pillar of light, and saw *how many personages*? One? Two plus "many angels"? Actually just two? If your recollection on seeing God falters, then *maybe you didn't actually see God*.
 
 &nbsp;
 

@@ -15,7 +15,7 @@ I want this to be true. I never missed a day of seminary, I went on a mission, I
 
 Many of these issues have conflicting amounts of weight behind them. I don’t have concrete evidence against all LDS teaching, nor is there solid, undeniable evidence in favor of it. The church could disambiguate and clear up all confusion, but it does not. Presumably, because you and I are meant to rely on faith. By every Mormon's [favorite scriptural passage](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p21#p21), “faith is . . . hope for things which are not seen, **which are true**.” Faith is not stubborn insistence despite evidence to the contrary.
 
-For more information on this, I have a page outlining [[My own experience]].
+For more information on this, I have a page outlining [[My own experience|my experience]].
 
 &nbsp;
 

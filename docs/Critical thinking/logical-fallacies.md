@@ -2,22 +2,22 @@
 comments: true
 ---
 # ♟️ Logical Fallacies
-Fallacies are problems with how an argument is constructed. They say nothing about why a conclusion is wrong, other than to say that the conclusion came from a bad argument. Bad arguments can still lead to conclusions that are true. In other words, once we're done labeling the arguments, one also should consider explaining why the conclusions are shit, too.
+Fallacies are problems with how an argument is constructed. They say nothing about *why* a conclusion is wrong, other than to say that the conclusion came from a bad argument. Bad arguments can still lead to conclusions that are true. In other words, once we're done labeling the arguments, one also should consider explaining why the conclusions are shit, too.
 
-==I am not exempt from these!== Please, point out where I use logical fallacies so I can fix / revisit the arguments. I've added a comment section to these notes for exactly that purpose. In fact, I can give you a heads-up that I'll be using [[#Strawman Fallacy|Strawman Fallacy]] for illustrative purposes in the examples for other fallacies.
+==I am not exempt from these!== In fact, I can give you a heads-up that I'll be using [[#Strawman Fallacy|Strawman Fallacy]] for illustrative purposes in the examples for other fallacies. Within this context, I feel that it's appropriate to use straw men to communicate the topic, as long as you and I can both agree and understand that stereotypes are not monolithic.
 
 This is a high-level overview with some short examples I've found. A more comprehensive document would delineate these into formal vs informal fallacies. I'm not doing that here. It's a topic with plenty of material to consume!
 
 ---
 
 ## Fallacies
-In the event that you don't find a great, big, wall of text appealing, consider [Your logical fallacy is...](https://yourlogicalfallacyis.com/), a site that presents these ideas in a simpler, approachable way. If you hate brevity and color, stick around!
+In the event that you don't find my great, big, wall of text appealing, consider [Your logical fallacy is...](https://yourlogicalfallacyis.com/), a site that presents these ideas in a simpler, approachable way. If you hate brevity and color, stick around!
 
 **"Absence of evidence**" = There is no evidence present. No evidence has been found. For example: There is no evidence that pink unicorns exist." This does not strictly mean that the argument is impossible, simply that there is no evidence.
 
 **"Evidence of absence"** = Found evidence demonstrating that something was there but is now missing or gone. For example: "The dust on the mantel shows that the clock has been removed." Evidence of absence is indeed evidence.
 
-This leads to the idea of double-negative equating positive. To say "no one has proven 'not X', therefore X is true" is not a valid argument. No one has ever proven that there are *not* invisible aliens living in my earlobes, therefore it must be true. No one has proven that God does not exist, therefore, God must exist. This conclusion fits nicely with [[Falsifiability]].
+This leads to the idea of double-negative equating positive. To say "no one has proven 'not X', therefore X is true" is not a valid argument. No one has ever proven that there are *not* invisible aliens living in my earlobes, therefore it must be true. No one has proven that God does not exist, therefore, God must exist. This conclusion fits nicely with *[[Falsifiability|falsifiability]]*.
 
 If I am looking for an elephant in my closet and I find no evidence of one, it makes no sense to say "Absence of evidence is not evidence of absence". In this case absence of evidence of an elephant most definitely means an elephant is absent.
 

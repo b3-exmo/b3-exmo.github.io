@@ -116,6 +116,8 @@ Boy, this guy sure sounds like he was called of God to speak in His behalf.
 
 — [Brigham Young Address to Legislature](https://archive.org/details/CR100317B0001F0017), Feb 5, 1852
 
+"See, it isn't all that bad. He said they'd get the priesthood *eventually*, and [[Race|they did]]! Prophets have solved racism forever."
+
 &nbsp;
 
 ## Misogyny

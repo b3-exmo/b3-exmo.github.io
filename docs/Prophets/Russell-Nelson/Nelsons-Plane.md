@@ -13,7 +13,7 @@ Where problems arise, though, is when a story told to promote faith in God is bo
 &nbsp;
 
 ## Key Elements
-In 1976, we read of a certain [Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15) named [[Russell-M-Nelson|Russell Marion Nelson]] who shared a dramatic experience of a near-death experience, a catastrophic mechanical failure in the airplane he was a passenger of. Nelson relates that one of the airplane's two engines exploded, but the plane narrowly avoided a crash by extinguishing a fire; an ordeal with a remarkably high mortality rate, but he survives!
+In 1976, we read of a certain [Sunday School President](https://www.churchofjesuschrist.org/study/general-conference/1978/04/the-sustaining-of-church-officers?lang=eng&id=p15#p15) named [[Russell-M-Nelson|Russell Marion Nelson]] who shares a dramatic recounting of a near-death experience, a catastrophic mechanical failure in the airplane he was a passenger of. Nelson relates that one of the airplane's two engines exploded, but the plane narrowly avoided a crash by extinguishing a fire; an ordeal with a remarkably high mortality rate, but he survives!
 
 Against all odds, God protected this one plane on this one instance to preserve Nelson's life, so that Nelson can later [[Nelson-vs-Covid#Vitamins|tell us to take vitamins]]. Fatalities from other airplane crashes just weren't meant to speak in General Conference. This is all within the pretext of Nelson feeling a calm peacefulness, being at ease with the prospect of mortal life ending because of a variety of nonspecific factors (worthiness, trust in Christ's atonement, having [[Garments|garments]] on, etc.) Elder Nelson was composed and collected, despite having reason to believe that death was imminent.
 
@@ -88,6 +88,10 @@ For the audience, this story highlights that this soon-to-be Apostle was unbothe
 &nbsp;
 
 ## Specific Details
+In General Conference, these kinds of anecdotal stories still appear once in a while, but are very much obfuscated. We'll hear about "a man whom I will call John," or "a letter I received from a sister," or "a colleague of mine from years ago." That isn't necessarily bad, as it respects the privacy of those involved. I draw attention to this to highlight the discrepancy between generic names of a friend of a friend, to specific tales outlining specific events in specific locations at specific times. This kind of specificity lets the audience fact-check the faith-promoting stories. This scrutiny does not always favor the church authorities who made their claims as we will see with Nelson's plane.
+
+&nbsp;
+
 * **1979**: *From Heart to Heart* describes this incident as taking place on ==November 12, 1976==, a flight from Salt Lake City to St. George Utah; "the pilot made a safe ==emergency landing in Delta==. I was going to St. George to give the opening prayer at the inaugural services at which Rolfe Kerr became president of Dixie College."
 * **2003**: *Father, Surgeon, Apostle* expounds with more flavor text: 
 
@@ -98,19 +102,19 @@ For the audience, this story highlights that this soon-to-be Apostle was unbothe
 
 &nbsp;
 
+We could get pissy over the discrepancy of burning oil versus flaming fuel, but I'll concede that is too ancillary to really matter. If I had been in this story, I probably wouldn't take time to examine *what* liquid is ejecting from the engine before concluding that it is cause for alarm&mdash;the engine shouldn't be doing that.
+
 We've got the following added detail:
 
 - Locations & dates
 - More description of the exploding engine
 - Emergency landing in a field
 
-&nbsp;
-
-In more recent iterations of General Conference, these kinds of anecdotal stories still appear once in a while, but are very much obfuscated. We'll hear about "a man whom I will call John," or "a letter I received from a sister," or "a colleague of mine from years ago." That isn't necessarily bad, as it respects the privacy of those involved. I draw attention to this to highlight the discrepancy between generic names of a friend of a friend, to specific tales outlining specific events in specific locations at specific times. This kind of specificity lets the audience fact-check the faith-promoting stories. This scrutiny does not always favor the church authorities who made their claims as we will see with Nelson's plane.
+Combining each of those factors, we have an ostensibly provable claim. Knowing what happened, when & where allows us to look for corroborating information. I'm no aircraft enthusiast, but what I know about the United States' [Federal Aviation Administration](https://www.faa.gov/) is that they try to keep the flying machines under some regulations, and they don't have a good sense of humor about planes covered in flaming oil falling out of the sky.
 
 &nbsp;
 
-## Incident Reporting
+## NTSB Incident Reporting
 > ***PART 830—NOTIFICATION AND REPORTING OF AIRCRAFT ACCIDENTS OR INCIDENTS AND OVERDUE AIRCRAFT, AND PRESERVATION OF AIRCRAFT WRECKAGE, MAIL, CARGO, AND RECORDS***
 > 
 > *Subpart B—Initial Notification of Aircraft Accidents, Incidents, and Overdue Aircraft*
@@ -135,12 +139,14 @@ In more recent iterations of General Conference, these kinds of anecdotal storie
 
 I've ommitted some of the sub-points within these criteria of what necessitates reporting, since they're outside the scope of what I'm examining. If you really want to read more legal docs, there's five source links for your convenience.
 
-My understanding is that American federal agencies don't have a good sense of humor about this kind of thing. If an aircraft's engine exploded, spreading flaming oil & fuel all over the fuselage, sending the plane into a tailspin, resulting in an emergency crash-landing in a field, *the FAA wants to know about it*. Even if it's a small six-passenger propeller aircraft.
+&nbsp;
+
+The above excerpt describes what kinds of incidents necessitate mandatory reporting. If an aircraft's engine exploded, spreading flaming oil & fuel all over the fuselage, sending the plane into a tailspin, resulting in an emergency crash-landing in a field, *both the NTSB and the FAA want to know about it* even if it's a small six-passenger propeller aircraft.
 
 &nbsp;
 
 ## Published FAA Report
-And so, as it happens, the *Civil Aeronautics Board* has published records of reports. Volume 73 of these published reports describe an incident *suspiciously similar* to the broad description provided by Nelson's accounts of his near-death experience.
+As it happens, the *Civil Aeronautics Board* has published records of reports. Volume 73 of these published reports describe an incident *suspiciously similar* to the broad description provided by Nelson's accounts of his near-death experience.
 
 &nbsp;
 
@@ -162,7 +168,7 @@ I would describe engine feathering as twisting the propeller blades on their res
 
 A *precautionary landing* happens when "further flight is ==possible but inadvisable==," and "are often made at an aerodrome although this is not always the case. Sometimes landing in a field (and accepting there will be damage to the aircraft) is preferable to trying to reach an aerodrome (and risk to be forced to land on worse terrain)." 
 
-This is in contrast to a *forced landing*, "where an aircraft unavoidably needs to land, usually regardless of terrain. A typical example of this is an airplane forced down by fuel exhaustion or failure of all engines." ([1](https://en.wikipedia.org/wiki/Emergency_landing), [2](https://www.aopa.org/training-and-safety/students/flighttestprep/skills/emergency-landings), [3](https://simpleflying.com/emergency-landings-differences-guide/), [4](https://skybrary.aero/articles/emergency-landing-guidance-controllers)) 
+This is in contrast to a *forced landing*, "where an aircraft unavoidably needs to land, usually regardless of terrain. A typical example of this is an airplane forced down by fuel exhaustion or ==failure of all engines==." ([1](https://en.wikipedia.org/wiki/Emergency_landing), [2](https://www.aopa.org/training-and-safety/students/flighttestprep/skills/emergency-landings), [3](https://simpleflying.com/emergency-landings-differences-guide/), [4](https://skybrary.aero/articles/emergency-landing-guidance-controllers)) 
 
 &nbsp;
 
@@ -175,9 +181,9 @@ Other discrepancies I would call auxiliary to the core of this story. Nelson sai
 
 Some of Nelson's accounts have variation on how many passengers were in the plane, and the report said 3. The number of passengers isn't really the point, so I don't think that is really worth emphasizing.
 
-In most accounts, the pilot "turns on the other engine." I don't know enough about propeller airplanes to know why was the functional engine turned off. Maybe it was deactivated during their spiraling descent?
+In most of Nelson's accounts, the pilot "turns on the other engine." I don't know enough about propeller airplanes to know why was the functional engine turned off. Maybe it was deactivated during their spiraling descent?
 
-Nelson describes this event happening at approximately half way between SLC and St. George. Delta, UT is kinda-sorta in between them— by my estimation using online mapping tools, Delta is 134 miles from SLC and 167 miles from SGU. This straight-line path is more direct than [traveling by highway](https://www.google.com/maps/dir/Salt+Lake+City,+UT,+USA/Delta,+UT,+USA/St.+George,+UT,+USA). If traveling south, I could imagine an engine failure at the half-way point causing a pilot to estimate that Delta is the closest aerodrome, even though it means turning around.
+Nelson describes this event happening at approximately half way between SLC and St. George (SGU.) Delta, UT is kinda-sorta in between them— by my estimation using online mapping tools, Delta is 134 miles from SLC and 167 miles from SGU. This straight-line path is more direct than [traveling by highway](https://www.google.com/maps/dir/Salt+Lake+City,+UT,+USA/Delta,+UT,+USA/St.+George,+UT,+USA). If traveling south, I could imagine an engine failure at the half-way point causing a pilot to estimate that Delta is the closest aerodrome, even though it means turning around.
 
 &nbsp;
 
@@ -194,15 +200,15 @@ So... it appears to me that we have a *lot* of dramatic flair added to this stor
 &nbsp;
 
 ## Local Impact
-Delta, UT's population rose from 1,610 to 1,930 between 1970 and 1980 census. The growth might not have been linear, but I could assume that the town's population in 1976 of `1610+(1930-1610)*.6 = 1802` found this incident to be uninteresting? I've lived in small towns before. Even if an airplane crashed into a farmer's field from the *next town over*, that would be the only thing the town would be known for during the next ten years.
+Delta, UT's population rose from 1,610 to 1,930 between 1970 and 1980 census. The growth likely was not linear, but I could assume that the town's population in 1976 of `1610 + (1930 - 1610) * .6 = 1802` people found this incident to be uninteresting? I've lived in small towns before. Even if an airplane crashed into a farmer's field from the *next town over*, that would be the only thing the town would be known for during the next ten years.
 
 I guess the only way for me, today in 2025, to know if any of those ~1800 people thought that a burning plane crashing into their neighbor's field is newsworthy is to check their newspaper. What I've found is Millard County's paper, *Fillmore Progress*, which county includes the town of Delta.
 
 So, unless [Utah's Digital Newspapers](https://digitalnewspapers.org/) archive is being controlled by [[Satan|Satan himself]] to make sure nobody finds information that contradicts what Russell tells us, I should expect to see *anything other than* high school football teams and insurance advertisements. You know, maybe a headline like "*flaming airplane destroys Leroy's farm— Mormon Sunday School President onboard, no injuries reported*."
 
-What do we find instead? [Funeral services for the former mayor](https://newspapers.lib.utah.edu/details?id=27931194). This guy can [help you reupholster your couch](https://newspapers.lib.utah.edu/details?id=27931196). [Mrs. Stella Day had knee surgery](https://newspapers.lib.utah.edu/details?id=27931202). holy shit you guys [Santa's coming to the mall next week](https://newspapers.lib.utah.edu/details?id=27931212)! On the same page as the mayor's passing is "*Millard Eagles defeated the Delta Rabbits and earned a spot in the State Finals*"! ... What's that? An airplane crashing in Craig's farm? I mean, we *could* talk about that, or we could talk about [teachers getting a 9% pay raise](https://newspapers.lib.utah.edu/details?id=27931213).
+What do we find instead? [Funeral services for the former mayor](https://newspapers.lib.utah.edu/details?id=27931194). This guy can [help you reupholster your couch](https://newspapers.lib.utah.edu/details?id=27931196). [Mrs. Stella Day had knee surgery](https://newspapers.lib.utah.edu/details?id=27931202). holy shit you guys [Santa's coming to the mall next week](https://newspapers.lib.utah.edu/details?id=27931212)! On the same page as the mayor's passing is "*Millard Eagles defeated the Delta Rabbits and earned a spot in the State Finals*"! ... What's that? An airplane crashing in Craig's farm? I mean, we *could* talk about that, or we could talk about [teachers getting a 9% pay raise](https://newspapers.lib.utah.edu/details?id=27931213). Gotta keep those ratings up, and appease our primary shareholder from the underworld.
 
-Huh. Maybe they just made a precautionary landing in [Delta Municipal Airport](https://www.delta.utah.gov/facilities/page/delta-municipal-airport) and nothing was on fire. ... Except [this guy's house](https://newspapers.lib.utah.edu/details?id=27931201).
+Huh. Maybe they just made a precautionary landing in [Delta Municipal Airport](https://www.delta.utah.gov/facilities/page/delta-municipal-airport) and nothing was on fire.<br>... Except [this guy's house](https://newspapers.lib.utah.edu/details?id=27931201).
 
 &nbsp;
 
@@ -213,7 +219,9 @@ I mean, it wasn't *all* a lie. There was an airplane, after all.
 
 Really, though, I wasn't ~~alive~~ present. Were I to speculate, I would say that Nelson was one of a small number of passengers flying from SLC to SGU, and an engine failed resulting in some startling turbulence. The pilot took the appropriate steps to minimize risks and made a precautionary landing in Delta well before the plane was in critical danger.
 
-An engine failing probably shook the small plane, which would be upsetting and frightening to any passenger. Nelson likely saw another passenger panicking, and ruminated on the experience after the fact— considering that "if we really were all spiraling toward death, I'd feel alright with my conscience and moral standing." And since no one else present would corroborate what happened... that engine just fucken *blew up* and there was flaming oil and smoke everywhere and we were definitely in a tailspin, it really donked up this farmer's field after we crash-landed. That lady over there was freaking out, but I was really chill and definitely not at all worried or scared.
+An engine failing probably shook the small plane, which would be upsetting and frightening to any passenger. Nelson likely saw another passenger panicking, and ruminated on the experience after the fact— considering that "if we really were all spiraling toward death, I'd feel alright with my conscience and moral standing."
+
+And since no one else present would corroborate what happened... bro that engine just fucken *blew up* and there was flaming oil and smoke everywhere and we were definitely in a tailspin, it really donked up this farmer's field after we crash-landed. That lady over there was freaking out, but I was really chill and definitely not at all worried or scared.
 
 &nbsp;
 

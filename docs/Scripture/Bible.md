@@ -4,15 +4,17 @@ comments: true
 # 📑 Bible
 ## Article of Faith
 
-> *We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God.*
+> *We believe the Bible to be the word of God ==as far as it is translated correctly==; we also believe the Book of Mormon to be the word of God.*
 
 — *[8th Article of Faith](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=p8#p8)*
 
-What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#Joseph Smith Translation|JST]] address all of them, and the LDS Standard Works OT & NT are now "translated correctly"? I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in. I should also think that the church led by God's chosen prophets wouldn't perpetuate and republish mistranslated directives from God.
+What translation issues are there? Do we have any authoritative answer to specific passages that are changed/removed/incorrectly translated? Did [[#Joseph Smith Translation|JST]] address all of them, and the LDS Standard Works OT & NT are now "translated correctly"? What does this 8th article of faith mean, pertaining to the Bible? "It's good and accurate, but only the parts that are good and accurate are good and accurate."
+
+I should think that with all the materials and study manuals that the church has provided, we'd have ample time to separate what's accurate from those "philosophies of men" that got snuck in. I should also think that the church led by God's chosen prophets wouldn't perpetuate and republish mistranslated directives from God.
 
 Without any clarification, it sounds like this gives the church permission to repudiate specific parts, as if "that’s one of the mistranslated parts" but what supports our existing doctrine is translated fine.
 
-The passage specifying that [women aren't allowed to speak](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=eng&id=p34#p34) in meetings? Nah, that's a mis-translation. To our modern sensibilities, it's both unambiguous and discriminatory. That whole symbolic [Stick of Judah](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng&id=p16#p16) thing, though, they nailed that one. Inspired writing, it is! Just the right level of vague.
+The passage specifying that [women aren't allowed to speak](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/14?lang=eng&id=p34#p34) in meetings? Nah, that's a *mistranslation*. To our modern sensibilities, it's both unambiguous and discriminatory. That whole symbolic [Stick of Judah](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/37?lang=eng&id=p16#p16) thing, though, they nailed that one. Inspired writing, it is! Just the right level of vague.
 
 &nbsp;
 
@@ -97,15 +99,15 @@ This will become very relevant in the next section.
 ### Could we get a re-translation?
 No.
 
-> *The Lord directed His prophets and apostles to preserve the scriptures in safety (see [Doctrine and Covenants 42:56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p56#p56)). The Council of the First Presidency and Quorum of the Twelve Apostles closely supervises the translation of Church scriptures. Using approved processes helps ensure doctrinal accuracy and preserve evidence of the text’s origins.*
+> *The Lord directed His prophets and apostles to preserve the scriptures in safety (see [Doctrine and Covenants 42:56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/42?lang=eng&id=p56#p56)). The Council of the First Presidency and Quorum of the Twelve Apostles ==closely supervises the translation of Church scriptures==. Using approved processes helps ensure ==doctrinal accuracy== and ==preserve evidence== of the text’s origins.*
 > 
 > *Area Presidencies submit official requests for new translations of the scriptures to the Church Correlation Department.*
 
 > ...
 
-> *The Council of the First Presidency and Quorum of the Twelve Apostles has not authorized efforts to translate or rewrite scripture text into modern or informal language. This counsel does not apply to Church publications for children.*
+> *The Council of the First Presidency and Quorum of the Twelve Apostles ==has not authorized efforts to translate== or rewrite scripture text into modern or informal language. This counsel does not apply to Church publications for children.*
 
-— *[Scripture Translation](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*, *[Modern-Language Scriptures](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*,  Sections 38.8.40.2 & 38.8.40.3, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
+— *[Scripture Translation](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*, *[Modern-Language Scriptures](https://www.churchofjesuschrist.org/study/manual/general-handbook/38-church-policies-and-guidelines?lang=eng&id=title259-p2711#title259)*, &sect; 38.8.40.2 and &sect; 38.8.40.3, *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*
 
 &nbsp;
 
@@ -127,7 +129,7 @@ I can observe two things: his bio page, linked above, does state he was the publ
 
 I can only offer conjecture, but I suspect his change from departments had to do with his insubordination to [[#Who can translate?|do what a prophet, seer, revelator, and translator]] does. Terminating employment would be a bad look. Let's send him to another department, even though he demonstrated that New Testament seems to be his wheelhouse (you know, having a PhD and all that.)
 
-The only other name that comes to mind for biblical scholars is one [Dan McClellan](https://www.maklelan.org/about), who has a [really neat podcast](https://www.youtube.com/playlist?list=PLwC6CRSpee0sVJ6Wl3G7BmklCFm-Lq_22) on the Bible, and even has a [BYU article](https://rsc.byu.edu/vol-20-no-2-2019/far-it-translated-correctly-bible-translation-church) commenting on Bible translations, including a section on Wayment's publication. At the time of writing this note, I haven't read it yet, but I've got it bookmarked! 🙃
+The only other name that comes to my mind for biblical scholars is one [Dan McClellan](https://www.maklelan.org/about), who has a [really neat podcast](https://www.youtube.com/playlist?list=PLwC6CRSpee0sVJ6Wl3G7BmklCFm-Lq_22) on the Bible, and even has a [BYU article](https://rsc.byu.edu/vol-20-no-2-2019/far-it-translated-correctly-bible-translation-church) commenting on Bible translations, including a section on Wayment's publication. At the time of writing this note, I haven't read it yet, but I've got it bookmarked! 🙃
 
 &nbsp;
 
@@ -242,7 +244,7 @@ I've run this Ensign article through a word counter tool, and deemed that it use
 &nbsp;
 
 ### Why does this matter?
-Much like the [[Book of Abraham]], if what Joseph Smith calls a revelation can be demonstrated as non-revelatory, that harms his credibility as a prophet called of God to receive revelation. If subsequent church leaders trace their authoritative lineage back to Smith, it calls their position into question as well.
+Much like the [[Book of Abraham|Book of Abraham]], if what Joseph Smith calls a revelation can be demonstrated as non-revelatory, that harms his credibility as a prophet called of God to receive revelation. If subsequent church leaders trace their authoritative lineage back to Smith, it calls their position into question as well.
 
 &nbsp;
 

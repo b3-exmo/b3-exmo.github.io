@@ -46,7 +46,7 @@ Speaking of...
 
 &nbsp;
 
-I don't know about you, but if any other institution asked me for [[Tithing|10% of my income]] and pinky-promised that they were using the money for altruistic purposes (and definitely not amassing a [$200 billion stock portfolio](https://web.archive.org/web/20230716134241/https://www.sltrib.com/religion/2023/07/16/lds-church-its-way-becoming/),) and threatened to [separate me from my family for eternity](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p104-p105#p104) if I did not pay, I don't think I would call it a privilege. I think I'd call it extortion, or a scam.
+I don't know about you, but if any other institution asked me for [[Tithing|ten percent of my income]] and pinky-promised that they were using the money for altruistic purposes (and definitely not amassing a [$200 billion stock portfolio](https://web.archive.org/web/20230716134241/https://www.sltrib.com/religion/2023/07/16/lds-church-its-way-becoming/),) and threatened to [separate me from my family for eternity](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=p104-p105#p104) if I did not pay, I don't think I would call it a privilege. I think I'd call it extortion, or a scam.
 
 &nbsp;
 
@@ -78,11 +78,11 @@ Next imagine if a religious institution tried to pull that shit. [[Garments|Oh, 
 ## Other Privileges
 What else does the LDS church call "a privilege"?
 
-I think it'll be easier for everyone involved to just streamline my complaining into bullet lists.
+I think it'll be easier for everyone involved to just streamline my complaining into bullet lists. These will be grouped by source rather than topic.
 
 &nbsp;
 
-### General Conference
+### In General Conference
 - [Prayer](https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-privilege-of-prayer?lang=eng&id=p14#p14)
 - [Reading scriptures and listening to 10-hour conferences twice a year](https://www.churchofjesuschrist.org/study/general-conference/2011/04/your-potential-your-privilege?lang=eng&id=p17#p17)
 - [Holding the priesthood](https://www.churchofjesuschrist.org/study/general-conference/1975/10/the-privilege-of-holding-the-priesthood?lang=eng&id=p63#p63)
@@ -92,13 +92,13 @@ I think it'll be easier for everyone involved to just streamline my complaining 
 
 &nbsp;
 
-### Scripture
+### In Scripture
 - [Worshipping God](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?id=p11&lang=eng#p11)
 - [Showing the plates to others](https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/5?lang=eng&id=p2#p2)
 - [Translating the plates](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/9?lang=eng&id=p5#p5) (example of a privilege being revoked)
 - [Speaking for yourself before the council](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/102?lang=eng&id=p18#p18)
 
-Various other examples [outlined in the index](https://www.churchofjesuschrist.org/study/scriptures/triple-index/privilege?lang=eng)
+Various other examples [outlined in the Triple Combination index](https://www.churchofjesuschrist.org/study/scriptures/triple-index/privilege?lang=eng).
 
 &nbsp;
 
@@ -106,4 +106,3 @@ Various other examples [outlined in the index](https://www.churchofjesuschrist.o
 - [Transcribing the Book of Mormon](https://www.churchofjesuschrist.org/study/history/saints-v2/part-2/11-a-glorious-privilege?id=p32-p33&lang=eng#p32)
 - [Serving in a church calling, exercising the priesthood, entering a temple, partaking of the sacrament](https://www.churchofjesuschrist.org/study/manual/general-handbook/32-repentance-and-membership-councils?lang=eng&id=p204-p205#p204)
 - [Being a member of an organization](https://www.churchofjesuschrist.org/study/manual/gospel-topics/membership-councils?lang=eng)
-

@@ -105,7 +105,7 @@ Or just use search operators on [the whole site](https://www.churchofjesuschrist
 
 &mdash; *[Plural Marriage in Kirtland and Nauvoo](https://www.churchofjesuschrist.org/study/manual/gospel-topics-essays/plural-marriage-in-kirtland-and-nauvoo?lang=eng&id=p6#p6)*, Gospel Topics Essays
 
-Cool, God is restoring an ancient practice. It'd be a real shame if a principle that was divinely commissioned anciently, then divinely restored by a divinely appointed representatives as a divine imperative in order to avoid divine, eternal punishment.
+Cool, God is restoring an ancient practice. We've got a divinely commissioned ancient principle, divinely restored by a divinely appointed representative as a divine imperative in order to avoid divine, eternal punishment. ([[DC 132#6|1]], [[Polygamy|2]]) It'd be a bad look if it had to go away for some reason.
 
 Oh, wait.
 
@@ -113,18 +113,20 @@ Oh, wait.
 
 &mdash; *[Official Declaration 1](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=eng&id=study_intro1#study_intro1)*, churchofjesuschrist.org
 
-So... [[Polygamy]] was a critical part of the restoration of God's original church... and *was* restored... but now... it's been un-restored.
+So... [[Polygamy|Polygamy]] was a critical part of the restoration of God's original church... and *was* restored by God's chosen prophet... but now... now it's been un-restored... by God's chosen prophet.
 
-![image](../../img/confused-kdrama.gif){: .size75}
+![image](../img/confused-kdrama.gif){: .center .size75}
 
 Damn, crazy how the United States [Congress can affect](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=eng&id=p5#p5) God's immutable machinations.
+
+Hmm? [[#Ongoing Restoration|Ongoing restoration]], you say? ... I'm not sure that "ongoing" is the word I would use to describe what I'm seeing, but you do you.
 
 &nbsp;
 
 ## What exactly is being restored?
-If the Book of Mormon is true, we have three Nephites who are immortal and have priesthood. Did Joseph Smith need to restore it? If he did, why, and wouldn’t it have been passed on by them? What does this say about the idea of an apostasy? The priesthood already exists, why would we hype Joseph restoring it?
+If the Book of Mormon is true, we have three Nephites who are immortal and have priesthood. Did Joseph Smith need to restore it? If he did, why? Wouldn’t the authority have been passed on by those who won't taste of death? What does this say about the idea of an [[course-correction|apostasy]]? The priesthood already exists, why would we hype Joseph restoring it?
 
-And why doesn’t the restoration look more like Judaism? Because in theory, that’s what was being restored, right?
+And why doesn’t the restoration look more like Judaism? Isn't that what is being restored? Or, at very least, an approximation of it?
 
 &nbsp;
 

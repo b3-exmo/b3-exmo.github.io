@@ -65,7 +65,7 @@ What fortuitous timing this is! I'm writing these notes in May of 2024, and the 
 &nbsp;
 
 ## Implications
-### Paul Grice's Maxim of Quantity
+### Maxim of Quantity
 [Paul Grice](https://en.wikipedia.org/wiki/Paul_Grice) was a "philosopher of language", and I best know of him for outlining [cooperative principle](https://en.wikipedia.org/wiki/Cooperative_principle). Colloquially called Grice's Maxims, these are accepted as foundational concepts in the linguistic field of pragmatics. One of which is the *Maxim of Quantity*, outlining that in conversation, a participant should:
 
 1. Make your contribution as informative as is required
@@ -86,7 +86,7 @@ The implication of verbalizing that "I know [this church] is true" inherently su
 
 Per the above outlined maxim of quantity, I am left wondering why did you feel the need to tell me that? Why would Nephi feel the need to tell us that "[the record which [he makes] is true](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng)"? Is he trying to get that idea in edgewise before someone else pops up and says he's lying? Has he been accused of being untruthful in the past? Or, a more cynical explanation is that this statement is in some way a reaction to Lucy Harris' possession of 116 pages of manuscript containing the Book of Lehi?
 
-This is a childish illustration, but I could tell you that Baskin Robbins ice cream is true. You might ask what in the hell that means, and I could defend my claim by saying that Häagen-Dazs is [the whore of all the earth](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p10#p10), and they're [trying to convince you](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng&id=p26-p27#p26) that Baskin Robbins is led by [[Satan]], and also I promise that I am not trying to deceive you.
+This is a childish illustration, but I could tell you that Baskin Robbins ice cream is true. You might ask what in the hell that means, and I could defend my claim by saying that Häagen-Dazs is [the whore of all the earth](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p10#p10), and they're [trying to convince you](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8?lang=eng&id=p26-p27#p26) that Baskin Robbins is led by [[Satan|Satan]], and also I promise that I am not trying to deceive you.
 
 It's fucking ice cream. Relax.
 

@@ -12,9 +12,9 @@ In the Old Testament, "the devil" is pretty vague and nonspecific. As shown abov
 
 &nbsp;
 
-Satan is a figure or a concept that I find really fascinating. He serves as a convenient scapegoat and/or boogeyman who is responsible for all ills in the whole world... at least, from the perspective of Christianity. The word *Satan* when not used as a proper noun is comparable to "opponent," "accuser," or "adversary." Context around the word can heavily imply whether it's a mortal human filling the role of "a satan," or even an "[angel of the Lord](https://www.churchofjesuschrist.org/study/scriptures/ot/num/22?lang=eng&id=p22#p22)" being "[a satan](https://biblehub.com/hebrew/strongs_7854.htm)."
+Satan is a figure or a concept that I find really fascinating. He serves as a convenient scapegoat and/or boogeyman who is responsible for all ills in the whole world... at least, from the perspective of Christianity. When not used as a proper noun, the word *Satan* is comparable to "opponent," "accuser," or "adversary." Context around the word can heavily imply whether it's a mortal human filling the role of "a satan," or even an "[angel of the Lord](https://www.churchofjesuschrist.org/study/scriptures/ot/num/22?lang=eng&id=p22#p22)" being "[a satan](https://biblehub.com/hebrew/strongs_7854.htm)."
 
-Linguistics are surely more complicated than I realize, because the role "satan" at one point became a proper noun, much like how the word "god" became a proper noun. This implies pretty heavily that [[one-highlander.gif|there is only one]] "God" or one "Satan" with whom we have any concern.
+Linguistics are surely more complicated than I realize, because the role "satan" at one point *became* a proper noun, much like how the word "god" became a proper noun. This implies pretty heavily that [[one-highlander.gif|there is only one]] "God" or one "Satan" with whom we have any concern.
 
 How did *satan* go from "a guy causing problems" to "a singular malevolent, supernatural being bent on destroying everything good or happy"? Well, it all seems to stem from one of Mormonism's preferred *[questions of the soul](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/13-chapter-5?lang=eng&id=title12#title12)*: what happens after we die?
 
@@ -22,7 +22,9 @@ How did *satan* go from "a guy causing problems" to "a singular malevolent, supe
 
 ## Origin
 ### Hell
-Something that I'd like to spend more time reading about is how the construction of the Bible is really a confluence of Hebrew, Aramaic, Roman, and Greek cultures. Having not yet done that, I will now begin to write about things I have only a superficial understanding of.
+Something that I'd like to spend more time reading about is how the construction of the Bible is really a confluence of Hebrew, Aramaic, Roman, and Greek cultures. Having not yet done that, I will now begin to write about things I have only a superficial understanding of. I'll likely make some amendments or updates should I find better source information.
+
+&nbsp;
 
 > \[Sheol is\] *a place where both the righteous and the unrighteous dead go, regardless of their moral choices in life. ...  [It] may be interpreted as either a generic metaphor describing 'the grave' into which all humans invariably descend, or an actual state of afterlife within Israelite thought.*
 
@@ -30,19 +32,19 @@ Something that I'd like to spend more time reading about is how the construction
 
 &nbsp;
 
-Sheol appears to be thought of as simply fate, rather than a consequence for anything. As I understand it, in ancient Hebraism, an "[[Afterlife|afterlife]]" wasn't really a relevant consideration; we're just here to serve God's will and live life, but there isn't a "reward" after death for how well one fulfilled those duties towards God.
+Sheol appears to be thought of as simply fate, rather than consequence. As I understand it, in ancient Hebraism, an "[[Afterlife|afterlife]]" wasn't really a relevant consideration; we're just here to serve God's will and live life, but there isn't a "reward" after death for how well one fulfilled those duties towards God.
 
-When the Hebrew text gets translated into Greek in ancient Alexandria, rather than introduce an entirely new word to the clergy, folks just replaced *sheol* with *[Hades](https://en.wikipedia.org/wiki/Hades)*, the mythological God of the dead. Context using his name can also refer to his spooky, misty & gloomy domain in the underworld where dead people go irrespective of how "good" they were, by whatever metric.
+When the Hebrew text gets translated into Greek, rather than introduce an entirely new word to the clergy in ancient Alexandria, folks just replaced *sheol* with *[Hades](https://en.wikipedia.org/wiki/Hades)*, the mythological God of the dead. It's a pretty close semantic match, so it fits well enough. Context around use of the word Hades can also refer to his spooky, misty & gloomy domain in the underworld where dead people go irrespective of how "good" they were.
 
-Neither Sheol nor Hades are places for punishing misbehavior, they're simply the place(s) you go after dying. It sounds like a close enough semantic match that it *probably* won't lead to any [disagreement or confusion](https://en.wikipedia.org/wiki/Christian_views_on_Hades) at any time for the subsequent 2,300 years.<br>~spoiler\ alert:\ it\ did.~
-
-&nbsp;
-
-Moving back to Hebrew culture, we have *[Gehenna](https://en.wikipedia.org/wiki/Gehenna)*, a [valley close to Jerusalem](https://www.openstreetmap.org/?mlat=31.769722&mlon=35.226667&zoom=15#map=18/31.769864/35.226202). It appears to have been the de facto standard location of "we burn things here" anciently. While other religions were vying for cultural prevalence, ancient kings of Judah (Ahaz and Manesseh) used this location for sacrificing children into a fire. The prophet Jeremiah [didn't like that](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=eng&id=p31#p31) much, so the location [had its name changed](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=eng&id=p4-p6#p4) to sound more *totally metal*: the *valley of slaughter*. I found an online *[Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/6558-gehenna)* which says that this name means the place was cursed. That *probably* won't have any impact on the translation process in 1611 CE commissioned by King James.<br>~spoiler\ alert:\ it\ did.~
+Neither Sheol nor Hades are places for punishing misbehavior, they're simply the place(s) you go after dying. It sounds like a close enough semantic match that it *probably* won't lead to any [disagreement or confusion](https://en.wikipedia.org/wiki/Christian_views_on_Hades) at any time for the subsequent 2,300 years.<br>~it\ did.~
 
 &nbsp;
 
-This is all relevant simply because philosophy considered the groundbreaking possibility of "what if we're still conscious after we die... and also everything sucks? Gehenna was at one point in time a shitty place where things get burned. What if existence is like that after death?" Today, this idea appears to be a tenant of Jehovah's Witnesses' *Watchtower* ([1](https://wol.jw.org/en/wol/d/r1/lp-e/2011252), [2](https://wol.jw.org/en/wol/d/r1/lp-e/1200001642).) The best (only) connection I've found for this idea is a 1200 CE Rabbi named *[David Kimhi](https://en.wikipedia.org/wiki/David_Kimhi)*, but I have yet to find a satisfying primary source for this. The comparison of an afterlife to this variation of Gehenna, a shitty place that is always burning, *probably* won't have any impact on the ~1550 CE *[Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent)* which [canonized an afterlife](https://web.archive.org/web/20120609122435/https://www.vatican.va/archive/ENG0015/__P2O.HTM) of "eternal damnation." ([1](https://en.wikipedia.org/wiki/List_of_excommunicable_offences_from_the_Council_of_Trent#Penance), [2](https://history.hanover.edu/texts/trent/trentall.html), [3](https://en.wikisource.org/wiki/Canons_and_Decrees_of_the_Council_of_Trent/Session_XIV/Sacrament_of_Extreme_Unction))<br>~spoiler\ alert:\ it\ did.~
+Moving back to Hebrew culture, we have *[Gehenna](https://en.wikipedia.org/wiki/Gehenna)*, a [valley close to Jerusalem](https://www.openstreetmap.org/?mlat=31.769722&mlon=35.226667&zoom=15#map=18/31.769864/35.226202). It appears to have been the de facto standard location of "we burn things here" anciently. While other religions were vying for cultural prevalence, ancient kings of Judah (Ahaz and Manesseh) used this location for sacrificing children into a fire. The prophet [Jeremiah didn't like that](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/7?lang=eng&id=p31#p31) much, so the location [had its name changed](https://www.churchofjesuschrist.org/study/scriptures/ot/jer/19?lang=eng&id=p4-p6#p4) to sound more *totally metal*: the *valley of slaughter*. I found an online *[Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/6558-gehenna)* which says that this name means the place was cursed. That *probably* won't have any impact on the translation process in 1611 CE commissioned by King James.<br>~it\ did.~
+
+&nbsp;
+
+This is all relevant simply because philosophers began considering the groundbreaking possibility of "what if we're still conscious after we die... and also everything sucks? Gehenna was at one point in time a shitty place where things get burned. What if existence is like that after death?" Today, this idea appears to be a tenant of Jehovah's Witnesses' *Watchtower* ([1](https://wol.jw.org/en/wol/d/r1/lp-e/2011252), [2](https://wol.jw.org/en/wol/d/r1/lp-e/1200001642).) The best (only) connection I've found for this idea is a 1200 CE Rabbi named *[David Kimhi](https://en.wikipedia.org/wiki/David_Kimhi)*, but I have yet to find a satisfying primary source for this. The comparison of an afterlife to this variation of Gehenna (a shitty place that is always burning) *probably* won't have any impact on the ~1550 CE *[Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent)* which [canonized an afterlife](https://web.archive.org/web/20120609122435/https://www.vatican.va/archive/ENG0015/__P2O.HTM) of "eternal damnation." ([1](https://en.wikipedia.org/wiki/List_of_excommunicable_offences_from_the_Council_of_Trent#Penance), [2](https://history.hanover.edu/texts/trent/trentall.html), [3](https://en.wikisource.org/wiki/Canons_and_Decrees_of_the_Council_of_Trent/Session_XIV/Sacrament_of_Extreme_Unction))<br>~guess\ what?\ it\ did.~
 
 &nbsp;
 
@@ -53,47 +55,31 @@ And so, as various cultures intermingled, we have Hebrew Sheol which is similar 
 
 &nbsp;
 
-If our ultimate objective is to get into some kind of Heaven, the good afterlife, but there's an opponent, accuser, or adversary getting in our way, then... maybe there's some kind of *satan* intent on getting mortals to Hell, the bad afterlife? That *Council of Trent* seemed to conclude that.
+If our ultimate objective is to get into some kind of Heaven, the good afterlife, but there's an opponent, accuser, or adversary getting in our way, then... maybe there's some kind of *satan* intent on getting mortals to Hell, the bad afterlife? The *Council of Trent* seemed to conclude that.
 
-This conclusion *may* have been an influence on an Italian fellow named *Durante di Alighiero degli Alighieri*, who wrote a divine comedy we know of today as *[Dante's Inferno](https://en.wikipedia.org/wiki/Inferno_(Dante))*. This comedy depicts nine concentric circles of torment, each circle representing a specific sin that its denizens were guilty of. In the bottom-most pit of is Lucifer, acting as a Satan, whom Mormonism calls "[a son of the morning](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=eng&id=p26-p28#p26)."
+This conclusion *may* have been an influence on an Italian fellow named *Durante di Alighiero degli Alighieri*, who wrote a divine comedy we know of today as *[Dante's Inferno](https://en.wikipedia.org/wiki/Inferno_(Dante))*. This comedy depicts nine concentric circles of torment, each circle representing a specific sin that its denizens were guilty of. In the bottom-most pit is Lucifer, acting as a Satan, whom Mormonism calls "[a son of the morning](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/76?lang=eng&id=p26-p28#p26)."
 
 &nbsp;
 
 Perhaps a properly educated theologian could point me to better resources, but for today, I'm satisfied with the above context and explanation of Satan's origins. The KJV New Testament mentions "hell" a several times, but doesn't seem to be saying "this is a shitty place that burns forever and you'll go there if you sin." That idea, by my estimation, appears to be borne of the Catholic church's ~1550 council that determine its doctrine.
 
-For some extra context: 58 years prior to the Counsel of Trent was a guy named Christopher Columbus, sailing on an ocean blue. Columbus ultimately dies before the Council takes place, leaving him ignorant of any consequence for [his wrongdoings](https://en.wikipedia.org/wiki/Christopher_Columbus#Brutality). All of his crimes against humanity, along with those committed by Spain's [earliest inquisitors](https://en.wikipedia.org/wiki/Alhambra_Decree) were not executed with any notion of eternal consequence. They weren't trying to spare people from Hell by coercing baptism, because Hell didn't exist yet. They weren't scared of going to Hell themselves for [torturing false confessions](https://en.wikipedia.org/wiki/Spanish_Inquisition#Torture) out of "heretics," because Hell didn't exist when the initiative began. Lacking that idea of an unpleasant afterlife, I suppose it would be easy for them to rationalize that "yeah, God is probably into this," tuning out the agonized screams of Phillippino's. Spain's inquisitors could use *whatever means necessary* to get more baptisms with no thought for consequential damnation. It just wasn't part of the theology. This kind of thing evidently does not offend God, but [[Name Mormon|calling someone a Mormon]] does. 🤷 I don't make the rules.
+For some extra context: 58 years before the Council of Trent was a guy named Christopher Columbus, sailing on an ocean blue. Columbus ultimately dies before the Council takes place, leaving him ignorant of any consequence for [his wrongdoings](https://en.wikipedia.org/wiki/Christopher_Columbus#Brutality). All of his crimes against humanity, along with those committed by Spain's [earliest inquisitors](https://en.wikipedia.org/wiki/Alhambra_Decree) were not executed with any notion of eternal consequence. They weren't trying to spare people from Hell by coercing baptism, because Hell hadn't been invented yet. They weren't scared of going to Hell themselves for [torturing false confessions](https://en.wikipedia.org/wiki/Spanish_Inquisition#Torture) out of "heretics," because Hell didn't exist when the initiative began. Lacking that idea of an unpleasant afterlife, I suppose it would be easy for them to rationalize that "yeah, God is probably into this," tuning out the agonized screams of Phillippino's. Spain's inquisitors could use *whatever means necessary* to get more baptisms with no thought for consequential damnation. It just wasn't part of the theology. *This* kind of thing evidently *does not offend God*, but [[Name Mormon|calling someone a Mormon]] does. 🤷 I don't make the rules.
 
 &nbsp;
 
-## In Practicum
-As you can see, I've got some critical thoughts about Christianity in a broad sense, but I know enough to know that I don't know enough. I grew up inside of Mormonism, stepped away from it, and today I recognize that it's unfair to assess all variations of Christianity through that paradigm.
+## Mormonism's Teachings
+I've got a separate page of notes digging into the [Book of Mormon](../Scripture/Book%20of%20Mormon/Book%20of%20Mormon.md) more thoroughly, if you're interested. For the context of Satan, here are some practical highlights:
 
-Part way through writing this page I attended a Catholic Mass with a buddy of mine. It was an illuminating experience to see core tenants of one faith get interpreted in such a radically different way. I'll try and narrow the scope of my commentary down to just Mormonism before that pesky [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) causes me to make more of a fool of myself. Each time I feel that I have a good understanding of things, I discover that the lore is deeper than I had thought. Mormonism is only one offshoot of Christianity, but the above context is necessary for where I'm trying to go.
+It is the [keystone of our religion](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-9-the-book-of-mormon-keystone-of-our-religion?lang=eng&id=p11-p12#p11). Contains the [fulness of the gospel](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p8-p9#p8) (maybe). Evidentiary of the restoration. Without this book, there is no salvation. Right? Right. Satan is also a key figure in this book's progression.
 
-&nbsp;
+A very strange paradox in this book is that it's a key component of God's plan for us to be saved, and yet the book is missing *[[Book of Mormon#Fullness of the Gospel|so many key elements]]* of the restored church. Mormonism cannot exist without this text. Mormonism does not exist *inside* of the text, either. It's very important, and decisively contains the [[Literary Value#Fullness of the Gospel|fulness of the everlasting gospel]], except for when it doesn't. 
 
-### Mormonism's Teachings
-On a broad, general scale, Mormonism teaches that:
-
-- There are churches
-- Churches [[logical-fallacies#False Dilemma|can be either]] true or false
-- Only [[True#Opposition|one of them is true]]
-- Hey, wouldn't you know it&mdash;it's us, *we're the true one*! We are "the [only true and living church](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1?lang=eng&id=p30#p30) upon the face of the whole earth." How convenient.
-
-There is no other baptism ([1](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/38?lang=eng&id=p9#p9), [2](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p9#p9)). You do it the way we say, or it's illegitimate. The [only way to return to God](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p21#p21) is through us. *We* are your only option. All other churches are at best [an imitation](https://www.churchofjesuschrist.org/study/general-conference/1972/10/strange-creeds-of-christendom?lang=eng), and at worst they are [something of the devil](https://www.churchofjesuschrist.org/study/scriptures/gs/devil?lang=eng&id=title3-p24#title3). In fact, a point of order made abundantly clear to Joseph Smith (maybe) is that [he must join no other church](https://www.churchofjesuschrist.org/study/general-conference/1985/10/the-only-true-church?lang=eng&id=p34-p36#p34), "that all their creeds were an abomination in his sight; that those professors were all corrupt[.]"
-
-How is this all related to Satan? Well... Per his namesake, he's here to cause problems. If the only path to salvation has adjectives like "strait" and "narrow," "[and few there be that find it](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132?lang=eng&id=p22#p22)," then someone whose role of deceiver, opponent, adversary, etc. has a pretty clear purpose: to obscure that narrow point of entry.
+Another dimension of that conundrum is that teachings which *are* present in the Book of Mormon are absent in the modern church's practices. One such example is the concept of *Hell*, which I will contest was absolutely not a relevant factor for Jewish families in 600 BCE, therefore Nephi should have no comprehension of such a fate. I will [[#Hell is Anachronistic|explore that]] anachronism shortly, but before I do, we'll first examine what this book of scripture says about free will.
 
 &nbsp;
 
-## Book of Mormon & Free Will
-I've got a separate page of notes digging into the [[Book of Mormon]] more thoroughly, if you're interested. For the context of Satan, here are some practical highlights:
-
-It is the [keystone of our religion](https://www.churchofjesuschrist.org/study/manual/teachings-of-presidents-of-the-church-ezra-taft-benson/chapter-9-the-book-of-mormon-keystone-of-our-religion?lang=eng&id=p11-p12#p11). Contains the [fulness of the gospel](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=p8-p9#p8) (maybe), . Evidentiary of the restoration. Without this book, there is no salvation. Right? Right.
-
-A very strange paradox in this book is that it's a key component of God's plan for us to be saved, and yet the book is missing *[[Book of Mormon#Fullness of the Gospel|so many key elements]]* of the restored church. Mormonism cannot exist without this text. Mormonism does not exist inside of the text, either. Another dimension of that conundrum includes teachings that *are* present in the Book of Mormon, but absent in the modern church's practices. One example of this is Hell, which was totally a relevant factor for Jewish families as early at 600 BCE. Before examining that, we'll first examine what this book of scripture says about free will.
-
->  ***11*** *For it must needs be, that there is an opposition in all things. If not so, ... righteousness could not be brought to pass, neither wickedness, neither holiness nor misery, neither good nor bad.*
+### Satan vs. Free Will
+>  ***11*** *For ==it must needs be==, that there is an ==opposition== in all things. If not so, ... righteousness could not be brought to pass, neither wickedness, neither holiness nor misery, neither good nor bad.*
 > 
 > ***16*** *Wherefore, the Lord God gave unto man that ==he should act for himself==. Wherefore, man ==could not act for himself== save it should be that he was ==enticed== by the one or the other.*
 
@@ -107,22 +93,24 @@ A very strange paradox in this book is that it's a key component of God's plan f
 
 Suspiciously absent from Helaman's assurance of free will is the stipulation that mankind needs to be enticed one way or another. You're just free.
 
-Does this mean that God designed humans to act for themselves, or did God design humans to be unable to act "save it should be that he was enticed by the one or the other?" I see scriptural passages to make both arguments. I suppose that in practicum, this means that we can use prophetic, divine scriptural text to argue in favor of whichever angle you prefer in conversation. Just the way God intended 👍
+Does this mean that God designed humans to act for themselves, or did God design humans to be unable to act "save it should be that he was enticed by the one or the other?" I see scriptural passages to make both arguments. I suppose this means that we can use prophetic, divine scriptural text to argue in favor of whichever angle you prefer in conversation! Just the way God intended 👍
 
 If the "proper" understanding of free will is that we are, by design, unable to act without enticement, then you're going to run into problems as as you delve further into this topic of free will. We need a minimum of two options in order for us to have choice, I suppose. There *has* to be opposition, or else free will doesn't matter. Jesus isn't going to provide that opposition, so... I mean, I guess *someone* has to do it...
 
 &nbsp;
 
 ## War in Heaven
-One unique teaching within Mormonism (that is absent from the Book of Mormon) is the "war in heaven"  ([1](https://www.churchofjesuschrist.org/study/scriptures/bd/war-in-heaven?lang=eng&id=p1#p1), [2](https://www.churchofjesuschrist.org/study/manual/gospel-topics/war-in-heaven?lang=eng&id=p1#p1)), which sounds like it should be a literary conflict taken to epic proportions. In practice, it's much less fascinating. The premise is that "[b]ecause our Heavenly Father chose Jesus Christ to be our Savior, Satan became angry and rebelled." In our pre-mortal life, we didn't have physical bodies, so "[t]he [premortal war](https://www.churchofjesuschrist.org/study/liahona/2017/04/war-goes-on?lang=eng&id=p5#p5) was fought with words, ideas, debate, and persuasion." We just argued over whether we liked Jesus or Lucifer, and how free will plays into the equation. That's it, that's the war.
+One teaching within Mormonism (that is also absent from the Book of Mormon) is the "war in heaven" ([1](https://www.churchofjesuschrist.org/study/scriptures/bd/war-in-heaven?lang=eng&id=p1#p1), [2](https://www.churchofjesuschrist.org/study/manual/gospel-topics/war-in-heaven?lang=eng&id=p1#p1)), which sounds like it should be a literary conflict taken to epic proportions. In practice, it's much less fascinating. The premise is that "\[b\]ecause our Heavenly Father chose Jesus Christ to be our Savior, Satan became angry and rebelled." In our pre-mortal life, we didn't have physical bodies, so "\[t\]he [premortal war](https://www.churchofjesuschrist.org/study/liahona/2017/04/war-goes-on?lang=eng&id=p5#p5) was fought with words, ideas, debate, and persuasion." We just argued over whether we liked Jesus or Lucifer, and how *free will* plays into the equation. That's it, that's the war.
 
-Something that is not clear to me in this pre-mortal war is how it affects the origins of "evil." The inciting incident was God choosing Jesus to be our Savior. ... To save us from what, exactly? The presentation of the Plan of Salvation™️ was prior to Lucifer's rebellion; there was no devil, no Satan, no tempter. At this point in time, before Lucifer's counter-offer is presented, he's just a guy like you or me.
+Something that is not clear to me in this pre-mortal war is how it affects the origins of "evil." The inciting incident was God choosing Jesus to be our Savior. ... To save us from what, exactly? The presentation of the Plan of Salvation™ was prior to Lucifer's rebellion; there was no devil, no Satan, no tempter. At this point in time, before Lucifer's counter-offer is presented, he's just a guy like you or me.
 
 But, he just had to open his big, dumb, mouth and suggest an alternative to [[Theology#God's Plan|God's plan]] with its alarmingly low success rate. Lucifer proposes "if we're prone to making bad decisions that will jeopardize our *eternal wellbeing*, how about we tone it down and put up some safeguards against unending damnation? How about... we just [let 100% of us come back](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=eng&id=p1#p1)?"
 
+&nbsp;
+
 How does God respond to this idea?
 
-![[spray-bad.gif]]{: .center}
+![[spray-bad.gif]]{: .center .size75}
 
 &nbsp;
 
@@ -131,8 +119,8 @@ In the eternal scale of things, is *this* the birth of "evil" as a concept? Luci
 God's response isn't spelled out clearly enough for me to distill into a cheeky animated GIF, but ultimately Lucifer "[rebels](https://www.churchofjesuschrist.org/study/manual/gospel-topics/satan?lang=eng&id=p1-p3#p1)" with big ol' air quotes. The scriptural passage [quotes Lucifer as saying](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=eng&id=p1#p1) "I will redeem all mankind, that one soul shall not be lost, and surely I will do it; ==wherefore give me thine honor==." Whatever God did or said in response to this request for "thine honor" is what drove Lucifer to become "Satan, yea, even the devil, the father of all lies, to deceive and to blind men, and to lead them captive at his will, even as many as would not hearken unto my voice" as [Moses 4:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=eng&id=p4#p4) outlines.
 
 &nbsp;
-
-Now, beginning at this moment of "rebellion," we have an adversary. We didn't before. Lucifer didn't rebel against anything until there was a plan of salvation to rebel against. This leads me to wonder if God's plan featuring Jesus as a Savior *depended* on Lucifer coming up with this idea that none of God's children should be disqualified. Did God intend for one of His beloved children to rebel and become the devil? If so, that's kind of shitty. By the way, according to [[Russell-M-Nelson|modern prophets]], God's love "[[Gods Conditional Love|cannot correctly be characterized as unconditional]]," in case you thought for some reason that your Father in Heaven wasn't going to withhold acceptance even before you obtained a physical body. 🤷
+(Chsdf)
+Now, beginning as of this moment of "rebellion," we now have an adversary. We didn't before. Lucifer didn't rebel against anything until there was a plan of salvation to rebel against. This leads me to wonder if God's plan featuring Jesus as a Savior *depended* on Lucifer coming up with this idea that none of God's children should be disqualified. Did God intend for one of His beloved children to rebel and become the devil? If so, that's kind of shitty. By the way, according to [[Russell-M-Nelson|modern prophets]], God's love "[[Gods Conditional Love|cannot correctly be characterized as unconditional]]," in case you thought for some reason that your Father in Heaven wasn't going to withhold acceptance even before you obtained a physical body. 🤷
 
 &nbsp;
 
@@ -165,20 +153,24 @@ Wait, hold on, now. If a devilish Satan is integral to our free will, agency, an
 
 Is Satan a priesthood office?
 
-Perhaps not, because the careful wording in that quote delineates that women (notorious for not having priesthood authority) get *foreordained* for vague, nonspecific "[certain responsibilities](https://www.churchofjesuschrist.org/study/manual/gospel-topics/womens-service-and-leadership-in-the-church?lang=eng&id=p_ydsFo-p_u90mc#p_ydsFo)," compared to the 💪 masculine 🍆 manly-men ♂️ with balls 🏈 who get foreordained for "priesthood duties."
+Perhaps not, because the careful wording in that quote delineates that women (notorious for not having priesthood authority) get *foreordained* for vague, nonspecific "[certain responsibilities](https://www.churchofjesuschrist.org/study/manual/gospel-topics/womens-service-and-leadership-in-the-church?lang=eng&id=p_ydsFo-p_u90mc#p_ydsFo)," compared to the 💪 masculine 🍆 manly-men ♂️ with balls 🏈 who get foreordained for "priesthood duties." ... Satan was denied the privilege of a physical body, so whether or not he has testicles is a question I don't intend to address.
 
 &nbsp;
 
-I can't say that this is doctrinal, but... the geometry I'm seeing puts together the idea that Elohim picked one of his (conditionally) beloved children to be the scapegoat; not just one, but risking up to and including 33% of his own children, doomed to suffer in bitterness so that the remaining 67% could be happy. Not sure why they never present it that way in the *Friend* magazine.
+I can't say that this is doctrinal, but... what I'm seeing is that Elohim picked one of his (conditionally) beloved children to be the scapegoat, risking up to and including 33% of his own children, doomed to suffer in bitterness so that the remaining 67% could be happy. Not sure why they don't present it that way in the *Friend* magazine.
 
 &nbsp;
 
 ## Book of Mormon on Hell
+I'm venturing outside of the scope of Satan's origins, but the idea of Hell is so closely related that it fits well enough on this page. That, and I see that I have unintentionally created a *chiasm* by describing `A > B` and then `B > A`. Therefore, what I say must be divinely inspired solely because I have not been formally educated in ancient literary devices. ([1](https://www.churchofjesuschrist.org/study/ensign/2000/01/mounting-evidence-for-the-book-of-mormon?lang=eng&id=p28-p29#p28), [2](https://www.churchofjesuschrist.org/study/new-era/1972/02/chiasmus-in-the-book-of-mormon?lang=eng&id=p216-p217#p216), [3](https://www.churchofjesuschrist.org/study/ensign/1983/12/b-h-roberts-after-fifty-years-still-witnessing-for-the-book-of-mormon?lang=eng&id=p54#p54))
+
+&nbsp;
+
 > ***Do we believe in hell?***
 > 
 > *We have a different view of hell than the images of lava, fire, and pitchforks portrayed in movies. For those who choose not to follow God in life, their spirit will go to a ==temporary hell== when they die. In this case, “hell” refers more to ==a state of mind than an actual place==. Pain will come from regret and sorrow—==not from fire and brimstone==.*
 
-&mdash; *[Come Unto Christ (UK); Common Questions](https://www.churchofjesuschrist.org/comeuntochrist/uk/common-questions)*, Life after death; this 'common question' segment on *Life after death* is present in regional English language pages, but not in the [English-Global](https://www.churchofjesuschrist.org/comeuntochrist/common-questions) version. 🤔
+&mdash; *[Come Unto Christ (UK); Common Questions](https://www.churchofjesuschrist.org/comeuntochrist/uk/common-questions)*; this 'common question' segment on *Life after death* is present in regional English language pages, but not in the [English-Global](https://www.churchofjesuschrist.org/comeuntochrist/common-questions) version. 🤔
 
 &nbsp;
 
@@ -199,7 +191,7 @@ Rather than quote entire Book of Mormon verses, I'll list some key words or phra
 
 &nbsp;
 
-"Hell is temporary, and is not fire and brimstone." Right, okay. From those passages, I count 6 verses out of 8 describe Hell as eternal (or without end,) 5 out of 8 sound like it's a Proper Noun location, with three verses explicitly saying "fire and brimstone."
+"Hell is temporary, and is not fire and brimstone." Right, okay. From those passages, I count 6 verses out of 8 describe Hell as being "without end", 5 out of 8 sound like it's a Proper Noun Location, with three verses *explicitly* specifying "fire and brimstone."
 
 &nbsp;
 
@@ -208,7 +200,7 @@ Remember when we examined how cultural ideas of an afterlife, whether good, bad 
 
 It gets worse, though! The inciting incident of Ahaz, king of Judah performing human sacrifice by burning children alive as described in [2 Chronicles 28:3](https://www.churchofjesuschrist.org/study/scriptures/ot/2-chr/28?lang=eng&id=p3#p3) and [2 Kings 17:17](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/17?lang=eng&id=p17#p17) *hadn't happened yet* when Lehi left Jerusalem. The LDS church's own [seminary manual](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-material-2018/1-and-2-chronicles?lang=eng&id=p3#p3) on 2 Chronicles saying that it sure looks like it was put together "sometime after 537 B.C." This is of a significance comparable to that of [Deutero-Isaiah](https://www.ldsdiscussions.com/deuteroisaiah). Laban's [[logistical-problems#Scriptural|plates of brass]] couldn't contain something that happened 63 years in the future. The heresy by Ahaz that later gets convoluted by the Council of Trent had not happened when Lehi left Jerusalem. 
 
-For the Book of Mormon to contain *any* teaching about Hell would require a bonafide big-brain workaround: God reveals to Lehi (completely off the records) that Hell is *exactly* as that apostate council from apostatized Catholicism had decided on. If this is what happens, that calls into question if the Great Apostasy happened or not. 
+For the Book of Mormon to contain *any* teaching about Hell would require a bonafide big-brain workaround like the following: God reveals to Lehi (completely off the records) that Hell is *exactly* as that apostate council from apostatized Catholicism will decide on. Lehi then teaches this to his family, and it persists from the span of time in 1 Nephi through Mosiah 16. If this is how it happened, that calls into question if the [[course-correction|Great Apostasy]] happened or not.
 
 &nbsp;
 
@@ -217,7 +209,7 @@ The Book of Mormon teaches in no uncertain terms that Hell is very real. Whether
 &nbsp;
 
 ### Definition of "Eternal"
-I don't know how to express this in more verbosity: Eternal punishment for a finite crime is... just insane. That is such an unfathomably heavy consequence that we're put at an outrageous disadvantage against. In the scale of eternity, our mortal life is ephemeral, comparable to a fraction of a second... and God is going to judge us according to obedience in that short, transient moment in time, and condemn us for the rest of eternity.
+I don't know how else to express this: Eternal punishment for a finite crime is... just hostile. That is such an unfathomably heavy consequence that we're put at an insurmountable disadvantage against. In the scale of eternity, our mortal life is ephemeral, comparable to a fraction of a second... and God is going to judge us according to obedience in that short, transient moment in time, and condemn us *for the rest of eternity*.
 
 Unless, of course, we were to [[Book of Abraham#Translated|assume a broader definition of the word]] "eternal."
 
@@ -229,6 +221,6 @@ Unless, of course, we were to [[Book of Abraham#Translated|assume a broader defi
 
 &nbsp;
 
-Oh, good. Cool. Eternal does not mean eternal. This reminds me of how getting married for [[Polygamy#Time and eternity|eternity only]] (excluding time) which somehow can demonstrably prove that Joseph kept his pants on.
+Oh, good. Cool. Eternal does not mean eternal. This reminds me of the doctrinal teaching of getting married for [[Polygamy#Time and eternity|eternity only]] (excluding time,) which can demonstrably prove that Joseph kept his pants on.
 
 ![[pants-i-hate-pants-mo.gif]]{: .center}

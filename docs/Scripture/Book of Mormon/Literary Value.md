@@ -6,9 +6,7 @@ comments: true
 > 
 > ***41*** *But there were many who died with old age; and those who died in the faith of Christ are happy in him, as we must needs suppose.*
 
-&mdash; *[Alma 46:40-41](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=eng&id=p40-p41#p40)*
-
-Verses 37 - 41 better illustrate my point here, but that's a lengthy excerpt.
+&mdash; *[Alma 46:40-41](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/46?lang=eng&id=p40-p41#p40)*; verses 37 to 41 inclusive better illustrate my point here, but that's a lengthy excerpt.
 
 &nbsp;
 
@@ -18,9 +16,13 @@ Verses 37 - 41 better illustrate my point here, but that's a lengthy excerpt.
 
 &nbsp;
 
-Does this sound divinely inspired to you? Does this sound like an abridgment by the prophet Mormon, to distill the needed information [[Book of Mormon#Written for our day|written for our day]]?
+Does this sound divinely inspired to you? Does this sound like an abridgment by the prophet Mormon, to distill the needed information [[Book of Mormon#Written for our day|written for our day]]? The Book of Mormon's stories here are rambling so incoherently that they sound like the stories I tried writing as a ten-year-old. No, I won't share those stories to prove my claim 😳
 
-Those two excerpts are rambling so incoherently that they sound like the stories I tried writing as a ten-year-old. No, I won't share those stories to prove my claim 😳
+&nbsp;
+
+Those two excerpts seem to be hand-waving, yadda-yadda-ing *twenty-three years*. Ask your stake president if managing the church within his boundaries is mundane and uneventful enough to gloss over a 23 year span of time. Or, if you feel like this is too close to Jesus' ministration to the Nephites such that there isn't enough wickedness nor conflict to necessitate writing, consider the impact that Christ's influence has on the [[Satan-origins#Satan vs. Free Will|Nephites' agency]]: If absolutely nothing of interest happened because everyone was just so super-duper righteous, that means that they were not [enticed to to good nor evil](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&id=p16#p16). It means that there was not an opposition in all things as Lehi taught in [2 Nephi 2:11](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2?lang=eng&id=p11#p11): "*if not so, ... righteousness could not be brought to pass, neither wickedness, neither holiness nor misery, neither good nor bad.*" So maybe the Nephites weren't actually righteous, since there was no real conflict nor decision to be made.
+
+The New Testament doesn't end at Christ's crucifixion, nor at His subsequent ascension to the heavens. For approximately sixty years after Christ's crucifixion in Jerusalem, things keep happening in the same geographic location after Jesus literally performed the atonement for all of humankind.
 
 &nbsp;
 
@@ -35,22 +37,22 @@ To be clear, "character" does not require fiction. I'm not trying to say that sc
 
 There are numerous characters in the bible of varying complexity. What makes many of them compelling is that they are morally grey; they do both good and bad things, much like how real, tangible humans do. No human is 100% good or bad. People make mistakes, and people grow, mature, and develop their sense of purpose and morality over time. Compelling characters in fiction have measurable progress as *the story changes them*.
 
-If you're unfamiliar with the [alignment chart](https://en.wikipedia.org/wiki/Alignment_%28Dungeons_%26_Dragons%29?wprov=sfla1) in the tabletop game *Dungeons & Dragons*, it's a 3x3 grid with an axis for disposition toward law versus chaos, the other axis representing disposition toward good versus evil. I bring this up to describe how characters in the Book of Mormon are archetypical heroes and villains. There are *Lawful Good* characters and there are *Chaotic Evil* ones. I'd be hard-pressed to identify any that fall anywhere in the middle of that spectrum.
+If you're unfamiliar with the [alignment chart](https://en.wikipedia.org/wiki/Alignment_%28Dungeons_%26_Dragons%29?wprov=sfla1) in the tabletop game *Dungeons & Dragons*, it's a 3x3 grid with an axis for disposition toward law versus chaos, the other axis representing disposition toward good versus evil. That chart provides a general guide for a character's decisions, whether self-serving or altrustic, whether principled or impulsive. I bring this up to describe how characters in the Book of Mormon are archetypal heroes and villains. There are *Lawful Good* characters and there are *Chaotic Evil* ones. I'd be hard-pressed to identify any that fall anywhere in the middle of that spectrum.
 
-Think back on the antagonistic characters that appeared in this scriptural text. What drove them? What motivation did they have to be "evil"? [Amalickiah](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/49?id=p26-p27&lang=eng#p26) is described as being so angry that he curses God and vows to drink Moroni's blood, because how else would the reader know that he's the villain of the story? The verse even tells us his reasons for such an oath to be sworn: "*and this because Moroni had kept the commandments of God in preparing for the safety of his people.*" Amalickiah feels like a comic book villain presented as a foil to the heroic, stalwart main character. He is reminiscent of a teenager's fanfic villain. He's an archetypical violent savage rather than a human with desires and goals. He doesn't feel like a real person. *He has no depth*.
+Think back on the antagonistic characters that appeared in this scriptural text. What drove them? What motivation did they have to be "evil"? [Amalickiah](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/49?id=p26-p27&lang=eng#p26) is described as being so angry that he curses God and vows to drink Moroni's blood, because how else would the reader know that he's the villain of the story? The verse even tells us his reasons for such an oath to be sworn: "*and this because Moroni had kept the commandments of God in preparing for the safety of his people.*" Amalickiah feels like a comic book villain presented as a foil to the heroic, stalwart main character. He is reminiscent of a teenager's fanfic villain. He's an archetypal violent savage rather than a human with desires and goals. He doesn't feel like a real person. *He has no depth*.
 
 &nbsp;
 
 Readers can only differentiate between the [sons of Mosiah](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/27?lang=eng&id=p34#p34) because one of them [chopped off arms](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?id=p37&lang=eng#p37) and then had [[After all we can do#King Lamoni|a pentecostal revival]]. The other three... were also there, I guess. Aaron met up with Ammon to ask Lamoni if the other two can be let out of prison. What else did they do? The very next chapter after their respective proselytizing efforts end, this segment of the book ends with "and this is the account of Ammon and his brethren," so says [Alma 28:8](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/28?id=p8&lang=eng#p8); they are no longer the sons of Mosiah, they are Ammon and his brethren since [the past ten chapters](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/17?id=intro1-study_intro1&lang=eng#intro1) are practically just Ammon. Probably just a coincidence. [[Book of Mormon#Correctness|Most correct book on earth]], definitely not made up.
 
-These simply are not compelling characters to read about. They are predictable and two-dimensional. We don't spend enough time with any one character to find any emotional investment in them, seeing how [three hundred years](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?id=p48&lang=eng#p48) can pass by in a single chapter with absolutely nothing of note happening.
+These simply are not compelling characters to read about. They are predictable and two-dimensional. We don't spend enough time with any one character to find any emotional investment in them, seeing how [three hundred years](https://www.churchofjesuschrist.org/study/scriptures/bofm/4-ne/1?id=p48&lang=eng#p48) can pass by in a single chapter with *absolutely nothing of note* happening.
 
 [Moroni gets spicy](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/60?id=p1&lang=eng#p1) when writing to Pahoran. [Nephi gets sad](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?id=p16-p35&lang=eng#p16) when Lehi dies. The rest of the time, they are monolithic and uninteresting. [[Korihor]] has room to be a misunderstood character, but is presented as a two-dimensional [[Korihor#Tie up loose ends|villain]] who is solely bent on destroying faith & happiness. [Amulek](https://www.churchofjesuschrist.org/study/scriptures/gs/amulek?lang=eng)... has a name, and never really does anything independently or separately from Alma.
 
 &nbsp;
 
 ### Economy
-The idea that the Book of Mormon's economical structure as a proof of legitimacy is... it's really something isn't it? Looking in the scripture's index entry for *[Money, Nephite](https://www.churchofjesuschrist.org/study/scriptures/triple-index/money-nephite?lang=eng)* we see one (1) citation in [Alma 11:4-19](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p4-p19#p4). And *never again* are any of these currencies mentioned.
+The idea that the Book of Mormon's economical structure as a proof of legitimacy is... it's really something isn't it? Looking in the scripture's index entry for *[Money, Nephite](https://www.churchofjesuschrist.org/study/scriptures/triple-index/money-nephite?lang=eng)* we see one (1) citation in [Alma 11:4-19](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/11?lang=eng&id=p4-p19#p4). And *never again* are any of these currencies mentioned. Money, purchases, transactions and wealth are mentioned... but these denominations only appear once.
 
 In fact, pick any three of the currencies as described in that chapter and do a search on the church's website for them. 
 
@@ -60,7 +62,7 @@ In fact, pick any three of the currencies as described in that chapter and do a 
 - [Amnor](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&query=amnor&facet=scriptures&subfacet=bofm&type=web&page=1): Alma 11; Amnor [money]; Amnor [spy]
 - [Antion](https://www.churchofjesuschrist.org/search?facet=all&lang=eng&query=antion&facet=scriptures&subfacet=bofm&type=web&page=1): Alma 11; or Antionum, Land of
 
-God dammit, these names for money are all recycled names of people. Never once outside of Alma 11 are these convoluted currencies ever used. With all the iterations of the [[Book of Mormon#Pride cycle vs Agency|Pride Cycle]]™️, we could have quantified how many multiplicities of a measure of barley the people had amassed! We could have valuated what those pesky Gadianton Robbers were selling secrets for.
+God dammit, these names for money are all recycled names of people! Never once outside of Alma 11 are these convoluted currencies ever used. With all the iterations of the [[Book of Mormon#Pride cycle vs Agency|Pride Cycle]]™, we could have quantified how many multiplicities of a measure of barley the people had amassed! We could have valuated what those pesky Gadianton Robbers were selling secrets for.
 
 &nbsp;
 
@@ -92,6 +94,6 @@ If we were to outline all of the things that the modern LDS church teaches that 
 ## As literature
 I know I've harped on the idea that it is "written for our day" numerous times, but... really, *was it*? Was it written to us in `current year` or for people in 1830? People in the early 19th century probably weren't too bothered by the run-on sentences, comical absence of punctuation and awful grammar. Are we sure it wasn't written for *them*?
 
-It's a dull book with absurd segments. It has been around for close to 200 years, and its popularity hasn't quite lived up to the expectation that it'd fill the whole Earth. If this was a good read, people outside of Mormonism would pursue it and read it. By now, someone without a vested interest in it being proof of a church's legitimacy should have taken note and advocated for it. Yet the only people I find who see value in this book are those who *need it to be true* to settle cognitive dissonance.
+It's a dull book with absurd segments. It has been around for close to 200 years, and its popularity hasn't quite lived up to the expectation that it'd fill the whole Earth. If this was a good read, people outside of Mormonism would pursue it and read it. By now, someone *without* a vested interest in it being proof of a church's legitimacy should have taken note and advocated for it. Yet the only people I find who see value in this book are those who *need it to be true* to settle cognitive dissonance.
 
 If you were raised in the church and ~~forced~~ *firmly advised* to read and study it daily, having been taught that it's the best and most important book in the history of the world, then yes, it's a great read. To anyone outside of that cultural context, it's... it's a book, alright. Of all the books in the world, it sure is one of them.

@@ -33,7 +33,7 @@ As its inception, [Official LDS Newsroom](https://newsroom.churchofjesuschrist.o
 
 [https://www.josephsmithpapers.org/](https://www.josephsmithpapers.org/) is part of this domain. Both The Church Historian’s Press and Joseph Smith Papers appear to be legitimate, LDS leadership-owned sources of information.
 
-JSPP has lots of cool documents, including an [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/1#full-transcript) of the Book of Mormon, and spicy notes on [[Doctrines/Polygamy/Sealing#Joseph Smith Papers|polygamous sealing]]
+JSPP has lots of cool documents, including an [1830 edition](https://www.josephsmithpapers.org/paper-summary/book-of-mormon-1830/1#full-transcript) of the Book of Mormon, and spicy notes on [[Sealing#Joseph Smith Papers|polygamous sealing]]
 
 &nbsp;
 
@@ -44,7 +44,41 @@ JSPP has lots of cool documents, including an [1830 edition](https://www.josephs
 
 One could argue that "affiliated with" doesn't mean "owned by." Although, in the interest of simplicity, [[#Deseret News|Deseret News]] outright stated that DMC is owned by the church, so... Take that how you choose to?
 
-Go check out their page on "[our companies](https://www.deseretmanagement.com/#our-companies)."
+Go check out their page on "[our companies](https://www.deseretmanagement.com/#our-companies)" where they proudly enumerate the following:
+
+#### Deseret News
+The "Thought Leader Of The New West," as described in DMC's list.
+
+>*The Deseret News is a subsidiary of the [Deseret Management Corporation](http://www.deseretmanagement.com/), which is owned by The Church of Jesus Christ of Latter-day Saints.*
+
+— [About Us](https://www.deseret.com/pages/about-us/), Deseret News
+
+&nbsp;
+
+#### Deseret Book & LDS Living
+> LDS Living *Magazine is ==an independent work==, and is not an official publication of The Church of Jesus Christ of Latter-day Saints. The views expressed in the magazine are the responsibility of the various authors and do not necessarily represent the positions of the Church. Contributors include Church members and members of other faiths.*
+
+&mdash; *[About Us](https://www.ldsliving.com/about-us)*, LDS Living
+
+&nbsp;
+
+> *A Division of ==Deseret Book== Company*
+
+&mdash; Footer visible on every page of LDS Living
+
+&nbsp;
+
+> *Since 1866, Deseret Book Company has been the market leader in providing content and lifestyle products to members of The Church of Jesus Christ of Latter-day Saints through its retail chains and publishing imprints.*
+
+&mdash; *[Our Companies](https://www.deseretmanagement.com/#our-companies)*, Deseret Management Corporation
+
+&nbsp;
+
+Right, so...
+
+The LDS church owns DMC, which owns Deseret Book, of which LDS Living is a division of... and says that it's an independent work.
+
+I'm not saying that's a strong enough connection to say that LDS Living's blog posts get a signoff by the church's correlation committee or something like that. Just that the connection isn't once that I would call loose enough to be "independent."
 
 &nbsp;
 
@@ -52,13 +86,6 @@ Go check out their page on "[our companies](https://www.deseretmanagement.com/#o
 [Owns KSL](https://www.deseretdigital.com/ksl-news) and its subsidiaries
 
 [Owns Utah.com](https://www.deseretdigital.com/utah-dotcom), tourism site
-
-&nbsp;
-
-#### Deseret News
->*The Deseret News is a subsidiary of the [Deseret Management Corporation](http://www.deseretmanagement.com/), which is owned by The Church of Jesus Christ of Latter-day Saints.*
-
-— [About Us](https://www.deseret.com/pages/about-us/), Deseret News
 
 &nbsp;
 
@@ -105,7 +132,7 @@ Alternatively, here's a link to Google if you're feeling lazy: [https://www.goog
 
 &nbsp;
 
-Is Google a tool of the Devil meant to tarnish the LDS church? ... Well, it *is* a tool of the devil, but for different reasons. If you would prefer to trust the LDS church's official site instead, here's a link to that search query: [https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22journal+of+discourses%22](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22journal+of+discourses%22)
+Is Google a tool of the Devil meant to tarnish the LDS church? ... Well, actually, I would call Google a tool of the devil, but for different reasons and purposes. If you would prefer to trust the LDS church's official site instead, here's a link to that search query: [https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22journal+of+discourses%22](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22journal+of+discourses%22)
 
 My point in all of this is that these journals have been used extensively as sources in general conferences. The presiding general authorities use it. I defy you to explain why I cannot use it as a source. You can't say it's unreliable only when it says something you're uncomfortable with.
 
@@ -130,17 +157,55 @@ Buy Kimball's book to amp up that guilt trip. *Do it now*.
 
 &nbsp;
 
+### Mormon Doctrine
+*Mormon Doctrine: A Compendium of the Gospel* was intended as an encyclopedic collection of the church's core concepts and beliefs.
+
+This was published by Bruce R. McConkie while he was a member of *the First Council of the Seventy*, which ranks somewhere between a stake president and an apostle. That hierarchy has shifted a few times, but the point is that McConkie was well-versed and well-read, but wasn't really in a position to surmise that McConkie publishing this was a way to draw attention to himself from upper leadership, and he did end up becoming an apostle in 1972. I have no basis for that claim, it's just a hunch.
+
+&nbsp;
+
+It isn't "authoritative" with air-quotes around it, just like how things like the Journal of Discourses is only reliable when it's convenient for it to be. I distinctly remember my early-morning seminary teachers using this as a reference in the rare occasion that sleep-deprived teenagers could muster some critical thought to what was being presented. I suppose what would make it more "official" would be finding [it used as a source for claims made over the pulpit in General Conference](https://www.churchofjesuschrist.org/search?facet=general-conference&lang=eng&page=1&query=%22mormon+doctrine%22&type=web). I can point to a few specific instances in [1975](https://www.churchofjesuschrist.org/study/general-conference/1975/04/using-our-free-agency?lang=eng&id=p8#p8), [1976](https://www.churchofjesuschrist.org/study/general-conference/1976/10/search-the-scriptures?lang=eng&id=p3#p3), [1989](https://www.churchofjesuschrist.org/study/general-conference/1989/10/the-sacrament-and-the-sacrifice?lang=eng&id=p40#p40), [2009](https://www.churchofjesuschrist.org/study/general-conference/2009/04/faith-in-the-lord-jesus-christ?lang=eng&id=p7#p7), and in a footnote used in [2011](https://www.churchofjesuschrist.org/study/general-conference/2011/10/the-privilege-of-prayer?lang=eng&id=p14#p14).
+
+&nbsp;
+
+This sometimes-useful book contains such spicy quotes as...
+
+> *As a result of his rebellion, ==Cain was cursed with a dark skin==; he became the father of the Negroes, and those ==spirits who are not worthy to receive the priesthood are born through his lineage==. He became the first mortal to be cursed as a son of perdition. As a result of his mortal birth he is assured of a tangible body of flesh and bones in eternity, a fact which will enable him to rule over Satan.*
+
+> *Those who were ==less valiant== in pre-existence and who thereby had certain ==spiritual restrictions== imposed upon them during mortality are known to us as the negroes.*
+
+&mdash; Excerpts from *[Mormon Doctrine](https://archive.org/details/mormon-doctrine-1958-bruce-r-mc-conkie-lds)*, First Edition (1958), Bruce R. McConkie
+
+Boy, that's... That's really something, isn't it?
+
+It's worth observing that [scrutiny from church leaders](https://en.wikipedia.org/wiki/Mormon_Doctrine_(book)#Scrutiny_by_church_leaders) stemmed from McConkie publishing something so blunt and declarative without prior approval. Criticism *wasn't* for being a racist piece of shit and for using scriptural teachings to justify prejudiced views.
+
+Maybe the [Second Edition](https://archive.org/details/MormonDoctrine1966) will be a bit more palatable?
+
+Sounds like this guy should be an apostle for 13 years!
+
+&nbsp;
+
+In 2010, *Deseret Book* stopped publishing it due to "[low sales](https://archive.sltrib.com/story.php?ref=/ci_15137409)." Independent booksellers [say otherwise](https://web.archive.org/web/20120119080951/http://connect2utah.com/news-story?nxd_id=89525), that their stock sells out immediately after replenishing. Based on those excerpts from above, I don't know that I would ask any seller or publisher to distribute that vitriol, so... [check on eBay](https://www.ebay.com/itm/198010354576?_trksid=p4481478.c101506.m1851), I guess.
+
+Good thing, too&mdash;we wouldn't want the book to be equated as "[[Name Mormon#2018|a victory for Satan]] Doctrine" as of 2018. A name like that could impact sales.
+
+&nbsp;
+
 ## Secondary Sources
 ### Favorable sites
-[Apologetics](https://en.wikipedia.org/wiki/Apologetics) is a fancy word for "speaking in defense," irrespective of context for religious claims. It isn't saying "sorry" for anything, but explaining a belief. These sites seem inclined toward promoting faith and shutting down harmful accusations.
+[Apologetics](https://en.wikipedia.org/wiki/Apologetics) is a fancy word for "speaking in defense" for whatever topic, be it religion, politics, or some other category. It isn't saying "sorry" for anything, but explaining a belief. These sites seem inclined toward promoting faith and shutting down harmful accusations.
 
-- [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an ~~unofficial~~ apologetics site meant to address difficult questions and controversies. Provides primary sources for problematic documents. Appears to be one of two de facto standard for defending The Truth ™️ from those evildoers; subjectively, FAIR feels targeted toward career-aged adults, leaving the young whippersnappers with...
+- [fairlatterdaysaints.org](https://www.fairlatterdaysaints.org/): FAIR, Faithful Answers & Informed Responses, is an ~~unofficial~~ apologetics site meant to address difficult questions and controversies. Provides primary sources for problematic documents. Appears to be one of two de facto standard for defending The Truth ™ from those evildoers; subjectively, FAIR feels targeted toward career-aged adults, leaving the young whippersnappers with...
 - [scripturecentral.org](https://scripturecentral.org/): The other of what I'd call de facto apologetic sites. To me, subjectively, it feels more lively, colorful, interactive, and geared toward a demographic of teenagers or young adults. They've got videos and podcasts, including short-form videos for those with modern attention spans.
 
-I've encountered the claim that both of these sites run independently of the LDS church. I've also encountered claims that writers for these sites are paid by the church, but I haven't dug very deep to verify either side of those claims. Maybe?
+I've encountered the claim that both of the above sites run independently of the LDS church. I've also encountered claims that writers for these sites are paid by the church, but I haven't dug very deep to verify either side of those claims. Maybe?
 
-- [Ask Gramps](https://askgramps.org/): I don't think I'd call it an apologetic site, but certainly presents itself as favorable toward the LDS church. The content is organized by question and answers, presumably handled by the titular *gramps*. In my perusal, I didn't see citations to back up the answers given, but the responses do align with what I was taught as a practicing Mormon. It sounds and feels familiar and approachable.
+- [mormonr.org](https://mormonr.org/): Normally my first stop for finding a concise answer with minimal editorializing. They've got categorized "hard questions" with some short answers and links to primary sources and documents. They don't feel the need to contextualize, rationalize or explain stances, just tell it like it is, and provide documentation.
+- [Ask Gramps](https://askgramps.org/): Content is organized by question and answers, presumably handled by the titular *gramps*. In my perusal, I didn't see citations to back up the answers given, but the responses do align with what I was taught as a practicing Mormon. It sounds and feels familiar and approachable. The site feels like a "help me make sense of this information" rather than "explain this using doctrinal sources."
 - [Light and Truth Letter](https://www.lightandtruthletter.org/): A recently published document "written to the critics of the Church of Jesus Christ of Latter-day Saints, about restoration's truth claims, church history, and the fruits of the Church." Presents itself like an "anti-CES letter." I don't agree with most of the refutations, and... in all likelihood, this letter's author could say the same about me & my notes. Go take a look for yourself.
+- [Saints Unscripted](https://saintsunscripted.com/about/): YouTube channel that I'm not sure how to categorize. It does not appear to focus on apologetics&mdash;at a glance it appears to be some LDS faithful reacting to recent events and explaining how they avoid cognitive dissonance. Give them a look if you're searching out favorable video material. I appreciate that their written notes (transcripts?) have a similar stream-of-consciousness, ad-hoc citation style that I use here; as if not meant to be reference material, but casually informative.
+- [MormonWiki](https://mormonwiki.com/Main_Page): "the free encyclopedia about Latter-day Saints from the perspective of faithful members of The Church of Jesus Christ of Latter-day Saints." I imagine that subtitle was a bit more punctual [[Name Mormon|before October 2018]]. I don't see this Wiki as being more valuable than, say, the official church site's search function. In my experience, they don't really address any difficult topics, but they're good for a superficial reference, I suppose.
 
 &nbsp;
 
@@ -148,12 +213,12 @@ I've encountered the claim that both of these sites run independently of the LDS
 - [Utah Lighthouse Ministry](http://www.utlm.org/), abbreviated to UTLM. Looks to be the official site of Jerald & Sandra Tanner, two notorious critics of the LDS church's truth claims.
 - [LDS Discussions](https://www.ldsdiscussions.com/): Fantastic, well-researched dives into a variety of topics. Those pages are awfully long, so get comfy before reading.
 - [CES Letter](https://read.cesletter.org/): An approachable list of concerns with LDS teachings, history, practices, etc. Sent to a Church Education System (CES) ([1](https://www.churchofjesuschrist.org/church-education?lang=eng), [2](https://en.wikipedia.org/wiki/Church_Educational_System)) director seeking answers, thus the name. There's also plenty of material that claims to [debunk the CES Letter](https://debunking-cesletter.com/).
-- [Letter for my Wife](https://www.letterformywife.com/): Feels very reminiscent of CES letter, but directed to a more familial audience. To me, it feels more approachable with the attitude of "I don't want these findings to harm our relationship." The site has a [PDF](https://www.letterformywife.com/_files/ugd/7d420e_0bc538269e1546a4b3eeaff385b02643.pdf), which I find easier to navigate than the site's pages.
+- [Letter for my Wife](https://www.letterformywife.com/): Feels very reminiscent of CES letter, but directed to a more familial audience. To me, it feels gentler and more approachable with the attitude of "I don't want these findings to harm our relationship." The site has a [PDF](https://www.letterformywife.com/_files/ugd/7d420e_0bc538269e1546a4b3eeaff385b02643.pdf), which I find easier to navigate than the site's pages.
 - [Mormonism Research Ministry](https://mrm.org/): Well-researched and cited examinations of doctrinal topics. 
 
 &nbsp;
 
-### Honorable Mentions
+#### Honorable Mentions
 - [A Careful Examination](https://faenrandir.github.io/a_careful_examination/): Looks like another Github Pages compendium of LDS-adjacent notes. Arguably more professional and dignified than what I've got here.
 - [Thoughts on things and stuff](https://thoughtsonthingsandstuff.com/topics/): Vague title. Introspection on LDS-related topics and doctrines.
 - [Mormonism under the microscope](https://www.mormonismunderthemicroscope.com/): I haven't explored them much, looks like a topical document for various claims / controversies
@@ -172,7 +237,7 @@ Sorted alphabetically, not ranked by any metric.
 - [Carah Burrell, aka NuanceHoe](https://www.youtube.com/channel/UCAib1bMCLZh9Ln0Uq62xxjw): Spicy takes on Mormonism. Sometimes co-hosts with John Dehlin. Also runs her own show.
 - [Data over Dogma](https://www.youtube.com/@dataoverdogma): Two Dan's, two mics, one show. One Dan is a biblical scholar, and the other is a goofball. They examine biblical records from which modern translations are derived. Very insightful. For what it's worth, Dan McClellan is an active Mormon last I checked.
 - [Drunk Mormon Podcast](https://podcasts.apple.com/us/podcast/the-drunk-mormon-podcast/id1364708230): An ex-Mormon shares the religion with a never-Mormon, which underscores just how absurd some of this sounds from the outside. Normally, the first half (or so) of each episode is describing and consuming an alcoholic drink. I fast forward through that part. Good stuff is once they're mildly inebriated.
-- [Great and Spacious Podcast (GASP)](https://greatandspaciouspodcast.com/): The few episodes I've listened to felt like the four post-Mormon hosts were seeking their own catharsis by re-reading some scriptures while enjoying some alcohol. No shade, that's kind of what I'm doing here on this site, sans the expensive drinks. Search through their episodes for something that tickles your fancy, they've got lots of content.
+- [Great and Spacious Podcast (GASP)](https://greatandspaciouspodcast.com/): The few episodes I've listened to felt like the four post-Mormon hosts were seeking their own catharsis by re-reading some scriptures while enjoying some alcohol. No shade, that's kind of what I'm doing here on this site, sans the expensive drinks. Search through their episodes for something that tickles your fancy, they've got lots of content. Very casual presentation. Feels more like "let's bond over the shared upbringing we've escaped from" rather than bitterness or anger.
 - [Heaven's Helpline](https://www.nzherald.co.nz/nz/heavens-helpline-the-secret-lives-of-mormon-bishops-lawyers-and-abusers/JQLFYKS5QNGP7BOLRDOP6ULZXI/): A short series of six episodes, examining the suspiciously opaque church in America from the perspective of New Zealand. Documents a journalist who was unfamiliar with the LDS church, and each discovery was worse than the last. Great exploration of the Bishop's hotline for "legal advice."
 - [How-to Heretic](https://www.youtube.com/channel/UCBQ-QeACCg76SmmYSNfHKQQ): The first podcast I delved into amid deconstruction. Extraordinarily helpful in softening the blows of existential dread. Former Mormon folks evaluating Christianity at large, sharing some goofiness and laughs along the way.
 - [Last Podcast on the Left: Mormonism](https://open.spotify.com/episode/5jYkKeJAfKtNBnM9UD1GnI): The show normally focuses on "true crime," and examining historical shenanigans. Their six-part examination of Mormonism is both informative and entertaining. They're just some dorks with microphones who stumbled upon Mormonism, approached it without a lot of prior context or preconceived notions, and bantered about what they found. Highlights how absurd it all looks to an outsider.
@@ -193,6 +258,6 @@ Sorted alphabetically, not ranked by any metric.
 &nbsp;
 
 ## Community
-[/r/exmormon subreddit](https://www.reddit.com/r/exmormon/): Pretty active hub for former Mormon folks to banter, vent, and interact. If you can believe that on reddit, of all places, folks can get fired up and have strong opinions.
+[/r/exmormon subreddit](https://www.reddit.com/r/exmormon/): Pretty active hub for former Mormon folks to banter, vent, and interact. Reddit as a platform incentivizes "hot takes" and rage-baiting rather than promoting actual discussion. 
 
-They also have a [Discord server](https://discord.com/invite/NSgPS9WCha). Bantering in their General Conference thread is my favorite way to participate in that semi-annual event.
+They also have a [Discord server](https://discord.com/invite/NSgPS9WCha). Bantering in their General Conference thread is my favorite way to participate in that semi-annual event. Discord comes with its own set of problems, but in my subjective experience, this server is more 

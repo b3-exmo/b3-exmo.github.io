@@ -222,12 +222,12 @@ i fucken wonder why
 ## Reading Material
 I ended up having a lot to say about the First Vision, and have divided the notes into multiple pages. (the rambling will continue until morale improves)
 
-Here are some links to internal pages, in descended order of recommendation:
+Here are some links to internal pages, in descending order of recommendation:
 
 - [[First Vision Problems]]
 - [[First Vision Contemporaries]]
-- [[First Vision Concealment]]
-- [[First Vision Similar Experiences]]
+- [[First Vision Concealment|First Vision Concealment]]
+- [[First Vision Similar Experiences|First Vision Similar Experiences]]
 
 &nbsp;
 

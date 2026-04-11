@@ -80,11 +80,11 @@ lol. lmao.
 
 It won't demonstrate anything, nor can the claim itself be proven nor disproven, but *it's still viable*!
 
-I am so glad that I don't have to do these mental gymnastics. The [[Book of Mormon#Probability / Occam’s Razor|simpler explanation]] is "a guy obscuring his sources for a book his livelihood depended on." 
+I am so glad that I don't have to do these mental gymnastics. The [[Book of Mormon#Probability|simpler explanation]] is "a guy obscuring his sources for a book his livelihood depended on." 
 
 &nbsp;
 
-Don't forget the last of the listed possible explanations: Lucy Mack's accounting of Joseph Sr's dream was influenced by Joseph Smith Jr's translation of an ancient record etched onto metal plates in Reformed Egyptian™️ dating to 600 BCE, because a prophet's son recording his father's dream *had to be preserved* to show that Joseph Jr's dad's dream was the same as Nephi's dad's dream, and it's all to prove that Joseph Jr is a real prophet.
+Don't forget the last of the listed possible explanations: Lucy Mack's accounting of Joseph Sr's dream was influenced by Joseph Smith Jr's translation of an ancient record etched onto metal plates in Reformed Egyptian™ dating to 600 BCE, because a prophet's son recording his father's dream *had to be preserved* to show that Joseph Jr's dad's dream was the same as Nephi's dad's dream, and it's all to prove that Joseph Jr is a real prophet.
 
 ![[jennifer-lawrence-ok.gif]]{: .center .size40}
 
