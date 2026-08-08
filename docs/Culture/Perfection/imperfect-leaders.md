@@ -63,7 +63,7 @@ I do not believe that both sides are talking about the same thing, even when bot
 
 There's a New Testament passage reading that "[God is no respecter of persons](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=eng&id=p34#p34)." Looking to [other translations](https://biblehub.com/acts/10-34.htm), this verse uses verbiage like "partiality" or "favoritism." I should hope that we can understand this verse to mean (among other applications of this verse) that congregants and leaders will be held to the same standard in God's assessment of behavior.
 
-No, church leaders are simply *not* "perfect" by whichever definition we use. If that were a requirement, there would be no church for God to lead via an imperfect prophet. Despite [[Perfection for Members|what President Kimball says]], no, I don't think perfection is a reasonable (or achievable) goal for everyday folk like you or me. As it happens, church leaders are lay ministers, comprised of everyday folk like you or me. By my estimation, it follows then that those leaders should be held to the same expectation and standard as everyday folk like you or me: *imperfect*. Is that fair?
+No, church leaders are simply *not* "perfect" by whichever definition we use. If that were a requirement, there would be no church for God to lead via an imperfect prophet. Despite what President Kimball says, no, I don't think perfection is a reasonable (or achievable) goal for everyday folk like you or me. As it happens, church leaders are lay ministers, comprised of everyday folk like you or me. By my estimation, it follows then that those leaders should be held to the same expectation and standard as everyday folk like you or me: *imperfect*. Is that fair?
 
 &nbsp;
 
@@ -99,7 +99,7 @@ I don't think its reasonable for someone who believes they were ~~voluntold~~ ca
 
 I'm not trying to make the case that an imperfect human should accurately reflect God's perfection. I am, however, trying to make the case that when someone falls short, we don't brush it off as "he is imperfect, deal with it;" instead, the response should be "he is misrepresenting God." How should I react when church leaders create [[SEC|thirteen LLC shell companies]] with the explicit intention of [[SEC Order|hiding how much tithing money]] they've accumulated? Is that just a "whoops, sorry" kind of mistake?
 
-![image](oops-derp.gif){: .center .size75}
+![image](../../img/oops-derp.gif){: .center .size75}
 
 &nbsp;
 
