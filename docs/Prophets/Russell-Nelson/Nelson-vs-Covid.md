@@ -21,7 +21,7 @@ What do we get instead?
 
 &nbsp;
 
-Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone "takes out of context" the vitriolic bullshit Brigham Young said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of the sanitized version of Joseph Smith's [[First Vision|First Vision]]. Nelson could not have been more clear on what he meant.
+Yes, he uttered the words "general conference next April will be different from any previous conference." If you're going to be upset when someone takes out of context the vitriolic bullshit [[Brigham Young|Brigham Young]] said when we extract one sentence from a paragraph, then I'll be equally upset when a sentence is extracted from the explicit and obvious context that Nelson was talking about the 200-year anniversary of the sanitized version of Joseph Smith's [[First Vision|First Vision]]. Nelson *could not have been more clear* on what he meant.
 
 &nbsp;
 
@@ -71,7 +71,7 @@ Simply saying nothing would have been less jarring than to hear God's chosen pro
 
 I don't know how else to interpret Nelson's claim that this conference would be unlike any other. It's the 200th anniversary of something that *[[First Vision|definitely happened in 1820]]* don't scrutinize that claim please
 
-Nelson wanted to make another *[formal proclamation](https://www.churchofjesuschrist.org/study/scriptures/ordinances-and-proclamations?lang=eng)*, because he won't rest until he can one-up [Hinckley](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng) at every opportunity. This is what Nelson was excited about, to make it memorable and unforgettable. It's 200 years after the canonized record of the First Vision.
+Nelson wanted to make another *[formal proclamation](https://www.churchofjesuschrist.org/study/scriptures/ordinances-and-proclamations?lang=eng)*, because he won't rest until he can one-up [Hinckley](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng) at every opportunity. This is what Nelson was excited about, to make it memorable and unforgettable. It's 200 years after the canonized record of the First Vision, and so the topical subject of the conference was the First Vision.
 
 &nbsp;
 
@@ -85,7 +85,7 @@ Outside of nitpicking the vernacular, why was this proclamation necessary? The i
 
 If you'd like to postulate that this proclamation is meant for non-members, that's fine, but please—imagine this kind of proclamation from some other faith. If you were handed a printed proclamation by [David Miscavige](https://en.wikipedia.org/wiki/David_Miscavige) asserting that the publication of [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)'s *Dianetics* is a key historical event for the world, would you think "*by my troth*, this is all the definitive proof I needed! Sign me up for exorbitantly priced books, *post-haste*!" Or imagine some similar publication from Bob Ciranko of JW's *Watchtower* reminding you that 144,000 individuals will be [[Sealing#Other Definitions|sealed]] and "[are chosen](https://web.archive.org/web/20240503230238/https://wol.jw.org/en/wol/d/r1/lp-e/2004647#h=3) from among mankind to rule with Christ in heaven over the coming Paradise earth". Having read that in a formally written proclamation issued by the upper echelons of a group you are not a part of, would such a proclamation sway your opinion of that organization or its claims?
 
-In either of these hypothetical scenarios, I might question *why* are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that isn't new information. Most anyone familiar with Mormonism would know superficially about Joseph Smith claiming to have seen God and producing a text afterward. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet—find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to baptism, then what was the point of the proclamation? Was it intended to persuade nonmembers, or was it to assure existing members?
+In either of these hypothetical scenarios, I might question *why* are these religious leaders proclaiming to the rest of the world? They're iterating a core belief that *is not new information*. Most anyone familiar with Mormonism would know superficially about Joseph Smith claiming to have seen God and producing a text afterward. Imagine hearing Nelson's proclamation as a nonmember. What would you reaction be? Better yet—find a non-Mormon friend of yours and share it to them. How do they react? If it didn't soften their heart and get them to agree to [[Baptism|baptism]], then what was the point of the proclamation? Was it intended to persuade nonmembers, or was it to assure existing members?
 
 &nbsp;
 
@@ -100,7 +100,7 @@ Really, though... Examine as many of those linked citations as you'd like. Read 
 
 Before you accuse me of being unfair by selecting a quote that wasn't presented over the pulpit, I will direct your attention to the apostle [Quentin Cook quoting Nelson's admonition](https://www.churchofjesuschrist.org/study/general-conference/2019/10/25cook?lang=eng&id=p2#p2) to take vitamins.
 
-Former heart surgeon Russell Nelson was surely called of God to lead and guide us through a pandemic, something that would require education in virology, microbiology, or [public health management](https://www.cdc.gov/public-health-gateway/php/index.html). I guess cardiac surgery is close enough. A non-specific vitamin will safeguard you. No, he won't tell you which one. This prophetic wisdom from November 2018 was all the counsel we needed.
+Former heart surgeon Russell Nelson was surely called of God to lead and guide us through a pandemic, something that would require education in virology, microbiology, or [public health management](https://www.cdc.gov/public-health-gateway/php/index.html). I guess cardiac surgery is close enough. Prophets [[14 Fundamentals#5. The prophet is not required to have any particular earthly training or diplomas to speak on any subject or act on any matter at any time.|don't need education]] to prophesy. A non-specific vitamin will safeguard you. No, he won't tell you which one. This prophetic wisdom from November 2018 was all the counsel we needed.
 
 What's that? He *wasn't* speaking as a prophet in those contexts? Boy, that'd be a real conundrum to find ourselves in—normally, whenever a prophet says something uncomfortable, we can rationalize that he was *speaking as a man* to dismiss what he said at that time. But a cardiac surgeon 34 years outside of practice talking about nutritional supplements? That was prophetic, no doubt. You need to stop looking at porn.
 
@@ -111,13 +111,11 @@ Alright, look... We got our church services 33% shorter to emphasize a more home
 
 I... *I guess*?
 
-Put on your time-travel hat and think back to June 2018 when this program was announced. You'll have to imagine *real hard* because the church's website [now just redirects](https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) from the announcement to their Newsroom front page, so we'll look at [the archived version](https://web.archive.org/web/20201203231204/https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) instead.
-
-The newsroom article describes that this *Come, Follow Me* program is meant to "help Church members and their families study the scriptures at home." Starting in 2019, we'll have a unified schedule for lessons. Neat.
+Put on your time-travel hat and think back to June 2018 when this program was announced. You'll have to imagine *real hard* because the church's announcement [now just redirects](https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) to their Newsroom front page, so we'll look at [the archived version](https://web.archive.org/web/20201203231204/https://www.churchofjesuschrist.org/church/news/church-announces-come-follow-me-for-home-sunday-school-and-primary?lang=eng) instead. The newsroom article describes that this *Come, Follow Me* program is meant to "help Church members and their families study the scriptures at home." Starting in 2019, we'll have a unified schedule for lessons. Neat.
 
 So... Read through as much of this article as you have patience for. While you're there, tell me what part you saw as related to a global pandemic upending the world's economy. Maybe I'm just a miserable grump, but I don't see *jack shit* in here about an upcoming pandemic.
 
-If you'd like to draw the connection that at-home scripture study is indicative that people will be heavily encouraged to stay in their homes as prophetic foresight, then... I don't know, man, if that's where you're going, I just don't know what to tell you. Pause and think if that leap of logic would stand under scrutiny of any of your non-religious peers or friends. Find a neutral third-party, and ask "hey, imagine a hypothetical organization's leader cutting a physical gathering's duration by one hour and providing a structured at-home study program beginning in 2019. Do you think that's divine insight? Would you understand that to be a forewarning of COVID-19? Is that indicative that this leader is led by God?" Straight up, ask someone this, and tell me what their response is. I have a comment section down at the bottom of the page, *I am dying* to know how your buddy responds.
+If you'd like to draw the connection that at-home scripture study is indicative that people will be heavily encouraged to stay in their homes as prophetic foresight, then... I don't know, man, if that's where you're going, I just don't know what to tell you. Pause and think if that leap of logic would stand under scrutiny of any of your non-religious peers or friends. Find a neutral third-party, and ask "hey, imagine a hypothetical organization's leader shortening a physical gathering's duration by one hour and providing a structured at-home study program beginning in 2019. Do you think that's divine insight? Would you understand that to be a forewarning of COVID-19? Is that indicative that this leader is led by God?" Straight up, ask someone this, and tell me what their response is. I have a comment section down at the bottom of the page, *I am dying* to know how your buddy responds.
 
 &nbsp;
 
@@ -140,11 +138,11 @@ If you'd like to draw the connection that at-home scripture study is indicative 
 
 &nbsp;
 
-Yeah, man. "Designed especially for you and your generation[.]" To be launched weeks before the world shuts down, and our kids & teenagers will do absolutely fuck-all with it because they won't meet in-person for months, or even years. 
+Yeah, man. "Designed especially for you and your generation[.]" To be launched weeks before the world shuts down, and our kids & teenagers will do absolutely fuck-all with it because they won't meet in-person for months.
 
 I don't think that Nelson means that the Gospel of Jesus Christ will be presented with Gen-Z vernacular and slang for those teenagers of the year 2020... but it really isn't clear to me, based on this announcement, what Nelson means. It's just cryptic enough to sound authoritative without saying a damned thing. Perhaps he meant that the program contains timely teachings to be dispersed in the year 2020? ... How did that work out for us?
 
-Was *Come, Follow Me* inspired and timely in anticipation of at-home study due and pandemic lockdowns? Then tell me how this other program, presented by our dearly beloved prophet, even Russell M. Nelson, explicitly described as being designed *for these kids at this time*, was... maybe *not* divinely inspired?
+Was *Come, Follow Me* inspired and timely in anticipation of at-home study due and pandemic lockdowns? Then tell me how this other program, presented by our dearly beloved prophet, even Russell M. Nelson, explicitly described as being designed *for these kids* at *this time*, was... maybe *not* divinely inspired?
 
 *You can't have it both ways.*
 
@@ -179,7 +177,9 @@ Consider these options in response to this hypothetical scenario:
 - Announce in 2019 that 2020's general conference session will be entirely online, as to dissuade people from wasting time and money on flights and travel arrangements
 - Call all full-time missionaries home by the end of 2019, and stop sending out new ones
 
-"oh, but President Nelson didn't want to scare everyone" *shut the fuck up*<br>What was scary was society collapsing, having no idea who to trust, hearing about hundreds of thousands of deaths while you're trapped in your home, being unable to independently verify anything you're learning, and hearing a quorum of fifteen prophets of God saying "idk lol" because if there was *ever* a time for *one human* to authoritatively speak in behalf of God, it would have been *very timely* for him to talk in April 2020 about something else, *anything else* other than Joseph Smith's First Vision.
+"oh, but President Nelson didn't want to scare everyone" *shut the fuck up*<br>What was scary was society collapsing, having no idea who to trust, hearing about hundreds of thousands of deaths while you're trapped in your home, being unable to independently verify anything you're learning, and hearing a quorum of fifteen prophets of God saying "idk lol"
+
+If there was *ever* a time for *one human* to authoritatively speak in behalf of God, it would have been *very timely* for him to talk in April 2020 about something else, *anything else* other than Joseph Smith's First Vision.
 
 "Corrupt government officials wouldn't listen anyway" yeah? Is it because the church hasn't had [[No-official-stance|anything meaningful to say]] outside of "Jesus good, porn bad?" Even if government officials didn't listen at the outset, they could have had a clear record that "those oddballs in Utah had a lot of this figured out months in advance, maybe we should listen to them in the future."
 

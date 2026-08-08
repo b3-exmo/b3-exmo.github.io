@@ -8,7 +8,7 @@ comments: true
 
 &nbsp;
 
-At the end of the day, one growing problem that the LDS church is facing is that continuing revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, ~~Ensign~~ [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona?lang=eng). This gets further compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9). *They have to do this*. They have no choice. If they do not, they cease to prove their value. If they don't present anything new, why are we listening to them under the pretense of continuing revelation?
+At the end of the day, one growing problem that the LDS church is facing is that continuing revelation has to fit with existing revelation. This is compounded by the idea that religious leaders are obligated to say something inspiring twice a year in Conference, and sometimes each month in the LDS churchs’ official magazine publication, ~~Ensign~~ [Liahona](https://www.churchofjesuschrist.org/study/magazines/liahona?lang=eng). This gets yet *further* compounded by the idea that we have no fewer than fifteen people we sustain as prophets, seers and revelators at any given time. They are going to encounter logic problems and conflicting information, because they have to continue dispensing information to prove legitimacy. They will inevitably do or say something that contradicts past teachings that were presented as immutable and inerrant, and then [have to justify it](https://www.churchofjesuschrist.org/study/general-conference/2023/04/16haynie?lang=eng&id=p9#p9). *They have to do this*. They have no choice. If they do not, they cease to prove their value. If they don't present anything new, why are we listening to them under the pretense of continuing revelation?
 
 &nbsp;
 
@@ -19,11 +19,11 @@ At the end of the day, one growing problem that the LDS church is facing is that
 >
 > *Note carefully the language of the Lord. He did not say, “Thus shall my church be named.” He said, “Thus shall my church be called.” Years ago, its members were cautioned by the Brethren who wrote: “We feel that some may be misled by the ==too frequent use of the term ‘Mormon Church.’==” Before any other name is considered to be a legitimate substitute, the thoughtful person might reverently consider the feelings of the Heavenly Parent who bestowed that name.*
 
-— [*“Thus Shall My Church Be Called”*](https://www.churchofjesuschrist.org/study/general-conference/1990/04/thus-shall-my-church-be-called?lang=eng), Elder Russell M Nelson, General Conference April 1990
+— [*“Thus Shall My Church Be Called”*](https://www.churchofjesuschrist.org/study/general-conference/1990/04/thus-shall-my-church-be-called?lang=eng), Elder Russell M Nelson, General Conference ==April== 1990
 
 I'd paraphrase the talk as saying “we should be more specific and deliberate about the names we use to refer to our faith.”
 
-I'll also observe that the document cited by Nelson describing "too frequent use of the term 'Mormon Church'" hasn't come up during my online searches. Maybe I didn't try hard enough, but... I would like to see the document and who it attributes those words do. Nelson was [called as an apostle in '84](https://www.churchofjesuschrist.org/learn/russell-m-nelson?lang=eng), precluding the possibility of Nelson quoting himself.
+I'll also observe that the document cited by Nelson describing "too frequent use of the term 'Mormon Church'" hasn't come up during my online searches. Maybe I didn't try hard enough, but... I would like to see the document and who it attributes those words do. The talk's in-text citation dates the document to 1982. Nelson was [called as an apostle in '84](https://www.churchofjesuschrist.org/learn/russell-m-nelson?lang=eng), precluding the possibility of Nelson quoting himself.
 
 &nbsp;
 
@@ -39,7 +39,7 @@ I'll also observe that the document cited by Nelson describing "too frequent use
 > 
 > *“Look,” he went on to say, “if there is any name that is totally honorable in its derivation, it is the name Mormon. And so, when someone asks me about it and what it means, I quietly say— ==‘Mormon means more good.’==”*
 
-— *[Mormon Should Mean “More Good”](https://www.churchofjesuschrist.org/study/general-conference/1990/10/mormon-should-mean-more-good?lang=eng&id=p15-p18#p15)*, Gordon B Hinckley, General Conference October 1990
+— *[Mormon Should Mean “More Good”](https://www.churchofjesuschrist.org/study/general-conference/1990/10/mormon-should-mean-more-good?lang=eng&id=p15-p18#p15)*, Gordon B Hinckley, General Conference ==October== 1990
 
 I'd paraphrase the above quote as “we can’t stop people from calling us Mormons. Might as well lean into it… besides, they could be calling us worse things!”
 
@@ -64,7 +64,7 @@ Really, I think we could have just left it there. This sounds very reasonable. "
 
 &nbsp;
 
-That is, until President Monson passes away. Conveniently, that's when God decided to shake things up. Not the prophet, no&mdash;he's only the mouthpiece!
+That is, until President Monson passes away. Conveniently, *that's* when God decided to shake things up. Not the prophet, no&mdash;he's only the mouthpiece!
 
 &nbsp;
 
@@ -211,7 +211,7 @@ If God is offended when Christ’s name ~~gets taken out of the church~~ is omit
 >
 > *... for thus shall my Church be called in the Last days even ==the Church of Jesus Christ of Latter Day Saints==.*
 
-Eight years after being established, its proper name is revealed. Now it has the name we’re familiar with. I'll reiterate for emphasis that the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) ÷ 75 = 38.9~` times longer than a foundational book. Make it make sense.
+Eight years after being established, its proper name is revealed. Now it has the name we’re familiar with. For comparison, the Book of Mormon was [put together in under 75 days](https://scholarsarchive.byu.edu/insights/vol6/iss1/1/), including a setback of losing 116 pages, but settling on *the name of the organization took eight years*. Eight years! To restore something to its original form when we have active, practicing prophets and apostles. A name took `(365 * 8) ÷ 75 = 38.9~` times longer than a foundational book of scripture. Make it make sense.
 
 "church in Zion" also sounds like it's being presented (by revelation, no less) as the name of the religious organization headed by Joseph Smith, but I guess that's not the point we should focus on. Iterating this formally in [D&C 115](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/115?lang=eng&id=4#p4) ought to settle it.
 
@@ -281,7 +281,7 @@ Also God: Don’t nickname my church after a righteous guy, Mormon. That doesn�
 &nbsp;
 
 ### Jehovah in the Old Testament
-> *Why then is Jehovah missing from our Bible translations? The answer can be found in the way His name has been treated by Jews since the days of Malachi and Zechariah. Jehovah is the name of God, and devout Jews, out of reverence for Him, never say His name. Instead they substitute Adonai, a Hebrew title meaning “Lord.” So whenever they speak of Him or read aloud His name from scripture, they substitute Adonai (Lord).*
+> *Why then is Jehovah missing from our Bible translations? The answer can be found in the way His name has been treated by Jews since the days of Malachi and Zechariah. ==Jehovah is the name of God, and devout Jews, out of reverence for Him, never say His name.== Instead ==they substitute Adonai,== a Hebrew title meaning “Lord.” So whenever they speak of Him or read aloud His name from scripture, they substitute Adonai (Lord).*
 
 — [LORD = Jehovah](https://www.churchofjesuschrist.org/study/ensign/2002/06/lord-equals-jehovah?lang=eng), Ensign, June 2002
 

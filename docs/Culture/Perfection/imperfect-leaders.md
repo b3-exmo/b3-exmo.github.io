@@ -17,11 +17,11 @@ I really feel the need to make sure that you and I are on the same page when we'
 
 After [[Russell-M-Nelson|President Nelson]] passed away in late 2025, [[Dallin-Oaks|Dallin H. Oaks]] became the next presiding figure in the church's uppermost leadership. Elder Gary Stevenson was part of the formal announcement of President Oaks' calling, and introduced *[[Dallin-Oaks#Dallas|Dallas Harris Oaks]]* being appointed by a "relevatory" process.
 
-Mistake? Sure. I'd call this trivial. Folks who are critical of the church (myself included) can point and laugh, jeering "har har, Stevenson said the wrong name." Comedy gold, I tell you. To me, this kind of mistake is inconsequential enough that *no one should* lose their faith in Jesus over it. I'm not aware of anyone who has. We can and should collectively say "whoops" and move on.
+Mistake? Sure, but I'd call this trivial. Folks who are critical of the church (myself included) can point and laugh, jeering "har har, Stevenson said the wrong name." Comedy gold, I tell you. To me, this kind of mistake is inconsequential enough that *no one should* lose their faith in Jesus Christ over it. I'm not aware of anyone who has. We can and should collectively say "whoops" and move on.
 
 &nbsp;
 
-Compare this incident of a misspoken syllable in a first name to, say, [[SEC Order|deliberately lying]] on financial documents and [[WSJ Interview#Tax Returns|tax forms]]. Compare that to precluding [[Various Quotes|an entire race of humans]] from salvation, and then [[Essay Race Priesthood#Removing the Restriction|removing the restriction]] under some [[Race#LeGrand Richards|very suspicious circumstances]]. Compare that to a very strong correlation between suicides and the church's announcing that children must disavow and abandon their parents (to protect the children,) and then rolling back that change&mdash;coincidentally, *also* to protect the children. Compare this to [[Joseph Smith]] putting on his revelation-persona, and threatening that [[DC 132#54|God will destroy Emma]] if she resists engaging in plural marriage. Compare it to the very notion that [[Polygamy|polygamous relationships]] have ever been topically relevant.
+Compare this incident of a misspoken syllable in a first name to, say, [[SEC Order|deliberately lying]] on financial documents and [[WSJ Interview#Tax Returns|tax forms]]. Compare that to precluding [[Various Quotes|an entire race of humans]] from salvation, and then [[Essay Race Priesthood#Removing the Restriction|removing the restriction]] under some [[Race#LeGrand Richards|very suspicious circumstances]]. Compare that to a very strong correlation between suicides and the church's announcing that children must disavow and abandon their parents (to protect the children,) and then rolling back that change&mdash;coincidentally, *also* to protect the children. Compare this to [[Joseph Smith]] putting on his revelation-persona, and threatening that [[DC 132#54|God will destroy Emma]] if she resists engaging in plural marriage. Compare it to the very notion that [[Polygamy|polygamous relationships]] have ever been a relevant topic in any context at any time in the church's history.
 
 Fumbling one syllable in a name, by my estimation, does not hold the same magnitude of "mistake" as [destroying a printing press](https://en.wikipedia.org/wiki/Nauvoo_Expositor), or starting [an "anti-bank"](https://en.wikipedia.org/wiki/Kirtland_Safety_Society) to defraud an entire town of credulous people.
 
@@ -38,7 +38,9 @@ Are we on the same page, now? I'm not nitpicking if your bishop's socks are mism
 &nbsp;
 
 ## Should leaders be perfect to lead?
-Acceptable behavior seems to be closely tied to the church's veracity. The easiest example I can point to for demonstrating this claim is an Ensign article by one Elder Cornish, titled *[[What Do We Mean When We Say the Church Is True]]?* After the author's thesis statement, [he asserts that](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p4#p4) "neither ==the Church nor its leaders are perfect==, nor have they claimed to be!" Yep, that's fair. I have no recollection of such a claim. Still, implicit in this message is that the behavior of church leaders is in some way correlated to the [[True|church's truthfulness]]. Go on and read the article yourself for fuller context if you'd like.
+Acceptable behavior seems to be closely tied to the church's veracity. The easiest example I can point to for demonstrating this claim is an Ensign article by one Elder Cornish, titled *[[What Do We Mean When We Say the Church Is True]]?* After the author's thesis statement, [he asserts that](https://www.churchofjesuschrist.org/study/liahona/2024/06/06-what-do-we-mean-when-we-say-the-church-is-true?lang=eng&id=p4#p4) "neither ==the Church nor its leaders are perfect==, nor have they claimed to be!" I didn't insert that qualifier, it's among the first sentences in the Ensign article. Check for yourself.
+
+I have no recollection of hearing such a claim to perfection. Still, implicit in this article's message is that the behavior of church leaders is in some way correlated to the [[True|church's truthfulness]]. Go on and read the article yourself for fuller context if you'd like.
 
 &nbsp;
 
@@ -48,7 +50,7 @@ So how, then, should we handle the cognitive dissonance of "Jesus doesnt make mi
 
 &nbsp;
 
-Thinking back to the days when I practiced belief in the LDS faith, I don't recall ever demanding nor expecting "perfection" from church leaders. Fast-forward to today, I see flaws, mistakes, misdoings; things that can all be categorized as "imperfections," and I find them upsetting. What gives? What changed? What is a reasonable expectation of someone who, willingly or not, is called to a church leadership position where he is to represent Jesus?
+Thinking back to the days when I practiced belief in the LDS faith, I don't recall ever demanding nor expecting "perfection" from church leaders. Fast-forward to today, I see flaws, mistakes, misdoings; things that can all be categorized as "imperfections," and I find them upsetting. What gives? What changed? And, what is a reasonable expectation of someone who, willingly or not, is called to a church leadership position where he is to represent Jesus?
 
 In my (subjective) observations, I see the following:
 
@@ -61,12 +63,12 @@ I do not believe that both sides are talking about the same thing, even when bot
 
 There's a New Testament passage reading that "[God is no respecter of persons](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/10?lang=eng&id=p34#p34)." Looking to [other translations](https://biblehub.com/acts/10-34.htm), this verse uses verbiage like "partiality" or "favoritism." I should hope that we can understand this verse to mean (among other applications of this verse) that congregants and leaders will be held to the same standard in God's assessment of behavior.
 
-No, church leaders are simply *not* "perfect" by whichever definition we use. If that were a requirement, there would be no church for God to lead via an imperfect prophet. Despite [[Perfection|what President Kimball says]], no, I don't think perfection is a reasonable (or achievable) goal for us everyday folk like you or me, As it happens, church leaders are lay ministers, comprised of everyday folks like you or me. By my estimation, it follows then that those leaders should be held to the same expectation and standard as everyday folk like you or me: *imperfect*. Is that fair?
+No, church leaders are simply *not* "perfect" by whichever definition we use. If that were a requirement, there would be no church for God to lead via an imperfect prophet. Despite [[Perfection for Members|what President Kimball says]], no, I don't think perfection is a reasonable (or achievable) goal for everyday folk like you or me. As it happens, church leaders are lay ministers, comprised of everyday folk like you or me. By my estimation, it follows then that those leaders should be held to the same expectation and standard as everyday folk like you or me: *imperfect*. Is that fair?
 
 &nbsp;
 
 ## Standards for Laypersons
-Having established that the standard for imperfect leaders must not be so different from the standard for laypersons... what do we (non-leadership) people need to do in order to repent and *be perfected* in Christ? We're prone to make mistakes (or commit sins) just as much as a church leader is, right? What do we do to remediate them?
+Having established that the standard for imperfect leaders must not be so different from the standard for laypersons... what is the requirement for imperfect people to repent and *be perfected* in Christ? We're prone to make mistakes (or commit sins) just as much as a church leader is, right? What do we do to remediate them?
 
 &nbsp;
 
@@ -82,7 +84,7 @@ In so many words, repentance means that you stop doing the bad thing, and do wha
 
 Church leaders are not *meaningfully* different from regular everyday church-going folks, except that they have more meetings to attend on Sunday... right? They're mortal, they're imperfect just like you and I. Church leaders are not selected from a subset of congregants who are already somehow perfected, and so I assert that they be held to the same expectation and standard as you or me.
 
-The reverse would also be true: the punitive consequences levied against you or me should be the same severity as those levied against any given church leader, right? Assuming that is the case, I can point to a very clear example of one apostle's "[friendly advice](https://www.churchofjesuschrist.org/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=eng&id=p17#p17)" to "give Brother Joseph a break!" Should that same advice be applied to that catty Relief Society 2nd Counselor making backhanded remarks? Should that apply to a BYU professor being charged with sexually abusing three students? ([1](https://universe.byu.edu/2022/01/24/former-byu-professor-charged-with-5-additional-counts-of-forcible-sexual-abuse/), [2](https://www.sltrib.com/news/education/2023/06/27/ex-byu-professors-abuse-female/), [3](https://www.fox13now.com/news/local-news/former-byu-associate-professor-charged-with-sexually-abusing-female-student))
+The reverse would also be true: the permissive leniency granted to church leaders should also be available to you or me. Assuming that was the case, I can point to a very clear example of one apostle's "[friendly advice](https://www.churchofjesuschrist.org/study/general-conference/2015/10/faith-is-not-by-chance-but-by-choice?lang=eng&id=p17#p17)" to "give Brother Joseph a break!" Should that same advice be applied to that catty Relief Society 2nd Counselor making backhanded remarks? Should that apply to a BYU professor being charged with sexually abusing three students? ([1](https://universe.byu.edu/2022/01/24/former-byu-professor-charged-with-5-additional-counts-of-forcible-sexual-abuse/), [2](https://www.sltrib.com/news/education/2023/06/27/ex-byu-professors-abuse-female/), [3](https://www.fox13now.com/news/local-news/former-byu-associate-professor-charged-with-sexually-abusing-female-student))
 
 &nbsp;
 
@@ -95,9 +97,9 @@ So... when you or I see a church leader do something that gives us pause, how sh
 ## Standards for Leaders
 I don't think its reasonable for someone who believes they were ~~voluntold~~ called by God to be held to a standard of "perfection," by whatever definition we use for that word. On paper, the responsibility is voluntary ("do you accept this calling?") but culturally it is compulsory. Instead, I do think it's fair to call attention to mistakes *until they make restitution*, or in other words, until their sins have been repented of.
 
-I'm not trying to make the case that an imperfect human should accurately reflect God's perfection. I am, however, trying to make the case that when someone falls short, we don't brush it off as "they're imperfect, deal with it," rather, "they are misrepresenting God." How should I react when church leaders create [[SEC|thirteen LLC shell companies]] with the explicit intention of [[SEC Order|hiding how much tithing money]] they've accumulated? Is that just a "whoops, sorry" kind of mistake?
+I'm not trying to make the case that an imperfect human should accurately reflect God's perfection. I am, however, trying to make the case that when someone falls short, we don't brush it off as "he is imperfect, deal with it;" instead, the response should be "he is misrepresenting God." How should I react when church leaders create [[SEC|thirteen LLC shell companies]] with the explicit intention of [[SEC Order|hiding how much tithing money]] they've accumulated? Is that just a "whoops, sorry" kind of mistake?
 
-![image](../img/oops-derp.gif){: .center .size75}
+![image](oops-derp.gif){: .center .size75}
 
 &nbsp;
 
@@ -106,9 +108,11 @@ The modern LDS church's claim to relevance is that the church is led by Jesus Ch
 
 &nbsp;
 
-If Jesus Christ Himself really is [[Jesus-and-The-Church|directing the church]], as is the church's ethos and appeal to authority, then the fact that its leaders are fallible, imperfect, mortal men is **irrelevant**. Jesus gives all directions, so there is no need, *no room* to explain anything away due to being fallible, imperfect, mortal men.
+If Jesus Christ Himself really is [[Jesus-and-The-Church|directing the church]], as is the church's ethos and appeal to authority, then the fact that its leaders are fallible, imperfect, mortal men is **irrelevant**. Jesus gives all directions, so there is no need, *no room* to explain anything away due to being fallible, imperfect, mortal men. 
 
-The leaders *can* be imperfect people&mdash;that's well and fine. They *cannot* rationalize misdeeds if they hold to the claim that they are led by divine revelation. They aren't the ones calling the shots, so their foibles and shortcomings have no bearing on what Jesus Christ is revealing to them.
+Any and all misdoings cannot be ascribed to imperfect men because imperfect men are not making the decisions. Jesus is at the head of the church, and Jesus is making the decisions. Therefore, if the church led by Jesus' hand-picked representatives who make mistakes, either those representatives are not accurately representing (and should consequently be removed), or Jesus is the one making mistakes. If Jesus makes mistakes, that undermines His theocratic authority, and the entire thing falls apart.
+
+The LDS church's leaders *can* be imperfect people&mdash;that's well and fine. They *cannot* rationalize misdeeds if they hold to the claim that they are led by divine revelation. The imperfect mortal men aren't the ones calling the shots nor making decisions, so their foibles and shortcomings have no bearing on what Jesus Christ is revealing to them.
 
 If prophets or apostles have said or done things in the past that can be rationalized due to them being "just mortal men," then how can we trust or believe anything that they do or say today? Did something change such that today's prophets are not "just mortal men"? I'm not aware of such a change. If the past prophets can have their actions dismissed, why would current prophets not be given that kind of leeway? How are we as lay members meant to differentiate between what is "inspired" and what is "just mortal men"?
 
@@ -140,13 +144,13 @@ The Old Testament contains this passage about those purporting to be prophets:
 
 — [Deuteronomy 18:21-22](https://www.churchofjesuschrist.org/study/scriptures/ot/deut/18?lang=eng&id=p21-p22#p21)
 
-"If a prophet prophesies and the event [[Second Coming#When will it be?|doesn't happen]], that means it wasn't from God, and this prophet is being a jackwagon."
+"If a prophet prophesies an event and the event [[Second Coming#When will it be?|doesn't happen]], that means it wasn't from God, and this prophet is being a jackwagon."
 
 &nbsp;
 
-Church leadership is not an enviable position to be in. Assuming it's all true, you'd have pressure from the supreme authority of all comprehensible matter, time and space to accurately represent His will; and on the other hand, you'd have people on the internet saying "nu-uh! You don't actually speak for God." Or, you know, they just stone you to death for blaspheming.
+Church leadership is not an enviable position to be in. Assuming it's all true, you'd have pressure from the supreme authority and creator of all comprehensible matter, time and space to accurately represent His will; and on the other hand, you'd have people on the internet saying "nu-uh! You don't actually speak for God." Or, you know, they just stone you to death for blaspheming.
 
-The point I'm trying to arrive at is that no, church leaders are not perfect, but because they represent a perfect being, those leaders should be held to account for shortcomings. That's a lot of pressure and a lot of scrutiny. That would not make it an enviable position to be in.
+The point I'm trying to arrive at is that no, church leaders are not perfect, but because they represent a perfect being, those leaders should be held to account for shortcomings. That's a lot of pressure and a lot of scrutiny.
 
 &nbsp;
 

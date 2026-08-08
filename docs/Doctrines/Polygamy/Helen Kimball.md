@@ -9,27 +9,29 @@ I don't expect I'll delve into the details of each of Joseph's plural wives. I'v
 ## Mawwiage
 ![image](../../img/mawwiage.gif){: .center}
 
-Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could do this. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[Sealing|sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations. Assuming that's all that it was, then... what was the point?
+Helen wasn't the first of [Joseph's plural wives](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng), but she does appear to be the youngest. Joseph was buddies with Heber C Kimball, and assured the family that if Helen gets sealed to Joseph, the whole family will be given exaltation and salvation. It isn't clear to me why Helen is the only one who could influence her family's eternal well-being. Helen later laments that [[#Regrets|she never would have agreed to this]] if it was anything more than ceremony. On paper, though, this [[Sealing|sealing]] was purely ceremonial and did not mean a social contract like marriage, nor include sexual relations. But... assuming that's all that it was, then... what was the point?
 
 &nbsp;
 
 ## Age gap
-Age of consent is broadly accepted as 18 in modern cultures of western nations, although laws explicitly use the term "a minor." In the 19th century, [that law was a lot less clear](https://en.wikipedia.org/wiki/Ages_of_consent_in_the_United_States#History), and not always enforced. What Joseph did here does not appear to be illegal by the metric of [contemporary judisprudence](https://en.m.wikipedia.org/wiki/Natural_law#Contemporary_judisprudence) and natural law; cultural norms shape laws where there isn't an explicitly stated case.
+Age of consent is broadly accepted as 18 in modern cultures of western nations, although laws explicitly use the term "a minor." In the 19th century, [that law was a lot less clear](https://en.wikipedia.org/wiki/Ages_of_consent_in_the_United_States#History), and not always enforced. What Joseph did here does not appear to be "illegal" (big ol' air quotes) by the metric of [contemporary judisprudence](https://en.m.wikipedia.org/wiki/Natural_law#Contemporary_judisprudence) and natural law; cultural norms shape laws where there isn't an explicitly stated case.
 
-Before you accuse me of delving too deep into libertarian ideology, please keep your pitchforks where they belong; I'm making the case that while law did not prevent this, ethics should have. Laws are not a moral benchmark. Someone speaking for and representing God must be held to a high standard. Joseph was already married. The Kimball family wouldn't have taken Joseph's word pertaining to salvation and exaltation if Joseph wasn't a prophet. This sounds to me like an abuse of power. Marrying someone 22 years younger than you is [[Polygamy#Census analysis|not commonplace]], and I think the only reason Joseph got away with it is because he's in a position of power and influence.
+Before you accuse me of delving too deep into libertarian ideology, please keep your pitchforks where they belong; I'm making the case that while law did not prevent this, ethics should have. Laws are not a moral benchmark. Someone speaking for and representing God must be held to a high standard. Joseph was already married. Those two factors alone should have been enough, but evidence shows that they weren't sufficient.
+
+The Kimball family wouldn't have taken Joseph's word pertaining to salvation and exaltation if Joseph wasn't a prophet. This sounds to me like an abuse of power. Marrying someone 22 years younger than you isn't unheard of, but it certainly was [[Polygamy#Census analysis|not commonplace]], and I think the only reason Joseph got away with it is because he's in a position of power and influence.
 
 &nbsp;
 
 For the sake of side-by-side comparison, here's a table of dates:
 
-| Name                                                                                                                             | Date of Birth    | Difference          |
-| -------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------- |
-| [Joseph Smith, Jr.](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng) | 23 December 1805 | -                   |
-| [Emma Hale](https://history.churchofjesuschrist.org/chd/individual/emma-hale-1804?timelineTab=all-events&lang=eng)               | 10 July 1804     | ↗ 1 yr 5 mo 13 day  |
-| [Alvin Smith](https://ancestors.familysearch.org/en/KWVG-G7N/alvin-smith-1828-1828)                                              | 15 June 1828     | ↘ 22 yr 5 mo 24 day |
-| [Heber Chase Kimball](https://history.churchofjesuschrist.org/chd/individual/heber-chase-kimball-1801?lang=eng)                  | 14 June 1801     | ↗ 4 yr 6 mo 10 day  |
-| [Vilate Murray](https://history.churchofjesuschrist.org/chd/individual/vilate-murray-1806?timelineTab=all-events&lang=eng)       | 01 June 1806     | ↘ 6 mo 10 day       |
-| [Helen Mar Kimball](https://history.churchofjesuschrist.org/chd/individual/helen-mar-kimball-1828?lang=eng)                      | 22 August 1828   | ↘ 22 yr 7 mo 30 day |
+| Name                                                                                                                             | Date of Birth    | Difference, relative to JS |
+| -------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------- |
+| [Joseph Smith, Jr.](https://history.churchofjesuschrist.org/chd/individual/joseph-smith-jr-1805?timelineTab=all-events&lang=eng) | 23 December 1805 | -                          |
+| [Emma Hale](https://history.churchofjesuschrist.org/chd/individual/emma-hale-1804?timelineTab=all-events&lang=eng)               | 10 July 1804     | ↗ 1 yr 5 mo 13 day         |
+| [Alvin Smith](https://ancestors.familysearch.org/en/KWVG-G7N/alvin-smith-1828-1828)                                              | 15 June 1828     | ↘ 22 yr 5 mo 24 day        |
+| [Heber Chase Kimball](https://history.churchofjesuschrist.org/chd/individual/heber-chase-kimball-1801?lang=eng)                  | 14 June 1801     | ↗ 4 yr 6 mo 10 day         |
+| [Vilate Murray](https://history.churchofjesuschrist.org/chd/individual/vilate-murray-1806?timelineTab=all-events&lang=eng)       | 01 June 1806     | ↘ 6 mo 10 day              |
+| [Helen Mar Kimball](https://history.churchofjesuschrist.org/chd/individual/helen-mar-kimball-1828?lang=eng)                      | 22 August 1828   | ↘ 22 yr 7 mo 30 day        |
 
 Alvin, Joseph's firstborn son, passed away in infancy. That must have been devastating to the family. I don't want to make light of that. What I do want to point out, though, is that Alvin was born 2 months and 7 days before Helen was.
 
@@ -47,12 +49,14 @@ Please don't look too far into this; I'm pointing out a parallel between the age
 | [Marsha Nelson Workman](https://familysearch.org/ark:/61903/1:1:VC6N-QX6)                     | 29 July 1948 (?) | ↘ 23 yr 10 mo 20 day |
 | [Wendy Watson Nelson](https://en.wikipedia.org/wiki/Wendy_Watson_Nelson)                      | 31 May 1950      | ↘ 25 yr 8 mo 22 day  |
 
-By my understanding, Russell Nelson's first wife passed away in 2005, and he [remarried in 2006](https://newsroom.churchofjesuschrist.org/article/elder-russell-m.-nelson-marries-wendy-l.-watson). Nothing wrong with that. Nelson's firstborn daughter Marsha was born in or close to 1948; records haven't been super clear since she's still living. Nelson's second wife was born in 1950, which makes Wendy's stepdaughter 2 years and 2 months older than her. *I think that's weird*. If someone chooses to get married to an older partner, more power to them, I don't object to that. I don't think this is a case of legality or ethics, just... look, I'm not in this family, I can only look at these dates and point out a bizarre pattern in age differences. But wow, I imagine that I would get a real case of heebie-jeebies if my mother got remarried to someone so close to my own age. Looking at this hypothetical step-father at the same approximate age as me would feel super weird, and I would think less of my parent as a result. That's me.
+By my understanding, Russell Nelson's first wife passed away in 2005, and he [remarried in 2006](https://newsroom.churchofjesuschrist.org/article/elder-russell-m.-nelson-marries-wendy-l.-watson). Nothing wrong with that. Nelson's firstborn daughter Marsha was born in or close to 1948; records I've found have not been clear since she's still living. Nelson's second wife was born in 1950, which makes Wendy's stepdaughter 2 years and 2 months older than her. *I think that's weird*. If someone chooses to get married to an older partner, more power to them, I don't object to that. 
+
+I don't think this is a case of legality or ethics, just... look, I'm not in this family, I can only look at these dates and point out a bizarre pattern in age differences. But wow, I imagine that I would get a real case of heebie-jeebies if my mother got remarried to someone so close to my age. Looking at this hypothetical step-father at the same approximate age as me would feel super weird, and I would think less of my parent as a result. That's me.
 
 &nbsp;
 
 ## Power
-We could spend a lot of time bantering about whether a man had a boner 200 years ago or not. Extant records don't explicitly state. In the example of Helen Mar Kimball, one Lindsay Hansen Park describes how settling this disagreement isn't nearly as important as understanding the impact of what we can demonstrably prove:
+We could spend a lot of time bantering about whether a man had a boner 200 years ago or not. Extant records don't explicitly state, and ultimately it can't be definitively proven. In the example of Helen Mar Kimball, one Lindsay Hansen Park describes how settling this disagreement isn't nearly as important as understanding the impact of what we *can* demonstrably prove:
 
 > *[What matters here] is the power, not the situation. It's the person using you, manipulating you— that's what happened to Helen Mar, whether she slept with him or not. ... What I'm saying is that in this context, this is about power. So when we argue whether he did or didn't have sex with Helen Mar, I say it doesn't matter. ==He took her life away==.*
 
@@ -60,8 +64,12 @@ We could spend a lot of time bantering about whether a man had a boner 200 years
 
 &nbsp;
 
+ Shoutout to Linsday, she's a real one. To me, this is the most level-headed approach. Whether or not Joseph and Helen were "gettin' it on" isn't something anyone can really demonstrate. On the other hand, records are pretty clear that they absolutely were "married", again with big ol' air quotes, and *that* carries tremendous social ramifications.
+
+&nbsp;
+
 ## Social consequence
-Helen was a teenager, and had aspects of teenaged life taken away after she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things. Simply socializing with friends is now completely different. In what ways does a 14-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What happens if a teenager just gets pushed straight into the "age 35" category?
+Helen was a teenager, and had aspects of teenaged life taken away after she's been coerced into a state of marriage. That changes a woman's social dynamic. Think back to when you were a teenager, and imagine how being married at that age would have impacted things. Simply socializing with friends becomes completely different. In what ways does a 14-year-old girl interact with friends, compared to a 35-year-old woman interacting with friends? What happens if a teenager jumps straight into the "age 35" category of social interactions?
 
 If Helen is "married" to Joseph, is she allowed do date or court other boys / men, or is Helen expected to behave socially like a married woman? Was her life changed by this social contract?
 
@@ -69,7 +77,7 @@ If Helen is "married" to Joseph, is she allowed do date or court other boys / me
 
 Let's assume there was no boinking involved, and it was simply being "sealed" and nothing more than that. This is still gross and weird. A 37-year-old man marrying a 14-year-old girl is problematic no matter how you cut it. Defending this marriage is problematic in its own right. Joseph was already married to Emma. If this was simply about salvation, why didn't Joseph do this for the entire family? The entire church congregation? The entire town? Why just one impressionable youth? And later, widows and other men's wives?
 
-The fact is that he married her- and by that act he secured all rights and privileges to himself and thereby deprived her of any other possible social opportunities. If Joseph was going to wait until she was 18, or whatever the equivalent age of consent would be in the 1840's, he still took advantage of a child and put her in a position that she was unable to consent to.
+The fact is that he married her- and by that act he secured all rights and privileges to himself and deprived her of any other possible social opportunities. If Joseph was going to wait until she was 18, or whatever the equivalent age of consent would be in the 1840's, he still took Helen for himself and put her in a position that she was unable to consent to.
 
 &nbsp;
 
@@ -164,7 +172,7 @@ I'll acknowledge that practicing Mormons won't like this source, as they like to
 
 *hol up now*
 
-![[what-wtf.gif]]{: .center .size75}
+![[what-wtf.gif]]{: .center .size40}
 
 Helen is asserting in no uncertain terms that she refuses to be sealed as a plural wife to her own father Heber, with the understanding that it's to "raise up children" what the fuck Heber. *Heber*. Sit down. I am deadass right now I need someone to get in the comments and tell me that I'm misinterpreting this, cause it sure sounds like Heber wants to take his own daughter as a plural wife to raise up children. "By doing so they should gain his approbation?" Whose, Josephs? I can't think of anyone's approbation that makes this okay. I can't. 
 

@@ -22,13 +22,13 @@ So... what does his mother have to say about it?
 
 You'll notice that 1831 is right before Joseph wrote down about his experience with his own scribeless hands, no less. The context for this letter, as I see it, is Lucy testifying to her brother Solomon Mack about the forthcoming of the Book of Mormon.
 
-I can concede that Joseph report numerous angelic visitations, even some surrounding the process of obtaining the Book of Mormon's source material. I don't recall the [[The Plates#Was it Moroni, or Nephi?|angel Nephi and/or Moroni]] granting Joseph power to translate, nor that the book proves that the world is in apostasy, all churches are corrupt, and that Christ's gospel will be restored. Those events sound like what Joseph said were part of (some accounts of) the First Vision. ... I would think that if Joseph told Lucy that he had seen God, Lucy might mention that? It really looks to me like she's talking about the First Vision, but associating that with an unnamed angelic visitor rather than, you know, *God*.
+I can concede that Joseph reported numerous angelic visitations, even some surrounding the process of obtaining the Book of Mormon's source material. I don't recall the [[The Plates#Was it Moroni, or Nephi?|angel Nephi and/or Moroni]] granting Joseph power to translate, nor that the book proves that the world is in apostasy, all churches are corrupt, and that Christ's gospel will be restored. Those events sound like what Joseph said were part of (some accounts of) the First Vision. ... I would think that if Joseph told Lucy that he had seen God, Lucy might mention that? It really looks to me like she's talking about the First Vision, but associating that with an unnamed angelic visitor rather than, you know, *God*.
 
 &nbsp;
 
 Conveniently, we do have a contemporary account of what Joseph told Lucy.
 
-> *And as I leaned up to the fireplace, mother inquired what the matter was. I replied, “Never mind, all is well—I am well enough off.” I then said to my mother, “I have learned for myself that Presbyterianism is not true.”*
+> *And as I leaned up to the fireplace, ==mother inquired what the matter was==. I replied, “Never mind, all is well—I am well enough off.” I then said to my mother, “I have learned for myself that Presbyterianism is not true.”*
 
 &mdash; [Joseph Smith—History 1:20](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p20#p20)
 
@@ -69,7 +69,7 @@ To be clear, Brigham seems to be saying that the theophany was not grand and glo
 
 &nbsp;
 
-> [Joseph Smith] had read the Bible and had found that passage in James which says, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not,” and taking this literally, he went humbly before the Lord and inquired of Him, and ==the Lord answered his prayer, and revealed to Joseph, by the ministration of angels==, the true condition of the religious world. ==When the holy angel appeared, Joseph inquired which of all these denominations was right and which he should join, and was told they were all wrong==—they had all gone astray, transgressed the laws, changed the ordinances and broken the everlasting covenant, and that the Lord was about to restore the priesthood and establish His Church, which would be the only true and living Church on the face of the whole earth.
+> *[Joseph Smith] had read the Bible and had found that passage in James which says, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not,” and taking this literally, he went humbly before the Lord and inquired of Him, and ==the Lord answered his prayer, and revealed to Joseph, by the ministration of angels==, the true condition of the religious world. ==When the holy angel appeared, Joseph inquired which of all these denominations was right and which he should join, and was told they were all wrong==—they had all gone astray, transgressed the laws, changed the ordinances and broken the everlasting covenant, and that the Lord was about to restore the priesthood and establish His Church, which would be the only true and living Church on the face of the whole earth.*
 
 — George Albert Smith, 1868; [Journal of Discourses 12:334](https://scriptures.byu.edu/#:t1d500:j12)
 
@@ -115,31 +115,33 @@ At the risk of sounding like a miserable grump, I'll observe that issues of the 
 
 &nbsp;
 
-> *Apparently Joseph Smith did not relate his First Vision very widely during the early years of Church history, for neither Mormon nor non-Mormon publications of the 1830s carried accounts of it. Although contemporary literature included several allusions to the idea that Joseph had beheld Deity, none of these brief references gave details of the vision. Because of the absence of the vision from early publications, one hostile writer suggested in 1945 that Joseph Smith did not even “make up” the story until 1835 or later.*
+> *Apparently Joseph Smith ==did not relate his First Vision very widely== during the early years of Church history, for neither Mormon nor non-Mormon publications of the 1830s carried accounts of it. Although contemporary literature included several allusions to the idea that Joseph had beheld Deity, none of these brief references gave details of the vision. Because of the absence of the vision from early publications, ==one hostile writer suggested== in 1945 that Joseph Smith did not even “make up” the story until 1835 or later.*
 
 Follow the footnote on that "hostile writer" and we're led to Fawn Brodie's book, *No Man Knows My History*. Criticism is persecution and hostility, I guess. Stay classy, Mormonism!
 
 &nbsp;
 
-> *One would hardly expect to find every account to be precisely alike, but it is fortunate that these eight reports come from a wide variety of circumstances, thus accentuating the significance of the consistency that does exist.*
+> *One would hardly expect to find every account to be precisely alike, but it is fortunate that these eight reports come from a wide variety of circumstances, thus ==accentuating the significance of the consistency that does exist==.*
 > 
-> *Actually, the differences between the accounts may be grossly overemphasized, for the truth is that there is wide and general agreement in detail among all of them. Another impressive fact is that the 1831-32 version, which was the first to be recorded, is actually the most comprehensive of all.*
+> *Actually, the differences between the accounts may be ==grossly overemphasized==, for the truth is that there is wide and general agreement in detail among all of them. Another impressive fact is that the 1831-32 version, which was the first to be recorded, ==is actually the most comprehensive== of all.*
 
 Are we talking about the same document? The 1832 account that I read was the shortest, sparsest, and least consistent across all others that I encountered. If, according to this article by Dr. Allen, the 1832 account "is actually the most comprehensive of all," *why are we not using it*?
 
 &nbsp;
 
-> *His use of the word “about” indicates that the validity of his history did not hinge on a precise date, and it is significant to note that both Orson Pratt and Orson Hyde merely wrote that he was “somewhere about fourteen or fifteen” when his spiritual awakening began.* 
+> *His use of the word “about” indicates that the ==validity of his history did not hinge on a precise date==, and it is significant to note that both Orson Pratt and Orson Hyde merely wrote that he was “somewhere about fourteen or fifteen” when his spiritual awakening began.* 
 
 Okay but what about Joseph's first-hand accounts of being vague and non-specific about how old he was? This has nothing to do with either of those Orsons. The other accounts that I examined were all first-hand retellings via scribe.
 
+No, we do not strictly need a precise date for this event to be valid, but *god damn* if it wouldn't help Joseph's case. So much of the story is suspect that having a definitive date would make the whole ordeal more palatable to me, at least.
+
 &nbsp;
 
-> *Was it one personage or two? All accounts of the First Vision but one specify that two heavenly personages appeared to young Joseph, and three (Wentworth letter, Orson Pratt, and Orson Hyde) state that these personages exactly resembled each other. There is no doubt that the Prophet intended to convey the message that they were the Father and the Son.*
+> *Was it one personage or two? All accounts of the First Vision but one specify that two heavenly personages appeared to young Joseph, and three (Wentworth letter, Orson Pratt, and Orson Hyde) state that these personages exactly resembled each other. ==There is no doubt== that the Prophet intended to convey the message that they were the Father and the Son.*
 > 
-> ...
+> *...*
 > 
-> *While the other narratives do not describe the event just that way, nothing in them precludes the possibility that he may have seen one personage first, and then the other.*
+> *While the other narratives do not describe the event just that way, nothing in them precludes the possibility that ==he may have seen one personage first, and then the other==.*
 
 ᴀʀᴇ ʏᴏᴜ sʜɪᴛᴛɪɴɢ ᴍᴇ
 
@@ -147,7 +149,7 @@ We're going to rationalize Joseph's handwritten account listing only one persona
 
 &nbsp;
 
-> *We believe that Joseph Smith was telling the truth each time he related his experience, and that the scribes recorded his ideas as accurately as possible.*
+> *We believe that ==Joseph Smith was telling the truth== each time he related his experience, and that the scribes recorded his ideas as accurately as possible.*
 
 It was the scribe's fault! I bet we didn't see that one coming.
 
@@ -207,13 +209,13 @@ He... he *prayed*? Holy shit, I had no idea. Good thing this table outlines an a
 
 One of Dr. Allen's points as quoted above is that the 1832 account is "the most comprehensive of all". I suppose that using it as a reference point does show corroboration with the other accounts, in that "Joseph read scriptures and prayed." Those two factors would not convince anyone that he has been called to be a prophet.
 
-Per my stint at the Provo UT *Missionary Training Center*, and the insistence of my mission president(s), people need to *know* that Joseph was a prophet, and hearing God appearing to him to call him as such is what will invite the Spirit to testify accordingly. What factors on the above table lend credibility to this claim?
+Per my stint at the Provo, UT *Missionary Training Center*, and the insistence of my mission president(s), people need to *know* that Joseph was a prophet, and hearing God appearing to him to call him as such is what will invite the Spirit to testify accordingly. What factors on the above table lend credibility to this claim?
 
 Anyone can pray for forgiveness of sins. That is not unusual. Having a supernatural opposition inhibit verbal speech is unusual, but not indicative of priesthood authority. Having deity appear was not exclusive to Joseph. Hearing a divine figure testify of Jesus doesn't really impact a prophetic office. Failing to convince others of veracity certainly doesn't mean anything (unless you're [[14 Fundamentals#12. The prophet will not necessarily be popular with the world or the worldly.|Ezra Benson in 1979]].)
 
 &nbsp;
 
-The "Mormonism" factors in "the most comprehensive of all" are absent:
+Of the factors most essential to Mormonism's veracity, two are notably absent from "the most comprehensive of all" accounts:
 
 1. Two distinct personages
 2. The Gospel will be restored

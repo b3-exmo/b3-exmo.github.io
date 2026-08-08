@@ -105,12 +105,17 @@ Talk to someone who has worked as a Certified Nurse Assistant (CNA) about how em
 
 &mdash; *[Let God Prevail](https://www.churchofjesuschrist.org/study/general-conference/2020/10/46nelson?lang=eng&id=p12-p13,p15#p12)* by President Russell M. Nelson, General Conference 2020 October
 
-We can't verify anything about what someone with the pseudonym "Jill" thinks or feels, but oh boy, if I had any theological leader tell me that I'm being myopic about a loved one passing away... I probably wouldn't respond as calmly and gently as Jill has in this story. I'll concede that Nelson's story has a happy ending...? Jill reports that being reminded of nearsightedness helped her find closure in the end. 
+We can't verify anything about what someone with the pseudonym "Jill" thinks or feels, but oh boy, if I had any theological leader tell me that I'm being myopic about a loved one passing away... I probably wouldn't respond as calmly and gently as Jill has in this story. I'll concede that Nelson's story has a happy ending...? Jill reports that being reminded of nearsightedness helped her find closure in the end.
+
+Moreover, Russell doesn't even tell "Jill" himself; Wendy does it. ... Why? Did Russell intend to tell this to Jill, but Wendy simply did it first? Or, had Russell *not* meant for Jill to hear such a dismissive response? There's no way for us to know, but... I find that detail to be peculiar.
+
+&nbsp;
 
 Yes, I've omitted a paragraph from the above excerpt for the sake of brevity. Follow the provided link for a more verbose quotation.
 
 &nbsp;
 
+### Other contexts
 > - *unable to understand a situation or the way actions will affect it in the future.*
 > - *unable to see clearly things that are far away.*
 
@@ -140,14 +145,15 @@ Very cool, thanks 👍
 
 &nbsp;
 
-> *As you minister to someone struggling with grief, show love first and foremost. Statements like these may help you communicate empathy:*
+### Counseling the grieving
+> *As you minister to someone struggling with grief, show love first and foremost. Statements like these may help you ==communicate empathy==:*
 > 
 > - *“I don’t know what to say, but I want you to know I care about you.”*
 > - *“You don’t have to talk if you don’t want to, but I’m here to listen if you do.”*
 > - *“It’s OK to have different feelings from one day, or one moment, to the next. There’s no one right way to feel. Just let yourself experience emotions as they come.”*
 > - *“I’m really sorry you have to go through this.”*
 
-> *Remember to be sensitive. Some well-intended statements may not be perceived as empathetic to those who are grieving. The following examples may be more hurtful than helpful:*
+> *Remember to be sensitive. Some well-intended statements may not be perceived as empathetic to those who are grieving. ==The following examples may be more hurtful than helpful==:*
 >
 > - *“It’s part of God’s plan.”*
 > - *“At least …” (“At least they didn’t suffer,” “At least you can date other people now,” “At least now you can find a job you actually like,” and so on).*
@@ -178,7 +184,7 @@ And, don't forget that since a [prophet's voice is functionally the same](https:
 &nbsp;
 
 ## What has he done?
-What good has Russell Nelson done for the world? I don't want that rhetorical question to imply that he has done nothing good, but I see value in enumerating, or at least describing what positive changes have come from this one man. "He was a prophet" is an answer, but don't forget that each president of the church has 14 contemporaries who are each *also* sustained as prophets. What makes Nelson special?
+What good has Russell Nelson done for the world? I don't want that rhetorical question to imply that he has done nothing good, but I see value in enumerating, or at least describing what positive changes have come from this one man. "He was a prophet" is an answer, but don't forget that each president of the church has 14 contemporaries (apostles, first presidency members) who are each *also* sustained as prophets. What makes Nelson special?
 
 From the perspective of one outside the LDS church, what accomplishment or contribution from Nelson would you point to as an example of his prophetic authority?
 

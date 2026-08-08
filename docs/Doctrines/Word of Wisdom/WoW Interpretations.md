@@ -6,11 +6,11 @@ This page will describe how some subjective applications and interpretations of 
 
 &nbsp;
 
-I'll cite some odd, isolated cases of what is or is not compliant with the Word of Wisdom; mainly ones that no self-respecting Mormon would call doctrinal. My point is not to enumerate outliers to say "look how doctrine has changed." Instead, my point is to observe that the doctrine is so poorly defined that there's this much room for isolated, fringe interpretations.
+I'll cite some odd, isolated cases of what is or is not compliant with the Word of Wisdom; mainly ones that no self-respecting Mormon would call doctrinal. My point is not to enumerate outliers to say "look how doctrine has changed." Instead, my point is to observe that the doctrine is so poorly defined that there's this much room for isolated, fringe interpretations. Moreover, *we shouldn't have any isolated, fringe interpretations*.
 
-But... *we shouldn't have any isolated, fringe interpretations*.
+The whole value proposition of a modern church led by a modern prophet is that, through modern revelation, there will be *no ambiguity about God's will*. That's part of the problem that the [[Restoration|Restoration]] of the Gospel is meant to address. If Joseph Smith is a prophet and this revelation truly is from God, then the recorded revelation *should be clear and unambiguous* with *no room for misinterpretation*. No one should be able to read this text and understand it any differently than you or me, your stake president, Elder Cannon, or Susan Bednar's husband. We should never have *any* church authority with a position greater than Bishop saying *anything* to even loosely imply that the Word of Wisdom says X, Y, or Z. If the point of having a prophet is to clarify what God means, then adherents to that prophet should *clearly understand* what God means. If we don't understand it clearly, then we didn't have a prophet disseminate God's will to us.
 
-The whole value proposition of a modern church led by a modern prophet is that, through modern revelation, there will be *no ambiguity about God's will*. That's part of the problem that the Restoration of the Gospel is meant to address. If Joseph Smith is a prophet and this revelation truly is from God, then the recorded revelation *should be clear and unambiguous* with *no room for misinterpretation*. No one should be able to read this text and understand it any differently than you or me, your stake president, Elder Cannon, or Susan Bednar's husband. We should never have *any* church authority with a position greater than Bishop saying *anything* to even loosely imply that the Word of Wisdom says X, Y, or Z. If the point of having a prophet is to clarify what God means, then adherents to that prophet should *clearly understand* what God means. If we don't understand it clearly, then we didn't have a prophet disseminate God's will to us.
+That's the intention behind these observations.
 
 &nbsp;
 
@@ -25,9 +25,9 @@ I'm sure glad that no church authority had ever extended "hot drinks" to also in
 
 &mdash; [Word of Wisdom—Fish Culture—Dietetics](https://scriptures.byu.edu/#:t1d4ef:j12); George Q. Cannon, [Journal of Discourses 12](https://scriptures.byu.edu/jod/pdf/JoD12/JoD12.pdf):221
 
-In the above quote, you may find a qualifier that undermines how ridiculous this sounds. Before he outlines how *soup* will condemn you for eternity, Apostle Cannon did say "my theory is..." To which I might retort that it is irresponsible of anyone in a position of authority or influence to offer conjecture. Apostle Cannon is *an apostle*. We could also argue that the [[Sources and Links#Journal of Discourses|Journal of Discourses]] isn't a reliable source, to which I might also retort that it sure does get used as a cited source of information by church leaders for being so untrustworthy and apocryphal.
+In the above quote, you may find a qualifier that undermines how ridiculous this sounds. Before he outlines how *soup* will condemn you for eternity, Apostle Cannon did say "my theory is..." To which I might retort that it is irresponsible of anyone in a position of authority or influence to offer conjecture. Apostle Cannon is *an apostle*. We could also argue that the [[Sources and Links#Journal of Discourses|Journal of Discourses]] isn't a reliable source, to which I might also retort that it sure does get used as a [[Sources and Links#Journal of Discourses|cited source of information by church leaders]] for being so untrustworthy and apocryphal.
 
-The only context I really have for this address is "[delivered in the New Tabernacle, Salt Lake City, April 7th 1868](https://contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3/id/9775/rec/13)." That's the right time of year for the semi-annual general conference. It certainly *reads* like a conference address. But, because it's inconvenient to try and fit into today's understanding of doctrine, [folks at *Saints Unscripted*](https://saintsunscripted.com/faith-and-beliefs/laws-and-ordinances/hot-drinks-word-of-wisdom-tea-and-coffee/) write, concerning soup, "that interpretation has never been upheld by *other* leaders or incorporated into the policy of the Church" (emphasis added.) Saints Unscripted is the first result I found while searching out defenses of this statement, though I'm confident that they're not the only ones to feel that way.
+The only context I really have for this address is "[delivered in the New Tabernacle, Salt Lake City, April 7th 1868](https://contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3/id/9775/rec/13)." That's the right time of year for the semi-annual general conference. It certainly *reads* like a conference address. But, because it's inconvenient to try and fit into today's understanding of doctrine, [folks at *Saints Unscripted*](https://saintsunscripted.com/faith-and-beliefs/laws-and-ordinances/hot-drinks-word-of-wisdom-tea-and-coffee/) write concerning soup "that interpretation has never been upheld by *other* leaders or incorporated into the policy of the Church" (emphasis added.) Saints Unscripted is the first result I found while searching out defenses of this statement, though I'm confident that they're not the only ones to feel that way.
 
 I dunno, man... using that metric, no other church leader to my knowledge has called the word *Mormon* [[Name Mormon#2018|a victory for Satan]]. Maybe we should throw out that "one single solitary discourse" as well?
 
@@ -40,11 +40,11 @@ We could discount Elder Cannon's entire discourse as being non-doctrinal since i
 
 When I began (in 2025 February) examining this discourse from Elder Cannon, the top of *churchofjesuschrist.org* is a banner announcing a [Young Adults devotional with Elder & Sister Uchtdorf](https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2025/02?lang=eng). Neat. I haven't read or listened to anything further on this devotional itself, but this is noteworthy because no one would attend this devotional if the keynote speaker wasn't an apostle of God, Elder ~~Silver Fox~~ Uchtdorf himself. What he says in this devotional might not be strictly "doctrinal" with big ol' air quotes around it, but he is speaking to an audience who has gathered to hear an apostle speak to them.
 
-It would be irresponsible of Uchtdorf if, hypothetically, he were to use that opportunity to offer conjecture or theory. If Uchtdorf had said "In the same way that *hot soup* is a poor substitute for [naptha-kerosine jet fuel](https://en.wikipedia.org/wiki/Aviation_fuel#Jet_fuel), it can also prevent you from ascending to the celestial kingdom!" That hypothetical statement would be taken at face value *because of who he is*, speaking to an audience that has gathered *because of who he is*.
+It would be irresponsible of Uchtdorf if, hypothetically, he were to use that opportunity to offer conjecture or theory. If Uchtdorf had said "In the same way that *hot soup* is a poor substitute for [naptha-kerosine jet fuel](https://en.wikipedia.org/wiki/Aviation_fuel#Jet_fuel), soup can also prevent you from ascending to the celestial kingdom!" That hypothetical statement would be taken at face value *because of who he is*, speaking to an audience that has gathered *because of who he is*.
 
 &nbsp;
 
-I'm worried I've belabored that point more than is necessary, and I hope that it is clear that I recognize the difference between a church leader grilling hotdogs at his family reunion versus a church leader standing behind a podium. They can do both! ... Maybe not at the same time, but they are humans with families. In the case of Elder Cannon's discourse, I'd incline to saying that he's speaking as an apostle.
+I'm worried I've belabored that point more than is necessary, and I hope that it is clear that I recognize the difference between a church leader grilling hotdogs at his family reunion versus a church leader standing behind a podium. They can do both! ... Maybe not at the same time, but they are humans with families. In the case of Elder Cannon's discourse, I'd incline to saying that he's speaking as an apostle. Conveniently, since no other apostle has repeated the idea in an official capacity, that means it doesn't count.
 
 &nbsp;
 
@@ -82,7 +82,7 @@ So... I suppose we relegate it to the category of "fun fact." An apostle in 1901
 &nbsp;
 
 ## flour, lol
-Forbidding the use of refined flour comes from similarly dubious sources as the above mentions of pork, and so I'd call this non-doctrinal. The only basis one might really focus on this is that it's in a publication by an acting apostle of the church. It'd be awkward if modern times were analogous to [[Sources and Links#Deseret Book & LDS Living|the church publishing books by church leaders]] as a side-hustle.
+Forbidding the use of refined flour as part of the Word of Wisdom is also of dubious origin. I wouldn't call it doctrinal. The idea comes from a publication by an acting apostle of the church. It'd be awkward if modern times were analogous to [[Sources and Links#Deseret Book & LDS Living|the church publishing books by church leaders]] as a side-hustle.
 
 &nbsp;
 
@@ -92,7 +92,7 @@ Forbidding the use of refined flour comes from similarly dubious sources as the 
 
 &nbsp;
 
-> *In a pamphlet written in 1930 called The Word of Wisdom, LDS Church apostle John A. Widtsoe taught that refined flour was contrary to the Word of Wisdom. The church, however, has never prohibited the use of refined flour.*
+> *In a pamphlet written in 1930 called* The Word of Wisdom, *LDS Church apostle John A. Widtsoe taught that ==refined flour was contrary to the Word of Wisdom==. The church, however, has never prohibited the use of refined flour.*
 
 &mdash; *[Word of Wisdom (Latter Day Saints)](https://en.wikipedia.org/wiki/Word_of_Wisdom_(Latter_Day_Saints)#Refined_grain_products)*, Wikipedia
 
@@ -100,7 +100,7 @@ Forbidding the use of refined flour comes from similarly dubious sources as the 
 
 Wikipedia references that *Dialogue* journal as a source. I guess I ought to track down the original pamphlet?
 
-In my mind, a [pamphlet](https://dictionary.cambridge.org/dictionary/english/pamphlet) is a wimpy little publication; perhaps a standalone issue, only a few pages long. So imagine my surprise when I find, from the only source of the document I can find, that *The Word of Wisdom* by Elder Widstoe is 272 pages long including its own index. Maybe a pamphlet meant something else back in 1930.
+In my mind, a [pamphlet](https://dictionary.cambridge.org/dictionary/english/pamphlet) is a wimpy little publication; perhaps a standalone issue, only a few pages long. Based on the one documentary source I can find, *The Word of Wisdom* by Elder Widstoe is 272 pages long including its own index. Maybe the word "pamphlet" meant something else back in 1930.
 
 &nbsp;
 
@@ -119,7 +119,7 @@ If we don't feel satisfied with a book published by someone who happens to also 
 
 &mdash; *[[Sources and Links#Mormon Doctrine|Mormon Doctrine]]*, First Edition, *Word of Wisdom*
 
-Cool, that settles it, then. Please don't examine other segments of that book, because Bruce R. McConkie says some *very uncomfortable things* about [[Race|race]]. Is it doctrine? 🤷 Only if it's convenient. Sometimes it is.
+Cool, that settles it, then. Please don't examine other segments of that book, because Bruce R. McConkie says some *very uncomfortable things* about [[Race|race]]. Is it doctrine? 🤷 Sometimes. Only if it's convenient.
 
 &nbsp;
 
@@ -148,7 +148,7 @@ I can't find a primary source anywhere for that cited bulletin. I shouldn't expe
 
 &nbsp;
 
-That's such a vague, cowardly way to say "I dunno. We won't comment on cola under the heading 'cola,' but if something is bad, then it's bad. Hope that helps." It doesn't tell us anything.
+That's such a vague, cowardly way to say "I dunno. [[No-official-stance|We won't comment]] on cola under the heading 'cola,' but if something is bad, then it's bad. Hope that helps." It doesn't tell us anything.
 
 In the above example from Bishop Featherstone, two interpretations came *from the same source material*. Featherstone gets to talk about it in general conference, though, and he outranks some plebeian ward bishop. The bulletin itself will confirm your bias that "cola is bad," or it will confirm your bias that "there is no official position." Clear and decisive, just how God intended His prophetic spokesman to be. 👍
 
