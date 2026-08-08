@@ -48,18 +48,18 @@ I don't consider myself well-versed in philosophy, but I do have an internet con
 &nbsp;
 
 ## Why is it important?
-If a claim **can** be refuted, or proven "false", it carries more value. As Sagan described in the conclusion of his thoughts quoted above, "what's the difference between [an intangible] dragon and no dragon at all?" A claim carries more weight if it could theoretically be proven false. If there's a failure criteria that exists, but is not met, that lends credence toward proof.
+If a claim **can** be refuted, or proven "false", it carries more value. As Sagan described in the conclusion of his thoughts quoted above, "what's the difference between \[an intangible\] dragon and no dragon at all?" A claim carries more weight if it *could* be proven false, but has not yet been proven false. If there's a failure criteria that exists, but is not met, that lends credence toward proof.
 
-If the contents of the [[Book of Abraham|Book of Abraham]] were found in scrolls found in a sarcophagus sold to Joseph Smith, that's a big deal. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[logical-fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, this is a falsifiable claim. An independent examination could go one of two ways:
+If the contents of the [[Book of Abraham|Book of Abraham]] were found in scrolls found in a sarcophagus sold to Joseph Smith, that'd be a remarkable happenstance. The idea that Joseph acquired those and accurately translated them to uncover more prophetic teachings is a [[logical-fallacies#Sagan Standard|significant claim]]. Some, but not all, of the extant documents still exist and can be examined by independent third parties. Since we have the source documents, incomplete as they are, this is a falsifiable claim. An independent examination could go one of two ways:
 
 1. Joseph Smith nailed that translation! For him to happen upon those scrolls and translate them accurately is nothing short of divine intervention, and those resultant teachings prove Mormonism to be true.
-2. The Book of Abraham has absolutely nothing to do with the contents of those scrolls, which modern scholars can reliably, accurately, demonstrably translate. This calls into question other claims that the LDS church made.
+2. The Book of Abraham has absolutely nothing to do with the extant contents of those scrolls, which modern scholars can reliably, accurately, demonstrably translate. This calls into question other claims that the LDS church made.
 
 Perhaps there's room for middle ground between those two outcomes? The significance to focus on here is the idea that the claim can be verifiably true, or verifiably false. 
 
 &nbsp;
 
-The Book of Mormon was translated from golden plates, preserved by Moroni. You'll just have to take Joseph's word that the plates existed, since you're not allowed to see them. Even if you had, it's written in a language no one else can read, also doesn't exist anywhere else so no one else *could* read it. There's a testimony of three and also eight witnesses, and *they* saw it. Maybe.
+The Book of Mormon was translated from [[The Plates|golden plates]], preserved by Moroni. You'll just have to take Joseph's word that the plates existed, since you're not allowed to see them. Some people were permitted to touch them under a cloth, though! Even if you had seen them, the record is written in a language no contemporaries can read, also doesn't exist anywhere else so no one else *could* read it. There's a testimony of three and also eight witnesses, and *they* saw it. Maybe.
 
 Joseph Smith saw God and Jesus. No one else was there, but it's an event of significant impact and consequence. Despite how world-changing this was, Joseph [[First Vision#Accounts|didn't write it down for 12 years]] (oops 🤪). Definitely happened, though.
 
@@ -68,11 +68,11 @@ Joseph Smith saw God and Jesus. No one else was there, but it's an event of sign
 ### Moving goalposts 
 *If you change the criteria of verifying a claim, anything can be true!*
 
-You want to examine the golden plates containing the original Book of Mormon text? [[The Plates#What happened to the plates?|The plates are gone now]], so you can't do any carbon dating, chemical analysis, linguistic study of this extraordinary language or anthropological examination of the [[Jaredites#How many people died?|only bit of hard evidence]] that might have existed. Also they were written in [reformed Egyptian](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng&id=p32-p33#p32) (which totally exists) and not in Hebrew, which could be cross-examined.
+You want to examine the golden plates containing the original Book of Mormon text? [[The Plates#What happened to the plates?|The plates are gone now]], so you can't do any carbon dating, chemical analysis, linguistic study of this extraordinary language or anthropological examination of the [[Jaredites#How many people died?|only bit of hard evidence]] that might have existed. Also they were written in [reformed Egyptian](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/9?lang=eng&id=p32-p33#p32) (which totally exists) and not in a contemporary language such as Hebrew, which could be cross-examined.
 
 You're upset that the Book of Abraham scrolls don't appear to have [[Book of Abraham|anything to do with Abraham]]? Well, there were other scrolls in the set, and *those* ones were written by Abraham. Or maybe none of it was a direct translation, and the funerary texts for a pedestrian regular guy acted as a catalyst for Joseph to receive the scripture *about Abraham* through revelation. Revealed to be a [[Book of Abraham#Written by whom?|translation written by his own hand]]. It's fine.
 
-The Garden of Eden was in Jackson County Missouri? Well, the garden was geographically small, secretive, and it disappeared to test our faith. No way to prove that it *wasn't* in Missouri, so [[logical-fallacies#Fallacies|it has to be true]]. I could just as easily claim that it was in [Muddy Fork, Arkansas](https://maps.app.goo.gl/Vpz8TyfpN2uigrfP7), and you would have no recourse against me, other than I didn't start a church 200 years ago.
+The [Garden of Eden](https://www.churchofjesuschrist.org/study/ftsoy/2021/10/questions-and-answers/14_adam-ondi-ahman?lang=eng) was in Daviess County Missouri? Well, the garden was geographically small, secretive, and it disappeared to test our faith. No way to prove that it *wasn't* in Missouri, so [[logical-fallacies#Fallacies|it has to be true]]. I could just as easily claim that it was in [Muddy Fork, Arkansas](https://maps.app.goo.gl/Vpz8TyfpN2uigrfP7), and you would have no recourse against me, other than I didn't start a church 200 years ago.
 
 A global flood happened during Noah's prophetic leadership? Well, it wasn't *actually* global, and... uh... counter-evidence is just there to test our faith.
 

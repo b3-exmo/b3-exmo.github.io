@@ -9,6 +9,8 @@ How do we discern between faith and cognitive bias?
 
 There is simply too much information in the world for us to ingest and process in order for us to come to a reliable conclusion. We have no choice but to filter the deluge of data, or else we’d never come to a conclusion on anything. Cognitive biases are ways our brain tries to determine what’s most likely to be useful. Our brains aren’t always good at this, so philosophically-minded folks have categorized some of these filtering methods as cognitive biases.
 
+To me, having a bias does not make someone a bad or ignorant person. Refusing to acknowledge, nor overcome a bias, even if temporarily, is what would make for a bad or ignorant person. I'll have my biases as will you. That is not inherently problematic. However, refusing to change in the face of compelling information is what I would call problematic.
+
 &nbsp;
 
 ## Confirmation bias
@@ -55,7 +57,7 @@ When questioning members are advised to "take your questions to the Lord and to 
 | Current Mormon     | Blessing from God for obedience to baptism covenants. Church is true!              | Life is a test. Reminder to repent and obey. Church is true!                                                    |
 | Former Mormon      | Not real happiness. Forfeited real blessings from God. Church is still true.       | Consequences of disobedience. Wicked will not prosper. Forfeited real blessings from God. Church is still true! |
 
-All of these outcomes lead to the same conclusion that the LDS church is true. It can't be false, there's [[Falsifiability|no fail state]] in these scenarios.
+All of these outcomes lead to the same conclusion that the LDS church is true. It *can't be false*, as there is [[Falsifiability|no fail state]] in these scenarios.
 
 &nbsp;
 
@@ -74,7 +76,7 @@ Before we get much further, let’s also double check [verse 1](https://www.chur
 
 > *Now I, Moroni, write somewhat as seemeth me good; and ==I write unto my brethren, the Lamanites==;*
 
-You, dear reader, in the current year— do you think you qualify as Moroni’s “brethren, the Lamanites”? Or would you fit better in the category shown in [verse 24](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p24#p24)
+You, dear reader, in the current year— do you think that you qualify as Moroni’s “brethren, the Lamanites”? Or would you fit better in the category shown in [verse 24](https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng&id=p24#p24)
 
 > *And now I speak unto all the ends of the earth…*
 
@@ -90,11 +92,11 @@ At face value, I might conclude that verses 1 - 23 are not addressed to you and 
 
 Set yourself up for success. Have a [sincere desire](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/32?lang=eng&id=p27##p27), have "real intent", believing you will receive an answer.
 
->... and if ye shall ask with a sincere heart, with real intent, having faith in Christ ...
+>... *and if ye shall ask with a sincere heart, with real intent, having faith in Christ* ...
 
-Seek belief through prayer. What will the answer be? idk lol, but if praying doesn't give you the "yes it's true" answer, pray again, you did it wrong. 
+Seek belief through prayer. What will the answer be? idk lol, but if praying doesn't give you the "yes it's true" answer, pray again. You did it wrong. 
 
->... he will manifest the truth of it unto you, by the power of the Holy Ghost.
+>... *he will manifest the truth of it unto you, by the power of the Holy Ghost.*
 
 You will receive a confirmation in a nonspecific way. Is it a warm fuzzy feeling? There's your answer. That verifies what you expected to find an answer to. It's true now!
 

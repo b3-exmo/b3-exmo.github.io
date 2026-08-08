@@ -4,7 +4,7 @@ comments: true
 # 🏳‍🌈 LGBTQ+
 I'll be the first to admit that, having spent my teenage years in the mid-2000's, I had *a lot* of internalized homophobia. I'd like to think that I've grown and learned better since those years. Since I grew up [[My own experience#Upbringing|socially isolated and sheltered]], the only source I had for that hateful influence was *The Church of Jesus Christ of Latter-day Saints*.
 
-I will also concede that I don't count myself as being a part of the LGBTQ+ community. I do, however, recognize humans as humans, and sympathize with the denigration and contempt that they experience. My commentary on the LDS church's prejudice will not carry as much weight as a commentary from someone who was the target of that prejudice. I'm absolutely willing to amplify their voices over my own.
+I will also concede that I don't count myself as being a part of the LGBTQ+ community. I do, however, recognize humans as humans, and sympathize with the denigration and contempt that they experience. My commentary on the LDS church's prejudice will not carry as much weight as a commentary from someone who is or was the target of that prejudice. I'm absolutely willing to amplify their voices over my own.
 
 Speaking of...
 
@@ -28,7 +28,7 @@ I've got another page of my own notes on what the modern church's leadership has
 
 &nbsp;
 
-What is the practical application of this ~~doctrine~~ policy? Can we separate the attraction from the action? This would be like asserting:
+What is the practical application of this ~~doctrine~~ [[Doctrine#Policy vs Doctrine|policy]]? Can we separate the attraction from the action? This would be like asserting:
 
 - Hunger isn't a sin, but eating is.
 - Literacy isn't a sin, but reading is.
@@ -115,9 +115,9 @@ One can find numerous compiled lists of "what the bible says about homosexuality
 &nbsp;
 
 ### Social Hierarchy
-This should not come as a surprise to anyone, but when the book of Leviticus was written around 500 BCE, ([1](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-leviticus?lang=eng&id=title4-p3#title4), [2](https://en.wikipedia.org/wiki/Book_of_Leviticus#Composition)) social norms and cultures were very different than they are today in the 21st century.
+This should not come as a surprise to anyone, but the book of Leviticus was written to an audience with vastly different social norms and cultures compared to the 21st century. Looks to me like it was written around 500 BCE, ([1](https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/introduction-to-the-book-of-leviticus?lang=eng&id=title4-p3#title4), [2](https://en.wikipedia.org/wiki/Book_of_Leviticus#Composition))
 
-What we today think of as "sexuality" is not at all how ancient Israelites thought of it. Sex wasn't an activity that two humans engaged in together, it was *done to* a recipient by an initiating agent. Sexual orientation wasn't a social construct, nor a relevant factor until around the 19th century. An agent's chosen recipient was deemed by the recipient's relative standing in a social hierarchy rather than biology. Ancient Southwestern Asia positions free-born citizen men at the top of this social hierarchy. Below them are men who are *not* free-born (slaves, serfs, etc); below them are women. In this culture, sex is "performed" or "done to" someone below the initiating agent, not the other way around. Whoever is "on top" in the social structure is also "on top" en coitus, not the other way around. Any reversal of this order would be a breach of social and cultural boundaries.
+What we today think of as "sexuality" is not at all how ancient Israelites thought of it. Sex wasn't an activity that two humans engaged in together, it was *done to* a recipient by an initiating agent. Sexual orientation wasn't a social construct, nor a relevant factor until around the 19th century. An agent's chosen target was deemed by the recipient's relative standing in a social hierarchy rather than biology. Ancient Southwestern Asia positions free-born citizen men at the top of this social hierarchy. Below them are men who are *not* free-born (slaves, serfs, etc); below them are women. In this culture, sex is "performed" or "done to" someone below the initiating agent, not the other way around. Whoever is "on top" in the social structure is also "on top" en coitus, not the other way around. Any reversal of this order would be a breach of social and cultural boundaries.
 
 How does this context affect the admonition against "a man also lie with mankind, as he lieth with a woman"? Our modern cultural framework sees the biological indicators and roles of men and women, and understandably, we piece together what the equivocated action is. What cultural context tells us is that rather than forbidding same-sex relations outright, this biblical passage is forbidding scorn of the hierarchy.
 
@@ -172,7 +172,7 @@ This sounds like one of those scenarios where mankind would really benefit from 
 
 This is also described in *[Re-examining Lot](https://rsc.byu.edu/vol-14-no-1-2013/reexamining-lot#_noteref-51)*, an article in BYU's *Religious Educator Vol. 14 No. 1 · 2013*.
 
-Oddly enough, when the LDS church has an opportunity to marginalize and discriminate against an out-group, *we can just ignore what the founding prophet of our dispensation has to say*. Sodom & Gomorrah were destroyed because there were gay people in 'em 😤 don't actually check on what Joseph Smith had to say, please
+Oddly enough, when the LDS church has an opportunity to marginalize and discriminate against an out-group, *we can just ignore what the founding prophet of our dispensation has to say*. Sodom & Gomorrah were destroyed because there were gay people in 'em 😤 don't actually check on what [[Joseph Smith|Joseph Smith]] had to say, please
 
 &nbsp;
 
@@ -192,7 +192,7 @@ Pointing to footnotes in the LDS-printed copy of the KJV bible as proof of objec
 
 &nbsp;
 
-Now, before we "um, actually" this teaching and interpret "rejecting the prophets" to *mean* homosexuality, I would encourage you to stand up, approach the nearest mirror, look at the reflection within and ask yourself why you are the way that you are. The *Sodom & Gomorrah* story is in [Genesis 18](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng). How many prophets had there been to teach against it prior to this point in the chronologically earliest text that all of Christianity has to offer? Don't point to books like Leviticus as evidence of prophetic teachings against it, that book hasn't been written yet. Instead, tell me where in the window of Genesis 1 through 17 did God's prophet clearly outline parameters for sexual relationships.
+Now, before we "um, actually" this teaching and interpret "rejecting the prophets" to *mean* homosexuality, I would encourage you to stand up, approach the nearest mirror, look at the reflection within and ask yourself why you are the way that you are. The *Sodom & Gomorrah* story is in [Genesis 18](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/18?lang=eng). How many prophets had there been to teach against homosexuality prior to this point in the chronologically earliest text that all of Christianity has to offer? Don't point to books like Leviticus as evidence of prophetic teachings against it, that book hasn't been written yet. Instead, tell me where in the window of Genesis 1 through 17 did God's prophet clearly outline parameters for sexual relationships.
 
 &nbsp;
 
@@ -207,7 +207,7 @@ Pick any quote from a church leader pertaining to sexual orientation, and imagin
 
 Assuming you count yourself as heterosexual, what if you heard someone at the pulpit express sympathy for your struggle with opposite-sex attraction? Expressing that the leaders "reach out with love and understanding"? Imagine this hypothetical church insisting that anyone outside of their belief system will be denied eternal exaltation... but don't worry, if you don't conform and join now, they'll just convert you after you die!
 
-Really, though. I count myself as straight, and think it would feel very awkward to hear someone tell me that I'm struggling with opposite-sex attraction. I would make the argument that it is not a struggle; I'd say that I'm having a pretty good go of it. So flip the script: someone whose attraction is to the same sex (I imagine) would feel comparably uncomfortable with being told that this natural inclination is unnatural, wrong, and the root cause of all of his or her problems. Take it one step further, telling them that they're *struggling* with it.
+Really, though. I count myself as straight, and think it would feel very awkward to hear someone tell me that I'm struggling with opposite-sex attraction. I would make the argument that it is not a struggle; I'd say that I'm having a pretty good go of it. So flip the script: someone whose attraction is to the same sex (I imagine) would feel similarly uncomfortable with being told that this natural inclination is unnatural, wrong, and the root cause of all of his or her problems. Take it one step further, telling them that they're *struggling* with it.
 
 Imagine being told at a hypothetical church that "you have to be gay like us, or else you'll be condemned for eternity." If that (hypothetical) statement were true, your orientation is not something you can just *change* even under threat of hellfire. You can't make yourself enjoy sexuality. My understanding is that one cannot toggle sexual orientation just by willpower. You can't convince your gay friend to become straight any more effectively than he or she could convince you to become gay. Threats aren't going to change *your* desires, are they? Why would threats work on someone else?
 
@@ -220,7 +220,7 @@ The more we stop and think about it, you might realize that all LGBTQ+ peers you
 &nbsp;
 
 ## What's actually wrong here
-I have yet to find what societal ills are traced back to LGBT folks. What argument do we have against them? Are they causing problems? If so, what are they? Are those problems exclusive to a sexual orientation? Are they problems that could not be just as easily attributed to straight people?
+I have yet to find what specific societal ills are traced back to LGBT folks. What argument do we have against them? Are they causing problems? If so, what are they? Are those problems exclusive to a sexual orientation? Are they problems that could not be just as easily attributed to straight people?
 
 I will now engage in more [[logical-fallacies#Strawman Fallacy|strawman arguments]] based on rationalities that I'd been raised with.
 
@@ -231,7 +231,7 @@ I guess? That sounds like a *slippery slope* fallacy, where points A and B must 
 
 What does this imply about relationships or marriage? That their only purpose and utility is to create kids? Don't you think that's a bit reductive?
 
-What does that argument mean when pointed to heterosexual couples experiencing infertility? Are they just as much of a social scourge? I myself am married and count myself as straight, and don't have any kids. What does that make me?
+What does that argument mean when pointed at heterosexual couples experiencing infertility? Are they just as much of a social scourge? I myself am married and count myself as straight, and don't have any kids. What does that make me?
 
 &nbsp;
 
@@ -248,7 +248,7 @@ I've read in a variety of LDS publications that the Law of Chastity is the same 
 
 Moreover, I can point to lots of talks in General Conference, published pamphlets and booklets all warning specifically against homosexuality. What exactly is a sexual sin that gets comparable scrutiny and condemnation? Have you ever seen or heard of an apostle warn against the evils of *autoerotic self-asphyxiation*? I would call that deviant. There are myriad addresses and lessons condemning the use of porn and masturbation from LDS leadership. At one point in time, the dreaded outcome being warned against is that *porn could turn you gay*.
 
-I'm not about to try and enumerate sexual deviancies and draw comparisons to each, nor try to evaluate or rank them. You can do that on your own time. Don't tell me what you find. My point is that if homosexuality is simply a sexual sin that must be resisted "just like all the other sexual sins," I can observe that homosexuality gets a disproportionate amount of condemnation, scrutiny and attention. It is decisively not treated as if it were any other sexual deviancy.
+I'm not about to try and enumerate sexual deviancies and draw comparisons to each, nor try to evaluate or rank them. You can do that on your own time. (Don't tell me what you find.) My point is that if homosexuality is simply a sexual sin that must be resisted "just like all the other sexual sins," I can observe that homosexuality gets a disproportionate amount of condemnation, scrutiny and attention. It is decisively not treated as if it were any other sexual deviancy.
 
 In fact, the LDS church teaches that sex (between a hetero, married couple) is so good and special that it must only be done with one chosen person who is subjectively special *to you*. ... Unless you're gay, then it's wrong and bad. Gay folks can also respect relationship boundaries and forego anything sexual until after marriage! They are absolutely capable of self-restraint. Also, it seems that "good Christian folk" have to fight against their rights to get married... just cause. If they were allowed to get married, then we couldn't accuse them of being adulterous deviants anymore!
 
@@ -264,7 +264,7 @@ Representing an eternal, unchanging deity and then changing His applicable teach
 &nbsp;
 
 ## What do we do?
-From my perspective, it isn't very complicated. Let people live their life. You don't have to do a damned thing. If the home neighboring yours has a newlywed gay couple move in, you *don't have to do anything* about it. You don't have to wonder what's happening in their bedroom. You don't have to think about whether their romance is legitimate or not. If you spend any amount of time brooding over what your neighbor is doing in their bedroom or if they truly love each other, you really need a different hobby.
+From my perspective, it isn't very complicated. Let people live their life. You don't have to do a damned thing. If the home neighboring yours has a newlywed gay couple move in, you *don't have to do anything* about it. You don't have to wonder what's happening in their bedroom. You don't have to think about whether their romance is legitimate or not. If you do spend any amount of time brooding over what your neighbor is doing in their bedroom or if they truly love each other, you really need a different hobby.
 
 LGBTQ+ includes a wide variety of people, and I've only really written notes on the first two of those letters in the acronym. I imagine much of the same notes here apply to someone coming out as trans, though. *Just let them live their lives*. Don't make life harder for anyone than it already is. Asexuality exists. Intersex exists. Those people are not any less valid than you or me.
 

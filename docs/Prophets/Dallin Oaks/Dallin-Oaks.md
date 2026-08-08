@@ -37,6 +37,15 @@ We also read from Elder Richards in 1947 that smack-talk only makes leaders of t
 
 &nbsp;
 
+### Hinckley
+> *I am not asking that all criticism be silenced. Growth comes of correction. Strength comes of repentance. Wise is the man who can acknowledge mistakes pointed out by others and change his course.*
+
+&mdash; *[The Continuing Pursuit of Truth](https://www.churchofjesuschrist.org/study/ensign/1986/04/the-continuing-pursuit-of-truth?lang=eng&id=p9#p9)*, President Gordon B. Hinckley, First Counselor in the First Presidency; First Presidency Message, Ensign, April 1986
+
+🤷 Just, uh... I guess I'll just leave that there and let it speak for itself.
+
+&nbsp;
+
 ## Apologies
 > *Oaks, a former Utah Supreme Court justice, ==wasn't sure apologizing== for past language on homosexuality ==would be advisable==.*
 >

@@ -20,7 +20,7 @@ Recollecting how often I had heard of Joseph Smith's First Vision story, and ite
 
 The timeline of these accounts is absolutely worth considering. Reportedly, this pivotal event took place in 1820. The LDS church was formally founded in 1830. The earliest documented appearance of this story is 1832. The earliest record of the First Vision being actively propagated is in *1839*. This means that by the time *most* LDS church members will have heard about this critical, foundational event, it will have been *nineteen years* past.
 
-Between 1820 and 1832 (a *twelve year gap*) there is not a single mention of Joseph Smith having witnessed any kind of divine intervention. Between the church's founding and the earliest record of the First Vision is a stint of two years, give or take some months, and the aforementioned record is in Joseph's personal journal. Prior to 1839, scarce citations exist of the First Vision. Anyone joining the church in this *nine year* window of time will not have the context nor even a notion that this church was *[[Restoration|restored]]*, or is in contrast to apostasy. This is reflected in sermons given decades later, when early converts who become figureheads like George Q Cannon, Orson Pratt, even Brigham Young actively try to shut down this *crazy rumor* floating around that God appeared to Brother Joseph. Yes, [[First Vision Contemporaries#Early Church Leaders|I have receipts]] to back up that assertion.
+Between 1820 and 1832 (a *twelve year gap*) there is not a single mention of Joseph Smith having witnessed any kind of divine visitation. Between the church's founding and the earliest record of the First Vision is a stint of two years, give or take some months, and the aforementioned record is in Joseph's personal journal. Prior to 1839, scarce citations exist of the First Vision. Anyone joining the church in this *nine year* window of time will not have the context nor even a notion that this church was *[[Restoration|restored]]*, or is in contrast to apostasy. This is reflected in sermons given decades later, when early converts who become figureheads like George Q Cannon, Orson Pratt, even Brigham Young actively try to shut down this *crazy rumor* floating around that God appeared to Brother Joseph. Yes, [[First Vision Contemporaries#Early Church Leaders|I have receipts]] to back up that assertion.
 
 &nbsp;
 
@@ -147,7 +147,7 @@ Summary:
 
 Something I find suspicious about this account is Joseph's response to the words spoken directly from the mouth of God Himself. God says "this is my beloved son, hear Him," and Joseph's reaction is, and I quote, "No sooner ... did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right... and which I should join."
 
-Just feels out of place to me. God appears and says "listen up! Jesus is talking." and Joseph immediately cuts Him off, "hold on, hooolld up right there, I have questions first!"
+Just feels out of place to me. God appears and says "listen up! Jesus is talking." and Joseph immediately cuts Him off, "hold on, hooolld up right there, **I** have questions first!"
 
 🤔
 

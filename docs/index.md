@@ -22,7 +22,7 @@ For more information on this, I have a page outlining [[My own experience|my exp
 ### Who is this for?
 Primarily for my own catharsis. I don't really have a target audience. Truth be told, this began as an anxiety-driven preemptive response to a hypothetical conversation partner, who might demand that I back up my claims with sources. These notes eventually became a way for me to organize my own thoughts and dispositions. I process information by writing about it, and now I'm making it everyone's problem by publishing those writings.
 
-I don't want my notes to be thought of as a "letter" in the style of *[CES Letter](https://cesletter.org/)* or the *[Light and Truth Letter](https://www.lightandtruthletter.org/)*. My notes are going to change because my understanding of theology is subject to change. For that reason, I don't like the idea of a static publication (such as print or a .pdf) since I won't be able to make adjustments or corrections. Think of these notes as *a publicly available notebook* from a guy you don't personally know. It's not a satisfying answer for a target audience, but that's reality.
+I don't think of this document as a "letter" in the style of *[CES Letter](https://cesletter.org/)* or the *[Light and Truth Letter](https://www.lightandtruthletter.org/)*. The document is partly for my own reference, so it isn't really addressed to a reader. My notes are going to change because my understanding of theology is subject to change. For that reason, I don't like the idea of a static publication (such as print or a .pdf) since I won't be able to make adjustments or corrections. Think of these notes as *a publicly available notebook* from a guy you don't personally know. It's not a satisfying answer for a target audience, but that's reality.
 
 So, I suppose we could say that this is meant for folks in the *Mormonosphere* who are "physically in, mentally out," as I had been at one point in time. If you're interested in finding sources for the not-so-wholesome things the LDS church has been a part of, then I expect you'll find some satisfying content here.
 
@@ -40,7 +40,7 @@ A historical claim that fails to answer these questions is subject to more scrut
 
 There are not many contemporary sources for ancient Greek history. Ancient Greeks have been known to add mythological aspects to their history. Therefore, it should be taken with some healthy skepticism and critical evaluation.
 
-The US civil war has myriad contemporary sources. We can be fairly confident in piecing together what happened, given the abundance of independent sources making the same claims.
+The US civil war has myriad contemporary sources. We can be fairly confident in piecing together what happened and why, given the abundance of independent sources making the same claims.
 
 Some key historical claims made by the LDS church rarely meet these criteria. That does not mean that all of its claims are false, it only necessitates healthy skepticism and critical evaluation.
 
@@ -60,4 +60,4 @@ If I've configured things properly, there's a comment section on each page. If y
 ### Where to start?
 You'll find a column on the left side of this webpage to help navigate how my notes are organized. Pick a topic that interests you. Or, if you don't have a starting point in mind, I'd direct you to notes on [[True|truth]], an overview of the [[Book of Mormon|Book of Mormon]], comments on [[DC 132|D&C Section 132]], whether or not to [[Name Mormon|call someone Mormon]], or how the LDS faith views the [[Bible]].
 
-I've got a [[TODO]] for documents to outline what topics to cover next, along with which documents are slated for additional polish. This is an ongoing work. I mention that not as a shield against criticism, but to advise that if you come back later, a page may have more content or details than when you last read it. Pages might move around. This is all hosted via Github Pages, which [keeps track of changes and additions](https://github.com/b3-exmo/b3-exmo.github.io/commits/main/) over time. It's not quite an approachable changelog, but you're welcome to examine how the notes have developed over time.
+This is an ongoing work. I mention that not as a shield against criticism, but to advise that if you come back later, a page may have more content or details than when you last read it. Pages might move around. This is all hosted via Github Pages, which [keeps track of changes and additions](https://github.com/b3-exmo/b3-exmo.github.io/commits/main/) over time. It's not quite an approachable changelog, but you're welcome to examine how the notes have developed over time.

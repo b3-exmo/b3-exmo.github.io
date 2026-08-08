@@ -2,7 +2,7 @@
 comments: true
 ---
 # 🍻 Word of Wisdom
-The Word of Wisdom is an odd bit of [[Name Mormon|Mormon]] culture, doctrine, and lore. It's among the more visible demarcations of who is a practicing member of the LDS church, which is both an advantage and disadvantage; in my days of practicing Mormonism, the vitriolic repulsion by coffee was something to start conversations, which are a missionary opportunity to evangelize. The social dynamics of such a conversation never really panned out the way we had been hyped for on Sundays, at least in my own experience.
+The Word of Wisdom (found in *[D&C 89](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89)*) is an odd bit of [[Name Mormon|Mormon]] culture, doctrine, and lore. It's among the more visible demarcations of who is a practicing member of the LDS church, which is both an advantage and disadvantage; in my days of practicing Mormonism, the vitriolic repulsion by coffee was something to start conversations, which are a missionary opportunity to evangelize. The social dynamics of such a conversation never really panned out the way we had been hyped for on Sundays, at least in my own experience.
 
 Imagine this: a peer or coworker expresses strong distaste for any food item that qualifies as a *sandwich*, and expects you to rationalize why you would willingly, knowingly eat such a garbage consumable. When you ask why he or she reacts so strongly to something so mundane, they might reply that they know *the truth*™ as revealed by their religious leaders 200 years prior. Knowing that, would you like to join?
 
@@ -54,7 +54,7 @@ I mean, by Middle-Earth logic, would this mean that wine and strong drinks are s
 
 &nbsp;
 
-To be fair, this seems to be saying that homemade wine is acceptable only in the context of sacrament services. It isn't what I had been raised to believe, that alcohol should never be ingested by any human under any circumstance. Unless it's Nyquil or vanilla extract.
+To be fair, this seems to be saying that homemade wine is acceptable only in the context of sacrament services. It isn't what I had been raised to believe, that alcohol should never be ingested by any human under any circumstance... unless it's Nyquil or vanilla extract.
 
 &nbsp;
 
@@ -188,7 +188,7 @@ The Lord's Law of Health ostensibly outlines more than dietary recommendations.
 
 &nbsp;
 
-If we're going to frame the Word of Wisdom as divine inspiration for general health, prolonging life & longevity... Can you imagine if God had revealed germ theory *decades* before [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) or [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) researched it?
+If we're going to frame the Word of Wisdom as divine inspiration for general health, prolonging life & longevity... Can you imagine if God had revealed germ theory to the Saints *decades* before [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) or [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) researched it?
 
 Imagine if God had revealed how to sanitize and purify water, rather than calling contemporary health advice divinely appointed. Imagine what impact that would have had on other pioneers and frontiersmen! Trail guides wouldn't return to the Missouri River talking about those religious recluses out west, they'd come back and say "they've got no cholera or malaria! Get this, their prophet of God said that if you *boil* the water first, it doesn't make you sick! *And they're right*!" Mormonism would have a reputation for scientific progress and divine inspiration, rather than being "those weirdo [[Polygamy|polygamists]]."
 
@@ -234,7 +234,9 @@ I've got more to say on the timeline of the Word of Wisdom [[WoW Changes#Became 
 
 — *[D&C 89:18-21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p18-p21#p18)*
 
-19th century revelations pertaining to health sure seemed a lot more bold than "[[Nelson-vs-Covid#Vitamins|eat your vitamin pills]]!" Who said anything about a destroying angel? Where do we draw the line? If I eat a ribeye steak more than twice a month, I'm going to have a destroying angel slay me? Why was the destroying angel involved in the first place? If I order a matcha latte from Starbucks, I'll get murdered? Who else but God would command, influence, or direct this destroying angel? What the hell, God?
+19th century revelations pertaining to health sure seemed a lot more bold than "[[Nelson-vs-Covid#Vitamins|eat your vitamin pills]]!" 
+
+And... hold on, what's this about a destroying angel? If I eat a ribeye steak more than twice a month, I'm going to have a destroying angel slay me? Why was the destroying angel involved in the first place? If I order a matcha latte from Starbucks, I'll get murdered? Who else but God would command, influence, or direct this destroying angel? What the hell, God?
 
 This *Word of Wisdom*, presented as "here's some friendly advice for a fulfilling life" takes a really sharp turn at the end: "do what I say and I won't kill you~ 🥰"
 
@@ -243,7 +245,7 @@ This *Word of Wisdom*, presented as "here's some friendly advice for a fulfillin
 ### Running
 > *And shall run and not be weary, and shall walk and not faint.*
 
-&mdash; [D&C 80:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p20&lang=eng#p20) warrants some scrutiny. Of the four listed blessings associated with adhering to the Word of Wisdom, being promised stamina to run and walk seems the easiest to quantify. Should I then expect to see triathlon participants disproportionately consist of Mormons? Based on what I'm reading, if we avoid tea and become vegetarian, we should be ready for a marathon, right? Or a 5k run at minimum... right?
+This passage in [D&C 80:20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?id=p20&lang=eng#p20) warrants some scrutiny. Of the four listed blessings associated with adhering to the Word of Wisdom, being promised stamina to run and walk seems the easiest to quantify, or at least demonstrate. Should I then expect to see triathlon participants disproportionately consist of Mormons? Based on what I'm reading, if we avoid tea and become vegetarian, we should be ready for a marathon, right? Or a 5k run at minimum... right?
 
 I remember when I was in my early-to-mid-twenties, I got into running as an exercise & hobby. This being well before I ever tried coffee, I remember slowly building up the stamina to run five kilometers, taking a breather two or three times throughout. I also remember when I would struggle to keep pushing forward, I would assure myself how much worse this experience would be if I hadn't been following the Word of Wisdom. It made me wonder "how would anyone get into this hobby if they had coffee every day? They'd never break one mile! If I'm feeling this weary while following God's guidance, imagine how awful this would be for the rest of the world!" 
 
@@ -290,8 +292,8 @@ How does this pan out in practice today?
 
 - This actually *is* a commandment
 - Alcohol is bad in any volume
-- When we say "hot drinks" we don't mean temperature, we just mean tea & coffee. Iced decaf isn't permissible.
-- Thanks to the industrial revolution and foreign imports, famines are no longer a relevant factor in diet choice; meat is fine all year round
+- When we say "hot drinks" we don't mean temperature, we just mean tea & coffee
+- Famines are no longer a relevant factor in diet choice; meat is fine all year round
 - God hasn't killed me yet 😤
 
 &nbsp;
@@ -305,7 +307,7 @@ This ~~advice~~ commandment is a metric for temple-worthiness. If the Lord's Law
 
 If D&C 89 were a complete document, it would contain more useful information. If adherents would like to rationalize that it's "[a principle with promise](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/89?lang=eng&id=p3#p3)," therefore should not be exhaustive, I would retort that clearly there are temple attendees who are not following the principle of the commandment.
 
-Were this commandment useful in any applicable context, I would expect to see a statistically significant disparity between rates of, say, type 2 diabetes among practicing Mormons and the rest of the world. I should also expect to *not* see 4XL temple clothing or garments available for purchase. If God's commandment pertaining to bodily health had practical effects, no adherent should need such voluminous clothing. I see a remarkable discrepancy in that these sizes of [[Garments|temple garments]] exist to accommodate those who do not appear to be following the Lord's Law of Health. Either the commandment is not sufficient, or we can skirt by the rules and rationalize that it isn't actually a commandment. Neither is a satisfying explanation.
+Were this commandment useful in any applicable context, I would expect to see a statistically significant disparity between rates of, say, type 2 diabetes among practicing Mormons and the rest of the world. I should also expect to *not* see 4XL temple clothing or garments available for purchase. If God's commandment pertaining to bodily health had practical effects, no adherent should need such voluminous clothing... barring some medical complication that I'm not cognizant of. I see a remarkable discrepancy in that these sizes of [[Garments|temple garments]] exist to accommodate those who do not appear to be following the Lord's Law of Health. Either the commandment is not sufficient, or we can skirt by the rules and rationalize that it isn't actually a commandment. To me, neither is a satisfying explanation.
 
 Instead, we can feel assured that the dirty apostate heathens who both drink coffee *and* run marathons are forbidden from the temple because they don't follow the Lord's Law of Health (which isn't *actually* a commandment.)
 

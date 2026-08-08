@@ -17,7 +17,7 @@ You felt *[[Emotional Thinking#Elevation Emotion|elevation emotion]]* hearing Gr
 ## What is sacred?
 Sacred is analogous / similar to holy, or divine. Not to be mocked or belittled, demanding or deserving of respect and reverence. When I held LDS beliefs to be sacred, I would find myself so emotionally attached to the ideas that I would use this rationale that whatever audience would hear them simply wouldn't understand or appreciate them. Whenever I hear of an LDS practitioner refuse to elaborate on something because it's "too sacred to share," I am left to assume they use the same rationale that I did while in that same mindset: "I don't want to talk about it," or more likely, "I don't trust you with that information."
 
-The topic within Mormonism that I find associated with this defense most often is that of temple ceremonies. When met with blank, confused stares, one might elaborate that those ceremonies are "sacred, not secret." A prime example of this is demonstrated in my notes on [[Garments|garments]].
+The topic within Mormonism that I most often find associated with this defense of "too sacred to talk about" is that of temple ceremonies. When met with blank, confused stares, a believing member might elaborate that those ceremonies are "sacred, not secret." Another example of this is demonstrated in my notes on [[Garments|garments]].
 
 To me, this raises the question if there is a precedent for this kind of aversion to disclosure. Did Jesus in the New Testament advise people that "there's another aspect to your salvation, but I don't trust you to know what it is"? 
 
@@ -47,20 +47,25 @@ Imagine if the Book of Mormon, Another testament of Jesus Christ, took this appr
 
 Maybe I'm just a miserable grump, too far displaced from the Light of Christ™ to appreciate sanctity. If that is the case, then I will make an earnest effort to find an explanation when withholding a testimony is appropriate.
 
+If you sense that a conversation partner is only going to mock or deride your beliefs... then you're met with another decision to evaluate:
+
+1. Expose your beliefs to the scorn of others
+2. Introspect why you are talking to someone who would be so disrespectful
+3. Consider that their criticism holds merit and perhaps your beliefs aren't as rock-solid as you had assessed
+
+&nbsp;
+
 An emotionally sensitive topic does require a certain "vibe" for lack of a better word. If the context of a hypothetical conversation is that of derision, then no, testifying of Christ may not be suitable. If someone sustained as an Apostle of Christ addresses a congregation who gathered to hear someone with that title, then yes, sharing a sacred experience is appropriate.
 
 &nbsp;
 
 ## Extrapolating
-Leading up to [[My own experience#Temple Prep|my experience entering the temple]], I had been advised that the ceremonies are too sacred to talk about outside of the temple. This was used to hype up how great and awe-inspiring it would be. I can look back on how disappointing and bewildering the experience was, and I can see a pattern.
+Leading up to [[My own experience#Temple Prep|my experience entering the temple]], I had been advised that the ceremonies are too sacred to talk about outside of the temple. This was used to hype up how great and awe-inspiring it would be. I can look back on how disappointing and bewildering the experience was, and I can see a pattern:
 
-We mustn't talk about our [patriarchal blessings](https://www.fullerconsideration.com/PatriarchalBlessingRevelator/), or else people will realize how similar they are, making them meaningless.
-
-Don't talk about the time God spoke to you, since God only speaks to prophets, and we can't have regular folk claiming that kind of access in Sacrament Meeting.
-
-Don't talk about the temple ceremonies, or else people will start to realize how cult-like it is, and how it's deliberately plagiarized.
-
-Don't talk about the second anointing, people might question just how holy the recipient must be if they do anything "wrong."
+- We mustn't talk about our [patriarchal blessings](https://www.fullerconsideration.com/PatriarchalBlessingRevelator/), or else people will realize how similar they are, making them meaningless.
+- Don't talk about the time God spoke to you, since God only speaks to prophets, and we can't have regular folk claiming that kind of access in Sacrament Meeting.
+- Don't talk about the temple ceremonies, or else people will start to realize how cult-like it is, and how it's deliberately plagiarized.
+- Don't talk about the second anointing, people might question just how holy the recipient must be if they do anything "wrong."
 
 &nbsp;
 
