@@ -217,7 +217,7 @@ So... Somehow, we've interpreted a scriptural verse in the standard works, expli
 
 &nbsp;
 
-God can do whatever He wants, I guess&mdash;He hasn't really asked me if things make sense before enacting them. Instead, God "[revealeth](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7) his secret unto his servants the prophets" and I just need to take those prophets' words at face value. Sure, maybe they *could* be just making things up, but I once had a warm fuzzy feeling in my tummy, so that means God revealed a non-commandment based on temperance-era healthvtrends that would later *become* a commandment. Yes, an iced latte is a hot drink. Don't think about it.
+God can do whatever He wants, I guess&mdash;He hasn't really asked me if things make sense before enacting them. Instead, God "[revealeth](https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng&id=p7#p7) his secret unto his servants the prophets" and I just need to take those prophets' words at face value. Sure, maybe they *could* be just making things up, but I once had a warm fuzzy feeling in my tummy, so that means God revealed a non-commandment based on temperance-era health trends that would later *become* a commandment. Yes, an iced latte is a hot drink. Don't think about it.
 
 I've got more to say on the timeline of the Word of Wisdom [[WoW Changes#Became a Commandment|becoming a commandment]], but it grew lengthy enough to fit better on another page of notes.
 

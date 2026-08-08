@@ -103,7 +103,7 @@ nav:
     - 🥓 Curated Information: Culture/Curated Sources.md
     - 😨 Don't leave!: Culture/Dont-leave.md
     - 💔 God's Conditional Love: Culture/Gods Conditional Love.md
-    - 🤕 Imperfect Leaders: Culture/imperfect-leaders.md
+    - 🤕 Imperfect Leaders: Culture/Perfection/imperfect-leaders.md
     - ☝️🤓 Name "Mormon": Culture/Name Mormon.md
     - 👑 Privilege: Culture/Privilege.md
     - ✔️ Scrupulosity: Culture/Scrupulosity.md
@@ -194,7 +194,6 @@ nav:
       - 📃 SEC Order: Tithing/SEC/SEC Order.md
       - 🗣 WSJ Interview: Tithing/SEC/WSJ Interview.md
   - 🔗 Sources & More Material: Sources and Links.md
-  - 🗒️ TODO: TODO.md
 
 extra:
   analytics:
